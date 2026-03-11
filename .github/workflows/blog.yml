@@ -2,13 +2,24 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'   # runs every hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
-    name: Update README
     runs-on: ubuntu-latest
+
     steps:
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README with latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           feed_list: "https://dev.to/feed/"
+          readme_file_path: README.md
+          post_limit: 5
