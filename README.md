@@ -103,18 +103,16 @@ Technologies
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rbn-Rmn&show_icons=true&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rbn-Rmn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbn-Rmn&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbn-Rmn&layout=compact&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
-
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Rbn-Rmn&theme=tokyonight"/>
 </p>
