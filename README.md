@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Most AI Infrastructure Fails in Production](https://dev.to/dgopalan/why-most-ai-infrastructure-fails-in-production-4bde)
-- [Welcome to Container Harbour! 🚢 Ep.15](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep15-1p4c)
-- [Welcome to Container Harbour! 🚢 Ep.14](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep14-24fj)
-- [Welcome to Container Harbour! 🚢 Ep.13](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep13-36hj)
-- [Welcome to Container Harbour! 🚢 Ep.12](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep12-1cm0)
+- [What Google DeepMind Gets Right About Agent Delegation — And What SatGate Already Built](https://dev.to/mattdeangit/what-google-deepmind-gets-right-about-agent-delegation-and-what-satgate-already-built-3e0a)
+- [Give Your AI a Place for Its Visual Output](https://dev.to/dylanfeltus/give-your-ai-a-place-for-its-visual-output-280m)
+- [Middleware στο ASP.NET Core &lpar;C#&rpar;](https://dev.to/__b63657/middleware-sto-aspnet-core-c-55b9)
+- [Bear UI v1.1.4: 22+ New Components, LOC Badges, and a Better Docs Experience](https://dev.to/john_yaghobieh_8f294091f6/bear-ui-v114-22-new-components-loc-badges-and-a-better-docs-experience-2545)
+- [Something about complexity, simplicity, and hope.](https://dev.to/bwtgarden/something-about-complexity-simplicity-and-hope-1i6m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
