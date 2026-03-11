@@ -144,7 +144,7 @@ Technologies
 dwnsultan@gmail.com  
 
 💼 LinkedIn  
-linkedin.com/in/dewansultan  
+[linkedin.com/in/dewansultan](https://www.linkedin.com/in/dewansultan/)  
 
 💻 GitHub  
 https://github.com/Rbn-Rmn
