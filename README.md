@@ -132,6 +132,8 @@ Technologies
 </p>
 
 ---
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
 
