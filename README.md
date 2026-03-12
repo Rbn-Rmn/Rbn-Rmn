@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Rebuilding domenicotenace.dev: How Pure Astro and CSS Reminded Me That Simple Is Better 🌟](https://dev.to/playfulprogramming/rebuilding-domenicotenacedev-how-pure-astro-and-css-reminded-me-that-simple-is-better-2gpe)
-- [From Curiosity to Contribution: My Journey with OWASP BLT and the Road to GSoC 2026](https://dev.to/swaparup36/from-curiosity-to-contribution-my-journey-with-owasp-blt-and-the-road-to-gsoc-2026-1017)
-- [Reproducibility of Analytical Decisions: Introducing a Deterministic Analytical Runtime](https://dev.to/panorama_engine/reproducibility-of-analytical-decisions-introducing-a-deterministic-analytical-runtime-3nn0)
-- [AI Agents That Actually Work, Building Reliable UI Automation with Amazon Nova Act](https://dev.to/andrewbaisden/ai-agents-that-actually-work-building-reliable-ui-automation-with-amazon-nova-act-390o)
-- [I Ran My First Real Agile Sprint and Shipped to Production Every Day for 5 Days](https://dev.to/odoworitse_afari_1cbfd3f4/i-ran-my-first-real-agile-sprint-and-shipped-to-production-every-day-for-5-days-2d3i)
+- [UQL v0.3: the first TypeScript ORM with native Vector Search](https://dev.to/sonemonu/uql-v03-the-first-typescript-orm-with-native-vector-search-2hac)
+- [How I Cut My AI Medical Report Cost from $18 to $7 — And What I Learned Comparing Two Multi-Agent Architectures](https://dev.to/aws-builders/how-i-cut-my-ai-medical-report-cost-from-18-to-7-and-what-i-learned-comparing-two-multi-agent-3ja6)
+- [We Benchmarked Claude&#39;s Code Review Tool. Here&#39;s What the Data Shows.](https://dev.to/nnennandukwe/we-benchmarked-claudes-code-review-tool-heres-what-the-data-shows-35b9)
+- [An Update on How We Judge DEV Challenges](https://dev.to/devteam/an-update-on-how-we-judge-dev-challenges-34eg)
+- [Building a Deterministic Control Panel for Embedded Devices &lpar;Offline, No Frameworks&rpar;](https://dev.to/prince_david_0acefdad7bcd/building-a-deterministic-control-panel-for-embedded-devices-offline-no-frameworks-425i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
