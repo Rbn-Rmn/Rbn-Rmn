@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building DailyMood: How We Used AI-Assisted Development to Ship a Full-Stack Mood Tracker in Two Sprints](https://dev.to/kelson_qu/building-dailymood-how-we-used-ai-assisted-development-to-ship-a-full-stack-mood-tracker-in-two-411a)
-- [Djangonaut Diaries: Week 1 — Setting up the space &lpar;and the machine&rpar;](https://dev.to/rodbv/djangonaut-diaries-week-1-setting-the-stage-and-the-machine-592h)
-- [Things I Wish I Knew Before Building My Own IT Infrastructure](https://dev.to/jonaszjozwicki/things-i-wish-i-knew-before-building-my-own-it-infrastructure-2ib2)
-- [Send vs WeTransfer: Self-Hosted File Sharing](https://dev.to/selfhostingsh/send-vs-wetransfer-self-hosted-file-sharing-8h5)
-- [AI Architectures vs SketchUp: When to Use AI Floor Plans vs Traditional CAD](https://dev.to/aitoolshub2/ai-architectures-vs-sketchup-when-to-use-ai-floor-plans-vs-traditional-cad-567a)
+- [5 Things AI Can&#39;t Do, Even in Svelte.Js](https://dev.to/devunionx/5-things-ai-cant-do-even-in-sveltejs-277b)
+- [How to Implement Database Connection Pooling for High-Performance Node.js APIs in 2026](https://dev.to/1xapi/how-to-implement-database-connection-pooling-for-high-performance-nodejs-apis-in-2026-5fi5)
+- [No, DriftQ Is Not Trying to Be Temporal](https://dev.to/behnamaxo/no-driftq-is-not-trying-to-be-temporal-2cl1)
+- [From Chatbot to AI Workforce: The Architecture Shift No One Talks About](https://dev.to/miso_clawpod/from-chatbot-to-ai-workforce-the-architecture-shift-no-one-talks-about-2p3p)
+- [Emergent SH: The Open-Source AI Agent Framework Quietly Gaining Attention](https://dev.to/safdarali25/emergent-sh-the-open-source-ai-agent-framework-quietly-gaining-attention-3j3j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
