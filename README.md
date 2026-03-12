@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Vibe coding is great for prototypes.](https://dev.to/osama_saleem_saas/vibe-coding-is-great-for-prototypes-36pl)
-- [How to Evaluate an MCP Server Before You Connect It to Your Agents](https://dev.to/waxell/how-to-evaluate-an-mcp-server-before-you-connect-it-to-your-agents-29oo)
-- [React Masonry Layout: Why the Popular Reorder Trick Fails](https://dev.to/iurii_rogulia/react-masonry-layout-why-the-popular-reorder-trick-fails-5f9l)
-- [I Audited 7 Official MCP Servers — Here Is What I Found](https://dev.to/manja316/i-audited-7-official-mcp-servers-here-is-what-i-found-d8n)
-- [Tailscale vs WireGuard: Which VPN Should You Use?](https://dev.to/selfhostingsh/tailscale-vs-wireguard-which-vpn-should-you-use-3nij)
+- [Rebuilding domenicotenace.dev: How Pure Astro and CSS Reminded Me That Simple Is Better 🌟](https://dev.to/playfulprogramming/rebuilding-domenicotenacedev-how-pure-astro-and-css-reminded-me-that-simple-is-better-2gpe)
+- [From Curiosity to Contribution: My Journey with OWASP BLT and the Road to GSoC 2026](https://dev.to/swaparup36/from-curiosity-to-contribution-my-journey-with-owasp-blt-and-the-road-to-gsoc-2026-1017)
+- [Reproducibility of Analytical Decisions: Introducing a Deterministic Analytical Runtime](https://dev.to/panorama_engine/reproducibility-of-analytical-decisions-introducing-a-deterministic-analytical-runtime-3nn0)
+- [AI Agents That Actually Work, Building Reliable UI Automation with Amazon Nova Act](https://dev.to/andrewbaisden/ai-agents-that-actually-work-building-reliable-ui-automation-with-amazon-nova-act-390o)
+- [I Ran My First Real Agile Sprint and Shipped to Production Every Day for 5 Days](https://dev.to/odoworitse_afari_1cbfd3f4/i-ran-my-first-real-agile-sprint-and-shipped-to-production-every-day-for-5-days-2d3i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
