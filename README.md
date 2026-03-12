@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Build a DVR for AI Agents: Episode Replay UI That Actually Works](https://dev.to/json_shotwell/build-a-dvr-for-ai-agents-episode-replay-ui-that-actually-works-ma8)
-- [When Proxies Become the Attack Vectors in Web Architectures](https://dev.to/praetorian_guard/when-proxies-become-the-attack-vectors-in-web-architectures-65c)
-- [ESLint can&#39;t catch this: 5 failure modes unique to AI-generated code &lpar;and how I detect them in CI&rpar;](https://dev.to/raye_deng_622ab98e19a2147/eslint-cant-catch-this-5-failure-modes-unique-to-ai-generated-code-and-how-i-detect-them-in-ci-hl)
-- [How to Automate OpenClaw Backup and Optimization with GitHub](https://dev.to/cristiantalasanchez/how-to-automate-openclaw-backup-and-optimization-with-github-1bh9)
-- [🚀 I built a beta social app called Vartalabh &lpar;React Native + Appwrite&rpar;](https://dev.to/idcare19/i-built-a-beta-social-app-called-vartalabh-react-native-appwrite-g06)
+- [Vibe coding is great for prototypes.](https://dev.to/osama_saleem_saas/vibe-coding-is-great-for-prototypes-36pl)
+- [How to Evaluate an MCP Server Before You Connect It to Your Agents](https://dev.to/waxell/how-to-evaluate-an-mcp-server-before-you-connect-it-to-your-agents-29oo)
+- [React Masonry Layout: Why the Popular Reorder Trick Fails](https://dev.to/iurii_rogulia/react-masonry-layout-why-the-popular-reorder-trick-fails-5f9l)
+- [I Audited 7 Official MCP Servers — Here Is What I Found](https://dev.to/manja316/i-audited-7-official-mcp-servers-here-is-what-i-found-d8n)
+- [Tailscale vs WireGuard: Which VPN Should You Use?](https://dev.to/selfhostingsh/tailscale-vs-wireguard-which-vpn-should-you-use-3nij)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
