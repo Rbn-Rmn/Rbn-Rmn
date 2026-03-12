@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Send GET and POST Requests in Postman?](https://dev.to/theodoresummer/how-to-send-get-and-post-requests-in-postman-38d5)
-- [Frontend interview questions you&#39;ll actually get in 2026](https://dev.to/bishoy_bishai/frontend-interview-questions-youll-actually-get-in-2026-1gon)
-- [Learning Python Was a Life-Changing Experience](https://dev.to/mennylevinski/learning-python-was-a-life-changing-experience-18ac)
-- [Fear of AI made me create my own product](https://dev.to/misterion96/fear-of-ai-made-me-create-my-own-product-47gh)
-- [My First Public Project on Python](https://dev.to/pydev69/my-first-public-project-on-python-29ob)
+- [Git Worktrees for Parallel Development — Simplified with WorktreeWise](https://dev.to/medamine_/git-worktrees-for-parallel-development-simplified-with-worktreewise-38bb)
+- [How to build a blazing fast EU VAT Validation Rule in Laravel 🚀](https://dev.to/quicreatdev/how-to-build-a-blazing-fast-eu-vat-validation-rule-in-laravel-4nji)
+- [Fixing Hotspots and Coverage Gaps in One Shot with lumitrace](https://dev.to/ko1/fixing-hotspots-and-coverage-gaps-in-one-shot-with-lumitrace-58ll)
+- [How to Setup Tailwind CSS v4 &amp; shadcn/ui in AdonisJS v7 &lpar;React + Inertia&rpar;](https://dev.to/ahsanabrar/how-to-add-tailwind-css-shadcnui-in-adonisjs-v7-with-reactjs-inertiajs-3a9i)
+- [OAuth in Voiden](https://dev.to/dhruv2038/oauth-in-voiden-7ck)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
