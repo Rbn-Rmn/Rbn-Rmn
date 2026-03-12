@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [UQL v0.3: the first TypeScript ORM with native Vector Search](https://dev.to/sonemonu/uql-v03-the-first-typescript-orm-with-native-vector-search-2hac)
-- [How I Cut My AI Medical Report Cost from $18 to $7 — And What I Learned Comparing Two Multi-Agent Architectures](https://dev.to/aws-builders/how-i-cut-my-ai-medical-report-cost-from-18-to-7-and-what-i-learned-comparing-two-multi-agent-3ja6)
-- [We Benchmarked Claude&#39;s Code Review Tool. Here&#39;s What the Data Shows.](https://dev.to/nnennandukwe/we-benchmarked-claudes-code-review-tool-heres-what-the-data-shows-35b9)
-- [An Update on How We Judge DEV Challenges](https://dev.to/devteam/an-update-on-how-we-judge-dev-challenges-34eg)
-- [Building a Deterministic Control Panel for Embedded Devices &lpar;Offline, No Frameworks&rpar;](https://dev.to/prince_david_0acefdad7bcd/building-a-deterministic-control-panel-for-embedded-devices-offline-no-frameworks-425i)
+- [The X-Axis of Data: How BigQuery Models the Customer Dimension for Agentic AI Decisions](https://dev.to/ramavala/the-x-axis-of-data-how-bigquery-models-the-customer-dimension-for-agentic-ai-decisions-16jh)
+- [Learning language platforms](https://dev.to/moraa_oo_b141544e9be30688/learning-language-platforms-4glc)
+- [Why Your Interview Prep Is Broken &lpar;And What AI Gets Wrong About It&rpar;](https://dev.to/coach4life/why-your-interview-prep-is-broken-and-what-ai-gets-wrong-about-it-3onf)
+- [Build a Creator Discovery Engine with Node.js and SociaVault](https://dev.to/olams/build-a-creator-discovery-engine-with-nodejs-and-sociavault-4175)
+- [Convert Images to SVG in Python Using vtracer 🚀](https://dev.to/ramya_thirunavukkarasu_0a/convert-images-to-svg-in-python-using-vtracer-ide)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
