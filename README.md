@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Git Worktrees for Parallel Development — Simplified with WorktreeWise](https://dev.to/medamine_/git-worktrees-for-parallel-development-simplified-with-worktreewise-38bb)
-- [How to build a blazing fast EU VAT Validation Rule in Laravel 🚀](https://dev.to/quicreatdev/how-to-build-a-blazing-fast-eu-vat-validation-rule-in-laravel-4nji)
-- [Fixing Hotspots and Coverage Gaps in One Shot with lumitrace](https://dev.to/ko1/fixing-hotspots-and-coverage-gaps-in-one-shot-with-lumitrace-58ll)
-- [How to Setup Tailwind CSS v4 &amp; shadcn/ui in AdonisJS v7 &lpar;React + Inertia&rpar;](https://dev.to/ahsanabrar/how-to-add-tailwind-css-shadcnui-in-adonisjs-v7-with-reactjs-inertiajs-3a9i)
-- [OAuth in Voiden](https://dev.to/dhruv2038/oauth-in-voiden-7ck)
+- [30 Cybersecurity Statistics You Must Know in 2026](https://dev.to/gitprotect/30-cybersecurity-statistics-you-must-know-in-2026-312b)
+- [# When Our AI Flood Prediction System Broke Because of Bad Data — and How We Fixed It 🌧️🛡️](https://dev.to/tanisha_saxena_6ee4977663/-when-our-ai-flood-prediction-system-broke-because-of-bad-data-and-how-we-fixed-it-30on)
+- [Small Habit That Made Me a Better Developer](https://dev.to/micro-chel/small-habit-that-made-me-a-better-developer-3176)
+- [Launch Darkly&#39;s Pricing Shift: Mitigating Cost Increases for Existing Customers Through Strategic Alternatives](https://dev.to/maricode/launch-darklys-pricing-shift-mitigating-cost-increases-for-existing-customers-through-strategic-1604)
+- [Taiga vs Vikunja: Self-Hosted Project Management](https://dev.to/selfhostingsh/taiga-vs-vikunja-self-hosted-project-management-27im)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
