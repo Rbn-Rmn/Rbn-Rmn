@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Schools Are Split on AI: Bans vs. Literacy Programs](https://dev.to/derivinate/schools-are-split-on-ai-bans-vs-literacy-programs-23da)
-- [Building a Multi-Model AI Agent: Automatic Fallback When Your Primary LLM Refuses](https://dev.to/nathanhamlett/building-a-multi-model-ai-agent-automatic-fallback-when-your-primary-llm-refuses-45hg)
-- [AI Just Made Wildlife Monitoring Scalable—Here&#39;s How](https://dev.to/derivinate/ai-just-made-wildlife-monitoring-scalable-heres-how-2201)
-- [I Built a Project-Based Job Scheduler for Developers](https://dev.to/geoffery_koranteng_177358/i-built-a-project-based-job-scheduler-for-developers-o5m)
-- [POO Além do Código #1: Abstração &lpar;O Arquiteto de Soluções&rpar;](https://dev.to/bruno_freschi/poo-alem-do-codigo-1-abstracao-o-arquiteto-de-solucoes-500m)
+- [Why Your RAG System Needs a Graph Database &lpar;Not Just Vectors&rpar;](https://dev.to/nathanhamlett/why-your-rag-system-needs-a-graph-database-not-just-vectors-52i3)
+- [Building Conversational AI: Memory Patterns, Context Management, and Conversation Design](https://dev.to/bspann/building-conversational-ai-memory-patterns-context-management-and-conversation-design-2i58)
+- [Reliable AI Outputs: Function Calling, JSON Mode, and Structured Generation in C#](https://dev.to/bspann/reliable-ai-outputs-function-calling-json-mode-and-structured-generation-in-c-2m87)
+- [I was spending an hour every week on spreadsheets to figure out if my apps were profitable - so I automated it](https://dev.to/domingo56/i-was-spending-an-hour-every-week-on-spreadsheets-to-figure-out-if-my-apps-were-profitable-so-i-2l4)
+- [95% of Nostr Relays Can&#39;t Cover Costs. Here&#39;s Why That Matters.](https://dev.to/jonathan_greenallidoizc/95-of-nostr-relays-cant-cover-costs-heres-why-that-matters-189l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
