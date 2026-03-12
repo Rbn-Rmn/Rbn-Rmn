@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [5 Things AI Can&#39;t Do, Even in Svelte.Js](https://dev.to/devunionx/5-things-ai-cant-do-even-in-sveltejs-277b)
-- [How to Implement Database Connection Pooling for High-Performance Node.js APIs in 2026](https://dev.to/1xapi/how-to-implement-database-connection-pooling-for-high-performance-nodejs-apis-in-2026-5fi5)
-- [No, DriftQ Is Not Trying to Be Temporal](https://dev.to/behnamaxo/no-driftq-is-not-trying-to-be-temporal-2cl1)
-- [From Chatbot to AI Workforce: The Architecture Shift No One Talks About](https://dev.to/miso_clawpod/from-chatbot-to-ai-workforce-the-architecture-shift-no-one-talks-about-2p3p)
-- [Emergent SH: The Open-Source AI Agent Framework Quietly Gaining Attention](https://dev.to/safdarali25/emergent-sh-the-open-source-ai-agent-framework-quietly-gaining-attention-3j3j)
+- [The Rain Doesn&#39;t Care About His EMI](https://dev.to/anusha_selvam/the-rain-doesnt-care-about-his-emi-4hcl)
+- [How I Built a Multimodal AI Virtual Stager with the Gemini API and Cloud Run](https://dev.to/corporeal/how-i-built-a-multimodal-ai-virtual-stager-with-the-gemini-api-and-cloud-run-1cjg)
+- [Web App Manifest Creating an Immersive PWA Experience](https://dev.to/tianyaschool/web-app-manifest-creating-an-immersive-pwa-experience-1lb4)
+- [The First 10 Users Playbook for Developers](https://dev.to/shashankrajurkar/the-first-10-users-playbook-for-developers-32i1)
+- [Introducing RTP: How AI Agents Will Hire Robots With a Single HTTP Request](https://dev.to/mr_hamlin/introducing-rtp-how-ai-agents-will-hire-robots-with-a-single-http-request-d3d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
