@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Structuring AI Microservices in Python](https://dev.to/masteringbackend/structuring-ai-microservices-in-python-29e1)
-- [Frontend interview questions you&#39;ll actually get in 2026](https://dev.to/krzysztof_fraus/frontend-interview-questions-youll-actually-get-in-2026-igh)
-- [Writing Scalable and Maintainable CSS: BEM, SMACSS and OOCSS](https://dev.to/miasalazar/writing-scalable-and-maintainable-css-bem-smacss-and-oocss-omj)
-- [Monavo Architecture — Building a Telegram-First Solana Swap Service](https://dev.to/petrtcoi/monavo-architecture-building-a-telegram-first-solana-swap-service-2e9l)
-- [Eliminating Query Timeouts: A Real-world Practice of SLS Materialized View Tuning in High Concurrency Scenarios](https://dev.to/observabilityguy/eliminating-query-timeouts-a-real-world-practice-of-sls-materialized-view-tuning-in-high-36m0)
+- [How to Send GET and POST Requests in Postman?](https://dev.to/theodoresummer/how-to-send-get-and-post-requests-in-postman-38d5)
+- [Frontend interview questions you&#39;ll actually get in 2026](https://dev.to/bishoy_bishai/frontend-interview-questions-youll-actually-get-in-2026-1gon)
+- [Learning Python Was a Life-Changing Experience](https://dev.to/mennylevinski/learning-python-was-a-life-changing-experience-18ac)
+- [Fear of AI made me create my own product](https://dev.to/misterion96/fear-of-ai-made-me-create-my-own-product-47gh)
+- [My First Public Project on Python](https://dev.to/pydev69/my-first-public-project-on-python-29ob)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
