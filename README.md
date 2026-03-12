@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Economics of AI Web Crawling in 2026: What It Really Costs](https://dev.to/globalchatads/the-economics-of-ai-web-crawling-in-2026-what-it-really-costs-48cn)
-- [Gemini 2 Embed Quality on bigger PDFs](https://dev.to/jonas_tinz_2629b27535cae6/gemini-2-embed-quality-on-bigger-pdfs-2546)
-- [Microsoft Azure Management Tasks: Prepare your Environment](https://dev.to/rahimah_dev/microsoft-azure-management-tasks-prepare-your-environment-2234)
-- [Performance Metrics for Real‑Time Trading Apps: What Every Developer Should Know](https://dev.to/ricardosaumeth/performance-metrics-for-real-time-trading-apps-what-every-developer-should-know-4e8j)
-- [15 Best LM Studio Alternatives for Running Local LLMs &lpar;2026&rpar;](https://dev.to/jaipalsingh/15-best-lm-studio-alternatives-for-running-local-llms-2026-36bg)
+- [Structuring AI Microservices in Python](https://dev.to/masteringbackend/structuring-ai-microservices-in-python-29e1)
+- [Frontend interview questions you&#39;ll actually get in 2026](https://dev.to/krzysztof_fraus/frontend-interview-questions-youll-actually-get-in-2026-igh)
+- [Writing Scalable and Maintainable CSS: BEM, SMACSS and OOCSS](https://dev.to/miasalazar/writing-scalable-and-maintainable-css-bem-smacss-and-oocss-omj)
+- [Monavo Architecture — Building a Telegram-First Solana Swap Service](https://dev.to/petrtcoi/monavo-architecture-building-a-telegram-first-solana-swap-service-2e9l)
+- [Eliminating Query Timeouts: A Real-world Practice of SLS Materialized View Tuning in High Concurrency Scenarios](https://dev.to/observabilityguy/eliminating-query-timeouts-a-real-world-practice-of-sls-materialized-view-tuning-in-high-36m0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
