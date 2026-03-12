@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Flutter’s Secret Handshake with External Apps 🤝](https://dev.to/yash_patel_b72542e8cef471/flutters-secret-handshake-with-external-apps-10aa)
-- [𝗥𝗲𝗮𝗹‑𝗧𝗶𝗺𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗜𝘀𝗻’𝘁 𝗔𝗯𝗼𝘂𝘁 𝗦𝗽𝗲𝗲𝗱 — 𝗜𝘁’𝘀 𝗔𝗯𝗼𝘂𝘁 𝗞𝗻𝗼𝘄𝗶𝗻𝗴 𝗪𝗵𝗲𝗿𝗲 𝘁𝗼 𝗦𝗽𝗲𝗻𝗱 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆](https://dev.to/ricardosaumeth/--41hh)
-- [System Design of LeetCode](https://dev.to/sharadcodes/system-design-of-leetcode-4id2)
-- [I Did AI/ML &quot;Wrong&quot;, And It&#39;s the Best Mistake I Ever Made](https://dev.to/akshay_rajinikanth/i-did-aiml-wrong-and-its-the-best-mistake-i-ever-made-3hh1)
-- [When AI Writes the Code, Who Gets Blamed When It Breaks?](https://dev.to/humanpagesai/when-ai-writes-the-code-who-gets-blamed-when-it-breaks-44in)
+- [The Economics of AI Web Crawling in 2026: What It Really Costs](https://dev.to/globalchatads/the-economics-of-ai-web-crawling-in-2026-what-it-really-costs-48cn)
+- [Gemini 2 Embed Quality on bigger PDFs](https://dev.to/jonas_tinz_2629b27535cae6/gemini-2-embed-quality-on-bigger-pdfs-2546)
+- [Microsoft Azure Management Tasks: Prepare your Environment](https://dev.to/rahimah_dev/microsoft-azure-management-tasks-prepare-your-environment-2234)
+- [Performance Metrics for Real‑Time Trading Apps: What Every Developer Should Know](https://dev.to/ricardosaumeth/performance-metrics-for-real-time-trading-apps-what-every-developer-should-know-4e8j)
+- [15 Best LM Studio Alternatives for Running Local LLMs &lpar;2026&rpar;](https://dev.to/jaipalsingh/15-best-lm-studio-alternatives-for-running-local-llms-2026-36bg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
