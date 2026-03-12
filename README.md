@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The X-Axis of Data: How BigQuery Models the Customer Dimension for Agentic AI Decisions](https://dev.to/ramavala/the-x-axis-of-data-how-bigquery-models-the-customer-dimension-for-agentic-ai-decisions-16jh)
-- [Learning language platforms](https://dev.to/moraa_oo_b141544e9be30688/learning-language-platforms-4glc)
-- [Why Your Interview Prep Is Broken &lpar;And What AI Gets Wrong About It&rpar;](https://dev.to/coach4life/why-your-interview-prep-is-broken-and-what-ai-gets-wrong-about-it-3onf)
-- [Build a Creator Discovery Engine with Node.js and SociaVault](https://dev.to/olams/build-a-creator-discovery-engine-with-nodejs-and-sociavault-4175)
-- [Convert Images to SVG in Python Using vtracer 🚀](https://dev.to/ramya_thirunavukkarasu_0a/convert-images-to-svg-in-python-using-vtracer-ide)
+- [Schools Are Split on AI: Bans vs. Literacy Programs](https://dev.to/derivinate/schools-are-split-on-ai-bans-vs-literacy-programs-23da)
+- [Building a Multi-Model AI Agent: Automatic Fallback When Your Primary LLM Refuses](https://dev.to/nathanhamlett/building-a-multi-model-ai-agent-automatic-fallback-when-your-primary-llm-refuses-45hg)
+- [AI Just Made Wildlife Monitoring Scalable—Here&#39;s How](https://dev.to/derivinate/ai-just-made-wildlife-monitoring-scalable-heres-how-2201)
+- [I Built a Project-Based Job Scheduler for Developers](https://dev.to/geoffery_koranteng_177358/i-built-a-project-based-job-scheduler-for-developers-o5m)
+- [POO Além do Código #1: Abstração &lpar;O Arquiteto de Soluções&rpar;](https://dev.to/bruno_freschi/poo-alem-do-codigo-1-abstracao-o-arquiteto-de-solucoes-500m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
