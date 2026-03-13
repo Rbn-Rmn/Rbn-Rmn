@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Pattern Starts at Home: Why Beginner Status Is a Social Position, Not a Skill Level](https://dev.to/narnaiezzsshaa/the-pattern-starts-at-home-why-beginner-status-is-a-social-position-not-a-skill-level-14in)
-- [Codacy vs Snyk: Code Quality Platform vs Developer Security Platform &lpar;2026&rpar;](https://dev.to/rahulxsingh/codacy-vs-snyk-code-quality-platform-vs-developer-security-platform-2026-4aah)
-- [Semgrep vs CodeQL: Lightweight Patterns vs Semantic Analysis for SAST &lpar;2026&rpar;](https://dev.to/rahulxsingh/semgrep-vs-codeql-lightweight-patterns-vs-semantic-analysis-for-sast-2026-412k)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-ilf)
-- [ai, webdev, opensource, javascript](https://dev.to/othmanferhan/ai-webdev-opensource-javascript-28me)
+- [5 Free Privacy-First Tools I Built Because I Was Tired of Signing Up for Everything](https://dev.to/docat0209/5-free-privacy-first-tools-i-built-because-i-was-tired-of-signing-up-for-everything-2mh2)
+- [I Was One Day Away From Quitting — And Then My Career Took An Unexpected Turn](https://dev.to/dev-in-progress/i-was-one-day-away-from-quitting-and-then-my-career-took-an-unexpected-turn-o1k)
+- [Building Drip: An AI-Powered Wardrobe and Outfit Recommender](https://dev.to/hemang_murugan_a9b77a329a/building-drip-an-ai-powered-wardrobe-and-outfit-recommender-m11)
+- [Spring Boot 4.x — A Big Step Forward for Java Developers](https://dev.to/pramod_kumar_0820/spring-boot-4x-a-big-step-forward-for-java-developers-2pma)
+- [Understanding GRC: How to Navigate Risks and Compliance Standards](https://dev.to/mark0_617b45cda9782a/understanding-grc-how-to-navigate-risks-and-compliance-standards-26na)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
