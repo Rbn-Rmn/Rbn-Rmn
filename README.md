@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Update and Maintain Resources in Azure - Prepare](https://dev.to/fredrick_chukwuma_13220c9/update-and-maintain-resources-in-azure-prepare-o76)
-- [How I Automated Python Documentation Using AST Parsing and Multi-Provider LLMs](https://dev.to/shifu_legend/stop-writing-documentation-i-built-an-ai-tool-that-parses-your-codes-dna-5eh2)
-- [I built a framework that gives Claude Code 11 specialist agents and structured multi-agent review](https://dev.to/danevanscollab/i-built-a-framework-that-gives-claude-code-11-specialist-agents-and-structured-multi-agent-review-5c7h)
-- [Por que não fui pelo caminho comum](https://dev.to/jreeeedd/por-que-nao-fui-pelo-caminho-comum-56fn)
-- [I built a personal budget app with React Native here&#39;s what I learned](https://dev.to/remibuchaillat/i-built-a-personal-budget-app-with-react-native-heres-what-i-learned-4ohe)
+- [Taking Screenshots in Node.js: Puppeteer, Playwright, and API Methods](https://dev.to/dennis-ddev/taking-screenshots-in-nodejs-puppeteer-playwright-and-api-methods-34hh)
+- [Designing Uber: Geospatial Indexing, WebSockets, and Distributed Locks](https://dev.to/ganesh_parella/designing-uber-geospatial-indexing-websockets-and-distributed-locks-4mhb)
+- [Agent Surface Auditor checks to ensure your site is ready for Agents Scans visit &lpar;must be&rpar;](https://dev.to/ntty/agent-surface-auditor-checks-to-ensure-your-site-is-ready-for-agents-scans-visit-must-be-5cnh)
+- [Docker Engine v29: A Foundation Release That Shapes the Future](https://dev.to/benriemer/docker-engine-v29-a-foundation-release-that-shapes-the-future-51ba)
+- [I made my first Python toolkit](https://dev.to/andpan3/i-made-my-first-python-toolkit-2i8o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
