@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [“Attention Is All You Need,” That One Idea That Made Modern AI Possible from 2017 &lpar;Day 4/30 - Beginner AI Series&rpar;](https://dev.to/ankitdey01/attention-is-all-you-need-that-one-idea-that-made-modern-ai-possible-from-2017-day-430--2kmn)
-- [From NEET Aspirant to AI &amp; Neuroscience — an academic rollercoaster](https://dev.to/deepak_krishna_soni/from-neet-aspirant-to-ai-neuroscience-an-academic-rollercoaster-484h)
-- [Your AI Agent Doesn&#39;t Have an Off Switch. Here&#39;s How to Add One.](https://dev.to/agentik-md/your-ai-agent-doesnt-have-an-off-switch-heres-how-to-add-one-2eci)
-- [Vim commands I reach for when simple edits get complex](https://dev.to/vimtrickswiki/vim-commands-i-reach-for-when-simple-edits-get-complex-16ic)
-- [Vim tricks I use when I need operations to land exactly right](https://dev.to/vimtrickswiki/vim-tricks-i-use-when-i-need-operations-to-land-exactly-right-7ee)
+- [How I Structured a Production-Ready Node.js Backend for SaaS](https://dev.to/siddhant_jain_18/how-i-structured-a-production-ready-nodejs-backend-for-saas-248f)
+- [The gap in AI agent security nobody talks about: your .env is already in the context window](https://dev.to/clap/the-gap-in-ai-agent-security-nobody-talks-about-your-env-is-already-in-the-context-window-68g)
+- [New](https://dev.to/hardik_shah/new-28c8)
+- [I Built Surveys That Get Smarter With Every Response](https://dev.to/adamp78/i-built-surveys-that-get-smarter-with-every-response-1l1)
+- [An awesome article on how to make your React app multilingual.](https://dev.to/ryanguitar/an-awesome-article-on-how-to-make-your-react-app-multilingual-1ebd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
