@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Introducing &quot;Our Social&quot; — A Social Media Platform Built for Feature Phone Users](https://dev.to/mdarakib/introducing-our-social-a-social-media-platform-built-for-feature-phone-users-3occ)
-- [NutriTrack — How I Built a Full-Stack Nutrition Tracker with React, Supabase &amp; Real Food Data](https://dev.to/heronfelipe/nutritrack-how-i-built-a-full-stack-nutrition-tracker-with-react-supabase-real-food-data-k7g)
-- [Email-Validation API](https://dev.to/shahil_shaikh_73/email-validation-api-1j67)
-- [Connecting Power BI to a SQL Database &lpar;PostgreSQL&rpar;](https://dev.to/edmund_eryuba/connecting-power-bi-to-a-sql-database-postgresql-4lk1)
-- [AI May Write Code, But Developers Still Define the Problem](https://dev.to/codewithishwar/ai-may-write-code-but-developers-still-define-the-problem-58n1)
+- [Why Every Developer Should Learn Terraform in 2026 &lpar;And How to Start&rpar;](https://dev.to/aws-builders/why-every-developer-should-learn-terraform-in-2026-and-how-to-start-3c9l)
+- [Why HazelJS Is the Best AI-Native Runtime Platform and Framework](https://dev.to/arslan_mecom/why-hazeljs-is-the-best-ai-native-runtime-platform-and-framework-2di4)
+- [Beyond Prompt Engineering: The Layers of Modern AI Engineering](https://dev.to/naresh_007/beyond-prompt-engineering-the-layers-of-modern-ai-engineering-38j8)
+- [🧑‍💻 Alt Text vs ARIA Labels — What Developers Often Miss](https://dev.to/pawar-shivam7/alt-text-vs-aria-labels-what-developers-often-miss-17j1)
+- [Why I replaced Nexus with a 32MB binary](https://dev.to/devitway/why-i-replaced-nexus-with-a-32mb-binary-470f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
