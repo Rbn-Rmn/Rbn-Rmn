@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [5 Free Privacy-First Tools I Built Because I Was Tired of Signing Up for Everything](https://dev.to/docat0209/5-free-privacy-first-tools-i-built-because-i-was-tired-of-signing-up-for-everything-2mh2)
-- [I Was One Day Away From Quitting — And Then My Career Took An Unexpected Turn](https://dev.to/dev-in-progress/i-was-one-day-away-from-quitting-and-then-my-career-took-an-unexpected-turn-o1k)
-- [Building Drip: An AI-Powered Wardrobe and Outfit Recommender](https://dev.to/hemang_murugan_a9b77a329a/building-drip-an-ai-powered-wardrobe-and-outfit-recommender-m11)
-- [Spring Boot 4.x — A Big Step Forward for Java Developers](https://dev.to/pramod_kumar_0820/spring-boot-4x-a-big-step-forward-for-java-developers-2pma)
-- [Understanding GRC: How to Navigate Risks and Compliance Standards](https://dev.to/mark0_617b45cda9782a/understanding-grc-how-to-navigate-risks-and-compliance-standards-26na)
+- [Hancom Unveils &#39;OpenDataLoader PDF v2.0&#39; &quot;Ranked No. 1 in Open Source PDF Data Extraction Benchmarks&quot;](https://dev.to/katash/hancom-unveils-opendataloader-pdf-v20-ranked-no-1-in-open-source-pdf-data-extraction-3eak)
+- [I&#39;m Jiyu, CTO of Lawmadi OS — The Technical Architecture Behind Real-Time Legal Verification](https://dev.to/peter_choe_74edfaa33306ed/im-jiyu-cto-of-lawmadi-os-the-technical-architecture-behind-real-time-legal-verification-49id)
+- [Stop Bottlenecking Your Code: The Engineering Behind Choosing a Hard Drive Enclosure for SSD](https://dev.to/wixom/stop-bottlenecking-your-code-the-engineering-behind-choosing-a-hard-drive-enclosure-for-ssd-41dl)
+- [Best Postman Alternative in 2026: Faster API Client for Developers](https://dev.to/requestly/best-postman-alternative-in-2026-faster-api-client-for-developers-40in)
+- [The Battle Between RAG and Long Context](https://dev.to/tomerbendavid/the-battle-between-rag-and-long-context-4ilc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
