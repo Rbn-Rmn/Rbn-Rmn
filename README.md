@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Taking Screenshots in Node.js: Puppeteer, Playwright, and API Methods](https://dev.to/dennis-ddev/taking-screenshots-in-nodejs-puppeteer-playwright-and-api-methods-34hh)
-- [Designing Uber: Geospatial Indexing, WebSockets, and Distributed Locks](https://dev.to/ganesh_parella/designing-uber-geospatial-indexing-websockets-and-distributed-locks-4mhb)
-- [Agent Surface Auditor checks to ensure your site is ready for Agents Scans visit &lpar;must be&rpar;](https://dev.to/ntty/agent-surface-auditor-checks-to-ensure-your-site-is-ready-for-agents-scans-visit-must-be-5cnh)
-- [Docker Engine v29: A Foundation Release That Shapes the Future](https://dev.to/benriemer/docker-engine-v29-a-foundation-release-that-shapes-the-future-51ba)
-- [I made my first Python toolkit](https://dev.to/andpan3/i-made-my-first-python-toolkit-2i8o)
+- [CVE-2026-26118: How to Prove Your MCP Agent Wasn](https://dev.to/custodiaadmin/cve-2026-26118-how-to-prove-your-mcp-agent-wasn-1o4k)
+- [How to Combat Online Negativity in CS/SWE Communities: Proven Strategies to Empower Enthusiasts and Drive Innovation](https://dev.to/elenbit/how-to-combat-online-negativity-in-csswe-communities-proven-strategies-to-empower-enthusiasts-and-2jho)
+- [To The Moon Terraform Ep.1](https://dev.to/wvanheemstra/to-the-moon-terraform-ep1-8h8)
+- [Why Headless Agents Make Visual Audit More Critical](https://dev.to/custodiaadmin/why-headless-agents-make-visual-audit-more-critical-18am)
+- [Copilot CLI Weekly: PR Workflows, Extensions, and Multi-Turn Background Agents](https://dev.to/htekdev/copilot-cli-weekly-pr-workflows-extensions-and-multi-turn-background-agents-37bj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
