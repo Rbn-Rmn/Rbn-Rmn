@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building WatchContact: An AI Chat Analyzer with OCR, Rate Limiting, and a Content Blog](https://dev.to/emrahg/building-watchcontact-an-ai-chat-analyzer-with-ocr-rate-limiting-and-a-content-blog-cph)
-- [The Agent Factory: Building Consistent Agents at Scale](https://dev.to/chuckm/the-agent-factory-building-consistent-agents-at-scale-22an)
-- [I got tired of ugly websites. So I built a tool to fix them &lpar;and yes it has AI&rpar;](https://dev.to/royshell/i-got-tired-of-ugly-websites-so-i-built-a-tool-to-fix-them-and-yes-it-has-ai-476h)
-- [Amazon Bedrock AgentCore: Quick Reference Guide](https://dev.to/mindy_jen_b0e16e70c2c4202/amazon-bedrock-agentcore-quick-reference-guide-5bh2)
-- [Devlog 4](https://dev.to/no_arms_studio/devlog-4-2d1i)
+- [Cross-Account AWS Visibility at Scale: Lessons from Building a Mobile-First Health and Cost Monitoring Platform](https://dev.to/ronflax/cross-account-aws-visibility-at-scale-lessons-from-building-a-mobile-first-health-and-cost-14n9)
+- [NetSuite SuiteScript 2.1: Automatiza tu ERP sin volverte loco](https://dev.to/rafael_mendoza_b077f3f96d/netsuite-suitescript-21-automatiza-tu-erp-sin-volverte-loco-1cjc)
+- [Real-Time Video Anonymization at 30 FPS on a $35 Computer](https://dev.to/laythayache/real-time-video-anonymization-at-30-fps-on-a-35-computer-2gkl)
+- [We Ran 500 Production Prompts Across GPT-4o, Claude 3.7, and Gemini 2.0. Here Is Which Provider Changed Most.](https://dev.to/clawgenesis/we-ran-500-production-prompts-across-gpt-4o-claude-37-and-gemini-20-here-is-which-provider-13bg)
+- [Why Are Oddly Satisfying Videos So Addictive? The Psychology Behind Relaxing Loop Videos](https://dev.to/tvscnvideo/why-are-oddly-satisfying-videos-so-addictive-the-psychology-behind-relaxing-loop-videos-5a13)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
