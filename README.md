@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [SLOs, SLIs, and SLAs Defined](https://dev.to/godofgeeks/slos-slis-and-slas-defined-3o4n)
-- [SEO is Dead? How I Optimized My Next.js SaaS for ChatGPT &amp; Perplexity &lpar;AEO&rpar;](https://dev.to/damsho92/seo-is-dead-how-i-optimized-my-nextjs-saas-for-chatgpt-perplexity-aeo-9j7)
-- [Go Error Handling in Distributed Systems: Patterns for Resilient Microservices](https://dev.to/matthiasbruns/go-error-handling-in-distributed-systems-patterns-for-resilient-microservices-12ia)
-- [How I Defeated ProseMirror: The Only Way to Programmatically Insert Text Into Rich Text Editors](https://dev.to/vesper_finch/how-i-defeated-prosemirror-the-only-way-to-programmatically-insert-text-into-rich-text-editors-1208)
-- [QM2 Evolution: From Static Engine to AI-Powered Intelligence](https://dev.to/ahalvadzija/qm2-evolution-from-static-engine-to-ai-powered-intelligence-4o8c)
+- [90 Days of Building forg.to in Public: Real Numbers, Real Mistakes](https://dev.to/kislay/90-days-of-building-forgto-in-public-real-numbers-real-mistakes-4mbd)
+- [Ecommerce Backend System API](https://dev.to/sachin_chaurasiya_76/java-programming-opensource-developer-5993)
+- [# How I parse 15+ MoMo SMS formats with 95% accuracy](https://dev.to/theboylexis/-how-i-parse-15-momo-sms-formats-with-95-accuracy-47hg)
+- [I Built NirvaCrop — An Offline AI Tool That Converts 16:9 Videos Into 9:16 Reels](https://dev.to/ashwini_akash_3e6d514d04e/i-built-nirvacrop-an-offline-ai-tool-that-converts-169-videos-into-916-reels-1b0)
+- [Happy Pi Day!! 🥧 &lpar;And how I sorta like Tau better&rpar;](https://dev.to/kriti_arora/happy-pi-day-and-how-i-like-tau-better-2nn5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
