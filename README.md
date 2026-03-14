@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Is the Shortest Route Sometimes the Worst? My take on Adaptive A* Algorithm.](https://dev.to/aazan_noor_khuwaja/why-is-the-shortest-route-sometimes-the-worst-my-take-on-adaptive-a-algorithm-4c8b)
-- [AI Research](https://dev.to/muhammad_zaheeb_16d03ccaa/ai-research-26mo)
-- [Pocketbase Vs Appwrite](https://dev.to/selfhostingsh/pocketbase-vs-appwrite-4jdf)
-- [Analysis Of Research Paper](https://dev.to/abbas_c3296322e33f/analysis-of-research-paper-1p2a)
-- [TLDR; ReactJS project initialization with Tailwind CSS and Shadcn using Vite](https://dev.to/thechaudhrysab/tldr-reactjs-project-initialization-with-tailwind-css-and-shadcn-using-vite-4g0f)
+- [ConfDroid Puppet Modules - Nagios](https://dev.to/12ww1160/confdroid-puppet-modules-nagios-2997)
+- [Get Your Hands Dirty - AgentCore - Code Interpreter](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-code-interpreter-432d)
+- [Day 2 First Half anyway](https://dev.to/true63/day-2-first-half-anyway-2o5k)
+- [I built a browser-only Git diff viewer using File System Access API — no server needed](https://dev.to/chigichan24/i-built-a-browser-only-git-diff-viewer-using-file-system-access-api-no-server-needed-282g)
+- [Earnflo: A Salary Dashboard That Shows Your Earnings in Real Time](https://dev.to/jzr-supove/earnflo-a-salary-dashboard-that-shows-your-earnings-in-real-time-50m8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
