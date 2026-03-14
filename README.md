@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Snyk vs Fortify: Developer Security vs Enterprise SAST Platform &lpar;2026&rpar;](https://dev.to/rahulxsingh/snyk-vs-fortify-developer-security-vs-enterprise-sast-platform-2026-38ll)
-- [10 Best Checkmarx Alternatives for SAST in 2026](https://dev.to/rahulxsingh/10-best-checkmarx-alternatives-for-sast-in-2026-4ohe)
-- [The Three Reliability Modes I See in Production AI Agents](https://dev.to/the_bookmaster/the-three-reliability-modes-i-see-in-production-ai-agents-g41)
-- [The Hidden Layer of AI Systems Nobody Talks About: Evaluation](https://dev.to/jaideepparashar/the-hidden-layer-of-ai-systems-nobody-talks-about-evaluation-44c7)
-- [Build a Batch Audio Trimmer in Python with Tkinter and FFmpeg](https://dev.to/matetechnologie/build-a-batch-audio-trimmer-in-python-with-tkinter-and-ffmpeg-51c8)
+- [Open-Source AI Just Pivoted: From Models to Agents](https://dev.to/derivinate/open-source-ai-just-pivoted-from-models-to-agents-4j05)
+- [Two Paths to Architect: How Engineers Evolve Differently](https://dev.to/machuz/two-paths-to-architect-how-engineers-evolve-differently-1ga)
+- [I Gave My Local AI a Public Brain: Echo + Notion MCP](https://dev.to/crow/i-gave-my-local-ai-a-public-brain-echo-notion-mcp-ci1)
+- [The “Jurassic World” Rule is simple: Don’t try to outrun the raptor. Train it.](https://dev.to/itsmeramc/the-jurassic-world-rule-is-simple-dont-try-to-outrun-the-raptor-train-it-2be3)
+- [Try XtermChat | Self Hosted Terminal Chat App](https://dev.to/ketutdana/try-xtermchat-self-hosted-terminal-chat-app-2njh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
