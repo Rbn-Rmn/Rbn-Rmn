@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Using Python to Load Google Docs into AI — Drive API Minimal Permission Setup](https://dev.to/soytuber/using-python-to-load-google-docs-into-ai-drive-api-minimal-permission-setup-525c)
-- [Hardware Selection for Local LLMs: Overcoming the VRAM Wall with Practical GPU, CPU, and Memory Configurations](https://dev.to/soytuber/hardware-selection-for-local-llms-overcoming-the-vram-wall-with-practical-gpu-cpu-and-memory-2ldf)
-- [What I Gained from Interacting with Shogi AI: The Path to 1st Place in Floodgate and My Approach to Distilled Models](https://dev.to/soytuber/what-i-gained-from-interacting-with-shogi-ai-the-path-to-1st-place-in-floodgate-and-my-approach-to-4k63)
-- [Turn Conversation Data into Assets with Gemini API: History Export, RAG, and Streamlit](https://dev.to/soytuber/turn-conversation-data-into-assets-with-gemini-api-history-export-rag-and-streamlit-5cab)
-- [Automating Video Generation with Remotion and VOICEVOX: From Environment Setup to Performance Optimization](https://dev.to/soytuber/automating-video-generation-with-remotion-and-voicevox-from-environment-setup-to-performance-4kbh)
+- [Snyk vs Fortify: Developer Security vs Enterprise SAST Platform &lpar;2026&rpar;](https://dev.to/rahulxsingh/snyk-vs-fortify-developer-security-vs-enterprise-sast-platform-2026-38ll)
+- [10 Best Checkmarx Alternatives for SAST in 2026](https://dev.to/rahulxsingh/10-best-checkmarx-alternatives-for-sast-in-2026-4ohe)
+- [The Three Reliability Modes I See in Production AI Agents](https://dev.to/the_bookmaster/the-three-reliability-modes-i-see-in-production-ai-agents-g41)
+- [The Hidden Layer of AI Systems Nobody Talks About: Evaluation](https://dev.to/jaideepparashar/the-hidden-layer-of-ai-systems-nobody-talks-about-evaluation-44c7)
+- [Build a Batch Audio Trimmer in Python with Tkinter and FFmpeg](https://dev.to/matetechnologie/build-a-batch-audio-trimmer-in-python-with-tkinter-and-ffmpeg-51c8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
