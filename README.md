@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What Schepta is and what problem it solves](https://dev.to/jreeeedd/what-schepta-is-and-what-problem-it-solves-42l9)
-- [How to connect Power BI to a SQL database](https://dev.to/avedi/how-to-connect-power-bi-to-a-sql-database-knm)
-- [Publishing a NPM Package Automatically with GitHub Actions](https://dev.to/sarahcssiqueira/publishing-a-npm-package-automatically-with-github-actions-322f)
-- [From Intelligent Agents to Smarter Search: Insights from Modern AI Research](https://dev.to/iqan/from-intelligent-agents-to-smarter-search-insights-from-modern-ai-research-hja)
-- [The Architect’s Manifesto 2026: Engineering in the Age of Autonomy 🌐](https://dev.to/xh1m/the-architects-manifesto-2026-engineering-in-the-age-of-autonomy-54dc)
+- [How I would estimate GCP costs before building anything](https://dev.to/vctrcloudsec/how-i-would-estimate-gcp-costs-before-building-anything-578l)
+- [Параллелизм в ruby 2: ограничиваем потоки](https://dev.to/kopylov_vlad/parallielizm-v-ruby-2-oghranichivaiem-potoki-51f7)
+- [Taking Action on your GCP bill: Automating BigQuery Storage Cleanup](https://dev.to/gde/taking-action-on-your-gcp-bill-automating-bigquery-storage-cleanup-4nma)
+- [Cloud Run scaling is simple until it isn&#39;t: the settings that actually matter](https://dev.to/vctrcloudsec/cloud-run-scaling-is-simple-until-it-isnt-the-settings-that-actually-matter-3970)
+- [State of MCP Security](https://dev.to/cyber_craft_solution/state-of-mcp-security-1npi)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
