@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Seq2Seq Neural Networks – Part 2: Embeddings for Sequence Inputs](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-2-embeddings-for-sequence-inputs-32k9)
-- [How to Add Memory to a Python AI Agent](https://dev.to/nebulagg/how-to-add-memory-to-a-python-ai-agent-od5)
-- [I Built FakeScan in 30 Days to Detect Fake Amazon Reviews with AI](https://dev.to/crawde/i-built-fakescan-in-30-days-to-detect-fake-amazon-reviews-with-ai-41pa)
-- [Nobody Reviews Their Agent&#39;s Code](https://dev.to/ticktockbent/nobody-reviews-their-agents-code-17hi)
-- [I Built an MCP Server That Lets Designers Change CSS From a Notion Table](https://dev.to/vmvenkatesh78/i-built-an-mcp-server-that-lets-designers-change-css-from-a-notion-table-2hj9)
+- [I tracked every hour I worked for 6 months. The maths was depressing.](https://dev.to/landolio/i-tracked-every-hour-i-worked-for-6-months-the-maths-was-depressing-3o27)
+- [Top 5 Code Sandboxes for AI Agents in 2026](https://dev.to/nebulagg/top-5-code-sandboxes-for-ai-agents-in-2026-58id)
+- [3º. Entity extraction with a 2B model: benchmarks from a personal knowledge graph](https://dev.to/micelclaw/entity-extraction-with-a-2b-model-benchmarks-from-a-personal-knowledge-graph-2f27)
+- [GitOps for ML in 2026: Treat Your AI Models Like Microservices &lpar;Or Watch Them Drift Into Production Chaos&rpar;](https://dev.to/mateenali66/gitops-for-ml-in-2026-treat-your-ai-models-like-microservices-or-watch-them-drift-into-production-40m2)
+- [It&#39;s over, Repo. I have the high ground!](https://dev.to/sagi0312/its-over-repo-i-have-the-high-ground-58md)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
