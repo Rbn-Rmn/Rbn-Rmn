@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I tracked every hour I worked for 6 months. The maths was depressing.](https://dev.to/landolio/i-tracked-every-hour-i-worked-for-6-months-the-maths-was-depressing-3o27)
-- [Top 5 Code Sandboxes for AI Agents in 2026](https://dev.to/nebulagg/top-5-code-sandboxes-for-ai-agents-in-2026-58id)
-- [3º. Entity extraction with a 2B model: benchmarks from a personal knowledge graph](https://dev.to/micelclaw/entity-extraction-with-a-2b-model-benchmarks-from-a-personal-knowledge-graph-2f27)
-- [GitOps for ML in 2026: Treat Your AI Models Like Microservices &lpar;Or Watch Them Drift Into Production Chaos&rpar;](https://dev.to/mateenali66/gitops-for-ml-in-2026-treat-your-ai-models-like-microservices-or-watch-them-drift-into-production-40m2)
-- [It&#39;s over, Repo. I have the high ground!](https://dev.to/sagi0312/its-over-repo-i-have-the-high-ground-58md)
+- [I built a self-hosted Nextcloud alternative that installs in one command](https://dev.to/errriikkk/i-built-a-self-hosted-nextcloud-alternative-that-installs-in-one-command-1m2o)
+- [Zero-Copy GPU Compute on Camera Frames in React Native — What Actually Worked](https://dev.to/kbrandwijk/zero-copy-gpu-compute-on-camera-frames-in-react-native-what-actually-worked-512j)
+- [The Era of &quot;Vibe Coding&quot; &amp; Agentic Workflows: Why You’re Still Using AI Wrong](https://dev.to/syedahmershah/the-era-of-vibe-coding-agentic-workflows-why-youre-still-using-ai-wrong-4idb)
+- [Building MCP Servers: Extend AI with Custom Tools](https://dev.to/eqhoids/building-mcp-servers-extend-ai-with-custom-tools-3cp0)
+- [How API Data Bloat is Ruining Your AI Agents &lpar;And How I Cut Token Usage by 98% in Python&rpar;](https://dev.to/craig_mac_dev/how-api-data-bloat-is-ruining-your-ai-agents-and-how-i-cut-token-usage-by-98-in-python-3bif)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
