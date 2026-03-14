@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I would estimate GCP costs before building anything](https://dev.to/vctrcloudsec/how-i-would-estimate-gcp-costs-before-building-anything-578l)
-- [Параллелизм в ruby 2: ограничиваем потоки](https://dev.to/kopylov_vlad/parallielizm-v-ruby-2-oghranichivaiem-potoki-51f7)
-- [Taking Action on your GCP bill: Automating BigQuery Storage Cleanup](https://dev.to/gde/taking-action-on-your-gcp-bill-automating-bigquery-storage-cleanup-4nma)
-- [Cloud Run scaling is simple until it isn&#39;t: the settings that actually matter](https://dev.to/vctrcloudsec/cloud-run-scaling-is-simple-until-it-isnt-the-settings-that-actually-matter-3970)
-- [State of MCP Security](https://dev.to/cyber_craft_solution/state-of-mcp-security-1npi)
+- [How a Minecraft mod led me to build my own Java media library from scratch](https://dev.to/tamkungz_/how-a-minecraft-mod-led-me-to-build-my-own-java-media-library-from-scratch-1m60)
+- [#2 Docker - Cotainers](https://dev.to/stv4ns/2-docker-cotainers-4dae)
+- [Shopify vs WooCommerce vs Custom: Why Self-Hosting is Financial Suicide](https://dev.to/allclearstack/shopify-vs-woocommerce-vs-custom-why-self-hosting-is-financial-suicide-2gog)
+- [I built Wool, a lightweight distributed Python runtime](https://dev.to/conradbzura/i-built-wool-a-lightweight-distributed-python-runtime-3958)
+- [Research on A* Algorithm Based on Adaptive Weights &lpar;2025&rpar;](https://dev.to/24p0697_muhammadusman_0/research-on-a-algorithm-based-on-adaptive-weights-2025-2f2b)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
