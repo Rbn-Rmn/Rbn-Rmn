@@ -131,11 +131,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [90 Days of Building forg.to in Public: Real Numbers, Real Mistakes](https://dev.to/kislay/90-days-of-building-forgto-in-public-real-numbers-real-mistakes-4mbd)
-- [Ecommerce Backend System API](https://dev.to/sachin_chaurasiya_76/java-programming-opensource-developer-5993)
-- [# How I parse 15+ MoMo SMS formats with 95% accuracy](https://dev.to/theboylexis/-how-i-parse-15-momo-sms-formats-with-95-accuracy-47hg)
-- [I Built NirvaCrop — An Offline AI Tool That Converts 16:9 Videos Into 9:16 Reels](https://dev.to/ashwini_akash_3e6d514d04e/i-built-nirvacrop-an-offline-ai-tool-that-converts-169-videos-into-916-reels-1b0)
-- [Happy Pi Day!! 🥧 &lpar;And how I sorta like Tau better&rpar;](https://dev.to/kriti_arora/happy-pi-day-and-how-i-like-tau-better-2nn5)
+- [Fast Infrastructure: Understanding Crossplane like a Fast Food Restaurant](https://dev.to/the-software-s-journey/fast-infrastructure-understanding-crossplane-like-a-fast-food-restaurant-2ign)
+- [Any Customer Can Have Any Cloud Resource, Provided It Comes Off the Assembly Line: Crossplane v2 and the SIPOC Factory Floor](https://dev.to/the-software-s-journey/any-customer-can-have-any-cloud-resource-provided-it-comes-off-the-assembly-line-crossplane-v2-21fj)
+- [Like LEGO? Love Python! 🧱🐍 Ep.3](https://dev.to/the-software-s-journey/like-lego-love-python-ep3-11ji)
+- [Azure Boards CLI](https://dev.to/skhell/azure-boards-cli-4pc)
+- [Like LEGO? Love Python! 🧱🐍 Ep.4](https://dev.to/the-software-s-journey/like-lego-love-python-ep4-1adn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
