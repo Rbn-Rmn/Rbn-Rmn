@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Object-Oriented Programming in JavaScript](https://dev.to/satyasootar/understanding-object-oriented-programming-in-javascript-23fl)
-- [GitHub Spark - A First Look at GitHub’s New Developer Tool](https://dev.to/akkaraponph/github-spark-a-first-look-at-githubs-new-developer-tool-hjo)
-- [I Got Selected as an AWS Community Builder – Containers on My First Try. Here&#39;s My Honest Story.](https://dev.to/remus_kalathil_235e438778/i-got-selected-as-an-aws-community-builder-containers-on-my-first-try-heres-my-honest-story-58a5)
-- [Arrow Functions in JavaScript: A Simpler Way to Write Functions](https://dev.to/satyasootar/arrow-functions-in-javascript-a-simpler-way-to-write-functions-532o)
-- [Managing Azure Storage: Containers, File Shares, and Security Tokens](https://dev.to/louis_oodo_a59b230b894609/managing-azure-storage-containers-file-shares-and-security-tokens-23dn)
+- [Collaboration That Doesn&#39;t Create Chaos](https://dev.to/itxshakil/collaboration-that-doesnt-create-chaos-4k45)
+- [Branching Without Fear](https://dev.to/itxshakil/branching-without-fear-65l)
+- [Committing with Intention: The Art of a Good Commit](https://dev.to/itxshakil/committing-with-intention-the-art-of-a-good-commit-p90)
+- [How Git Actually Thinks &lpar;And Why Most Developers Have It Wrong&rpar;](https://dev.to/itxshakil/how-git-actually-thinks-and-why-most-developers-have-it-wrong-20do)
+- [Organising and Protecting Azure Resources: A Guide to Tags and Locks](https://dev.to/louis_oodo_a59b230b894609/organizing-and-protecting-azure-resources-a-guide-to-tags-and-locks-2k9o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
