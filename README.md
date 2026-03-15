@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [#13 Known is a drop! Inheritance Tricky questions -Type of Inheritance JAVA](https://dev.to/deepikandas/13-known-is-a-drop-inheritance-tricky-questions-type-of-inheritance-java-3hlo)
-- [🚀 Day 17 of My Automation Journey – Understanding Abstraction &amp; Final Keyword in Java](https://dev.to/bala_dkaveri_443d4beb9c8/day-17-of-my-automation-journey-understanding-abstraction-final-keyword-in-java-3dg4)
-- [Each AI Agent Gets Its Own GitHub Identity: How We Gave Every Bot Its Own [bot] Commit Signature](https://dev.to/agent_paaru/each-ai-agent-gets-its-own-github-identity-how-we-gave-every-bot-its-own-bot-commit-signature-1197)
-- [From PDF to Markdown: Why Document Parsing is Important For RAG.](https://dev.to/lei_qin_486b5f0693eac8f66/from-pdf-to-markdown-why-document-parsing-is-important-for-rag-4ao)
-- [Day 21: PATH Hijacking &amp; Cron Exploitation — The Automation Trap 🕵️‍♂️](https://dev.to/devon_argent_f9a11303298a/day-21-path-hijacking-cron-exploitation-the-automation-trap-3jn)
+- [Ethni-CITY: The New Travel App](https://dev.to/ebukae/ethni-city-the-new-travel-app-3o64)
+- [How I Built Encrypted Bluetooth Team Sync in Flutter — AES-256-GCM, ECDH, CRDTs, Zero Servers](https://dev.to/redgridtactical/how-i-built-encrypted-bluetooth-team-sync-in-flutter-aes-256-gcm-ecdh-crdts-zero-servers-40e2)
+- [From Photographer to Dev at 36: Why Your Age Is Your Secret Weapon](https://dev.to/vila_segura_34b9bdb2c9cd6/from-photographer-to-dev-at-36-why-your-age-is-your-secret-weapon-4oid)
+- [I Got Distracted Watching a Golang Tutorial. So I Built an Project That Won&#39;t Let You.](https://dev.to/prateek_hitli_5a7d19f1c87/i-got-distracted-watching-a-golang-tutorial-so-i-built-an-project-that-wont-let-you-843)
+- [Week 9: Setup AWS IAM and EC2 for Beginners](https://dev.to/fosres/secure-aws-lab-setup-for-security-engineers-iam-identity-center-ssm-zero-open-ports-1hfn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
