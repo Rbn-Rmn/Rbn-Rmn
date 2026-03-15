@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built a self-hosted Nextcloud alternative that installs in one command](https://dev.to/errriikkk/i-built-a-self-hosted-nextcloud-alternative-that-installs-in-one-command-1m2o)
-- [Zero-Copy GPU Compute on Camera Frames in React Native — What Actually Worked](https://dev.to/kbrandwijk/zero-copy-gpu-compute-on-camera-frames-in-react-native-what-actually-worked-512j)
-- [The Era of &quot;Vibe Coding&quot; &amp; Agentic Workflows: Why You’re Still Using AI Wrong](https://dev.to/syedahmershah/the-era-of-vibe-coding-agentic-workflows-why-youre-still-using-ai-wrong-4idb)
-- [Building MCP Servers: Extend AI with Custom Tools](https://dev.to/eqhoids/building-mcp-servers-extend-ai-with-custom-tools-3cp0)
-- [How API Data Bloat is Ruining Your AI Agents &lpar;And How I Cut Token Usage by 98% in Python&rpar;](https://dev.to/craig_mac_dev/how-api-data-bloat-is-ruining-your-ai-agents-and-how-i-cut-token-usage-by-98-in-python-3bif)
+- [Stop Putting LLM API Keys in .env Files](https://dev.to/yotta/stop-putting-llm-api-keys-in-env-files-3i0h)
+- [AI Customer Service Backfire: Half of Companies Now Hiring Back Humans](https://dev.to/derivinate/ai-customer-service-backfire-half-of-companies-now-hiring-back-humans-4g5c)
+- [Stop Slouching! Build a TinyML Posture Guardian with ESP32 and TensorFlow Lite 🚀](https://dev.to/wellallytech/stop-slouching-build-a-tinyml-posture-guardian-with-esp32-and-tensorflow-lite-9je)
+- [Docker commands](https://dev.to/methew_smith/docker-commands-1kh)
+- [Get Your Hands Dirty - AgentCore - Memory](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-memory-8bf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
