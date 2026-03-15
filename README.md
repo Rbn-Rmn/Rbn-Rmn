@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built a Chrome extension that stream-parses 2GB XML files using only 20MB of RAM. Here&#39;s the architecture.](https://dev.to/yana_postnova_3499025b3ea/i-built-a-chrome-extension-that-stream-parses-2gb-xml-files-using-only-20mb-of-ram-heres-the-4nk5)
-- [Git Commit Split: Shell Command Quick Reference](https://dev.to/bmf_san/git-commit-split-shell-command-quick-reference-2981)
-- [Quick and easy Next.js boilerplate with TypeScript to jumpstart your project](https://dev.to/dekigk/quick-and-easy-nextjs-boilerplate-with-typescript-to-jumpstart-your-project-2lkn)
-- [Common Mistakes in Software Architecture: Developing and Evaluating Non-Functional Requirements](https://dev.to/bmf_san/common-mistakes-in-software-architecture-developing-and-evaluating-non-functional-requirements-432b)
-- [Why AI agents need a standard profile format](https://dev.to/boubacardiallo/why-ai-agents-need-a-standard-profile-format-3akj)
+- [Meta Now Lets You Use AI in Coding Interviews. Most Candidates Use It Wrong.](https://dev.to/klement_gunndu/meta-now-lets-you-use-ai-in-coding-interviews-most-candidates-use-it-wrong-5156)
+- [Tooling Tips: Visualizing Your Data in MongoDB and Kafka](https://dev.to/rvneto/tooling-tips-visualizing-your-data-in-mongodb-and-kafka-1k1p)
+- [Guardian AI: Building a Real-Time Personal Safety App with Google Gemini Live API](https://dev.to/rahul_gurunule/guardian-ai-building-a-real-time-personal-safety-app-with-google-gemini-live-api-gd0)
+- [Zero-Shot vs Fine-Tuned Models: Which Should You Use?](https://dev.to/natan_vidra_71cda7df82ec7/zero-shot-vs-fine-tuned-models-which-should-you-use-15ob)
+- [Building a Spin Wheel - Part 1, Random Digits in Javascript: Crypto.getRandomValues&lpar;&rpar;](https://dev.to/dakshim/building-a-spin-wheel-part-1-random-digits-in-javascript-cryptogetrandomvalues-1g1b)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
