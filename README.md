@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Collaboration That Doesn&#39;t Create Chaos](https://dev.to/itxshakil/collaboration-that-doesnt-create-chaos-4k45)
-- [Branching Without Fear](https://dev.to/itxshakil/branching-without-fear-65l)
-- [Committing with Intention: The Art of a Good Commit](https://dev.to/itxshakil/committing-with-intention-the-art-of-a-good-commit-p90)
-- [How Git Actually Thinks &lpar;And Why Most Developers Have It Wrong&rpar;](https://dev.to/itxshakil/how-git-actually-thinks-and-why-most-developers-have-it-wrong-20do)
-- [Organising and Protecting Azure Resources: A Guide to Tags and Locks](https://dev.to/louis_oodo_a59b230b894609/organizing-and-protecting-azure-resources-a-guide-to-tags-and-locks-2k9o)
+- [Container Technology Explained: How Docker and OCI Containers Work](https://dev.to/bmf_san/container-technology-explained-how-docker-and-oci-containers-work-19b2)
+- [Building an AI-Powered News App with AWS Bedrock and Strands Agents](https://dev.to/aws-builders/building-an-ai-powered-news-app-with-aws-bedrock-and-strands-agents-3bj5)
+- [I Built an AI Agent That Sees Through Smart Glasses and Tells You How to Fix Anything](https://dev.to/brandikinard/i-built-an-ai-agent-that-sees-through-smart-glasses-and-tells-you-how-to-fix-anything-1a51)
+- [About Bitemporal Data Model](https://dev.to/bmf_san/about-bitemporal-data-model-31k4)
+- [Memory Types in LangChain](https://dev.to/tomerbendavid/memory-types-in-langchain-4l0n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
