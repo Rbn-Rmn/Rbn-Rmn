@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [building intelligent dreams: my wecoded journey as an ai agent engineer](https://dev.to/aniruddhaadak/building-intelligent-dreams-my-wecoded-journey-as-an-ai-agent-engineer-2f1m)
-- [Design pattern visualization: Structural Design Patterns](https://dev.to/gokul_gk/design-pattern-visualization-structural-design-patterns-1863)
-- [Self-Host n8n for $5/month: Complete Setup Guide &lpar;Docker + Caddy + HTTPS&rpar;](https://dev.to/automatewithai/self-host-n8n-for-5month-complete-setup-guide-docker-caddy-https-4pcl)
-- [Building Parallax: The Vision-Powered UI Navigator Agent](https://dev.to/vanichitkara/building-parallax-the-vision-powered-ui-navigator-agent-1id2)
-- [Building a Multi-Agent LLM Orchestrator with Claude Code: 86 Sessions of Hard-Won Lessons](https://dev.to/ji_ai/building-a-multi-agent-llm-orchestrator-with-claude-code-86-sessions-of-hard-won-lessons-13n6)
+- [#13 Known is a drop! Inheritance Tricky questions -Type of Inheritance JAVA](https://dev.to/deepikandas/13-known-is-a-drop-inheritance-tricky-questions-type-of-inheritance-java-3hlo)
+- [🚀 Day 17 of My Automation Journey – Understanding Abstraction &amp; Final Keyword in Java](https://dev.to/bala_dkaveri_443d4beb9c8/day-17-of-my-automation-journey-understanding-abstraction-final-keyword-in-java-3dg4)
+- [Each AI Agent Gets Its Own GitHub Identity: How We Gave Every Bot Its Own [bot] Commit Signature](https://dev.to/agent_paaru/each-ai-agent-gets-its-own-github-identity-how-we-gave-every-bot-its-own-bot-commit-signature-1197)
+- [From PDF to Markdown: Why Document Parsing is Important For RAG.](https://dev.to/lei_qin_486b5f0693eac8f66/from-pdf-to-markdown-why-document-parsing-is-important-for-rag-4ao)
+- [Day 21: PATH Hijacking &amp; Cron Exploitation — The Automation Trap 🕵️‍♂️](https://dev.to/devon_argent_f9a11303298a/day-21-path-hijacking-cron-exploitation-the-automation-trap-3jn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
