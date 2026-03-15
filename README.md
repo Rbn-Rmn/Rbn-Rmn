@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Stop Putting LLM API Keys in .env Files](https://dev.to/yotta/stop-putting-llm-api-keys-in-env-files-3i0h)
-- [AI Customer Service Backfire: Half of Companies Now Hiring Back Humans](https://dev.to/derivinate/ai-customer-service-backfire-half-of-companies-now-hiring-back-humans-4g5c)
-- [Stop Slouching! Build a TinyML Posture Guardian with ESP32 and TensorFlow Lite 🚀](https://dev.to/wellallytech/stop-slouching-build-a-tinyml-posture-guardian-with-esp32-and-tensorflow-lite-9je)
-- [Docker commands](https://dev.to/methew_smith/docker-commands-1kh)
-- [Get Your Hands Dirty - AgentCore - Memory](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-memory-8bf)
+- [🚀 Introducing AI Codebase Analyst: Understand Any GitHub Repository in Under 60 Seconds](https://dev.to/akash_kumarnaik_80d5f390/introducing-ai-codebase-analyst-understand-any-github-repository-in-under-60-seconds-2ogi)
+- [Code Review Best Practices - The Complete Guide for Engineering Teams &lpar;2026&rpar;](https://dev.to/rahulxsingh/code-review-best-practices-the-complete-guide-for-engineering-teams-2026-52a4)
+- [SonarQube vs ESLint: Code Quality Platform vs JavaScript Linter &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-eslint-code-quality-platform-vs-javascript-linter-2026-i55)
+- [How I Built a Real-Time Voice AI University Counsellor with Google ADK and Gemini Live in 10 Days](https://dev.to/eliotc/how-i-built-a-real-time-voice-ai-university-counsellor-with-google-adk-and-gemini-live-in-10-days-1if7)
+- [The Three Reliability Modes I See in Production AI Agents](https://dev.to/the_bookmaster/the-three-reliability-modes-i-see-in-production-ai-agents-3h8n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
