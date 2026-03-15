@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Meta Now Lets You Use AI in Coding Interviews. Most Candidates Use It Wrong.](https://dev.to/klement_gunndu/meta-now-lets-you-use-ai-in-coding-interviews-most-candidates-use-it-wrong-5156)
-- [Tooling Tips: Visualizing Your Data in MongoDB and Kafka](https://dev.to/rvneto/tooling-tips-visualizing-your-data-in-mongodb-and-kafka-1k1p)
-- [Guardian AI: Building a Real-Time Personal Safety App with Google Gemini Live API](https://dev.to/rahul_gurunule/guardian-ai-building-a-real-time-personal-safety-app-with-google-gemini-live-api-gd0)
-- [Zero-Shot vs Fine-Tuned Models: Which Should You Use?](https://dev.to/natan_vidra_71cda7df82ec7/zero-shot-vs-fine-tuned-models-which-should-you-use-15ob)
-- [Building a Spin Wheel - Part 1, Random Digits in Javascript: Crypto.getRandomValues&lpar;&rpar;](https://dev.to/dakshim/building-a-spin-wheel-part-1-random-digits-in-javascript-cryptogetrandomvalues-1g1b)
+- [Why Domain-Specific AI Often Outperforms General Models](https://dev.to/natan_vidra/why-domain-specific-ai-often-outperforms-general-models-33dk)
+- [Building a QR Code Generator with 10 Content Types and Scan Analytics](https://dev.to/shaishav_patel_271fdcd61a/building-a-qr-code-generator-with-10-content-types-and-scan-analytics-1dfg)
+- [mediaforge — A Modern TypeScript FFmpeg Wrapper &lpar;fluent-ffmpeg is Dead, Long Live mediaforge&rpar;](https://dev.to/globaltechinfo/mediaforge-a-modern-typescript-ffmpeg-wrapper-fluent-ffmpeg-is-dead-long-live-mediaforge-5ajm)
+- [WEFT OS – Rethinking “Firefox OS” For 2026](https://dev.to/marcoallegretti/weft-os-rethinking-firefox-os-for-2026-1aai)
+- [Why Every Agent Needs A Transmission Protocol](https://dev.to/popvilla/why-every-agent-needs-a-transmission-protocol-2cj8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
