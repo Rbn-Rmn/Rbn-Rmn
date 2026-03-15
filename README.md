@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Container Technology Explained: How Docker and OCI Containers Work](https://dev.to/bmf_san/container-technology-explained-how-docker-and-oci-containers-work-19b2)
-- [Building an AI-Powered News App with AWS Bedrock and Strands Agents](https://dev.to/aws-builders/building-an-ai-powered-news-app-with-aws-bedrock-and-strands-agents-3bj5)
-- [I Built an AI Agent That Sees Through Smart Glasses and Tells You How to Fix Anything](https://dev.to/brandikinard/i-built-an-ai-agent-that-sees-through-smart-glasses-and-tells-you-how-to-fix-anything-1a51)
-- [About Bitemporal Data Model](https://dev.to/bmf_san/about-bitemporal-data-model-31k4)
-- [Memory Types in LangChain](https://dev.to/tomerbendavid/memory-types-in-langchain-4l0n)
+- [Excluding Table Names from Laravel&#39;s Many-to-Many Relations](https://dev.to/bmf_san/excluding-table-names-from-laravels-many-to-many-relations-449e)
+- [Participated as Core Staff and LT Speaker at Laravel JP Conference](https://dev.to/bmf_san/participated-as-core-staff-and-lt-speaker-at-laravel-jp-conference-16jp)
+- [Database ID Design: UUID vs Auto Increment vs ULID — Which to Choose?](https://dev.to/bmf_san/database-id-design-uuid-vs-auto-increment-vs-ulid-which-to-choose-3c29)
+- [HTTP and SSL/TLS](https://dev.to/bmf_san/http-and-ssltls-38nm)
+- [Creating a Cross-platform Data Sandbox that makes Working with Data Easier and Faster](https://dev.to/muraddevs/creating-a-cross-platform-data-sandbox-that-makes-working-with-data-easier-and-faster-4mi5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
