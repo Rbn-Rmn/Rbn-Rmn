@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Ortu: A Local-First Clipboard Manager Built with Tauri and Rust](https://dev.to/abhijith_p_subash/ortu-a-local-first-clipboard-manager-built-with-tauri-and-rust-1dn3)
-- [Xoul - Building a Local AI Agent Platform with Small LLMs: The Walls of Tool Calling and Practical Solutions](https://dev.to/kim_namhyun_e7535f3dc4c69/xoul-building-a-local-ai-agent-platform-with-small-llms-the-walls-of-tool-calling-and-practical-11fb)
-- [An Autonomous, Agentic, AI Assistant, Meet Alfred and this is how I built him.](https://dev.to/joojodontoh/an-autonomous-agentic-ai-assistant-meet-alfred-and-this-is-how-i-built-him-4e7m)
-- [The Problem with AI Tests That Don&#39;t Know Your App](https://dev.to/cypress/the-problem-with-ai-tests-that-dont-know-your-app-2iga)
-- [How I turned approved SQL into governed business KPIs](https://dev.to/vincenzo_nudo_842cddd9973/how-i-turned-approved-sql-into-governed-business-kpis-4673)
+- [Cold Starts en AWS Lambda: Qué son, por qué ocurren y cómo solucionarlos](https://dev.to/aws/cold-starts-en-aws-lambda-que-son-por-que-ocurren-y-como-solucionarlos-13no)
+- [Switch from Ruby CSV to SmarterCSV in 5 Minutes](https://dev.to/tilo_sloboda/switch-from-ruby-csv-to-smartercsv-in-5-minutes-3636)
+- [Tracing a RAG Chain End-to-End: Where OpenTelemetry Stops and Where You Need to Instrument Yourself](https://dev.to/erythix_6d20050c4f1039b32/tracing-a-rag-chain-end-to-end-where-opentelemetry-stops-and-where-you-need-to-instrument-yourself-2840)
+- [Why &lt;label&gt; and &lt;button&gt; Are Better Than &lt;div&gt; for Forms](https://dev.to/pawar-shivam7/why-and-are-better-than-for-forms-1mhj)
+- [10 Ways Ruby&#39;s CSV.read Can Silently Corrupt or Lose Your Data](https://dev.to/tilo_sloboda/10-ways-rubys-csvread-can-silently-corrupt-or-lose-your-data-1g02)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
