@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I connected SAP Business One to WhatsApp using AI agents &lpar;open-source&rpar;](https://dev.to/marcostaira/how-i-connected-sap-business-one-to-whatsapp-using-ai-agents-open-source-1210)
-- [I Built a Real-Time AI Voice Agent That Automates Your Business Workflows in 2 days - From Bahrain, During a War](https://dev.to/hamzeh1128/i-built-a-real-time-ai-voice-agent-that-automates-your-business-workflows-in-2-days-from-bahrain-5dkh)
-- [I Built an MCP Tool That Scans Smart Contracts for Security Risks](https://dev.to/fino_3953725ae0be269e863a/i-built-an-mcp-tool-that-scans-smart-contracts-for-security-risks-338m)
-- [I built a privacy-first developer toolbox — 50+ tools, all in your browser](https://dev.to/mike_sheldon_df4e6cb23804/i-built-a-privacy-first-developer-toolbox-50-tools-all-in-your-browser-4g4l)
-- [I Asked My AI Agent to Update My E-Ink Display. It Just Did It.](https://dev.to/andreagriffiths11/i-asked-my-ai-agent-to-update-my-e-ink-display-it-just-did-it-b5l)
+- [Cómo sacar el máximo partido a Kiro](https://dev.to/aws-builders/como-sacar-el-maximo-partido-a-kiro-4i00)
+- [ScamDetect: Building a Multilingual AI-Powered Phishing Detection Platform](https://dev.to/blaycoder/scamdetect-building-a-multilingual-ai-powered-phishing-detection-platform-1d4n)
+- [Most AI Apps Return Text. DreamLoom Returns a Living Storybook - With Voice, Illustrations, and Music in Real Time.](https://dev.to/kaviyakumar23/most-ai-apps-return-text-dreamloom-returns-a-living-storybook-with-voice-illustrations-and-1koa)
+- [From Prompts to Real Files: A Developer&#39;s Guide to AI File Generation](https://dev.to/imaginex/your-llm-can-write-files-now-4c6e)
+- [Your Multi-Agent System Has a Memory Problem](https://dev.to/slythefox/your-multi-agent-system-has-a-memory-problem-5hbg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
