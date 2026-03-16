@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I built an AI SaaS boilerplate in a week using vibe coding &lpar;no prior experience&rpar;](https://dev.to/himanshu_sarvaiya_97226e9/how-i-built-an-ai-saas-boilerplate-in-a-week-using-vibe-coding-no-prior-experience-2a0g)
-- [Supabase Quick Docs](https://dev.to/xiaoguang_/supabase-quick-docs-2dmj)
-- [BIAN: estructurando el negocio bancario y su encaje con DDD y microservicios](https://dev.to/jlarizar/bian-estructurando-el-negocio-bancario-y-su-encaje-con-ddd-y-microservicios-105m)
-- [Using PageBolt with Windsurf Cascade Agents](https://dev.to/custodiaadmin/using-pagebolt-with-windsurf-cascade-agents-523g)
-- [Hashicorp Vault CLI Part 7: Authentication](https://dev.to/admantium/hashicorp-vault-cli-part-7-authentication-2k33)
+- [CodeRabbit vs Codacy: Which Code Review Tool Wins in 2026?](https://dev.to/rahulxsingh/coderabbit-vs-codacy-which-code-review-tool-wins-in-2026-4b40)
+- [Is CompTIA Security+ Worth It in 2026? Salary Data Says $97K Average](https://dev.to/secuspark/is-comptia-security-worth-it-in-2026-salary-data-says-97k-average-15dj)
+- [How to Study for Security+ Effectively: 7 Methods Ranked by Retention Rate](https://dev.to/secuspark/how-to-study-for-security-effectively-7-methods-ranked-by-retention-rate-2b88)
+- [🔁 Migrating to Tekton: This blog post is about my experience migrating from Travis CI to Tekton.](https://dev.to/denesbeck/migrating-to-tekton-this-blog-post-is-about-my-experience-migrating-from-travis-ci-to-tekton-167a)
+- [Run Your Own ChatGPT Offline: Open WebUI + Ollama + Local Knowledge Base](https://dev.to/addwebsolutionpvtltd/run-your-own-chatgpt-offline-open-webui-ollama-local-knowledge-base-467g)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
