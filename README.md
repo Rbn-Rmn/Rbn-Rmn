@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Tried CachyOS and Now I Can&#39;t Stop Booting Into It](https://dev.to/adrianjiga/i-tried-cachyos-and-now-i-cant-stop-booting-into-it-33c7)
-- [Intro About Java Script](https://dev.to/deva_i_932c8869ada96d4c9f/intro-about-java-script-16ad)
-- [Our first hackathon where we actually had to think like a startup](https://dev.to/leelaakash9/our-first-hackathon-where-we-actually-had-to-think-like-a-startup-3lp6)
-- [Everyone’s raising their AI lobster. Not everyone has a server to run it on.](https://dev.to/pardnchiu/everyones-raising-their-ai-lobster-not-everyone-has-a-server-to-run-it-on-n9d)
-- [Building Complex, Excel-Style Data Tables with PDF &amp; Excel Exports in Flutter 📊](https://dev.to/mehedisoftdev/building-complex-excel-style-data-tables-with-pdf-excel-exports-in-flutter-24oe)
+- [&quot;Just launched Leapr — a platform for people going through career transitions. It gives you a gap analysis](https://dev.to/deepika_sharma_f30addac17/just-launched-leapr-a-platform-for-people-going-through-career-transitions-it-gives-you-a-gap-an-1g0)
+- [What if the TV App of the Future Isn&#39;t an App but It&#39;s a Conversation?](https://dev.to/giolaq/what-if-the-tv-app-of-the-future-isnt-an-app-but-its-a-conversation-2gkk)
+- [Your AI Agent Has Amnesia. Here&#39;s the Fix.](https://dev.to/neocortexdev/your-ai-agent-has-amnesia-heres-the-fix-4pl3)
+- [I built a SaaS in 3 days with Claude Code as a CS student - here&#39;s exactly what happened](https://dev.to/ivicago5/i-built-a-saas-in-3-days-with-claude-code-as-a-cs-student-heres-exactly-what-happened-20pa)
+- [The Vibe Coding Security Checklist: 10 Checks to Run Before You Ship AI-Generated Code](https://dev.to/toniantunovic/the-vibe-coding-security-checklist-10-checks-to-run-before-you-ship-ai-generated-code-2abn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
