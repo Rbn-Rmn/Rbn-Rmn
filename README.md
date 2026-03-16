@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [HTMLCollection vs NodeList in DOM: A JavaScript Guide](https://dev.to/ritam369/htmlcollection-vs-nodelist-in-dom-a-javascript-guide-2cd5)
-- [How I Built a Complete Multi-Tenancy System for My Laravel SaaS - Without Spatie](https://dev.to/d_isaenko_dev/how-i-built-a-complete-multi-tenancy-system-for-my-laravel-saas-without-spatie-227a)
-- [Moveet: incidents, recording &amp; replay, fleet management, dispatch flows, and 500+ tests](https://dev.to/ivannovazzi/moveet-v2-incidents-recording-replay-icon-rail-ui-and-500-tests-5fl5)
-- [How to Add Swap Space on Ubuntu &lpar;5GB Example&rpar;](https://dev.to/jervi/how-to-add-swap-space-on-ubuntu-5gb-example-3f1n)
-- [Ship Your Product Documentation Into Customer&#39;s Chat Client](https://dev.to/thehayashi/ship-your-product-documentation-into-customers-chat-client-3lhf)
+- [FREE AI CODE ASSISTANTS THAT ACTUALLY WORK 3](https://dev.to/uncle_drew/free-ai-code-assistants-that-actually-work-3-2cma)
+- [How I automated IPA transcription for linguistics: A story of CMUdict and Offline-first design](https://dev.to/louisbuilds/how-i-automated-ipa-transcription-for-linguistics-a-story-of-cmudict-and-offline-first-design-89j)
+- [The Hidden Cost of &quot;Observability Theater&quot; &lpar;And How to Fix It&rpar;](https://dev.to/ashwinidave/the-hidden-cost-of-observability-theater-and-how-to-fix-it-2i1n)
+- [Lithium Battery Woes... &lpar;&lpar;or... why I can&#39;t hack my Mardi Gras Throw&rpar;&rpar;](https://dev.to/hopeyclarkey/batteries-or-why-i-cant-hack-my-mardi-gras-throw-44pl)
+- [Fake Claude Code Download Pages Are Delivering Infostealer Malware](https://dev.to/securityleader/fake-claude-code-download-pages-are-delivering-infostealer-malware-585f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
