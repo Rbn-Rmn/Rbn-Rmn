@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Private LLM Deployment: A Practical Guide for Enterprise Teams &lpar;2026&rpar;](https://dev.to/jaipalsingh/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026-2p62)
-- [I built a real-time AI screen co-pilot in 10 days using Gemini and Google Cloud:🚀🎉🏆🤖](https://dev.to/kowshik_jallipalli_a7e0a5/i-built-a-real-time-ai-screen-co-pilot-in-10-days-using-gemini-and-google-cloud-8ab)
-- [PAI x Notion: When 13 AI Agents Share a Brain](https://dev.to/paifamily/pai-x-notion-when-13-ai-agents-share-a-brain-6af)
-- [I built Aquilia, a modular backend framework for Python](https://dev.to/kuroyami/i-built-aquilia-a-modular-backend-framework-for-python-1bop)
-- [Browser Fingerprinting on Adult Sites: What I Found After 130 Blacklight Scans](https://dev.to/o_aoarcom_c78fc0b85aa5/browser-fingerprinting-on-adult-sites-what-i-found-after-130-blacklight-scans-3dfp)
+- [How I built an AI SaaS boilerplate in a week using vibe coding &lpar;no prior experience&rpar;](https://dev.to/himanshu_sarvaiya_97226e9/how-i-built-an-ai-saas-boilerplate-in-a-week-using-vibe-coding-no-prior-experience-2a0g)
+- [Supabase Quick Docs](https://dev.to/xiaoguang_/supabase-quick-docs-2dmj)
+- [BIAN: estructurando el negocio bancario y su encaje con DDD y microservicios](https://dev.to/jlarizar/bian-estructurando-el-negocio-bancario-y-su-encaje-con-ddd-y-microservicios-105m)
+- [Using PageBolt with Windsurf Cascade Agents](https://dev.to/custodiaadmin/using-pagebolt-with-windsurf-cascade-agents-523g)
+- [Hashicorp Vault CLI Part 7: Authentication](https://dev.to/admantium/hashicorp-vault-cli-part-7-authentication-2k33)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
