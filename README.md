@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [2026 WeCoded Challenge &lpar;Glass Ceiling&rpar;](https://dev.to/dan52242644dan/2026-wecoded-challenge-glass-ceiling-2nn4)
-- [Build an MCP Server That Finds Your RAG Chatbot&#39;s Blind Spots](https://dev.to/hamurda/build-an-mcp-server-that-finds-your-rag-chatbots-blind-spots-3hb1)
-- [Action Buttons in Dataframes with Record-Level Routing in Shiny for Python](https://dev.to/india_owens/action-buttons-in-dataframes-with-record-level-routing-in-shiny-for-python-1k7o)
-- [Per-Tab Immersive Status Bar and Programmatic TabBar Hiding with ArkUI Tabs](https://dev.to/harmonyos/per-tab-immersive-status-bar-and-programmatic-tabbar-hiding-with-arkui-tabs-5c4g)
-- [Listening to Scroll in ArkUI Web: Global Scroll &amp; Bottom Detection with onScroll - onOverScroll](https://dev.to/harmonyos/listening-to-scroll-in-arkui-web-global-scroll-bottom-detection-with-onscroll-onoverscroll-38no)
+- [Private LLM Deployment: A Practical Guide for Enterprise Teams &lpar;2026&rpar;](https://dev.to/jaipalsingh/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026-2p62)
+- [I built a real-time AI screen co-pilot in 10 days using Gemini and Google Cloud:🚀🎉🏆🤖](https://dev.to/kowshik_jallipalli_a7e0a5/i-built-a-real-time-ai-screen-co-pilot-in-10-days-using-gemini-and-google-cloud-8ab)
+- [PAI x Notion: When 13 AI Agents Share a Brain](https://dev.to/paifamily/pai-x-notion-when-13-ai-agents-share-a-brain-6af)
+- [I built Aquilia, a modular backend framework for Python](https://dev.to/kuroyami/i-built-aquilia-a-modular-backend-framework-for-python-1bop)
+- [Browser Fingerprinting on Adult Sites: What I Found After 130 Blacklight Scans](https://dev.to/o_aoarcom_c78fc0b85aa5/browser-fingerprinting-on-adult-sites-what-i-found-after-130-blacklight-scans-3dfp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
