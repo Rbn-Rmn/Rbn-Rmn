@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [CodeRabbit vs Codacy: Which Code Review Tool Wins in 2026?](https://dev.to/rahulxsingh/coderabbit-vs-codacy-which-code-review-tool-wins-in-2026-4b40)
-- [Is CompTIA Security+ Worth It in 2026? Salary Data Says $97K Average](https://dev.to/secuspark/is-comptia-security-worth-it-in-2026-salary-data-says-97k-average-15dj)
-- [How to Study for Security+ Effectively: 7 Methods Ranked by Retention Rate](https://dev.to/secuspark/how-to-study-for-security-effectively-7-methods-ranked-by-retention-rate-2b88)
-- [🔁 Migrating to Tekton: This blog post is about my experience migrating from Travis CI to Tekton.](https://dev.to/denesbeck/migrating-to-tekton-this-blog-post-is-about-my-experience-migrating-from-travis-ci-to-tekton-167a)
-- [Run Your Own ChatGPT Offline: Open WebUI + Ollama + Local Knowledge Base](https://dev.to/addwebsolutionpvtltd/run-your-own-chatgpt-offline-open-webui-ollama-local-knowledge-base-467g)
+- [We Lost 600 Hours Last Sprint: Here&#39;s What Our Time Data Actually Showed Us.](https://dev.to/abhishek_c_838d5b319e1257/we-lost-600-hours-last-sprint-heres-what-our-time-data-actually-showed-us-3j0g)
+- [AI Chatbots vs AI Agents: What Developers Should Build in 2026](https://dev.to/the_bookmaster/ai-chatbots-vs-ai-agents-what-developers-should-build-in-2026-40jf)
+- [Reusable Architecture for Large Applications with Nuxt Layers](https://dev.to/jacobandrewsky/reusable-architecture-for-large-applications-with-nuxt-layers-1a46)
+- [GigShield -DevTrials](https://dev.to/sharmishthaa_raids_bff1/gigshield-devtrials-336p)
+- [Client Handover - simplified](https://dev.to/sabrkei/client-handover-simplified-206)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
