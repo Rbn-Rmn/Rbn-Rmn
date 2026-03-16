@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [FREE AI CODE ASSISTANTS THAT ACTUALLY WORK 3](https://dev.to/uncle_drew/free-ai-code-assistants-that-actually-work-3-2cma)
-- [How I automated IPA transcription for linguistics: A story of CMUdict and Offline-first design](https://dev.to/louisbuilds/how-i-automated-ipa-transcription-for-linguistics-a-story-of-cmudict-and-offline-first-design-89j)
-- [The Hidden Cost of &quot;Observability Theater&quot; &lpar;And How to Fix It&rpar;](https://dev.to/ashwinidave/the-hidden-cost-of-observability-theater-and-how-to-fix-it-2i1n)
-- [Lithium Battery Woes... &lpar;&lpar;or... why I can&#39;t hack my Mardi Gras Throw&rpar;&rpar;](https://dev.to/hopeyclarkey/batteries-or-why-i-cant-hack-my-mardi-gras-throw-44pl)
-- [Fake Claude Code Download Pages Are Delivering Infostealer Malware](https://dev.to/securityleader/fake-claude-code-download-pages-are-delivering-infostealer-malware-585f)
+- [What CTOs Actually Said When I Asked About Rust and LLMs](https://dev.to/arezvov/what-ctos-actually-said-when-i-asked-about-rust-and-llms-5cd7)
+- [How We 3x&#39;d Organic Traffic in 14 Days: The Real Claude Code SEO Stack &lpar;Not Theory, Actual Production&rpar;](https://dev.to/kislay/how-we-3xd-organic-traffic-in-14-days-the-real-claude-code-seo-stack-not-theory-actual-5012)
+- [Where Does Your Medication Data Actually Go? The Case for Local-First Architecture](https://dev.to/wellnestapp/where-does-your-medication-data-actually-go-the-case-for-local-first-architecture-5a8i)
+- [Should One User Be Able to Add Multiple Reactions on the Same Post? 🤔](https://dev.to/maibhushan/should-one-user-be-able-to-add-multiple-reactions-on-the-same-post-25e7)
+- [Where Improvements Meet Innovation - Part 1](https://dev.to/sleewoo/where-improvements-meet-innovation-part-1-4d2j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
