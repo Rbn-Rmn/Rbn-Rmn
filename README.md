@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [We Lost 600 Hours Last Sprint: Here&#39;s What Our Time Data Actually Showed Us.](https://dev.to/abhishek_c_838d5b319e1257/we-lost-600-hours-last-sprint-heres-what-our-time-data-actually-showed-us-3j0g)
-- [AI Chatbots vs AI Agents: What Developers Should Build in 2026](https://dev.to/the_bookmaster/ai-chatbots-vs-ai-agents-what-developers-should-build-in-2026-40jf)
-- [Reusable Architecture for Large Applications with Nuxt Layers](https://dev.to/jacobandrewsky/reusable-architecture-for-large-applications-with-nuxt-layers-1a46)
-- [GigShield -DevTrials](https://dev.to/sharmishthaa_raids_bff1/gigshield-devtrials-336p)
-- [Client Handover - simplified](https://dev.to/sabrkei/client-handover-simplified-206)
+- [HTMLCollection vs NodeList in DOM: A JavaScript Guide](https://dev.to/ritam369/htmlcollection-vs-nodelist-in-dom-a-javascript-guide-2cd5)
+- [How I Built a Complete Multi-Tenancy System for My Laravel SaaS - Without Spatie](https://dev.to/d_isaenko_dev/how-i-built-a-complete-multi-tenancy-system-for-my-laravel-saas-without-spatie-227a)
+- [Moveet: incidents, recording &amp; replay, fleet management, dispatch flows, and 500+ tests](https://dev.to/ivannovazzi/moveet-v2-incidents-recording-replay-icon-rail-ui-and-500-tests-5fl5)
+- [How to Add Swap Space on Ubuntu &lpar;5GB Example&rpar;](https://dev.to/jervi/how-to-add-swap-space-on-ubuntu-5gb-example-3f1n)
+- [Ship Your Product Documentation Into Customer&#39;s Chat Client](https://dev.to/thehayashi/ship-your-product-documentation-into-customers-chat-client-3lhf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
