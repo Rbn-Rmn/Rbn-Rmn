@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [ASP.NET---101](https://dev.to/whyamisotoxic/aspnet-101-2nh9)
-- [ASP.NET---101 &lpar;Setup&rpar;](https://dev.to/whyamisotoxic/aspnet-101-setup-57oc)
-- [ASP.NET---101 &lpar;REST&rpar;](https://dev.to/whyamisotoxic/aspnet-101-rest-53pa)
-- [ASP.NET---101 &lpar;Fundamentals&rpar;](https://dev.to/whyamisotoxic/aspnet-101-fundamentals-1ndm)
-- [I gave a local LLM memory, moods, and a task loop. Then it wrote a philosophical book.](https://dev.to/southy404/i-gave-a-local-llm-memory-moods-and-a-task-loop-then-it-wrote-a-philosophical-book-57o8)
+- [Human-in-the-Loop Evaluation Systems for GenAI Platforms](https://dev.to/shreekansha97/human-in-the-loop-evaluation-systems-for-genai-platforms-28gm)
+- [Voice Ownership Needs an Exit Door, Not Just an Onboarding Flow](https://dev.to/chefbc2k_v1/voice-ownership-needs-an-exit-door-not-just-an-onboarding-flow-5fpi)
+- [Webpack vs Vite: The Complete Guide Every Frontend Dev Must Read &lpar;2026&rpar;](https://dev.to/munna_thakur_2019444f0351/webpack-vs-vite-the-complete-guide-every-frontend-dev-must-read-2026-46pd)
+- [SurfaceDocs + LlamaIndex: From RAG Pipeline to Shareable Report](https://dev.to/surfacedocs/surfacedocs-llamaindex-from-rag-pipeline-to-shareable-report-2fdf)
+- [User experience signals to log for mobile observability](https://dev.to/bitdrift/user-experience-signals-to-log-for-mobile-observability-3b2e)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
