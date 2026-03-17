@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Oracle APEX Reporting Tools Comparison &lpar;2026 Edition&rpar;](https://dev.to/shanemccoy37/oracle-apex-reporting-tools-comparison-2026-edition-bf4)
-- [JavaScript Events Simply Explained With Real Code Examples](https://dev.to/manikanta_yarramsetti_7bc/javascript-events-explained-in-a-way-that-actually-makes-sense-3c2b)
-- [Proof of Concept vs Prototype vs MVP: Knowing When to Use Which](https://dev.to/lollypop_vietnam_d12b708c/proof-of-concept-vs-prototype-vs-mvp-knowing-when-to-use-which-3ib6)
-- [How we reduced AI inference costs by 60% without sacrificing accuracy](https://dev.to/adamo_software/how-we-reduced-ai-inference-costs-by-60-without-sacrificing-accuracy-448h)
-- [When Autonomous AI Agents Go Mainstream: The Hidden Security Risks Behind OpenClaw](https://dev.to/meowth/when-autonomous-ai-agents-go-mainstream-the-hidden-security-risks-behind-openclaw-2ffg)
+- [Your Vector Database Decision Is Simpler Than You Think](https://dev.to/reneza/your-vector-database-decision-is-simpler-than-you-think-3ape)
+- [Step-by-Step Guide to Setting Up Terraform, AWS CLI, and Your AWS Environment](https://dev.to/saheed_ea3f3e90be19db2eac/step-by-step-guide-to-setting-up-terraform-aws-cli-and-your-aws-environment-5dj)
+- [5 More Advanced Python Patterns for High-Scale Engineering](https://dev.to/dimitrisk_cyclopt/5-more-advanced-python-patterns-for-high-scale-engineering-1pdm)
+- [How I Hardened My VPS in One Afternoon: SSH, Cloudflare, and Tailscale](https://dev.to/hafiz619/how-i-hardened-my-vps-in-one-afternoon-ssh-cloudflare-and-tailscale-525j)
+- [I Built a Free Subdomain Platform for Developers — Here&#39;s How](https://dev.to/vipineyyy/i-built-a-free-subdomain-platform-for-developers-heres-how-32fm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
