@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Most Developers Ignore the &lt;main&gt; Tag — But It Fixes a Big Accessibility Problem](https://dev.to/pawar-shivam7/most-developers-ignore-the-tag-but-it-fixes-a-big-accessibility-problem-238e)
-- [THE INTERNET](https://dev.to/ashomondi/the-internet-3mgc)
-- [Why Windows Subsystem for Linux &lpar;WSL&rpar; Has Become My Development Game-Changer](https://dev.to/skinnyytallboy/why-windows-subsystem-for-linux-wsl-has-become-my-development-game-changer-5gn7)
-- [🤖 AI Tools Every Developer Should Know in 2026: The Beginner&#39;s Complete Guide](https://dev.to/devraj_singh7/ai-tools-every-developer-should-know-in-2026-the-beginners-complete-guide-1bn3)
-- [JavaScript’s Promise Rejected Its Namesake](https://dev.to/jeffrey_riggle_e261fba011/javascripts-promise-rejected-its-namesake-345a)
+- [Making a Local LLM MCP Server Deterministic: Model Routing, Think-Block Stripping, and the Problems Nobody Warns You About](https://dev.to/richardbaxter/making-a-local-llm-mcp-server-deterministic-model-routing-think-block-stripping-and-the-problems-5bmj)
+- [DOM in JavaScript — What Actually Happens When Your Code Runs](https://dev.to/kathirvel-s/dom-in-javascript-what-actually-happens-when-your-code-runs-213d)
+- [A 3rd year CS student&#39;s attempt to reduce AI&#39;s water footprint — EcoCache &lpar;A Python Library&rpar;](https://dev.to/ganugapatisaisowmya/a-3rd-year-cs-students-attempt-to-reduce-ais-water-footprint-ecocache-a-python-library-36gk)
+- [From 0 to Production AI Agent in 30 Minutes — Full-Stack Template with 5 AI Frameworks](https://dev.to/deenuu1/from-0-to-production-ai-agent-in-30-minutes-full-stack-template-with-5-ai-frameworks-3b4o)
+- [Claude Code stops to ask permission before every shell command. Here&#39;s the two-line fix.](https://dev.to/builtbyzac/claude-code-stops-to-ask-permission-before-every-shell-command-heres-the-two-line-fix-3oo5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
