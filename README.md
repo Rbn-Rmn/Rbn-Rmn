@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your Vector Database Decision Is Simpler Than You Think](https://dev.to/reneza/your-vector-database-decision-is-simpler-than-you-think-3ape)
-- [Step-by-Step Guide to Setting Up Terraform, AWS CLI, and Your AWS Environment](https://dev.to/saheed_ea3f3e90be19db2eac/step-by-step-guide-to-setting-up-terraform-aws-cli-and-your-aws-environment-5dj)
-- [5 More Advanced Python Patterns for High-Scale Engineering](https://dev.to/dimitrisk_cyclopt/5-more-advanced-python-patterns-for-high-scale-engineering-1pdm)
-- [How I Hardened My VPS in One Afternoon: SSH, Cloudflare, and Tailscale](https://dev.to/hafiz619/how-i-hardened-my-vps-in-one-afternoon-ssh-cloudflare-and-tailscale-525j)
-- [I Built a Free Subdomain Platform for Developers — Here&#39;s How](https://dev.to/vipineyyy/i-built-a-free-subdomain-platform-for-developers-heres-how-32fm)
+- [🧠 What is Subnetting? &lpar;Step-by-Step Guide for Beginners&rpar;](https://dev.to/comsiam/what-is-subnetting-step-by-step-guide-for-beginners-53j6)
+- [Why Your Health Insurance Doesn&#39;t Cover That](https://dev.to/bytebrujo/why-your-health-insurance-doesnt-cover-that-7jl)
+- [A practical guide to implementing a Fastify modular project — Part 1 Technology Selection](https://dev.to/ferns/a-practical-guide-to-implementing-a-fastify-modular-project-part-1-technology-selection-3nk0)
+- [RendrKit: The Open-Source Alternative to Bannerbear](https://dev.to/mokyio/rendrkit-the-open-source-alternative-to-bannerbear-4in1)
+- [Spec-Driven Development: Introduction](https://dev.to/incomplete_developer/spec-driven-development-introduction-23i7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
