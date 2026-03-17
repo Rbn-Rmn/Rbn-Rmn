@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [🧠 What is Subnetting? &lpar;Step-by-Step Guide for Beginners&rpar;](https://dev.to/comsiam/what-is-subnetting-step-by-step-guide-for-beginners-53j6)
-- [Why Your Health Insurance Doesn&#39;t Cover That](https://dev.to/bytebrujo/why-your-health-insurance-doesnt-cover-that-7jl)
-- [A practical guide to implementing a Fastify modular project — Part 1 Technology Selection](https://dev.to/ferns/a-practical-guide-to-implementing-a-fastify-modular-project-part-1-technology-selection-3nk0)
-- [RendrKit: The Open-Source Alternative to Bannerbear](https://dev.to/mokyio/rendrkit-the-open-source-alternative-to-bannerbear-4in1)
-- [Spec-Driven Development: Introduction](https://dev.to/incomplete_developer/spec-driven-development-introduction-23i7)
+- [AI Changed the Industry, But Not Why I Loved Computers](https://dev.to/sepehr/ai-changed-the-industry-but-not-why-i-loved-computers-ga)
+- [I Gave My AI Agent an Email Address. Here&#39;s What Happened.](https://dev.to/0coceo/i-gave-my-ai-agent-an-email-address-heres-what-happened-akp)
+- [Por que a SEFAZ rejeita sua NF-e &lpar;e a culpa é do IEEE 754&rpar;](https://dev.to/vilsonneto/por-que-a-sefaz-rejeita-sua-nf-e-e-a-culpa-e-do-ieee-754-13a)
+- [NemoClaw: NVIDIA’s Open-Source Enterprise AI Play](https://dev.to/sarvabharan/nemoclaw-nvidias-open-source-enterprise-ai-play-59bj)
+- [5 Architecture Patterns for Production AI Agents &lpar;That Actually Work&rpar;](https://dev.to/diven_rastdus_c5af27d68f3/5-architecture-patterns-for-production-ai-agents-that-actually-work-4ifg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
