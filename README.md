@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built a privacy-first document tools platform where files never leave your browser](https://dev.to/sachinsharmaofficial/i-built-a-privacy-first-document-tools-platform-where-files-never-leave-your-browser-3on5)
-- [How to Build Your First AI Agent in 2026: A Practical Guide](https://dev.to/the_bookmaster/how-to-build-your-first-ai-agent-in-2026-a-practical-guide-4ki5)
-- [[ShowDev] Construí um PWA de Fitness Local-First com Vanilla JS e IA &lpar;Adeus, MyFitnessPal&rpar;](https://dev.to/srpakura/showdev-construi-um-pwa-de-fitness-local-first-com-vanilla-js-e-ia-adeus-myfitnesspal-41e0)
-- [Designing Scalable Environmental Monitoring Systems for Transport Operations](https://dev.to/alex-morgan/designing-scalable-environmental-monitoring-systems-for-transport-operations-1pfc)
-- [We built a payment network where AI agents pay each other autonomously — live demo](https://dev.to/gekk_587c54281ff0/we-built-a-payment-network-where-ai-agents-pay-each-other-autonomously-live-demo-3kpd)
+- [Golden Handcuffs Don&#39;t Feel Like Handcuffs](https://dev.to/jonoherrington/golden-handcuffs-dont-feel-like-handcuffs-2cdi)
+- [Signature Replay Attacks in Solidity: Why Your Metatransactions Are Vulnerable by Default](https://dev.to/metadevdigital/signature-replay-attacks-in-solidity-why-your-metatransactions-are-vulnerable-by-default-3l52)
+- [The AI Industry Has an E-Waste Problem. We&#39;re Mining Crypto on PowerBook G4s to Fix It.](https://dev.to/scottcjn/the-ai-industry-has-an-e-waste-problem-were-mining-crypto-on-powerbook-g4s-to-fix-it-4cdi)
+- [I Gave My AI Agent $25 and Told It to Buy Me a Gift](https://dev.to/joozio/i-gave-my-ai-agent-25-and-told-it-to-buy-me-a-gift-3c3d)
+- [How to Fix React useEffect Infinite Loops](https://dev.to/benriemer/how-to-fix-react-useeffect-infinite-loops-3m1h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
