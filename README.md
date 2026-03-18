@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Reason Your AI Chatbot Keeps Frustrating Users](https://dev.to/ampnup/the-hidden-reason-your-ai-chatbot-keeps-frustrating-users-3pgl)
-- [Sandbox ve Test Ortamı: Temel Farklar &amp; En İyi Uygulamalar](https://dev.to/tobiass_hoffmann/sandbox-ve-test-ortami-temel-farklar-en-iyi-uygulamalar-2ce3)
-- [Beyond the Hype: A Developer&#39;s Guide to Building *With* AI, Not Just Using It](https://dev.to/midas126/beyond-the-hype-a-developers-guide-to-building-with-ai-not-just-using-it-4jpf)
-- [Compress JPEG Files: A Guide to Optimal Quality](https://dev.to/pixotter/compress-jpeg-files-a-guide-to-optimal-quality-5bcd)
-- [The 10-Minute Morning Ritual That Doubled My Coding Output](https://dev.to/cumulus/the-10-minute-morning-ritual-that-doubled-my-coding-output-2jc1)
+- [Understanding the AgentBench Skill: Benchmarking Your OpenClaw AI Agents](https://dev.to/aloycwl/understanding-the-agentbench-skill-benchmarking-your-openclaw-ai-agents-41nd)
+- [Next.js Folder Zen: Padroneggiare la Directory app/](https://dev.to/gavincettolo/nextjs-folder-zen-padroneggiare-la-directory-app-485k)
+- [Connecting Power BI to a SQL Database: A Practical Guide](https://dev.to/karen_langat_299784e2c330/connecting-power-bi-to-a-sql-database-a-practical-guide-36am)
+- [I Gave Claude Access to My Strava — Here&#39;s How I Built It](https://dev.to/richy_aj_b50cdb704f55a608/i-gave-claude-access-to-my-strava-heres-how-i-built-it-5089)
+- [Microservices Doesn&#39;t Mean Lambda Everything](https://dev.to/jlinco/microservices-doesnt-mean-lambda-everything-4339)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
