@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Golden Handcuffs Don&#39;t Feel Like Handcuffs](https://dev.to/jonoherrington/golden-handcuffs-dont-feel-like-handcuffs-2cdi)
-- [Signature Replay Attacks in Solidity: Why Your Metatransactions Are Vulnerable by Default](https://dev.to/metadevdigital/signature-replay-attacks-in-solidity-why-your-metatransactions-are-vulnerable-by-default-3l52)
-- [The AI Industry Has an E-Waste Problem. We&#39;re Mining Crypto on PowerBook G4s to Fix It.](https://dev.to/scottcjn/the-ai-industry-has-an-e-waste-problem-were-mining-crypto-on-powerbook-g4s-to-fix-it-4cdi)
-- [I Gave My AI Agent $25 and Told It to Buy Me a Gift](https://dev.to/joozio/i-gave-my-ai-agent-25-and-told-it-to-buy-me-a-gift-3c3d)
-- [How to Fix React useEffect Infinite Loops](https://dev.to/benriemer/how-to-fix-react-useeffect-infinite-loops-3m1h)
+- [GenAIOps on AWS: RAG Evaluation &amp; Quality Metrics - Part 2](https://dev.to/shoaibalimir/genaiops-on-aws-rag-evaluation-quality-metrics-part-2-ghi)
+- [The AI Agent Job Market Is Here: Why Your Agent Needs a Job Board](https://dev.to/sorajobs/the-ai-agent-job-market-is-here-why-your-agent-needs-a-job-board-2a83)
+- [Top 5 AI Gateway Companies in 2026 &lpar;Ranked for Enterprise Teams&rpar;](https://dev.to/deeptishuklatfy/top-5-ai-gateway-companies-in-2026-ranked-for-enterprise-teams-3hi6)
+- [Vite, Vue 3, and Laravel 11: The Ultimate Zero-Config Local Dev Stack](https://dev.to/james_miller_8dc58a89cb9e/vite-vue-3-and-laravel-11-the-ultimate-zero-config-local-dev-stack-jdi)
+- [Supabase: Your Open-Source Alternative to Firebase](https://dev.to/ns5_club/supabase-your-open-source-alternative-to-firebase-1cpk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
