@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building with Snowflake Cortex Analyst — What I Learned About Semantic Layers and Guardrails](https://dev.to/vijayrodrigues/building-with-snowflake-cortex-analyst-what-i-learned-about-semantic-layers-and-guardrails-23pm)
-- [How to Compress PNG Files Without Losing Quality [2026 Guide]](https://dev.to/pixotter/how-to-compress-png-files-without-losing-quality-2026-guide-2c14)
-- [Co-Packaged Optics &lpar;CPO&rpar;: Redefining Optical Interconnects for AI Data Centers](https://dev.to/aicplight/co-packaged-optics-cpo-redefining-optical-interconnects-for-ai-data-centers-1p7b)
-- [MCP for AI Services: How to Give Claude Desktop Access to 30 GPU-Powered Tools](https://dev.to/gpubridge/mcp-for-ai-services-how-to-give-claude-desktop-access-to-30-gpu-powered-tools-1pn7)
-- [Signals in React &lpar;II&rpar;: Tear-Free Subscriptions](https://dev.to/luciano0322/signals-in-react-ii-tear-free-subscriptions-3mpf)
+- [Small Wins Matter: Refining Steal Logic with Success and Attempt Probabilities](https://dev.to/lee12/small-wins-matter-refining-steal-logic-with-success-and-attempt-probabilities-20bj)
+- [Least Privilege Is Not Enough for AI Agents. You Need Least Agency.](https://dev.to/thenexusguard/least-privilege-is-not-enough-for-ai-agents-you-need-least-agency-38g8)
+- [I Ripped Out Docker Compose from Our ML Platform and Put Everything on EKS. Here&#39;s What Actually Happened.](https://dev.to/ramcreddy_ops/i-ripped-out-docker-compose-from-our-ml-platform-and-put-everything-on-eks-heres-what-actually-2b9k)
+- [Building a Local RAG System with Citations &lpar;No Hallucinations&rpar;](https://dev.to/subraatakumar/building-a-local-rag-system-with-citations-no-hallucinations-4dcd)
+- [Build a JavaScript BMI Calculator &lpar;Step-by-Step Beginner Guide&rpar;](https://dev.to/yuvronixstudio/build-a-javascript-bmi-calculator-step-by-step-beginner-guide-50b8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
