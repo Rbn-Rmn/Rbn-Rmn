@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [GenAIOps on AWS: RAG Evaluation &amp; Quality Metrics - Part 2](https://dev.to/shoaibalimir/genaiops-on-aws-rag-evaluation-quality-metrics-part-2-ghi)
-- [The AI Agent Job Market Is Here: Why Your Agent Needs a Job Board](https://dev.to/sorajobs/the-ai-agent-job-market-is-here-why-your-agent-needs-a-job-board-2a83)
-- [Top 5 AI Gateway Companies in 2026 &lpar;Ranked for Enterprise Teams&rpar;](https://dev.to/deeptishuklatfy/top-5-ai-gateway-companies-in-2026-ranked-for-enterprise-teams-3hi6)
-- [Vite, Vue 3, and Laravel 11: The Ultimate Zero-Config Local Dev Stack](https://dev.to/james_miller_8dc58a89cb9e/vite-vue-3-and-laravel-11-the-ultimate-zero-config-local-dev-stack-jdi)
-- [Supabase: Your Open-Source Alternative to Firebase](https://dev.to/ns5_club/supabase-your-open-source-alternative-to-firebase-1cpk)
+- [Swarm Intelligence Phase 2 — Cross-Vertical Trust Propagation for AI Agents](https://dev.to/moltycel/swarm-intelligence-phase-2-cross-vertical-trust-propagation-for-ai-agents-cni)
+- [I Drove $31M in Bookings. The System Said I Needed Improvement.](https://dev.to/brian_c_d9f4c2cf20a5ee57d/i-drove-31m-in-bookings-the-system-said-i-needed-improvement-2clp)
+- [My OpenClaw agent wouldn&#39;t stay autonomous. Here&#39;s what fixed it.](https://dev.to/sebconejo/my-openclaw-agent-wouldnt-stay-autonomous-heres-what-fixed-it-4aoi)
+- [DataDog&#39;s Build Binary Size Reduction: Uncovering Methods, Challenges, and Implications](https://dev.to/viklogix/datadogs-build-binary-size-reduction-uncovering-methods-challenges-and-implications-3ei3)
+- [🧠 Codex OS: I tried turning AI into a local dev “operating system”](https://dev.to/rotsl/codex-os-i-tried-turning-ai-into-a-local-dev-operating-system-45f0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
