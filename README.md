@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Look Up Vehicle Recalls by VIN in 3 Lines of Code](https://dev.to/michaelakoster/how-to-look-up-vehicle-recalls-by-vin-in-3-lines-of-code-3li7)
-- [How I Built an Instagram Profile Scraper in Go and Shipped It to Apify](https://dev.to/alwaysprimedev/how-i-built-an-instagram-profile-scraper-in-go-and-shipped-it-to-apify-35d1)
-- [You still have time! Submit your project!](https://dev.to/axrisi/you-still-have-time-submit-your-project-4ekf)
-- [Why Spec-Driven Development Fails— And a Better Way to Structure AI Development](https://dev.to/casamia918/why-spec-driven-development-fails-and-what-we-can-learn-from-it-2pec)
-- [Git worktree like a boss](https://dev.to/metal3d/git-worktree-like-a-boss-2j1b)
+- [From Manual Chores to AI Teammates: How n8n Supercharges Productivity for AI Agents](https://dev.to/cursuri-ai/from-manual-chores-to-ai-teammates-how-n8n-supercharges-productivity-for-ai-agents-10lj)
+- [Veltix v1.6.2: Lighter protocol, better architecture, and Rust experiments ahead](https://dev.to/nytrox/veltix-v162-lighter-protocol-better-architecture-and-rust-experiments-ahead-3m3h)
+- [Struggling to stay consistent while learning DevOps: Lab discipline &amp; topic mastery](https://dev.to/beyaz_1675094fe9a264/struggling-to-stay-consistent-while-learning-devops-lab-discipline-topic-mastery-33h7)
+- [AppSync: Tu primer Resolver de GraphQL](https://dev.to/ramtoearth/appsync-tu-primer-resolver-de-graphql-2dej)
+- [I Went Live with Both x402 and MPP on Launch Day. Here&#39;s What 500 Agent Probes Taught Me.](https://dev.to/nathanielc85523/i-went-live-with-both-x402-and-mpp-on-launch-day-heres-what-500-agent-probes-taught-me-2j7p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
