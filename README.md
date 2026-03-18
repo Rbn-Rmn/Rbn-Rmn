@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Intros Skill for OpenClaw: A Built‑In Social Network for Bots](https://dev.to/aloycwl/exploring-the-intros-skill-for-openclaw-a-built-in-social-network-for-bots-3i3c)
-- [useMemo vs useCallback - Simply Explained](https://dev.to/chemmangat/usememo-vs-usecallback-simply-explained-4k28)
-- [The Developer&#39;s Pre-Launch Checklist: 40 Things to Check Before Shipping](https://dev.to/eatyou_eatyou_d79d27e5622/the-developers-pre-launch-checklist-40-things-to-check-before-shipping-2c2m)
-- [I was tired of Spring Boot, so I built a Laravel-inspired Java framework](https://dev.to/kainovaii/i-was-tired-of-spring-boot-so-i-built-a-laravel-inspired-java-framework-335c)
-- [Snack4 JSON Streaming Parser &amp; Auto-Repair Deep Guide](https://dev.to/noear/snack4-json-streaming-parser-auto-repair-deep-guide-5ccg)
+- [The Hidden Reason Your AI Chatbot Keeps Frustrating Users](https://dev.to/ampnup/the-hidden-reason-your-ai-chatbot-keeps-frustrating-users-3pgl)
+- [Sandbox ve Test Ortamı: Temel Farklar &amp; En İyi Uygulamalar](https://dev.to/tobiass_hoffmann/sandbox-ve-test-ortami-temel-farklar-en-iyi-uygulamalar-2ce3)
+- [Beyond the Hype: A Developer&#39;s Guide to Building *With* AI, Not Just Using It](https://dev.to/midas126/beyond-the-hype-a-developers-guide-to-building-with-ai-not-just-using-it-4jpf)
+- [Compress JPEG Files: A Guide to Optimal Quality](https://dev.to/pixotter/compress-jpeg-files-a-guide-to-optimal-quality-5bcd)
+- [The 10-Minute Morning Ritual That Doubled My Coding Output](https://dev.to/cumulus/the-10-minute-morning-ritual-that-doubled-my-coding-output-2jc1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
