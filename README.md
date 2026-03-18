@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the AgentBench Skill: Benchmarking Your OpenClaw AI Agents](https://dev.to/aloycwl/understanding-the-agentbench-skill-benchmarking-your-openclaw-ai-agents-41nd)
-- [Next.js Folder Zen: Padroneggiare la Directory app/](https://dev.to/gavincettolo/nextjs-folder-zen-padroneggiare-la-directory-app-485k)
-- [Connecting Power BI to a SQL Database: A Practical Guide](https://dev.to/karen_langat_299784e2c330/connecting-power-bi-to-a-sql-database-a-practical-guide-36am)
-- [I Gave Claude Access to My Strava — Here&#39;s How I Built It](https://dev.to/richy_aj_b50cdb704f55a608/i-gave-claude-access-to-my-strava-heres-how-i-built-it-5089)
-- [Microservices Doesn&#39;t Mean Lambda Everything](https://dev.to/jlinco/microservices-doesnt-mean-lambda-everything-4339)
+- [Hidden Problem That Makes Most Load Tests Unrealistic](https://dev.to/oleh_koren/hidden-problem-that-makes-most-load-tests-unrealistic-2o33)
+- [One SDK, 12 Modalities: AI Inference Shouldn&#39;t Be This Fragmented](https://dev.to/nimi_runtime/one-sdk-12-modalities-ai-inference-shouldnt-be-this-fragmented-4oi1)
+- [How I&#39;m Learning Java From Scratch — The 2-Resource Setup That&#39;s Actually Working](https://dev.to/karn_ven_900f5b396ccdf9ac/how-im-learning-java-from-scratch-the-2-resource-setup-thats-actually-working-5eib)
+- [The Engineering Hiring Decision That Looks Right and Costs You Twelve Months](https://dev.to/wiseaccelerate/the-engineering-hiring-decision-that-looks-right-and-costs-you-twelve-months-5b2h)
+- [Building a Local RAG Pipeline on Mobile: Vector Search with SQLite, On-Device Embeddings, and a Shared KMP Architecture](https://dev.to/software_mvp-factory/building-a-local-rag-pipeline-on-mobile-vector-search-with-sqlite-on-device-embeddings-and-a-311m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
