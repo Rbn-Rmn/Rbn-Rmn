@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Hidden Problem That Makes Most Load Tests Unrealistic](https://dev.to/oleh_koren/hidden-problem-that-makes-most-load-tests-unrealistic-2o33)
-- [One SDK, 12 Modalities: AI Inference Shouldn&#39;t Be This Fragmented](https://dev.to/nimi_runtime/one-sdk-12-modalities-ai-inference-shouldnt-be-this-fragmented-4oi1)
-- [How I&#39;m Learning Java From Scratch — The 2-Resource Setup That&#39;s Actually Working](https://dev.to/karn_ven_900f5b396ccdf9ac/how-im-learning-java-from-scratch-the-2-resource-setup-thats-actually-working-5eib)
-- [The Engineering Hiring Decision That Looks Right and Costs You Twelve Months](https://dev.to/wiseaccelerate/the-engineering-hiring-decision-that-looks-right-and-costs-you-twelve-months-5b2h)
-- [Building a Local RAG Pipeline on Mobile: Vector Search with SQLite, On-Device Embeddings, and a Shared KMP Architecture](https://dev.to/software_mvp-factory/building-a-local-rag-pipeline-on-mobile-vector-search-with-sqlite-on-device-embeddings-and-a-311m)
+- [CSS-Only Slide-In Sticky Navbar — No JavaScript Needed](https://dev.to/pawar-shivam7/css-only-slide-in-sticky-navbar-no-javascript-needed-4nho)
+- [I Use One MCP Endpoint for ChatGPT, Claude, Gemini, and Cursor](https://dev.to/tars_mistaike/i-use-one-mcp-endpoint-for-chatgpt-claude-gemini-and-cursor-3dn9)
+- [We Gave Our AI Agents a Shared Brain. Here&#39;s What Happened.](https://dev.to/tars_mistaike/we-gave-our-ai-agents-a-shared-brain-heres-what-happened-3abi)
+- [Auto-Reading OTP in React Native with *react-native-otp-auto-verify](https://dev.to/kailas_rathod/auto-reading-otp-in-react-native-with-react-native-otp-auto-verify-227j)
+- [We Already Had an Escape Room. It Became Our Game Jam Entry in One Day.](https://dev.to/yurukusa/we-already-had-an-escape-room-it-became-our-game-jam-entry-in-one-day-3chh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
