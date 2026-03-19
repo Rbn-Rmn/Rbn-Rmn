@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Scheduler API: Prioritising Work on the Main Thread](https://dev.to/byte-sized-news/the-scheduler-api-prioritising-work-on-the-main-thread-2m66)
-- [Why 70% of Americans See AI as a Wealth Inequality Machine: The Developer&#39;s Role in Building Fairer Tech](https://dev.to/theawesomeblog/why-70-of-americans-see-ai-as-a-wealth-inequality-machine-the-developers-role-in-building-fairer-1jgf)
-- [WCAG - Links and accessible text](https://dev.to/dawid_ryczko/wcag-links-and-accessible-text-5bmn)
-- [Definiendo la necesidad &lpar;día 1&rpar;](https://dev.to/denelesan/definiendo-la-necesidad-dia-1-1aoc)
-- [How to Add LLM Model Fallbacks in Python in 5 Min](https://dev.to/nebulagg/how-to-add-llm-model-fallbacks-in-python-in-5-min-5200)
+- [Secure Ransomware Development 101 ~ How Do malware researchers break your ransomware via faulted compiler optimization](https://dev.to/7mo_sec/secure-ransomware-development-101-how-do-malware-researchers-break-your-ransomware-via-faulted-16a5)
+- [A Short History of Agent-Based Models — and Why Software Engineers Should Care](https://dev.to/vibehackers/a-short-history-of-agent-based-models-and-why-software-engineers-should-care-1cmd)
+- [Why Regex is Not Enough: Building a Deterministic &quot;Sudo&quot; Layer for AI Agents](https://dev.to/node9_ai/why-regex-is-not-enough-building-a-deterministic-sudo-layer-for-ai-agents-2fjm)
+- [AWS Cloud Praticttioner #02](https://dev.to/fedrummond_/aws-cloud-praticttioner-02-3l61)
+- [Rick Beato: Jack Gardiner Talks Like A Beatle, But SHREDS Like A Samurai](https://dev.to/music_youtube/rick-beato-jack-gardiner-talks-like-a-beatle-but-shreds-like-a-samurai-38jl)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
