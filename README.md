@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Adventures of Blink S5e3: A Menu in Pygame](https://dev.to/linkbenjamin/the-adventures-of-blink-s5e3-a-menu-in-pygame-3d4m)
-- [How I Built a 10,000+ Page SEO Site with Next.js and PostgreSQL](https://dev.to/christina_sanchez_f16f40a/how-i-built-a-10000-page-seo-site-with-nextjs-and-postgresql-3ipp)
-- [How I built a Safari-style Browser Frame for Website Screenshots &lpar;Python + Pillow&rpar;](https://dev.to/michael_silverlining/how-i-built-a-safari-style-browser-frame-for-website-screenshots-python-pillow-4m84)
-- [Agents in 60 lines of python : Part 1](https://dev.to/ahd_1337/agents-in-60-lines-of-python-part-1-3jd8)
-- [How to Give Your AI Coding Tool Domain Expertise in 30 Seconds](https://dev.to/ratneshmaurya/how-to-give-your-ai-coding-tool-domain-expertise-in-30-seconds-1eim)
+- [Rate limiter in Go: per-IP token bucket with golang.org/x/time/rate](https://dev.to/ohugonnot/rate-limiter-in-go-per-ip-token-bucket-with-golangorgxtimerate-5ff8)
+- [How I Built a Complete Laravel eCommerce with Stripe &amp; Admin Panel &lpar;And How You Can Too&rpar;](https://dev.to/raghav_bansal_1f1448488ae/how-i-built-a-complete-laravel-ecommerce-with-stripe-admin-panel-and-how-you-can-too-4lpd)
+- [There is no real “memory” unless YOU manage it.](https://dev.to/osama_saleem_saas/there-is-no-real-memory-unless-you-manage-it-4lin)
+- [How to Spruce Up Your GitHub Profile: Make It Stand Out!](https://dev.to/julesindata/how-to-spruce-up-your-github-profile-make-it-stand-out-43o0)
+- [How to install RabbitMQ](https://dev.to/altairlage/how-to-install-rabbitmq-3k6b)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
