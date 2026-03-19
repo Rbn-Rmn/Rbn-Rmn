@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Relay](https://dev.to/thesythesis/the-relay-43pb)
-- [Edge Rendering Tactics for Personalized Landing Pages That Convert Without Compromising Speed](https://dev.to/jasonbiondo/edge-rendering-tactics-for-personalized-landing-pages-that-convert-without-compromising-speed-1l7d)
-- [mlx-audio: Speech Processing Library on Apple Silicon](https://dev.to/stelixx-insider/mlx-audio-speech-processing-library-on-apple-silicon-1254)
-- [Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase](https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe)
-- [The Dissolved Boundary](https://dev.to/thesythesis/the-dissolved-boundary-4680)
+- [The Side Effect](https://dev.to/thesythesis/the-side-effect-2jkc)
+- [MCP Observability is the New APM](https://dev.to/irparent/mcp-observability-is-the-new-apm-1236)
+- [OpenAI&#39;s IPO Plans: What Developers Need to Know About the AI Giant&#39;s Public Market Ambitions](https://dev.to/theawesomeblog/openais-ipo-plans-what-developers-need-to-know-about-the-ai-giants-public-market-ambitions-5gp7)
+- [Solving &quot;Use Machine Learning APIs on Google Cloud: Challenge Lab&quot; — A Complete Guide](https://dev.to/willtorber/solving-use-machine-learning-apis-on-google-cloud-challenge-lab-a-complete-guide-4no6)
+- [🔒 Privacy-First AI: Local Medical Record Anonymization with WebLLM and WebGPU](https://dev.to/wellallytech/privacy-first-ai-local-medical-record-anonymization-with-webllm-and-webgpu-2p35)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
