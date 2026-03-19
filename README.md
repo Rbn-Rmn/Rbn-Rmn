@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [New Claude Model](https://dev.to/dhairya1890/new-claude-model-j19)
-- [The Confident Wrong](https://dev.to/thesythesis/the-confident-wrong-4fp6)
-- [Your AI Agents Are the New Insider Threat. Three CISOs Just Said It Out Loud.](https://dev.to/thenexusguard/your-ai-agents-are-the-new-insider-threat-three-cisos-just-said-it-out-loud-47mo)
-- [TERRAFORM MODULES – COMPLETE INTERVIEW Q&amp;A](https://dev.to/jumptotech/terraform-modules-complete-interview-qa-5b30)
-- [I built a Claude Code plugin that auto-names your conversations](https://dev.to/jamaalx/i-built-a-claude-code-plugin-that-auto-names-your-conversations-1lcl)
+- [I Came Back to Kotlin for KMP — Here’s What Broke First](https://dev.to/rarroyo00/i-came-back-to-kotlin-for-kmp-heres-what-broke-first-hfn)
+- [Nvidia GPU Rental: H100, A100, RTX 4090 Explained](https://dev.to/dev_yadav_26252073f3a3761/nvidia-gpu-rental-h100-a100-rtx-4090-explained-40m0)
+- [Cryptographic Proof That Your LLM Never Saw Real Data](https://dev.to/cloakllm/cryptographic-proof-that-your-llm-never-saw-real-data-50fd)
+- [Best GPU Rental for AI Training in India](https://dev.to/dev_yadav_26252073f3a3761/best-gpu-rental-for-ai-training-in-india-3h5b)
+- [Model Context Protocol &lpar;MCP&rpar;: The Tool Ecosystem for AI Agents](https://dev.to/neo_one_944288aac0bb5e89b/model-context-protocol-mcp-the-tool-ecosystem-for-ai-agents-24mi)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
