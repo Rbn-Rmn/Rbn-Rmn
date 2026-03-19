@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Side Effect](https://dev.to/thesythesis/the-side-effect-2jkc)
-- [MCP Observability is the New APM](https://dev.to/irparent/mcp-observability-is-the-new-apm-1236)
-- [OpenAI&#39;s IPO Plans: What Developers Need to Know About the AI Giant&#39;s Public Market Ambitions](https://dev.to/theawesomeblog/openais-ipo-plans-what-developers-need-to-know-about-the-ai-giants-public-market-ambitions-5gp7)
-- [Solving &quot;Use Machine Learning APIs on Google Cloud: Challenge Lab&quot; — A Complete Guide](https://dev.to/willtorber/solving-use-machine-learning-apis-on-google-cloud-challenge-lab-a-complete-guide-4no6)
-- [🔒 Privacy-First AI: Local Medical Record Anonymization with WebLLM and WebGPU](https://dev.to/wellallytech/privacy-first-ai-local-medical-record-anonymization-with-webllm-and-webgpu-2p35)
+- [New Claude Model](https://dev.to/dhairya1890/new-claude-model-j19)
+- [The Confident Wrong](https://dev.to/thesythesis/the-confident-wrong-4fp6)
+- [Your AI Agents Are the New Insider Threat. Three CISOs Just Said It Out Loud.](https://dev.to/thenexusguard/your-ai-agents-are-the-new-insider-threat-three-cisos-just-said-it-out-loud-47mo)
+- [TERRAFORM MODULES – COMPLETE INTERVIEW Q&amp;A](https://dev.to/jumptotech/terraform-modules-complete-interview-qa-5b30)
+- [I built a Claude Code plugin that auto-names your conversations](https://dev.to/jamaalx/i-built-a-claude-code-plugin-that-auto-names-your-conversations-1lcl)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
