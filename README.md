@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [On-Prem vs. Proxy — How to Deploy LLMs Without Leaking Sensitive Data](https://dev.to/rom_questaai_599bb894049/on-prem-vs-proxy-how-to-deploy-llms-without-leaking-sensitive-data-3n55)
-- [How to Scrape YouTube Data Without the Official API &lpar;No Quota Limits&rpar;](https://dev.to/__8ef7243a4f/how-to-scrape-youtube-data-without-the-official-api-no-quota-limits-4blf)
-- [How I Built a Config-Driven AI Tool Factory That Deploys 50+ Tools — Solo Developer Story](https://dev.to/kiran_reddyduvvuru_5d884/how-i-built-a-config-driven-ai-tool-factory-that-deploys-50-tools-solo-developer-story-5c2m)
-- [Why AI Agents Need Persistent Storage](https://dev.to/sandbox0/why-ai-agents-need-persistent-storage-b87)
-- [How I Cut My AI API Costs by 60% &lpar;And Stopped Juggling 5 Different Accounts&rpar;](https://dev.to/peng_wong_6ffd2114ca63a1e/how-i-cut-my-ai-api-costs-by-60-and-stopped-juggling-5-different-accounts-5g7i)
+- [The Adventures of Blink S5e3: A Menu in Pygame](https://dev.to/linkbenjamin/the-adventures-of-blink-s5e3-a-menu-in-pygame-3d4m)
+- [How I Built a 10,000+ Page SEO Site with Next.js and PostgreSQL](https://dev.to/christina_sanchez_f16f40a/how-i-built-a-10000-page-seo-site-with-nextjs-and-postgresql-3ipp)
+- [How I built a Safari-style Browser Frame for Website Screenshots &lpar;Python + Pillow&rpar;](https://dev.to/michael_silverlining/how-i-built-a-safari-style-browser-frame-for-website-screenshots-python-pillow-4m84)
+- [Agents in 60 lines of python : Part 1](https://dev.to/ahd_1337/agents-in-60-lines-of-python-part-1-3jd8)
+- [How to Give Your AI Coding Tool Domain Expertise in 30 Seconds](https://dev.to/ratneshmaurya/how-to-give-your-ai-coding-tool-domain-expertise-in-30-seconds-1eim)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
