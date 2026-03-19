@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Came Back to Kotlin for KMP — Here’s What Broke First](https://dev.to/rarroyo00/i-came-back-to-kotlin-for-kmp-heres-what-broke-first-hfn)
-- [Nvidia GPU Rental: H100, A100, RTX 4090 Explained](https://dev.to/dev_yadav_26252073f3a3761/nvidia-gpu-rental-h100-a100-rtx-4090-explained-40m0)
-- [Cryptographic Proof That Your LLM Never Saw Real Data](https://dev.to/cloakllm/cryptographic-proof-that-your-llm-never-saw-real-data-50fd)
-- [Best GPU Rental for AI Training in India](https://dev.to/dev_yadav_26252073f3a3761/best-gpu-rental-for-ai-training-in-india-3h5b)
-- [Model Context Protocol &lpar;MCP&rpar;: The Tool Ecosystem for AI Agents](https://dev.to/neo_one_944288aac0bb5e89b/model-context-protocol-mcp-the-tool-ecosystem-for-ai-agents-24mi)
+- [كيفية إضافة ذاكرة دائمة لأي وكيل ذكاء اصطناعي &lpar;ليتذكر الأمس&rpar;](https://dev.to/yusuf_khalidd/kyfy-df-dhkr-dym-ly-wkyl-dhk-stny-lytdhkr-lms-5fia)
+- [สร้าง MCP Server เสริมพลัง AI ทดสอบ API](https://dev.to/thanawat_wonchai/sraang-mcp-server-esrimphlang-ai-thdsb-api-5a88)
+- [Cara Membuat 5 AI Agent untuk Membangun API Lengkap &lpar;Dari Spesifikasi hingga Pengujian&rpar;](https://dev.to/walse/cara-membuat-5-ai-agent-untuk-membangun-api-lengkap-dari-spesifikasi-hingga-pengujian-4jfc)
+- [Yapay Zeka Aracını 10 Farklı IDE&#39;de Çalıştırmaya Dönüştürme](https://dev.to/tobiass_hoffmann/yapay-zeka-aracini-10-farkli-idede-calistirmaya-donusturme-4n87)
+- [Como Adicionar Memória Persistente ao Seu Agente de IA &lpar;Para Lembrar de Ontem&rpar;](https://dev.to/lucas_ferreira/como-adicionar-memoria-persistente-ao-seu-agente-de-ia-para-lembrar-de-ontem-3glh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
