@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [كيفية إضافة ذاكرة دائمة لأي وكيل ذكاء اصطناعي &lpar;ليتذكر الأمس&rpar;](https://dev.to/yusuf_khalidd/kyfy-df-dhkr-dym-ly-wkyl-dhk-stny-lytdhkr-lms-5fia)
-- [สร้าง MCP Server เสริมพลัง AI ทดสอบ API](https://dev.to/thanawat_wonchai/sraang-mcp-server-esrimphlang-ai-thdsb-api-5a88)
-- [Cara Membuat 5 AI Agent untuk Membangun API Lengkap &lpar;Dari Spesifikasi hingga Pengujian&rpar;](https://dev.to/walse/cara-membuat-5-ai-agent-untuk-membangun-api-lengkap-dari-spesifikasi-hingga-pengujian-4jfc)
-- [Yapay Zeka Aracını 10 Farklı IDE&#39;de Çalıştırmaya Dönüştürme](https://dev.to/tobiass_hoffmann/yapay-zeka-aracini-10-farkli-idede-calistirmaya-donusturme-4n87)
-- [Como Adicionar Memória Persistente ao Seu Agente de IA &lpar;Para Lembrar de Ontem&rpar;](https://dev.to/lucas_ferreira/como-adicionar-memoria-persistente-ao-seu-agente-de-ia-para-lembrar-de-ontem-3glh)
+- [Go Web Frameworks in Production: Performance Benchmarks and Real-World Trade-offs](https://dev.to/matthiasbruns/go-web-frameworks-in-production-performance-benchmarks-and-real-world-trade-offs-4kk1)
+- [Guia de Seleção de Modelos no TRAE](https://dev.to/captaincc/guia-de-selecao-de-modelos-no-trae-3jde)
+- [Why I Built a Centralised Platform Admin in a Microservices Architecture -And What I Learned](https://dev.to/iamcymentho/why-i-built-a-centralised-platform-admin-in-a-microservices-architecture-and-what-i-learned-7nh)
+- [Apa Itu MiroFish? Platform Simulasi AI Multi-Agen untuk Memprediksi Hasil Media Sosial](https://dev.to/walse/apa-itu-mirofish-platform-simulasi-ai-multi-agen-untuk-memprediksi-hasil-media-sosial-1ep6)
+- [Chrome 146 Finally Lets AI Control Your Real Browser — Google OAuth Included](https://dev.to/minatoplanb/chrome-146-finally-lets-ai-control-your-real-browser-google-oauth-included-28b7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
