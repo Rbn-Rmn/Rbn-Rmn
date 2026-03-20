@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Day a Green Pipeline Told Me Everything Was Fine — And It Wasn&#39;t](https://dev.to/ashish_nadar/the-day-a-green-pipeline-told-me-everything-was-fine-and-it-wasnt-336)
-- [Incremental Backup with PostgreSQL 17](https://dev.to/camptocamp-geo/incremental-backup-with-postgresql-17-47e8)
-- [Why We Still Don&#39;t Trust AI-Generated Code: The Archright Trinity](https://dev.to/wintrover/why-we-still-dont-trust-ai-generated-code-the-archright-trinity-105h)
-- [I Keep Forgetting CLIs So Does My AI Agent - Simplifying CLI Usage for Human and AI Agents with Hints and Completion](https://dev.to/aihubadmin/i-keep-forgetting-clis-so-does-my-ai-agent-simplifying-cli-usage-for-human-and-ai-agents-with-57c5)
-- [Clean Architecture: iOS Projektstruktur und Ebenen](https://dev.to/nguyenvhung9420/clean-architecture-ios-projektstruktur-und-ebenen-25io)
+- [Tích hợp Hot Update vào dự án để tối ưu thời gian cho internal testing](https://dev.to/truong_trinhduc_1909/tich-hop-hot-update-vao-du-an-de-toi-uu-thoi-gian-cho-internal-testing-16m6)
+- [14 Best Self-Hosted Claude Alternatives for AI and Coding in 2026](https://dev.to/jaipalsingh/14-best-self-hosted-claude-alternatives-for-ai-and-coding-in-2026-4ih3)
+- [How Next.js Makes You a Better Full-Stack Developer &lpar;Complete 2026 Guide&rpar;](https://dev.to/raajaryan/how-nextjs-makes-you-a-better-full-stack-developer-complete-2026-guide-34k2)
+- [Acceptance Testing Strategies &lpar;Part 2&rpar;: Feature Tests, Pyramid, and Best Practices](https://dev.to/outdated-dev/acceptance-testing-strategies-part-2-feature-tests-pyramid-and-best-practices-ogc)
+- [We Made OpenClaw Actually Usable &lpar;No More Painful Setup&rpar;](https://dev.to/easyclaw/we-made-openclaw-actually-usable-no-more-painful-setup-4833)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
