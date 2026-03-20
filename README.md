@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Reverse an Array-java](https://dev.to/mohith_001/reverse-an-array-java-2af3)
-- [Map &amp; Set: The Underrated Heroes of JavaScript](https://dev.to/kunal_dev/map-set-the-underrated-heroes-of-javascript-4ad7)
-- [How to Harden OpenClaw in 5 Minutes — Before and After a Real Prompt Injection Attack](https://dev.to/onoz1169/how-to-harden-openclaw-in-5-minutes-before-and-after-a-real-prompt-injection-attack-2d66)
-- [Squares of a Sorted Array](https://dev.to/jeyaprasadr/squares-of-a-sorted-array-2bom)
-- [How to Plan a Website Before Writing Code &lpar; VISUAL SITEMAPS&rpar;](https://dev.to/raajvir_rinku_86fbc293e7a/how-to-plan-a-website-before-writing-code-visual-sitemaps-4cd8)
+- [PostgreSQL-constraints](https://dev.to/s_mathavi_2fa1e3ea8514f34/postgresql-constraints-2bng)
+- [PostgreSql - Relationships&lpar;joins&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/postgresql-relationshipsjoins-4c6o)
+- [What is a runtime environment?](https://dev.to/mansiey/what-is-a-runtime-environment-43e5)
+- [The Secret Life of Go: Error Handling &lpar;Part 2&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-error-handling-part-2-5eo1)
+- [I built a LoL-style tier system for GitHub profiles](https://dev.to/chahyunwoo/i-built-a-lol-style-tier-system-for-github-profiles-3njc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
