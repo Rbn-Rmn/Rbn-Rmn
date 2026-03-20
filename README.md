@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [CSS Minification: Why It Matters and How to Do It](https://dev.to/_d7eb1c1703182e3ce1782/css-minification-why-it-matters-and-how-to-do-it-3o25)
-- [CSS Color Picker: HEX, RGB &amp;amp; HSL Converter Guide for Developers](https://dev.to/_d7eb1c1703182e3ce1782/css-color-picker-hex-rgb-amp-hsl-converter-guide-for-developers-1l69)
-- [Cron Expression Cheat Sheet &amp; Examples](https://dev.to/_d7eb1c1703182e3ce1782/cron-expression-cheat-sheet-examples-40k4)
-- [Top 10 Free APIs to Build Profitable Side Projects](https://dev.to/caper_dev/top-10-free-apis-to-build-profitable-side-projects-3poi)
-- [Base64 Encoding Explained: When and Why to Use It](https://dev.to/_d7eb1c1703182e3ce1782/base64-encoding-explained-when-and-why-to-use-it-4hld)
+- [I built a native GUI for direct server-to-server transfers &lpar;FTP/SFTP&rpar; because rclone CLI wasn&#39;t visual enough for me.](https://dev.to/andrii_bondar_fc866063a87/i-built-a-native-gui-for-direct-server-to-server-transfers-ftpsftp-because-rclone-cli-wasnt-dd0)
+- [Hoarder Vs Shiori](https://dev.to/selfhostingsh/hoarder-vs-shiori-2nnl)
+- [Guess the Number Higher or Lower](https://dev.to/jeyaprasadr/guess-the-number-higher-or-lower-47o3)
+- [I built a browser-based multiplayer hacking sim — here&#39;s how the Red vs Blue system works](https://dev.to/merlin777k/i-built-a-browser-based-multiplayer-hacking-sim-heres-how-the-red-vs-blue-system-works-2ie8)
+- [Yazi: The Blazing-Fast Terminal File Manager for Developers](https://dev.to/starmorph/yazi-the-blazing-fast-terminal-file-manager-for-developers-39h1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
