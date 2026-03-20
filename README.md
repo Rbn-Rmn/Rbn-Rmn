@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How We Built a Cloud SaaS to Replace Excel in Turkish Tourism](https://dev.to/touroperation/how-we-built-a-cloud-saas-to-replace-excel-in-turkish-tourism-16jd)
-- [Object Calisthenics](https://dev.to/felipedumont/object-calisthenics-3cob)
-- [Get Started on Dev.to! A Beginners Guide to Engage with the Community!](https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach)
-- [The Supabase Gotchas Nobody Warns You About &lpar;Until You Hit Them&rpar;](https://dev.to/cynthizo/the-supabase-gotchas-nobody-warns-you-about-until-you-hit-them-2a7g)
-- [Promises, Batching, AbortController, and How the Web Actually Works](https://dev.to/jalajb/promises-batching-abortcontroller-and-how-the-web-actually-works-53hi)
+- [MiroFish: The Open Source Swarm Intelligence Engine That Simulates the Future](https://dev.to/beitroot/mirofish-the-open-source-swarm-intelligence-engine-that-simulates-the-future-2h21)
+- [Echoes of Experience: What Building Real Systems Taught Me About Being a Developer](https://dev.to/gilly7/echoes-of-experience-what-building-real-systems-taught-me-about-being-a-developer-591i)
+- [Light and Shadow Settings - Unreal Engine](https://dev.to/adbhut/light-and-shadow-settings-unreal-engine-298p)
+- [Reverse a Linked List – CA22](https://dev.to/mohith_001/reverse-a-linked-list-ca22-4d0p)
+- [Majority Element – CA21](https://dev.to/mohith_001/majority-element-ca21-2dcd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
