@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building a Perplexity Clone for Local LLMs in 50 Lines of Python](https://dev.to/kazkozdev/building-a-perplexity-clone-for-local-llms-in-50-lines-of-python-2p79)
-- [How to Add Link Previews to Your React App &lpar;With Code Examples&rpar;](https://dev.to/eatyou_eatyou_d79d27e5622/how-to-add-link-previews-to-your-react-app-with-code-examples-4l6d)
-- [How I Added a LinkedIn Feed to My Website &lpar;And What Actually Worked&rpar;](https://dev.to/naveen_sharma/how-i-added-a-linkedin-feed-to-my-website-and-what-actually-worked-3g05)
-- [I Tracked My Sleep for 90 Days: Here&#39;s What the Data Actually Shows](https://dev.to/michael_lip_52d5151c3e364/i-tracked-my-sleep-for-90-days-heres-what-the-data-actually-shows-1g84)
-- [I&#39;ve Reviewed 500 Resumes: The Top 3 Are All One Page](https://dev.to/michael_lip_52d5151c3e364/ive-reviewed-500-resumes-the-top-3-are-all-one-page-50lp)
+- [Reverse an Array-java](https://dev.to/mohith_001/reverse-an-array-java-2af3)
+- [Map &amp; Set: The Underrated Heroes of JavaScript](https://dev.to/kunal_dev/map-set-the-underrated-heroes-of-javascript-4ad7)
+- [How to Harden OpenClaw in 5 Minutes — Before and After a Real Prompt Injection Attack](https://dev.to/onoz1169/how-to-harden-openclaw-in-5-minutes-before-and-after-a-real-prompt-injection-attack-2d66)
+- [Squares of a Sorted Array](https://dev.to/jeyaprasadr/squares-of-a-sorted-array-2bom)
+- [How to Plan a Website Before Writing Code &lpar; VISUAL SITEMAPS&rpar;](https://dev.to/raajvir_rinku_86fbc293e7a/how-to-plan-a-website-before-writing-code-visual-sitemaps-4cd8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
