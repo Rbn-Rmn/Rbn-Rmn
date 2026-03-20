@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Arrays, Events, and the Little Details That Make React Feel Real](https://dev.to/jalajb/arrays-events-and-the-little-details-that-make-react-feel-real-23bg)
-- [Jupyter AI Extension - Multi-LLM Support](https://dev.to/novatechnolab/jupyter-ai-extension-multi-llm-support-3gp0)
-- [I Built a Production-Level AI Resume Analyzer Using 9 Azure Services &lpar;Free Tier&rpar;](https://dev.to/devverse1703/i-built-a-production-level-ai-resume-analyzer-using-9-azure-services-free-tier-1bm9)
-- [AI Fears &#39;Conspiracy&#39; on Epstein-Mossad &lpar;I: Coincidence?&rpar;](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-i-coincidence-1643)
-- [Imports, Lists, and a Few Things That Just Make Sense in React](https://dev.to/jalajb/imports-lists-and-a-few-things-that-just-make-sense-in-react-2djc)
+- [I got tired of copy-pasting scattered logs to AI, so I built an open-source Go daemon that traces E2E &lpar;React to SQL&rpar;](https://dev.to/tdsevn/i-got-tired-of-copy-pasting-scattered-logs-to-ai-so-i-built-an-open-source-go-daemon-that-traces-513k)
+- [Stop your AI agent from ignoring your architecture](https://dev.to/tompahoward/stop-your-ai-agent-from-ignoring-your-architecture-3gc5)
+- [Building a Unified Crypto Trading System: Node.js, RabbitMQ, and AWS](https://dev.to/seafluxtechnologies/building-a-unified-crypto-trading-system-nodejs-rabbitmq-and-aws-56k1)
+- [Search in Rotated Sorted Array Using Binary Search](https://dev.to/sandhya_steffym_4872a8be/search-in-rotated-sorted-array-using-binary-search-289n)
+- [Your AI Agent Will Be Prompt-Injected. Here&#39;s How to Defend It.](https://dev.to/klement_gunndu/your-ai-agent-will-be-prompt-injected-heres-how-to-defend-it-5gk4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
