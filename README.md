@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [10 Best GitHub Copilot Alternatives for Code Review &lpar;2026&rpar;](https://dev.to/rahulxsingh/10-best-github-copilot-alternatives-for-code-review-2026-577h)
-- [Rotifer v0.4: Cloud Binding — Genes Can Now Travel Across Developers](https://dev.to/rotiferdev/rotifer-v04-cloud-binding-genes-can-now-travel-across-developers-58c)
-- [Scaling AI Context Across Dev and Strategy Teams with Isolated Memory, Open Standards, and Migration Readiness](https://dev.to/learntheropes/scaling-ai-context-across-dev-and-strategy-teams-with-isolated-memory-open-standards-and-b1c)
-- [Best CI/CD Pipeline for Small Teams: A Practical 2026 Guide](https://dev.to/_d7eb1c1703182e3ce1782/best-cicd-pipeline-for-small-teams-a-practical-2026-guide-2ad0)
-- [How to Build a CLI Tool with Rust: Step-by-Step Tutorial](https://dev.to/_d7eb1c1703182e3ce1782/how-to-build-a-cli-tool-with-rust-step-by-step-tutorial-1jek)
+- [Building a Perplexity Clone for Local LLMs in 50 Lines of Python](https://dev.to/kazkozdev/building-a-perplexity-clone-for-local-llms-in-50-lines-of-python-2p79)
+- [How to Add Link Previews to Your React App &lpar;With Code Examples&rpar;](https://dev.to/eatyou_eatyou_d79d27e5622/how-to-add-link-previews-to-your-react-app-with-code-examples-4l6d)
+- [How I Added a LinkedIn Feed to My Website &lpar;And What Actually Worked&rpar;](https://dev.to/naveen_sharma/how-i-added-a-linkedin-feed-to-my-website-and-what-actually-worked-3g05)
+- [I Tracked My Sleep for 90 Days: Here&#39;s What the Data Actually Shows](https://dev.to/michael_lip_52d5151c3e364/i-tracked-my-sleep-for-90-days-heres-what-the-data-actually-shows-1g84)
+- [I&#39;ve Reviewed 500 Resumes: The Top 3 Are All One Page](https://dev.to/michael_lip_52d5151c3e364/ive-reviewed-500-resumes-the-top-3-are-all-one-page-50lp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
