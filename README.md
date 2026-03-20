@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Notification-Oriented Paradigm &lpar;PON&rpar; in Elixir: why the BEAM fits reactive rules](https://dev.to/matheuscamarques/notification-oriented-paradigm-pon-in-elixir-why-the-beam-fits-reactive-rules-2p9e)
-- [Thinking Differently About Universal Microkernels](https://dev.to/notjustanna/thinking-differently-about-universal-microkernels-1hd0)
-- [Brow &lpar;Why We Built Brow in Swift, Not Electron&rpar;](https://dev.to/serhiy_a149d8bc6468aa1a97/brow-why-we-built-brow-in-swift-not-electron-d0l)
-- [Only 10% Know This: Which AI Course Leads to Which Job &lpar;In 2026&rpar;](https://dev.to/keerthana_696356/only-10-know-this-which-ai-course-leads-to-which-job-in-2026-9a3)
-- [A Simple Requirements Checklist That Prevents Build Confusion](https://dev.to/r_abhimaan/a-simple-requirements-checklist-that-prevents-build-confusion-38ak)
+- [How We Built a Cloud SaaS to Replace Excel in Turkish Tourism](https://dev.to/touroperation/how-we-built-a-cloud-saas-to-replace-excel-in-turkish-tourism-16jd)
+- [Object Calisthenics](https://dev.to/felipedumont/object-calisthenics-3cob)
+- [Get Started on Dev.to! A Beginners Guide to Engage with the Community!](https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach)
+- [The Supabase Gotchas Nobody Warns You About &lpar;Until You Hit Them&rpar;](https://dev.to/cynthizo/the-supabase-gotchas-nobody-warns-you-about-until-you-hit-them-2a7g)
+- [Promises, Batching, AbortController, and How the Web Actually Works](https://dev.to/jalajb/promises-batching-abortcontroller-and-how-the-web-actually-works-53hi)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
