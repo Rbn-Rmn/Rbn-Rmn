@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Use MongoDB’s Text Search](https://dev.to/mongodb/how-to-use-mongodbs-text-search-16cj)
-- [Building a Real-Time Clinical Decision Support System for Indonesian Hospitals](https://dev.to/medminutes/building-a-real-time-clinical-decision-support-system-for-indonesian-hospitals-4ame)
-- [The Architecture of AEO: How LLMs Actually Choose Which Brands to Recommend](https://dev.to/genezio/the-architecture-of-aeo-how-llms-actually-choose-which-brands-to-recommend-5fbj)
-- [I Built a Free Keyword Research Tool — No Sign Up, No Limits, No Credit Card](https://dev.to/ayushpal7/i-built-a-free-keyword-research-tool-no-sign-up-no-limits-no-credit-card-5fcc)
-- [Auth0 AWS Amplify Gen2: OIDC Authorization for AppSync via Identity Pool Federation](https://dev.to/aws-builders/auth0-aws-amplify-gen2-oidc-authorization-for-appsync-via-identity-pool-federation-l0o)
+- [Arrays, Events, and the Little Details That Make React Feel Real](https://dev.to/jalajb/arrays-events-and-the-little-details-that-make-react-feel-real-23bg)
+- [Jupyter AI Extension - Multi-LLM Support](https://dev.to/novatechnolab/jupyter-ai-extension-multi-llm-support-3gp0)
+- [I Built a Production-Level AI Resume Analyzer Using 9 Azure Services &lpar;Free Tier&rpar;](https://dev.to/devverse1703/i-built-a-production-level-ai-resume-analyzer-using-9-azure-services-free-tier-1bm9)
+- [AI Fears &#39;Conspiracy&#39; on Epstein-Mossad &lpar;I: Coincidence?&rpar;](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-i-coincidence-1643)
+- [Imports, Lists, and a Few Things That Just Make Sense in React](https://dev.to/jalajb/imports-lists-and-a-few-things-that-just-make-sense-in-react-2djc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
