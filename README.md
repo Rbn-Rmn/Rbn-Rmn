@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of copy-pasting scattered logs to AI, so I built an open-source Go daemon that traces E2E &lpar;React to SQL&rpar;](https://dev.to/tdsevn/i-got-tired-of-copy-pasting-scattered-logs-to-ai-so-i-built-an-open-source-go-daemon-that-traces-513k)
-- [Stop your AI agent from ignoring your architecture](https://dev.to/tompahoward/stop-your-ai-agent-from-ignoring-your-architecture-3gc5)
-- [Building a Unified Crypto Trading System: Node.js, RabbitMQ, and AWS](https://dev.to/seafluxtechnologies/building-a-unified-crypto-trading-system-nodejs-rabbitmq-and-aws-56k1)
-- [Search in Rotated Sorted Array Using Binary Search](https://dev.to/sandhya_steffym_4872a8be/search-in-rotated-sorted-array-using-binary-search-289n)
-- [Your AI Agent Will Be Prompt-Injected. Here&#39;s How to Defend It.](https://dev.to/klement_gunndu/your-ai-agent-will-be-prompt-injected-heres-how-to-defend-it-5gk4)
+- [Why do QA Engineers call it &#39;Test Setup&#39; while DEVs call it &#39;Seeding&#39;? - Conversations with Claude.ai](https://dev.to/tjmaher1/why-do-qa-engineers-call-it-test-setup-while-devs-call-it-seeding-conversations-with-8h3)
+- [Why You Should Never Store Plaintext Passwords &lpar;And How Bcrypt Fixes That&rpar;](https://dev.to/michael_lip_52d5151c3e364/why-you-should-never-store-plaintext-passwords-and-how-bcrypt-fixes-that-3bo1)
+- [Trim Audio Files Without Installing Software](https://dev.to/michael_lip_52d5151c3e364/trim-audio-files-without-installing-software-5p4)
+- [I paid for an Instagram API with 3 lines of code — no signup, no API keys](https://dev.to/socialinteldev/i-paid-for-an-instagram-api-with-3-lines-of-code-no-signup-no-api-keys-25g2)
+- [Audio Formats Explained: When to Use MP3, WAV, FLAC, OGG, and AAC](https://dev.to/michael_lip_52d5151c3e364/audio-formats-explained-when-to-use-mp3-wav-flac-ogg-and-aac-4h04)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
