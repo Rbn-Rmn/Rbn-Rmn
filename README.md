@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built a native GUI for direct server-to-server transfers &lpar;FTP/SFTP&rpar; because rclone CLI wasn&#39;t visual enough for me.](https://dev.to/andrii_bondar_fc866063a87/i-built-a-native-gui-for-direct-server-to-server-transfers-ftpsftp-because-rclone-cli-wasnt-dd0)
-- [Hoarder Vs Shiori](https://dev.to/selfhostingsh/hoarder-vs-shiori-2nnl)
-- [Guess the Number Higher or Lower](https://dev.to/jeyaprasadr/guess-the-number-higher-or-lower-47o3)
-- [I built a browser-based multiplayer hacking sim — here&#39;s how the Red vs Blue system works](https://dev.to/merlin777k/i-built-a-browser-based-multiplayer-hacking-sim-heres-how-the-red-vs-blue-system-works-2ie8)
-- [Yazi: The Blazing-Fast Terminal File Manager for Developers](https://dev.to/starmorph/yazi-the-blazing-fast-terminal-file-manager-for-developers-39h1)
+- [10 Best GitHub Copilot Alternatives for Code Review &lpar;2026&rpar;](https://dev.to/rahulxsingh/10-best-github-copilot-alternatives-for-code-review-2026-577h)
+- [Rotifer v0.4: Cloud Binding — Genes Can Now Travel Across Developers](https://dev.to/rotiferdev/rotifer-v04-cloud-binding-genes-can-now-travel-across-developers-58c)
+- [Scaling AI Context Across Dev and Strategy Teams with Isolated Memory, Open Standards, and Migration Readiness](https://dev.to/learntheropes/scaling-ai-context-across-dev-and-strategy-teams-with-isolated-memory-open-standards-and-b1c)
+- [Best CI/CD Pipeline for Small Teams: A Practical 2026 Guide](https://dev.to/_d7eb1c1703182e3ce1782/best-cicd-pipeline-for-small-teams-a-practical-2026-guide-2ad0)
+- [How to Build a CLI Tool with Rust: Step-by-Step Tutorial](https://dev.to/_d7eb1c1703182e3ce1782/how-to-build-a-cli-tool-with-rust-step-by-step-tutorial-1jek)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
