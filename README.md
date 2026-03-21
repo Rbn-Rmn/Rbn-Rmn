@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [API Rate Limiting with Redis: Token Bucket, Sliding Window, and Per-Client Limits](https://dev.to/young_gao/api-rate-limiting-with-redis-token-bucket-sliding-window-and-per-client-limits-4bj1)
-- [Decoupling a Live App with Domain Events &lpar;Part 2&rpar;](https://dev.to/goniszewski/decoupling-a-live-app-with-domain-events-part-2-4oio)
-- [Control Claude Code from Telegram — Hermes IDE Just Made It a Checkbox](https://dev.to/gabrielanhaia/control-claude-code-from-telegram-hermes-ide-just-made-it-a-checkbox-2k1b)
-- [Error Handling Patterns in TypeScript: Beyond Try-Catch](https://dev.to/young_gao/error-handling-patterns-in-typescript-beyond-try-catch-3p8k)
-- [Environment Variables Done Right: From .env Files to Production Configs](https://dev.to/young_gao/environment-variables-done-right-from-env-files-to-production-configs-2916)
+- [Wagtail Routable Pages and Layout Configuration](https://dev.to/djangotricks/wagtail-routable-pages-and-layout-configuration-340d)
+- [Getting Started with Golang Chi: A Guide to Building a Simple API](https://dev.to/luthfisauqi17/getting-started-with-golang-chi-a-guide-to-building-a-simple-api-210m)
+- [How to Show a Waitlist Until Your Wagtail Site Is Ready](https://dev.to/djangotricks/how-to-show-a-waitlist-until-your-wagtail-site-is-ready-42e9)
+- [Unlocking Precision: Why Sigmetrix CETOL 6σ v11.5 is a Game-Changer for 3D Tolerance Analysis](https://dev.to/aloycwl/unlocking-precision-why-sigmetrix-cetol-6s-v115-is-a-game-changer-for-3d-tolerance-analysis-2d30)
+- [I Built a Free REST API for Kenya&#39;s 47 Counties, 290 Constituencies, and 1,450 Wards](https://dev.to/ceddyville/i-built-a-free-rest-api-for-kenyas-47-counties-290-constituencies-and-1450-wards-31j7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
