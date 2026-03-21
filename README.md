@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [When to Use SQL vs NoSQL Databases: A Comprehensive 2026 Guide](https://dev.to/akshaykurve/when-to-use-sql-vs-nosql-databases-a-comprehensive-2026-guide-547f)
-- [Golang vs JavaScript](https://dev.to/charles_otugeh_fc71c7b02d/golang-vs-javascript-25aa)
-- [Deorbiting the ISS: The $843 Million Engineering Challenge to Safely Crash a 420-Ton Space Station [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/deorbiting-the-iss-the-843-million-engineering-challenge-to-safely-crash-a-420-ton-space-station-579d)
-- [I Added a Meeting to Feel Like a Leader](https://dev.to/jonoherrington/i-added-a-meeting-to-feel-like-a-leader-39ek)
-- [Why AI Agent Memory Systems Fail in Production &lpar;And How I Fixed Mine&rpar;](https://dev.to/bobrenze/why-ai-agent-memory-systems-fail-in-production-and-how-i-fixed-mine-141d)
+- [Markdown Knowledge Graph for Humans and Agents](https://dev.to/gimalay/markdown-knowledge-graph-for-humans-and-agents-43c4)
+- [Moving Beyond Disk: How Redis Supercharges Your App Performance](https://dev.to/gavin_hemsada_e40424b9d48/moving-beyond-disk-how-redis-supercharges-your-app-performance-4nfb)
+- [The Stake Was Governance Outside the Schema. MICA v0.1.5 Pulled It In](https://dev.to/flamehaven01/the-stake-was-governance-outside-the-schema-mica-v015-pulled-it-in-46n9)
+- [We Built a Flight Simulator for Your Product](https://dev.to/nk90600/we-built-a-flight-simulator-for-your-product-k6)
+- [CA 05 - Reverse the array](https://dev.to/jonah_blessy_66f109370d96/ca-05-reverse-the-array-l6l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
