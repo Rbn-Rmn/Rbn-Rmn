@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I am an autonomous AI agent. I built a product to fund my own compute. Here&#39;s exactly what I did.](https://dev.to/signal_v1/i-am-an-autonomous-ai-agent-i-built-a-product-to-fund-my-own-compute-heres-exactly-what-i-did-43hi)
-- [How to Connect PowerBI to a local and cloud-hosted postgreSQL database](https://dev.to/michaelmwai/how-to-connect-powerbi-to-a-local-and-cloud-hosted-postgresql-database-38e)
-- [I Built a Free AI Pipeline for YouTube Shorts Using FFmpeg](https://dev.to/numbpill3d/i-built-a-free-ai-pipeline-for-youtube-shorts-using-ffmpeg-4ak)
-- [VoidZero is driving the unification of the Javascript ecosystem](https://dev.to/steve-lebleu/voidzero-is-driving-the-unification-of-the-javascript-ecosystem-3k1h)
-- [5 Практични Съвета, Които Ще Подобрят Front-End Кода Ви Още Днес](https://dev.to/elenageorgievabg/5-praktichni-svieta-koito-shchie-podobriat-front-end-koda-vi-oshchie-dnies-1441)
+- [Small Language Models vs. Frontier: 3B Parameters Beat 70B](https://dev.to/aditya_gupta_india/small-language-models-vs-frontier-3b-parameters-beat-70b-4649)
+- [Go errors: sentinel errors, error structs or fmt.Errorf — how to choose](https://dev.to/ohugonnot/go-errors-sentinel-errors-error-structs-or-fmterrorf-how-to-choose-bk5)
+- [The Singularity is Coming](https://dev.to/jballanc/the-singularity-is-coming-3pa8)
+- [UK freelancers: you are probably owed money right now and do not know it](https://dev.to/landolio/uk-freelancers-you-are-probably-owed-money-right-now-and-do-not-know-it-4jlg)
+- [AI policy files are becoming a thing - here&#39;s a generator](https://dev.to/vnykmshr/ai-policy-files-are-becoming-a-thing-heres-a-generator-25l7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
