@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Snowflake vs Redshift vs BigQuery: Which One Should You Use?](https://dev.to/neha_christina_1ac8651819/snowflake-vs-redshift-vs-bigquery-which-one-should-you-use-52jf)
-- [Introducing RoiSoftStudio — Building Web Apps, Games &amp; Dev Tools](https://dev.to/roisoftstudio/introducing-roisoftstudio-building-web-apps-games-dev-tools-3a03)
-- [Agents in 60 lines of python : Part 3](https://dev.to/ahd_1337/agents-in-60-lines-of-python-part-3-1pa)
-- [The agent that does everything is lying to you](https://dev.to/seakai/the-agent-that-does-everything-is-lying-to-you-167p)
-- [I built an MTD readiness kit because HMRC&#39;s guidance is unusable](https://dev.to/landolio/i-built-an-mtd-readiness-kit-because-hmrcs-guidance-is-unusable-5e4l)
+- [Automating Container Image Updates with FluxCD &lpar;Hands-On Tutorial&rpar;](https://dev.to/pilgrim2go/automating-container-image-updates-with-fluxcd-hands-on-tutorial-88k)
+- [FluxCD Image Automation Error Troubleshooting](https://dev.to/pilgrim2go/fluxcd-image-automation-error-troubleshooting-1el2)
+- [Building a CLI Tool in Rust: From Zero to Published on crates.io](https://dev.to/young_gao/building-a-cli-tool-in-rust-from-zero-to-published-on-cratesio-2pam)
+- [AI Agents Are Replacing Developers? My Honest Experience Using Them](https://dev.to/vishaluttammane/ai-agents-are-replacing-developers-my-honest-experience-using-them-3mig)
+- [Angular Cheat Sheet for Beginners &lpar;Quick Revision Guide&rpar;](https://dev.to/quipoin_a9cb84280f6225b1e/angular-cheat-sheet-for-beginners-quick-revision-guide-5cjc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
