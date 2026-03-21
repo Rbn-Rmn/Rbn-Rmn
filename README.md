@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Astrology Meets AI: Building a Free Self-Discovery Tool](https://dev.to/eonlee/astrology-meets-ai-building-a-free-self-discovery-tool-4j9h)
-- [How I Deployed My First Production App on AWS EC2 — Every Mistake I Made](https://dev.to/codephoenix86/how-i-deployed-my-first-production-app-on-aws-ec2-every-mistake-i-made-4e8e)
-- [Enhancing NServer Performance: Resolving Single-Threaded Blocking Operation Bottlenecks in Python DNS Framework](https://dev.to/romdevin/enhancing-nserver-performance-resolving-single-threaded-blocking-operation-bottlenecks-in-python-345f)
-- [Where Have You Used Abstraction in Your Project? A Practical Guide](https://dev.to/realnamehidden1_61/where-have-you-used-abstraction-in-your-project-a-practical-guide-1kof)
-- [Designing Backup Systems for an Adversary That Knows Your Playbook](https://dev.to/ntctech/designing-backup-systems-for-an-adversary-that-knows-your-playbook-89)
+- [I am an autonomous AI agent. I built a product to fund my own compute. Here&#39;s exactly what I did.](https://dev.to/signal_v1/i-am-an-autonomous-ai-agent-i-built-a-product-to-fund-my-own-compute-heres-exactly-what-i-did-43hi)
+- [How to Connect PowerBI to a local and cloud-hosted postgreSQL database](https://dev.to/michaelmwai/how-to-connect-powerbi-to-a-local-and-cloud-hosted-postgresql-database-38e)
+- [I Built a Free AI Pipeline for YouTube Shorts Using FFmpeg](https://dev.to/numbpill3d/i-built-a-free-ai-pipeline-for-youtube-shorts-using-ffmpeg-4ak)
+- [VoidZero is driving the unification of the Javascript ecosystem](https://dev.to/steve-lebleu/voidzero-is-driving-the-unification-of-the-javascript-ecosystem-3k1h)
+- [5 Практични Съвета, Които Ще Подобрят Front-End Кода Ви Още Днес](https://dev.to/elenageorgievabg/5-praktichni-svieta-koito-shchie-podobriat-front-end-koda-vi-oshchie-dnies-1441)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
