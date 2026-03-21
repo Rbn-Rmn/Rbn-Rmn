@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Automating Container Image Updates with FluxCD &lpar;Hands-On Tutorial&rpar;](https://dev.to/pilgrim2go/automating-container-image-updates-with-fluxcd-hands-on-tutorial-88k)
-- [FluxCD Image Automation Error Troubleshooting](https://dev.to/pilgrim2go/fluxcd-image-automation-error-troubleshooting-1el2)
-- [Building a CLI Tool in Rust: From Zero to Published on crates.io](https://dev.to/young_gao/building-a-cli-tool-in-rust-from-zero-to-published-on-cratesio-2pam)
-- [AI Agents Are Replacing Developers? My Honest Experience Using Them](https://dev.to/vishaluttammane/ai-agents-are-replacing-developers-my-honest-experience-using-them-3mig)
-- [Angular Cheat Sheet for Beginners &lpar;Quick Revision Guide&rpar;](https://dev.to/quipoin_a9cb84280f6225b1e/angular-cheat-sheet-for-beginners-quick-revision-guide-5cjc)
+- [Optimizing for Zero: Building a High-Performance Browser Runner with No Budget](https://dev.to/getinfotoyou/optimizing-for-zero-building-a-high-performance-browser-runner-with-no-budget-1mf4)
+- [The Agent Memory Problem &lpar;And How I Solved It Without a Database&rpar;](https://dev.to/webbywisp/the-agent-memory-problem-and-how-i-solved-it-without-a-database-52ad)
+- [Architecting Agentic Systems Without Multiplying Costs: A Real Healthcare Story](https://dev.to/agastya_kommanamanchi_d4f/architecting-agentic-systems-without-multiplying-costs-a-real-healthcare-story-2g6o)
+- [Your AI Agents Are Running Wild — Here&#39;s How to Take Back Control](https://dev.to/gokhan_ozer/your-ai-agents-are-running-wild-heres-how-to-take-back-control-1fc8)
+- [Building Secure Conversational AI: Data Governance Patterns for LLM-Powered Interfaces](https://dev.to/rootlenses/building-secure-conversational-ai-data-governance-patterns-for-llm-powered-interfaces-48dn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
