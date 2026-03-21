@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building AI-Powered Healthcare Appeals: A Three-Stage Architecture Guide](https://dev.to/michaelnikitin/building-ai-powered-healthcare-appeals-a-three-stage-architecture-guide-4f7)
-- [How to validate emails properly in your app &lpar;beyond regex&rpar;](https://dev.to/padymies/how-to-validate-emails-properly-in-your-app-beyond-regex-1e9g)
-- [Do You Still Need Computer Science in the Age of AI](https://dev.to/alnovis/do-you-still-need-computer-science-in-the-age-of-ai-2mc1)
-- [Hidden Kotlin Architecture Pitfalls](https://dev.to/krun_pro/hidden-kotlin-architectural-pitfalls-that-can-ruin-your-code-and-how-to-dodge-them-2ebb)
-- [How to Build Your First AI Agent: A Step-by-Step Tutorial](https://dev.to/_d7eb1c1703182e3ce1782/how-to-build-your-first-ai-agent-a-step-by-step-tutorial-415n)
+- [Using Screenshots as Proof-in-Sales: Automated Product Demo Evidence](https://dev.to/custodiaadmin/using-screenshots-as-proof-in-sales-automated-product-demo-evidence-1f34)
+- [From $0 to $35,000 in 6 Hours: How an API Leak and GCP Billing Lag Broke Our Startup](https://dev.to/sudharsana_viswanathan_46/from-0-to-35000-in-6-hours-how-an-api-leak-and-billing-lag-broke-our-startup-g6e)
+- [How to Remove Form Builder Branding Without Paying $59/Month](https://dev.to/allenarduino/how-to-remove-form-builder-branding-without-paying-59month-2e69)
+- [How We Built a Self-Evolving AI Team with OpenClaw](https://dev.to/guanfu_lab/how-we-built-a-self-evolving-ai-team-with-openclaw-6gd)
+- [Best Crypto Wallets 2026: Top Bitcoin &amp; Altcoin Wallets for Security &amp; DeFi Access](https://dev.to/aloycwl/best-crypto-wallets-2026-top-bitcoin-altcoin-wallets-for-security-defi-access-9h1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
