@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why the Next Generation of Creator Tools Must Prioritize Authenticity Over Automation](https://dev.to/tacit_71799acf6d056b5155c/why-the-next-generation-of-creator-tools-must-prioritize-authenticity-over-automation-1p10)
-- [I Built a Full HTTP Client Extension for VS Code — Here&#39;s Everything I Learned](https://dev.to/freerave/i-built-a-full-http-client-extension-for-vs-code-heres-everything-i-learned-3me4)
-- [Angular - Power Of Renderer2](https://dev.to/krivanek06/angular-power-of-renderer2-3ap8)
-- [Introducing helping-js v2: A Zero-Dependency Utility Library to Level Up Your App](https://dev.to/parsajiravand/introducing-helping-js-v2-a-zero-dependency-utility-library-to-level-up-your-app-5cip)
-- [I built my first website in 2004. Here&#39;s what I wish someone had told me.](https://dev.to/fedya_serafiev/i-built-my-first-website-in-2004-heres-what-i-wish-someone-had-told-me-3jg1)
+- [API Rate Limiting with Redis: Token Bucket, Sliding Window, and Per-Client Limits](https://dev.to/young_gao/api-rate-limiting-with-redis-token-bucket-sliding-window-and-per-client-limits-4bj1)
+- [Decoupling a Live App with Domain Events &lpar;Part 2&rpar;](https://dev.to/goniszewski/decoupling-a-live-app-with-domain-events-part-2-4oio)
+- [Control Claude Code from Telegram — Hermes IDE Just Made It a Checkbox](https://dev.to/gabrielanhaia/control-claude-code-from-telegram-hermes-ide-just-made-it-a-checkbox-2k1b)
+- [Error Handling Patterns in TypeScript: Beyond Try-Catch](https://dev.to/young_gao/error-handling-patterns-in-typescript-beyond-try-catch-3p8k)
+- [Environment Variables Done Right: From .env Files to Production Configs](https://dev.to/young_gao/environment-variables-done-right-from-env-files-to-production-configs-2916)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
