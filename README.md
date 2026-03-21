@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Wagtail Routable Pages and Layout Configuration](https://dev.to/djangotricks/wagtail-routable-pages-and-layout-configuration-340d)
-- [Getting Started with Golang Chi: A Guide to Building a Simple API](https://dev.to/luthfisauqi17/getting-started-with-golang-chi-a-guide-to-building-a-simple-api-210m)
-- [How to Show a Waitlist Until Your Wagtail Site Is Ready](https://dev.to/djangotricks/how-to-show-a-waitlist-until-your-wagtail-site-is-ready-42e9)
-- [Unlocking Precision: Why Sigmetrix CETOL 6σ v11.5 is a Game-Changer for 3D Tolerance Analysis](https://dev.to/aloycwl/unlocking-precision-why-sigmetrix-cetol-6s-v115-is-a-game-changer-for-3d-tolerance-analysis-2d30)
-- [I Built a Free REST API for Kenya&#39;s 47 Counties, 290 Constituencies, and 1,450 Wards](https://dev.to/ceddyville/i-built-a-free-rest-api-for-kenyas-47-counties-290-constituencies-and-1450-wards-31j7)
+- [Astrology Meets AI: Building a Free Self-Discovery Tool](https://dev.to/eonlee/astrology-meets-ai-building-a-free-self-discovery-tool-4j9h)
+- [How I Deployed My First Production App on AWS EC2 — Every Mistake I Made](https://dev.to/codephoenix86/how-i-deployed-my-first-production-app-on-aws-ec2-every-mistake-i-made-4e8e)
+- [Enhancing NServer Performance: Resolving Single-Threaded Blocking Operation Bottlenecks in Python DNS Framework](https://dev.to/romdevin/enhancing-nserver-performance-resolving-single-threaded-blocking-operation-bottlenecks-in-python-345f)
+- [Where Have You Used Abstraction in Your Project? A Practical Guide](https://dev.to/realnamehidden1_61/where-have-you-used-abstraction-in-your-project-a-practical-guide-1kof)
+- [Designing Backup Systems for an Adversary That Knows Your Playbook](https://dev.to/ntctech/designing-backup-systems-for-an-adversary-that-knows-your-playbook-89)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
