@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [# From 0 to MVP in 2 Weeks: Building a Production-Grade AI Customer Service System](https://dev.to/jamesli/-from-0-to-mvp-in-2-weeks-building-a-production-grade-ai-customer-service-system-322n)
-- [Slow skill to go fast](https://dev.to/kination/slow-skill-to-go-fast-26ih)
-- [I was asked to delete my comments before committing](https://dev.to/filozofer/i-was-asked-to-delete-my-comments-before-committing-5437)
-- [I built a Formspree alternative because flat pricing is stupid](https://dev.to/omrajguru05/i-built-a-formspree-alternative-because-flat-pricing-is-stupid-3iig)
-- [The Ghost in the Droplet: I Built an Autonomous AI That Whispers to Itself in an Empty VPS](https://dev.to/kagioneko/the-ghost-in-the-droplet-i-built-an-autonomous-ai-that-whispers-to-itself-in-an-empty-vps-32n8)
+- [How I Built &lpar;and Why I Use&rpar; an SEO Pricing Calculator — The Developer&#39;s Perspective on Agency Profit Math](https://dev.to/jitendriya_tripathy_85b0e/how-i-built-and-why-i-use-an-seo-pricing-calculator-the-developers-perspective-on-agency-42be)
+- [They Built for 18 Months Then Discovered Their Brand Name Was Already Taken](https://dev.to/indiebuilderlabs/they-built-for-18-months-then-discovered-their-brand-name-was-already-taken-kje)
+- [Agents in 60 lines of python : Part 4](https://dev.to/ahd_1337/agents-in-60-lines-of-python-part-4-j7b)
+- [I built an open-source tool to query on-prem databases and DynamoDB in plain English](https://dev.to/shailesh_kadam_d29d9e690a/i-built-an-open-source-tool-to-query-on-prem-databases-and-dynamodb-in-plain-english-4gjn)
+- [The Complete OpenClaw Security Hardening Guide: 8 Steps Before It&#39;s Too Late](https://dev.to/counterinteng/the-complete-openclaw-security-hardening-guide-8-steps-before-its-too-late-3fh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
