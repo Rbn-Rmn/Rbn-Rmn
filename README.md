@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [A Small Rollout Plan for Prompt and Model Changes](https://dev.to/optyxstack/a-small-rollout-plan-for-prompt-and-model-changes-2843)
-- [What Is Product-Market Fit? 12 Metrics to Measure It](https://dev.to/yos/what-is-product-market-fit-12-metrics-to-measure-it-277g)
-- [What Is Consumer Crypto? Are Dapps the Future for Consumers?](https://dev.to/yos/what-is-consumer-crypto-are-dapps-the-future-for-consumers-4kk4)
-- [The AI Incident Report Template I Actually Use for Wrong Answers and Tool Failures](https://dev.to/optyxstack/the-ai-incident-report-template-i-actually-use-for-wrong-answers-and-tool-failures-174l)
-- [What Is Churn Rate? How to Calculate Churn Rate and Create Effective Churn Surveys](https://dev.to/yos/what-is-churn-rate-how-to-calculate-churn-rate-and-create-effective-churn-surveys-358c)
+- [Fixing Git &#39;Repository Not Found&#39; &amp; Multiple SSH Key Issues](https://dev.to/tahsin000/fixing-git-repository-not-found-multiple-ssh-key-issues-14de)
+- [How I Connected 20 Tools to Claude Code in 5 Minutes](https://dev.to/ji_ai/how-i-connected-20-tools-to-claude-code-in-5-minutes-10b3)
+- [How I Automated My Entire Claude Code Workflow with Hooks](https://dev.to/ji_ai/how-i-automated-my-entire-claude-code-workflow-with-hooks-5cp8)
+- [How I Run 10 AI Agents in Parallel with Claude Code](https://dev.to/ji_ai/how-i-run-10-ai-agents-in-parallel-with-claude-code-b59)
+- [The Architecture of a Transparent CLI Proxy](https://dev.to/ji_ai/the-architecture-of-a-transparent-cli-proxy-4lg2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
