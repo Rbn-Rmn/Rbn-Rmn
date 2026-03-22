@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw in a Box](https://dev.to/bdougieyo/openclaw-in-a-box-269n)
-- [How to Deduplicate 100,000 Records in 13 Seconds with Python](https://dev.to/benzsevern/how-to-deduplicate-100000-records-in-13-seconds-with-python-4d2n)
-- [What Is An LLM Router?](https://dev.to/bd_perez/what-is-an-llm-router-463d)
-- [U.S. Solar Installations Dropped in 2025 After Trump’s Clean Energy Critique – What It Means for the Future](https://dev.to/aloycwl/us-solar-installations-dropped-in-2025-after-trumps-clean-energy-critique-what-it-means-for-2e5i)
-- [I Built a Redis Alternative in Rust — MnemeCache](https://dev.to/vusalrahimov/i-built-a-redis-alternative-in-rust-mnemecache-1dd2)
+- [# From 0 to MVP in 2 Weeks: Building a Production-Grade AI Customer Service System](https://dev.to/jamesli/-from-0-to-mvp-in-2-weeks-building-a-production-grade-ai-customer-service-system-322n)
+- [Slow skill to go fast](https://dev.to/kination/slow-skill-to-go-fast-26ih)
+- [I was asked to delete my comments before committing](https://dev.to/filozofer/i-was-asked-to-delete-my-comments-before-committing-5437)
+- [I built a Formspree alternative because flat pricing is stupid](https://dev.to/omrajguru05/i-built-a-formspree-alternative-because-flat-pricing-is-stupid-3iig)
+- [The Ghost in the Droplet: I Built an Autonomous AI That Whispers to Itself in an Empty VPS](https://dev.to/kagioneko/the-ghost-in-the-droplet-i-built-an-autonomous-ai-that-whispers-to-itself-in-an-empty-vps-32n8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
