@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Built 7 Shopify Apps as a Solo Developer in Ireland](https://dev.to/jmsdevlab/how-i-built-7-shopify-apps-as-a-solo-developer-in-ireland-2nfp)
-- [Day 49 of #100DayOfCode — Deployment II: Deploy Frontend](https://dev.to/m_saad_ahmad/day-49-of-100dayofcode-deployment-ii-deploy-frontend-5c55)
-- [I built a Branch.io alternative for $79/mo instead of $499](https://dev.to/stefanobholz/i-built-a-branchio-alternative-for-79mo-instead-of-499-50oe)
-- [I got tired of re-explaining my workload to AI every morning, so I built something](https://dev.to/mark_tycana/i-got-tired-of-re-explaining-my-workload-to-ai-every-morning-so-i-built-something-3g53)
-- [My progress using AI](https://dev.to/true63/my-progress-using-ai-5e8d)
+- [Santa Augmentcode Intent Ep.1](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep1-2cnd)
+- [ASP.NET Core startup validation part 4](https://dev.to/karenpayneoregon/aspnet-core-startup-validation-part-4-597d)
+- [AI Can Speed Up Code Review — but Merge Decisions Still Need Deterministic Guardrails](https://dev.to/mvtavares/ai-can-speed-up-code-review-but-merge-decisions-still-need-deterministic-guardrails-2l85)
+- [Top 6 AI Agent Memory Frameworks for Devs &lpar;2026&rpar;](https://dev.to/nebulagg/top-6-ai-agent-memory-frameworks-for-devs-2026-1fef)
+- [Idempotency Architecture for Lambda-Driven Systems on AWS](https://dev.to/aws-builders/idempotency-architecture-for-lambda-driven-systems-on-aws-3hp4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
