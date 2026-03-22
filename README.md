@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [WICK-DOM-OBSERVER: The Deterministic Cypress Plugin for Fast Spinners, Blinking Toasts, Optional Overlays, and UI’s Most Wanted](https://dev.to/sebastianclavijo/wick-dom-observer-the-deterministic-cypress-plugin-for-fast-spinners-blinking-toasts-optional-4e59)
-- [I benchmarked every Go SQL parser in 2026 and built my own](https://dev.to/ajit_pratapsingh_02ab85b/i-benchmarked-every-go-sql-parser-in-2026-and-built-my-own-2j9n)
-- [How I Developed PublikoPH with AI-Assisted Programming](https://dev.to/jah/how-i-developed-publikoph-with-ai-assisted-programming-ml6)
-- [I Benchmarked Graphiti vs Mem0: The Hidden Cost of Context Blindness in AI Memory](https://dev.to/juandastic/i-benchmarked-graphiti-vs-mem0-the-hidden-cost-of-context-blindness-in-ai-memory-4le3)
-- [Multi-Agent Systems on GCP: Workflow Patterns with ADK and Terraform 🧠](https://dev.to/suhas_mallesh/multi-agent-systems-on-gcp-workflow-patterns-with-adk-and-terraform-6dk)
+- [How to Display CAD DWG Files in a Web Browser — No Plugins&lpar;CAD+WEBGIS&rpar;](https://dev.to/vjmap/how-to-display-cad-dwg-files-in-a-web-browser-no-pluginscadwebgis-3l43)
+- [Solving Two Sum II &lpar;Sorted Array&rpar; Using the Two Pointer Technique in Python](https://dev.to/sri_mahalakshmi_a87f9d361/solving-two-sum-ii-sorted-array-using-the-two-pointer-technique-in-python-3klo)
+- [CA 10 - Kadanes Algorithm](https://dev.to/varun_924260e48ba54f2360e/ca-10-kadanes-algorithm-1cgj)
+- [Majority Element](https://dev.to/padma_priya_815d0cd613d0c/majority-element-57d6)
+- [How I Built a Local SEO Optimised Next.js Website That Ranked on Google in 45 Days](https://dev.to/shashwat_maurya_90d413406/how-i-built-a-local-seo-optimised-nextjs-website-that-ranked-on-google-in-45-days-4kbb)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
