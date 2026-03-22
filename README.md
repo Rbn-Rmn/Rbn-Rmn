@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Built &lpar;and Why I Use&rpar; an SEO Pricing Calculator — The Developer&#39;s Perspective on Agency Profit Math](https://dev.to/jitendriya_tripathy_85b0e/how-i-built-and-why-i-use-an-seo-pricing-calculator-the-developers-perspective-on-agency-42be)
-- [They Built for 18 Months Then Discovered Their Brand Name Was Already Taken](https://dev.to/indiebuilderlabs/they-built-for-18-months-then-discovered-their-brand-name-was-already-taken-kje)
-- [Agents in 60 lines of python : Part 4](https://dev.to/ahd_1337/agents-in-60-lines-of-python-part-4-j7b)
-- [I built an open-source tool to query on-prem databases and DynamoDB in plain English](https://dev.to/shailesh_kadam_d29d9e690a/i-built-an-open-source-tool-to-query-on-prem-databases-and-dynamodb-in-plain-english-4gjn)
-- [The Complete OpenClaw Security Hardening Guide: 8 Steps Before It&#39;s Too Late](https://dev.to/counterinteng/the-complete-openclaw-security-hardening-guide-8-steps-before-its-too-late-3fh)
+- [Maximum Subarray Sum &lpar;Kadane’s Algorithm&rpar;](https://dev.to/ashiq_omar/maximum-subarray-sum-kadanes-algorithm-4fk4)
+- [macOS pbcopy Can&#39;t Handle Images — So I Built a Fix](https://dev.to/chigichan24/macos-pbcopy-cant-handle-images-so-i-built-a-fix-497k)
+- [How I Split Work Between Claude Code and Codex in Real Projects](https://dev.to/samlai/how-i-split-work-between-claude-code-and-codex-in-real-projects-536l)
+- [Raspberry Pi Pico RTC Digital Clock](https://dev.to/david_thomas/raspberry-pi-pico-rtc-digital-clock-5ci6)
+- [Your AI Agent Doesn&#39;t Think. It Guesses. Here&#39;s What Thinking Actually Looks Like.](https://dev.to/tfatykhov/your-ai-agent-doesnt-think-it-guesses-heres-what-thinking-actually-looks-like-1k80)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
