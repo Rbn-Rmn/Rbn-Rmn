@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Unify Onchain and Offchain Data](https://dev.to/yos/how-to-unify-onchain-and-offchain-data-4oha)
-- [What is a Web3 CDP? Benefits, Use Cases &amp; How It Works](https://dev.to/yos/what-is-a-web3-cdp-benefits-use-cases-how-it-works-2d1o)
-- [Web3 CRM Explained: How to Manage and Analyze Onchain Customer Data](https://dev.to/yos/web3-crm-explained-how-to-manage-and-analyze-onchain-customer-data-h8a)
-- [Build vs Buy Web3 Analytics: The Complete Decision Framework](https://dev.to/yos/build-vs-buy-web3-analytics-the-complete-decision-framework-2m56)
-- [Different Sorting Methodologies](https://dev.to/anjana_rk_fbdea7abbdf13/different-sorting-methodologies-2hfi)
+- [A Small Rollout Plan for Prompt and Model Changes](https://dev.to/optyxstack/a-small-rollout-plan-for-prompt-and-model-changes-2843)
+- [What Is Product-Market Fit? 12 Metrics to Measure It](https://dev.to/yos/what-is-product-market-fit-12-metrics-to-measure-it-277g)
+- [What Is Consumer Crypto? Are Dapps the Future for Consumers?](https://dev.to/yos/what-is-consumer-crypto-are-dapps-the-future-for-consumers-4kk4)
+- [The AI Incident Report Template I Actually Use for Wrong Answers and Tool Failures](https://dev.to/optyxstack/the-ai-incident-report-template-i-actually-use-for-wrong-answers-and-tool-failures-174l)
+- [What Is Churn Rate? How to Calculate Churn Rate and Create Effective Churn Surveys](https://dev.to/yos/what-is-churn-rate-how-to-calculate-churn-rate-and-create-effective-churn-surveys-358c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
