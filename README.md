@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The coordinator-subagent pattern: the foundation every Claude multi-agent system is built on](https://dev.to/ajbuilds/the-coordinator-subagent-pattern-the-foundation-every-claude-multi-agent-system-is-built-on-17o6)
-- [I Built an AI Coding Agent That Actually Ships — Not Just Suggests](https://dev.to/saathwik/i-built-an-ai-coding-agent-that-actually-ships-not-just-suggests-11k)
-- [AI Agents Need Governance. Here&#39;s What We Built](https://dev.to/pentatonic/ai-agents-need-governance-heres-what-we-built-4858)
-- [Effect-TS in 2026: Functional Programming for TypeScript That Actually Makes Sense](https://dev.to/ottoaria/effect-ts-in-2026-functional-programming-for-typescript-that-actually-makes-sense-1go)
-- [AI Won&#39;t Fix a Broken CI/CD Pipeline](https://dev.to/aprasevic/ai-wont-fix-a-broken-cicd-pipeline-8he)
+- [What is ORM? Let&#39;s understand ...](https://dev.to/riteshkokam/what-is-orm-lets-understand--38dp)
+- [Automate Your HR Recruitment Pipeline with These 4 APIs](https://dev.to/choong-devsan/automate-your-hr-recruitment-pipeline-with-these-4-apis-1178)
+- [Understanding Generics in TypeScript for Improved Code Reusability](https://dev.to/jefersoneiji/understanding-generics-in-typescript-for-improved-code-reusability-4279)
+- [Building Production AI Agents with MCP: Patterns That Actually Work in 2026](https://dev.to/dohkoai/building-production-ai-agents-with-mcp-patterns-that-actually-work-in-2026-3mfb)
+- [Flash-MoE: Running a 397B Parameter Model on a Laptop](https://dev.to/sergiov7_2/flash-moe-running-a-397b-parameter-model-on-a-laptop-3j9g)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
