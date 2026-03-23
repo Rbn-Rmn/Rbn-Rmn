@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI Developer Tools Enter Autonomous Era: The Rise of Agentic Systems in March 2026](https://dev.to/ajay_kumar_1daef5fe089885/ai-developer-tools-enter-autonomous-era-the-rise-of-agentic-systems-in-march-2026-31l0)
-- [The Multi-Agent Framework Wars: What Actually Works in Production &lpar;March 2026&rpar;](https://dev.to/tahseen_rahman/the-multi-agent-framework-wars-what-actually-works-in-production-march-2026-4l6m)
-- [Stop Fine-Tuning Your LLMs. RAG Exists and It&#39;s Not Even Close.](https://dev.to/gerus_team/stop-fine-tuning-your-llms-rag-exists-and-its-not-even-close-4ola)
-- [Turning Volatility Into Vibration: Why Sonification Is The Future Of Real-Time Data](https://dev.to/cm_founder/turning-volatility-into-vibration-why-sonification-is-the-future-of-real-time-data-7pk)
-- [I Built an AI Task Engine Because My Brain Literally Can&#39;t Start Tasks](https://dev.to/seanz_thawly/i-built-an-ai-task-engine-because-my-brain-literally-cant-start-tasks-2jj9)
+- [How to Scrape LinkedIn Job Listings in 2026 &lpar;Python + Public API, No Login Required&rpar;](https://dev.to/agenthustler/how-to-scrape-linkedin-job-listings-in-2026-python-public-api-no-login-required-5bin)
+- [AI Isn’t Replacing Engineers: It’s Replacing Coders](https://dev.to/khurram_bilal786/ai-isnt-replacing-engineers-its-replacing-coders-41fe)
+- [I Stopped Paying $99/Month for SEO Tools. So I Built My Own.](https://dev.to/arkhan/i-stopped-paying-99month-for-seo-tools-so-i-built-my-own-oh8)
+- [How Hindsight Turned Repeated Questions Into a Student Profile](https://dev.to/bikash_kumarsah_5c7d5472/how-hindsight-turned-repeated-questions-into-a-student-profile-2f5f)
+- [Stop Fighting AWS Networking — Deploy Your Container in 3 Steps](https://dev.to/matias_plumari_039ce941da/stop-fighting-aws-networking-deploy-your-container-in-3-steps-5d6a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
