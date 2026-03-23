@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [robots.txt is a sign, not a fence: 8 technical vectors through which AI still reads your website](https://dev.to/carlosortet/robotstxt-is-a-sign-not-a-fence-8-technical-vectors-through-which-ai-still-reads-your-website-37c6)
-- [Implementing Retry Policy &lpar;React Native &amp; Beyond&rpar;](https://dev.to/yhoungbrown/implementing-retry-policy-react-native-beyond-2lgb)
-- [GitHub Actions for Python Projects - Automate Your Workflow from Day One](https://dev.to/devasservice/github-actions-for-python-projects-automate-your-workflow-from-day-one-4ga9)
-- [Beyond &#39;It Works on My Machine&#39;: Solving Docker Networking &amp; DNS Bottlenecks](https://dev.to/ameer-pk/beyond-it-works-on-my-machine-solving-docker-networking-dns-bottlenecks-4f3m)
-- [AI-Safe MCP Server for SQL](https://dev.to/borakilicoglu/ai-safe-mcp-server-for-sql-4jn4)
+- [Data Catalog Builder: Data Catalog Builder — Guide](https://dev.to/thesius_code_7a136ae718b7/data-catalog-builder-data-catalog-builder-guide-56ek)
+- [Docker Compose Templates: Docker Compose Patterns &amp; Best Practices](https://dev.to/thesius_code_7a136ae718b7/docker-compose-templates-docker-compose-patterns-best-practices-28ee)
+- [Medallion Architecture Accelerator: Medallion Architecture Guide](https://dev.to/thesius_code_7a136ae718b7/medallion-architecture-accelerator-medallion-architecture-guide-bn)
+- [Streaming Pipeline Kit: Streaming Patterns &amp; Best Practices](https://dev.to/thesius_code_7a136ae718b7/streaming-pipeline-kit-streaming-patterns-best-practices-2g95)
+- [Gitops Workflow Templates: GitOps Patterns &amp; Best Practices Guide](https://dev.to/thesius_code_7a136ae718b7/gitops-workflow-templates-gitops-patterns-best-practices-guide-4gi3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
