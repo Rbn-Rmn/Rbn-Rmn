@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Monitor AI Agent Drift in Production](https://dev.to/lulzasaur/how-to-monitor-ai-agent-drift-in-production-5ekb)
-- [Hello world! Building a survival guide for developers in Japan 🌸](https://dev.to/japan_refactor/hello-world-building-a-survival-guide-for-developers-in-japan-1fm1)
-- [The Ultimate Developer Monitor Guide 2025: 7 Displays That Changed How I Code](https://dev.to/maquankun/the-ultimate-developer-monitor-guide-2025-7-displays-that-changed-how-i-code-594d)
-- [Task 3 – The Delivery MAN – Python List](https://dev.to/tanishka_v_b7e4add4c1c1a4/task-3-the-delivery-man-python-list-3h9c)
-- [TASK 1- Python – Print exercises](https://dev.to/tanishka_v_b7e4add4c1c1a4/task-1-python-print-exercises-4n9e)
+- [Why Truthy Checks can Break on Zero in TypeScript](https://dev.to/jadebanks/why-truthy-checks-can-break-on-zero-in-typescript-515o)
+- [How I Debugged a Persistent Mobile App Crash and Fixed It](https://dev.to/mindmagic/how-i-debugged-a-persistent-mobile-app-crash-and-fixed-it-a)
+- [Limitations of Agile Software Processes](https://dev.to/paperium/limitations-of-agile-software-processes-3k4i)
+- [Lessons Learned Building Modern Digital Products](https://dev.to/mindmagic/lessons-learned-building-modern-digital-products-2548)
+- [#DevWatch — Turning GNOME into a Developer-Aware OS](https://dev.to/pawan_19012006/devwatch-turning-gnome-into-a-developer-aware-os-ep9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
