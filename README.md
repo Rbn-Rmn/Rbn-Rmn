@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Sidekick&#39;s Instant Commands from OpenAPI/Postman](https://dev.to/allentcm/how-to-use-sidekicks-instant-commands-from-openapipostman-2hh7)
-- [Understanding IP Address and Subnet](https://dev.to/christina_sharons_2b3205/understanding-ip-address-and-subnet-5l7)
-- [how DNS resolver is happening](https://dev.to/manoj_kumar_401fd35052503/how-dns-resolver-is-happening-8i5)
-- [The $0 Problem: Why Every Tool Says Your On-Prem Inference is Free](https://dev.to/defilan/the-0-problem-why-every-tool-says-your-on-prem-inference-is-free-3mcb)
-- [How to Set Up Linux Server Monitoring in 10 Minutes &lpar;Free&rpar;](https://dev.to/yash_step2dev/how-to-set-up-linux-server-monitoring-in-10-minutes-free-1715)
+- [Why Every AI Presentation Tool Gets It Wrong &lpar;And What a Show Really Needs&rpar;](https://dev.to/pitchshowai/why-every-ai-presentation-tool-gets-it-wrong-and-what-a-show-really-needs-246i)
+- [Detecting Account Takeover Attempts with Fingerprint](https://dev.to/shadai_scott/detecting-account-takeover-attempts-with-fingerprint-4600)
+- [[Boost]](https://dev.to/joaovjo/-efm)
+- [A blog on how DNS resolver is happening.](https://dev.to/mohammed_azim_j/a-blog-on-how-dns-resolver-is-happening-4i9m)
+- [README](https://dev.to/denelesan/readme-1j4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
