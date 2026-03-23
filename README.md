@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [We Had to Write Docs for AI: llms.txt Changed Everything](https://dev.to/eugenioenko/we-had-to-write-docs-for-ai-llmstxt-changed-everything-44f5)
-- [How We Got DDEV, Laravel, and a Go API Talking: The Sidecar Approach](https://dev.to/jonesrussell/how-we-got-ddev-laravel-and-a-go-api-talking-the-sidecar-approach-4dpp)
-- [Building a temporal layer so your AI never lies about time](https://dev.to/jonesrussell/building-a-temporal-layer-so-your-ai-never-lies-about-time-j0n)
-- [I built an Open Source Miller Columns File Explorer for Windows because I missed macOS Finder.](https://dev.to/nwlsrb/i-built-an-open-source-miller-columns-file-explorer-for-windows-because-i-missed-macos-finder-gip)
-- [GitHub Actions in 2026: Automate Everything for Free &lpar;CI/CD Tutorial&rpar;](https://dev.to/ottoaria/github-actions-in-2026-automate-everything-for-free-cicd-tutorial-4aj1)
+- [How to Monitor AI Agent Drift in Production](https://dev.to/lulzasaur/how-to-monitor-ai-agent-drift-in-production-5ekb)
+- [Hello world! Building a survival guide for developers in Japan 🌸](https://dev.to/japan_refactor/hello-world-building-a-survival-guide-for-developers-in-japan-1fm1)
+- [The Ultimate Developer Monitor Guide 2025: 7 Displays That Changed How I Code](https://dev.to/maquankun/the-ultimate-developer-monitor-guide-2025-7-displays-that-changed-how-i-code-594d)
+- [Task 3 – The Delivery MAN – Python List](https://dev.to/tanishka_v_b7e4add4c1c1a4/task-3-the-delivery-man-python-list-3h9c)
+- [TASK 1- Python – Print exercises](https://dev.to/tanishka_v_b7e4add4c1c1a4/task-1-python-print-exercises-4n9e)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
