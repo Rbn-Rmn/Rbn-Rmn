@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Every AI Presentation Tool Gets It Wrong &lpar;And What a Show Really Needs&rpar;](https://dev.to/pitchshowai/why-every-ai-presentation-tool-gets-it-wrong-and-what-a-show-really-needs-246i)
-- [Detecting Account Takeover Attempts with Fingerprint](https://dev.to/shadai_scott/detecting-account-takeover-attempts-with-fingerprint-4600)
-- [[Boost]](https://dev.to/joaovjo/-efm)
-- [A blog on how DNS resolver is happening.](https://dev.to/mohammed_azim_j/a-blog-on-how-dns-resolver-is-happening-4i9m)
-- [README](https://dev.to/denelesan/readme-1j4)
+- [I tuned Hindsight for long conversations](https://dev.to/anjankumar_ln_41a980a9fd/i-tuned-hindsight-for-long-conversations-46k4)
+- [The Particle That Walks Through Walls — And Why Your Phone Depends On It](https://dev.to/bytefluxlab/the-particle-that-walks-through-walls-and-why-your-phone-depends-on-it-53ij)
+- [Programing Concurrency](https://dev.to/tavari/programing-concurrency-d9l)
+- [MCP configs are a silent security risk. I built mcp-scan to fix that.](https://dev.to/rodolfboctor/mcp-configs-are-a-silent-security-risk-i-built-mcp-scan-to-fix-that-5akk)
+- [Your AI Agent Has a Dirty Secret: It Can’t Log In](https://dev.to/dannygerst/your-ai-agent-has-a-dirty-secret-it-cant-log-in-2bln)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
