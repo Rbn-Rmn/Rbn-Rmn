@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Web Scraping for Beginners: Sell Data as a Service](https://dev.to/caper_dev/web-scraping-for-beginners-sell-data-as-a-service-4kaj)
-- [How a Non-Programmer Built a 487-File Unity Tool with Claude Code&#39;s &#39;Vibe Coding&#39;](https://dev.to/gentic_news/how-a-non-programmer-built-a-487-file-unity-tool-with-claude-codes-vibe-coding-3f18)
-- [Uh oh... Cloudflare just turned evil](https://dev.to/fabianfrankwerner/uh-oh-cloudflare-just-turned-evil-42pc)
-- [Is this &quot;Nano Banana&quot; image for real?](https://dev.to/lee12/is-this-nano-banana-image-for-real-47f5)
-- [What Happens When You Bring LLMs Into a Semiconductor FAB — 5 ArXiv Papers, Brutally Honest Reviews](https://dev.to/plasmon_imp/what-happens-when-you-bring-llms-into-a-semiconductor-fab-5-arxiv-papers-brutally-honest-reviews-28pe)
+- [We Had to Write Docs for AI: llms.txt Changed Everything](https://dev.to/eugenioenko/we-had-to-write-docs-for-ai-llmstxt-changed-everything-44f5)
+- [How We Got DDEV, Laravel, and a Go API Talking: The Sidecar Approach](https://dev.to/jonesrussell/how-we-got-ddev-laravel-and-a-go-api-talking-the-sidecar-approach-4dpp)
+- [Building a temporal layer so your AI never lies about time](https://dev.to/jonesrussell/building-a-temporal-layer-so-your-ai-never-lies-about-time-j0n)
+- [I built an Open Source Miller Columns File Explorer for Windows because I missed macOS Finder.](https://dev.to/nwlsrb/i-built-an-open-source-miller-columns-file-explorer-for-windows-because-i-missed-macos-finder-gip)
+- [GitHub Actions in 2026: Automate Everything for Free &lpar;CI/CD Tutorial&rpar;](https://dev.to/ottoaria/github-actions-in-2026-automate-everything-for-free-cicd-tutorial-4aj1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
