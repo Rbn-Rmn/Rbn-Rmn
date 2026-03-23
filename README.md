@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Scrape LinkedIn Job Listings in 2026 &lpar;Python + Public API, No Login Required&rpar;](https://dev.to/agenthustler/how-to-scrape-linkedin-job-listings-in-2026-python-public-api-no-login-required-5bin)
-- [AI Isn’t Replacing Engineers: It’s Replacing Coders](https://dev.to/khurram_bilal786/ai-isnt-replacing-engineers-its-replacing-coders-41fe)
-- [I Stopped Paying $99/Month for SEO Tools. So I Built My Own.](https://dev.to/arkhan/i-stopped-paying-99month-for-seo-tools-so-i-built-my-own-oh8)
-- [How Hindsight Turned Repeated Questions Into a Student Profile](https://dev.to/bikash_kumarsah_5c7d5472/how-hindsight-turned-repeated-questions-into-a-student-profile-2f5f)
-- [Stop Fighting AWS Networking — Deploy Your Container in 3 Steps](https://dev.to/matias_plumari_039ce941da/stop-fighting-aws-networking-deploy-your-container-in-3-steps-5d6a)
+- [The coordinator-subagent pattern: the foundation every Claude multi-agent system is built on](https://dev.to/ajbuilds/the-coordinator-subagent-pattern-the-foundation-every-claude-multi-agent-system-is-built-on-17o6)
+- [I Built an AI Coding Agent That Actually Ships — Not Just Suggests](https://dev.to/saathwik/i-built-an-ai-coding-agent-that-actually-ships-not-just-suggests-11k)
+- [AI Agents Need Governance. Here&#39;s What We Built](https://dev.to/pentatonic/ai-agents-need-governance-heres-what-we-built-4858)
+- [Effect-TS in 2026: Functional Programming for TypeScript That Actually Makes Sense](https://dev.to/ottoaria/effect-ts-in-2026-functional-programming-for-typescript-that-actually-makes-sense-1go)
+- [AI Won&#39;t Fix a Broken CI/CD Pipeline](https://dev.to/aprasevic/ai-wont-fix-a-broken-cicd-pipeline-8he)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
