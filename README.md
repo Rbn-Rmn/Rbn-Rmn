@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Truthy Checks can Break on Zero in TypeScript](https://dev.to/jadebanks/why-truthy-checks-can-break-on-zero-in-typescript-515o)
-- [How I Debugged a Persistent Mobile App Crash and Fixed It](https://dev.to/mindmagic/how-i-debugged-a-persistent-mobile-app-crash-and-fixed-it-a)
-- [Limitations of Agile Software Processes](https://dev.to/paperium/limitations-of-agile-software-processes-3k4i)
-- [Lessons Learned Building Modern Digital Products](https://dev.to/mindmagic/lessons-learned-building-modern-digital-products-2548)
-- [#DevWatch — Turning GNOME into a Developer-Aware OS](https://dev.to/pawan_19012006/devwatch-turning-gnome-into-a-developer-aware-os-ep9)
+- [robots.txt is a sign, not a fence: 8 technical vectors through which AI still reads your website](https://dev.to/carlosortet/robotstxt-is-a-sign-not-a-fence-8-technical-vectors-through-which-ai-still-reads-your-website-37c6)
+- [Implementing Retry Policy &lpar;React Native &amp; Beyond&rpar;](https://dev.to/yhoungbrown/implementing-retry-policy-react-native-beyond-2lgb)
+- [GitHub Actions for Python Projects - Automate Your Workflow from Day One](https://dev.to/devasservice/github-actions-for-python-projects-automate-your-workflow-from-day-one-4ga9)
+- [Beyond &#39;It Works on My Machine&#39;: Solving Docker Networking &amp; DNS Bottlenecks](https://dev.to/ameer-pk/beyond-it-works-on-my-machine-solving-docker-networking-dns-bottlenecks-4f3m)
+- [AI-Safe MCP Server for SQL](https://dev.to/borakilicoglu/ai-safe-mcp-server-for-sql-4jn4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
