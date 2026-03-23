@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Most Valuable Skill in 2026 Isn&#39;t Writing Code. It Is Deleting It](https://dev.to/giphamceo/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-41kd)
-- [Inside The Oligarch And The Art Dealer: A Deep Dive Into High-Stakes Intrigue and Billion-Dollar Secrets](https://dev.to/aloycwl/inside-the-oligarch-and-the-art-dealer-a-deep-dive-into-high-stakes-intrigue-and-billion-dollar-47l8)
-- [Anthropic&#39;s &quot;Observed Exposure&quot; Study Is the First Real Early-Warning System for AI Labor Disruption](https://dev.to/narnaiezzsshaa/anthropics-observed-exposure-study-is-the-first-real-early-warning-system-for-ai-labor-disruption-46l1)
-- [Microservices Federation &lpar;GraphQL, Python and Apollo&rpar;](https://dev.to/nietzscheson/microservices-federation-graphql-python-and-apollo-3n0)
-- [Teaching Hindsight to Detect Project Risks](https://dev.to/ananya_kini/teaching-hindsight-to-detect-project-risks-47nm)
+- [Andrew Ng&#39;s new open-source project, Context Hub, attempts to solve a problem every API provider has right now whether they know it or not. Coding agents are getting your API wrong.](https://dev.to/leslysandra/andrew-ngs-new-open-source-project-context-hub-attempts-to-solve-a-problem-every-api-provider-3kh7)
+- [Update: How My Local AI Agent &quot;Daemon&quot; Learned Logical Discipline &lpar;Part 2&rpar;](https://dev.to/ramarondonuwu/update-how-my-local-ai-agent-daemon-learned-logical-discipline-part-2-8kp)
+- [How Anime Helped Me Through Depression — And Still Does](https://dev.to/iamirondev/how-anime-helped-me-through-depression-and-still-does-3jam)
+- [Understanding Teacher Forcing in Seq2Seq Models](https://dev.to/rijultp/understanding-teacher-forcing-in-seq2seq-models-a89)
+- [Hardenize moved to $5K+/year enterprise. Here&#39;s the self-serve alternative.](https://dev.to/guardr/hardenize-moved-to-5kyear-enterprise-heres-the-self-serve-alternative-3dpn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
