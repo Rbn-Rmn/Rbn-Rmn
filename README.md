@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building AI-Driven Autonomous Security Monitoring: From Enterprise Scale to Home Lab](https://dev.to/t_o_jp/building-ai-driven-autonomous-security-monitoring-from-enterprise-scale-to-home-lab-2b5f)
-- [Qué es RAG: guía completa sobre generación aumentada por recuperación en 2026](https://dev.to/beltsys-labs/que-es-rag-guia-completa-sobre-generacion-aumentada-por-recuperacion-en-2026-5f8n)
-- [I&#39;m working on a new retrieval system. Not RAG](https://dev.to/burstfirea47050/im-working-on-a-new-retrieval-system-not-rag-ak4)
-- [I Built a WordPress Plugin with a Team of 6 AI Agents &lpar;It Processes 16,000 Posts in 90 Seconds&rpar;](https://dev.to/cristiantalasanchez/i-built-a-wordpress-plugin-with-a-team-of-6-ai-agents-it-processes-16000-posts-in-90-seconds-jfl)
-- [Construí un Plugin de WordPress con un Equipo de 6 Agentes IA &lpar;y Procesa 16,000 Posts en 90 Segundos&rpar;](https://dev.to/ctala/construi-un-plugin-de-wordpress-con-un-equipo-de-6-agentes-ia-y-procesa-16000-posts-en-90-2ah)
+- [I Analyzed 50 GitHub Repos That Went From 0 to 10K Stars — Here Are the 7 Patterns](https://dev.to/0012303/i-analyzed-50-github-repos-that-went-from-0-to-10k-stars-here-are-the-7-patterns-54o1)
+- [🏗️ Building a Scalable Two-Tier AWS Infrastructure with Terraform](https://dev.to/abhishekjaiswal_4896/building-a-scalable-two-tier-aws-infrastructure-with-terraform-gph)
+- [¿Cuál es la Herramienta Correcta? ¿Estás evaluando tecnologías para tu próximo proyecto? 🤔](https://dev.to/jhdiazz/cual-es-la-herramienta-correctaestas-evaluando-tecnologias-para-tu-proximo-proyecto-51a8)
+- [MCP Is Not the Product — Reusable Skills Are](https://dev.to/alexshev/mcp-is-not-the-product-reusable-skills-are-27fp)
+- [Why Functional Programming Got Me](https://dev.to/mahush/why-functional-programming-got-me-4h2p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
