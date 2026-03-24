@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [6 Things No Other MCP Server Lets Your AI Agent Do](https://dev.to/whiteknightonhorse/6-things-no-other-mcp-server-lets-your-ai-agent-do-53ei)
-- [The Missing Record in Security Systems](https://dev.to/_ec43e7d217363cb63cf8/the-missing-record-in-security-systems-c29)
-- [Using git worktree for parallel AI agent development](https://dev.to/sonim1/using-git-worktree-for-parallel-ai-agent-development-44nb)
-- [Datadog Agent Installation on AWS EC2 &lpar;Linux Server&rpar; and Sending Logs to Datadog Cloud](https://dev.to/aws-builders/datadog-agent-installation-on-aws-ec2-linux-server-and-sending-logs-to-datadog-cloud-542f)
-- [Your Terminal Remembers Every Secret You&#39;ve Ever Typed](https://dev.to/davidnussio/your-terminal-remembers-every-secret-youve-ever-typed-jj2)
+- [My AI Agent Spent $5.84 and Did Nothing](https://dev.to/benixbuzz/my-ai-agent-spent-584-and-did-nothing-3kk2)
+- [How to Make Your AI Agent EU AI Act Compliant Before August 2026](https://dev.to/acacian/how-to-make-your-ai-agent-eu-ai-act-compliant-before-august-2026-30n1)
+- [I Keep Forgetting About My Long-Running Mobile App Builds](https://dev.to/jaredhall/i-keep-forgetting-about-my-long-running-mobile-app-builds-343i)
+- [I Almost Failed at a &quot;Simple&quot; Auto Clicker](https://dev.to/long_liu_65c881c653e56bac/i-almost-failed-at-a-simple-auto-clicker-43lb)
+- [Understanding Deepseek API with the &quot;House-Building&quot;Analogy](https://dev.to/caofan99521/understanding-deepseek-api-with-the-house-buildinganalogy-k1h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
