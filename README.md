@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My AI Agent Spent $5.84 and Did Nothing](https://dev.to/benixbuzz/my-ai-agent-spent-584-and-did-nothing-3kk2)
-- [How to Make Your AI Agent EU AI Act Compliant Before August 2026](https://dev.to/acacian/how-to-make-your-ai-agent-eu-ai-act-compliant-before-august-2026-30n1)
-- [I Keep Forgetting About My Long-Running Mobile App Builds](https://dev.to/jaredhall/i-keep-forgetting-about-my-long-running-mobile-app-builds-343i)
-- [I Almost Failed at a &quot;Simple&quot; Auto Clicker](https://dev.to/long_liu_65c881c653e56bac/i-almost-failed-at-a-simple-auto-clicker-43lb)
-- [Understanding Deepseek API with the &quot;House-Building&quot;Analogy](https://dev.to/caofan99521/understanding-deepseek-api-with-the-house-buildinganalogy-k1h)
+- [Protective Computing Is Not Privacy Theater](https://dev.to/crisiscoresystems/protective-computing-is-not-privacy-theater-2job)
+- [The Hidden Risk of Using Shared OAuth Apps &lpar;Nylas, Unipile, etc.&rpar;](https://dev.to/aspantel/the-hidden-risk-of-using-shared-oauth-apps-nylas-unipile-etc-3p5f)
+- [Tinyvision:-Building Ultra-Lightweight Models for Image Tasks&lpar;Part-1&rpar;](https://dev.to/saptakbhoumik/tinyvision-building-ultra-lightweight-models-for-image-taskspart-1-1l71)
+- [Database- Querying and Filtering Data](https://dev.to/srimaha_17/database-querying-and-filtering-data-2b34)
+- [How Liquidity Pools Work — A Developer&#39;s Overview](https://dev.to/tanzimsafin_42/how-liquidity-pools-work-a-developers-overview-5gfc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
