@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [When building AI chat is actually hard &lpar;how and why we built our agents&rpar;](https://dev.to/flobsien/when-building-ai-chat-is-actually-hard-how-and-why-we-built-our-agents-41ln)
-- [Building an Agentic Commerce App with Flutterwave v4 APIs](https://dev.to/flutterwaveeng/building-an-agentic-commerce-app-with-flutterwave-v4-apis-22eo)
-- [WWDC 2026 is June 8–12 : And Apple&#39;s Finally Talking About AI](https://dev.to/rainer_montalvo_2026/wwdc-2026-is-june-8-12-and-apples-finally-talking-about-ai-30o3)
-- [Cách Sử Dụng API Braintree Hiệu Quả Nhất](https://dev.to/sebbasstian/cach-su-dung-api-braintree-hieu-qua-nhat-4g6m)
-- [I forgot about my Devpost account… and today I found an email from them, so here I am!!!](https://dev.to/maitreyee_aggarwal_ed16f7/i-forgot-about-my-devpost-account-and-today-i-found-an-email-from-them-so-here-i-am-4k37)
+- [Santa Augmentcode Intent Ep.8](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep8-4346)
+- [CXXGraph: The Header-Only C++ Graph Library You Should Know About](https://dev.to/zigrazor/cxxgraph-the-header-only-c-graph-library-you-should-know-about-547i)
+- [Santa Augmentcode Intent Ep.5](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep5-2823)
+- [Santa Augmentcode Intent Ep.2](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep2-1bog)
+- [Shadow API: O Que É, Riscos e Como Prevenir](https://dev.to/lucas_ferreira/shadow-api-o-que-e-riscos-e-como-prevenir-5hlh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
