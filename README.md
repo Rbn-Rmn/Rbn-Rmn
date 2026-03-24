@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Linux Network Namespaces: How Containers Isolate and Connect Networks](https://dev.to/al-sori/understanding-linux-network-namespaces-how-containers-isolate-and-connect-networks-1ja2)
-- [basic select sql queries](https://dev.to/sharmi_sabari_09/basic-select-sql-queries-34a0)
-- [Agent Memory Is Just a Database You Forgot to Index](https://dev.to/karelvandenbussche/agent-memory-is-just-a-database-you-forgot-to-index-b5d)
-- [How AI Coding Agents Will Choose Your SaaS Boilerplate in 2026](https://dev.to/huangyongshan46a11y/how-ai-coding-agents-will-choose-your-saas-boilerplate-in-2026-1dco)
-- [Distributed Logging with ELK/EFK](https://dev.to/godofgeeks/distributed-logging-with-elkefk-3m9e)
+- [Hướng Dẫn Sử Dụng DigitalOcean API: Cloud Infrastructure Cho Lập Trình Viên](https://dev.to/sebbasstian/huong-dan-su-dung-digitalocean-api-cloud-infrastructure-cho-lap-trinh-vien-33p3)
+- [Building Enterprise-Ready AI Agents with Guardrails and Human-in-the-Loop Controls](https://dev.to/saths/building-enterprise-ready-ai-agents-with-guardrails-and-human-in-the-loop-controls-559l)
+- [Como Usar APIs DigitalOcean: Guia do Desenvolvedor para Infraestrutura Cloud](https://dev.to/lucas_ferreira/como-usar-apis-digitalocean-guia-do-desenvolvedor-para-infraestrutura-cloud-gmo)
+- [React Components vs Spaghetti: 5 Signs Your UI Is Becoming Unmaintainable](https://dev.to/gavincettolo/react-components-vs-spaghetti-5-signs-your-ui-is-becoming-unmaintainable-120m)
+- [Fedora linux not fedora hats, a beginner&#39;s guide to fedora.](https://dev.to/njeri_kimaru/fedora-linux-not-fedora-hats-a-beginners-guide-to-fedora-14nj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
