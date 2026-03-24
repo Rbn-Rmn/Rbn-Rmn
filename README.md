@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Santa Augmentcode Intent Ep.8](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep8-4346)
-- [CXXGraph: The Header-Only C++ Graph Library You Should Know About](https://dev.to/zigrazor/cxxgraph-the-header-only-c-graph-library-you-should-know-about-547i)
-- [Santa Augmentcode Intent Ep.5](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep5-2823)
-- [Santa Augmentcode Intent Ep.2](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep2-1bog)
-- [Shadow API: O Que É, Riscos e Como Prevenir](https://dev.to/lucas_ferreira/shadow-api-o-que-e-riscos-e-como-prevenir-5hlh)
+- [Turning World Bank Data Into 50K+ Searchable Pages with WordPress](https://dev.to/kavelaltd/turning-world-bank-data-into-50k-searchable-pages-with-wordpress-2ojp)
+- [How We Built a Programmatic SEO Engine Serving 80K+ Pages on WordPress &lpar;Without Using wp_posts&rpar;](https://dev.to/kavelaltd/how-we-built-a-programmatic-seo-engine-serving-80k-pages-on-wordpress-without-using-wpposts-2kgn)
+- [The Programmers&#39;s Guide to Co-Designing with Agents](https://dev.to/david_whitney/the-programmerss-guide-to-co-designing-with-agents-j9i)
+- [AWS Bahrain &lpar;me-south-1&rpar; Disrupted by Drone Activity: What Developers Need to Know](https://dev.to/damogallagher/aws-bahrain-me-south-1-disrupted-by-drone-activity-what-developers-need-to-know-45mb)
+- [Ditch the Boring White Box: How to Code a True Glassmorphic Login UI](https://dev.to/refivenine/ditch-the-boring-white-box-how-to-code-a-true-glassmorphic-login-ui-hj9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
