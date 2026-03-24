@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Custom Claude Code Skills That Actually Work](https://dev.to/alanwest/how-to-build-custom-claude-code-skills-that-actually-work-2e1f)
-- [AI 102](https://dev.to/bekahhw/ai-102-4o0)
-- [I Built 71+ Free Browser Tools Because Every &quot;Free&quot; Tool Site Is Terrible](https://dev.to/hcacode/i-built-71-free-browser-tools-because-every-free-tool-site-is-terrible-2nd5)
-- [I built a simulator that runs AI regulations through 10,000 agents and shows you how many comply, relocate, and who evades](https://dev.to/ambar/i-built-a-simulator-that-runs-ai-regulations-through-10000-agents-and-shows-you-how-many-comply-1pa6)
-- [My AI Caught a £3,200 Scope Creep at 3am While I Was Asleep—Here&#39;s the Notion MCP System I Built](https://dev.to/_boweii/my-ai-caught-a-ps3200-scope-creep-at-3am-while-i-was-asleep-heres-the-notion-mcp-system-i-built-1mnj)
+- [Light vs Electricity — 3 Physics Reasons Why CPO Can&#39;t Save 13.4 J/token](https://dev.to/plasmon_imp/light-vs-electricity-3-physics-reasons-why-cpo-cant-save-134-jtoken-1plm)
+- [3D Chip Stacking Has a Warpage Problem — GNNs and RTX 4060 Benchmarks Show Why](https://dev.to/plasmon_imp/3d-chip-stacking-has-a-warpage-problem-gnns-and-rtx-4060-benchmarks-show-why-31p7)
+- [March 26 - Advances in AI at Northeastern Virtual Meetup](https://dev.to/voxel51/march-26-advances-in-ai-at-northeastern-virtual-meetup-32gb)
+- [Why Your Custom NemoClaw LLM Takes Forever to Respond &lpar;Or Completely Ignores You&rpar;](https://dev.to/minhiu/why-your-custom-nemoclaw-llm-takes-forever-to-respond-or-completely-ignores-you-237h)
+- [LiteLLM Was Compromised. That&#39;s Why I&#39;m Building GoModel](https://dev.to/santiago-pl/litellm-was-compromised-thats-why-im-building-gomodel-nmm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
