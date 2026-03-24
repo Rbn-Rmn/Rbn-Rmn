@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What Web3 Looks Like in 2026 and Where It Is Headed by 2030](https://dev.to/ribhavmodi/what-web3-looks-like-in-2026-and-where-it-is-headed-by-2030-2lb4)
-- [Your SaaS File Uploads Are Slower Than They Need to Be](https://dev.to/voltageitlabs/your-saas-file-uploads-are-slower-than-they-need-to-be-ebb)
-- [Your Email Sounds Too Aggressive and You Know It. Here&#39;s How to Fix It in 2 Minutes](https://dev.to/skippy_magnificent_8cce24/your-email-sounds-too-aggressive-and-you-know-it-heres-how-to-fix-it-in-2-minutes-5coc)
-- [useMediaQuery: Complete Guide to Responsive Design in React](https://dev.to/childrentime/usemediaquery-complete-guide-to-responsive-design-in-react-4n1k)
-- [Deploying CVAT on AWS for Image and Video Annotation](https://dev.to/gowtham21/deploying-cvat-on-aws-for-image-and-video-annotation-425i)
+- [Understanding Linux Network Namespaces: How Containers Isolate and Connect Networks](https://dev.to/al-sori/understanding-linux-network-namespaces-how-containers-isolate-and-connect-networks-1ja2)
+- [basic select sql queries](https://dev.to/sharmi_sabari_09/basic-select-sql-queries-34a0)
+- [Agent Memory Is Just a Database You Forgot to Index](https://dev.to/karelvandenbussche/agent-memory-is-just-a-database-you-forgot-to-index-b5d)
+- [How AI Coding Agents Will Choose Your SaaS Boilerplate in 2026](https://dev.to/huangyongshan46a11y/how-ai-coding-agents-will-choose-your-saas-boilerplate-in-2026-1dco)
+- [Distributed Logging with ELK/EFK](https://dev.to/godofgeeks/distributed-logging-with-elkefk-3m9e)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
