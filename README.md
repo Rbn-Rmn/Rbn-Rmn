@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Light vs Electricity — 3 Physics Reasons Why CPO Can&#39;t Save 13.4 J/token](https://dev.to/plasmon_imp/light-vs-electricity-3-physics-reasons-why-cpo-cant-save-134-jtoken-1plm)
-- [3D Chip Stacking Has a Warpage Problem — GNNs and RTX 4060 Benchmarks Show Why](https://dev.to/plasmon_imp/3d-chip-stacking-has-a-warpage-problem-gnns-and-rtx-4060-benchmarks-show-why-31p7)
-- [March 26 - Advances in AI at Northeastern Virtual Meetup](https://dev.to/voxel51/march-26-advances-in-ai-at-northeastern-virtual-meetup-32gb)
-- [Why Your Custom NemoClaw LLM Takes Forever to Respond &lpar;Or Completely Ignores You&rpar;](https://dev.to/minhiu/why-your-custom-nemoclaw-llm-takes-forever-to-respond-or-completely-ignores-you-237h)
-- [LiteLLM Was Compromised. That&#39;s Why I&#39;m Building GoModel](https://dev.to/santiago-pl/litellm-was-compromised-thats-why-im-building-gomodel-nmm)
+- [Builders Outgrow Shared .env Files Faster Than They Think](https://dev.to/joerucci/builders-outgrow-shared-env-files-faster-than-they-think-1nfb)
+- [How to Implement Google OAuth 2.0 in Next.js with NestJS](https://dev.to/marwanzaky/how-to-implement-google-oauth-20-in-nextjs-with-nestjs-3pnh)
+- [Stop Using CI as Your Deployment Platform](https://dev.to/tech_face/stop-using-ci-as-your-deployment-platform-4dk)
+- [I ported the OpenAI Python SDK to Rust in 5 days with Claude Code.](https://dev.to/fortunto2/squeezing-every-millisecond-from-the-openai-api-in-rust-4b11)
+- [SnowPro Core Roadmap](https://dev.to/manojjagtap/snowpro-core-roadmap-5f6o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
