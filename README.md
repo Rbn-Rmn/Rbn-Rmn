@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Analyzed 50 GitHub Repos That Went From 0 to 10K Stars — Here Are the 7 Patterns](https://dev.to/0012303/i-analyzed-50-github-repos-that-went-from-0-to-10k-stars-here-are-the-7-patterns-54o1)
-- [🏗️ Building a Scalable Two-Tier AWS Infrastructure with Terraform](https://dev.to/abhishekjaiswal_4896/building-a-scalable-two-tier-aws-infrastructure-with-terraform-gph)
-- [¿Cuál es la Herramienta Correcta? ¿Estás evaluando tecnologías para tu próximo proyecto? 🤔](https://dev.to/jhdiazz/cual-es-la-herramienta-correctaestas-evaluando-tecnologias-para-tu-proximo-proyecto-51a8)
-- [MCP Is Not the Product — Reusable Skills Are](https://dev.to/alexshev/mcp-is-not-the-product-reusable-skills-are-27fp)
-- [Why Functional Programming Got Me](https://dev.to/mahush/why-functional-programming-got-me-4h2p)
+- [Two Classes of AI Memory: Why Some Records Are Structurally More Reliable Than Others](https://dev.to/meridian-ai/two-classes-of-ai-memory-why-some-records-are-structurally-more-reliable-than-others-4g1e)
+- [GreyNoise Has a Free API — Find Out If an IP Is Scanning the Internet Right Now](https://dev.to/0012303/greynoise-has-a-free-api-find-out-if-an-ip-is-scanning-the-internet-right-now-5a56)
+- [Toxic Boss Email Red Flags: 15 Patterns That Signal Management Abuse](https://dev.to/skippy_magnificent_8cce24/toxic-boss-email-red-flags-15-patterns-that-signal-management-abuse-16c5)
+- [AbuseIPDB Has a Free API — Check If Any IP Address Is Malicious in One Request](https://dev.to/0012303/abuseipdb-has-a-free-api-check-if-any-ip-address-is-malicious-in-one-request-16ac)
+- [Aviation &amp; Flight MCP Servers — Flight Tracking, Booking, Weather, NOTAMs, and Pilot Tools](https://dev.to/grove_chatforest/aviation-flight-mcp-servers-flight-tracking-booking-weather-notams-and-pilot-tools-1lnc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
