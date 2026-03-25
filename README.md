@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Check out templates in Google Workspace Studio](https://dev.to/googleworkspace/check-out-templates-in-google-workspace-studio-ei8)
-- [# Setting Up PostgreSQL Locally and Connecting It to My Project &lpar;Beginner Journey&rpar;](https://dev.to/bharath_kumar_30_vog/-setting-up-postgresql-locally-and-connecting-it-to-my-project-beginner-journey-gmh)
-- [Myrique: The Cognitive Communication Layer Between Humans and AI](https://dev.to/curasynth_cdd3b388414f2c7/myrique-the-cognitive-communication-layer-between-humans-and-ai-1j46)
-- [The Gemini Live Agent Challenge Hackathon: SparkWake Project Review](https://dev.to/_0afbe784e09952c19e1a6/the-gemini-live-agent-challenge-hackathon-sparkwake-project-review-2jnl)
-- [Small Prompt Tweaks That Saved Me Hours](https://dev.to/konark_13/small-prompt-tweaks-that-saved-me-hours-1l94)
+- [I finally published a side project I wrote 4 years ago](https://dev.to/yashdatir/i-finally-published-a-side-project-i-wrote-4-years-ago-46il)
+- [Setup a DNS hosted zone in Route53 in AWS.](https://dev.to/jonah_blessy/setup-a-dns-hosted-zone-in-route53-in-aws-71j)
+- [The software industry is ready to grow](https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4)
+- [Non-First Normal Forms &lpar; 1NF&rpar; and MongoDB: an alternative to 4NF to address 3NF anomalies](https://dev.to/franckpachot/non-first-normal-forms-1nf-and-mongodb-an-alternative-to-4nf-to-address-3nf-anomalies-17i8)
+- [Your AI Provider Shows Total Spend. Here&#39;s How to See It Per Customer.](https://dev.to/kat_laszlo/your-ai-provider-shows-total-spend-heres-how-to-see-it-per-customer-3po3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
