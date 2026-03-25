@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [🏆 Skill of the Week #1: The Credit Optimizer That Saves 40% on AI Agent Costs](https://dev.to/rafsilva85/skill-of-the-week-1-the-credit-optimizer-that-saves-40-on-ai-agent-costs-5he6)
-- [Why Windows Games Stutter on Linux and How Wine 11 Finally Fixes It](https://dev.to/alanwest/why-windows-games-stutter-on-linux-and-how-wine-11-finally-fixes-it-44h7)
-- [PubMed Has a Free API — Search 35M+ Medical Papers Without Scraping &lpar;No Key&rpar;](https://dev.to/0012303/pubmed-has-a-free-api-search-35m-medical-papers-without-scraping-no-key-2me)
-- [Semantic Scholar Has a Free API — Search 200M+ Papers With AI-Powered Relevance &lpar;No Key&rpar;](https://dev.to/0012303/semantic-scholar-has-a-free-api-search-200m-papers-with-ai-powered-relevance-no-key-2pjj)
-- [Compliance Communication Email Templates: Make Regulatory Requirements Human-Readable](https://dev.to/skippy_magnificent_8cce24/compliance-communication-email-templates-make-regulatory-requirements-human-readable-44ap)
+- [NotionOps AI — I Built an AI DevOps Brain That Lives Inside Notion 🧠](https://dev.to/yash_sonawane25/notionops-ai-i-built-an-ai-devops-brain-that-lives-inside-notion-3foh)
+- [Cohere MCP Server — Enterprise AI&#39;s North Star Meets the Model Context Protocol](https://dev.to/grove_chatforest/cohere-mcp-server-enterprise-ais-north-star-meets-the-model-context-protocol-4kc2)
+- [Code Security MCP Servers — Snyk, SonarQube, Semgrep, Trivy, CodeQL, and Beyond](https://dev.to/grove_chatforest/code-security-mcp-servers-snyk-sonarqube-semgrep-trivy-codeql-and-beyond-4nln)
+- [Fine-Tuning vs Prompt Engineering: A Practical Technical Comparison for Modern AI Systems](https://dev.to/vishaluttammane/fine-tuning-vs-prompt-engineering-a-practical-technical-comparison-for-modern-ai-systems-289o)
+- [Build Your First MCP Server in C#: A Complete Guide to Agentic AI](https://dev.to/karleeov/build-your-first-mcp-server-in-c-a-complete-guide-to-agentic-ai-13g2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
