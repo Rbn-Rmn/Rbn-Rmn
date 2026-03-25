@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [NotionOps AI — I Built an AI DevOps Brain That Lives Inside Notion 🧠](https://dev.to/yash_sonawane25/notionops-ai-i-built-an-ai-devops-brain-that-lives-inside-notion-3foh)
-- [Cohere MCP Server — Enterprise AI&#39;s North Star Meets the Model Context Protocol](https://dev.to/grove_chatforest/cohere-mcp-server-enterprise-ais-north-star-meets-the-model-context-protocol-4kc2)
-- [Code Security MCP Servers — Snyk, SonarQube, Semgrep, Trivy, CodeQL, and Beyond](https://dev.to/grove_chatforest/code-security-mcp-servers-snyk-sonarqube-semgrep-trivy-codeql-and-beyond-4nln)
-- [Fine-Tuning vs Prompt Engineering: A Practical Technical Comparison for Modern AI Systems](https://dev.to/vishaluttammane/fine-tuning-vs-prompt-engineering-a-practical-technical-comparison-for-modern-ai-systems-289o)
-- [Build Your First MCP Server in C#: A Complete Guide to Agentic AI](https://dev.to/karleeov/build-your-first-mcp-server-in-c-a-complete-guide-to-agentic-ai-13g2)
+- [Best Online Code Diff Checker Tools in 2025](https://dev.to/_d7eb1c1703182e3ce1782/best-online-code-diff-checker-tools-in-2025-492l)
+- [Best Markdown Editors for Developers in 2025: Desktop, Web, and CLI Options](https://dev.to/_d7eb1c1703182e3ce1782/best-markdown-editors-for-developers-in-2025-desktop-web-and-cli-options-299f)
+- [Best Load Testing Tools for Developers in 2025: k6, JMeter, Locust, and More](https://dev.to/_d7eb1c1703182e3ce1782/best-load-testing-tools-for-developers-in-2025-k6-jmeter-locust-and-more-4513)
+- [How Excel is used in Real-World Data Analysis.](https://dev.to/martin_kamau_/how-excel-is-used-in-real-world-data-analysis-3133)
+- [Best Free JSON Formatter Tools for Developers &lpar;2024&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/best-free-json-formatter-tools-for-developers-2024-4cj3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
