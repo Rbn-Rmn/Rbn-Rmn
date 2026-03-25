@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Best Online Code Diff Checker Tools in 2025](https://dev.to/_d7eb1c1703182e3ce1782/best-online-code-diff-checker-tools-in-2025-492l)
-- [Best Markdown Editors for Developers in 2025: Desktop, Web, and CLI Options](https://dev.to/_d7eb1c1703182e3ce1782/best-markdown-editors-for-developers-in-2025-desktop-web-and-cli-options-299f)
-- [Best Load Testing Tools for Developers in 2025: k6, JMeter, Locust, and More](https://dev.to/_d7eb1c1703182e3ce1782/best-load-testing-tools-for-developers-in-2025-k6-jmeter-locust-and-more-4513)
-- [How Excel is used in Real-World Data Analysis.](https://dev.to/martin_kamau_/how-excel-is-used-in-real-world-data-analysis-3133)
-- [Best Free JSON Formatter Tools for Developers &lpar;2024&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/best-free-json-formatter-tools-for-developers-2024-4cj3)
+- [How I Passed the NVIDIA Agentic AI &lpar;NCA-AAI&rpar; Exam in Under 2 Weeks](https://dev.to/bren67/how-i-passed-the-nvidia-agentic-ai-nca-aai-exam-in-under-2-weeks-41oj)
+- [How Pattern Recognition in Code Mirrors Brain Teaser Logic](https://dev.to/samokafor21592/how-pattern-recognition-in-code-mirrors-brain-teaser-logic-19m8)
+- [JavaScript Bundle Size Optimization: From 2MB to 200KB — A Practical Guide](https://dev.to/_d7eb1c1703182e3ce1782/javascript-bundle-size-optimization-from-2mb-to-200kb-a-practical-guide-blb)
+- [Building a Production Multi-Agent AI System: BrightStream&#39;s 10-Agent Architecture on Vertex AI](https://dev.to/jeremy_longshore/building-a-production-multi-agent-ai-system-brightstreams-10-agent-architecture-on-vertex-ai-34m4)
+- [25+ Websites to Practice HTML, CSS, and JavaScript](https://dev.to/devshefali/25-websites-to-practice-html-css-and-javascript-5b3n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
