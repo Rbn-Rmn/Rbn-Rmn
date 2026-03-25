@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Passed the NVIDIA Agentic AI &lpar;NCA-AAI&rpar; Exam in Under 2 Weeks](https://dev.to/bren67/how-i-passed-the-nvidia-agentic-ai-nca-aai-exam-in-under-2-weeks-41oj)
-- [How Pattern Recognition in Code Mirrors Brain Teaser Logic](https://dev.to/samokafor21592/how-pattern-recognition-in-code-mirrors-brain-teaser-logic-19m8)
-- [JavaScript Bundle Size Optimization: From 2MB to 200KB — A Practical Guide](https://dev.to/_d7eb1c1703182e3ce1782/javascript-bundle-size-optimization-from-2mb-to-200kb-a-practical-guide-blb)
-- [Building a Production Multi-Agent AI System: BrightStream&#39;s 10-Agent Architecture on Vertex AI](https://dev.to/jeremy_longshore/building-a-production-multi-agent-ai-system-brightstreams-10-agent-architecture-on-vertex-ai-34m4)
-- [25+ Websites to Practice HTML, CSS, and JavaScript](https://dev.to/devshefali/25-websites-to-practice-html-css-and-javascript-5b3n)
+- [Server-Sent Events](https://dev.to/vivian-voss/server-sent-events-4i0k)
+- [Top 10 API Testing Tools for Developers in 2026](https://dev.to/_d7eb1c1703182e3ce1782/top-10-api-testing-tools-for-developers-in-2026-11d2)
+- [DevOps and Microservices: A Comprehensive Guide to Building Scalable Distributed Systems](https://dev.to/richardperez187/devops-and-microservices-a-comprehensive-guide-to-building-scalable-distributed-systems-19jm)
+- [Would you use a coding challenge where you fix bugs in a real codebase instead of solving LeetCode-style problems](https://dev.to/vulcanwm/would-you-use-a-coding-challenge-where-you-fix-bugs-in-a-real-codebase-instead-of-solving-21bb)
+- [Tmux Tutorial: The Complete Developer Workflow Guide &lpar;2026&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/tmux-tutorial-the-complete-developer-workflow-guide-2026-33b3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
