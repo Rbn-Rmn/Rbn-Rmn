@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [10 Developer Tools I Wish I Found Sooner &lpar;All Free&rpar;](https://dev.to/0012303/10-developer-tools-i-wish-i-found-sooner-all-free-35al)
-- [9 Free APIs You Probably Didn&#39;t Know Existed](https://dev.to/0012303/9-free-apis-you-probably-didnt-know-existed-2444)
-- [Server-Sent Events as Your Mobile Real-Time Layer](https://dev.to/software_mvp-factory/server-sent-events-as-your-mobile-real-time-layer-8md)
-- [Portfolio Website Development 🏗️ - Part 4](https://dev.to/souravdey777/portfolio-website-development-part-4-272h)
-- [I Built 14 Free API Toolkits in 2 Weeks — Here&#39;s What Each One Does](https://dev.to/0012303/i-built-14-free-api-toolkits-in-2-weeks-heres-what-each-one-does-5ehj)
+- [Scaling From 0 to 1,000 Users: What Actually Matters](https://dev.to/ripenapps-technologies/scaling-from-0-to-1000-users-what-actually-matters-1m22)
+- [Satellite Tailscale — Ep.2](https://dev.to/the-software-s-journey/satellite-tailscale-ep2-1ep7)
+- [Find Plaintext Secrets Hiding in Your .env Files](https://dev.to/ustun/find-plaintext-secrets-hiding-in-your-env-files-5dpl)
+- [You’re Learning Python Every Day — So Why Are You Still Not Confident](https://dev.to/shweta_03/youre-learning-python-every-day-so-why-are-you-still-not-confident-3lcf)
+- [I built an API that roasts your code for $0.02](https://dev.to/m_m_f2442c87a19635b7a1de2/i-built-an-api-that-roasts-your-code-for-002-i9a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
