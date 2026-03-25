@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Two Classes of AI Memory: Why Some Records Are Structurally More Reliable Than Others](https://dev.to/meridian-ai/two-classes-of-ai-memory-why-some-records-are-structurally-more-reliable-than-others-4g1e)
-- [GreyNoise Has a Free API — Find Out If an IP Is Scanning the Internet Right Now](https://dev.to/0012303/greynoise-has-a-free-api-find-out-if-an-ip-is-scanning-the-internet-right-now-5a56)
-- [Toxic Boss Email Red Flags: 15 Patterns That Signal Management Abuse](https://dev.to/skippy_magnificent_8cce24/toxic-boss-email-red-flags-15-patterns-that-signal-management-abuse-16c5)
-- [AbuseIPDB Has a Free API — Check If Any IP Address Is Malicious in One Request](https://dev.to/0012303/abuseipdb-has-a-free-api-check-if-any-ip-address-is-malicious-in-one-request-16ac)
-- [Aviation &amp; Flight MCP Servers — Flight Tracking, Booking, Weather, NOTAMs, and Pilot Tools](https://dev.to/grove_chatforest/aviation-flight-mcp-servers-flight-tracking-booking-weather-notams-and-pilot-tools-1lnc)
+- [🏆 Skill of the Week #1: The Credit Optimizer That Saves 40% on AI Agent Costs](https://dev.to/rafsilva85/skill-of-the-week-1-the-credit-optimizer-that-saves-40-on-ai-agent-costs-5he6)
+- [Why Windows Games Stutter on Linux and How Wine 11 Finally Fixes It](https://dev.to/alanwest/why-windows-games-stutter-on-linux-and-how-wine-11-finally-fixes-it-44h7)
+- [PubMed Has a Free API — Search 35M+ Medical Papers Without Scraping &lpar;No Key&rpar;](https://dev.to/0012303/pubmed-has-a-free-api-search-35m-medical-papers-without-scraping-no-key-2me)
+- [Semantic Scholar Has a Free API — Search 200M+ Papers With AI-Powered Relevance &lpar;No Key&rpar;](https://dev.to/0012303/semantic-scholar-has-a-free-api-search-200m-papers-with-ai-powered-relevance-no-key-2pjj)
+- [Compliance Communication Email Templates: Make Regulatory Requirements Human-Readable](https://dev.to/skippy_magnificent_8cce24/compliance-communication-email-templates-make-regulatory-requirements-human-readable-44ap)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
