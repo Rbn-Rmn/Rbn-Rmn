@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [IPTP Pipe: Communicating with Intention + Pulse Sets &lpar;with Framing, Protocol ACK, and Multiplexing&rpar;](https://dev.to/spicecoder/iptp-pipe-communicating-with-intention-pulse-sets-with-framing-protocol-ack-and-multiplexing-m3d)
-- [MCP Servers Explained: How AI Assistants Connect to Your Tools &lpar;With Examples&rpar;](https://dev.to/0012303/mcp-servers-explained-how-ai-assistants-connect-to-your-tools-with-examples-18i8)
-- [Your Domain Doesn&#39;t Know About PostgreSQL &lpar;And It Shouldn&#39;t&rpar;](https://dev.to/elpic/your-domain-doesnt-know-about-postgresql-and-it-shouldnt-44i)
-- [Claude Code vs. Cursor vs. Aider: The 2026 Battle for Your Terminal and IDE](https://dev.to/sameer_saleem/claude-code-vs-cursor-vs-aider-the-2026-battle-for-your-terminal-and-ide-3cb4)
-- [Stop Paying for APIs You Can Get for Free &lpar;A Developer&#39;s Guide to Free Data&rpar;](https://dev.to/0012303/stop-paying-for-apis-you-can-get-for-free-a-developers-guide-to-free-data-1n1l)
+- [New Benchmark for Open-Source Agents: What is Claw-Eval? How Step 3.5 Flash Secured the #2 Spot](https://dev.to/sky_05/new-benchmark-for-open-source-agents-what-is-claw-eval-how-step-35-flash-secured-the-2-spot-592d)
+- [New Benchmark for Open-Source Agents: What is Claw-Eval? How Step 3.5 Flash Secured the #2 Spot](https://dev.to/sky_05/new-benchmark-for-open-source-agents-what-is-claw-eval-how-step-35-flash-secured-the-2-spot-3ha1)
+- [What is GEO &lpar;Generative Engine Optimization&rpar;? How to Implement It in Next.js](https://dev.to/jigz_dev/what-is-geo-generative-engine-optimization-how-to-implement-it-in-nextjs-23d6)
+- [Sorting Hashnode Series Posts: How to Display the Latest Post First](https://dev.to/highcenburg/sorting-hashnode-series-posts-how-to-display-the-latest-post-first-5ek3)
+- [Cloudflare Workers V8 Isolates: 100x Faster Cold Starts for AI Agents at the Edge [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/cloudflare-workers-v8-isolates-100x-faster-cold-starts-for-ai-agents-at-the-edge-2026-37oi)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
