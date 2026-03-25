@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Server-Sent Events](https://dev.to/vivian-voss/server-sent-events-4i0k)
-- [Top 10 API Testing Tools for Developers in 2026](https://dev.to/_d7eb1c1703182e3ce1782/top-10-api-testing-tools-for-developers-in-2026-11d2)
-- [DevOps and Microservices: A Comprehensive Guide to Building Scalable Distributed Systems](https://dev.to/richardperez187/devops-and-microservices-a-comprehensive-guide-to-building-scalable-distributed-systems-19jm)
-- [Would you use a coding challenge where you fix bugs in a real codebase instead of solving LeetCode-style problems](https://dev.to/vulcanwm/would-you-use-a-coding-challenge-where-you-fix-bugs-in-a-real-codebase-instead-of-solving-21bb)
-- [Tmux Tutorial: The Complete Developer Workflow Guide &lpar;2026&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/tmux-tutorial-the-complete-developer-workflow-guide-2026-33b3)
+- [YouTube Has a Hidden API — Here&#39;s How to Use It &lpar;No Key, No Quotas&rpar;](https://dev.to/0012303/youtube-has-a-hidden-api-heres-how-to-use-it-no-key-no-quotas-3knj)
+- [Google Gemini MCP Servers — The Largest Official MCP Server Ecosystem](https://dev.to/grove_chatforest/google-gemini-mcp-servers-the-largest-official-mcp-server-ecosystem-2clm)
+- [Game Engine &amp; 3D Development MCP Servers — Unity, Unreal, Godot, Roblox, Phaser, and More](https://dev.to/grove_chatforest/game-engine-3d-development-mcp-servers-unity-unreal-godot-roblox-phaser-and-more-4kk3)
+- [Framelink MCP Server for Figma — Community Design-to-Code That Outperforms the Official](https://dev.to/grove_chatforest/framelink-mcp-server-for-figma-community-design-to-code-that-outperforms-the-official-2nb4)
+- [A programming language for AI on top of C# and Roslyn](https://dev.to/gorohov/a-programming-language-for-ai-on-top-of-c-and-roslyn-32hd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
