@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Search ClinicalTrials.gov Programmatically &lpar;The v2 API is Actually Good Now&rpar;](https://dev.to/avabuildsdata/how-to-search-clinicaltrialsgov-programmatically-the-v2-api-is-actually-good-now-2i2a)
-- [TanStack Start vs Next.js in 2026: Should You Actually Switch?](https://dev.to/alexcloudstar/tanstack-start-vs-nextjs-in-2026-should-you-actually-switch-4b2l)
-- [Default-Deny Policies: Why Your AI Agent Can&#39;t Touch What You Don&#39;t Allow](https://dev.to/walletguy/default-deny-policies-why-your-ai-agent-cant-touch-what-you-dont-allow-m39)
-- [Event-Driven Threat Detection: Building Real-Time Security on Conditional Access Gaps](https://dev.to/chrisiam/event-driven-threat-detection-building-real-time-security-on-conditional-access-gaps-55j1)
-- [Smart Contract Auditing Explained: A Technical Guide to Security Analysis and Verification](https://dev.to/richard_charles_855e0c764/smart-contract-auditing-explained-a-technical-guide-to-security-analysis-and-verification-12e8)
+- [I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy](https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e)
+- [I built a self-hosted AI chat app that connects 7 providers in one UI](https://dev.to/tsunamayo7/i-built-a-self-hosted-ai-chat-app-that-connects-7-providers-in-one-ui-12ok)
+- [VS Code 1.113 Just Dropped — And It&#39;s Quietly Changing How Developers Work](https://dev.to/hamidrazadev/vs-code-1113-just-dropped-and-its-quietly-changing-how-developers-work-b2l)
+- [LLMs in DevOps: Why They Work Best as a &quot;Very Fast Junior Engineer&quot;](https://dev.to/polarsquad/llms-in-devops-why-they-work-best-as-a-very-fast-junior-engineer-59oh)
+- [Faster Than You Think: Part 2](https://dev.to/jonathanblessing/faster-than-you-think-part-2-28m6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
