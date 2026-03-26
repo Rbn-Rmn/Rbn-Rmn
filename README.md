@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [DB data migration is a pain](https://dev.to/bumbulik0/db-data-migration-is-a-pain-3ca5)
-- [I Gave My Video Generator Scratch Paper — How Think Frames Saved My GPU Budget](https://dev.to/daniel_romitelli_44e77dc6/i-gave-my-video-generator-scratch-paper-how-think-frames-saved-my-gpu-budget-d9a)
-- [What Breaks When Listing Content Starts From a Blank Page Every Time](https://dev.to/estatepass/what-breaks-when-listing-content-starts-from-a-blank-page-every-time-c1p)
-- [Introduction to Linux Basics.](https://dev.to/brian_gachuiga_1b1ef28ecf/introduction-to-linux-basics-56p9)
-- [WAIaaS SDK: Programmatic Wallet Control in TypeScript and Python](https://dev.to/walletguy/waiaas-sdk-programmatic-wallet-control-in-typescript-and-python-4687)
+- [How To Resize LVM Volumes Dynamically In Cloud-Init VMs &lpar;Step-By-Step&rpar;](https://dev.to/patimapoochai/how-to-resize-lvm-volumes-dynamically-in-cloud-init-vms-step-by-step-1oml)
+- [AI Tamagotchi: Why I Built an AI That Starts Blank and Grows With You](https://dev.to/hidden_developer_5c94d579/ai-tamagotchi-why-i-built-an-ai-that-starts-blank-and-grows-with-you-19hj)
+- [Atomicity - Design a Reliable Wallet Transfer System with ACID Guarantees](https://dev.to/shreya_princy_8194cc37e3f/atomicity-design-a-reliable-wallet-transfer-system-with-acid-guarantees-1635)
+- [Why AI Hallucinates Even When It Knows the Answer](https://dev.to/sumanth-vallabhaneni/why-ai-hallucinates-even-when-it-knows-the-answer-4cbe)
+- [How I Almost Burned Out Doing Everything “Right”](https://dev.to/sylwia-lask/how-i-almost-burned-out-doing-everything-right-31j6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
