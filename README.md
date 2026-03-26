@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Canonical tag mistakes in WordPress sites before launch](https://dev.to/elliemiguel/canonical-tag-mistakes-in-wordpress-sites-before-launch-4ifa)
-- [When the pain is real. So is the urge to leave.](https://dev.to/canro91/when-the-pain-is-real-so-is-the-urge-to-leave-593j)
-- [Redis INCR: O comando atômico que você deveria conhecer](https://dev.to/unhacked/redis-incr-o-comando-atomico-que-voce-deveria-conhecer-194b)
-- [The Architectural Problem With Compliance-as-a-Service](https://dev.to/cyberbase/the-architectural-problem-with-compliance-as-a-service-5ekb)
-- [Fabulous Shadcn Footers for React Projects](https://dev.to/isanjayjoshi/fabulous-shadcn-footers-for-react-projects-3j66)
+- [JSONB Video Analytics Dashboards in PostgreSQL](https://dev.to/ahmet_gedik778845/jsonb-video-analytics-dashboards-in-postgresql-3img)
+- [Day 41: Ditching print&lpar;&rpar; for AWS Lambda Powertools &lpar;Structured Logging&rpar;](https://dev.to/ericrodriguez10/day-41-ditching-print-for-aws-lambda-powertools-structured-logging-35ad)
+- [GitHub Copilot vs Codeium &lpar;Windsurf&rpar;: Which AI Coding Tool Wins in 2026?](https://dev.to/rahulxsingh/github-copilot-vs-codeium-windsurf-which-ai-coding-tool-wins-in-2026-fed)
+- [Speed vs smarts for coding agents?](https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h)
+- [How I Gave Claude Code Access to My Entire Company&#39;s Knowledge Base &lpar;In 30 Minutes&rpar;](https://dev.to/akshay_kumar_bm/how-i-gave-claude-code-access-to-my-entire-companys-knowledge-base-in-30-minutes-ffp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
