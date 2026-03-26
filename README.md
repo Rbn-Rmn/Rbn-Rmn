@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy](https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e)
-- [I built a self-hosted AI chat app that connects 7 providers in one UI](https://dev.to/tsunamayo7/i-built-a-self-hosted-ai-chat-app-that-connects-7-providers-in-one-ui-12ok)
-- [VS Code 1.113 Just Dropped — And It&#39;s Quietly Changing How Developers Work](https://dev.to/hamidrazadev/vs-code-1113-just-dropped-and-its-quietly-changing-how-developers-work-b2l)
-- [LLMs in DevOps: Why They Work Best as a &quot;Very Fast Junior Engineer&quot;](https://dev.to/polarsquad/llms-in-devops-why-they-work-best-as-a-very-fast-junior-engineer-59oh)
-- [Faster Than You Think: Part 2](https://dev.to/jonathanblessing/faster-than-you-think-part-2-28m6)
+- [My 11-Agent AI Swarm Was Secretly Hallucinating. My Own Monitoring Tool Caught It.](https://dev.to/fliptrigga13/my-11-agent-ai-swarm-was-secretly-hallucinating-my-own-monitoring-tool-caught-it-4hj4)
+- [How I Stopped Re-Explaining Everything to Claude Code Every Single Session](https://dev.to/qcautomation/how-i-stopped-re-explaining-everything-to-claude-code-every-single-session-3299)
+- [Docker in the Wild: Use Cases &amp; The Survival Commands](https://dev.to/mitrakumar/docker-in-the-wild-use-cases-the-survival-commands-4h8n)
+- [We built an tool for DevOps that wasn&#39;t useful. Here’s what we are building instead.](https://dev.to/jose_soares/we-built-an-tool-for-devops-that-wasnt-useful-heres-what-we-are-building-instead-20gi)
+- [A Condensed Look Inside the Credit Scoring Industry](https://dev.to/marysofteng/a-condensed-look-inside-the-credit-scoring-industry-20d6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
