@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [PaperBanana: Automating Research Diagrams With an Agentic AI Framework](https://dev.to/dextralabs/paperbanana-automating-research-diagrams-with-an-agentic-ai-framework-3ajk)
-- [The Character Consistency Problem: Why Every AI Video Tool Still Fails at the One Thing That Matters Most](https://dev.to/weizhang_dev/the-character-consistency-problem-why-every-ai-video-tool-still-fails-at-the-one-thing-that-3386)
-- [Everyone Writes About AI Generating Code. Nobody Writes About AI Testing It.](https://dev.to/manasightgg/everyone-writes-about-ai-generating-code-nobody-writes-about-ai-testing-it-171a)
-- [WebLines reached 100 users](https://dev.to/sushilbajracharya01/weblines-reached-100-users-5e6n)
-- [I built a reverse proxy to stop adblockers from eating my analytics](https://dev.to/rajnandan1/i-built-a-reverse-proxy-to-stop-adblockers-from-eating-my-analytics-1c8j)
+- [Stop writing Python glue code for your AI Agents. Use YAML instead](https://dev.to/minionkim/stop-writing-python-glue-code-for-your-ai-agents-use-yaml-instead-f02)
+- [GPT-5, Claude, Gemini All Score Below 1% - ARC AGI 3 Just Broke Every Frontier Model](https://dev.to/codepawl/gpt-5-claude-gemini-all-score-below-1-arc-agi-3-just-broke-every-frontier-model-5dbj)
+- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-3eoi)
+- [Python Basics](https://dev.to/shatakshig8/python-basics-4gdl)
+- [Gemini is the best AI for deep research and the worst for actually using the output](https://dev.to/bunty_shah_fac2bef694e9c9/gemini-is-the-best-ai-for-deep-research-and-the-worst-for-actually-using-the-output-453m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
