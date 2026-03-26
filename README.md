@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [OmniShell: Building a Virtual Desktop Environment in C++ with wxWidgets](https://dev.to/lenik/omnishell-building-a-virtual-desktop-environment-in-c-with-wxwidgets-54p8)
-- [The Most Dangerous Failures Aren’t Wrong Decisions They’re Unchecked Actions](https://dev.to/dan_evans_1/the-most-dangerous-failures-arent-wrong-decisions-theyre-unchecked-actions-1dhg)
-- [Guide to Secure Your Self-Hosted Stacks like Nginx, SSH, &amp; Vaultwarden with Fail2ban](https://dev.to/nirzak/guide-to-secure-your-self-hosted-stacks-like-nginx-ssh-vaultwarden-with-fail2ban-4k4c)
-- [I Replaced Zapier with n8n for 12 Clients — Here&#39;s What Actually Happened](https://dev.to/achiya-automation/i-replaced-zapier-with-n8n-for-12-clients-heres-what-actually-happened-5546)
-- [We Just Shipped What OpenAI, Google, and Anthropic Have Not. Here Are 6 Updates.](https://dev.to/jon_at_backboardio/we-just-shipped-what-openai-google-and-anthropic-have-not-here-are-6-updates-2fj8)
+- [We Spent Days Fighting a Zebra Card Printer. So You Don&#39;t Have To.](https://dev.to/alex_purpleowl/we-spent-days-fighting-a-zebra-card-printer-so-you-dont-have-to-3hg)
+- [Let&#39;s Work together as front-end developer](https://dev.to/shah_ce535b7ff81cbb5/lets-work-together-as-front-end-developer-1mol)
+- [Vibe Coding Needs Telemetry](https://dev.to/aabdullahbos/vibe-coding-needs-telemetry-29mi)
+- [Supercharge Your Web Apps: AI in the Background with Service Workers](https://dev.to/programmingcentral/supercharge-your-web-apps-ai-in-the-background-with-service-workers-502k)
+- [GitHub Copilot vs Tabnine: The Complete Comparison &lpar;2026&rpar;](https://dev.to/rahulxsingh/github-copilot-vs-tabnine-the-complete-comparison-2026-49d8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
