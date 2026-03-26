@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My 11-Agent AI Swarm Was Secretly Hallucinating. My Own Monitoring Tool Caught It.](https://dev.to/fliptrigga13/my-11-agent-ai-swarm-was-secretly-hallucinating-my-own-monitoring-tool-caught-it-4hj4)
-- [How I Stopped Re-Explaining Everything to Claude Code Every Single Session](https://dev.to/qcautomation/how-i-stopped-re-explaining-everything-to-claude-code-every-single-session-3299)
-- [Docker in the Wild: Use Cases &amp; The Survival Commands](https://dev.to/mitrakumar/docker-in-the-wild-use-cases-the-survival-commands-4h8n)
-- [We built an tool for DevOps that wasn&#39;t useful. Here’s what we are building instead.](https://dev.to/jose_soares/we-built-an-tool-for-devops-that-wasnt-useful-heres-what-we-are-building-instead-20gi)
-- [A Condensed Look Inside the Credit Scoring Industry](https://dev.to/marysofteng/a-condensed-look-inside-the-credit-scoring-industry-20d6)
+- [Canonical tag mistakes in WordPress sites before launch](https://dev.to/elliemiguel/canonical-tag-mistakes-in-wordpress-sites-before-launch-4ifa)
+- [When the pain is real. So is the urge to leave.](https://dev.to/canro91/when-the-pain-is-real-so-is-the-urge-to-leave-593j)
+- [Redis INCR: O comando atômico que você deveria conhecer](https://dev.to/unhacked/redis-incr-o-comando-atomico-que-voce-deveria-conhecer-194b)
+- [The Architectural Problem With Compliance-as-a-Service](https://dev.to/cyberbase/the-architectural-problem-with-compliance-as-a-service-5ekb)
+- [Fabulous Shadcn Footers for React Projects](https://dev.to/isanjayjoshi/fabulous-shadcn-footers-for-react-projects-3j66)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
