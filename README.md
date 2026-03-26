@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw Just Passed React. Here&#39;s What the GitHub Star Leaderboard Actually Looks Like](https://dev.to/andreagriffiths11/openclaw-just-passed-react-heres-what-the-github-star-leaderboard-actually-looks-like-1118)
-- [I Built a Production Pay-Per-Lead Marketplace with Next.js 16 + Supabase + Stripe](https://dev.to/mkcvte/i-built-a-production-pay-per-lead-marketplace-with-nextjs-16-supabase-stripe-596j)
-- [How to Scrape TikTok: Videos, Profiles, and Trending Content](https://dev.to/agenthustler/how-to-scrape-tiktok-videos-profiles-and-trending-content-4l7k)
-- [Building a Patent Data Scraper: USPTO, EPO, and Google Patents](https://dev.to/agenthustler/building-a-patent-data-scraper-uspto-epo-and-google-patents-3ob1)
-- [How to Scrape Glassdoor Without Getting Blocked](https://dev.to/agenthustler/how-to-scrape-glassdoor-without-getting-blocked-1bgg)
+- [Rust MCP Server Setup Guide for Vibe CLI](https://dev.to/opensite/rust-mcp-server-setup-guide-for-vibe-cli-5nk)
+- [Why Godot&#39;s architecture makes it the best engine for AI-assisted development](https://dev.to/ziva/why-godots-architecture-makes-it-the-best-engine-for-ai-assisted-development-5e8f)
+- [I built a health check for inherited codebases — and vibe-coded apps that now became important](https://dev.to/lukepercy/i-built-a-health-check-for-inherited-codebases-and-vibe-coded-apps-that-now-became-important-cko)
+- [How to Setup Snyk in 2026 - Complete Step-by-Step Guide](https://dev.to/rahulxsingh/how-to-setup-snyk-in-2026-complete-step-by-step-guide-184b)
+- [45 MCP Tools: Everything Your Claude Agent Can Do with a Wallet](https://dev.to/walletguy/45-mcp-tools-everything-your-claude-agent-can-do-with-a-wallet-cdf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
