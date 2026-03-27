@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Replaced Cloud AI APIs With a $600 Mac Mini — Here&#39;s What Actually Works](https://dev.to/maxxmini/i-replaced-cloud-ai-apis-with-a-600-mac-mini-heres-what-actually-works-4iae)
-- [How to Build a Multi-Step HS Classification Workflow with 3 APIs](https://dev.to/choong-devsan/how-to-build-a-multi-step-hs-classification-workflow-with-3-apis-4hpb)
-- [I Built a Tool That Turns Any API Into Something Your MCP Client Can Use](https://dev.to/veysi/i-built-a-tool-that-turns-any-api-into-something-your-mcp-client-can-use-45np)
-- [Cross Cloud ADK with Amazon Fargate, and Gemini CLI](https://dev.to/aws-builders/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-834)
-- [How to Actually Migrate from GitHub to Codeberg Without Losing Your Mind](https://dev.to/alanwest/how-to-actually-migrate-from-github-to-codeberg-without-losing-your-mind-33bf)
+- [High p99 Latency in Go Service: Identifying and Resolving Bottlenecks to Prevent System Overload](https://dev.to/viklogix/high-p99-latency-in-go-service-identifying-and-resolving-bottlenecks-to-prevent-system-overload-489f)
+- [Ghost Maintainer — An AI Junior Partner for Open Source](https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0)
+- [Full-Link Accountability for AI Agents](https://dev.to/hjs-foundation/full-link-accountability-for-ai-agents-41h6)
+- [Building a Hate Speech Dataset with Responsible Web Scraping](https://dev.to/agenthustler/building-a-hate-speech-dataset-with-responsible-web-scraping-1554)
+- [&quot;Per-Process Controls&quot; &lpar;Quantized Executions&rpar;](https://dev.to/tavari/per-process-controls-quantized-executions-3l3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
