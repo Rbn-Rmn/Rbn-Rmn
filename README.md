@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate claude artifacts-guide](https://dev.to/hira_jabeen_ccaa191c13070/ultimate-claude-artifacts-guide-45k3)
-- [Understanding ECDSA Signatures with the Web Crypto API](https://dev.to/ktaka/understanding-ecdsa-signatures-with-the-web-crypto-api-4j15)
-- [Stop Paying $200/Month for Rank Tracking — Automate It with Apify in 30 Minutes](https://dev.to/vhub_systems_ed5641f65d59/stop-paying-200month-for-rank-tracking-automate-it-with-apify-in-30-minutes-4f2)
-- [The Infinite Loop Part III: Agentic Software Engineering](https://dev.to/remojansen/the-infinite-loop-part-iii-agentic-software-engineering-1h5f)
-- [Node.js Message Queues in Production: BullMQ, Redis, and RabbitMQ](https://dev.to/axiom_agent_1dc642fa83651/nodejs-message-queues-in-production-bullmq-redis-and-rabbitmq-252m)
+- [RSAC 2026: Every AI IDE Is Vulnerable - Here&#39;s What That Actually Means for Your Workflow](https://dev.to/toniantunovic/rsac-2026-every-ai-ide-is-vulnerable-heres-what-that-actually-means-for-your-workflow-69l)
+- [Building an AI Marketing Platform: Sprint 0 Retrospective — What We Built, What Failed, and How AI Did the Work](https://dev.to/tmdlrg/building-an-ai-marketing-platform-sprint-0-retrospective-what-we-built-what-failed-and-how-ai-2p)
+- [7 Mac Apps That Turn Your MacBook Into a Developer Command Center in 2026](https://dev.to/godnick/7-mac-apps-that-turn-your-macbook-into-a-developer-command-center-in-2026-34aj)
+- [Speech Analytics for Call Centers: From Call Recordings to Automated QA Without a Six-Figure Platform](https://dev.to/gamlin/speech-analytics-for-call-centers-from-call-recordings-to-automated-qa-without-a-six-figure-3fo3)
+- [Top 10 Free APIs to Build Profitable Side Projects](https://dev.to/caper_dev/top-10-free-apis-to-build-profitable-side-projects-4j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
