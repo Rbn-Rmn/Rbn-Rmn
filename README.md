@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Rust MCP Server Setup Guide for Vibe CLI](https://dev.to/opensite/rust-mcp-server-setup-guide-for-vibe-cli-5nk)
-- [Why Godot&#39;s architecture makes it the best engine for AI-assisted development](https://dev.to/ziva/why-godots-architecture-makes-it-the-best-engine-for-ai-assisted-development-5e8f)
-- [I built a health check for inherited codebases — and vibe-coded apps that now became important](https://dev.to/lukepercy/i-built-a-health-check-for-inherited-codebases-and-vibe-coded-apps-that-now-became-important-cko)
-- [How to Setup Snyk in 2026 - Complete Step-by-Step Guide](https://dev.to/rahulxsingh/how-to-setup-snyk-in-2026-complete-step-by-step-guide-184b)
-- [45 MCP Tools: Everything Your Claude Agent Can Do with a Wallet](https://dev.to/walletguy/45-mcp-tools-everything-your-claude-agent-can-do-with-a-wallet-cdf)
+- [I Replaced Cloud AI APIs With a $600 Mac Mini — Here&#39;s What Actually Works](https://dev.to/maxxmini/i-replaced-cloud-ai-apis-with-a-600-mac-mini-heres-what-actually-works-4iae)
+- [How to Build a Multi-Step HS Classification Workflow with 3 APIs](https://dev.to/choong-devsan/how-to-build-a-multi-step-hs-classification-workflow-with-3-apis-4hpb)
+- [I Built a Tool That Turns Any API Into Something Your MCP Client Can Use](https://dev.to/veysi/i-built-a-tool-that-turns-any-api-into-something-your-mcp-client-can-use-45np)
+- [Cross Cloud ADK with Amazon Fargate, and Gemini CLI](https://dev.to/aws-builders/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-834)
+- [How to Actually Migrate from GitHub to Codeberg Without Losing Your Mind](https://dev.to/alanwest/how-to-actually-migrate-from-github-to-codeberg-without-losing-your-mind-33bf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
