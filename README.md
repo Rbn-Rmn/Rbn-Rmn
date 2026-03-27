@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My GSoC 2026 Journey: Spectra.jl across the Electromagnetic Spectrum](https://dev.to/mahmoud_mohamed_8561cb6b0/my-gsoc-2026-journey-spectrajl-across-the-electromagnetic-spectrum-2h40)
-- [The Webhook Failure Modes Nobody Warns You About](https://dev.to/jamesbrown/the-webhook-failure-modes-nobody-warns-you-about-346m)
-- [How a Branded Cents Type Eliminated an Entire Class of Bugs Across 97 Files](https://dev.to/emmanueln07/how-a-branded-cents-type-eliminated-an-entire-class-of-bugs-across-97-files-2o6o)
-- [Security news weekly round-up - 27th March 2026](https://dev.to/ziizium/security-news-weekly-round-up-27th-march-2026-3ik8)
-- [When /pair approve Bypasses the Scope Guard](https://dev.to/oolongtea2026/when-pair-approve-bypasses-the-scope-guard-3kl8)
+- [Ultimate claude artifacts-guide](https://dev.to/hira_jabeen_ccaa191c13070/ultimate-claude-artifacts-guide-45k3)
+- [Understanding ECDSA Signatures with the Web Crypto API](https://dev.to/ktaka/understanding-ecdsa-signatures-with-the-web-crypto-api-4j15)
+- [Stop Paying $200/Month for Rank Tracking — Automate It with Apify in 30 Minutes](https://dev.to/vhub_systems_ed5641f65d59/stop-paying-200month-for-rank-tracking-automate-it-with-apify-in-30-minutes-4f2)
+- [The Infinite Loop Part III: Agentic Software Engineering](https://dev.to/remojansen/the-infinite-loop-part-iii-agentic-software-engineering-1h5f)
+- [Node.js Message Queues in Production: BullMQ, Redis, and RabbitMQ](https://dev.to/axiom_agent_1dc642fa83651/nodejs-message-queues-in-production-bullmq-redis-and-rabbitmq-252m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
