@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Tried Building a Netflix-Style System on AWS — Here’s What Actually Matters](https://dev.to/zeed_xo/i-tried-building-a-netflix-style-system-on-aws-heres-what-actually-matters-jf0)
-- [I Built an n8n Workflow That Auto-Triages Every GitHub Issue with AI](https://dev.to/automatewithai/i-built-an-n8n-workflow-that-auto-triages-every-github-issue-with-ai-49bh)
-- [ClickHouse Has a Free Column-Oriented Database — Query Billions of Rows in Milliseconds](https://dev.to/0012303/clickhouse-has-a-free-column-oriented-database-query-billions-of-rows-in-milliseconds-61e)
-- [Elevate Your Web UI: High-Performance CSS 3D Transforms &lpar;No WebGL Required&rpar;](https://dev.to/csslive/elevate-your-web-ui-high-performance-css-3d-transforms-no-webgl-required-4e93)
-- [I built a whiteboard, accidentally](https://dev.to/mit_demir_d07c130b3366d3/i-built-a-whiteboard-accidentally-32lo)
+- [The Libravatar Problem Nobody Warned Me About &lpar;And How I Finally Fixed It&rpar;](https://dev.to/ibrahim-jam/the-libravatar-problem-nobody-warned-me-about-and-how-i-finally-fixed-it-3k3g)
+- [I security-audited my own AI gateway and added WASM plugin support. Here&#39;s what I found.](https://dev.to/saivedant169/i-security-audited-my-own-ai-gateway-and-added-wasm-plugin-support-heres-what-i-found-3b7o)
+- [Uttar Pradesh: India&#39;s Next Big Business Hub for Startups](https://dev.to/sarthak_6412b30f77f207c93/uttar-pradesh-indias-next-big-business-hub-for-startups-5f86)
+- [The Great Talent Paradox of 2026: Why AI Is Making Developer Shortages Worse, Not Better](https://dev.to/tanishka_karsulkar_ec9e58/the-great-talent-paradox-of-2026-why-ai-is-making-developer-shortages-worse-not-better-jho)
+- [Flipping the Question: From &#39;Is It Too Wet?&#39; to &#39;Is It Too Dry?&#39;](https://dev.to/stalefishlabs/flipping-the-question-from-is-it-too-wet-to-is-it-too-dry-471d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
