@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI tool for incident investigation &lpar;looking for honest feedback&rpar;](https://dev.to/giga_kovaliovi_1853ce432b/i-built-an-ai-tool-for-incident-investigation-looking-for-honest-feedback-2gbh)
-- [Ansible Certification vs DevOps Certifications: Key Differences and Career Guide](https://dev.to/thinkcloudly/ansible-certification-vs-devops-certifications-key-differences-and-career-guide-no2)
-- [Scaling DevOps Culture: From Improvised Scripts to Platform Engineering](https://dev.to/kodus/scaling-devops-culture-from-improvised-scripts-to-platform-engineering-1kd3)
-- [The Engineering Manager as Coach, Not Boss](https://dev.to/juststevemcd/the-engineering-manager-as-coach-not-boss-1p90)
-- [Game is done...kinda&quot;](https://dev.to/depoco/game-is-donekinda-329g)
+- [LLM Agents Should Never Execute Raw Commands](https://dev.to/dbalabs/llm-agents-should-never-execute-raw-commands-4o63)
+- [PyPI Compromised: Malicious Code in `telnyx` Packages Leads to Credential Theft and Malware Installation](https://dev.to/kornilovconstru/pypi-compromised-malicious-code-in-telnyx-packages-leads-to-credential-theft-and-malware-dpj)
+- [I built a lightweight AI mentions checker because “AI visibility” advice felt too vague](https://dev.to/mikee_tye_8bdde849556e51f/i-built-a-lightweight-ai-mentions-checker-because-ai-visibility-advice-felt-too-vague-4bdh)
+- [SonarQube vs Code Climate: Self-Hosted Depth vs Cloud Simplicity &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-code-climate-self-hosted-depth-vs-cloud-simplicity-2026-2hf1)
+- [This Week In React #274 ⚛️ Next.js, React Router, Storybook, HeroUI| 📱 Reanimated, Worklets, Nitro Fetch, Navigation | 🔀 TypeScript, Signals](https://dev.to/sebastienlorber/this-week-in-react-274-nextjs-react-router-storybook-heroui-reanimated-worklets-nitro-1l37)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
