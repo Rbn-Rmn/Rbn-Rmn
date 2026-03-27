@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How We Built AI Product Photography with Gemini + Next.js](https://dev.to/teafeh/how-we-built-ai-product-photography-with-gemini-nextjs-nm4)
-- [Your AI agent re-sends 80% of your budget every loop](https://dev.to/vola-trebla/your-ai-agent-re-sends-80-of-your-budget-every-loop-27an)
-- [Why Developers Don&#39;t Trust Code Built by AI Agents](https://dev.to/ucjung/why-developers-dont-trust-code-built-by-ai-agents-146a)
-- [History of Java,Architecture of Java and Java Server Provider Companies](https://dev.to/keerthigap/history-of-javaarchitecture-of-java-and-java-server-provider-companies-1a1f)
-- [Firecrawl vs Olostep: A Detailed Comparison for Scalable, LLM-Ready Web Scraping](https://dev.to/yasser_sami/firecrawl-vs-olostep-a-detailed-comparison-for-scalable-llm-ready-web-scraping-1eb6)
+- [Week 2 - Learning K8s](https://dev.to/nicbaughman/week-2-learning-k8s-db2)
+- [7 Mac Apps Every Startup CTO Should Have in 2026](https://dev.to/godnick/7-mac-apps-every-startup-cto-should-have-in-2026-2k2b)
+- [AI Agent Memory: How Agents Remember, Learn &amp;amp; Persist Context &lpar;2026 Guide&rpar;](https://dev.to/paxrel/ai-agent-memory-how-agents-remember-learn-amp-persist-context-2026-guide-48dn)
+- [How I Built a Self-Updater With GitHub Releases](https://dev.to/cn8001/how-i-built-a-self-updater-with-github-releases-2j15)
+- [The API Surface Is the New Product. Revolut Just Proved It](https://dev.to/o96a/the-api-surface-is-the-new-product-revolut-just-proved-it-2oi6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
