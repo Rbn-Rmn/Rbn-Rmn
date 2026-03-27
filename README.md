@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Libravatar Problem Nobody Warned Me About &lpar;And How I Finally Fixed It&rpar;](https://dev.to/ibrahim-jam/the-libravatar-problem-nobody-warned-me-about-and-how-i-finally-fixed-it-3k3g)
-- [I security-audited my own AI gateway and added WASM plugin support. Here&#39;s what I found.](https://dev.to/saivedant169/i-security-audited-my-own-ai-gateway-and-added-wasm-plugin-support-heres-what-i-found-3b7o)
-- [Uttar Pradesh: India&#39;s Next Big Business Hub for Startups](https://dev.to/sarthak_6412b30f77f207c93/uttar-pradesh-indias-next-big-business-hub-for-startups-5f86)
-- [The Great Talent Paradox of 2026: Why AI Is Making Developer Shortages Worse, Not Better](https://dev.to/tanishka_karsulkar_ec9e58/the-great-talent-paradox-of-2026-why-ai-is-making-developer-shortages-worse-not-better-jho)
-- [Flipping the Question: From &#39;Is It Too Wet?&#39; to &#39;Is It Too Dry?&#39;](https://dev.to/stalefishlabs/flipping-the-question-from-is-it-too-wet-to-is-it-too-dry-471d)
+- [🚀 How We Built AI Product Photography with Gemini + Next.js](https://dev.to/teafeh/how-we-built-ai-product-photography-with-gemini-nextjs-nm4)
+- [Your AI agent re-sends 80% of your budget every loop](https://dev.to/vola-trebla/your-ai-agent-re-sends-80-of-your-budget-every-loop-27an)
+- [Why Developers Don&#39;t Trust Code Built by AI Agents](https://dev.to/ucjung/why-developers-dont-trust-code-built-by-ai-agents-146a)
+- [History of Java,Architecture of Java and Java Server Provider Companies](https://dev.to/keerthigap/history-of-javaarchitecture-of-java-and-java-server-provider-companies-1a1f)
+- [Firecrawl vs Olostep: A Detailed Comparison for Scalable, LLM-Ready Web Scraping](https://dev.to/yasser_sami/firecrawl-vs-olostep-a-detailed-comparison-for-scalable-llm-ready-web-scraping-1eb6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
