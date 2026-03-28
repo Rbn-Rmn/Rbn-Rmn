@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Java Exception Handling](https://dev.to/arun_kumar_98/introduction-to-java-exception-handling-1emm)
-- [Technical Debt: When to Fix, When to Ship](https://dev.to/juststevemcd/technical-debt-when-to-fix-when-to-ship-20pn)
-- [CVE-2026-33044: CVE-2026-33044: Stored Cross-Site Scripting in Home Assistant Map-Card](https://dev.to/cverports/cve-2026-33044-cve-2026-33044-stored-cross-site-scripting-in-home-assistant-map-card-1df8)
-- [Scalable Design of Agent](https://dev.to/ma_uttaram_f822b3b02ec546/scalable-design-of-agent-1m2b)
-- [I scanned Google.com for quantum vulnerabilities — they&#39;re already deploying post-quantum crypto &lpar;but it&#39;s not enough&rpar;](https://dev.to/pvishwakar77301/i-scanned-googlecom-for-quantum-vulnerabilities-theyre-already-deploying-post-quantum-crypto-1lo1)
+- [Créer un blog gratuit avec GitHub Pages en 2026 : guide complet](https://dev.to/lucasmdevdev/creer-un-blog-gratuit-avec-github-pages-en-2026-guide-complet-439m)
+- [Why I Built Migrun](https://dev.to/dakujem/why-i-built-migrun-2moa)
+- [Beautiful Perl feature: &quot;heredocs&quot;, multi-line strings embedded in source code](https://dev.to/damil/beautiful-perl-feature-heredocs-multi-line-strings-embedded-in-source-code-863)
+- [Vertical Slice: Speech-to-Markdown Editor, LLVM UI Codegen, and Landscape Split - in Our Own Language](https://dev.to/artanidos/vertical-slice-speech-to-markdown-editor-llvm-ui-codegen-and-landscape-split-in-our-own-5h08)
+- [Every MCP Browser Tool Uses Chromium. That&#39;s a Problem.](https://dev.to/achiya-automation/every-mcp-browser-tool-uses-chromium-thats-a-problem-4kpp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
