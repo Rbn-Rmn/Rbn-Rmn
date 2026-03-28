@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [UK Skilled Worker Visa Salary Thresholds 2026: Technical Reference for HR Systems and Compliance Tools](https://dev.to/work_sponsors_bc88d1c30e6/uk-skilled-worker-visa-salary-thresholds-2026-technical-reference-for-hr-systems-and-compliance-3fl8)
-- [EditThisCookie Got Removed — So I Built a Modern Cookie Editor for Chrome](https://dev.to/_350df62777eb55e1/editthiscookie-got-removed-so-i-built-a-modern-cookie-editor-for-chrome-1kjj)
-- [Why Browser Agents Waste 99% of Their Tokens &lpar;And How to Fix It&rpar;](https://dev.to/arcede/why-browser-agents-waste-99-of-their-tokens-and-how-to-fix-it-jnp)
-- [Resource Monitoring for Data Pipelines](https://dev.to/grace_wambua/resource-monitoring-for-data-pipelines-388o)
-- [7 Mac Apps for Night Owl Developers Who Code After Dark in 2026](https://dev.to/godnick/7-mac-apps-for-night-owl-developers-who-code-after-dark-in-2026-1259)
+- [The Silicon Brain: Why Neuromorphic Computing is the Future of AI](https://dev.to/samruddhi_nikam_159/the-silicon-brain-why-neuromorphic-computing-is-the-future-of-ai-251n)
+- [My Apify Bill Was 5 Higher Than Expected: How to Fix Your Scraping Cost Setup in an Afternoon](https://dev.to/vhub_systems_ed5641f65d59/my-apify-bill-was-5x-higher-than-expected-how-to-fix-your-scraping-cost-setup-in-an-afternoon-407g)
+- [I tapped into a public WebSocket feed and found a consistent pricing gap on Polymarket hiding in plain sight.](https://dev.to/jonathanpetersonn/i-tapped-into-a-public-websocket-feed-and-found-a-consistent-pricing-gap-on-polymarket-hiding-in-5h0k)
+- [5 Best Token Swap APIs for Python Developers](https://dev.to/moonsoon69/5-best-token-swap-apis-for-python-developers-4a70)
+- [🧬 Not All Heart Disease Is the Same - So I Built an AI to Prove It](https://dev.to/deblina111/not-all-heart-disease-is-the-same-so-i-built-an-ai-to-prove-it-22ic)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
