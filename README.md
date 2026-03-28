@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [RSAC 2026: Every AI IDE Is Vulnerable - Here&#39;s What That Actually Means for Your Workflow](https://dev.to/toniantunovic/rsac-2026-every-ai-ide-is-vulnerable-heres-what-that-actually-means-for-your-workflow-69l)
-- [Building an AI Marketing Platform: Sprint 0 Retrospective — What We Built, What Failed, and How AI Did the Work](https://dev.to/tmdlrg/building-an-ai-marketing-platform-sprint-0-retrospective-what-we-built-what-failed-and-how-ai-2p)
-- [7 Mac Apps That Turn Your MacBook Into a Developer Command Center in 2026](https://dev.to/godnick/7-mac-apps-that-turn-your-macbook-into-a-developer-command-center-in-2026-34aj)
-- [Speech Analytics for Call Centers: From Call Recordings to Automated QA Without a Six-Figure Platform](https://dev.to/gamlin/speech-analytics-for-call-centers-from-call-recordings-to-automated-qa-without-a-six-figure-3fo3)
-- [Top 10 Free APIs to Build Profitable Side Projects](https://dev.to/caper_dev/top-10-free-apis-to-build-profitable-side-projects-4j)
+- [I Built a 592-Entry Herb-Drug Interaction Database — Here&#39;s What the Data Reveals](https://dev.to/botanica_andina/i-built-a-592-entry-herb-drug-interaction-database-heres-what-the-data-reveals-1955)
+- [github/github-mcp-server](https://dev.to/gwohong_lee_c745dae53e797/githubgithub-mcp-server-4kop)
+- [Every PDF Tool You Need, Running 100% in Your Browser](https://dev.to/tatelyman/every-pdf-tool-you-need-running-100-in-your-browser-f6f)
+- [I Made a Free Photo Editor, Meme Generator, and Background Remover — All Client-Side](https://dev.to/tatelyman/i-made-a-free-photo-editor-meme-generator-and-background-remover-all-client-side-4opb)
+- [The Privacy Problem with Online PDF Tools &lpar;and How I Fixed It&rpar;](https://dev.to/tatelyman/the-privacy-problem-with-online-pdf-tools-and-how-i-fixed-it-4g7k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
