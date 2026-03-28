@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [MCP in production: what nobody tells you before you start](https://dev.to/mads_hansen_27b33ebfee4c9/mcp-in-production-what-nobody-tells-you-before-you-start-21m)
-- [Chapter 2. Creating and Configuring a Project](https://dev.to/ucjung/chapter-2-creating-and-configuring-a-project-29cp)
-- [The hidden cost of &quot;let me pull that data for you&quot;](https://dev.to/mads_hansen_27b33ebfee4c9/the-hidden-cost-of-let-me-pull-that-data-for-you-27hl)
-- [Chapter 1. Claude Code CLI Installation Guide](https://dev.to/ucjung/chapter-1-claude-code-cli-installation-guide-4mmg)
-- [Fix Zombie VRAM: Clear GPU Memory Without Rebooting](https://dev.to/jaksontate/fix-zombie-vram-clear-gpu-memory-without-rebooting-3b1f)
+- [The Six-Month Onboarding Lie: Why Most Teams Never Really Let New Developers Join the Real Work](https://dev.to/omieee_24/the-six-month-onboarding-lie-why-most-teams-never-really-let-new-developers-join-the-real-work-4pcg)
+- [Show DEV: MisarMail — Self-Hosted Email Infrastructure &lpar;Transactional, Marketing, Bulk&rpar;](https://dev.to/gulshan_yadav_048691962cb/show-dev-misarmail-self-hosted-email-infrastructure-transactional-marketing-bulk-4oca)
+- [I Built an AI-Powered Budget Tracker Using Notion MCP and Claude](https://dev.to/hamda_naz_df4ec576d4399b8/i-built-an-ai-powered-budget-tracker-using-notion-mcp-and-claude-57pl)
+- [How I Built My Cloud Resume on Azure with Terraform &amp; GitHub Actions](https://dev.to/dinku143/how-i-built-my-cloud-resume-on-azure-with-terraform-github-actions-54no)
+- [Temporal Has a Free API: The Durable Workflow Engine That Makes Your Distributed Systems Reliable Without Saga Patterns](https://dev.to/0012303/temporal-has-a-free-api-the-durable-workflow-engine-that-makes-your-distributed-systems-reliable-3m53)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
