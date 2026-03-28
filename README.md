@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [EU Deepfake Nudifier Ban Exposes a Verification Crisis for Investigators](https://dev.to/caracomp/eu-deepfake-nudifier-ban-exposes-a-verification-crisis-for-investigators-55in)
-- [Scanning Your AI Agents for EU AI Act + GDPR Compliance in 10 Seconds](https://dev.to/json_shotwell/scanning-your-ai-agents-for-eu-ai-act-gdpr-compliance-in-10-seconds-5hd6)
-- [I have created a workflow.md file to use with Antigravity as below, can anyone help me, I&#39;m new to this field](https://dev.to/cuong_nguyen_2b127241b985/i-have-created-a-workflowmd-file-to-use-with-antigravity-as-below-can-anyone-help-me-im-new-to-3p6i)
-- [Android Is Losing Its Freedom: Google&#39;s 2026 Developer Verification Explained](https://dev.to/dev-arafat-alim/android-is-losing-its-freedom-googles-2026-developer-verification-explained-2b5p)
-- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9)
+- [Meta Cut 700 Jobs to Bet Everything on AI. Is That Smart?](https://dev.to/alanwest/meta-cut-700-jobs-to-bet-everything-on-ai-is-that-smart-5c2e)
+- [Salesforce Permission Sets: The Complete Guide for 2026](https://dev.to/dipojjal/salesforce-permission-sets-the-complete-guide-for-2026-49pe)
+- [TurboQuant: What Developers Need to Know About Google&#39;s KV Cache Compression](https://dev.to/arshtechpro/turboquant-what-developers-need-to-know-about-googles-kv-cache-compression-eeg)
+- [how DNS resolver is happening - CA27](https://dev.to/mohith_001/how-a-request-originates-from-cllient-and-reaches-the-server-ca26-4g1m)
+- [Write Maintainable Code, Not Perfect Code](https://dev.to/chris_lee_5e58cce05f5d01d/write-maintainable-code-not-perfect-code-37mh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
