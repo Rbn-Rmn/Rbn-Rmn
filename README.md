@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [SolarPunk: Earth&#39;s Digital Immune System Gets a Notion Nerve Center](https://dev.to/meekotharaccoon/solarpunk-earths-digital-immune-system-gets-a-notion-nerve-center-ha6)
-- [When Execution Is Cheap, Ambiguity Is Expensive](https://dev.to/sargentjamesa/when-execution-is-cheap-ambiguity-is-expensive-22i)
-- [“WhatToBuy” Describe your situation, get AI-curated shopping carts](https://dev.to/joe_thomas_ed9f6c4a520338/whattobuy-describe-your-situation-get-ai-curated-shopping-carts-all)
-- [Sprint 3 Retrospective: Production Validation &amp; Pipeline Hardening](https://dev.to/tmdlrg/sprint-3-retrospective-production-validation-pipeline-hardening-ehn)
-- [I built a free browser-based hardware testing toolkit — here&#39;s why](https://dev.to/narrayana_swamy_4e529d1a1/i-built-a-free-browser-based-hardware-testing-toolkit-heres-why-7ip)
+- [EU Deepfake Nudifier Ban Exposes a Verification Crisis for Investigators](https://dev.to/caracomp/eu-deepfake-nudifier-ban-exposes-a-verification-crisis-for-investigators-55in)
+- [Scanning Your AI Agents for EU AI Act + GDPR Compliance in 10 Seconds](https://dev.to/json_shotwell/scanning-your-ai-agents-for-eu-ai-act-gdpr-compliance-in-10-seconds-5hd6)
+- [I have created a workflow.md file to use with Antigravity as below, can anyone help me, I&#39;m new to this field](https://dev.to/cuong_nguyen_2b127241b985/i-have-created-a-workflowmd-file-to-use-with-antigravity-as-below-can-anyone-help-me-im-new-to-3p6i)
+- [Android Is Losing Its Freedom: Google&#39;s 2026 Developer Verification Explained](https://dev.to/dev-arafat-alim/android-is-losing-its-freedom-googles-2026-developer-verification-explained-2b5p)
+- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon Fargate, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-fargate-and-gemini-cli-16k9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
