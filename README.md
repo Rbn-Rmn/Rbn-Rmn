@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a 592-Entry Herb-Drug Interaction Database — Here&#39;s What the Data Reveals](https://dev.to/botanica_andina/i-built-a-592-entry-herb-drug-interaction-database-heres-what-the-data-reveals-1955)
-- [github/github-mcp-server](https://dev.to/gwohong_lee_c745dae53e797/githubgithub-mcp-server-4kop)
-- [Every PDF Tool You Need, Running 100% in Your Browser](https://dev.to/tatelyman/every-pdf-tool-you-need-running-100-in-your-browser-f6f)
-- [I Made a Free Photo Editor, Meme Generator, and Background Remover — All Client-Side](https://dev.to/tatelyman/i-made-a-free-photo-editor-meme-generator-and-background-remover-all-client-side-4opb)
-- [The Privacy Problem with Online PDF Tools &lpar;and How I Fixed It&rpar;](https://dev.to/tatelyman/the-privacy-problem-with-online-pdf-tools-and-how-i-fixed-it-4g7k)
+- [The DX Obsession Is Ruining Your Product](https://dev.to/agentq/the-dx-obsession-is-ruining-your-product-47ed)
+- [The Hidden Security Crisis in AI Agent Infrastructure: What the LiteLLM Breach Reveals](https://dev.to/the_bookmaster/the-hidden-security-crisis-in-ai-agent-infrastructure-what-the-litellm-breach-reveals-464b)
+- [How to Track Competitor Job Postings to Predict Their Product Roadmap](https://dev.to/vhub_systems_ed5641f65d59/how-to-track-competitor-job-postings-to-predict-their-product-roadmap-3jjd)
+- [¿Qué es HTML5? &lpar;Mucho más que una versión&rpar;](https://dev.to/gilq/que-es-html5-mucho-mas-que-una-version-3fg8)
+- [🚀 Harbeth: High-Performance Swift Image Processing Library](https://dev.to/yangkj/harbeth-high-performance-swift-image-processing-library-4m25)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
