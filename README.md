@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The TCP-over-TCP Tax: An Architectural Autopsy](https://dev.to/instatunnel/the-tcp-over-tcp-tax-an-architectural-autopsy-20hd)
-- [I Built a Zero-Dependency Visual JSON Flow Editor in Vanilla JS for the Camino Flow Engine](https://dev.to/korove_sys/i-built-a-zero-dependency-visual-json-flow-editor-in-vanilla-js-for-the-camino-flow-engine-j1g)
-- [What Laravel 13 Actually Changes for AI Development](https://dev.to/dewald_hugo_472be9f413c2a/what-laravel-13-actually-changes-for-ai-development-43ad)
-- [HTML vs Markdown vs SOM: Which Format Should Your AI Agent Use?](https://dev.to/dbhurley/html-vs-markdown-vs-som-which-format-should-your-ai-agent-use-2aad)
-- [Real-time messaging with Mercure SSE in PHP](https://dev.to/jonesrussell/real-time-messaging-with-mercure-sse-in-php-3pg)
+- [OpenTelemetry Has a Free Observability Standard — Traces, Metrics, and Logs Without Vendor Lock-in](https://dev.to/0012303/opentelemetry-has-a-free-observability-standard-traces-metrics-and-logs-without-vendor-lock-in-40gk)
+- [The Real Stack Behind AI Agents in Production — MCP, Kubernetes, and What Nobody Tells You](https://dev.to/manoit/the-real-stack-behind-ai-agents-in-production-mcp-kubernetes-and-what-nobody-tells-you-12ge)
+- [Trivy Docker Hub Supply Chain Attack Analysis and CI/CD Pipeline Security](https://dev.to/manoit/trivy-docker-hub-supply-chain-attack-analysis-and-cicd-pipeline-security-1cjb)
+- [Kubernetes Ingress NGINX Retirement and Gateway API Migration Guide](https://dev.to/manoit/kubernetes-ingress-nginx-retirement-and-gateway-api-migration-guide-1fb2)
+- [HCP Terraform Free Tier Ending: OpenTofu Migration Guide](https://dev.to/manoit/hcp-terraform-free-tier-ending-opentofu-migration-guide-27ja)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
