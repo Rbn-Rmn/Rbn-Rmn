@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Six-Month Onboarding Lie: Why Most Teams Never Really Let New Developers Join the Real Work](https://dev.to/omieee_24/the-six-month-onboarding-lie-why-most-teams-never-really-let-new-developers-join-the-real-work-4pcg)
-- [Show DEV: MisarMail — Self-Hosted Email Infrastructure &lpar;Transactional, Marketing, Bulk&rpar;](https://dev.to/gulshan_yadav_048691962cb/show-dev-misarmail-self-hosted-email-infrastructure-transactional-marketing-bulk-4oca)
-- [I Built an AI-Powered Budget Tracker Using Notion MCP and Claude](https://dev.to/hamda_naz_df4ec576d4399b8/i-built-an-ai-powered-budget-tracker-using-notion-mcp-and-claude-57pl)
-- [How I Built My Cloud Resume on Azure with Terraform &amp; GitHub Actions](https://dev.to/dinku143/how-i-built-my-cloud-resume-on-azure-with-terraform-github-actions-54no)
-- [Temporal Has a Free API: The Durable Workflow Engine That Makes Your Distributed Systems Reliable Without Saga Patterns](https://dev.to/0012303/temporal-has-a-free-api-the-durable-workflow-engine-that-makes-your-distributed-systems-reliable-3m53)
+- [The TCP-over-TCP Tax: An Architectural Autopsy](https://dev.to/instatunnel/the-tcp-over-tcp-tax-an-architectural-autopsy-20hd)
+- [I Built a Zero-Dependency Visual JSON Flow Editor in Vanilla JS for the Camino Flow Engine](https://dev.to/korove_sys/i-built-a-zero-dependency-visual-json-flow-editor-in-vanilla-js-for-the-camino-flow-engine-j1g)
+- [What Laravel 13 Actually Changes for AI Development](https://dev.to/dewald_hugo_472be9f413c2a/what-laravel-13-actually-changes-for-ai-development-43ad)
+- [HTML vs Markdown vs SOM: Which Format Should Your AI Agent Use?](https://dev.to/dbhurley/html-vs-markdown-vs-som-which-format-should-your-ai-agent-use-2aad)
+- [Real-time messaging with Mercure SSE in PHP](https://dev.to/jonesrussell/real-time-messaging-with-mercure-sse-in-php-3pg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
