@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [9 Hours Down Because of a Missing `import queue`: A Message Bus Postmortem](https://dev.to/linou518/9-hours-down-because-of-a-missing-import-queue-a-message-bus-postmortem-5f9j)
-- [The Amnesia Tax: Why Stateless Agents Are Eating Your Margins](https://dev.to/o96a/the-amnesia-tax-why-stateless-agents-are-eating-your-margins-1mn7)
-- [MVC in React: Why We Use It, Why It Breaks, and What Production Apps Do Instead](https://dev.to/munna_thakur_2019444f0351/mvc-in-react-why-we-use-it-why-it-breaks-and-what-production-apps-do-instead-3ch2)
-- [用 Wokwi 模擬器即時測試你的 Arduino 電路 - 零成本硬體開發新方法](https://dev.to/_0c004e5fde78250aee362/yong-wokwi-mo-ni-qi-ji-shi-ce-shi-ni-de-arduino-dian-lu-ling-cheng-ben-ying-ti-kai-fa-xin-fang-fa-i2)
-- [Beyond the Cloud: Why the &quot;Edge&quot; is the New Frontier for Engineering](https://dev.to/tanishka_karsulkar_ec9e58/beyond-the-cloud-why-the-edge-is-the-new-frontier-for-engineering-1hj1)
+- [UK Skilled Worker Visa Salary Thresholds 2026: Technical Reference for HR Systems and Compliance Tools](https://dev.to/work_sponsors_bc88d1c30e6/uk-skilled-worker-visa-salary-thresholds-2026-technical-reference-for-hr-systems-and-compliance-3fl8)
+- [EditThisCookie Got Removed — So I Built a Modern Cookie Editor for Chrome](https://dev.to/_350df62777eb55e1/editthiscookie-got-removed-so-i-built-a-modern-cookie-editor-for-chrome-1kjj)
+- [Why Browser Agents Waste 99% of Their Tokens &lpar;And How to Fix It&rpar;](https://dev.to/arcede/why-browser-agents-waste-99-of-their-tokens-and-how-to-fix-it-jnp)
+- [Resource Monitoring for Data Pipelines](https://dev.to/grace_wambua/resource-monitoring-for-data-pipelines-388o)
+- [7 Mac Apps for Night Owl Developers Who Code After Dark in 2026](https://dev.to/godnick/7-mac-apps-for-night-owl-developers-who-code-after-dark-in-2026-1259)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
