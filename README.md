@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Database Design Is Underrated — And It’s Why Many Developers Get Stuck](https://dev.to/aikrooz/database-design-is-underrated-and-its-why-many-developers-get-stuck-5h6b)
-- [🚀 Deep JavaScript Internals: How V8 Really Makes Your Code Fast](https://dev.to/pratik_12b3f8bf3b50e48bae/deep-javascript-internals-how-v8-really-makes-your-code-fast-128k)
-- [AI App Builder Platforms: A Comprehensive Benchmarking Study](https://dev.to/thowfeeksalim/ai-app-builder-platforms-a-comprehensive-benchmarking-study-10ei)
-- [I wrote a research paper on replacing Coursera with Web3. Here&#39;s what it&#39;s about.](https://dev.to/dpk376/i-wrote-a-research-paper-on-replacing-coursera-with-web3-heres-what-its-about-b81)
-- [BugVaulty — Auto-Track Every Error to Notion with AI Solutions 🐛](https://dev.to/nitinkumaryadav1307/bugvaulty-auto-track-every-error-to-notion-with-ai-solutions-am9)
+- [9 Hours Down Because of a Missing `import queue`: A Message Bus Postmortem](https://dev.to/linou518/9-hours-down-because-of-a-missing-import-queue-a-message-bus-postmortem-5f9j)
+- [The Amnesia Tax: Why Stateless Agents Are Eating Your Margins](https://dev.to/o96a/the-amnesia-tax-why-stateless-agents-are-eating-your-margins-1mn7)
+- [MVC in React: Why We Use It, Why It Breaks, and What Production Apps Do Instead](https://dev.to/munna_thakur_2019444f0351/mvc-in-react-why-we-use-it-why-it-breaks-and-what-production-apps-do-instead-3ch2)
+- [用 Wokwi 模擬器即時測試你的 Arduino 電路 - 零成本硬體開發新方法](https://dev.to/_0c004e5fde78250aee362/yong-wokwi-mo-ni-qi-ji-shi-ce-shi-ni-de-arduino-dian-lu-ling-cheng-ben-ying-ti-kai-fa-xin-fang-fa-i2)
+- [Beyond the Cloud: Why the &quot;Edge&quot; is the New Frontier for Engineering](https://dev.to/tanishka_karsulkar_ec9e58/beyond-the-cloud-why-the-edge-is-the-new-frontier-for-engineering-1hj1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
