@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [5 DevOps Errors That Cost Developers the Most Time &lpar;And How to Fix Each&rpar;](https://dev.to/yash_step2dev/5-devops-errors-that-cost-developers-the-most-time-and-how-to-fix-each-1fi4)
-- [Looking for contributors for an AI learning platform &lpar;open source&rpar;](https://dev.to/krish_verma_77e28d3fd63ca/looking-for-contributors-for-an-ai-learning-platform-open-source-c89)
-- [Silence the makefile recipes](https://dev.to/1roguebishop/silence-the-makefile-recipes-4igl)
-- [💥 I think dev jobs are about to change &lpar;this github repo is why&rpar;](https://dev.to/seeksky/i-think-dev-jobs-are-about-to-change-this-github-repo-is-why-5db4)
-- [I built a free alternative to iLoveIMG — no login, no ads, no paywalls](https://dev.to/harshilshah99/i-built-a-free-alternative-to-iloveimg-no-login-no-ads-no-paywalls-268d)
+- [SolarPunk: Earth&#39;s Digital Immune System Gets a Notion Nerve Center](https://dev.to/meekotharaccoon/solarpunk-earths-digital-immune-system-gets-a-notion-nerve-center-ha6)
+- [When Execution Is Cheap, Ambiguity Is Expensive](https://dev.to/sargentjamesa/when-execution-is-cheap-ambiguity-is-expensive-22i)
+- [“WhatToBuy” Describe your situation, get AI-curated shopping carts](https://dev.to/joe_thomas_ed9f6c4a520338/whattobuy-describe-your-situation-get-ai-curated-shopping-carts-all)
+- [Sprint 3 Retrospective: Production Validation &amp; Pipeline Hardening](https://dev.to/tmdlrg/sprint-3-retrospective-production-validation-pipeline-hardening-ehn)
+- [I built a free browser-based hardware testing toolkit — here&#39;s why](https://dev.to/narrayana_swamy_4e529d1a1/i-built-a-free-browser-based-hardware-testing-toolkit-heres-why-7ip)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
