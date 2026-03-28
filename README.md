@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Meta Cut 700 Jobs to Bet Everything on AI. Is That Smart?](https://dev.to/alanwest/meta-cut-700-jobs-to-bet-everything-on-ai-is-that-smart-5c2e)
-- [Salesforce Permission Sets: The Complete Guide for 2026](https://dev.to/dipojjal/salesforce-permission-sets-the-complete-guide-for-2026-49pe)
-- [TurboQuant: What Developers Need to Know About Google&#39;s KV Cache Compression](https://dev.to/arshtechpro/turboquant-what-developers-need-to-know-about-googles-kv-cache-compression-eeg)
-- [how DNS resolver is happening - CA27](https://dev.to/mohith_001/how-a-request-originates-from-cllient-and-reaches-the-server-ca26-4g1m)
-- [Write Maintainable Code, Not Perfect Code](https://dev.to/chris_lee_5e58cce05f5d01d/write-maintainable-code-not-perfect-code-37mh)
+- [Introduction to Java Exception Handling](https://dev.to/arun_kumar_98/introduction-to-java-exception-handling-1emm)
+- [Technical Debt: When to Fix, When to Ship](https://dev.to/juststevemcd/technical-debt-when-to-fix-when-to-ship-20pn)
+- [CVE-2026-33044: CVE-2026-33044: Stored Cross-Site Scripting in Home Assistant Map-Card](https://dev.to/cverports/cve-2026-33044-cve-2026-33044-stored-cross-site-scripting-in-home-assistant-map-card-1df8)
+- [Scalable Design of Agent](https://dev.to/ma_uttaram_f822b3b02ec546/scalable-design-of-agent-1m2b)
+- [I scanned Google.com for quantum vulnerabilities — they&#39;re already deploying post-quantum crypto &lpar;but it&#39;s not enough&rpar;](https://dev.to/pvishwakar77301/i-scanned-googlecom-for-quantum-vulnerabilities-theyre-already-deploying-post-quantum-crypto-1lo1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
