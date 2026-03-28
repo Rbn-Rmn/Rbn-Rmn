@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [OpenTelemetry Has a Free Observability Standard — Traces, Metrics, and Logs Without Vendor Lock-in](https://dev.to/0012303/opentelemetry-has-a-free-observability-standard-traces-metrics-and-logs-without-vendor-lock-in-40gk)
-- [The Real Stack Behind AI Agents in Production — MCP, Kubernetes, and What Nobody Tells You](https://dev.to/manoit/the-real-stack-behind-ai-agents-in-production-mcp-kubernetes-and-what-nobody-tells-you-12ge)
-- [Trivy Docker Hub Supply Chain Attack Analysis and CI/CD Pipeline Security](https://dev.to/manoit/trivy-docker-hub-supply-chain-attack-analysis-and-cicd-pipeline-security-1cjb)
-- [Kubernetes Ingress NGINX Retirement and Gateway API Migration Guide](https://dev.to/manoit/kubernetes-ingress-nginx-retirement-and-gateway-api-migration-guide-1fb2)
-- [HCP Terraform Free Tier Ending: OpenTofu Migration Guide](https://dev.to/manoit/hcp-terraform-free-tier-ending-opentofu-migration-guide-27ja)
+- [5 DevOps Errors That Cost Developers the Most Time &lpar;And How to Fix Each&rpar;](https://dev.to/yash_step2dev/5-devops-errors-that-cost-developers-the-most-time-and-how-to-fix-each-1fi4)
+- [Looking for contributors for an AI learning platform &lpar;open source&rpar;](https://dev.to/krish_verma_77e28d3fd63ca/looking-for-contributors-for-an-ai-learning-platform-open-source-c89)
+- [Silence the makefile recipes](https://dev.to/1roguebishop/silence-the-makefile-recipes-4igl)
+- [💥 I think dev jobs are about to change &lpar;this github repo is why&rpar;](https://dev.to/seeksky/i-think-dev-jobs-are-about-to-change-this-github-repo-is-why-5db4)
+- [I built a free alternative to iLoveIMG — no login, no ads, no paywalls](https://dev.to/harshilshah99/i-built-a-free-alternative-to-iloveimg-no-login-no-ads-no-paywalls-268d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
