@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Seal Report: Applying Dependant Filters](https://dev.to/vladg_dev/getting-started-with-seal-report-applying-dependant-filters-3j7a)
-- [Jems - Your life, brilliantly organized](https://dev.to/abinjith_tk_e85889d1609a4/jems-your-life-brilliantly-organized-4anb)
-- [I Finally Ditched Overleaf for a Local LaTeX Editor — Here&#39;s What Actually Works](https://dev.to/tex64/i-finally-ditched-overleaf-for-a-local-latex-editor-heres-what-actually-works-2cgg)
-- [I Added MCP Server to My REST API in ~180 Lines of TypeScript](https://dev.to/mindon/step-1-initialize-4j47)
-- [Opus, Gemini, and ChatGPT Walk Into a Bar](https://dev.to/arezvov/opus-gemini-and-chatgpt-walk-into-a-bar-kii)
+- [Why study Node.js?](https://dev.to/doccaio/why-study-nodejs-1min)
+- [Porque estudar node.js](https://dev.to/doccaio/porque-estudar-nodejs-5284)
+- [Arkhein: Command Your Silicon. Own Your Memory.](https://dev.to/melasistema/arkhein-command-your-silicon-own-your-memory-egg)
+- [Notion Life Review OS — Log your day to Notion from WhatsApp using AI](https://dev.to/vicente_junior_dev/notion-life-review-os-log-your-day-to-notion-from-whatsapp-using-ai-3g3m)
+- [HTML Tutorial for Beginners: Build Your First Webpage Today](https://dev.to/drivecoding/html-tutorial-for-beginners-build-your-first-webpage-today-3jhg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
