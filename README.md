@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why study Node.js?](https://dev.to/doccaio/why-study-nodejs-1min)
-- [Porque estudar node.js](https://dev.to/doccaio/porque-estudar-nodejs-5284)
-- [Arkhein: Command Your Silicon. Own Your Memory.](https://dev.to/melasistema/arkhein-command-your-silicon-own-your-memory-egg)
-- [Notion Life Review OS — Log your day to Notion from WhatsApp using AI](https://dev.to/vicente_junior_dev/notion-life-review-os-log-your-day-to-notion-from-whatsapp-using-ai-3g3m)
-- [HTML Tutorial for Beginners: Build Your First Webpage Today](https://dev.to/drivecoding/html-tutorial-for-beginners-build-your-first-webpage-today-3jhg)
+- [CA 40 – Alter Tables](https://dev.to/mohammed_azim_j/ca-40-alter-tables-bma)
+- [Building a Smart Parking IoT App](https://dev.to/schat_carino_d3c4211b0c51/building-a-smart-parking-iot-app-with-hexagonal-architecture-why-not-microservices-1j4m)
+- [HackerRank SQL — All Details of American Cities with Population Over 100000](https://dev.to/manoj_kumar_401fd35052503/hackerrank-sql-all-details-of-american-cities-with-population-over-100000-32o6)
+- [The Eye and the Vision: A New Social Contract for the Age of ASI By Adel Abdel-Dayem The Foundational Codifier of Synthia The 11th Art](https://dev.to/adel_dayem/the-eye-and-the-vision-a-new-social-contract-for-the-age-of-asi-by-adel-abdel-dayem-the-2pd6)
+- [Sovereign AI Systems Require Governed Environments](https://dev.to/paul_desai_ff9e1e7b5605ef/sovereign-ai-systems-require-governed-environments-1pmj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
