@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [A Lightweight 3D Object Feature Recognition Method Based on Camera Displacement and Pixel Change Analysis](https://dev.to/lvpeng/a-lightweight-3d-object-feature-recognition-method-based-on-camera-displacement-and-pixel-change-mge)
-- [Anti-Patterns in Human Code Review, Learned from Einstein](https://dev.to/vteacher/anti-patterns-in-human-code-review-learned-from-einstein-41oe)
-- [OpenAI Just Put a Bounty on Prompt Injection. Here&#39;s How to Defend Against It Today.](https://dev.to/darbogach/openai-just-put-a-bounty-on-prompt-injection-heres-how-to-defend-against-it-today-4jfd)
-- [AitherOS vs AutoGen: Which Multi-Agent Framework Should You Use in 2026?](https://dev.to/aither_os/aitheros-vs-autogen-which-multi-agent-framework-should-you-use-in-2026-3b4e)
-- [How defer&lpar;&rpar; in Laravel 11 Made Our API Responses 3x Faster Without Touching a Single Queue](https://dev.to/shahzamandev/how-defer-in-laravel-11-made-our-api-responses-3x-faster-without-touching-a-single-queue-1ogo)
+- [Nobody Is Firing Their Doctor Because WebMD Exists. So Why Do People Think AI Will Replace Software Engineers?](https://dev.to/szglabs/nobody-is-firing-their-doctor-because-webmd-exists-so-why-do-people-think-ai-will-replace-software-2068)
+- [How I Stopped Manually Clicking Verification Emails in My Selenium Tests](https://dev.to/dishantsinghdev/how-i-stopped-manually-clicking-verification-emails-in-my-selenium-tests-4562)
+- [SQL: The Foundation you Need](https://dev.to/katkeilty/sql-the-foundation-you-need-4i3l)
+- [Ansible Has a Free API: Automate Everything Without Agents](https://dev.to/0012303/ansible-has-a-free-api-automate-everything-without-agents-5g47)
+- [[AWS] AWS Security Agent &amp; DevOps Agent Setup Guide [FrontierAgents]](https://dev.to/aws-builders/aws-aws-security-agent-devops-agent-setup-guide-frontieragents-lbn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
