@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Code Review Tools for Pull Requests in 2026](https://dev.to/rahulxsingh/best-ai-code-review-tools-for-pull-requests-in-2026-2n4p)
-- [Securing AI Agent Workflows: Preventing Identity Collapse in Multi-Step Chains](https://dev.to/jerry_poon/securing-ai-agent-workflows-preventing-identity-collapse-in-multi-step-chains-45d2)
-- [Why I&#39;m Finally Starting to Write](https://dev.to/ejlan/why-im-finally-starting-to-write-4cak)
-- [React Hooks Explained: A Visual Guide for 2026](https://dev.to/lucasmdevdev/react-hooks-explained-a-visual-guide-for-2026-2cc4)
-- [BeSA Batch 09 Week6 - Supercharge Development with Kiro | Build Your AI-Enhanced SA Practice](https://dev.to/girishmukim/besa-batch-09-week6-supercharge-development-with-kiro-build-your-ai-enhanced-sa-practice-2fm7)
+- [A Lightweight 3D Object Feature Recognition Method Based on Camera Displacement and Pixel Change Analysis](https://dev.to/lvpeng/a-lightweight-3d-object-feature-recognition-method-based-on-camera-displacement-and-pixel-change-mge)
+- [Anti-Patterns in Human Code Review, Learned from Einstein](https://dev.to/vteacher/anti-patterns-in-human-code-review-learned-from-einstein-41oe)
+- [OpenAI Just Put a Bounty on Prompt Injection. Here&#39;s How to Defend Against It Today.](https://dev.to/darbogach/openai-just-put-a-bounty-on-prompt-injection-heres-how-to-defend-against-it-today-4jfd)
+- [AitherOS vs AutoGen: Which Multi-Agent Framework Should You Use in 2026?](https://dev.to/aither_os/aitheros-vs-autogen-which-multi-agent-framework-should-you-use-in-2026-3b4e)
+- [How defer&lpar;&rpar; in Laravel 11 Made Our API Responses 3x Faster Without Touching a Single Queue](https://dev.to/shahzamandev/how-defer-in-laravel-11-made-our-api-responses-3x-faster-without-touching-a-single-queue-1ogo)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
