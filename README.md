@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [CA 40 – Alter Tables](https://dev.to/mohammed_azim_j/ca-40-alter-tables-bma)
-- [Building a Smart Parking IoT App](https://dev.to/schat_carino_d3c4211b0c51/building-a-smart-parking-iot-app-with-hexagonal-architecture-why-not-microservices-1j4m)
-- [HackerRank SQL — All Details of American Cities with Population Over 100000](https://dev.to/manoj_kumar_401fd35052503/hackerrank-sql-all-details-of-american-cities-with-population-over-100000-32o6)
-- [The Eye and the Vision: A New Social Contract for the Age of ASI By Adel Abdel-Dayem The Foundational Codifier of Synthia The 11th Art](https://dev.to/adel_dayem/the-eye-and-the-vision-a-new-social-contract-for-the-age-of-asi-by-adel-abdel-dayem-the-2pd6)
-- [Sovereign AI Systems Require Governed Environments](https://dev.to/paul_desai_ff9e1e7b5605ef/sovereign-ai-systems-require-governed-environments-1pmj)
+- [I Built a Read-Only kubectl So AI Agents Can&#39;t Break My Cluster](https://dev.to/veysi/kubectl-ro-read-only-kubernetes-access-for-ai-agents-and-humans-1okg)
+- [The Browser-Based Dev Tools I Actually Use](https://dev.to/iseesharp/the-browser-based-dev-tools-i-actually-use-2f35)
+- [Redis 启动流程全解析（server.c 到 main 函数）](https://dev.to/deepin/redis-qi-dong-liu-cheng-quan-jie-xi-serverc-dao-main-han-shu--5o4)
+- [Design too much, build just enough](https://dev.to/munalouisnwugo/design-too-much-build-just-enough-3ff7)
+- [Effect-TS Has a Free API: TypeScript&#39;s Missing Standard Library for Production Apps](https://dev.to/0012303/effect-ts-has-a-free-api-typescripts-missing-standard-library-for-production-apps-45k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
