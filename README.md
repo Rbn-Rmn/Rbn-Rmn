@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [O que aprendi usando Lovable por 8 meses para criar sites bonitos, padronizados e fáceis de manter](https://dev.to/raphmoraes/o-que-aprendi-usando-lovable-por-8-meses-para-criar-sites-bonitos-padronizados-e-faceis-de-manter-4m1)
-- [Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation](https://dev.to/paperium/mamba-unet-unet-like-pure-visual-mamba-for-medical-image-segmentation-g83)
-- [Quantify Your Life: Building a High-Performance Health Data Lake with InfluxDB, Grafana, and Python 🚀](https://dev.to/wellallytech/quantify-your-life-building-a-high-performance-health-data-lake-with-influxdb-grafana-and-python-40c1)
-- [Why Enterprise Should Embrace Open Source](https://dev.to/katkeilty/why-enterprise-should-embrace-open-source-c93)
-- [Can you stand the rain?](https://dev.to/abarron/can-you-stand-the-rain-4e0k)
+- [Directus Auth out of the Box — Registration, Login, Email Verification and Password Reset](https://dev.to/wadethomastt/directus-auth-out-of-the-box-registration-login-email-verification-and-password-reset-5dba)
+- [Why I Switched to a VPS with Coolify for Hosting My Full Stack Apps](https://dev.to/wadethomastt/why-i-switched-to-a-vps-with-coolify-for-hosting-my-full-stack-apps-3hce)
+- [Twilio API Autopsy: What Agent-Native Almost Looks Like](https://dev.to/supertrained/twilio-api-autopsy-what-agent-native-almost-looks-like-3338)
+- [Why I Use Directus as My Backend — Flexible, Self-Hosted and Production Ready](https://dev.to/wadethomastt/why-i-use-directus-as-my-backend-flexible-free-and-production-ready-g6g)
+- [🚨 CrashLoopBackOff no Kubernetes: o que é e por que acontece?](https://dev.to/deividferraz/crashloopbackoff-no-kubernetes-o-que-e-e-por-que-acontece-4bkn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
