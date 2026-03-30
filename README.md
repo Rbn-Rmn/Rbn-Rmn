@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I can now replay any AI agent stream from production. Here&#39;s how.](https://dev.to/abhishek_chatterjee_33b9d/i-can-now-replay-any-ai-agent-stream-from-production-heres-how-4bg4)
-- [What Actually Happens When You Leave an ESP32 Running 24/7](https://dev.to/numbpill3d/what-actually-happens-when-you-leave-an-esp32-running-247-347e)
-- [Google Calendar — Day View](https://dev.to/arghya_majumder/google-calendar-day-view-42a0)
-- [OpenClaw in Production: Real Costs, Security Setup, and What a Month of Daily Use Actually Looks Like](https://dev.to/virtualunc/openclaw-in-production-real-costs-security-setup-and-what-a-month-of-daily-use-actually-looks-10dg)
-- [I got rate-limited scraping 100 pages. Here&#39;s what actually worked](https://dev.to/nicodev__/i-got-rate-limited-scraping-100-pages-heres-what-actually-worked-4p70)
+- [Technical Leadership in SAP Projects: How Senior Architects Make Better Decisions Under Pressure](https://dev.to/oktay_a56a5e9cc26cc1df8fe/technical-leadership-in-sap-projects-how-senior-architects-make-better-decisions-under-pressure-4chi)
+- [How to Set Up an Affiliate Program with Creem &lpar;Step-by-Step Guide for SaaS Founders&rpar;](https://dev.to/ashui/how-to-set-up-an-affiliate-program-with-creem-step-by-step-guide-for-saas-founders-4io2)
+- [SAP MES Integration with PP/QM: Building a Real-Time Production Monitoring Architecture That Actually Works](https://dev.to/oktay_a56a5e9cc26cc1df8fe/sap-mes-integration-with-ppqm-building-a-real-time-production-monitoring-architecture-that-27f0)
+- [Part 1: Why I Chose Amazon Bedrock AgentCore &lpar;And What Lambda Gets Wrong for AI Agents&rpar;](https://dev.to/rajmurugan/part-1-why-i-chose-amazon-bedrock-agentcore-and-what-lambda-gets-wrong-for-ai-agents-jm3)
+- [Why This Launch Matters for Blockchain’s Next Chapter](https://dev.to/midnight-aliit/why-this-launch-matters-for-blockchains-next-chapter-cif)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
