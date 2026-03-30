@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What Is a SOAP API? Complete Beginner Guide](https://dev.to/kanishkrawattt/what-is-a-soap-api-complete-beginner-guide-4h14)
-- [I built a trading card game of GitHub repositories](https://dev.to/davizgarzia/i-built-a-trading-card-game-of-github-repositories-4i75)
-- [When Debugging Became Belonging: What Nearly 15 Years of Helping Developers Taught Me](https://dev.to/darkbranchcore/when-debugging-became-belonging-what-nearly-15-years-of-helping-developers-taught-me-3amg)
-- [Code Review Rules: The Last Stand of Human Judgment in the AI Era](https://dev.to/psavelis/code-review-rules-the-last-stand-of-human-judgment-in-the-ai-era-1f1b)
-- [My side project just had its best month ever. I have no idea why. Here&#39;s what happened.](https://dev.to/genglin-bulkpictools/my-side-project-just-had-its-best-month-ever-i-have-no-idea-why-heres-what-happened-353j)
+- [The Agentic Web Needs Evolution Infrastructure](https://dev.to/rotiferdev/the-agentic-web-needs-evolution-infrastructure-569n)
+- [How to Be Smart and Offload Your Job to AI](https://dev.to/thelogicwarlock/how-to-be-smart-and-offload-your-job-to-ai-4658)
+- [The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern](https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4)
+- [I Built Tritone - A Modern Desktop Client For Subsonic Music Servers](https://dev.to/kyle8973/i-built-tritone-a-modern-desktop-client-for-subsonic-music-servers-3bb2)
+- [Understanding Data Modeling in Power BI: Joins, Relationships and Schemas Explained.](https://dev.to/sharonchepkemoi/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-5826)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
