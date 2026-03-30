@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Gmail Template Extension — Here&#39;s What I Learned Fighting Gmail&#39;s DOM](https://dev.to/_350df62777eb55e1/i-built-a-gmail-template-extension-heres-what-i-learned-fighting-gmails-dom-4f0b)
-- [Perl 🐪 Weekly #766 - Perl: Past, Present and Future](https://dev.to/szabgab/perl-weekly-766-perl-past-present-and-future-24i7)
-- [MYTH-OS: The Compiler Pattern for Systemic RPG Generation Complete Technical Whitepaper &amp; Implementation Guide](https://dev.to/peacebinflow/myth-os-the-compiler-pattern-for-systemic-rpg-generation-complete-technical-whitepaper--3470)
-- [Full Opensource AI-Agent to learn and integrate](https://dev.to/stepan_rutz/full-opensource-ai-agent-to-learn-and-integrate-3llp)
-- [Frontend Art Submission — Gender Beyond Boundaries 👨‍🦰👩‍🦳](https://dev.to/usman_awan/frontend-art-submission-gender-beyond-boundaries-4jck)
+- [How MongoDB Handles High Traffic and Large Datasets](https://dev.to/mongodb/how-mongodb-handles-high-traffic-and-large-datasets-52je)
+- [# Getting Data from Different Sources in Power BI](https://dev.to/isykel/-getting-data-from-different-sources-in-power-bi-3g25)
+- [Why Subscription Management and Allocation Systems Are Essential for Scalable Business Growth](https://dev.to/total_technologies_3317d2/why-subscription-management-and-allocation-systems-are-essential-for-scalable-business-growth-284o)
+- [I Was Operating a Machine. Then I Gave It a Voice.](https://dev.to/miyazaki-lab/i-was-operating-a-machine-then-i-gave-it-a-voice-2p16)
+- [Your Agentic AI&#39;s Safety System Gets Dumber As It Thinks Longer](https://dev.to/ansh0x/your-agentic-ais-safety-system-gets-dumber-as-it-thinks-longer-2731)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
