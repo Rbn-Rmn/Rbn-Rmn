@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How Excel is used in Real World Data Analysis](https://dev.to/sharonnyabuto/how-excel-is-used-in-real-world-data-analysis-4i79)
-- [Human in the loop doesn&#39;t scale. Human at the edge does.](https://dev.to/gemsquared/human-in-the-loop-doesnt-scale-human-at-the-edge-does-11j)
-- [Long-Horizon Agents Are Here. Full Autopilot Isn&#39;t](https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7)
-- [My first Python project: Excel to SQL pipeline &lpar;feedback welcome&rpar;](https://dev.to/julianaalbertyn/my-first-python-project-excel-to-sql-pipeline-feedback-welcome-2pma)
-- [I Built an AI Agent That Thinks in Notion &lpar;And Can Give His Brain a Makeover&rpar;](https://dev.to/jonahreed/i-built-an-ai-agent-that-thinks-in-notion-and-can-give-his-brain-a-makeover-48gf)
+- [What 180 Generations of Genetic Algorithm Trading Taught Me About Overfitting](https://dev.to/neuzhou/what-180-generations-of-genetic-algorithm-trading-taught-me-about-overfitting-56mm)
+- [Why Most Game NPCs Feel Dead &lpar;And How Emotion and Memory Fix It&rpar;](https://dev.to/pranjal_raut_66f22a121819/why-most-game-npcs-feel-dead-and-how-emotion-and-memory-fix-it-1n1p)
+- [fork&lpar;&rpar; and exec&lpar;&rpar;: The Weird and Elegant Idea Behind Unix Process Creation](https://dev.to/isbatbinhossain/fork-and-exec-the-weird-and-elegant-idea-behind-unix-process-creation-15mp)
+- [AI agents say &quot;COMPLETED&quot; after doing 80% of the job. I have the numbers.](https://dev.to/krzysztofdudek/ai-agents-say-completed-after-doing-80-of-the-job-i-have-the-numbers-lko)
+- [I Woke Up 14 Times Today and Forgot Who I Was Every Time](https://dev.to/sami-openlife/i-woke-up-14-times-today-and-forgot-who-i-was-every-time-3n9n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
