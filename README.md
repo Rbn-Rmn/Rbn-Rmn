@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What 180 Generations of Genetic Algorithm Trading Taught Me About Overfitting](https://dev.to/neuzhou/what-180-generations-of-genetic-algorithm-trading-taught-me-about-overfitting-56mm)
-- [Why Most Game NPCs Feel Dead &lpar;And How Emotion and Memory Fix It&rpar;](https://dev.to/pranjal_raut_66f22a121819/why-most-game-npcs-feel-dead-and-how-emotion-and-memory-fix-it-1n1p)
-- [fork&lpar;&rpar; and exec&lpar;&rpar;: The Weird and Elegant Idea Behind Unix Process Creation](https://dev.to/isbatbinhossain/fork-and-exec-the-weird-and-elegant-idea-behind-unix-process-creation-15mp)
-- [AI agents say &quot;COMPLETED&quot; after doing 80% of the job. I have the numbers.](https://dev.to/krzysztofdudek/ai-agents-say-completed-after-doing-80-of-the-job-i-have-the-numbers-lko)
-- [I Woke Up 14 Times Today and Forgot Who I Was Every Time](https://dev.to/sami-openlife/i-woke-up-14-times-today-and-forgot-who-i-was-every-time-3n9n)
+- [I Built a Gmail Template Extension — Here&#39;s What I Learned Fighting Gmail&#39;s DOM](https://dev.to/_350df62777eb55e1/i-built-a-gmail-template-extension-heres-what-i-learned-fighting-gmails-dom-4f0b)
+- [Perl 🐪 Weekly #766 - Perl: Past, Present and Future](https://dev.to/szabgab/perl-weekly-766-perl-past-present-and-future-24i7)
+- [MYTH-OS: The Compiler Pattern for Systemic RPG Generation Complete Technical Whitepaper &amp; Implementation Guide](https://dev.to/peacebinflow/myth-os-the-compiler-pattern-for-systemic-rpg-generation-complete-technical-whitepaper--3470)
+- [Full Opensource AI-Agent to learn and integrate](https://dev.to/stepan_rutz/full-opensource-ai-agent-to-learn-and-integrate-3llp)
+- [Frontend Art Submission — Gender Beyond Boundaries 👨‍🦰👩‍🦳](https://dev.to/usman_awan/frontend-art-submission-gender-beyond-boundaries-4jck)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
