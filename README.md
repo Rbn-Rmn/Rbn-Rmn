@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How MongoDB Handles High Traffic and Large Datasets](https://dev.to/mongodb/how-mongodb-handles-high-traffic-and-large-datasets-52je)
-- [# Getting Data from Different Sources in Power BI](https://dev.to/isykel/-getting-data-from-different-sources-in-power-bi-3g25)
-- [Why Subscription Management and Allocation Systems Are Essential for Scalable Business Growth](https://dev.to/total_technologies_3317d2/why-subscription-management-and-allocation-systems-are-essential-for-scalable-business-growth-284o)
-- [I Was Operating a Machine. Then I Gave It a Voice.](https://dev.to/miyazaki-lab/i-was-operating-a-machine-then-i-gave-it-a-voice-2p16)
-- [Your Agentic AI&#39;s Safety System Gets Dumber As It Thinks Longer](https://dev.to/ansh0x/your-agentic-ais-safety-system-gets-dumber-as-it-thinks-longer-2731)
+- [What Is a SOAP API? Complete Beginner Guide](https://dev.to/kanishkrawattt/what-is-a-soap-api-complete-beginner-guide-4h14)
+- [I built a trading card game of GitHub repositories](https://dev.to/davizgarzia/i-built-a-trading-card-game-of-github-repositories-4i75)
+- [When Debugging Became Belonging: What Nearly 15 Years of Helping Developers Taught Me](https://dev.to/darkbranchcore/when-debugging-became-belonging-what-nearly-15-years-of-helping-developers-taught-me-3amg)
+- [Code Review Rules: The Last Stand of Human Judgment in the AI Era](https://dev.to/psavelis/code-review-rules-the-last-stand-of-human-judgment-in-the-ai-era-1f1b)
+- [My side project just had its best month ever. I have no idea why. Here&#39;s what happened.](https://dev.to/genglin-bulkpictools/my-side-project-just-had-its-best-month-ever-i-have-no-idea-why-heres-what-happened-353j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
