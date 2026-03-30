@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Directus Auth out of the Box — Registration, Login, Email Verification and Password Reset](https://dev.to/wadethomastt/directus-auth-out-of-the-box-registration-login-email-verification-and-password-reset-5dba)
-- [Why I Switched to a VPS with Coolify for Hosting My Full Stack Apps](https://dev.to/wadethomastt/why-i-switched-to-a-vps-with-coolify-for-hosting-my-full-stack-apps-3hce)
-- [Twilio API Autopsy: What Agent-Native Almost Looks Like](https://dev.to/supertrained/twilio-api-autopsy-what-agent-native-almost-looks-like-3338)
-- [Why I Use Directus as My Backend — Flexible, Self-Hosted and Production Ready](https://dev.to/wadethomastt/why-i-use-directus-as-my-backend-flexible-free-and-production-ready-g6g)
-- [🚨 CrashLoopBackOff no Kubernetes: o que é e por que acontece?](https://dev.to/deividferraz/crashloopbackoff-no-kubernetes-o-que-e-e-por-que-acontece-4bkn)
+- [How Excel is used in Real World Data Analysis](https://dev.to/sharonnyabuto/how-excel-is-used-in-real-world-data-analysis-4i79)
+- [Human in the loop doesn&#39;t scale. Human at the edge does.](https://dev.to/gemsquared/human-in-the-loop-doesnt-scale-human-at-the-edge-does-11j)
+- [Long-Horizon Agents Are Here. Full Autopilot Isn&#39;t](https://dev.to/maximsaplin/long-horizon-agents-are-here-full-autopilot-isnt-5bo7)
+- [My first Python project: Excel to SQL pipeline &lpar;feedback welcome&rpar;](https://dev.to/julianaalbertyn/my-first-python-project-excel-to-sql-pipeline-feedback-welcome-2pma)
+- [I Built an AI Agent That Thinks in Notion &lpar;And Can Give His Brain a Makeover&rpar;](https://dev.to/jonahreed/i-built-an-ai-agent-that-thinks-in-notion-and-can-give-his-brain-a-makeover-48gf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
