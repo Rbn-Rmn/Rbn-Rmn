@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Technical Leadership in SAP Projects: How Senior Architects Make Better Decisions Under Pressure](https://dev.to/oktay_a56a5e9cc26cc1df8fe/technical-leadership-in-sap-projects-how-senior-architects-make-better-decisions-under-pressure-4chi)
-- [How to Set Up an Affiliate Program with Creem &lpar;Step-by-Step Guide for SaaS Founders&rpar;](https://dev.to/ashui/how-to-set-up-an-affiliate-program-with-creem-step-by-step-guide-for-saas-founders-4io2)
-- [SAP MES Integration with PP/QM: Building a Real-Time Production Monitoring Architecture That Actually Works](https://dev.to/oktay_a56a5e9cc26cc1df8fe/sap-mes-integration-with-ppqm-building-a-real-time-production-monitoring-architecture-that-27f0)
-- [Part 1: Why I Chose Amazon Bedrock AgentCore &lpar;And What Lambda Gets Wrong for AI Agents&rpar;](https://dev.to/rajmurugan/part-1-why-i-chose-amazon-bedrock-agentcore-and-what-lambda-gets-wrong-for-ai-agents-jm3)
-- [Why This Launch Matters for Blockchain’s Next Chapter](https://dev.to/midnight-aliit/why-this-launch-matters-for-blockchains-next-chapter-cif)
+- [Claude Feels Slow. But Is Moving a Team to Open-Weight Models Actually the Fix?](https://dev.to/aviadr1/claude-feels-slow-but-is-moving-a-team-to-open-weight-models-actually-the-fix-584f)
+- [I built a Real-time Bus Reservation System with React &amp; FastAPI 🚍](https://dev.to/aniket_jha_3015/i-built-a-real-time-bus-reservation-system-with-react-fastapi-knk)
+- [Kodekloud Engineer 100 Days of Devops - Day 1: Linux User Setup with Non-Interactive Shell](https://dev.to/caioduque/kodekloud-engineer-100-days-of-devops-day-1-linux-user-setup-with-non-interactive-shell-4ai1)
+- [The Singularity Is Nearer: What Ray Kurzweil&#39;s Six Epochs Gets Right About Our Future](https://dev.to/brunohsouza/the-singularity-is-nearer-what-ray-kurzweils-six-epochs-gets-right-about-our-future-1pph)
+- [Artemis: How NASA&#39;s Return to the Moon Is Redefining Space Exploration in 2026](https://dev.to/walid_azrour_0813f6b60398/artemis-how-nasas-return-to-the-moon-is-redefining-space-exploration-in-2026-3ffc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
