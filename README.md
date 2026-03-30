@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Claude Feels Slow. But Is Moving a Team to Open-Weight Models Actually the Fix?](https://dev.to/aviadr1/claude-feels-slow-but-is-moving-a-team-to-open-weight-models-actually-the-fix-584f)
-- [I built a Real-time Bus Reservation System with React &amp; FastAPI 🚍](https://dev.to/aniket_jha_3015/i-built-a-real-time-bus-reservation-system-with-react-fastapi-knk)
-- [Kodekloud Engineer 100 Days of Devops - Day 1: Linux User Setup with Non-Interactive Shell](https://dev.to/caioduque/kodekloud-engineer-100-days-of-devops-day-1-linux-user-setup-with-non-interactive-shell-4ai1)
-- [The Singularity Is Nearer: What Ray Kurzweil&#39;s Six Epochs Gets Right About Our Future](https://dev.to/brunohsouza/the-singularity-is-nearer-what-ray-kurzweils-six-epochs-gets-right-about-our-future-1pph)
-- [Artemis: How NASA&#39;s Return to the Moon Is Redefining Space Exploration in 2026](https://dev.to/walid_azrour_0813f6b60398/artemis-how-nasas-return-to-the-moon-is-redefining-space-exploration-in-2026-3ffc)
+- [I used AI to help build my resume and beat 2,000 applicants — here&#39;s how](https://dev.to/turquoise-tailoring/i-used-ai-to-help-build-my-resume-and-beat-2000-applicants-heres-how-46gp)
+- [My mock server lied to me. So I built a stateful API sandbox.](https://dev.to/fetchsandbox/my-mock-server-lied-to-me-so-i-built-a-stateful-api-sandbox-549n)
+- [I Built a Tool Because 90% of My AI Agent&#39;s Tokens Were Spent Searching, Not Coding](https://dev.to/narrator/i-built-a-tool-because-90-of-my-ai-agents-tokens-were-spent-searching-not-coding-1ee3)
+- [I’m looking for a small number of maintainers for NornicDB](https://dev.to/orneryd/im-looking-for-a-small-number-of-maintainers-for-nornicdb-2pn6)
+- [The Seven Deadly Sins of MCP: Design Sins](https://dev.to/riferrei/the-seven-deadly-sins-of-mcp-design-sins-3565)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
