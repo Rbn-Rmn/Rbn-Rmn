@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Do users actually click CTA… or just find their own path?](https://dev.to/bhavin-allinonetools/do-users-actually-click-cta-or-just-find-their-own-path-1nml)
-- [SCSS Is Solving Problems CSS Is Learning to Solve Itself](https://dev.to/ouvarov/scss-is-solving-problems-css-is-learning-to-solve-itself-3cgf)
-- [Key AI Concepts Every AWS AI Practitioner Should Know](https://dev.to/datta_kharad_3fd1383b5036/key-ai-concepts-every-aws-ai-practitioner-should-know-3n61)
-- [I Built Orra: A Tarot App Powered by Pyth for Verifiable Market Readings](https://dev.to/emjayrntr/i-built-orra-a-tarot-app-powered-by-pyth-for-verifiable-market-readings-3p31)
-- [Is Cursor Safe? I Scanned 100 Apps. 67% Had Critical Vulns.](https://dev.to/tgoldi/is-cursor-safe-i-scanned-100-apps-67-had-critical-vulns-39ml)
+- [Semgrep Observability with OpenTelemetry](https://dev.to/agardnerit/semgrep-observability-with-opentelemetry-4k6o)
+- [Your Context Window Is Chaos. We Fixed It.](https://dev.to/robimbeault/your-context-window-is-chaos-we-fixed-it-3ca5)
+- [Getting 404 Errors After Building a Teams Tab App? HTML Caching Might Be the Cause](https://dev.to/upa_rupa/getting-404-errors-after-building-a-teams-tab-app-html-caching-might-be-the-cause-1i98)
+- [Your Knowledge, Your Model — Part 3: Determinism Is Not Accuracy](https://dev.to/macsart_ai_by_tim/your-knowledge-your-model-part-3-determinism-is-not-accuracy-1b6j)
+- [Get data from an email attachment with Workspace Studio](https://dev.to/googleworkspace/get-data-from-an-email-attachment-with-workspace-studio-5acp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
