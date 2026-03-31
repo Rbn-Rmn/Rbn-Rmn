@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I used AI to help build my resume and beat 2,000 applicants — here&#39;s how](https://dev.to/turquoise-tailoring/i-used-ai-to-help-build-my-resume-and-beat-2000-applicants-heres-how-46gp)
-- [My mock server lied to me. So I built a stateful API sandbox.](https://dev.to/fetchsandbox/my-mock-server-lied-to-me-so-i-built-a-stateful-api-sandbox-549n)
-- [I Built a Tool Because 90% of My AI Agent&#39;s Tokens Were Spent Searching, Not Coding](https://dev.to/narrator/i-built-a-tool-because-90-of-my-ai-agents-tokens-were-spent-searching-not-coding-1ee3)
-- [I’m looking for a small number of maintainers for NornicDB](https://dev.to/orneryd/im-looking-for-a-small-number-of-maintainers-for-nornicdb-2pn6)
-- [The Seven Deadly Sins of MCP: Design Sins](https://dev.to/riferrei/the-seven-deadly-sins-of-mcp-design-sins-3565)
+- [React Scroll Effects Without External Libraries](https://dev.to/childrentime/react-scroll-effects-without-external-libraries-2k12)
+- [I built a free compliance scanner because the enterprise ones cost more than my rent](https://dev.to/cveriskpilot/i-built-a-free-compliance-scanner-because-the-enterprise-ones-cost-more-than-my-rent-2c11)
+- [Last week I showed you your AI coding agent can read your SSH keys. Turns out that was the easy part. I run 5 MCP servers con...](https://dev.to/connectengine/last-week-i-showed-you-your-ai-coding-agent-can-read-your-ssh-keys-turns-out-that-was-the-easy-29bg)
+- [Mutation Testing: The Missing Safety Net for AI-Generated Code](https://dev.to/rsri/mutation-testing-the-missing-safety-net-for-ai-generated-code-54kn)
+- [Automatically hide _assets folders in Obsidian &lpar;until you need them&rpar;](https://dev.to/ackvf/automatically-hide-assets-folders-in-obsidian-until-you-need-them-505i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
