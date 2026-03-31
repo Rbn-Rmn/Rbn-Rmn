@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Get City, Postal Code, Address from Latitude and Longitude](https://dev.to/geoapify-maps-api/how-to-get-city-postal-code-address-from-latitude-and-longitude-1b4)
-- [Inference Observability: Why You Don&#39;t See the Cost Spike Until It&#39;s Too Late](https://dev.to/ntctech/inference-observability-why-you-dont-see-the-cost-spike-until-its-too-late-2ioh)
-- [How We Cut Rails on GKE Costs by 60%: The &quot;Efficiency First&quot; Roadmap](https://dev.to/katz/how-we-cut-rails-on-gke-costs-by-60-the-efficiency-first-roadmap-14pg)
-- [You Can Build While You&#39;re Still Becoming!](https://dev.to/jo_deguzman/you-can-build-while-youre-still-becoming-4bhj)
-- [Multi-Agent AI Systems: Architecture Patterns That Actually Work](https://dev.to/futhgar/multi-agent-ai-systems-architecture-patterns-that-actually-work-107b)
+- [Critical Alert: Axios NPM Package Compromised in Supply Chain Attack](https://dev.to/av1v3k/critical-alert-axios-npm-package-compromised-in-supply-chain-attack-i41)
+- [Every team in BFSI has an AI pilot but almost nothing in production](https://dev.to/praveen_kumar_wednesday/every-team-in-bfsi-has-an-ai-pilot-but-almost-nothing-in-production-1hjh)
+- [OpenClaw vs. Amazon Quick Suite](https://dev.to/maxim_romaniuc_wp/openclaw-vs-amazon-quick-suite-2n1i)
+- [CloudHub 2.0 &lpar;Mulesoft&rpar;](https://dev.to/harshit15/cloudhub-20-mulesoft-14e8)
+- [I&#39;m such a slow typer](https://dev.to/ben/im-such-a-slow-typer-361f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
