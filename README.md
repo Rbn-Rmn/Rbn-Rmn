@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Inference Compression Compounds for Modular Agents](https://dev.to/rotiferdev/why-inference-compression-compounds-for-modular-agents-17j8)
-- [Stop rebuilding BYOK from scratch — I extracted it into a package](https://dev.to/adamboon1984arch/stop-rebuilding-byok-from-scratch-i-extracted-it-into-a-package-2bk2)
-- [Nextail: How a Spanish Startup&#39;s Prescriptive AI Is Defeating Excel in Fashion Retail](https://dev.to/datalaria/nextail-how-a-spanish-startups-prescriptive-ai-is-defeating-excel-in-fashion-retail-54pc)
-- [Hidden Markov Models: When Clusters Have Memory](https://dev.to/berkan_sesen/hidden-markov-models-when-clusters-have-memory-5526)
-- [The readability scores your content tool is missing](https://dev.to/bengreenberg/the-readability-scores-your-content-tool-is-missing-39be)
+- [Does How You Feed Context to an LLM Agent Change What It Remembers? I Tested With Canary Strings.](https://dev.to/mkxultra/does-how-you-feed-context-to-an-llm-agent-change-what-it-remembers-i-tested-with-canary-strings-55le)
+- [Capacity Planning and Forecasting](https://dev.to/godofgeeks/capacity-planning-and-forecasting-39la)
+- [Build a Research Assistant AI Agent with TypeScript &lpar;Part 2&rpar;: Callbacks, State, and Memory](https://dev.to/timonwa/build-a-research-assistant-ai-agent-with-typescript-part-2-callbacks-state-and-memory-1ed9)
+- [CodeRabbit Custom Rules: Review Instructions Guide](https://dev.to/rahulxsingh/coderabbit-custom-rules-review-instructions-guide-1nc1)
+- [Strong Number](https://dev.to/sivakumar_mathiyalagan_/strong-number-4ln3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
