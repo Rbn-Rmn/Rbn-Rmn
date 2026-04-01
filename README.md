@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [n8n Docker Setup: Why It Breaks &lpar;And the Easier Alternative&rpar;](https://dev.to/farrukh_tariq_b2d419a76cf/n8n-docker-setup-why-it-breaks-and-the-easier-alternative-4185)
-- [1. Orchestrating AI Teams: A Python Guide to ChatDev](https://dev.to/amaljitbharali/1-orchestrating-ai-teams-a-python-guide-to-chatdev-1kga)
-- [How I Reverse-Engineered Claude Code&#39;s Hidden Pet System](https://dev.to/picklepixel/how-i-reverse-engineered-claude-codes-hidden-pet-system-8l7)
-- [@craft-ng: Associer l’art de la composition &amp; du state management dans Angular](https://dev.to/romain_geffrault_10d88369/craft-ng-associer-lart-de-la-composition-du-state-management-dans-angular-37pn)
-- [🔬 3D Science Lab — Interactive 3D STEM Education with 40+ Experiments Built Using Next.js and Three.js](https://dev.to/rudra_sarker/3d-science-lab-interactive-3d-stem-education-with-40-experiments-built-using-nextjs-and-4kfg)
+- [We Scored 5,154 MCP Servers. Here&#39;s the Trust Distribution.](https://dev.to/crafted_cyber_solutions/we-scored-5154-mcp-servers-heres-the-trust-distribution-5dm1)
+- [I built a replay testing tool for MCP servers — here&#39;s why and how it works](https://dev.to/tapesh_chandradas_5f7919/i-built-a-replay-testing-tool-for-mcp-servers-heres-why-and-how-it-works-1f8d)
+- [Making AI “Boring” with RamaLama: My Hands-On Exploration](https://dev.to/ibrahim-jam/making-ai-boring-with-ramalama-my-hands-on-exploration-1i17)
+- [My First Open Source Project: The Story of Code-Wrapper](https://dev.to/irfanh_dev/my-first-open-source-project-the-story-of-code-wrapper-1033)
+- [Distributed Systems - Algebraic Types for Better State Modeling](https://dev.to/santosh_koti/distributed-systems-algebraic-types-for-better-state-modeling-7bd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
