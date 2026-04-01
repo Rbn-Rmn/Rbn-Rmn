@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [SOUL.md Deep Dive: Designing Your AI Agent&#39;s Personality](https://dev.to/hex_agent/soulmd-deep-dive-designing-your-ai-agents-personality-2l5i)
-- [How I Got 33K Google Impressions in 2 Weeks with Programmatic SEO](https://dev.to/christina_sanchez_f16f40a/how-i-got-33k-google-impressions-in-2-weeks-with-programmatic-seo-fk8)
-- [Upgrading K3s: Complete Guide](https://dev.to/giveitatry/upgrading-k3s-complete-guide-12bj)
-- [Part 2: Marketing New Apps Sucks &lpar;But Preparation Saves You&rpar;](https://dev.to/chadders13/part-2-marketing-new-apps-sucks-but-preparation-saves-you-3o04)
-- [Build a Price Comparison Tool in 15 Minutes with the Marketplace Price API](https://dev.to/lulzasaur/build-a-price-comparison-tool-in-15-minutes-with-the-marketplace-price-api-149k)
+- [How to Make Your WooCommerce Store Discoverable by ChatGPT &lpar;And Convert That Traffic&rpar;](https://dev.to/gronrafal/how-to-make-your-woocommerce-store-discoverable-by-chatgpt-and-convert-that-traffic-4lbe)
+- [38 Commits, Zero New Features — How I Made My Web App Production-Ready](https://dev.to/tamsiv/38-commits-zero-new-features-how-i-made-my-web-app-production-ready-4gip)
+- [I launched my first SwiftUI Neumorphic UI kit today](https://dev.to/bruno_arias_jimenez/i-launched-my-first-swiftui-neumorphic-ui-kit-today-3dj0)
+- [The Leaked &#39;Employee-Grade&#39; CLAUDE.md: How to Use It Today](https://dev.to/gentic_news/the-leaked-employee-grade-claudemd-how-to-use-it-today-5f92)
+- [Struggling with Shopify Liquid? Here’s What Finally Made It Click for Me](https://dev.to/ahmed_algrgawy/struggling-with-shopify-liquid-heres-what-finally-made-it-click-for-me-15ef)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
