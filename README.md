@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [New programming language](https://dev.to/codemaster_121482/new-programming-language-3cpj)
-- [I built a tool to practice typing real code &lpar;looking for feedback&rpar;](https://dev.to/devlx/i-built-a-tool-to-practice-typing-real-code-looking-for-feedback-2mdk)
-- [The &#39;new&#39; Keyword in JavaScript](https://dev.to/ritam369/the-new-keyword-in-javascript-32a3)
-- [Create a workspace scheduler using Bryntum Scheduler Pro and MongoDB](https://dev.to/mongodb/create-a-workspace-scheduler-using-bryntum-scheduler-pro-and-mongodb-1anp)
-- [Discover a Free AI Voice Tool with Emotional Control for Content Creators](https://dev.to/alexdev2024/discover-a-free-ai-voice-tool-with-emotional-control-for-content-creators-5ec5)
+- [Adding a Zelda3-style compare lane to the TD2 port](https://dev.to/nivandosoares/adding-a-zelda3-style-compare-lane-to-the-td2-port-da2)
+- [I Almost Quit Tech Not Because of Code, But Because of People](https://dev.to/fluffyfi3/i-almost-quit-tech-not-because-of-code-but-because-of-people-1okn)
+- [Vibe Coding Saved My Client ₹2.4 Lakh — By Replacing a Junior Developer&#39;s Typing, Not Their Job](https://dev.to/automate-archit/vibe-coding-saved-my-client-24-lakh-by-replacing-a-junior-developers-typing-not-their-job-cjg)
+- [The Developer’s Guide to the EU AI Act &lpar;What Actually Breaks Your Code&rpar;](https://dev.to/damsho92/the-developers-guide-to-the-eu-ai-act-what-actually-breaks-your-code-10dj)
+- [Site Audit Checklist: Onboarding a New Client for Performance Monitoring](https://dev.to/apogeewatcher/site-audit-checklist-onboarding-a-new-client-for-performance-monitoring-4bbd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
