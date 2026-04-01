@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Transforming Raspberry Pi into an AI-Native Edge IDS for SMBs](https://dev.to/hookprobe/transforming-raspberry-pi-into-an-ai-native-edge-ids-for-smbs-1827)
-- [The Stages of AI Grief](https://dev.to/rdeknijf/the-stages-of-ai-grief-5gn5)
-- [Implementing Zero Trust Architecture for Unmanaged IoT at the Network Edge](https://dev.to/hookprobe/implementing-zero-trust-architecture-for-unmanaged-iot-at-the-network-edge-1lni)
-- [I Scanned 10 Developer Tools for AI Agent-Readiness. Only One Passed.](https://dev.to/petter-strale/i-scanned-10-developer-tools-for-ai-agent-readiness-only-one-passed-1olg)
-- [Why I Built My Own WebSocket Service Instead of Paying for Pusher](https://dev.to/itsshpetim/why-i-built-my-own-websocket-service-instead-of-paying-for-pusher-2hkg)
+- [The CLAUDE.md Pattern: Why Your AI Agent Needs a README](https://dev.to/o96a/the-claudemd-pattern-why-your-ai-agent-needs-a-readme-353d)
+- [I Built an App to Replace Our F1 Prediction Spreadsheet. Here&#39;s What I Learned.](https://dev.to/tthbnc/i-built-an-app-to-replace-our-f1-prediction-spreadsheet-heres-what-i-learned-17m3)
+- [Building Confidence with Testcontainers](https://dev.to/jolodev/building-confidence-with-testcontainers-3dfe)
+- [Project Loom: Java&#39;s Virtual Threads – From Nightmares to Modern Concurrency Bliss](https://dev.to/felipestanzani/project-loom-javas-virtual-threads-from-nightmares-to-modern-concurrency-bliss-3cm)
+- [Choosing the Right AI for Your Boat Shop: Beyond the Buzzwords](https://dev.to/ken_deng_ai/choosing-the-right-ai-for-your-boat-shop-beyond-the-buzzwords-16a3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
