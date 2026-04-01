@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [From Direct Classification to Agentic Routing: When to Use Local Models vs Azure AI](https://dev.to/amit_tyagi_b6bb9dd185178e/from-direct-classification-to-agentic-routing-when-to-use-local-models-vs-azure-ai-f1k)
-- [Day 1339 : Ride](https://dev.to/dwane/day-1339-ride-48cm)
-- [Jetpack Compose fez sentido pra mim quando eu parei de comparar tudo com XML](https://dev.to/devmarcosanjos/jetpack-compose-fez-sentido-pra-mim-quando-eu-parei-de-comparar-tudo-com-xml-1faf)
-- [ClawMoat — Protecting Your Machine from AI Agent Threats](https://dev.to/hasanmonsur/clawmoat-protecting-your-machine-from-ai-agent-threats-p1o)
-- [First Quarter 2026 Goal Update](https://dev.to/xmabry/first-quarter-2026-goal-update-2nm0)
+- [Why Developers Need to Manage Money Like They Manage Memory 💸](https://dev.to/iprajapatiparesh/why-developers-need-to-manage-money-like-they-manage-memory-2n0h)
+- [Why Claude Code&#39;s Source Code Leaked — And It Wasn&#39;t Simple Human Error](https://dev.to/noturandomdev/why-claude-codes-source-code-leaked-and-it-wasnt-simple-human-error-286)
+- [10 Simple Recursion Programs in Python](https://dev.to/harini_magesh_fa40041cf8d/10-simple-recursion-programs-in-python-42b2)
+- [Kafka Safe Producer Defaults and Version Compatibility Explained](https://dev.to/rajeev_a954661bb78eb9797f/kafka-safe-producer-defaults-and-version-compatibility-explained-5457)
+- [Building a Scalable To-Do App in Flutter Using Provider &amp; Local Storage](https://dev.to/thapasubina22/building-a-scalable-to-do-app-in-flutter-using-provider-local-storage-2lnd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
