@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [We Scored 5,154 MCP Servers. Here&#39;s the Trust Distribution.](https://dev.to/crafted_cyber_solutions/we-scored-5154-mcp-servers-heres-the-trust-distribution-5dm1)
-- [I built a replay testing tool for MCP servers — here&#39;s why and how it works](https://dev.to/tapesh_chandradas_5f7919/i-built-a-replay-testing-tool-for-mcp-servers-heres-why-and-how-it-works-1f8d)
-- [Making AI “Boring” with RamaLama: My Hands-On Exploration](https://dev.to/ibrahim-jam/making-ai-boring-with-ramalama-my-hands-on-exploration-1i17)
-- [My First Open Source Project: The Story of Code-Wrapper](https://dev.to/irfanh_dev/my-first-open-source-project-the-story-of-code-wrapper-1033)
-- [Distributed Systems - Algebraic Types for Better State Modeling](https://dev.to/santosh_koti/distributed-systems-algebraic-types-for-better-state-modeling-7bd)
+- [Transforming Raspberry Pi into an AI-Native Edge IDS for SMBs](https://dev.to/hookprobe/transforming-raspberry-pi-into-an-ai-native-edge-ids-for-smbs-1827)
+- [The Stages of AI Grief](https://dev.to/rdeknijf/the-stages-of-ai-grief-5gn5)
+- [Implementing Zero Trust Architecture for Unmanaged IoT at the Network Edge](https://dev.to/hookprobe/implementing-zero-trust-architecture-for-unmanaged-iot-at-the-network-edge-1lni)
+- [I Scanned 10 Developer Tools for AI Agent-Readiness. Only One Passed.](https://dev.to/petter-strale/i-scanned-10-developer-tools-for-ai-agent-readiness-only-one-passed-1olg)
+- [Why I Built My Own WebSocket Service Instead of Paying for Pusher](https://dev.to/itsshpetim/why-i-built-my-own-websocket-service-instead-of-paying-for-pusher-2hkg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
