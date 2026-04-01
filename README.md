@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Your WooCommerce Store Discoverable by ChatGPT &lpar;And Convert That Traffic&rpar;](https://dev.to/gronrafal/how-to-make-your-woocommerce-store-discoverable-by-chatgpt-and-convert-that-traffic-4lbe)
-- [38 Commits, Zero New Features — How I Made My Web App Production-Ready](https://dev.to/tamsiv/38-commits-zero-new-features-how-i-made-my-web-app-production-ready-4gip)
-- [I launched my first SwiftUI Neumorphic UI kit today](https://dev.to/bruno_arias_jimenez/i-launched-my-first-swiftui-neumorphic-ui-kit-today-3dj0)
-- [The Leaked &#39;Employee-Grade&#39; CLAUDE.md: How to Use It Today](https://dev.to/gentic_news/the-leaked-employee-grade-claudemd-how-to-use-it-today-5f92)
-- [Struggling with Shopify Liquid? Here’s What Finally Made It Click for Me](https://dev.to/ahmed_algrgawy/struggling-with-shopify-liquid-heres-what-finally-made-it-click-for-me-15ef)
+- [5 Nginx Log Patterns Every SaaS Developer Should Monitor](https://dev.to/logaudit/5-nginx-log-patterns-every-saas-developer-should-monitor-243n)
+- [The Science of Language Learning: What Research Actually Says](https://dev.to/pocket_linguist/the-science-of-language-learning-what-research-actually-says-32l)
+- [I Built a Free Invoice OCR Chrome Extension — No Cloud, No Signup](https://dev.to/_350df62777eb55e1/i-built-a-free-invoice-ocr-chrome-extension-no-cloud-no-signup-3cii)
+- [Build Your First A2A Agent Pair in Python &lpar;15 Minutes, No Cloud Required&rpar;](https://dev.to/peytongreen_dev/build-your-first-a2a-agent-pair-in-python-15-minutes-no-cloud-required-107e)
+- [Wait Event Heatmaps: See What PostgreSQL Is Actually Waiting On](https://dev.to/philip_mcclarence_2ef9475/wait-event-heatmaps-see-what-postgresql-is-actually-waiting-on-2339)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
