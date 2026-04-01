@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [From seeded state to scheduler rails in the TD2 SDL port](https://dev.to/nivandosoares/from-seeded-state-to-scheduler-rails-in-the-td2-sdl-port-5g0l)
-- [From Swagger to Real Tests: Where Most API Testing Falls Apart](https://dev.to/kushoai/from-swagger-to-real-tests-where-most-api-testing-falls-apart-56bo)
-- [The Integration Tax: Walled-Garden Agent Strategies Won&#39;t Scale &lpar;MxN vs. M+N&rpar;](https://dev.to/testinat0r/the-integration-tax-walled-garden-agent-strategies-wont-scale-mxn-vs-mn-g5f)
-- [Izumi: An LLM-Powered SBOM Tool Built Out of Frustration](https://dev.to/zkojii/izumi-an-llm-powered-sbom-generator-built-out-of-frustration-34hf)
-- [I* rewrote my jQuery autocomplete plugin as a zero-dependency ES6 library &lpar;with Vue, React &amp; Svelte adapters&rpar;](https://dev.to/sergiodinislopes/i-rewrote-my-jquery-autocomplete-plugin-as-a-zero-dependency-es6-library-with-vue-react-svelte-lj)
+- [From Docker Failure to PostgreSQL Success: My Real Backend Learning Experience](https://dev.to/bharath_kumar_30_vog/from-docker-failure-to-postgresql-success-my-real-backend-learning-experience-cn7)
+- [How I Added SIEM to My Homelab With Wazuh — and What It Found on Day One](https://dev.to/stevenjvik/how-i-added-siem-to-my-homelab-with-wazuh-and-what-it-found-on-day-one-cll)
+- [A Jira Win: Building JiraAttachmentsRetriever with the JiraAnalyzerSuite](https://dev.to/mpietro/a-jira-win-building-jiraattachmentsretriever-with-the-jiraanalyzersuite-19le)
+- [I ran incident response on my own homelab. Here&#39;s the postmortem.](https://dev.to/stevenjvik/i-ran-incident-response-on-my-own-homelab-heres-the-postmortem-366h)
+- [From SQLite to PostgreSQL: My First Integration Attempt &lpar;Failures, Learning &amp; Direction Change&rpar;](https://dev.to/bharath_kumar_30_vog/-from-sqlite-to-postgresql-my-first-integration-attempt-failures-learning-direction-change-3bn4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
