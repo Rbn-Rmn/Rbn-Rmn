@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Adding a Zelda3-style compare lane to the TD2 port](https://dev.to/nivandosoares/adding-a-zelda3-style-compare-lane-to-the-td2-port-da2)
-- [I Almost Quit Tech Not Because of Code, But Because of People](https://dev.to/fluffyfi3/i-almost-quit-tech-not-because-of-code-but-because-of-people-1okn)
-- [Vibe Coding Saved My Client ₹2.4 Lakh — By Replacing a Junior Developer&#39;s Typing, Not Their Job](https://dev.to/automate-archit/vibe-coding-saved-my-client-24-lakh-by-replacing-a-junior-developers-typing-not-their-job-cjg)
-- [The Developer’s Guide to the EU AI Act &lpar;What Actually Breaks Your Code&rpar;](https://dev.to/damsho92/the-developers-guide-to-the-eu-ai-act-what-actually-breaks-your-code-10dj)
-- [Site Audit Checklist: Onboarding a New Client for Performance Monitoring](https://dev.to/apogeewatcher/site-audit-checklist-onboarding-a-new-client-for-performance-monitoring-4bbd)
+- [From seeded state to scheduler rails in the TD2 SDL port](https://dev.to/nivandosoares/from-seeded-state-to-scheduler-rails-in-the-td2-sdl-port-5g0l)
+- [From Swagger to Real Tests: Where Most API Testing Falls Apart](https://dev.to/kushoai/from-swagger-to-real-tests-where-most-api-testing-falls-apart-56bo)
+- [The Integration Tax: Walled-Garden Agent Strategies Won&#39;t Scale &lpar;MxN vs. M+N&rpar;](https://dev.to/testinat0r/the-integration-tax-walled-garden-agent-strategies-wont-scale-mxn-vs-mn-g5f)
+- [Izumi: An LLM-Powered SBOM Tool Built Out of Frustration](https://dev.to/zkojii/izumi-an-llm-powered-sbom-generator-built-out-of-frustration-34hf)
+- [I* rewrote my jQuery autocomplete plugin as a zero-dependency ES6 library &lpar;with Vue, React &amp; Svelte adapters&rpar;](https://dev.to/sergiodinislopes/i-rewrote-my-jquery-autocomplete-plugin-as-a-zero-dependency-es6-library-with-vue-react-svelte-lj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
