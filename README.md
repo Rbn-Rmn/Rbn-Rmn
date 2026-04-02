@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned from Reading Claude Code’s Reconstructed Source](https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf)
-- [How to Test Discord Webhooks with HookCap](https://dev.to/henry_hang/how-to-test-discord-webhooks-with-hookcap-4oj4)
-- [SaaS Pricing Models Decoded: What Per-Seat, Usage-Based, and Flat-Rate Really Cost You](https://dev.to/jameshammer/saas-pricing-models-decoded-what-per-seat-usage-based-and-flat-rate-really-cost-you-1i4h)
-- [Claude Code hooks: intercept every tool call before it runs](https://dev.to/subprime2010/claude-code-hooks-intercept-every-tool-call-before-it-runs-1ik7)
-- [How to Test Twilio Webhooks with HookCap](https://dev.to/henry_hang/how-to-test-twilio-webhooks-with-hookcap-1kfc)
+- [Stop Confusing LangChain, LangGraph, and Deep Agents: A Practical Playbook for Building Real AI Systems](https://dev.to/optyxstack/stop-confusing-langchain-langgraph-and-deep-agents-a-practical-playbook-for-building-real-ai-4f52)
+- [How to Add AI Gateway Observability to a Production Control Plane](https://dev.to/tokvera/how-to-add-ai-gateway-observability-to-a-production-control-plane-4gbb)
+- [Drizby: An Open Source BI Platform Built on a Semantic Layer &lpar;and why I built it&rpar;](https://dev.to/cliftonc/drizby-an-open-source-bi-platform-built-on-a-semantic-layer-and-why-i-built-it-2k5p)
+- [The 5 Types of AI Agent Memory Every Developer Needs to Know &lpar;Part 1&rpar;](https://dev.to/sreeni5018/the-5-types-of-ai-agent-memory-every-developer-needs-to-know-part-1-52fn)
+- [Scaling 98/100 PageSpeed for 100+ Pages: My Technical Workflow](https://dev.to/_claude_cat/scaling-98100-pagespeed-for-100-pages-my-technical-workflow-517i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
