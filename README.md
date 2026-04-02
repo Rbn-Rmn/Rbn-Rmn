@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your Vibe Coding Security Scanner Is Missing the Worst Bugs. Here&#39;s Why.](https://dev.to/tgoldi/your-vibe-coding-security-scanner-is-missing-the-worst-bugs-heres-why-52na)
-- [Run OpenCode in Docker - Clean machine, same convenience](https://dev.to/mazumba/run-opencode-in-docker-clean-machine-same-convenience-58ac)
-- [Good UI Is Just Invisible Engineering](https://dev.to/rohith_kn/good-ui-is-just-invisible-engineering-13ck)
-- [Face Tracking for Vertical Video: Why It&#39;s Harder Than It Looks &lpar;And How It Works&rpar;](https://dev.to/kyle_clipspeedai/face-tracking-for-vertical-video-why-its-harder-than-it-looks-and-how-it-works-3e97)
-- [I Built a Privacy-First Developer Toolbox That Runs 100% in Your Browser](https://dev.to/tinglongyang/i-built-a-privacy-first-developer-toolbox-that-runs-100-in-your-browser-2ho2)
+- [Why I Built a No-Code Backtesting Engine &lpar;And What I Learned About Anti-Repainting&rpar;](https://dev.to/matthieu_david_9bfe2b8e4f/why-i-built-a-no-code-backtesting-engine-and-what-i-learned-about-anti-repainting-3n9b)
+- [Wildcard CORS in AI-Generated APIs: What Cursor Won&#39;t Catch](https://dev.to/chandan_karn_fb750e731394/wildcard-cors-in-ai-generated-apis-what-cursor-wont-catch-4dfp)
+- [Building the Brain of Robots: Why Edge AI Needs a New Kind of Database](https://dev.to/motedb/building-the-brain-of-robots-why-edge-ai-needs-a-new-kind-of-database-25m)
+- [🚀 Day 28 of My Automation Journey – Nested For Loop](https://dev.to/bala_d_kaveri/day-28-of-my-automation-journey-nested-for-loop-2516)
+- [I Built a Distributed Systems Simulator So You Don&#39;t Need Cloud to Learn Infrastructure](https://dev.to/hamidlabs/i-built-a-distributed-systems-simulator-so-you-dont-need-cloud-to-learn-infrastructure-3n2f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
