@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Spec Driven Development With LLMs](https://dev.to/juststevemcd/spec-driven-development-with-llms-1dhk)
-- [Writing Pitches That Work](https://dev.to/juststevemcd/writing-pitches-that-work-3p1a)
-- [Shape Up: A Practical Introduction](https://dev.to/juststevemcd/shape-up-a-practical-introduction-fpa)
-- [Setting Up a Reverse Proxy with Nginx on Ubuntu](https://dev.to/saikat_goswami_fd81ed5950/setting-up-a-reverse-proxy-with-nginx-on-ubuntu-23gm)
-- [Enterprise Coffee Decisioner](https://dev.to/geoffkats/enterprise-coffee-decisioner-5do1)
+- [How I Replaced Axios With `fetch` Without Breaking the App](https://dev.to/mdkaifansari04/how-i-replaced-axios-with-fetch-without-breaking-the-app-207o)
+- [How to Scrape Telegram Channels in 2026 — Free MCP + Apify Actor &lpar;No Login Required&rpar;](https://dev.to/khadin_akbar_e285e57c49af/how-to-scrape-telegram-channels-in-2026-free-mcp-apify-actor-no-login-required-17i0)
+- [Scaling WooCommerce Category Descriptions with AI](https://dev.to/nexuwp/scaling-woocommerce-category-descriptions-with-ai-3cbe)
+- [Synchronous vs Asynchronous JavaScript](https://dev.to/ritam369/synchronous-vs-asynchronous-javascript-18j2)
+- [Optimizing Time Series Data Storage and Querying: Migrating `candle_data` from PostgreSQL to QuestDB for Enhanced Performance](https://dev.to/denlava/optimizing-time-series-data-storage-and-querying-migrating-candledata-from-postgresql-to-4l8e)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
