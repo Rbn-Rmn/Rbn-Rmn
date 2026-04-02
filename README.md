@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Senior Angular Take‑Home That Made Me Rethink Tech Interviews](https://dev.to/karol_modelski/the-senior-angular-take-home-that-made-me-rethink-tech-interviews-1gdk)
-- [DeepSource vs Qodana: Code Quality Platforms Compared &lpar;2026&rpar;](https://dev.to/rahulxsingh/deepsource-vs-qodana-code-quality-platforms-compared-2026-152a)
-- [Image Optimisation Strategies for Better LCP Scores](https://dev.to/apogeewatcher/image-optimisation-strategies-for-better-lcp-scores-3402)
-- [Stop Building AI Into Your Product. Start Building Products With AI.](https://dev.to/soon_seahtoh_3e917beae5e/stop-building-ai-into-your-product-start-building-products-with-ai-48ep)
-- [490+ Calculator Tools with Zero Hosting Cost — Architecture Deep Dive](https://dev.to/miccho27/490-calculator-tools-with-zero-hosting-cost-architecture-deep-dive-30n4)
+- [Spec Driven Development With LLMs](https://dev.to/juststevemcd/spec-driven-development-with-llms-1dhk)
+- [Writing Pitches That Work](https://dev.to/juststevemcd/writing-pitches-that-work-3p1a)
+- [Shape Up: A Practical Introduction](https://dev.to/juststevemcd/shape-up-a-practical-introduction-fpa)
+- [Setting Up a Reverse Proxy with Nginx on Ubuntu](https://dev.to/saikat_goswami_fd81ed5950/setting-up-a-reverse-proxy-with-nginx-on-ubuntu-23gm)
+- [Enterprise Coffee Decisioner](https://dev.to/geoffkats/enterprise-coffee-decisioner-5do1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
