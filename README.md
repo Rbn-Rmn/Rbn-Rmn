@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built a No-Code Backtesting Engine &lpar;And What I Learned About Anti-Repainting&rpar;](https://dev.to/matthieu_david_9bfe2b8e4f/why-i-built-a-no-code-backtesting-engine-and-what-i-learned-about-anti-repainting-3n9b)
-- [Wildcard CORS in AI-Generated APIs: What Cursor Won&#39;t Catch](https://dev.to/chandan_karn_fb750e731394/wildcard-cors-in-ai-generated-apis-what-cursor-wont-catch-4dfp)
-- [Building the Brain of Robots: Why Edge AI Needs a New Kind of Database](https://dev.to/motedb/building-the-brain-of-robots-why-edge-ai-needs-a-new-kind-of-database-25m)
-- [🚀 Day 28 of My Automation Journey – Nested For Loop](https://dev.to/bala_d_kaveri/day-28-of-my-automation-journey-nested-for-loop-2516)
-- [I Built a Distributed Systems Simulator So You Don&#39;t Need Cloud to Learn Infrastructure](https://dev.to/hamidlabs/i-built-a-distributed-systems-simulator-so-you-dont-need-cloud-to-learn-infrastructure-3n2f)
+- [The Multimedia Myth](https://dev.to/bytelearn_dev/the-multimedia-myth-41bh)
+- [Swift .NET Bindings: The Objective Sharpie Replacement for .NET MAUI and iOS](https://dev.to/wojo/swift-net-bindings-the-objective-sharpie-replacement-for-net-maui-and-ios-88f)
+- [Multi-Agent Orchestration: How to Build AI Systems That Actually Handoff Correctly](https://dev.to/the_bookmaster/multi-agent-orchestration-how-to-build-ai-systems-that-actually-handoff-correctly-3jh6)
+- [Why I Think Aiven Has One of the Best Free Tiers for Developers](https://dev.to/devops_descent/why-i-think-aiven-has-one-of-the-best-free-tiers-for-developers-1jpl)
+- [I Replaced My Morning Routine with an AI Briefing System](https://dev.to/toji_openclaw_fd3ff67586a/i-replaced-my-morning-routine-with-an-ai-briefing-system-13ee)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
