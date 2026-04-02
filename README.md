@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Free AI-Powered Article Analyzer That Scores Content for AI Search Readiness](https://dev.to/nadiamohamed/how-i-built-a-free-ai-powered-article-analyzer-that-scores-content-for-ai-search-readiness-2o06)
-- [Users Don’t Care About Your Homepage — They Care About Your Tool Page](https://dev.to/bhavin-allinonetools/users-dont-care-about-your-homepage-they-care-about-your-tool-page-3dhh)
-- [How WebAssembly makes it possible to process PDFs entirely in your browser](https://dev.to/zedxzain/how-webassembly-makes-it-possible-to-process-pdfs-entirely-in-your-browser-b70)
-- [How to turn any webpage into structured data for your LLM](https://dev.to/0xmassi/how-to-turn-any-webpage-into-structured-data-for-your-llm-31o2)
-- [How I Fixed Claude&#39;s Math Problem with 100 Lines of MCP Code](https://dev.to/yonatan_naor_5642e43447ea/how-i-fixed-claudes-math-problem-with-100-lines-of-mcp-code-3hi6)
+- [Your Vibe Coding Security Scanner Is Missing the Worst Bugs. Here&#39;s Why.](https://dev.to/tgoldi/your-vibe-coding-security-scanner-is-missing-the-worst-bugs-heres-why-52na)
+- [Run OpenCode in Docker - Clean machine, same convenience](https://dev.to/mazumba/run-opencode-in-docker-clean-machine-same-convenience-58ac)
+- [Good UI Is Just Invisible Engineering](https://dev.to/rohith_kn/good-ui-is-just-invisible-engineering-13ck)
+- [Face Tracking for Vertical Video: Why It&#39;s Harder Than It Looks &lpar;And How It Works&rpar;](https://dev.to/kyle_clipspeedai/face-tracking-for-vertical-video-why-its-harder-than-it-looks-and-how-it-works-3e97)
+- [I Built a Privacy-First Developer Toolbox That Runs 100% in Your Browser](https://dev.to/tinglongyang/i-built-a-privacy-first-developer-toolbox-that-runs-100-in-your-browser-2ho2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
