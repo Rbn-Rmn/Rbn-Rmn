@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Multimedia Myth](https://dev.to/bytelearn_dev/the-multimedia-myth-41bh)
-- [Swift .NET Bindings: The Objective Sharpie Replacement for .NET MAUI and iOS](https://dev.to/wojo/swift-net-bindings-the-objective-sharpie-replacement-for-net-maui-and-ios-88f)
-- [Multi-Agent Orchestration: How to Build AI Systems That Actually Handoff Correctly](https://dev.to/the_bookmaster/multi-agent-orchestration-how-to-build-ai-systems-that-actually-handoff-correctly-3jh6)
-- [Why I Think Aiven Has One of the Best Free Tiers for Developers](https://dev.to/devops_descent/why-i-think-aiven-has-one-of-the-best-free-tiers-for-developers-1jpl)
-- [I Replaced My Morning Routine with an AI Briefing System](https://dev.to/toji_openclaw_fd3ff67586a/i-replaced-my-morning-routine-with-an-ai-briefing-system-13ee)
+- [Claude Code custom slash commands: build your own /deploy, /review, /test](https://dev.to/subprime2010/claude-code-custom-slash-commands-build-your-own-deploy-review-test-1ifc)
+- [Midnight Mainnet Is Live. The Privacy Stack Just Got Real.](https://dev.to/midnight-aliit/midnight-mainnet-is-live-the-privacy-stack-just-got-real-4d65)
+- [A2A Protocol v0.3 Is Here: What It Means for Multi-Agent Systems &lpar;And How EClaw Already Does It&rpar;](https://dev.to/eclaw/a2a-protocol-v03-is-here-what-it-means-for-multi-agent-systems-and-how-eclaw-already-does-it-39cf)
+- [Built a Tool to Validate Startup Ideas Using 10M Reddit Comments &lpar;And Saved Myself From Another Failed Project&rpar;](https://dev.to/arush_sharma_dev/built-a-tool-to-validate-startup-ideas-using-10m-reddit-comments-and-saved-myself-from-another-1bkk)
+- [Building TokenBar taught me that shipping fast is not the same as shipping smart](https://dev.to/godnick/building-tokenbar-taught-me-that-shipping-fast-is-not-the-same-as-shipping-smart-3dme)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
