@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [DeepSource vs ESLint: Platform vs Linter Compared &lpar;2026&rpar;](https://dev.to/rahulxsingh/deepsource-vs-eslint-platform-vs-linter-compared-2026-4d5h)
-- [Your AI Agent Spent $500 Overnight and Nobody Noticed](https://dev.to/george_belsky_a513cfbf3df/your-ai-agent-spent-500-overnight-and-nobody-noticed-bfh)
-- [7 PostgreSQL extensions that will supercharge your database in 2026](https://dev.to/finny_collins/7-postgresql-extensions-that-will-supercharge-your-database-in-2026-1ab6)
-- [KNN prefiltering in Manticore Search](https://dev.to/sanikolaev/knn-prefiltering-in-manticore-search-c2f)
-- [React Native Background Task Processing Methods &lpar;2026&rpar;](https://dev.to/samantha-dev/react-native-background-task-processing-methods-2026-1aic)
+- [The Senior Angular Take‑Home That Made Me Rethink Tech Interviews](https://dev.to/karol_modelski/the-senior-angular-take-home-that-made-me-rethink-tech-interviews-1gdk)
+- [DeepSource vs Qodana: Code Quality Platforms Compared &lpar;2026&rpar;](https://dev.to/rahulxsingh/deepsource-vs-qodana-code-quality-platforms-compared-2026-152a)
+- [Image Optimisation Strategies for Better LCP Scores](https://dev.to/apogeewatcher/image-optimisation-strategies-for-better-lcp-scores-3402)
+- [Stop Building AI Into Your Product. Start Building Products With AI.](https://dev.to/soon_seahtoh_3e917beae5e/stop-building-ai-into-your-product-start-building-products-with-ai-48ep)
+- [490+ Calculator Tools with Zero Hosting Cost — Architecture Deep Dive](https://dev.to/miccho27/490-calculator-tools-with-zero-hosting-cost-architecture-deep-dive-30n4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
