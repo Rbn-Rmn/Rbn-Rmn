@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [COA-MAS v2: A Meta-Framework for Cross-Domain Multi-Agent Governance](https://dev.to/rudsoncarvalho/coa-mas-v2-a-meta-framework-for-cross-domain-multi-agent-governance-4mji)
-- [Build a RAG Pipeline in Java &lpar;Text Vector LLM, No Paid APIs&rpar;](https://dev.to/sanjayghosh/build-a-rag-pipeline-in-java-text-vector-llm-no-paid-apis-3lc3)
-- [🛑 Stop Testing Your Code and Ignoring Your Database &lpar;Catching N+1 in Pytest&rpar;](https://dev.to/fmartins/stop-testing-your-code-and-ignoring-your-database-catching-n1-in-pytest-4pd5)
-- [Send SMS from CSV with Python](https://dev.to/bridgexapi/send-sms-from-csv-with-python-cia)
-- [Unicode Infection](https://dev.to/pabli44/unicode-infection-53do)
+- [What I Learned from Reading Claude Code’s Reconstructed Source](https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf)
+- [How to Test Discord Webhooks with HookCap](https://dev.to/henry_hang/how-to-test-discord-webhooks-with-hookcap-4oj4)
+- [SaaS Pricing Models Decoded: What Per-Seat, Usage-Based, and Flat-Rate Really Cost You](https://dev.to/jameshammer/saas-pricing-models-decoded-what-per-seat-usage-based-and-flat-rate-really-cost-you-1i4h)
+- [Claude Code hooks: intercept every tool call before it runs](https://dev.to/subprime2010/claude-code-hooks-intercept-every-tool-call-before-it-runs-1ik7)
+- [How to Test Twilio Webhooks with HookCap](https://dev.to/henry_hang/how-to-test-twilio-webhooks-with-hookcap-1kfc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
