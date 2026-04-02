@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code custom slash commands: build your own /deploy, /review, /test](https://dev.to/subprime2010/claude-code-custom-slash-commands-build-your-own-deploy-review-test-1ifc)
-- [Midnight Mainnet Is Live. The Privacy Stack Just Got Real.](https://dev.to/midnight-aliit/midnight-mainnet-is-live-the-privacy-stack-just-got-real-4d65)
-- [A2A Protocol v0.3 Is Here: What It Means for Multi-Agent Systems &lpar;And How EClaw Already Does It&rpar;](https://dev.to/eclaw/a2a-protocol-v03-is-here-what-it-means-for-multi-agent-systems-and-how-eclaw-already-does-it-39cf)
-- [Built a Tool to Validate Startup Ideas Using 10M Reddit Comments &lpar;And Saved Myself From Another Failed Project&rpar;](https://dev.to/arush_sharma_dev/built-a-tool-to-validate-startup-ideas-using-10m-reddit-comments-and-saved-myself-from-another-1bkk)
-- [Building TokenBar taught me that shipping fast is not the same as shipping smart](https://dev.to/godnick/building-tokenbar-taught-me-that-shipping-fast-is-not-the-same-as-shipping-smart-3dme)
+- [I Gave My AI More Memory. It Got Dumber. Here&#39;s Why.](https://dev.to/mrlinuncut/i-gave-my-ai-more-memory-it-got-dumber-heres-why-2o5h)
+- [The Final Boss: Enterprise Governance &amp; Scalability](https://dev.to/kenwalger/the-final-boss-enterprise-governance-scalability-1d9f)
+- [10 AWS Security Misconfigurations Found in 90% of Accounts](https://dev.to/dannysteenman/10-aws-security-misconfigurations-found-in-90-of-accounts-835)
+- [AWS CDK Best Practices: The Complete Guide [2026]](https://dev.to/dannysteenman/aws-cdk-best-practices-the-complete-guide-2026-2nhg)
+- [CSS- intro](https://dev.to/preethi_sunil_caf7d1dad16_77/css-intro-33l4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
