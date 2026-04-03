@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Something I wish someone had told me five years earlier:](https://dev.to/neeraja_khanapure_4a33a5f/something-i-wish-someone-had-told-me-five-years-earlier-4lo7)
-- [Debugging XSLT vs Liquid in VS Code](https://dev.to/imdj/debugging-xslt-vs-liquid-in-vs-code-32h4)
-- [Why Prompt Injection Hits Harder in MCP: Scope Constraints and Blast Radius](https://dev.to/supertrained/why-prompt-injection-hits-harder-in-mcp-scope-constraints-and-blast-radius-5d8o)
-- [Debug DotLiquid Templates Locally with the VS Code DotLiquid Debugger](https://dev.to/imdj/debug-dotliquid-templates-locally-with-the-vs-code-dotliquid-debugger-2eb3)
-- [Liquid Templates in Azure Logic Apps: What They Are and Why They Matter](https://dev.to/imdj/liquid-templates-in-azure-logic-apps-what-they-are-and-why-they-matter-323e)
+- [Your Company Is Using AI to Skip Junior Hires. You&#39;ll Regret That in 5 Years.](https://dev.to/eastra_xue/your-company-is-using-ai-to-skip-junior-hires-youll-regret-that-in-5-years-30hl)
+- [Small bugs aren’t always about coding](https://dev.to/abojha404/small-bugs-arent-always-about-coding-3ph3)
+- [How to Connect MiniMax-M2.7 to Cursor](https://dev.to/orchidfiles/how-to-connect-minimax-m27-to-cursor-3kn0)
+- [Really Fun!](https://dev.to/evanlausier/really-fun-252m)
+- [About Layoffs, Side Hustles, and Vibe Coding](https://dev.to/nookix/from-layoff-to-launch-2p3j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
