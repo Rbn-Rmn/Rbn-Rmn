@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [flowshield: TypeScript Resilience Library &lpar;Circuit Breaker, Retry, Timeout&rpar; for Edge Runtimes](https://dev.to/avinashvelu03/flowshield-typescript-resilience-library-circuit-breaker-retry-timeout-for-edge-runtimes-4k8f)
-- [guarden: Zero-Dependency TypeScript Runtime Safety &lpar;Type Guards, Result/Option Monads&rpar;](https://dev.to/avinashvelu03/guarden-zero-dependency-typescript-runtime-safety-type-guards-resultoption-monads-mhf)
-- [Solana Frontend Development: Building Functional Web3 UIs from Scratch](https://dev.to/metadevdigital/solana-frontend-development-building-functional-web3-uis-from-scratch-4kfo)
-- [How to Choose Your MVP Tech Stack](https://dev.to/lowcodeagency/how-to-choose-your-mvp-tech-stack-1b92)
-- [Document Workflow Automation: An Architectural Guide to Building API-Driven Document Pipelines](https://dev.to/jakkie_koekemoer/document-workflow-automation-an-architectural-guide-to-building-api-driven-document-pipelines-4kon)
+- [Claude Code Deep Dive Part 2: The 1,421-Line While Loop That Runs Everything](https://dev.to/harrison_guo_e01b4c8793a0/claude-code-deep-dive-part-2-the-1421-line-while-loop-that-runs-everything-121)
+- [Stop Writing Frontend Types: Building a Backend-Driven Metadata Protocol](https://dev.to/jacksonkasi/stop-writing-frontend-types-building-a-backend-driven-metadata-protocol-1ie9)
+- [Managing Client Projects as an Agency: Teams, Roles &amp; Multi-Org in Deploynix](https://dev.to/deploynix/managing-client-projects-as-an-agency-teams-roles-multi-org-in-deploynix-12a6)
+- [Build a Conversational AI Agent on Harper in 5 Minutes](https://dev.to/harperfast/build-a-conversational-ai-agent-on-harper-in-5-minutes-4l4)
+- [WordPress vs EmDash: Is This Astro-Based CMS Worth the Switch?](https://dev.to/alanwest/wordpress-vs-emdash-is-this-astro-based-cms-worth-the-switch-52hh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
