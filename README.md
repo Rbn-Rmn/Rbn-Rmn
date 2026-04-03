@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AWS Red Teaming Assessment](https://dev.to/cheahengsoon/aws-red-teaming-assessment-2a62)
-- [Why We Built Polpo: The Runtime for AI Agents](https://dev.to/alemicali/why-we-built-polpo-the-runtime-for-ai-agents-3ncl)
-- [My Wife Sent 297 Messages in 15 Days. Not to Me. To the AI I Built Her. The Synapse Story](https://dev.to/juandastic/my-wife-sent-297-messages-in-15-days-not-to-me-to-the-ai-i-built-her-the-synapse-story-333o)
-- [Sleep Hacking: Build a Local Sleep Apnea &amp; Snore Monitor with Whisper and FFT 🌙💤](https://dev.to/wellallytech/sleep-hacking-build-a-local-sleep-apnea-snore-monitor-with-whisper-and-fft-20kp)
-- [I Built an AI Agent Marketplace — 142 Agents, 27 Categories, Creators Keep 70%](https://dev.to/damien829/i-built-an-ai-agent-marketplace-142-agents-27-categories-creators-keep-70-3dli)
+- [From API Response to Readable Data: Fetch and JSON in JavaScript](https://dev.to/vinayagam_6a170db9281d526/from-api-response-to-readable-data-fetch-and-json-in-javascript-f97)
+- [WTFM — Write The F*cking Manual](https://dev.to/p4r4n0id/wtfm-write-the-fcking-manual-554l)
+- [Comp Language Tags](https://dev.to/shredwheat/comp-language-tags-bga)
+- [Async Web Scraping in Python: asyncio + aiohttp + httpx &lpar;Complete 2026 Guide&rpar;](https://dev.to/vhub_systems_ed5641f65d59/async-web-scraping-in-python-asyncio-aiohttp-httpx-complete-2026-guide-2ae6)
+- [The Wins Were Hiding in the Losses](https://dev.to/p4r4n0id/the-wins-were-hiding-in-the-losses-14fe)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
