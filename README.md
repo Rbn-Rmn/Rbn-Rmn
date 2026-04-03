@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Claude Write Valid Synthea Modules](https://dev.to/mockhealth/how-to-make-claude-write-valid-synthea-modules-3adc)
-- [Water Temperature Monitoring in my Ford Fiesta](https://dev.to/evansabove/water-temperature-monitoring-in-my-ford-fiesta-3mc2)
-- [Shopify Automation: How I Managed an 80,000-Product Catalog with Python &amp; Pandas](https://dev.to/quicknicco/shopify-automation-how-i-managed-an-80000-product-catalog-with-python-pandas-47o9)
-- [PROVIDE STORAGE FOR A NEW COMPANY APP](https://dev.to/faynessa/provide-storage-for-a-new-company-app-2eo7)
-- [I Built a Real-Time Artemis II 3D Tracker in One Session — Here&#39;s the Engineering Pipeline That Made It Possible](https://dev.to/usewrought/i-built-a-real-time-artemis-ii-3d-tracker-in-one-session-heres-the-engineering-pipeline-that-1h11)
+- [Eu achava que Node.js era o “Django do JavaScript”… até entender isso](https://dev.to/mffdeo/eu-achava-que-nodejs-era-o-django-do-javascript-ate-entender-isso-4904)
+- [01-VPC — AWS Private/Public Subnet Architecture](https://dev.to/recklessbud_19/01-vpc-aws-privatepublic-subnet-architecture-47be)
+- [I Built a Checkpoint System for Claude Code CLI — Never Lose Your Work Again](https://dev.to/alexdevson/i-built-a-checkpoint-system-for-claude-code-cli-never-lose-your-work-again-11fc)
+- [Como configurar o WSL para rodar em um HD externo](https://dev.to/jeanmfdias/como-configurar-o-wsl-para-rodar-em-um-hd-externo-315b)
+- [My 3-Month Startup Directory Submission Journey — What Actually Moved the Needle](https://dev.to/jim_l_efc70c3a738e9f4baa7/my-3-month-startup-directory-submission-journey-what-actually-moved-the-needle-gef)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
