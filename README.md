@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to create your own Radio Station using a dynamic ip domain.](https://dev.to/djemos/how-to-create-your-own-radio-station-using-a-dynamic-ip-domain-ini)
-- [Day 2 - Updated the REST API Project using ResponseEntity](https://dev.to/bharathdhana/day-2-updated-the-rest-api-project-using-responseentity-l3d)
-- [GitLab Code Review: Best Tools and Practices &lpar;2026&rpar;](https://dev.to/rahulxsingh/gitlab-code-review-best-tools-and-practices-2026-3clb)
-- [GHSA-FV94-QVG8-XQPW: GHSA-fv94-qvg8-xqpw: OpenClaw SSH Sandbox Symlink Escape and Arbitrary File Access](https://dev.to/cverports/ghsa-fv94-qvg8-xqpw-ghsa-fv94-qvg8-xqpw-openclaw-ssh-sandbox-symlink-escape-and-arbitrary-file-2f4i)
-- [Claude Code for testing: write, run, and fix tests without leaving your terminal](https://dev.to/subprime2010/claude-code-for-testing-write-run-and-fix-tests-without-leaving-your-terminal-2gkh)
+- [AWS Red Teaming Assessment](https://dev.to/cheahengsoon/aws-red-teaming-assessment-2a62)
+- [Why We Built Polpo: The Runtime for AI Agents](https://dev.to/alemicali/why-we-built-polpo-the-runtime-for-ai-agents-3ncl)
+- [My Wife Sent 297 Messages in 15 Days. Not to Me. To the AI I Built Her. The Synapse Story](https://dev.to/juandastic/my-wife-sent-297-messages-in-15-days-not-to-me-to-the-ai-i-built-her-the-synapse-story-333o)
+- [Sleep Hacking: Build a Local Sleep Apnea &amp; Snore Monitor with Whisper and FFT 🌙💤](https://dev.to/wellallytech/sleep-hacking-build-a-local-sleep-apnea-snore-monitor-with-whisper-and-fft-20kp)
+- [I Built an AI Agent Marketplace — 142 Agents, 27 Categories, Creators Keep 70%](https://dev.to/damien829/i-built-an-ai-agent-marketplace-142-agents-27-categories-creators-keep-70-3dli)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
