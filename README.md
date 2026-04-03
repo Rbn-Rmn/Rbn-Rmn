@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Docker Dependency Problem No One Talks About &lpar;But Everyone Feels&rpar;](https://dev.to/mindmagic/the-docker-dependency-problem-no-one-talks-about-but-everyone-feels-56co)
-- [**Title: The Hidden Relationships That Keep Modern IT Systems Alive**](https://dev.to/mindmagic/title-the-hidden-relationships-that-keep-modern-it-systems-alive-48p2)
-- [Your AI sales agent has a problem](https://dev.to/george_gogidze_2bfb36969a/your-ai-sales-agent-has-a-problem-1j3d)
-- [⚖️ AI Is Transforming Legal Practice in Romania — Why Lawyers Who Ignore It Are Already Falling Behind](https://dev.to/cursuri-ai/ai-is-transforming-legal-practice-in-romania-why-lawyers-who-ignore-it-are-already-falling-1f6c)
-- [BullMQ + Node.js: Replace 50 Cron Jobs with Smart Queues](https://dev.to/_1353e04f14b156240b/bullmq-nodejs-replace-50-cron-jobs-with-smart-queues-3j3n)
+- [April 9 - Visual AI Agents Workshop](https://dev.to/voxel51/april-9-visual-ai-agents-workshop-482m)
+- [How to Run Google&#39;s Gemma 4 Locally with Ollama — All 4 Model Sizes Compared](https://dev.to/purpledoubled/how-to-run-googles-gemma-4-locally-with-ollama-all-4-model-sizes-compared-2pbh)
+- [Why Python Told Me To Stop Writing My Own Code](https://dev.to/grantdotdev/why-python-told-me-to-stop-writing-my-own-code-4fbb)
+- [Profiling Puppeteer Memory Usage in Node.js](https://dev.to/dennis-ddev/profiling-puppeteer-memory-usage-in-nodejs-5a88)
+- [Building Structured Product Comparisons with Next.js and AI](https://dev.to/reviewiq/building-structured-product-comparisons-with-nextjs-and-ai-3kpg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
