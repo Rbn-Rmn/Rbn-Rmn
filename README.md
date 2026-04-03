@@ -133,13 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Analyst &amp; The Architect: A Case Study in Generative AI for HR](https://dev.to/n_f_j/the-analyst-the-architect-a-case-study-in-generative-ai-for-hr-4hcc)
-- [I built a free VS Code extension that catches leaked secrets before you commit them](https://dev.to/gayathri_s_2e74bc6c3f0fb8/i-built-a-free-vs-code-extension-that-catches-leaked-secrets-before-you-commit-them-5a2k)
-- [REVM Source Code - Execution Flow Part 2](https://dev.to/tanghaosuan/revm-source-code-execution-flow-part-2-29bd)
-- [Passkeys and WebAuthn: The Complete Guide to Killing Passwords in Your Web App](https://dev.to/pockit_tools/passkeys-and-webauthn-the-complete-guide-to-killing-passwords-in-your-web-app-22f1)
-- [Great breakdown from one of our builders on smart contract testing with AI 👏
-
-Super valuable to see real challenges and not just ideal scenarios.](https://dev.to/diana_akb/great-breakdown-from-one-of-our-builders-on-smart-contract-testing-with-ai-super-valuable-to-2did)
+- [AisthOS: What if your OS compiled UP instead of down?](https://dev.to/desve/aisthos-what-if-your-os-compiled-up-instead-of-down-1glp)
+- [I Built ckpt: Automatic Checkpoints for AI Coding Sessions](https://dev.to/moo_moo_5f1e2b4306785a535/i-built-ckpt-automatic-checkpoints-for-ai-coding-sessions-44gl)
+- [How I test AI agent frontends without calling the API once](https://dev.to/abhishek_chatterjee_33b9d/how-i-test-ai-agent-frontends-without-calling-the-api-once-1ea1)
+- [Depresso-Tron 418: I Built a Bureaucratic Coffee Machine That Cannot Make Coffee](https://dev.to/greysquirr3l/depresso-tron-418-i-built-a-bureaucratic-coffee-machine-that-cannot-make-coffee-33pl)
+- [AI-Based Medicinal Plant Leaf Analysis System](https://dev.to/surya_saketh_2ad73f686fdf/ai-based-medicinal-plant-leaf-analysis-system-3pj6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
