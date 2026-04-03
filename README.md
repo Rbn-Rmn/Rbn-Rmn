@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [April 9 - Visual AI Agents Workshop](https://dev.to/voxel51/april-9-visual-ai-agents-workshop-482m)
-- [How to Run Google&#39;s Gemma 4 Locally with Ollama — All 4 Model Sizes Compared](https://dev.to/purpledoubled/how-to-run-googles-gemma-4-locally-with-ollama-all-4-model-sizes-compared-2pbh)
-- [Why Python Told Me To Stop Writing My Own Code](https://dev.to/grantdotdev/why-python-told-me-to-stop-writing-my-own-code-4fbb)
-- [Profiling Puppeteer Memory Usage in Node.js](https://dev.to/dennis-ddev/profiling-puppeteer-memory-usage-in-nodejs-5a88)
-- [Building Structured Product Comparisons with Next.js and AI](https://dev.to/reviewiq/building-structured-product-comparisons-with-nextjs-and-ai-3kpg)
+- [How to Make Claude Write Valid Synthea Modules](https://dev.to/mockhealth/how-to-make-claude-write-valid-synthea-modules-3adc)
+- [Water Temperature Monitoring in my Ford Fiesta](https://dev.to/evansabove/water-temperature-monitoring-in-my-ford-fiesta-3mc2)
+- [Shopify Automation: How I Managed an 80,000-Product Catalog with Python &amp; Pandas](https://dev.to/quicknicco/shopify-automation-how-i-managed-an-80000-product-catalog-with-python-pandas-47o9)
+- [PROVIDE STORAGE FOR A NEW COMPANY APP](https://dev.to/faynessa/provide-storage-for-a-new-company-app-2eo7)
+- [I Built a Real-Time Artemis II 3D Tracker in One Session — Here&#39;s the Engineering Pipeline That Made It Possible](https://dev.to/usewrought/i-built-a-real-time-artemis-ii-3d-tracker-in-one-session-heres-the-engineering-pipeline-that-1h11)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
