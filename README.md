@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Jira for AI Agents &amp; Humans](https://dev.to/yvg/jira-for-ai-agents-humans-282a)
-- [From Script-Kiddie to Enterprise: Re-architecting Python Scraping Tools into Scalable FastMCP Backends](https://dev.to/mbit/from-script-kiddie-to-enterprise-re-architecting-python-scraping-tools-into-scalable-fastmcp-4ad2)
-- [Zero-Trust IT Audit: How to Secure Business Processes Before Entering European Markets](https://dev.to/mbit/zero-trust-it-audit-how-to-secure-business-processes-before-entering-european-markets-4eif)
-- [Automating Multilingual Content for Odoo 18: Our Headless CMS Pipeline with GPT-5.4](https://dev.to/mbit/automating-multilingual-content-for-odoo-18-our-headless-cms-pipeline-with-gpt-54-6dl)
-- [MCP Kills REST API: The Last Year of Classical Integrations](https://dev.to/mbit/mcp-kills-rest-api-the-last-year-of-classical-integrations-1o5b)
+- [Something I wish someone had told me five years earlier:](https://dev.to/neeraja_khanapure_4a33a5f/something-i-wish-someone-had-told-me-five-years-earlier-4lo7)
+- [Debugging XSLT vs Liquid in VS Code](https://dev.to/imdj/debugging-xslt-vs-liquid-in-vs-code-32h4)
+- [Why Prompt Injection Hits Harder in MCP: Scope Constraints and Blast Radius](https://dev.to/supertrained/why-prompt-injection-hits-harder-in-mcp-scope-constraints-and-blast-radius-5d8o)
+- [Debug DotLiquid Templates Locally with the VS Code DotLiquid Debugger](https://dev.to/imdj/debug-dotliquid-templates-locally-with-the-vs-code-dotliquid-debugger-2eb3)
+- [Liquid Templates in Azure Logic Apps: What They Are and Why They Matter](https://dev.to/imdj/liquid-templates-in-azure-logic-apps-what-they-are-and-why-they-matter-323e)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
