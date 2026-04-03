@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Resize Observer in Modern Web Development](https://dev.to/manoj_004d/understanding-resize-observer-in-modern-web-development-3gij)
-- [AI Will Fundamentally Reshape How Advertising Works. Here&#39;s the Structural Analysis.](https://dev.to/s3atoshi_leading_ai/ai-will-fundamentally-reshape-how-advertising-works-heres-the-structural-analysis-pa6)
-- [Getting Data from Multiple Sources in Power BI:A Beginner-Friendly Approach](https://dev.to/afeezfausat/getting-data-from-multiple-sources-in-power-bia-beginner-friendly-approach-1b71)
-- [WebMCP Explained: The New Standard That Turns Websites Into APIs for AI Agents](https://dev.to/lazyasscoder/webmcp-explained-the-new-standard-that-turns-websites-into-apis-for-ai-agents-38l)
-- [I’m a Python Developer — So I Built a Better IAM System for Laravel](https://dev.to/apurba_singh_196f99885e48/im-a-python-developer-so-i-built-a-better-iam-system-for-laravel-gah)
+- [The Docker Dependency Problem No One Talks About &lpar;But Everyone Feels&rpar;](https://dev.to/mindmagic/the-docker-dependency-problem-no-one-talks-about-but-everyone-feels-56co)
+- [**Title: The Hidden Relationships That Keep Modern IT Systems Alive**](https://dev.to/mindmagic/title-the-hidden-relationships-that-keep-modern-it-systems-alive-48p2)
+- [Your AI sales agent has a problem](https://dev.to/george_gogidze_2bfb36969a/your-ai-sales-agent-has-a-problem-1j3d)
+- [⚖️ AI Is Transforming Legal Practice in Romania — Why Lawyers Who Ignore It Are Already Falling Behind](https://dev.to/cursuri-ai/ai-is-transforming-legal-practice-in-romania-why-lawyers-who-ignore-it-are-already-falling-1f6c)
+- [BullMQ + Node.js: Replace 50 Cron Jobs with Smart Queues](https://dev.to/_1353e04f14b156240b/bullmq-nodejs-replace-50-cron-jobs-with-smart-queues-3j3n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
