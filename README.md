@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Trust Capability Delegation for MCP Agents: How I Built AgentBond](https://dev.to/tvprasad/zero-trust-capability-delegation-for-mcp-agents-how-i-built-agentbond-4el1)
-- [How We Cut AI Infrastructure Costs by 80% for Enterprise Clients](https://dev.to/krunal_groovy/how-we-cut-ai-infrastructure-costs-by-80-for-enterprise-clients-24a7)
-- [I Open-Sourced Our Local SEO Data Collection Tool](https://dev.to/webpossible/i-open-sourced-our-local-seo-data-collection-tool-j54)
-- [9 MCP Resilience Patterns That Keep AI Agents Alive in Production &lpar;With Code&rpar;](https://dev.to/dohkoai/9-mcp-resilience-patterns-that-keep-ai-agents-alive-in-production-with-code-2ohi)
-- [Should we always use a hybrid encryption protocol to share information?](https://dev.to/nowi-security/should-we-always-use-a-hybrid-encryption-protocol-to-share-information-1h70)
+- [Running App Using Supervisorctl](https://dev.to/seno21/running-app-using-supervisorctl-9kh)
+- [I built a GUI-powered Userscript manager for faster userscript creation!](https://dev.to/orangishcat/i-built-a-gui-powered-userscript-manager-for-faster-userscript-creation-ebb)
+- [How to Publish a Paid API for AI Agents Using MCP and AgenticTrade](https://dev.to/judy_miranttie/how-to-publish-a-paid-api-for-ai-agents-using-mcp-and-agentictrade-4g94)
+- [Tool-Level Permission Scoping in MCP: Why Server Authentication Isn&#39;t Enough](https://dev.to/supertrained/tool-level-permission-scoping-in-mcp-why-server-authentication-isnt-enough-58ni)
+- [Java 24 is out, HTMX is rising, and the microservices rethink](https://dev.to/shaneshi_backend/java-24-is-out-htmx-is-rising-and-the-microservices-rethink-bpp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
