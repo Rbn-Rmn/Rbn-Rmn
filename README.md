@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Running App Using Supervisorctl](https://dev.to/seno21/running-app-using-supervisorctl-9kh)
-- [I built a GUI-powered Userscript manager for faster userscript creation!](https://dev.to/orangishcat/i-built-a-gui-powered-userscript-manager-for-faster-userscript-creation-ebb)
-- [How to Publish a Paid API for AI Agents Using MCP and AgenticTrade](https://dev.to/judy_miranttie/how-to-publish-a-paid-api-for-ai-agents-using-mcp-and-agentictrade-4g94)
-- [Tool-Level Permission Scoping in MCP: Why Server Authentication Isn&#39;t Enough](https://dev.to/supertrained/tool-level-permission-scoping-in-mcp-why-server-authentication-isnt-enough-58ni)
-- [Java 24 is out, HTMX is rising, and the microservices rethink](https://dev.to/shaneshi_backend/java-24-is-out-htmx-is-rising-and-the-microservices-rethink-bpp)
+- [String Polyfills and Common Interview Methods in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/string-polyfills-and-common-interview-methods-in-javascript-1g9m)
+- [The new Keyword in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/the-new-keyword-in-javascript-1e04)
+- [Callbacks in JavaScript: Why They Exist](https://dev.to/souvik_blog_b790df30e8dea/callbacks-in-javascript-why-they-exist-2glc)
+- [Template Literals in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/template-literals-in-javascript-3aaa)
+- [Array Flatten in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/array-flatten-in-javascript-32d3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
