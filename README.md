@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Day 3 - Added Security, Authentication and Jwt Tokens in REST API Project](https://dev.to/bharathdhana/day-3-added-security-authentication-and-jwt-tokens-in-rest-api-project-3kal)
-- [Debugging Filestash &#39;Invalid Account&#39;: How Response Time Led Me to a Swapped Config Field](https://dev.to/johnson998877/debugging-filestash-invalid-account-how-response-time-led-me-to-a-swapped-config-field-1opi)
-- [Cómo crear formularios en Strapi v5 con strapi-plugin-form-builder-cms](https://dev.to/devcluna/como-crear-formularios-en-strapi-v5-con-strapi-plugin-form-builder-cms-467d)
-- [I got tired of writing form backends. So I built an API for it.](https://dev.to/ishak_antar/i-got-tired-of-writing-form-backends-so-i-built-an-api-for-it-5e98)
-- [Mastering Data Integration in Power BI: Connecting Multiple Data Sources Step-by-Step](https://dev.to/gabriel_afolami_abf061134/mastering-data-integration-in-power-bi-connecting-multiple-data-sources-step-by-step-4698)
+- [easy-live2d v0.4.0: A Milestone Release for Live2D on the Web](https://dev.to/panzer_jack/easy-live2d-v040-a-milestone-release-for-live2d-on-the-web-1185)
+- [I built a database in France because the Cloud Act makes EU data sovereignty impossible](https://dev.to/wiscale-fr/i-built-a-database-in-france-because-the-cloud-act-makes-eu-data-sovereignty-impossible-5325)
+- [I Built a Reddit-Style Community for Stock Market Traders While Job Hunting — Here&#39;s What I Learned](https://dev.to/marketchacha/i-built-a-reddit-style-community-for-stock-market-traders-while-job-hunting-heres-what-i-learned-2ij8)
+- [We Run Claude Code on 10+ Branches Daily, So We Built a Workstation to Keep Up](https://dev.to/nixuuu/we-run-claude-code-on-10-branches-daily-so-we-built-a-workstation-to-keep-up-581a)
+- [Building a Google OAuth CLI in Rust with PKCE &lpar;and surviving the borrow checker&rpar;](https://dev.to/xetri/building-a-google-oauth-cli-in-rust-with-pkce-and-surviving-the-borrow-checker-3cij)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
