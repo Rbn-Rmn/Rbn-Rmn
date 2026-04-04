@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Build a Stunning &quot;About Us&quot; Page for Your Android App — OfficeAbout Library](https://dev.to/alexdevson/build-a-stunning-about-us-page-for-your-android-app-officeabout-library-35d5)
-- [I Built a Tool to Help Job Seekers Get Noticed on LinkedIn &lpar;Here’s What I Learned&rpar;](https://dev.to/muhammad_jahangeershams/i-built-a-tool-to-help-job-seekers-get-noticed-on-linkedin-heres-what-i-learned-4o3p)
-- [Agentic RAG: The Complete Production Guide Nobody Else Wrote](https://dev.to/jahanzaibai/agentic-rag-the-complete-production-guide-nobody-else-wrote-386o)
-- [DNS Troubleshooting Checklist: The 10-Step Process I Use for Every Client Call](https://dev.to/ciarn_doyle_32d63ba6797d/dns-troubleshooting-checklist-the-10-step-process-i-use-for-every-client-call-15dm)
-- [One Dev Built the AI Stack Directory That Actually Has Opinions](https://dev.to/teum/one-dev-built-the-ai-stack-directory-that-actually-has-opinions-2ipd)
+- [Spread vs Rest Operators in JavaScript](https://dev.to/kunal_dev/spread-vs-rest-operators-in-javascript-2m5d)
+- [Scaling the Safety Net: Our Journey into Phase 2 of Guidewire DevTrails 2026](https://dev.to/nehaav77/scaling-the-safety-net-our-journey-into-phase-2-of-guidewire-devtrails-2026-21l7)
+- [I Built a Subway Nutrition Calculator](https://dev.to/sambhav_tawar/i-built-a-subway-nutrition-calculator-1108)
+- [🚨 Elasticsearch High CPU Issue Due to Memory Pressure – Real Production Incident &amp; Fix](https://dev.to/alok_shankar/elasticsearch-high-cpu-issue-due-to-memory-pressure-real-production-incident-fix-3c8k)
+- [I Built a $15 Smart Home Controller &lpar;and Why Phones Are Bad Dashboards&rpar;](https://dev.to/ndygen/i-built-a-15-smart-home-controller-and-why-phones-are-bad-dashboards-2cff)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
