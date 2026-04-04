@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built a SaaS from India — here&#39;s day 22](https://dev.to/trylinkdrop/i-built-a-saas-from-india-heres-day-22-4maa)
-- [Beyond Chatbots: The Architecture of Agentic AI in Indian Hospitals](https://dev.to/tanvi_detroja/beyond-chatbots-the-architecture-of-agentic-ai-in-indian-hospitals-pcc)
-- [When the marginal cost of a habit reaches zero](https://dev.to/jmolinasoler/when-the-marginal-cost-of-a-habit-reaches-zero-40an)
-- [From Third-Party Agent to Claude Code Native: ClawSouls Plugin Launch](https://dev.to/tomleelive/from-third-party-agent-to-claude-code-native-clawsouls-plugin-launch-5e29)
-- [Vibe Coding: Revolution, Shortcut, or Just a Fancy Buzzword?](https://dev.to/akshat_uniyal/vibe-coding-revolution-shortcut-or-just-a-fancy-buzzword-1f41)
+- [Build a Stunning &quot;About Us&quot; Page for Your Android App — OfficeAbout Library](https://dev.to/alexdevson/build-a-stunning-about-us-page-for-your-android-app-officeabout-library-35d5)
+- [I Built a Tool to Help Job Seekers Get Noticed on LinkedIn &lpar;Here’s What I Learned&rpar;](https://dev.to/muhammad_jahangeershams/i-built-a-tool-to-help-job-seekers-get-noticed-on-linkedin-heres-what-i-learned-4o3p)
+- [Agentic RAG: The Complete Production Guide Nobody Else Wrote](https://dev.to/jahanzaibai/agentic-rag-the-complete-production-guide-nobody-else-wrote-386o)
+- [DNS Troubleshooting Checklist: The 10-Step Process I Use for Every Client Call](https://dev.to/ciarn_doyle_32d63ba6797d/dns-troubleshooting-checklist-the-10-step-process-i-use-for-every-client-call-15dm)
+- [One Dev Built the AI Stack Directory That Actually Has Opinions](https://dev.to/teum/one-dev-built-the-ai-stack-directory-that-actually-has-opinions-2ipd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
