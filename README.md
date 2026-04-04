@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [10 CLI Tools Every Developer Should Use with AI Coding Agents](https://dev.to/starmorph/10-cli-tools-every-developer-should-use-with-ai-coding-agents-2p17)
-- [Kubernetes - Argo-CD - Custom Installation](https://dev.to/12ww1160/kubernetes-argo-cd-custom-installation-5906)
-- [Everyone Suddenly Said “RAG is Dead”](https://dev.to/techwithhari/everyone-suddenly-said-rag-is-dead-2k37)
-- [Por qué migré mi asistente de IA de Claude a Qwen y Gemma esta mañana](https://dev.to/ctala/por-que-migre-mi-asistente-de-ia-de-claude-a-qwen-y-gemma-esta-manana-33e6)
-- [Confidently Wrong AI – The World&#39;s Most Useless Ad Algorithm](https://dev.to/shsarvagya19/confidently-wrong-ai-the-worlds-most-useless-ad-algorithm-18g0)
+- [Day 3 - Added Security, Authentication and Jwt Tokens in REST API Project](https://dev.to/bharathdhana/day-3-added-security-authentication-and-jwt-tokens-in-rest-api-project-3kal)
+- [Debugging Filestash &#39;Invalid Account&#39;: How Response Time Led Me to a Swapped Config Field](https://dev.to/johnson998877/debugging-filestash-invalid-account-how-response-time-led-me-to-a-swapped-config-field-1opi)
+- [Cómo crear formularios en Strapi v5 con strapi-plugin-form-builder-cms](https://dev.to/devcluna/como-crear-formularios-en-strapi-v5-con-strapi-plugin-form-builder-cms-467d)
+- [I got tired of writing form backends. So I built an API for it.](https://dev.to/ishak_antar/i-got-tired-of-writing-form-backends-so-i-built-an-api-for-it-5e98)
+- [Mastering Data Integration in Power BI: Connecting Multiple Data Sources Step-by-Step](https://dev.to/gabriel_afolami_abf061134/mastering-data-integration-in-power-bi-connecting-multiple-data-sources-step-by-step-4698)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
