@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [easy-live2d v0.4.0: A Milestone Release for Live2D on the Web](https://dev.to/panzer_jack/easy-live2d-v040-a-milestone-release-for-live2d-on-the-web-1185)
-- [I built a database in France because the Cloud Act makes EU data sovereignty impossible](https://dev.to/wiscale-fr/i-built-a-database-in-france-because-the-cloud-act-makes-eu-data-sovereignty-impossible-5325)
-- [I Built a Reddit-Style Community for Stock Market Traders While Job Hunting — Here&#39;s What I Learned](https://dev.to/marketchacha/i-built-a-reddit-style-community-for-stock-market-traders-while-job-hunting-heres-what-i-learned-2ij8)
-- [We Run Claude Code on 10+ Branches Daily, So We Built a Workstation to Keep Up](https://dev.to/nixuuu/we-run-claude-code-on-10-branches-daily-so-we-built-a-workstation-to-keep-up-581a)
-- [Building a Google OAuth CLI in Rust with PKCE &lpar;and surviving the borrow checker&rpar;](https://dev.to/xetri/building-a-google-oauth-cli-in-rust-with-pkce-and-surviving-the-borrow-checker-3cij)
+- [Architecture Is the Missing Layer in AI Harness Engineering](https://dev.to/inetgas/architecture-is-the-missing-layer-in-ai-harness-engineering-2d17)
+- [Building Production-Ready Agentic AI Systems for Enterprise Software Delivery](https://dev.to/khurram_bilal786/building-production-ready-agentic-ai-systems-for-enterprise-software-delivery-12je)
+- [I Tried to Automate a Manual Review Task with Claude. It Wasn&#39;t Worth It.](https://dev.to/alistairjcbrown/i-tried-to-automate-a-manual-review-task-with-claude-it-wasnt-worth-it-13m9)
+- [A color QR code on a physical medium — it actually reads!](https://dev.to/astra31415926/a-color-qr-code-on-a-physical-medium-it-actually-reads-3lhj)
+- [I Built an AI That Speaks Fluent LinkedIn &lpar;And It&#39;s Terrifying&rpar;](https://dev.to/avgskully/i-built-an-ai-that-speaks-fluent-linkedin-and-its-terrifying-25a7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
