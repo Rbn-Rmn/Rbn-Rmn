@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [String Polyfills and Common Interview Methods in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/string-polyfills-and-common-interview-methods-in-javascript-1g9m)
-- [The new Keyword in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/the-new-keyword-in-javascript-1e04)
-- [Callbacks in JavaScript: Why They Exist](https://dev.to/souvik_blog_b790df30e8dea/callbacks-in-javascript-why-they-exist-2glc)
-- [Template Literals in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/template-literals-in-javascript-3aaa)
-- [Array Flatten in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/array-flatten-in-javascript-32d3)
+- [VonCMS v1.22 Preview](https://dev.to/vondereich/voncms-v122-preview-55ae)
+- [Cursor vs Claude Code vs GitHub Copilot — Which AI Coding Tool Is Actually Worth It?](https://dev.to/tyson_cung/cursor-vs-claude-code-vs-github-copilot-which-ai-coding-tool-is-actually-worth-it-4p78)
+- [What is a Function? Simple Explanation with Examples](https://dev.to/subash_4870e66d76ac024544/what-is-a-function-simple-explanation-with-examples-2f50)
+- [5 Critical Failures We Hit Shipping a Multi-Tenant RAG Chatbot to 500+ Enterprises](https://dev.to/ayanarshad02/we-shipped-a-rag-chatbot-to-500-enterprise-tenants-heres-what-actually-broke-first-1jia)
+- [Introduction to DHI](https://dev.to/danielcristho/introduction-to-dhi-1ncp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
