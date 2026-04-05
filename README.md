@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Valkey vs. Redis for Laravel Caching and Queues: What You Need to Know](https://dev.to/deploynix/valkey-vs-redis-for-laravel-caching-and-queues-what-you-need-to-know-3653)
-- [They Forced a Junior to Use AI. Then Fired Him for the Bugs It Wrote.](https://dev.to/gabrielanhaia/they-forced-a-junior-to-use-ai-then-fired-him-for-the-bugs-it-wrote-407k)
-- [my pc was such a mess with projects scattered everywhere so i built a tool to organize everything](https://dev.to/relax-i0/my-pc-was-such-a-mess-with-projects-scattered-everywhere-so-i-built-a-tool-to-organize-everything-je9)
-- [captio](https://dev.to/__4f93f2e8d8dea1d/captio-4mpo)
-- [Building an Agentic Access-Aware RAG System with Amazon FSx for NetApp ONTAP, S3 Vectors, and S3 Access Points— Where AI Respects File Permissions](https://dev.to/aws-builders/building-an-agentic-access-aware-rag-system-with-amazon-fsx-for-netapp-ontap-s3-vectors-and-s3-2b86)
+- [Design Cost-Optimized Compute Solutions](https://dev.to/aws-builders/design-cost-optimized-compute-solutions-b6)
+- [CodeClone b4: from CLI tool to a real review surface for VS Code, Claude Desktop, and Codex](https://dev.to/orenlab/codeclone-b4-from-cli-tool-to-a-real-review-surface-for-vs-code-claude-desktop-and-codex-150c)
+- [KVerify: A Two-Year Journey to Get Validation Right](https://dev.to/tessoir/kverify-a-two-year-journey-to-get-validation-right-4h8o)
+- [Dark Dish Lab: A Cursed Recipe Generator](https://dev.to/zoe_lin_0653/dark-dish-lab-a-cursed-recipe-generator-4lj1)
+- [Getting Data from Multiple Sources in PowerBI: A Practical Guide to Modern Data Integration](https://dev.to/atinuke77/getting-data-from-multiple-sources-in-powerbi-a-practical-guide-to-modern-data-integration-2b9p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
