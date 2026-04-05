@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Stop Losing Users to Slow Loads: A Developer’s Guide to Core Web Vitals in 2026](https://dev.to/craftedmarketing/stop-losing-users-to-slow-loads-a-developers-guide-to-core-web-vitals-in-2026-4fb8)
-- [How I Digitized Years of Home Videos and Photos with Immich](https://dev.to/max_wheeler_136997c4effbd/how-i-digitized-years-of-home-videos-and-photos-with-immich-2035)
-- [Complete Guide to MCP &lpar;Model Context Protocol&rpar; in 2026 — Architecture, Implementation, and Enterprise Roadmap](https://dev.to/x4nent/complete-guide-to-mcp-model-context-protocol-in-2026-architecture-implementation-and-4a11)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-54gc)
-- [Accelerating TURN with eBPF: A Non-Invasive Approach](https://dev.to/ivan-m-tech/accelerating-turn-with-ebpf-a-non-invasive-approach-ed1)
+- [arquitectura?](https://dev.to/andrearines/arquitectura-4c7a)
+- [Unlocking Web3&#39;s Potential: Why No-Code Platforms Are the Future of Decentralized Development](https://dev.to/yse_nft_c793979c5e2cc0316/unlocking-web3s-potential-why-no-code-platforms-are-the-future-of-decentralized-development-5gg6)
+- [How to Check If AI Search Engines Cite Your Brand &lpar;Free Open-Source Tool&rpar;](https://dev.to/mzl9039/how-to-check-if-ai-search-engines-cite-your-brand-free-open-source-tool-3i1o)
+- [[Boost]](https://dev.to/david_bilsonn/-12ce)
+- [Criei um gerenciador de pacotes para Linux.](https://dev.to/willianthdr/criei-um-gerenciador-de-pacotes-para-linux-2h6c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
