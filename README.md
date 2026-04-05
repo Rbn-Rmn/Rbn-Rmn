@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Cost API Infrastructure: Running a DaaS Business on an Idle Server](https://dev.to/tagg_dev/zero-cost-api-infrastructure-running-a-daas-business-on-an-idle-server-fac)
-- [The Real Ceiling in Claude Code&#39;s Memory System &lpar;It’s Not the 200-Line Cap&rpar;](https://dev.to/penfieldlabs/the-real-ceiling-in-claude-codes-memory-system-its-not-the-200-line-cap-2cbl)
-- [XYRONIX](https://dev.to/mohitscodiclab/xyronix-4j4d)
-- [# Understanding Data Modeling in PowerBI: Joins, Relationship and Schemas.](https://dev.to/nyamatari_brian_c41e0c389/-understanding-data-modeling-in-powerbi-joins-relationship-and-schemas-1imn)
-- [Understanding Scope, Hoisting, and Closures like a Pro!](https://dev.to/rafsan-jany-ratul/understanding-scope-hoisting-and-closures-like-a-pro-152h)
+- [I Built a Cross-Platform Price Comparison Tool for Retail Arbitrage](https://dev.to/_350df62777eb55e1/i-built-a-cross-platform-price-comparison-tool-for-retail-arbitrage-5fpc)
+- [I built a CLI to test Tauri apps because nothing else worked](https://dev.to/mpiton/i-built-a-cli-to-test-tauri-apps-because-nothing-else-worked-3915)
+- [What does it really cost to become a DevOps engineer? Getting started in DevOps without spending a dime](https://dev.to/durrello/what-does-it-really-cost-to-become-a-devops-engineer-getting-started-in-devops-without-spending-a-1p0a)
+- [The Conformation](https://dev.to/thesythesis/the-conformation-2g8o)
+- [Automating Roadmap.sh into NotebookLM](https://dev.to/waseemaldmeiri/automating-roadmapsh-into-notebooklm-132i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
