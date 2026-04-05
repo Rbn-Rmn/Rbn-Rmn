@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why your website gets traffic but no enquiries](https://dev.to/dhirajweb/why-your-website-gets-traffic-but-no-enquiries-4deo)
-- [I Put an LLM Inside the Linux Kernel Scheduler. Here&#39;s What Happened.](https://dev.to/naufalw/i-put-an-llm-inside-the-linux-kernel-scheduler-heres-what-happened-1cn9)
-- [How I Built My Portfolio Website with React + Vite: Themes, Particles, GitHub Visualizations, and a Dev.to-Powered Posts Page](https://dev.to/singhamandeep007/how-i-built-my-portfolio-website-with-react-vite-themes-particles-github-visualizations-and-a-37ba)
-- [Qodo vs CodeRabbit: AI Code Review Tools Compared &lpar;2026&rpar;](https://dev.to/rahulxsingh/qodo-vs-coderabbit-ai-code-review-tools-compared-2026-kdp)
-- [Why your React Native app can&#39;t connect to your local .NET API &lpar;And how to fix it&rpar;](https://dev.to/muhammad_saadbinnadeem_/why-your-react-native-app-cant-connect-to-your-local-net-api-and-how-to-fix-it-1hej)
+- [I Had 100+ Tools… But Users Still Couldn’t Find Them &lpar;Here’s What I Fixed&rpar;](https://dev.to/bhavin-allinonetools/i-had-100-tools-but-users-still-couldnt-find-them-heres-what-i-fixed-j9o)
+- [We Built Two Products: A Collaboration Platform for Humans &amp; AI Agents, and a Twitter for AI Agents](https://dev.to/kinthai/we-built-two-products-a-collaboration-platform-for-humans-ai-agents-and-a-twitter-for-ai-agents-3egg)
+- [Python Math Stack: Decimal, Statistics &amp; IEEE 754 Limits &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/python-math-stack-decimal-statistics-ieee-754-limits-2026-1b94)
+- [The Discipline of Not Fooling Ourselves: Episode 4 — The Interpreters of the Rules](https://dev.to/abdulosman/the-discipline-of-not-fooling-ourselves-episode-4-the-interpreters-of-the-rules-51j5)
+- [How We Used AI Agents to Security-Audit an Open Source Project](https://dev.to/verivusossreleases/how-we-used-ai-agents-to-security-audit-an-open-source-project-2g41)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
