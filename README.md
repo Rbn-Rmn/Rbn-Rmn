@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [arquitectura?](https://dev.to/andrearines/arquitectura-4c7a)
-- [Unlocking Web3&#39;s Potential: Why No-Code Platforms Are the Future of Decentralized Development](https://dev.to/yse_nft_c793979c5e2cc0316/unlocking-web3s-potential-why-no-code-platforms-are-the-future-of-decentralized-development-5gg6)
-- [How to Check If AI Search Engines Cite Your Brand &lpar;Free Open-Source Tool&rpar;](https://dev.to/mzl9039/how-to-check-if-ai-search-engines-cite-your-brand-free-open-source-tool-3i1o)
-- [[Boost]](https://dev.to/david_bilsonn/-12ce)
-- [Criei um gerenciador de pacotes para Linux.](https://dev.to/willianthdr/criei-um-gerenciador-de-pacotes-para-linux-2h6c)
+- [How We Scaled Quran.com to 50M Monthly Users: Architecture Lessons From the Inside](https://dev.to/mzunain/how-we-scaled-qurancom-to-50m-monthly-users-architecture-lessons-from-the-inside-i33)
+- [[Beginner] Docker Tutorial for jetson-containers on Jetson AGX Orin](https://dev.to/vonusma/beginner-docker-tutorial-for-jetson-containers-on-jetson-agx-orin-5bl8)
+- [Um resumo sobre Fake Delay – Protegendo contra User Enumeration](https://dev.to/determinado96/um-resumo-sobre-fake-delay-protegendo-contra-user-enumeration-4b1f)
+- [Two Kinds of AI Agents &lpar;And Why You Need Both&rpar;](https://dev.to/bo_romir/two-kinds-of-ai-agents-and-why-you-need-both-3158)
+- [React 19 use&lpar;&rpar; Hook: Guide to Promises and Context](https://dev.to/rahulxsingh/react-19-use-hook-guide-to-promises-and-context-395h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
