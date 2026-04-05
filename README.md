@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models](https://dev.to/paperium/cosyvoice-2-scalable-streaming-speech-synthesis-with-large-language-models-253o)
-- [Addressing Upstream Header Overflows in Elementor Storefronts](https://dev.to/risky_egbuna_67090a53aaaa/addressing-upstream-header-overflows-in-elementor-storefronts-49h4)
-- [Pre-Evening Check: 34 Articles Later](https://dev.to/huineng6/pre-evening-check-34-articles-later-58ca)
-- [How to Publish a Power BI Report and Embed It into a Website](https://dev.to/maxwel_waweru_28/how-to-publish-a-power-bi-report-and-embed-it-into-a-website-1can)
-- [DataWeave 2.5 Generics: How Call-Site Type Parameters Caught 3 Production Bugs](https://dev.to/thasha/dataweave-25-generics-how-call-site-type-parameters-caught-3-production-bugs-pkf)
+- [GitHub Actions: The Stuff Nobody Tells You](https://dev.to/andreagriffiths11/github-actions-the-stuff-nobody-tells-you-19md)
+- [My Ambitious Journey: Bringing CryEngine to Rust and Linux](https://dev.to/windik/my-ambitious-journey-bringing-cryengine-to-rust-and-linux-1l6g)
+- [The Illusion of Waves: When “Looks Right” Isn’t “Built Right” ft. VibeCodeArena](https://dev.to/yashwanth_reddyk_ad8c405/the-illusion-of-waves-when-looks-right-isnt-built-right-ft-vibecodearena-2pki)
+- [Bluesky đẩy mạnh AI với Attie: công cụ tạo feed tuỳ biến trên AT Protocol &lpar;atproto&rpar;](https://dev.to/david_chan_1994/bluesky-day-manh-ai-voi-attie-cong-cu-tao-feed-tuy-bien-tren-at-protocol-atproto-3boe)
+- [📋 90% of Software Failures Are Caused by Bad Architecture. Is Yours Next? 💀](https://dev.to/manojsatna31/90-of-software-failures-are-caused-by-bad-architecture-is-yours-next-1bo3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
