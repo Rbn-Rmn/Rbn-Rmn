@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Run Open Source AI Models with Docker Model Runner](https://dev.to/sreeni5018/run-open-source-ai-modelswith-docker-model-runner-5hei)
-- [Claude Code debugging: how to make AI find bugs you&#39;ve been chasing for hours](https://dev.to/subprime2010/claude-code-debugging-how-to-make-ai-find-bugs-youve-been-chasing-for-hours-15bm)
-- [AI memory is broken. We built one that forgets.](https://dev.to/highpass_studio_382ce5641/ai-memory-is-broken-we-built-one-that-forgets-dmc)
-- [How to secure MCP tools on AWS for AI agents with authentication, authorization, and least privilege](https://dev.to/aws-builders/how-to-secure-mcp-tools-on-aws-for-ai-agents-with-authentication-authorization-and-least-privilege-50ea)
-- [The Flat Subscription Problem: Why Agents Break AI Pricing](https://dev.to/piiiico/the-flat-subscription-problem-why-agents-break-ai-pricing-h1j)
+- [Building a Global Narrative Warfare Map with Bright Data, Tavily, Ollama, React, and Three.js](https://dev.to/harishkotra/building-a-global-narrative-warfare-map-with-bright-data-tavily-ollama-react-and-threejs-2g9o)
+- [PostgreSQL Internals: Inside the Storage Engine](https://dev.to/priteshsurana/postgresql-internals-inside-the-storage-engine-1bhm)
+- [🖐️ I Built a Fun iPhone App Inspired by SlapMac — Now You Can *Slap Your Phone*](https://dev.to/slap_phone_slaphone/i-built-a-ridiculously-fun-app-that-lets-you-slap-your-phone-and-it-slaps-back-29nk)
+- [A Vectorless RAG System for Smarter Document Intelligence](https://dev.to/ranjancse/a-vectorless-rag-system-for-smarter-document-intelligence-4o5g)
+- [How a Database Really Works Underneath](https://dev.to/nodedb/how-a-database-really-works-underneath-27g0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
