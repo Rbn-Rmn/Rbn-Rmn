@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [🚀Playwright vs Selenium in 2026: The Ultimate Guide for Modern Test Automation](https://dev.to/ankitaloni369/playwright-vs-selenium-in-2026-the-ultimate-guide-for-modern-test-automation-1bc6)
-- [Building a Decentralized Mesh Network in Rust — Lessons from the Global South](https://dev.to/phantomojo/building-a-decentralized-mesh-network-in-rust-lessons-from-the-global-south-k44)
-- [100 C# Tips I Wish I Knew Earlier &lpar;Part 1&rpar;](https://dev.to/troymiller824/100-c-tips-i-wish-i-knew-earlier-part-1-4o35)
-- [Socratic AI: how I learned formal grammars &lpar;and built a compiler&rpar; without losing control of what I was building](https://dev.to/lucabro/socratic-ai-how-i-learned-formal-grammars-and-built-a-compiler-without-losing-control-of-what-i-41hj)
-- [Shielding Your LLMs: A Deep Dive into Prompt Injection &amp; Jailbreak Defense](https://dev.to/programmingcentral/shielding-your-llms-a-deep-dive-into-prompt-injection-jailbreak-defense-590p)
+- [Stop Losing Users to Slow Loads: A Developer’s Guide to Core Web Vitals in 2026](https://dev.to/craftedmarketing/stop-losing-users-to-slow-loads-a-developers-guide-to-core-web-vitals-in-2026-4fb8)
+- [How I Digitized Years of Home Videos and Photos with Immich](https://dev.to/max_wheeler_136997c4effbd/how-i-digitized-years-of-home-videos-and-photos-with-immich-2035)
+- [Complete Guide to MCP &lpar;Model Context Protocol&rpar; in 2026 — Architecture, Implementation, and Enterprise Roadmap](https://dev.to/x4nent/complete-guide-to-mcp-model-context-protocol-in-2026-architecture-implementation-and-4a11)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-54gc)
+- [Accelerating TURN with eBPF: A Non-Invasive Approach](https://dev.to/ivan-m-tech/accelerating-turn-with-ebpf-a-non-invasive-approach-ed1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
