@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Recursive PII Masking in DataWeave: One Function for Any Depth &lpar;and the Null Trap&rpar;](https://dev.to/thasha/recursive-pii-masking-in-dataweave-one-function-for-any-depth-and-the-null-trap-3dka)
-- [I Built a YouTube Watch-Together Extension in a Day](https://dev.to/rocky_singh/i-built-a-youtube-watch-together-extension-in-a-day-59l9)
-- [I was burning through AI tokens without realizing it. Here&#39;s how I fixed it.](https://dev.to/sergioramosv/i-was-burning-through-ai-tokens-without-realizing-it-heres-how-i-fixed-it-bn)
-- [Event-Driven Architecture&lpar;EDA&rpar; — An Overview](https://dev.to/mangesh_walimbe/event-driven-architectureeda-an-overview-2a1p)
-- [setup config.py](https://dev.to/thisisnihal/setup-configpy-5dbg)
+- [Valkey vs. Redis for Laravel Caching and Queues: What You Need to Know](https://dev.to/deploynix/valkey-vs-redis-for-laravel-caching-and-queues-what-you-need-to-know-3653)
+- [They Forced a Junior to Use AI. Then Fired Him for the Bugs It Wrote.](https://dev.to/gabrielanhaia/they-forced-a-junior-to-use-ai-then-fired-him-for-the-bugs-it-wrote-407k)
+- [my pc was such a mess with projects scattered everywhere so i built a tool to organize everything](https://dev.to/relax-i0/my-pc-was-such-a-mess-with-projects-scattered-everywhere-so-i-built-a-tool-to-organize-everything-je9)
+- [captio](https://dev.to/__4f93f2e8d8dea1d/captio-4mpo)
+- [Building an Agentic Access-Aware RAG System with Amazon FSx for NetApp ONTAP, S3 Vectors, and S3 Access Points— Where AI Respects File Permissions](https://dev.to/aws-builders/building-an-agentic-access-aware-rag-system-with-amazon-fsx-for-netapp-ontap-s3-vectors-and-s3-2b86)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
