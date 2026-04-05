@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building a Global Narrative Warfare Map with Bright Data, Tavily, Ollama, React, and Three.js](https://dev.to/harishkotra/building-a-global-narrative-warfare-map-with-bright-data-tavily-ollama-react-and-threejs-2g9o)
-- [PostgreSQL Internals: Inside the Storage Engine](https://dev.to/priteshsurana/postgresql-internals-inside-the-storage-engine-1bhm)
-- [🖐️ I Built a Fun iPhone App Inspired by SlapMac — Now You Can *Slap Your Phone*](https://dev.to/slap_phone_slaphone/i-built-a-ridiculously-fun-app-that-lets-you-slap-your-phone-and-it-slaps-back-29nk)
-- [A Vectorless RAG System for Smarter Document Intelligence](https://dev.to/ranjancse/a-vectorless-rag-system-for-smarter-document-intelligence-4o5g)
-- [How a Database Really Works Underneath](https://dev.to/nodedb/how-a-database-really-works-underneath-27g0)
+- [Why your website gets traffic but no enquiries](https://dev.to/dhirajweb/why-your-website-gets-traffic-but-no-enquiries-4deo)
+- [I Put an LLM Inside the Linux Kernel Scheduler. Here&#39;s What Happened.](https://dev.to/naufalw/i-put-an-llm-inside-the-linux-kernel-scheduler-heres-what-happened-1cn9)
+- [How I Built My Portfolio Website with React + Vite: Themes, Particles, GitHub Visualizations, and a Dev.to-Powered Posts Page](https://dev.to/singhamandeep007/how-i-built-my-portfolio-website-with-react-vite-themes-particles-github-visualizations-and-a-37ba)
+- [Qodo vs CodeRabbit: AI Code Review Tools Compared &lpar;2026&rpar;](https://dev.to/rahulxsingh/qodo-vs-coderabbit-ai-code-review-tools-compared-2026-kdp)
+- [Why your React Native app can&#39;t connect to your local .NET API &lpar;And how to fix it&rpar;](https://dev.to/muhammad_saadbinnadeem_/why-your-react-native-app-cant-connect-to-your-local-net-api-and-how-to-fix-it-1hej)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
