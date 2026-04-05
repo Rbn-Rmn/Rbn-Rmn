@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Master-Class: Understanding Database Replication &lpar;Single, Multi, and Leaderless&rpar;](https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm)
-- [How I Built a Production Observability Stack — And Broke It Twice Before It Worked](https://dev.to/roshan_ican/how-i-built-a-production-observability-stack-and-broke-it-twice-before-it-worked-4oce)
-- [Hexagonal Architecture in Python: Wiring Adapters, Dependency Injection, and the Application Layer](https://dev.to/elpic/hexagonal-architecture-in-python-wiring-adapters-dependency-injection-and-the-application-layer-61l)
-- [Vibe Coding Is Dead. Orchestration Is What Comes Next.](https://dev.to/aiforwork/vibe-coding-is-dead-orchestration-is-what-comes-next-1h64)
-- [Unlocking the Depths of Acting: A Journey Through Methodologies](https://dev.to/anak_wannaphaschaiyong_11/unlocking-the-depths-of-acting-a-journey-through-methodologies-2phk)
+- [How to Self-Host n8n with Docker — AI Workflow Automation Guide 2026](https://dev.to/jangwook_kim_e31e7291ad98/how-to-self-host-n8n-with-docker-ai-workflow-automation-guide-2026-3lec)
+- [Why Senior Engineers Are Quietly Moving Away from Microservices &lpar;And Back to Monoliths&rpar;](https://dev.to/pramod_kumar_0820/why-senior-engineers-are-quietly-moving-away-from-microservices-and-back-to-monoliths-3khk)
+- [How We Built a Company Powered by 14 AI Agents Using Paperclip](https://dev.to/jangwook_kim_e31e7291ad98/how-we-built-a-company-powered-by-14-ai-agents-using-paperclip-4bg6)
+- [Top 15 MCP Servers Every Developer Should Install in 2026](https://dev.to/jangwook_kim_e31e7291ad98/top-15-mcp-servers-every-developer-should-install-in-2026-3ak2)
+- [PWC 367 Overlapping Oddities](https://dev.to/boblied/pwc-367-oddity-ln3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
