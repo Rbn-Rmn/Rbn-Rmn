@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Stop paying the Goldfish Tax: Why your agent&#39;s memory is a massive waste of money](https://dev.to/vektor_memory_43f51a32376/stop-paying-the-goldfish-tax-why-your-agents-memory-is-a-massive-waste-of-money-4go0)
-- [Zuckerberg Is Writing Code Again. With Claude Code.](https://dev.to/monkfromearth/zuckerberg-is-writing-code-again-with-claude-code-26b1)
-- [I built an API that converts any webpage to clean Markdown in under 1 second](https://dev.to/filtede98/i-built-an-api-that-converts-any-webpage-to-clean-markdown-in-under-1-second-3p5m)
-- [🚀 Java Streams – Separate Even &amp; Odd Numbers in One Line! Ever wondered how to split a list into even and odd numbers using Java Streams?](https://dev.to/prk0906/java-streams-separate-even-odd-numbers-in-one-line-ever-wondered-how-to-split-a-list-into-2l7j)
-- [Why your AI agents have goldfish syndrome —and how I fixed it with a memory graph](https://dev.to/vektor_memory_43f51a32376/why-your-ai-agents-have-goldfish-syndrome-and-how-i-fixed-it-with-a-memory-graph-1peo)
+- [CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models](https://dev.to/paperium/cosyvoice-2-scalable-streaming-speech-synthesis-with-large-language-models-253o)
+- [Addressing Upstream Header Overflows in Elementor Storefronts](https://dev.to/risky_egbuna_67090a53aaaa/addressing-upstream-header-overflows-in-elementor-storefronts-49h4)
+- [Pre-Evening Check: 34 Articles Later](https://dev.to/huineng6/pre-evening-check-34-articles-later-58ca)
+- [How to Publish a Power BI Report and Embed It into a Website](https://dev.to/maxwel_waweru_28/how-to-publish-a-power-bi-report-and-embed-it-into-a-website-1can)
+- [DataWeave 2.5 Generics: How Call-Site Type Parameters Caught 3 Production Bugs](https://dev.to/thasha/dataweave-25-generics-how-call-site-type-parameters-caught-3-production-bugs-pkf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
