@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Cross-Platform Price Comparison Tool for Retail Arbitrage](https://dev.to/_350df62777eb55e1/i-built-a-cross-platform-price-comparison-tool-for-retail-arbitrage-5fpc)
-- [I built a CLI to test Tauri apps because nothing else worked](https://dev.to/mpiton/i-built-a-cli-to-test-tauri-apps-because-nothing-else-worked-3915)
-- [What does it really cost to become a DevOps engineer? Getting started in DevOps without spending a dime](https://dev.to/durrello/what-does-it-really-cost-to-become-a-devops-engineer-getting-started-in-devops-without-spending-a-1p0a)
-- [The Conformation](https://dev.to/thesythesis/the-conformation-2g8o)
-- [Automating Roadmap.sh into NotebookLM](https://dev.to/waseemaldmeiri/automating-roadmapsh-into-notebooklm-132i)
+- [Stop paying the Goldfish Tax: Why your agent&#39;s memory is a massive waste of money](https://dev.to/vektor_memory_43f51a32376/stop-paying-the-goldfish-tax-why-your-agents-memory-is-a-massive-waste-of-money-4go0)
+- [Zuckerberg Is Writing Code Again. With Claude Code.](https://dev.to/monkfromearth/zuckerberg-is-writing-code-again-with-claude-code-26b1)
+- [I built an API that converts any webpage to clean Markdown in under 1 second](https://dev.to/filtede98/i-built-an-api-that-converts-any-webpage-to-clean-markdown-in-under-1-second-3p5m)
+- [🚀 Java Streams – Separate Even &amp; Odd Numbers in One Line! Ever wondered how to split a list into even and odd numbers using Java Streams?](https://dev.to/prk0906/java-streams-separate-even-odd-numbers-in-one-line-ever-wondered-how-to-split-a-list-into-2l7j)
+- [Why your AI agents have goldfish syndrome —and how I fixed it with a memory graph](https://dev.to/vektor_memory_43f51a32376/why-your-ai-agents-have-goldfish-syndrome-and-how-i-fixed-it-with-a-memory-graph-1peo)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
