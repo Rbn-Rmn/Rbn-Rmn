@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of switching between 10 tabs while debugging… so I built this](https://dev.to/jyosh0812/i-got-tired-of-switching-between-10-tabs-while-debugging-so-i-built-this-f9a)
-- [I Built 6 Free SEO Tools in One Day — Here&#39;s What I Learned](https://dev.to/jim_l_efc70c3a738e9f4baa7/i-built-6-free-seo-tools-in-one-day-heres-what-i-learned-4gh6)
-- [Claude Code git workflows: branches, commits, and rollbacks without leaving your terminal](https://dev.to/subprime2010/claude-code-git-workflows-branches-commits-and-rollbacks-without-leaving-your-terminal-p0)
-- [Bypassing Apple&#39;s Anti-Bot Systems: The Ultimate Guide to App Store Scraping](https://dev.to/datakaz/bypassing-apples-anti-bot-systems-the-ultimate-guide-to-app-store-scraping-3l56)
-- [Deploying Backstage on Kubernetes with the Helm Chart: What the README Doesn&#39;t Tell You](https://dev.to/sodiqjimoh/deploying-backstage-on-kubernetes-with-the-helm-chart-what-the-readme-doesnt-tell-you-26ai)
+- [Building infection-protocol-lab: A Full-Stack Multi-Agent Simulation with TypeScript, LangChain, and ReactFlow](https://dev.to/harishkotra/building-infection-protocol-lab-a-full-stack-multi-agent-simulation-with-typescript-langchain-2d8k)
+- [Why Polars is Faster Than Pandas &lpar;10Million Row Study&rpar;](https://dev.to/rakshath/why-polars-is-faster-than-pandas-10million-row-study-55b8)
+- [El vibe coding funciona para apps web. En motores de juegos, se rompe.](https://dev.to/ziva/el-vibe-coding-funciona-para-apps-web-en-motores-de-juegos-se-rompe-5j9)
+- [Inside Claude: What Makes Anthropic&#39;s AI Different?](https://dev.to/jasrandhawa/inside-claude-what-makes-anthropics-ai-different-2amo)
+- [Day 63 of #100DaysOfCode — Python Refresher Part 3 + Introduction to Apps in Django](https://dev.to/m_saad_ahmad/day-63-of-100daysofcode-python-refresher-part-3-introduction-to-apps-in-django-23gb)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
