@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Agent Harness: Turning AI Slop Into Shipping Software](https://dev.to/tacoda/the-agent-harness-turning-ai-slop-into-shipping-software-589i)
-- [How HookProbe Detects CVE-2026-3502 &lpar;TrueConf Client&rpar;](https://dev.to/hookprobe/how-hookprobe-detects-cve-2026-3502-trueconf-client-4h10)
-- [I Built a Screenshot API from Tbilisi — 50 Users, 9 Paying, Here&#39;s Everything I Learned](https://dev.to/sleywill_45/i-built-a-screenshot-api-from-tbilisi-50-users-9-paying-heres-everything-i-learned-jf4)
-- [DeFi Security Weekly: Privacy Under Attack, Wallet Vulnerabilities, and Infrastructure Trust Crisis](https://dev.to/aaron_guo/defi-security-weekly-privacy-under-attack-wallet-vulnerabilities-and-infrastructure-trust-crisis-50gb)
-- [Empowering the Invisible: Building a Secure AI Insurance Agent with Auth0 Token Vault](https://dev.to/nicolemos56/empowering-the-invisible-building-a-secure-ai-insurance-agent-with-auth0-token-vault-3imn)
+- [Auto Path Header: context for the developer and AI directly in the file](https://dev.to/niklis_09ce077c405174f856/auto-path-header-context-for-the-developer-and-ai-directly-in-the-file-cfl)
+- [Why &quot;Optimize Your Images&quot; Is Bad Advice](https://dev.to/igorgridel/why-optimize-your-images-is-bad-advice-5oj)
+- [CipherKit](https://dev.to/karthick_ajan/cipherkit-5h2i)
+- [Math cheatsheet before you deep-dive into ZK](https://dev.to/0xluk3/math-cheatsheet-before-you-deep-dive-into-zk-1bo6)
+- [Im looking for indie apps and tools built by solo developers, their stories and perspectives for a newsletter I’m starting. If you know a solo maker or use an overlooked gem built by one please let me know! 🙏](https://dev.to/valeriavg/im-looking-for-indie-apps-and-tools-built-by-solo-developers-their-stories-and-perspectives-for-a-3lhh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
