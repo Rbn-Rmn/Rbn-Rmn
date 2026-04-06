@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from Google Analytics to Privacy-First Alternatives in 2026](https://dev.to/alanwest/migrating-from-google-analytics-to-privacy-first-alternatives-in-2026-1m5b)
-- [How We Built a Card Game Platform with 3 Million Players &lpar;and What We Learned&rpar;](https://dev.to/ace_rei/how-we-built-a-card-game-platform-with-3-million-players-and-what-we-learned-mj0)
-- [Is Your Website Blocking AI Crawlers? Check with This Free Robots.txt Analyzer](https://dev.to/manja316/is-your-website-blocking-ai-crawlers-check-with-this-free-robotstxt-analyzer-3pg4)
-- [requestAnimationFrame vs requestIdleCallback](https://dev.to/dhwang/requestanimationframe-vs-requestidlecallback-1m8c)
-- [The Cartographer’s Confession: How PostGIS Turned Me from a SQL Hack into a Spatial Artist](https://dev.to/alex_aslam/the-cartographers-confession-how-postgis-turned-me-from-a-sql-hack-into-a-spatial-artist-2jo)
+- [ClaudeOps — A New Practice for Embedding Claude into Your Operations](https://dev.to/okojoalg/claudeops-a-new-practice-for-embedding-claude-into-your-operations-iak)
+- [Git Worktrees + Headless AI Sessions: A Pattern for Parallel Code Generation](https://dev.to/edwardkubiak/git-worktrees-headless-ai-sessions-a-pattern-for-parallel-code-generation-2i5)
+- [BeautifulSoup vs Scrapy: The Architect’s Guide to Python Scraping](https://dev.to/onlineproxy_io/beautifulsoup-vs-scrapy-the-architects-guide-to-python-scraping-eef)
+- [Eager loading associations related to user](https://dev.to/francisco-regalado/eager-loading-associations-related-to-user-3a04)
+- [Docker environment for Laravel/Statamic package development](https://dev.to/vincentbean/docker-environment-for-laravelstatamic-package-development-6en)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
