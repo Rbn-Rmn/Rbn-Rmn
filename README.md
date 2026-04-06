@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Best Agent Memory APIs in 2026: A Practitioner&#39;s Comparison](https://dev.to/adam_cipher/best-agent-memory-apis-in-2026-a-practitioners-comparison-f8j)
-- [The MCP Transparency Problem: When Your Agent Can&#39;t Show Its Work](https://dev.to/arkforge-ceo/the-mcp-transparency-problem-when-your-agent-cant-show-its-work-3mg0)
-- [Running Gemma 4 next to your agent runtime: notes from a small shop](https://dev.to/rapidclaw/running-gemma-3-next-to-your-agent-runtime-notes-from-a-small-shop-c79)
-- [The FOSS Path to Digital Sovereignty](https://dev.to/asathyajith/the-foss-path-to-digital-sovereignty-1g3f)
-- [Semgrep CLI Tutorial: Installation and First Scan](https://dev.to/rahulxsingh/semgrep-cli-tutorial-installation-and-first-scan-565)
+- [Claude Code 101: Introduction to Agentic Programming](https://dev.to/rsicarelli/claude-code-101-introduction-to-agentic-programming-3p83)
+- [Real-time emotion detection from webcam — no wearables needed](https://dev.to/emopulse/real-time-emotion-detection-from-webcam-no-wearables-needed-d9i)
+- [A Laravel Developer&#39;s Production Security Checklist &lpar;2026 Edition&rpar;](https://dev.to/deploynix/a-laravel-developers-production-security-checklist-2026-edition-406c)
+- [How to Write Custom Semgrep Rules: Complete Tutorial](https://dev.to/rahulxsingh/how-to-write-custom-semgrep-rules-complete-tutorial-49o2)
+- [Cloud Observability vs Monitoring: What&#39;s the Difference and Why It Matters](https://dev.to/muskan_8abedcc7e12/cloud-observability-vs-monitoring-whats-the-difference-and-why-it-matters-305f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
