@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve Touched Everything and Mastered Nothing](https://dev.to/deeflect/ive-touched-everything-and-mastered-nothing-48ii)
-- [I ran my AI codebase triage tool on itself — here&#39;s what it found](https://dev.to/ejwisner/i-ran-my-ai-codebase-triage-tool-on-itself-heres-what-it-found-2ma2)
-- [Enabling Pin-Based Commenting on Live HTML Iframes: Open-Source, Framework-Agnostic Solution with Adapter Flexibility](https://dev.to/pavkode/enabling-pin-based-commenting-on-live-html-iframes-open-source-framework-agnostic-solution-with-18m4)
-- [I built an app that helps couples decide what to watch together](https://dev.to/logflix/i-built-an-app-that-helps-couples-decide-what-to-watch-together-1f21)
-- [I built an OpenAI-compatible gateway that routes across 5 free LLM providers](https://dev.to/devansh365/i-built-an-openai-compatible-gateway-that-routes-across-5-free-llm-providers-6jo)
+- [Setting Up a Production-Ready Kubernetes Cluster on RHEL 9.7](https://dev.to/devops_oracle/setting-up-a-production-ready-kubernetes-cluster-on-rhel-97-83g)
+- [Instagram Is Silently Killing Your Sales &lpar;And You Probably Have No Idea&rpar;](https://dev.to/devmelv/instagram-is-silently-killing-your-sales-and-you-probably-have-no-idea-4efd)
+- [Kaelux: Engineering the Future of Intelligent Infrastructure](https://dev.to/ker102/kaelux-engineering-the-future-of-intelligent-infrastructure-2ido)
+- [94% of my traffic shows as direct. Here&#39;s what I found](https://dev.to/zenovay/94-of-my-traffic-shows-as-direct-heres-what-i-found-47gl)
+- [Why Web Apps Should Never Lose Your Session Again](https://dev.to/rohith_kn/why-web-apps-should-never-lose-your-session-again-4pn8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
