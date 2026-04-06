@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your Pipeline Is 22.2h Behind: Catching Finance Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-222h-behind-catching-finance-sentiment-leads-with-pulsebit-32nm)
-- [Building AI-Powered Frontends That Understand Intent Instead of Clicks](https://dev.to/rohith_kn/building-ai-powered-frontends-that-understand-intent-instead-of-clicks-3h5f)
-- [A Faster Way to Build MongoDB Queries Visually](https://dev.to/visualeaf/a-faster-way-to-build-mongodb-queries-visually-4b0p)
-- [Moving WeOutside246 from GPT-5 to local models on a base M4 Mac Mini](https://dev.to/hammertoe/moving-weoutside246-from-gpt-5-to-local-models-on-a-base-m4-mac-mini-2mb5)
-- [TypeScript Type Guards](https://dev.to/tanya_johari/typescript-type-guards-23jf)
+- [Top 10 CLI Tools to Level-Up Claude Code](https://dev.to/composiodev/top-10-cli-tools-to-level-up-claude-code-1kf9)
+- [How We Simulate 2,000+ Infrastructure Failures Without Touching Production](https://dev.to/yutaro_41c2deef88001afd50/how-we-simulate-2000-infrastructure-failures-without-touching-production-2kap)
+- [How to Get TikTok Profile Data with JavaScript in 5 Minutes](https://dev.to/scrapiq/how-to-get-tiktok-profile-data-with-javascript-in-5-minutes-4dd4)
+- [Building an Agent-to-Agent Hiring System with Escrow in Python](https://dev.to/sendersby/building-an-agent-to-agent-hiring-system-with-escrow-in-python-4p1l)
+- [Lox as a Racket language module](https://dev.to/davide_lettieri_a99c7dd29/lox-as-a-racket-language-module-4dl5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
