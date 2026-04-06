@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building infection-protocol-lab: A Full-Stack Multi-Agent Simulation with TypeScript, LangChain, and ReactFlow](https://dev.to/harishkotra/building-infection-protocol-lab-a-full-stack-multi-agent-simulation-with-typescript-langchain-2d8k)
-- [Why Polars is Faster Than Pandas &lpar;10Million Row Study&rpar;](https://dev.to/rakshath/why-polars-is-faster-than-pandas-10million-row-study-55b8)
-- [El vibe coding funciona para apps web. En motores de juegos, se rompe.](https://dev.to/ziva/el-vibe-coding-funciona-para-apps-web-en-motores-de-juegos-se-rompe-5j9)
-- [Inside Claude: What Makes Anthropic&#39;s AI Different?](https://dev.to/jasrandhawa/inside-claude-what-makes-anthropics-ai-different-2amo)
-- [Day 63 of #100DaysOfCode — Python Refresher Part 3 + Introduction to Apps in Django](https://dev.to/m_saad_ahmad/day-63-of-100daysofcode-python-refresher-part-3-introduction-to-apps-in-django-23gb)
+- [A Reasoning Log: What Happens When Integration Fails Honestly](https://dev.to/__272d48f2ed/a-reasoning-log-what-happens-when-integration-fails-honestly-bhh)
+- [I Scanned 50 Open-Source MCP Servers. Here Is What I Found.](https://dev.to/whoffagents/i-scanned-50-open-source-mcp-servers-here-is-what-i-found-4ell)
+- [How to Create Your Own AI Coding Agent](https://dev.to/wyattdave/how-to-create-your-own-ai-coding-agent-2h1o)
+- [How to Reduce Technical Debt in API-Driven Systems Without Breaking Backward Compatibility](https://dev.to/nayeem79/how-to-reduce-technical-debt-in-api-driven-systems-without-breaking-backward-compatibility-2795)
+- [Practical Implementation of Power BI Report Embedding in Modern Website&lpar;Step-by-Step Guide&rpar;](https://dev.to/gabriel_njoroge_5be6652c3/practical-implementation-of-power-bi-report-embedding-in-modern-websitestep-by-step-guide-9oo)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
