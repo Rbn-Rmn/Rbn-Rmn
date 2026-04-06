@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How We Scaled Quran.com to 50M Monthly Users: Architecture Lessons From the Inside](https://dev.to/mzunain/how-we-scaled-qurancom-to-50m-monthly-users-architecture-lessons-from-the-inside-i33)
-- [[Beginner] Docker Tutorial for jetson-containers on Jetson AGX Orin](https://dev.to/vonusma/beginner-docker-tutorial-for-jetson-containers-on-jetson-agx-orin-5bl8)
-- [Um resumo sobre Fake Delay – Protegendo contra User Enumeration](https://dev.to/determinado96/um-resumo-sobre-fake-delay-protegendo-contra-user-enumeration-4b1f)
-- [Two Kinds of AI Agents &lpar;And Why You Need Both&rpar;](https://dev.to/bo_romir/two-kinds-of-ai-agents-and-why-you-need-both-3158)
-- [React 19 use&lpar;&rpar; Hook: Guide to Promises and Context](https://dev.to/rahulxsingh/react-19-use-hook-guide-to-promises-and-context-395h)
+- [I got tired of switching between 10 tabs while debugging… so I built this](https://dev.to/jyosh0812/i-got-tired-of-switching-between-10-tabs-while-debugging-so-i-built-this-f9a)
+- [I Built 6 Free SEO Tools in One Day — Here&#39;s What I Learned](https://dev.to/jim_l_efc70c3a738e9f4baa7/i-built-6-free-seo-tools-in-one-day-heres-what-i-learned-4gh6)
+- [Claude Code git workflows: branches, commits, and rollbacks without leaving your terminal](https://dev.to/subprime2010/claude-code-git-workflows-branches-commits-and-rollbacks-without-leaving-your-terminal-p0)
+- [Bypassing Apple&#39;s Anti-Bot Systems: The Ultimate Guide to App Store Scraping](https://dev.to/datakaz/bypassing-apples-anti-bot-systems-the-ultimate-guide-to-app-store-scraping-3l56)
+- [Deploying Backstage on Kubernetes with the Helm Chart: What the README Doesn&#39;t Tell You](https://dev.to/sodiqjimoh/deploying-backstage-on-kubernetes-with-the-helm-chart-what-the-readme-doesnt-tell-you-26ai)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
