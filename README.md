@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Publishing and Embedding Power BI Reports on the Web with IFrames](https://dev.to/sharonnyabuto/a-comprehensive-guide-to-publishing-and-embedding-power-bi-reports-on-the-web-with-iframes-1004)
-- [Docker Compose Self-Hosted Services Guide](https://dev.to/danieljglover/docker-compose-self-hosted-services-guide-4hj4)
-- [Why Indian Address Parsing Is Broken &lpar;And What I Built to Fix It&rpar;](https://dev.to/neelagiri65/why-indian-address-parsing-is-broken-and-what-i-built-to-fix-it-2pne)
-- [Why AI Agents Don&#39;t Follow Rules — The Case for Physical Governance](https://dev.to/aos_standard/why-ai-agents-dont-follow-rules-the-case-for-physical-governance-382f)
-- [The Ultimate Guide to Universal Linux Apps: Snap, Flatpak, and AppImage](https://dev.to/zilton7/the-ultimate-guide-to-universal-linux-apps-snap-flatpak-and-appimage-a50)
+- [Writing Self-Documenting TypeScript: Naming, Narrowing, and Knowing When to Stop](https://dev.to/tarunmj6/writing-self-documenting-typescript-naming-narrowing-and-knowing-when-to-stop-10lg)
+- [Discussion: AI and Privacy-First Development](https://dev.to/tacit_71799acf6d056b5155c/discussion-ai-and-privacy-first-development-4o6j)
+- [Discussion: AI &amp; Machine Learning Category](https://dev.to/tacit_71799acf6d056b5155c/discussion-ai-machine-learning-category-g48)
+- [Securing Plex on Synology NAS with Post-Quantum Cryptography via Cloudflare Tunnel](https://dev.to/kserude/securing-plex-on-synology-nas-with-post-quantum-cryptography-via-cloudflare-tunnel-3bbh)
+- [Resume Skills Section: Best Layout + Examples &lpar;2026&rpar;](https://dev.to/sarah_m/resume-skills-section-best-layout-examples-2026-5b98)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
