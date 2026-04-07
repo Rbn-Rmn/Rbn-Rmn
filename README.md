@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [MCP + AWS AgentCore: Give Your AI Agent Real Tools in 60 Minutes](https://dev.to/jubinsoni/mcp-aws-agentcore-give-your-ai-agent-real-tools-in-60-minutes-2plg)
-- [AWS vs Azure vs GCP Pricing in 2026: Compute, Storage, and Network Compared](https://dev.to/muskan_8abedcc7e12/aws-vs-azure-vs-gcp-pricing-in-2026-compute-storage-and-network-compared-45dl)
-- [React + ASP.NET Core: Enterprise Project Getting Started Guide](https://dev.to/ismcagdas/react-aspnet-core-enterprise-project-getting-started-guide-31fo)
-- [Web3 Automation with Python: From Zero to Daily NFT Mints](https://dev.to/rtt_enjoy_321ecb2d475c379/web3-automation-with-python-from-zero-to-daily-nft-mints-2aln)
-- [Angular + ASP.NET Core: Enterprise Project Getting Started Guide &lpar;2026&rpar;](https://dev.to/ismcagdas/angular-aspnet-core-enterprise-project-getting-started-guide-2026-2o3)
+- [The &quot;Evil&quot; Input Guide: Why Your App Needs Chaos Testing](https://dev.to/butkestudio/the-evil-input-guide-why-your-app-needs-chaos-testing-1f28)
+- [Vitest vs Jest for Next.js in 2026: Setup, Speed, and When to Switch](https://dev.to/whoffagents/vitest-vs-jest-for-nextjs-in-2026-setup-speed-and-when-to-switch-224a)
+- [Bộ Nhớ của AI Agent Hoạt Động Thế Nào &lpar;và Cách Kiểm Tra Qua API&rpar;](https://dev.to/sebbasstian/bo-nho-cua-ai-agent-hoat-dong-the-nao-va-cach-kiem-tra-qua-api-2i2f)
+- [Agentic workflows with Aerie](https://dev.to/patonw/agentic-workflows-with-aerie-1724)
+- [I Was Juggling 5 Domain APIs. So I Built One to Replace Them All](https://dev.to/jclabs/i-was-juggling-5-domain-apis-so-i-built-one-to-replace-them-all-1pm1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
