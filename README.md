@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Killing the Black Box: Why I Open-Sourced My Strategy Analysis Engine](https://dev.to/kiploksrobustnessengine/killing-the-black-box-why-i-open-sourced-my-strategy-analysis-engine-3jd8)
-- [Automating My Entire Content Workflow Using n8n + GPT](https://dev.to/techifive/automating-my-entire-content-workflow-using-n8n-gpt-3b5k)
-- [Hello DEV! — International tax specialist who builds AI infra for $15/mo](https://dev.to/kusunoki/hello-dev-international-tax-specialist-who-builds-ai-infra-for-15mo-2a1l)
-- [Stop Wasting Time on Boilerplate: Real-world Kafka &amp; PostgreSQL Demo](https://dev.to/paudang/stop-wasting-time-on-boilerplate-real-world-kafka-postgresql-demo-24bp)
-- [Astro is Great, Actually](https://dev.to/notjustanna/astro-is-great-actually-5e6g)
+- [The Fairness Metrics Your ML Model Needs -And Why Accuracy Isn&#39;t One of Them](https://dev.to/dale21certs/the-fairness-metrics-your-ml-model-needs-and-why-accuracy-isnt-one-of-them-5eb)
+- [RAM Speed and Timings Explained: Does it Actually Matter for Your Build?](https://dev.to/lorikeesmart/ram-speed-and-timings-explained-does-it-actually-matter-for-your-build-3pkf)
+- [I Built a Live Wallpaper Engine for macOS — Here&#39;s How It Works](https://dev.to/ken109/i-built-a-live-wallpaper-engine-for-macos-heres-how-it-works-5ed)
+- [Zero Trust Requires IAM Hygiene, Not Just Products](https://dev.to/buoyantcloudinc/zero-trust-requires-iam-hygiene-not-just-products-3d8m)
+- [What It&#39;s Like Being a Software Engineer at a Hardware Company — The Reality of SW Development Dragged Along by HW Schedules](https://dev.to/_630fdf100267a43420f70/what-its-like-being-a-software-engineer-at-a-hardware-company-the-reality-of-sw-development-2ho1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
