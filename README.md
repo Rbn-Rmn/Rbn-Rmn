@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why I built a SvelteKit + FastAPI SaaS Boilerplate &lpar;and open-sourced the starter&rpar;](https://dev.to/quartalis/why-i-built-a-sveltekit-fastapi-saas-boilerplate-and-open-sourced-the-starter-4ne1)
-- [Understanding SQL for Data Analysis in Real World.](https://dev.to/rayhady/understanding-sql-for-data-analysis-in-real-world-2pcg)
-- [How we made Step Functions call any AWS service locally](https://dev.to/nahuel990/how-we-made-step-functions-call-any-aws-service-locally-2m44)
-- [The Google Play 12-Tester Wall: A Solo Dev&#39;s Guide &lpar;and a Plea for Help&rpar;](https://dev.to/orthogonalinfo/the-google-play-12-tester-wall-a-solo-devs-guide-and-a-plea-for-help-4o10)
-- [ChromeFlash](https://dev.to/picarda27/chromeflash-415a)
+- [How to Give Your AI Agent Self-Awareness: A Practical Framework](https://dev.to/the_bookmaster/how-to-give-your-ai-agent-self-awareness-a-practical-framework-4fm7)
+- [Giving Claude Code a Heart](https://dev.to/simplemindedrobot/giving-claude-code-a-heart-beat-55ja)
+- [I Wrote 500 Lines of Rules for Claude Code. Here&#39;s How I Made It Actually Follow Them.](https://dev.to/mikeadolan/i-wrote-500-lines-of-rules-for-claude-code-heres-how-i-made-it-actually-follow-them-3c8)
+- [How to setup Terminal tools for Mac](https://dev.to/onmyway133/how-to-setup-terminal-tools-for-mac-3bnf)
+- [How to present interactive CLI prompts in Swift](https://dev.to/onmyway133/how-to-present-interactive-cli-prompts-in-swift-5f73)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
