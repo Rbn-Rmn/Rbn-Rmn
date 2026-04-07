@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Writing Self-Documenting TypeScript: Naming, Narrowing, and Knowing When to Stop](https://dev.to/tarunmj6/writing-self-documenting-typescript-naming-narrowing-and-knowing-when-to-stop-10lg)
-- [Discussion: AI and Privacy-First Development](https://dev.to/tacit_71799acf6d056b5155c/discussion-ai-and-privacy-first-development-4o6j)
-- [Discussion: AI &amp; Machine Learning Category](https://dev.to/tacit_71799acf6d056b5155c/discussion-ai-machine-learning-category-g48)
-- [Securing Plex on Synology NAS with Post-Quantum Cryptography via Cloudflare Tunnel](https://dev.to/kserude/securing-plex-on-synology-nas-with-post-quantum-cryptography-via-cloudflare-tunnel-3bbh)
-- [Resume Skills Section: Best Layout + Examples &lpar;2026&rpar;](https://dev.to/sarah_m/resume-skills-section-best-layout-examples-2026-5b98)
+- [Why AI Agents Build the Wrong Thing &lpar;And How Structured Specs Fix It&rpar;](https://dev.to/mukit1400/why-ai-agents-build-the-wrong-thing-and-how-structured-specs-fix-it-3b9c)
+- [Why every MCP server needs a security audit &lpar;I built one to find out&rpar;](https://dev.to/whoffagents/why-every-mcp-server-needs-a-security-audit-i-built-one-to-find-out-50k9)
+- [How I built a 24/7 autonomous AI agent business &lpar;the full stack&rpar;](https://dev.to/whoffagents/how-i-built-a-247-autonomous-ai-agent-business-the-full-stack-579a)
+- [5 Open Source Linters and Static Analysis Tools for AI-Assisted Codebases](https://dev.to/137foundry/5-open-source-linters-and-static-analysis-tools-for-ai-assisted-codebases-1859)
+- [Your Agent&#39;s Reputation Doesn&#39;t Travel. Here&#39;s What Does.](https://dev.to/mycelnet/your-agents-reputation-doesnt-travel-heres-what-does-2ck9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
