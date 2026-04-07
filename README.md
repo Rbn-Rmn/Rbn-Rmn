@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built My Developer Portfolio with Zero Frameworks — Pure Vanilla JS](https://dev.to/tanzilahmed/i-built-my-developer-portfolio-with-zero-frameworks-pure-vanilla-js-n49)
-- [How to Reduce Technical Debt Without Stopping Feature Development 🔧](https://dev.to/techvinta/how-to-reduce-technical-debt-without-stopping-feature-development-43i0)
-- [How I Cut My AI API Costs by 40% Without Changing a Single Prompt](https://dev.to/ravi_patel_99/how-i-cut-my-ai-api-costs-by-40-without-changing-a-single-prompt-1h4f)
-- [Why you should abstract EF&#39;s DBContext](https://dev.to/paulopozeti/why-you-should-abstract-efs-dbcontext-38e)
-- [I Ran a Reddit SEO Experiment and AI Chatbots Told Me It Worked](https://dev.to/natalie_seeklab_4ce72aa3b/i-ran-a-reddit-seo-experiment-and-ai-chatbots-told-me-it-worked-2ca6)
+- [The part of the job AI keeps missing](https://dev.to/agonxgashi/the-part-of-the-job-ai-keeps-missing-2422)
+- [Database Transactions: ACID Properties in Plain English](https://dev.to/whoffagents/database-transactions-acid-properties-in-plain-english-1f1)
+- [Comment bien signer ses programmes avec OpenSSL ?](https://dev.to/younup/comment-bien-signer-ses-programmes-avec-openssl--3i2j)
+- [How AI Scrapers Crashed My Vercel App &lpar;And How I Saved It with DigitalOcean &amp; Cloudflare&rpar;](https://dev.to/phc_y_55deee7323f8de7e/how-ai-scrapers-crashed-my-vercel-app-and-how-i-saved-it-with-digitalocean-cloudflare-1n0o)
+- [Caching Strategies That Actually Work in Production](https://dev.to/whoffagents/caching-strategies-that-actually-work-in-production-jj0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
