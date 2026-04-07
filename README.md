@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Evil&quot; Input Guide: Why Your App Needs Chaos Testing](https://dev.to/butkestudio/the-evil-input-guide-why-your-app-needs-chaos-testing-1f28)
-- [Vitest vs Jest for Next.js in 2026: Setup, Speed, and When to Switch](https://dev.to/whoffagents/vitest-vs-jest-for-nextjs-in-2026-setup-speed-and-when-to-switch-224a)
-- [Bộ Nhớ của AI Agent Hoạt Động Thế Nào &lpar;và Cách Kiểm Tra Qua API&rpar;](https://dev.to/sebbasstian/bo-nho-cua-ai-agent-hoat-dong-the-nao-va-cach-kiem-tra-qua-api-2i2f)
-- [Agentic workflows with Aerie](https://dev.to/patonw/agentic-workflows-with-aerie-1724)
-- [I Was Juggling 5 Domain APIs. So I Built One to Replace Them All](https://dev.to/jclabs/i-was-juggling-5-domain-apis-so-i-built-one-to-replace-them-all-1pm1)
+- [I Built My Developer Portfolio with Zero Frameworks — Pure Vanilla JS](https://dev.to/tanzilahmed/i-built-my-developer-portfolio-with-zero-frameworks-pure-vanilla-js-n49)
+- [How to Reduce Technical Debt Without Stopping Feature Development 🔧](https://dev.to/techvinta/how-to-reduce-technical-debt-without-stopping-feature-development-43i0)
+- [How I Cut My AI API Costs by 40% Without Changing a Single Prompt](https://dev.to/ravi_patel_99/how-i-cut-my-ai-api-costs-by-40-without-changing-a-single-prompt-1h4f)
+- [Why you should abstract EF&#39;s DBContext](https://dev.to/paulopozeti/why-you-should-abstract-efs-dbcontext-38e)
+- [I Ran a Reddit SEO Experiment and AI Chatbots Told Me It Worked](https://dev.to/natalie_seeklab_4ce72aa3b/i-ran-a-reddit-seo-experiment-and-ai-chatbots-told-me-it-worked-2ca6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
