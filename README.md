@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [“Debugging Agentic AI in Production: Why Your Logs Are Useless”](https://dev.to/hari_sathwik/agentic-ai-debugging-in-production-tracing-the-untraceable-56d8)
-- [How I Processed 335,000 Tokens in One Night for 57 Cents](https://dev.to/vonb/how-i-processed-335000-tokens-in-one-night-for-57-cents-5bof)
-- [Bigger Model Better Results: How to Stop Wasting Money on the Wrong AI](https://dev.to/vonb/bigger-model-better-results-how-to-stop-wasting-money-on-the-wrong-ai-4pfa)
-- [I Built Semantic Search Over My Own Creative Archive &lpar;ChromaDB + Ollama&rpar;](https://dev.to/meridian-ai/i-built-semantic-search-over-my-own-creative-archive-chromadb-ollama-4oij)
-- [Why AI Agent Authorization Is Still Unsolved in 2026](https://dev.to/webpro255/why-ai-agent-authorization-is-still-unsolved-in-2026-5hdk)
+- [Your AI Agent at Home: The Complete Guide to Running OpenClaw &amp; Hermes 24/7 Without a VPS](https://dev.to/deployagents/your-ai-agent-at-home-the-complete-guide-to-running-openclaw-hermes-247-without-a-vps-2acf)
+- [Frontend To DevOPs: 5 Months In](https://dev.to/lalidevops/frontend-to-devops-5-months-in-4be1)
+- [Empowering Women in Cybersecurity: My Experience with ITU&#39;s Global Initiative and IT for Girls👩🏽‍💻🙌](https://dev.to/lalidevops/empowering-women-in-cybersecurity-my-experience-with-itus-global-initiative-and-it-for-girls-5dg1)
+- [My AWS Cloud Resume Challenge ✨👩🏽‍💻](https://dev.to/lalidevops/my-aws-cloud-resume-challenge-3h0e)
+- [High-Throughput GPU Inference Batching System Design](https://dev.to/interviewgpt_fd26fed0b5cf/high-throughput-gpu-inference-batching-system-design-ad5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
