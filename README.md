@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The part of the job AI keeps missing](https://dev.to/agonxgashi/the-part-of-the-job-ai-keeps-missing-2422)
-- [Database Transactions: ACID Properties in Plain English](https://dev.to/whoffagents/database-transactions-acid-properties-in-plain-english-1f1)
-- [Comment bien signer ses programmes avec OpenSSL ?](https://dev.to/younup/comment-bien-signer-ses-programmes-avec-openssl--3i2j)
-- [How AI Scrapers Crashed My Vercel App &lpar;And How I Saved It with DigitalOcean &amp; Cloudflare&rpar;](https://dev.to/phc_y_55deee7323f8de7e/how-ai-scrapers-crashed-my-vercel-app-and-how-i-saved-it-with-digitalocean-cloudflare-1n0o)
-- [Caching Strategies That Actually Work in Production](https://dev.to/whoffagents/caching-strategies-that-actually-work-in-production-jj0)
+- [Killing the Black Box: Why I Open-Sourced My Strategy Analysis Engine](https://dev.to/kiploksrobustnessengine/killing-the-black-box-why-i-open-sourced-my-strategy-analysis-engine-3jd8)
+- [Automating My Entire Content Workflow Using n8n + GPT](https://dev.to/techifive/automating-my-entire-content-workflow-using-n8n-gpt-3b5k)
+- [Hello DEV! — International tax specialist who builds AI infra for $15/mo](https://dev.to/kusunoki/hello-dev-international-tax-specialist-who-builds-ai-infra-for-15mo-2a1l)
+- [Stop Wasting Time on Boilerplate: Real-world Kafka &amp; PostgreSQL Demo](https://dev.to/paudang/stop-wasting-time-on-boilerplate-real-world-kafka-postgresql-demo-24bp)
+- [Astro is Great, Actually](https://dev.to/notjustanna/astro-is-great-actually-5e6g)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
