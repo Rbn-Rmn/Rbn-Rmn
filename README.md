@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Give Your AI Agent Self-Awareness: A Practical Framework](https://dev.to/the_bookmaster/how-to-give-your-ai-agent-self-awareness-a-practical-framework-4fm7)
-- [Giving Claude Code a Heart](https://dev.to/simplemindedrobot/giving-claude-code-a-heart-beat-55ja)
-- [I Wrote 500 Lines of Rules for Claude Code. Here&#39;s How I Made It Actually Follow Them.](https://dev.to/mikeadolan/i-wrote-500-lines-of-rules-for-claude-code-heres-how-i-made-it-actually-follow-them-3c8)
-- [How to setup Terminal tools for Mac](https://dev.to/onmyway133/how-to-setup-terminal-tools-for-mac-3bnf)
-- [How to present interactive CLI prompts in Swift](https://dev.to/onmyway133/how-to-present-interactive-cli-prompts-in-swift-5f73)
+- [The Circuit That Knows Itself](https://dev.to/7ard1grad3/the-circuit-that-knows-itself-4fnl)
+- [The $5.4 Billion Lesson Fortune 500 Companies Paid in One Day &amp; the IoT Architecture Flaw That Made It Worse Than It Had to Be](https://dev.to/arrows/the-54-billion-lesson-fortune-500-companies-paid-in-one-day-the-iot-architecture-flaw-that-made-gk3)
+- [How I Save $1,463 per Month Using Claude Code as My Server Admin](https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb)
+- [How I Get Clients Without Cold DMs: A Practical System That Actually Works](https://dev.to/xandertaylor/how-i-get-clients-without-cold-dms-a-practical-system-that-actually-works-1fm8)
+- [The 429 That Poisoned Every Fallback](https://dev.to/oolongtea2026/the-429-that-poisoned-every-fallback-2d4l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
