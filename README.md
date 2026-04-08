@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v372](https://dev.to/devteam/welcome-thread-v372-254c)
-- [I Had My First Automated Trade Running in 47 Minutes — Here&#39;s the Exact Setup](https://dev.to/automate-archit/i-had-my-first-automated-trade-running-in-47-minutes-heres-the-exact-setup-3g79)
-- [Why I Stopped Using LLMs to Schedule LLMs](https://dev.to/alex_chernysh/why-i-stopped-using-llms-to-schedule-llms-4176)
-- [Authenticated, Authorized, and Still Unsafe: The Missing Layer in Agent Security](https://dev.to/mspro3210/authenticated-authorized-and-still-unsafe-the-missing-layer-in-agent-security-68k)
-- [AI-Generated Code Security: 87% of AI Pull Requests Have Vulnerabilities](https://dev.to/roymorken/ai-generated-code-security-87-of-ai-pull-requests-have-vulnerabilities-j4l)
+- [TOP 25 ALGORITMOS | Depth First Search &lpar;DFS&rpar;](https://dev.to/sdrariane/top-25-algoritmos-depth-first-search-dfs-22ke)
+- [From the Command Line to the App Stores: How I Built Turn Off PC](https://dev.to/marcos_salas_abello/from-the-command-line-to-the-app-stores-how-i-built-turn-off-pc-2ep3)
+- [We built an embeddable AI chat widget, hybrid RAG search, and agent portability — here&#39;s how &lpar;CrewForm v1.8.0&rpar;](https://dev.to/vincent_grobler_776512b17/we-built-an-embeddable-ai-chat-widget-hybrid-rag-search-and-agent-portability-heres-how-1cb3)
+- [We just launched TunesAPI — Train custom AI models for $0.10 &lpar;20x cheaper than FAL.ai&rpar;](https://dev.to/om_prakash_3311f8a4576605/we-just-launched-tunesapi-train-custom-ai-models-for-010-20x-cheaper-than-falai-425a)
+- [I turned a 2014 puzzle game into a Python one-liner challenge](https://dev.to/gromozeka1980/i-turned-a-2014-puzzle-game-into-a-python-one-liner-challenge-49pi)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
