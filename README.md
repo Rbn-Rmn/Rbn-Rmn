@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The 10 VAST Errors That Silently Kill Your CTV Ad Revenue](https://dev.to/aleksuix/the-10-vast-errors-that-silently-kill-your-ctv-ad-revenue-25i8)
-- [How to start collecting web analytics using only HTML and Filasys.](https://dev.to/filasys/how-to-start-collecting-web-analytics-using-only-html-and-filasys-1lje)
-- [Your AI Agent Framework Has a Ceiling. Here Is the Architecture That Breaks It.](https://dev.to/roryqis/your-ai-agent-framework-has-a-ceiling-here-is-the-architecture-that-breaks-it-4k6g)
-- [[Rust Guide] 4.4. Reference and Borrowing](https://dev.to/someb1oody/rust-guide-44-reference-and-borrowing-51go)
-- [Understanding AI Metering in Enterprise Systems](https://dev.to/jobinesh/understanding-ai-metering-in-enterprise-systems-4b7f)
+- [Why Your Signup Form Is Less Secure Than You Think &lpar;And How to Fix It&rpar;](https://dev.to/eande171/why-your-signup-form-is-less-secure-than-you-think-and-how-to-fix-it-3m3f)
+- [Why I’m Engineering My FIRE with Python — A Manifesto](https://dev.to/soytuber/why-im-engineering-my-fire-with-python-a-manifesto-32l7)
+- [Running Agentic AI at Scale on Google Kubernetes Engine](https://dev.to/gde/running-agentic-ai-at-scale-on-google-kubernetes-engine-2540)
+- [Best Clipboard Manager for Developers &lpar;2026 Guide&rpar;](https://dev.to/alokt/best-clipboard-manager-for-developers-2026-guide-2m0g)
+- [Users Don’t Choose the Best Tool — They Choose the Easiest One](https://dev.to/bhavin-allinonetools/users-dont-choose-the-best-tool-they-choose-the-easiest-one-5d2j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
