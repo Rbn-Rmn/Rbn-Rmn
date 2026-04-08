@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built a multi-layer caching library for Node.js — would love your feedback!](https://dev.to/flyingsquirrel0419/i-built-a-multi-layer-caching-library-for-nodejs-would-love-your-feedback-2gm)
-- [Practicing Basic Concepts On Web Security](https://dev.to/manuelarte/practicing-basic-concepts-on-web-security-5a9m)
-- [Day 2 - Problem Solving](https://dev.to/thirusakthi-dev/day-3-problem-solving-poo)
-- [Beyond Laravel: Applying the Agent Harness to Any Stack](https://dev.to/tacoda/beyond-laravel-applying-the-agent-harness-to-any-stack-2gaf)
-- [A simple action will put you in the top 52% of coders from these stats](https://dev.to/canro91/a-simple-action-will-put-you-in-the-top-52-of-coders-from-these-stats-4cb9)
+- [Building AI Visibility Infrastructure: Inside Jonomor&#39;s Architecture](https://dev.to/jonomor_ecosystem/building-ai-visibility-infrastructure-inside-jonomors-architecture-3enp)
+- [x402 vs MPP: Almost Honest Comparison](https://dev.to/philpher0x/x402-vs-mpp-an-almost-honest-comparison-5g6g)
+- [Converting old home movie DVDs into a private streaming site](https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb)
+- [I built a local AI engine you can access from anywhere](https://dev.to/linggen/i-built-a-local-ai-engine-you-can-access-from-anywhere-ock)
+- [I built an AI memory that fact-checks itself while you sleep](https://dev.to/fex_beck_27bfd4dccd05f062/i-built-an-ai-memory-that-fact-checks-itself-while-you-sleep-29mj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
