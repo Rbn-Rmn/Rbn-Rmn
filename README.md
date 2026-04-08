@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [LLMs for Product Descriptions at Scale: How D2C Brands Can Auto-Generate SEO Copy Without Sounding Like a Bot](https://dev.to/emperorakashi20/llms-for-product-descriptions-at-scale-how-d2c-brands-can-auto-generate-seo-copy-without-sounding-1kgd)
-- [Counting Bullets: Why Token Burn Is the Wrong Metric for Agent Work](https://dev.to/piiiico/counting-bullets-why-token-burn-is-the-wrong-metric-for-agent-work-3gei)
-- [Why I Built Selectools &lpar;and What I Learned Along the Way&rpar;](https://dev.to/johnnichev/why-i-built-selectools-and-what-i-learned-along-the-way-59fd)
-- [How to Export a PostgreSQL Database from a Docker Container &lpar;pg_dump Guide&rpar;](https://dev.to/arafatruetbd/how-to-export-a-postgresql-database-from-a-docker-container-pgdump-guide-2oep)
-- [The Autonomous SRE: How TaoNode Guardian Protects Bittensor Validator ROI with a Zero-Trust Kubernetes Operator](https://dev.to/claudio_botelho_bdc0a8dea/the-autonomous-sre-how-taonode-guardian-protects-bittensor-validator-roi-with-a-zero-trust-17pa)
+- [The 10 VAST Errors That Silently Kill Your CTV Ad Revenue](https://dev.to/aleksuix/the-10-vast-errors-that-silently-kill-your-ctv-ad-revenue-25i8)
+- [How to start collecting web analytics using only HTML and Filasys.](https://dev.to/filasys/how-to-start-collecting-web-analytics-using-only-html-and-filasys-1lje)
+- [Your AI Agent Framework Has a Ceiling. Here Is the Architecture That Breaks It.](https://dev.to/roryqis/your-ai-agent-framework-has-a-ceiling-here-is-the-architecture-that-breaks-it-4k6g)
+- [[Rust Guide] 4.4. Reference and Borrowing](https://dev.to/someb1oody/rust-guide-44-reference-and-borrowing-51go)
+- [Understanding AI Metering in Enterprise Systems](https://dev.to/jobinesh/understanding-ai-metering-in-enterprise-systems-4b7f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
