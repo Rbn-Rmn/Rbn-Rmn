@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [192 Personas Later: What Survived and What We Broke](https://dev.to/kato_masato_c5593c81af5c6/192-personas-later-what-survived-and-what-we-broke-48c3)
-- [Anatomy of a GitHub Actions Supply Chain Attack Targeting MCP Repos](https://dev.to/ticktockbent/anatomy-of-a-github-actions-supply-chain-attack-targeting-mcp-repos-59jb)
-- [I Was Tired of My Terminal Being Dumb — So I Built Termim](https://dev.to/imimofficial/i-was-tired-of-my-terminal-being-dumb-so-i-built-termim-5d9h)
-- [The Most Dangerous Word in AI Coding: &quot;Verified&quot;](https://dev.to/wintrover/the-most-dangerous-word-in-ai-coding-verified-3a1k)
-- [How I Stopped Form Spam Without reCAPTCHA](https://dev.to/zekebuilds/how-i-stopped-form-spam-without-recaptcha-4gld)
+- [Welcome Thread - v372](https://dev.to/devteam/welcome-thread-v372-254c)
+- [I Had My First Automated Trade Running in 47 Minutes — Here&#39;s the Exact Setup](https://dev.to/automate-archit/i-had-my-first-automated-trade-running-in-47-minutes-heres-the-exact-setup-3g79)
+- [Why I Stopped Using LLMs to Schedule LLMs](https://dev.to/alex_chernysh/why-i-stopped-using-llms-to-schedule-llms-4176)
+- [Authenticated, Authorized, and Still Unsafe: The Missing Layer in Agent Security](https://dev.to/mspro3210/authenticated-authorized-and-still-unsafe-the-missing-layer-in-agent-security-68k)
+- [AI-Generated Code Security: 87% of AI Pull Requests Have Vulnerabilities](https://dev.to/roymorken/ai-generated-code-security-87-of-ai-pull-requests-have-vulnerabilities-j4l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
