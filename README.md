@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Custom Skills: The End-to-End Workflow Made Executable](https://dev.to/tacoda/custom-skills-the-end-to-end-workflow-made-executable-i8i)
-- [Finally, a URL Lengthener — Because Short URLs Are Too Efficient](https://dev.to/jit_chakraborty_4222410eb/finally-a-url-lengthener-because-short-urls-are-too-efficient-5hcd)
-- [AI Agents Need Permission Boundaries, Not Personalities](https://dev.to/t3chn/ai-agents-need-permission-boundaries-not-personalities-2g6f)
-- [Unity MonoBehaviour Inheritance: How Non-Static, Non-Abstract Classes Function Without Explicit Instantiation](https://dev.to/denlava/unity-monobehaviour-inheritance-how-non-static-non-abstract-classes-function-without-explicit-3omm)
-- [Array Flatten in JavaScript](https://dev.to/sakshi_tambole_be36125cf5/array-flatten-in-javascript-15p5)
+- [I built a multi-layer caching library for Node.js — would love your feedback!](https://dev.to/flyingsquirrel0419/i-built-a-multi-layer-caching-library-for-nodejs-would-love-your-feedback-2gm)
+- [Practicing Basic Concepts On Web Security](https://dev.to/manuelarte/practicing-basic-concepts-on-web-security-5a9m)
+- [Day 2 - Problem Solving](https://dev.to/thirusakthi-dev/day-3-problem-solving-poo)
+- [Beyond Laravel: Applying the Agent Harness to Any Stack](https://dev.to/tacoda/beyond-laravel-applying-the-agent-harness-to-any-stack-2gaf)
+- [A simple action will put you in the top 52% of coders from these stats](https://dev.to/canro91/a-simple-action-will-put-you-in-the-top-52-of-coders-from-these-stats-4cb9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
