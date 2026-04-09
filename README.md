@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [🚀 I Built PQPM — A Process Manager That Doesn&#39;t Care What Language You Speak](https://dev.to/rp01/i-built-pqpm-a-process-manager-that-doesnt-care-what-language-you-speak-npp)
-- [Sourcery GitHub Integration: PR Review Setup](https://dev.to/rahulxsingh/sourcery-github-integration-pr-review-setup-ej)
-- [MCP in Practice — Part 7: MCP Transport and Auth in Practice](https://dev.to/gursharansingh/mcp-in-practice-part-7-mcp-transport-and-auth-in-practice-5aa4)
-- [I built a state machine where invalid transitions can&#39;t compile](https://dev.to/opaopa6969/i-built-a-state-machine-where-invalid-transitions-cant-compile-14fk)
-- [How to Build a Task Automation Agent &lpar;That Uses APIs on Its Own&rpar;](https://dev.to/rose_madrid/how-to-build-a-task-automation-agent-that-uses-apis-on-its-own-2jdd)
+- [Automation Patterns That Survive Real Teams](https://dev.to/gwilym_ge/automation-patterns-that-survive-real-teams-3ef8)
+- [AI-Native Mobile Device Automation: Give Your AI Agent Eyes and Hands on Real Phones](https://dev.to/mobai_019d06386873d90ed58/ai-native-mobile-device-automation-give-your-ai-agent-eyes-and-hands-on-real-phones-43go)
+- [¿Qué es AWS CloudWatch, Casos de Uso y Por Qué Deberías Aprenderlo Hoy?](https://dev.to/byron_lainez/que-es-aws-cloudwatch-casos-de-uso-y-por-que-deberias-aprenderlo-hoy-4g1p)
+- [Founder Mode — A New Name for Micromanagement?](https://dev.to/arezvov/founder-mode-a-new-name-for-micromanagement-2he)
+- [Stop Building Static Chatbots: A Beginner’s Guide to LangGraph with Persistence 🚀](https://dev.to/syed_mehrab_08fb0419feedf/stop-building-static-chatbots-a-beginners-guide-to-langgraph-with-persistence-34lo)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
