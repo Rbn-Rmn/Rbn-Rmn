@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Real Cost of 1 Hour of WordPress Downtime &lpar;It&#39;s More Than You Think&rpar;](https://dev.to/cifi/the-real-cost-of-1-hour-of-wordpress-downtime-its-more-than-you-think-3gjk)
-- [Azure Route Server and NVA: Enforcing VNet Traffic - plus Terraform Code](https://dev.to/gergovadasz/azure-route-server-and-nva-enforcing-vnet-traffic-plus-terraform-code-3j42)
-- [UML Deployment Diagrams](https://dev.to/edgaras/uml-deployment-diagrams-15c2)
-- [E2E email testing is a nightmare. I’m trying to fix the middle ground.](https://dev.to/hharanm/e2e-email-testing-is-a-nightmare-im-trying-to-fix-the-middle-ground-7f8)
-- [SpringBoot Basic Annotations and Logging](https://dev.to/s_srikamini_bfb9ce2df10/springboot-basic-annotations-and-logging-11ci)
+- [Serverless applications on AWS with Lambda using Java 25, API Gateway and Aurora DSQL - Part 4 SnapStart + DSQL request priming](https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-aurora-dsql-part-4-1kg5)
+- [Every Dev Has the New-Project Itch. Rapid Prototyping Makes It Creative.](https://dev.to/cn8001/every-dev-has-the-new-project-itch-rapid-prototyping-makes-it-creative-3ocf)
+- [Unlocking Casual Fun: AI-Powered &#39;Vibe Coding&#39; for Quick, Niche Apps](https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5)
+- [Claude Code Got Someone&#39;s Meta Ads Account Banned. Here&#39;s How to Automate Without Getting Flagged.](https://dev.to/whoffagents/claude-code-got-someones-meta-ads-account-banned-heres-how-to-automate-without-getting-flagged-513h)
+- [AI Doesn&#39;t Need Your Programming Language](https://dev.to/gtanyware/ai-doesnt-need-your-programming-language-2bg0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
