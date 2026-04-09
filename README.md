@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Validating Segment Events Is So Frustrating &lpar;And How I Fixed It&rpar;](https://dev.to/agch-dev/why-validating-segment-events-is-so-frustrating-and-how-i-fixed-it-fda)
-- [74% of Startups Fail From Premature Scaling. Your Tech Stack Might Be the Problem.](https://dev.to/alexmayhew-dev/74-of-startups-fail-from-premature-scaling-your-tech-stack-might-be-the-problem-9i2)
-- [Ilere: Building a Transparent Rental Marketplace on Expo and Supabase](https://dev.to/mikelisrael/ilere-building-a-transparent-rental-marketplace-on-expo-and-supabase-2207)
-- [Editing DESIGN.md Directly in Web Interface: From Concept to Implementation](https://dev.to/newbe36524/editing-designmd-directly-in-web-interface-from-concept-to-implementation-22h9)
-- [Meta&#39;s New Model Has 16 Tools. Here&#39;s What They Do.](https://dev.to/o96a/metas-new-model-has-16-tools-heres-what-they-do-42m6)
+- [Why $9/mo SaaS is Dead in 2026](https://dev.to/elonr/why-9mo-saas-is-dead-in-2026-p0a)
+- [Why monitoring your search engine matters: Manticore ➡ Prometheus ➡ Grafana](https://dev.to/sanikolaev/why-monitoring-your-search-engine-matters-manticore-prometheus-grafana-51g3)
+- [Why We Built an AI Market Research Tool to Pivot Our Own Company](https://dev.to/elonr/why-we-built-an-ai-market-research-tool-to-pivot-our-own-company-o7h)
+- [Why Pure HTML/CSS Templates Still Rule in 2026](https://dev.to/elonr/why-pure-htmlcss-templates-still-rule-in-2026-36i1)
+- [Open Source: Control Claude Code / Codex CLI Entirely from Your Phone with Feishu &lpar;Lark&rpar; — Approve, Choose, and Send Commands on the Go](https://dev.to/kamindeng/open-source-control-claude-code-codex-cli-entirely-from-your-phone-with-feishu-lark-approve-3opn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
