@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [10 Best Next.js Monitoring Tools in 2026 &lpar;Honest Review from a Founder&rpar;](https://dev.to/fdelgado/10-best-nextjs-monitoring-tools-in-2026-honest-review-from-a-founder-5f2p)
-- [AI in SEO: Stop using it for spam and start using it for Architecture](https://dev.to/craftedmarketing/ai-in-seo-stop-using-it-for-spam-and-start-using-it-for-architecture-5fhi)
-- [your supplier just raised prices. now what?](https://dev.to/_95a3e57463e6442feacd0/your-supplier-just-raised-prices-now-what-2eig)
-- [How to Run A2A-Compatible Agents on a Single VPS &lpar;No Docker, No Kubernetes&rpar;](https://dev.to/maretto/how-to-run-a2a-compatible-agents-on-a-single-vps-no-docker-no-kubernetes-143n)
-- [AI Debugging: The 3-Context Framework That Closes Bugs in Minutes](https://dev.to/mohamedhamed833/part-5-ai-debugging-the-holy-trinity-that-turns-4-hour-bugs-into-4-minute-fixes-53f5)
+- [The easiest way to make butterfly animation without writing a single line of CSS or JS! 🚀](https://dev.to/butterflycss/the-easiest-way-to-make-butterfly-animation-without-writing-a-single-line-of-css-or-js-mbb)
+- [System Design From Scratch: The Components That Actually Run Production Systems](https://dev.to/sabitak/system-design-from-scratch-the-components-that-actually-run-production-systems-422l)
+- [Go Bitwise Flags and Bitmasks: Configuration Pattern Guide](https://dev.to/iampavel/go-bitwise-flags-and-bitmasks-configuration-pattern-guide-24p1)
+- [How I Actually Use Claude as a Senior Dev Partner &lpar;Not Just a Code Generator&rpar;](https://dev.to/gurkiu/how-i-actually-use-claude-as-a-senior-dev-partner-not-just-a-code-generator-3ii6)
+- [How to Add Comments to an Astro Site &lpar;Lazy-Loaded, Zero JS by Default&rpar;](https://dev.to/yoni_ryabinski_da05ba8c9c/how-to-add-comments-to-an-astro-site-lazy-loaded-zero-js-by-default-hba)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
