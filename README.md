@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Modern React Essentials: From Component Architecture to Advanced Hooks](https://dev.to/preyumkr/modern-react-essentials-from-component-architecture-to-advanced-hooks-2bj0)
-- [I Built 3 Free Developer Tools with Go and Astro — Here&#39;s the Architecture](https://dev.to/kristiyan_4476d7d92148b4c/i-built-3-free-developer-tools-with-go-and-astro-heres-the-architecture-1n98)
-- [🚫 Stop Writing Old JavaScript — ✅ Start Using Modern Built-in APIs &lpar;Part 1&rpar;](https://dev.to/nagendrababun/stop-writing-old-javascript-start-using-modern-built-in-apis-part-1-5932)
-- [On-Device AI vs. Cloud AI: Why Privacy Can Win Over Convenience](https://dev.to/arshtechpro/on-device-ai-vs-cloud-ai-why-privacy-can-win-over-convenience-2h1i)
-- [Wallet-Authenticated Crypto Slots: On-Chain Architecture for Seamless Gameplay](https://dev.to/blastslot/wallet-authenticated-crypto-slots-on-chain-architecture-for-seamless-gameplay-4li)
+- [10 Best Next.js Monitoring Tools in 2026 &lpar;Honest Review from a Founder&rpar;](https://dev.to/fdelgado/10-best-nextjs-monitoring-tools-in-2026-honest-review-from-a-founder-5f2p)
+- [AI in SEO: Stop using it for spam and start using it for Architecture](https://dev.to/craftedmarketing/ai-in-seo-stop-using-it-for-spam-and-start-using-it-for-architecture-5fhi)
+- [your supplier just raised prices. now what?](https://dev.to/_95a3e57463e6442feacd0/your-supplier-just-raised-prices-now-what-2eig)
+- [How to Run A2A-Compatible Agents on a Single VPS &lpar;No Docker, No Kubernetes&rpar;](https://dev.to/maretto/how-to-run-a2a-compatible-agents-on-a-single-vps-no-docker-no-kubernetes-143n)
+- [AI Debugging: The 3-Context Framework That Closes Bugs in Minutes](https://dev.to/mohamedhamed833/part-5-ai-debugging-the-holy-trinity-that-turns-4-hour-bugs-into-4-minute-fixes-53f5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
