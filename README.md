@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The easiest way to make butterfly animation without writing a single line of CSS or JS! 🚀](https://dev.to/butterflycss/the-easiest-way-to-make-butterfly-animation-without-writing-a-single-line-of-css-or-js-mbb)
-- [System Design From Scratch: The Components That Actually Run Production Systems](https://dev.to/sabitak/system-design-from-scratch-the-components-that-actually-run-production-systems-422l)
-- [Go Bitwise Flags and Bitmasks: Configuration Pattern Guide](https://dev.to/iampavel/go-bitwise-flags-and-bitmasks-configuration-pattern-guide-24p1)
-- [How I Actually Use Claude as a Senior Dev Partner &lpar;Not Just a Code Generator&rpar;](https://dev.to/gurkiu/how-i-actually-use-claude-as-a-senior-dev-partner-not-just-a-code-generator-3ii6)
-- [How to Add Comments to an Astro Site &lpar;Lazy-Loaded, Zero JS by Default&rpar;](https://dev.to/yoni_ryabinski_da05ba8c9c/how-to-add-comments-to-an-astro-site-lazy-loaded-zero-js-by-default-hba)
+- [YINI &lpar;config format&rpar; RC.5 and yini-parser 1.5.0: making configuration stricter, clearer, and easier to trust](https://dev.to/marko_kseppnen_6250a7f/yini-config-format-rc5-and-yini-parser-150-making-configuration-stricter-clearer-and-easier-29na)
+- [Notes on My Blog&#39;s &#39;Self-Publishing&#39; Pipeline](https://dev.to/iampavel/notes-on-my-blogs-self-publishing-pipeline-20n3)
+- [PushCI v1.3.0: Your CI Tool Supports Three Languages and You Are Fine With That?](https://dev.to/shacharsol/pushci-v130-your-ci-tool-supports-three-languages-and-you-are-fine-with-that-541i)
+- [5 Best Swap APIs for Automated Yield Farming](https://dev.to/moonsoon69/5-best-swap-apis-for-automated-yield-farming-2n9e)
+- [5 Best DEX APIs for Solidity Smart Contracts](https://dev.to/moonsoon69/5-best-dex-apis-for-solidity-smart-contracts-1p6d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
