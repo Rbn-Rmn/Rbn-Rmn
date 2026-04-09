@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Claude Context Pollution Is Real — This Is How I Solved It](https://dev.to/nbaglivo/claude-context-pollution-is-real-this-is-how-i-solved-it-484n)
-- [Agent Skills Example - GitHub Copilot Visual Studio 2026](https://dev.to/incomplete_developer/agent-skills-example-github-copilot-visual-studio-2026-4jik)
-- [Hot Reload + Native Speed - Why I Built My Own Language for Android &lpar;and Desktop&rpar;](https://dev.to/artanidos/hot-reload-native-speed-why-i-built-my-own-language-for-android-and-desktop-4jhh)
-- [Using GitHub Copilot CLI with Local Models &lpar;LM Studio&rpar;](https://dev.to/playfulprogramming/using-github-copilot-cli-with-local-models-lm-studio-5e3b)
-- [Claude Code 101: Demystifying Language Models](https://dev.to/rsicarelli/claude-code-101-demystifying-language-models-3h8o)
+- [The Real Cost of 1 Hour of WordPress Downtime &lpar;It&#39;s More Than You Think&rpar;](https://dev.to/cifi/the-real-cost-of-1-hour-of-wordpress-downtime-its-more-than-you-think-3gjk)
+- [Azure Route Server and NVA: Enforcing VNet Traffic - plus Terraform Code](https://dev.to/gergovadasz/azure-route-server-and-nva-enforcing-vnet-traffic-plus-terraform-code-3j42)
+- [UML Deployment Diagrams](https://dev.to/edgaras/uml-deployment-diagrams-15c2)
+- [E2E email testing is a nightmare. I’m trying to fix the middle ground.](https://dev.to/hharanm/e2e-email-testing-is-a-nightmare-im-trying-to-fix-the-middle-ground-7f8)
+- [SpringBoot Basic Annotations and Logging](https://dev.to/s_srikamini_bfb9ce2df10/springboot-basic-annotations-and-logging-11ci)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
