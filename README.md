@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Automation Patterns That Survive Real Teams](https://dev.to/gwilym_ge/automation-patterns-that-survive-real-teams-3ef8)
-- [AI-Native Mobile Device Automation: Give Your AI Agent Eyes and Hands on Real Phones](https://dev.to/mobai_019d06386873d90ed58/ai-native-mobile-device-automation-give-your-ai-agent-eyes-and-hands-on-real-phones-43go)
-- [¿Qué es AWS CloudWatch, Casos de Uso y Por Qué Deberías Aprenderlo Hoy?](https://dev.to/byron_lainez/que-es-aws-cloudwatch-casos-de-uso-y-por-que-deberias-aprenderlo-hoy-4g1p)
-- [Founder Mode — A New Name for Micromanagement?](https://dev.to/arezvov/founder-mode-a-new-name-for-micromanagement-2he)
-- [Stop Building Static Chatbots: A Beginner’s Guide to LangGraph with Persistence 🚀](https://dev.to/syed_mehrab_08fb0419feedf/stop-building-static-chatbots-a-beginners-guide-to-langgraph-with-persistence-34lo)
+- [The Face in That Video Is Flawless. That&#39;s Your First Red Flag.](https://dev.to/caracomp/the-face-in-that-video-is-flawless-thats-your-first-red-flag-hpk)
+- [Strange but Shockingly Effective Coding Tips That Actually Work](https://dev.to/web_dev-usman/strange-but-shockingly-effective-coding-tips-that-actually-work-3mcj)
+- [Building an AI Mediator: Multi-LLM Architecture for Legal Dispute Resolution](https://dev.to/acuerdio_es/building-an-ai-mediator-multi-llm-architecture-for-legal-dispute-resolution-a9o)
+- [From Writing Requirements Docs to Shipping My First Solo Product](https://dev.to/qun_zou_5f50f061cca33d266/from-writing-requirements-docs-to-shipping-my-first-solo-product-2dfb)
+- [Vibe Coding is OVER](https://dev.to/ciphernutz/vibe-coding-is-over-5358)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
