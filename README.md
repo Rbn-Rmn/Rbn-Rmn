@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Server-Sent Events &lpar;SSE&rpar;](https://dev.to/hassanteslim007/server-sent-events-sse-k8a)
-- [Stop Writing Documentation From Scratch — Let AI Do It](https://dev.to/andreiasi_marian_b3b813dc/stop-writing-documentation-from-scratch-let-ai-do-it-eck)
-- [a Mac app that turns //TODO comments into GitHub issues automatically](https://dev.to/lrriedley/a-mac-app-that-turns-todo-comments-into-github-issues-automatically-1eg7)
-- [Two Excellent Open-Source AI Agents for Your Terminal](https://dev.to/tekk74/two-excellent-open-source-ai-agents-for-your-terminal-11ch)
-- [Mastering the &quot;Sorted Subsequence of Size 3&quot; Problem: Two Efficient Java Approaches](https://dev.to/partners_dsa_823760c83281/mastering-the-sorted-subsequence-of-size-3-problem-two-efficient-java-approaches-44ba)
+- [EasyPollVote [Dev Log #1]](https://dev.to/francistrdev/easypollvote-dev-log-1-n7j)
+- [Reviewing AI Generated Work](https://dev.to/juststevemcd/reviewing-ai-generated-work-55p)
+- [Running A Better Table](https://dev.to/juststevemcd/running-a-better-table-4175)
+- [Managing Expectations in the AI Era](https://dev.to/juststevemcd/managing-expectations-in-the-ai-era-ogi)
+- [Building Modern Laravel APIs: Foundations and Project Structure](https://dev.to/juststevemcd/building-modern-laravel-apis-foundations-and-project-structure-3ich)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
