@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [TOP 5 Books Every Backend Developer Should Read](https://dev.to/masteringbackend/top-5-books-every-backend-developer-should-read-3i3g)
-- [Debugging Laravel Queue Failures in Production Without Losing Messages](https://dev.to/deploynix/debugging-laravel-queue-failures-in-production-without-losing-messages-2id0)
-- [Static Code Analysis Tools: The Definitive Guide &lpar;2026&rpar;](https://dev.to/rahulxsingh/static-code-analysis-tools-the-definitive-guide-2026-19cg)
-- [The Next Generation of Developers Won’t Look Like Us](https://dev.to/jaideepparashar/the-next-generation-of-developers-wont-look-like-us-4bia)
-- [Vitest vs Jest 2026: Which Testing Framework Should You Use?](https://dev.to/jake_kim_bd3065a6816799db/vitest-vs-jest-2026-which-testing-framework-should-you-use-4d0k)
+- [Local-First Vectors: How to Build Privacy-Preserving AI Apps without the Cloud](https://dev.to/akosidencio/local-first-vectors-how-to-build-privacy-preserving-ai-apps-without-the-cloud-4lih)
+- [Maximize Performance in HTML5: Proven Techniques for Faster, Smoother Web Apps](https://dev.to/piya__c204c9e90/maximize-performance-in-html5-proven-techniques-for-faster-smoother-web-apps-4dh6)
+- [Create a mini-website with HTMLSave](https://dev.to/htmlsave/create-a-mini-website-with-htmlsave-4odi)
+- [Why I Built an AI IELTS Grader That Replaces the $50-Per-Essay Human Tutor](https://dev.to/ryan_715bad0e12e828cbe181/why-i-built-an-ai-ielts-grader-that-replaces-the-50-per-essay-human-tutor-f5f)
+- [Enhancing ffetch: Opt-in Shortcuts for Requests and Responses While Preserving Native Fetch Compatibility](https://dev.to/pavkode/enhancing-ffetch-opt-in-shortcuts-for-requests-and-responses-while-preserving-native-fetch-1kl4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
