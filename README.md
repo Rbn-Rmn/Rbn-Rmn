@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Signals in React &lpar;VI&rpar;: Stale Closures, Subscription Traps, and Reactive Graph Pitfalls](https://dev.to/luciano0322/signals-in-react-vi-stale-closures-subscription-traps-and-reactive-graph-pitfalls-14n9)
-- [NEXT LEVEL LAB — DevOps API Testing &lpar;AWS + Auth + CI/CD mindset&rpar;](https://dev.to/jumptotech/next-level-lab-devops-api-testing-aws-auth-cicd-mindset-1a57)
-- [Experience Engine: AI Memory That Shrinks As Your Agent Learns](https://dev.to/muonroi/experience-engine-ai-memory-that-shrinks-as-your-agent-learns-2jee)
-- [A simple React hook for running local LLMs via WebGPU](https://dev.to/rahul_80cfa43302b/a-simple-react-hook-for-running-local-llms-via-webgpu-5234)
-- [OpenVid: The Open-Source Studio to Create Cinematic Demos in Your Browser](https://dev.to/cristianolivera1/openvid-the-open-source-studio-to-create-cinematic-demos-in-your-browser-6dj)
+- [Why I Built OpenRig](https://dev.to/esotericlabs/why-i-built-openrig-1i7e)
+- [I Built a GitHub Activity Visualizer Dashboard Using JavaScript &lpar;Looking for Feedback!&rpar;](https://dev.to/aswanth_mc_d870caf3a1c4a/i-built-a-github-activity-visualizer-dashboard-using-javascript-looking-for-feedback-2fih)
+- [The 4 questions every SDET recruiter asks &lpar;and the frameworks to answer them&rpar;](https://dev.to/hien_nguyen/the-4-questions-every-sdet-recruiter-asks-and-the-frameworks-to-answer-them-4ao)
+- [Cách nâng cấp, cải thiện chất lượng video bằng FFmpeg: Tăng độ phân giải, khử nhiễu, chống rung](https://dev.to/sebbasstian/cach-nang-cap-cai-thien-chat-luong-video-bang-ffmpeg-tang-do-phan-giai-khu-nhieu-chong-rung-5086)
+- [I tested 4 codebase-to-AI tools on FastAPI &lpar;108k lines&rpar;. Here are the token costs.](https://dev.to/thegdsks/i-tested-4-codebase-to-ai-tools-on-fastapi-108k-lines-here-are-the-token-costs-4bmc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
