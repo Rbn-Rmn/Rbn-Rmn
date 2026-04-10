@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Local-First Vectors: How to Build Privacy-Preserving AI Apps without the Cloud](https://dev.to/akosidencio/local-first-vectors-how-to-build-privacy-preserving-ai-apps-without-the-cloud-4lih)
-- [Maximize Performance in HTML5: Proven Techniques for Faster, Smoother Web Apps](https://dev.to/piya__c204c9e90/maximize-performance-in-html5-proven-techniques-for-faster-smoother-web-apps-4dh6)
-- [Create a mini-website with HTMLSave](https://dev.to/htmlsave/create-a-mini-website-with-htmlsave-4odi)
-- [Why I Built an AI IELTS Grader That Replaces the $50-Per-Essay Human Tutor](https://dev.to/ryan_715bad0e12e828cbe181/why-i-built-an-ai-ielts-grader-that-replaces-the-50-per-essay-human-tutor-f5f)
-- [Enhancing ffetch: Opt-in Shortcuts for Requests and Responses While Preserving Native Fetch Compatibility](https://dev.to/pavkode/enhancing-ffetch-opt-in-shortcuts-for-requests-and-responses-while-preserving-native-fetch-1kl4)
+- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me)
+- [The AI Development Stack: Fundamentals Every Developer Should Actually Understand](https://dev.to/toms_garcia_6574fe315ddb/the-ai-development-stack-fundamentals-every-developer-should-actually-understand-5fei)
+- [Velero Going CNCF Isn&#39;t About Backup. It&#39;s About Control.](https://dev.to/ntctech/velero-going-cncf-isnt-about-backup-its-about-control-3lp7)
+- [Redis connection monkey patching in Ruby Jungles](https://dev.to/tsypuk/redis-connection-monkey-patching-in-ruby-jungles-4k7o)
+- [Azure Kubernetes Security: Checklist and Best Practices](https://dev.to/mohamed_amine_hlali/azure-kubernetes-security-checklist-and-best-practices-3e89)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
