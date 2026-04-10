@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built This Tool With Three AIs at Once — Claude, Gemini, and Copilot](https://dev.to/cucuwang/i-built-this-tool-with-three-ais-at-once-claude-gemini-and-copilot-254b)
-- [How to Set Up Sourcery AI in VS Code: Complete Guide](https://dev.to/rahulxsingh/how-to-set-up-sourcery-ai-in-vs-code-complete-guide-2499)
-- [Best AI Agent Frameworks in 2026: A Developer&#39;s Comparison](https://dev.to/younes_dev/best-ai-agent-frameworks-in-2026-a-developers-comparison-5978)
-- [I Built an AI That Roasts You &lpar;But Actually Cares&rpar;](https://dev.to/kanchan_ghosh_ab4fceafe66/i-built-an-ai-that-roasts-you-but-actually-cares-4c3l)
-- [Digital signatures: Schnorr, ECDSA and how PS3 was hacked](https://dev.to/0xluk3/digital-signatures-schnorr-ecdsa-and-how-ps3-was-hacked-4kdk)
+- [TOP 5 Books Every Backend Developer Should Read](https://dev.to/masteringbackend/top-5-books-every-backend-developer-should-read-3i3g)
+- [Debugging Laravel Queue Failures in Production Without Losing Messages](https://dev.to/deploynix/debugging-laravel-queue-failures-in-production-without-losing-messages-2id0)
+- [Static Code Analysis Tools: The Definitive Guide &lpar;2026&rpar;](https://dev.to/rahulxsingh/static-code-analysis-tools-the-definitive-guide-2026-19cg)
+- [The Next Generation of Developers Won’t Look Like Us](https://dev.to/jaideepparashar/the-next-generation-of-developers-wont-look-like-us-4bia)
+- [Vitest vs Jest 2026: Which Testing Framework Should You Use?](https://dev.to/jake_kim_bd3065a6816799db/vitest-vs-jest-2026-which-testing-framework-should-you-use-4d0k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
