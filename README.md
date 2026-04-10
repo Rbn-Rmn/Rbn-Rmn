@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 10th April 2026](https://dev.to/ziizium/security-news-weekly-round-up-10th-april-2026-l5n)
-- [How to Look Up Verified Phone Numbers with TypeScript](https://dev.to/millionphones/how-to-look-up-verified-phone-numbers-with-typescript-3226)
-- [The proof-of- work with Ansible](https://dev.to/oofemi/the-proof-of-work-with-ansible-2jm1)
-- [AI-Generated PRs Lack Human Oversight, Leading to Poor Code Quality: Implementing Review Guidelines as Solution](https://dev.to/denlava/ai-generated-prs-lack-human-oversight-leading-to-poor-code-quality-implementing-review-guidelines-12ni)
-- [I Built a Real-Time Multiplayer Bingo Engine with Next.js, Supabase, and Ably](https://dev.to/forrestmiller/i-built-a-real-time-multiplayer-bingo-engine-winextjs-webdev-javascript-reactth-nextjs-2og1)
+- [&quot;Fresher Got ₹12 LPA Offer — Here&#39;s the Exact Skills Stack They Had&quot;](https://dev.to/devraj_singh7/fresher-got-12-lpa-offer-heres-the-exact-skills-stack-they-had-5bah)
+- [12 Best Code Test Coverage Tools in 2026 - Comprehensive Guide](https://dev.to/rahulxsingh/12-best-code-test-coverage-tools-in-2026-comprehensive-guide-3kh3)
+- [Cert-gating every tool call: zero-trust for AI agents](https://dev.to/1r0nw1ll/cert-gating-every-tool-call-zero-trust-for-ai-agents-8pg)
+- [Claude Code install and config for Ollama, llama.cpp, pricing](https://dev.to/rosgluk/claude-code-install-and-config-for-ollama-llamacpp-pricing-3842)
+- [Hermes AI Assistant - Install, Setup, Workflow, and Troubleshooting](https://dev.to/rosgluk/hermes-ai-assistant-install-setup-workflow-and-troubleshooting-1oom)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
