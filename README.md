@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Regularization in Machine Learning — How to Actually Prevent Overfitting &lpar;L1, L2, Dropout&rpar;](https://dev.to/zeromathai/regularization-in-machine-learning-how-to-actually-prevent-overfitting-l1-l2-dropout-1dph)
-- [Hosting a Static Website on AWS with S3 and CloudFront using Terraform](https://dev.to/vatul16/hosting-a-static-website-on-aws-with-s3-and-cloudfront-using-terraform-174b)
-- [Add Voice Calling to Claude Desktop in 5 Minutes with MCP](https://dev.to/voipbin/add-voice-calling-to-claude-desktop-in-5-minutes-with-mcp-4io7)
-- [Your Job shouldn&#39;t give you meaning, Your meaning should give you a job.](https://dev.to/destinytimothy/your-job-shouldnt-give-you-meaning-your-meaning-should-give-you-a-job-g7)
-- [OverthinkAI — I Built an AI That Cannot Answer a Single Question](https://dev.to/pulkitgovrani/overthinkai-i-built-an-ai-that-cannot-answer-a-single-question-16hl)
+- [Beyond the Console: The Modern DevOps Guide to Architecting on AWS](https://dev.to/matt0135/beyond-the-console-the-modern-devops-guide-to-architecting-on-aws-3aea)
+- [The &quot;Claude Mythos&quot; Illusion: Innovation or Data Harvesting?](https://dev.to/casonadams/the-claude-mythos-illusion-innovation-or-data-harvesting-4o6m)
+- [Building a Figma to GitHub token pipeline that actually works](https://dev.to/alexandersstudi/building-a-figma-to-github-token-pipeline-that-actually-works-3o0o)
+- [I Tried 25+ AI Text-to-Speech Generators — These 6 Are the Best for Realistic Voices &lpar;2026&rpar;](https://dev.to/nitinfab/i-tried-25-ai-text-to-speech-generators-these-6-are-the-best-for-realistic-voices-2026-12e8)
+- [Claude Managed Agents Deep Dive: Anthropic&#39;s New AI Agent Infrastructure &lpar;2026&rpar;](https://dev.to/bean_bean/claude-managed-agents-deep-dive-anthropics-new-ai-agent-infrastructure-2026-3286)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
