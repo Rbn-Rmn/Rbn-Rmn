@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building a Voice-Controlled AI Agent with Whisper and Streamlit](https://dev.to/vedant_jagtap_577/building-a-voice-controlled-ai-agent-with-whisper-and-streamlit-m28)
-- [Automate Your Links: A Developer&#39;s Guide to the toui.io API](https://dev.to/thebrecht/automate-your-links-a-developers-guide-to-the-touiio-api-gam)
-- [How to Turn a 1-Hour YouTube Video into 10 Viral Clips Using AI](https://dev.to/kyle_clipspeedai/how-to-turn-a-1-hour-youtube-video-into-10-viral-clips-using-ai-3aen)
-- [Mastering Your Frontend Build with Bazel: Testing](https://dev.to/mbarzeev/mastering-your-frontend-build-with-bazel-testing-mlg)
-- [I Put pg_stat_activity in My SQL Client — And Added a Kill Button](https://dev.to/gillarohith/i-put-pgstatactivity-in-my-sql-client-and-added-a-kill-button-481i)
+- [Why You Can’t Download Netflix Videos: A Deep Dive into DRM](https://dev.to/unstbl/why-you-cant-download-netflix-videos-a-deep-dive-into-drm-nbh)
+- [How to Understand AI: Agents, Search, Machine Learning, and Deep Learning](https://dev.to/zeromathai/ai-concepts-and-structure-a-unified-view-of-agents-search-machine-learning-and-deep-learning-1h8p)
+- [When Your Node.js App Works Locally but Fails on a VPS](https://dev.to/nixx/when-your-nodejs-app-works-locally-but-fails-on-a-vps-3nd6)
+- [HTCPCP-2000 // COFFEE_OS](https://dev.to/shadrack_baidoo_503368216/htcpcp-2000-coffeeos-3k8p)
+- [EXPOSED: The Youdao Ads Influencer Marketing Scam - Technical Analysis &amp; Red Flags](https://dev.to/freerave/exposed-the-youdao-ads-influencer-marketing-scam-technical-analysis-red-flags-5cag)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
