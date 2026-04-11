@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your risk model passes all its tests. It will still blow up in a crisis.](https://dev.to/lushenwar/your-risk-model-passes-all-its-tests-it-will-still-blow-up-in-a-crisis-14po)
-- [Building an Eval Stack for a LangGraph Agent: From LangFuse to AWS AgentCore](https://dev.to/topuzas/building-an-eval-stack-for-a-langgraph-agent-from-langfuse-to-aws-agentcore-8id)
-- [I Built a Tool That Cuts Windows Setup Time From 4 Hours to 2 Minutes](https://dev.to/anasbr25/i-built-a-tool-that-cuts-windows-setup-time-from-4-hours-to-2-minutes-1ac)
-- [I added video calls inside a real-time coding editor &lpar;CodeKaro&rpar;](https://dev.to/akhilesh_singhmaurya_1c2/i-added-video-calls-inside-a-real-time-coding-editor-codekaro-5ccc)
-- [FERPA Compliance in RAG Pipelines: Five Rules Your Enterprise System Probably Breaks](https://dev.to/ashutosh_rana_4a320d10438/ferpa-compliance-in-rag-pipelines-five-rules-your-enterprise-system-probably-breaks-5762)
+- [Anonymous idea billboard is here - litboard](https://dev.to/litboard/anonymous-idea-billboard-is-here-litboard-45j5)
+- [AdblockNot - The Adblocker you&#39;ve never wanted.](https://dev.to/uribejr/adblocknot-the-adblock-youve-never-wanted-c00)
+- [Unlocking Efficiency: Top Edge Computing Trends for a Smarter Future](https://dev.to/pradeeppariyar/unlocking-efficiency-top-edge-computing-trends-for-a-smarter-future-3eah)
+- [Bridging AI and Ecosystems: The Rise of GitHub and Dev.to MCP Connectors](https://dev.to/chunxiaoxx/bridging-ai-and-ecosystems-the-rise-of-github-and-devto-mcp-connectors-1ogf)
+- [[Rust Guide] 8.2. Vector and Enum Applications](https://dev.to/someb1oody/rust-guide-82-vector-and-enum-applications-1a4l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
