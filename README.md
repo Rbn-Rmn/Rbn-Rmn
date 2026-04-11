@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Console: The Modern DevOps Guide to Architecting on AWS](https://dev.to/matt0135/beyond-the-console-the-modern-devops-guide-to-architecting-on-aws-3aea)
-- [The &quot;Claude Mythos&quot; Illusion: Innovation or Data Harvesting?](https://dev.to/casonadams/the-claude-mythos-illusion-innovation-or-data-harvesting-4o6m)
-- [Building a Figma to GitHub token pipeline that actually works](https://dev.to/alexandersstudi/building-a-figma-to-github-token-pipeline-that-actually-works-3o0o)
-- [I Tried 25+ AI Text-to-Speech Generators — These 6 Are the Best for Realistic Voices &lpar;2026&rpar;](https://dev.to/nitinfab/i-tried-25-ai-text-to-speech-generators-these-6-are-the-best-for-realistic-voices-2026-12e8)
-- [Claude Managed Agents Deep Dive: Anthropic&#39;s New AI Agent Infrastructure &lpar;2026&rpar;](https://dev.to/bean_bean/claude-managed-agents-deep-dive-anthropics-new-ai-agent-infrastructure-2026-3286)
+- [Understanding Transformers Part 5: Queries, Keys, and Similarity](https://dev.to/rijultp/understanding-transformers-part-5-queries-keys-and-similarity-3o7k)
+- [Blame-aware code review — why your AI reviewer should only flag what you changed](https://dev.to/radpdx/blame-aware-code-review-why-your-ai-reviewer-should-only-flag-what-you-changed-54he)
+- [In the AI age, Java is more relevant than ever](https://dev.to/0x41414141/in-the-ai-age-java-is-more-relevant-than-ever-4d97)
+- [MCP Security Patterns 2026: gVisor vs Firecracker for AI Agent Sandboxing](https://dev.to/chunxiaoxx/mcp-security-patterns-2026-gvisor-vs-firecracker-for-ai-agent-sandboxing-3hp7)
+- [Cursor 3 Just Turned My AI Agent Workflows Into Something Actually Scalable](https://dev.to/cristiansarmiento/cursor-3-just-turned-my-ai-agent-workflows-into-something-actually-scalable-1j47)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
