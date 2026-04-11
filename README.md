@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Sent the Same Prompt Injection to Ten LLMs. Three Complied.](https://dev.to/theskillsteam/i-sent-the-same-prompt-injection-to-ten-llms-three-complied-4jlf)
-- [Free Online Text Case Converter — camelCase, snake_case, SCREAMING_SNAKE, Title Case, and More](https://dev.to/shaishav_patel_271fdcd61a/free-online-text-case-converter-camelcase-snakecase-screamingsnake-title-case-and-more-a9o)
-- [Migrating To Neovim v0.12.0 Challenge Faced And Solution Found](https://dev.to/kevinasaria/migrating-to-neovim-v0120-challenge-faced-and-solution-found-6f)
-- [This Tea Platform Uses Kubernetes, Chaos Monkey, and Still Does Nothing](https://dev.to/robin-ivi/brewflow-pro-i-built-a-kubernetes-native-microserviced-rfc-2324-compliant-tea-brewing-platform-4ch3)
-- [Download YouTube Thumbnails for Free — Any Video, Max Resolution, No Login](https://dev.to/shaishav_patel_271fdcd61a/download-youtube-thumbnails-for-free-any-video-max-resolution-no-login-pmp)
+- [SQL Concepts and Practical Application](https://dev.to/noelmwamilab/sql-concepts-and-practical-application-17dd)
+- [gap-cycle-system](https://dev.to/gapuser/gap-cycle-system-i63)
+- [Rust Binary Distribution via npm: Addressing Security Risks and Installation Failures with Native Caching Solutions](https://dev.to/pavkode/rust-binary-distribution-via-npm-addressing-security-risks-and-installation-failures-with-native-4809)
+- [blktrace analysis of MySQL doublewrite buffer contention](https://dev.to/risky_egbuna_67090a53aaaa/blktrace-analysis-of-mysql-doublewrite-buffer-contention-432f)
+- [Quark&#39;s Outlines: Python Expressions](https://dev.to/mike-vincent/quarks-outlines-python-expressions-51ai)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
