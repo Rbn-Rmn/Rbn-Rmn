@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built a pixel-perfect, printer-independent report designer with Avalonia UI](https://dev.to/maskedridersystem/i-built-a-pixel-perfect-printer-independent-report-designer-with-avalonia-ui-4dke)
-- [What 99.9% Uptime Actually Means: 8.7 Hours of Downtime Per Year](https://dev.to/alertsleep/what-999-uptime-actually-means-87-hours-of-downtime-per-year-33k)
-- [🏗️ Building my home server: Part 9](https://dev.to/denesbeck/building-my-home-server-part-9-1km5)
-- [# 😂 Catch Me If You Can – A Completely Useless Website](https://dev.to/shubhangi_jadhav_669bfa23/-catch-me-if-you-can-a-completely-useless-website-3djd)
-- [I built an AI agent that learns from repeated issues using memory](https://dev.to/rithika_1506/i-built-an-ai-agent-that-learns-from-repeated-issues-using-memory-4l7a)
+- [A Keyboard-Driven HTML Entity Lookup That Lets You Copy All Three Forms](https://dev.to/sendotltd/a-keyboard-driven-html-entity-lookup-that-lets-you-copy-all-three-forms-2lf6)
+- [A Searchable HTTP Status Code Reference with 36 Codes, One-Line Descriptions, and Yes, 418](https://dev.to/sendotltd/a-searchable-http-status-code-reference-with-36-codes-one-line-descriptions-and-yes-418-1e0g)
+- [How to Test SSO Authentication with Cognito and OIDC Providers](https://dev.to/soldatov-ss/how-to-test-sso-authentication-with-cognito-and-oidc-providers-894)
+- [How to Configure AWS Cognito for SSO: A Step-by-Step Guide](https://dev.to/soldatov-ss/how-to-configure-aws-cognito-for-sso-a-step-by-step-guide-3j44)
+- [Why 1100 / 1.1 = 999.9999… Is a Tax Calculator Bug, and Two Ways to Fix It](https://dev.to/sendotltd/why-1100-11-9999999-is-a-tax-calculator-bug-and-two-ways-to-fix-it-3d38)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
