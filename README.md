@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [30-Day Cloud &amp; DevOps Challenge: Day 7 — Docker Compose: One Command to Rule Them All](https://dev.to/michellewanjiru/30-day-cloud-devops-challenge-day-7-docker-compose-one-command-to-rule-them-all-1ll)
-- [Why I Built Patch Pulse](https://dev.to/barrymichaeldoyle/why-i-built-patch-pulse-1094)
-- [ACR is designed as a printer-independent report rendering service, not just a library.](https://dev.to/maskedridersystem/acr-is-designed-as-a-printer-independent-report-rendering-service-not-just-a-library-11d3)
-- [Backend Engineering — Building the Intelligence Engine for Cross-Lifecycle Systems](https://dev.to/ayush_raj_8bafd4826764fe3/backend-engineering-building-the-intelligence-engine-for-cross-lifecycle-systems-2lo)
-- [I spent 10 years building a lightweight PHP framework for WEB application development](https://dev.to/o-planet/i-spent-10-years-building-a-lightweight-php-framework-for-web-application-development-42op)
+- [Vecstore vs Imagga: We Tested Both Image Search APIs](https://dev.to/kencho/vecstore-vs-imagga-we-tested-both-image-search-apis-5316)
+- [End-to-End Testing: Validating Kafka Messages with Playwright](https://dev.to/arkreddysfo/end-to-end-testing-validating-kafka-messages-with-playwright-2m0h)
+- [How to Add Image Search to a React App](https://dev.to/kencho/how-to-add-image-search-to-a-react-app-42ap)
+- [Astro Port: 3.17 kB Gzip, 94% vs React, New Series Record — Because the Framework Runtime Is Literally Zero](https://dev.to/sendotltd/astro-port-317-kb-gzip-94-vs-react-new-series-record-because-the-framework-runtime-is-5f09)
+- [How I Built a Self-Hosted Minecraft Server on AWS in One Day — With a Discord Bot, Auto-Security, and Almost Zero Cost](https://dev.to/birajcoder/how-i-built-a-self-hosted-minecraft-server-on-aws-in-one-day-with-a-discord-bot-auto-security-181c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
