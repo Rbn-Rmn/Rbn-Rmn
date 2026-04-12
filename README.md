@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [LLM Gateway vs LLM Proxy vs LLM Router: What&#39;s the Difference?](https://dev.to/gauravdagde/llm-gateway-vs-llm-proxy-vs-llm-router-whats-the-difference-3o5a)
-- [Building a Voice-Controlled AI Agent with FastAPI, Groq Whisper &amp; LLaMA](https://dev.to/sneha_dhir_649d9b22406fa6/building-a-voice-controlled-ai-agent-with-fastapi-groq-whisper-llama-5bgk)
-- [Atomic Operations in Go](https://dev.to/iampavel/atomic-operations-in-go-2e0g)
-- [PostgreSQL Write Performance: What the Benchmarks Won&#39;t Tell You](https://dev.to/haikasatryan/postgresql-write-performance-what-the-benchmarks-wont-tell-you-mm7)
-- [Unpacking the language of data: DDL, DML, Filtering and Transformation.](https://dev.to/zawadi_mwikali_f3257dcf58/unpacking-the-language-of-data-ddl-dml-filtering-and-transformation-1bhc)
+- [HOW I BUILT A FULL STACK WEBSITE &lpar;MERN&rpar;](https://dev.to/nswarnob/how-i-built-a-full-stack-website-mern-2hg6)
+- [What code review process do you use for AI-generated code?](https://dev.to/manthanbhatt/what-code-review-process-do-you-use-for-ai-generated-code-4n4l)
+- [SPF Records Explained: Prevent Email Spoofing with Sender Policy Framework](https://dev.to/toolbox_starnomina/spf-records-explained-prevent-email-spoofing-with-sender-policy-framework-1lad)
+- [DKIM Explained: How Email Digital Signatures Protect Your Domain](https://dev.to/toolbox_starnomina/dkim-explained-how-email-digital-signatures-protect-your-domain-1i9i)
+- [BIMI: Display Your Brand Logo in Email Inboxes](https://dev.to/toolbox_starnomina/bimi-display-your-brand-logo-in-email-inboxes-1hjo)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
