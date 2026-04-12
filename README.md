@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building an Explainable AI Toolkit for Laravel &lpar;Not Just Another ChatGPT Wrapper&rpar;](https://dev.to/mukundhan_mohan_403443a12/building-an-explainable-ai-toolkit-for-laravel-not-just-another-chatgpt-wrapper-49c)
-- [Robot Training Data Is Turning Labor Into Infrastructure](https://dev.to/simon_paxton/robot-training-data-is-turning-labor-into-infrastructure-2ebd)
-- [How to Connect Mila to Claude Desktop via MCP in 30 Seconds](https://dev.to/noleetcode/how-to-connect-mila-to-claude-desktop-via-mcp-in-30-seconds-22jo)
-- [Open-source AI Built Qwen’s Reach. Alibaba Wants Cloud Cash](https://dev.to/simon_paxton/open-source-ai-built-qwens-reach-alibaba-wants-cloud-cash-223g)
-- [The Remote Developer&#39;s Guide to Southeast Asia in 2026: Internet Speeds, Co-Living Costs, Visa Rules, and the Cities That Actually Work](https://dev.to/mightyblue/the-remote-developers-guide-to-southeast-asia-in-2026-internet-speeds-co-living-costs-visa-44g9)
+- [I built a pixel-perfect, printer-independent report designer with Avalonia UI](https://dev.to/maskedridersystem/i-built-a-pixel-perfect-printer-independent-report-designer-with-avalonia-ui-4dke)
+- [What 99.9% Uptime Actually Means: 8.7 Hours of Downtime Per Year](https://dev.to/alertsleep/what-999-uptime-actually-means-87-hours-of-downtime-per-year-33k)
+- [🏗️ Building my home server: Part 9](https://dev.to/denesbeck/building-my-home-server-part-9-1km5)
+- [# 😂 Catch Me If You Can – A Completely Useless Website](https://dev.to/shubhangi_jadhav_669bfa23/-catch-me-if-you-can-a-completely-useless-website-3djd)
+- [I built an AI agent that learns from repeated issues using memory](https://dev.to/rithika_1506/i-built-an-ai-agent-that-learns-from-repeated-issues-using-memory-4l7a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
