@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [KMP Native UI Login and Profile screens, navigation, and more](https://dev.to/saad4software/kmp-native-ui-login-and-profile-screens-navigation-and-more-1461)
-- [What really is DDL and DML and their comparision](https://dev.to/jaysonjob/what-really-is-ddl-and-dml-and-their-comparision-1g7k)
-- [ArduBios news](https://dev.to/leonardopinezi/ardubios-news-2mcb)
-- [Built a Schema.org Generator for a Country of 93k People](https://dev.to/edulazaro/built-a-schemaorg-generator-for-a-country-of-93k-people-4c6o)
-- [I built a modern alternative to gron using Bun and TypeScript](https://dev.to/siyadhkc/i-built-a-modern-alternative-to-gron-using-bun-and-typescript-3358)
+- [LLM Gateway vs LLM Proxy vs LLM Router: What&#39;s the Difference?](https://dev.to/gauravdagde/llm-gateway-vs-llm-proxy-vs-llm-router-whats-the-difference-3o5a)
+- [Building a Voice-Controlled AI Agent with FastAPI, Groq Whisper &amp; LLaMA](https://dev.to/sneha_dhir_649d9b22406fa6/building-a-voice-controlled-ai-agent-with-fastapi-groq-whisper-llama-5bgk)
+- [Atomic Operations in Go](https://dev.to/iampavel/atomic-operations-in-go-2e0g)
+- [PostgreSQL Write Performance: What the Benchmarks Won&#39;t Tell You](https://dev.to/haikasatryan/postgresql-write-performance-what-the-benchmarks-wont-tell-you-mm7)
+- [Unpacking the language of data: DDL, DML, Filtering and Transformation.](https://dev.to/zawadi_mwikali_f3257dcf58/unpacking-the-language-of-data-ddl-dml-filtering-and-transformation-1bhc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
