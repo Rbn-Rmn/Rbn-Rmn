@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [A simple invoice follow-up system for UK freelancers who are tired of chasing payments](https://dev.to/landolio/a-simple-invoice-follow-up-system-for-uk-freelancers-who-are-tired-of-chasing-payments-143k)
-- [I Stopped Using AI Tools for 30 Days. Here&#39;s What I Learned About Myself as a Developer. 🚫🤖](https://dev.to/mamoor123/i-stopped-using-ai-tools-for-30-days-heres-what-i-learned-about-myself-as-a-developer-1kb0)
-- [Vector Embeddings: The Foundation of Semantic AI](https://dev.to/freedevkit/vector-embeddings-the-foundation-of-semantic-ai-pij)
-- [Read 3x Faster Without Losing Comprehension: Introducing NovaRead ⚡️📖](https://dev.to/sruthik_issac/read-3x-faster-without-losing-comprehension-introducing-novaread-32e2)
-- [Extending Qwen3-TTS: clone voices once, reuse everywhere &lpar;pure C&rpar;](https://dev.to/gabrielemastrapasqua/extending-qwen3-tts-clone-voices-once-reuse-everywhere-pure-c-271o)
+- [30-Day Cloud &amp; DevOps Challenge: Day 7 — Docker Compose: One Command to Rule Them All](https://dev.to/michellewanjiru/30-day-cloud-devops-challenge-day-7-docker-compose-one-command-to-rule-them-all-1ll)
+- [Why I Built Patch Pulse](https://dev.to/barrymichaeldoyle/why-i-built-patch-pulse-1094)
+- [ACR is designed as a printer-independent report rendering service, not just a library.](https://dev.to/maskedridersystem/acr-is-designed-as-a-printer-independent-report-rendering-service-not-just-a-library-11d3)
+- [Backend Engineering — Building the Intelligence Engine for Cross-Lifecycle Systems](https://dev.to/ayush_raj_8bafd4826764fe3/backend-engineering-building-the-intelligence-engine-for-cross-lifecycle-systems-2lo)
+- [I spent 10 years building a lightweight PHP framework for WEB application development](https://dev.to/o-planet/i-spent-10-years-building-a-lightweight-php-framework-for-web-application-development-42op)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
