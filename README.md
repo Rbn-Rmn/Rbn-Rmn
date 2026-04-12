@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [WHAT IS JAVASCRIPT](https://dev.to/subash_4870e66d76ac024544/what-is-javascript-21b5)
-- [Stickman Walking animation](https://dev.to/preetha_vaishnavi_2b82358/stickman-walking-animation-ffc)
-- [SvelteKit Port: 32.50 kB Gzip, +72% Over Plain Svelte — Meta-Framework Tax, Round Two](https://dev.to/sendotltd/sveltekit-port-3250-kb-gzip-72-over-plain-svelte-meta-framework-tax-round-two-288c)
-- [Soul in Motion — 06:00 PM | 2026-04-12](https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-0600-pm-2026-04-12-5gi5)
-- [Entity mapping in depth: attributes, types, and nullable fields](https://dev.to/davidlastrucci/entity-mapping-in-depth-attributes-types-and-nullable-fields-3lo)
+- [A simple invoice follow-up system for UK freelancers who are tired of chasing payments](https://dev.to/landolio/a-simple-invoice-follow-up-system-for-uk-freelancers-who-are-tired-of-chasing-payments-143k)
+- [I Stopped Using AI Tools for 30 Days. Here&#39;s What I Learned About Myself as a Developer. 🚫🤖](https://dev.to/mamoor123/i-stopped-using-ai-tools-for-30-days-heres-what-i-learned-about-myself-as-a-developer-1kb0)
+- [Vector Embeddings: The Foundation of Semantic AI](https://dev.to/freedevkit/vector-embeddings-the-foundation-of-semantic-ai-pij)
+- [Read 3x Faster Without Losing Comprehension: Introducing NovaRead ⚡️📖](https://dev.to/sruthik_issac/read-3x-faster-without-losing-comprehension-introducing-novaread-32e2)
+- [Extending Qwen3-TTS: clone voices once, reuse everywhere &lpar;pure C&rpar;](https://dev.to/gabrielemastrapasqua/extending-qwen3-tts-clone-voices-once-reuse-everywhere-pure-c-271o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
