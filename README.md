@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Leiningen — Complete Tutorial &amp; Best Practices](https://dev.to/ivangavlik/leiningen-complete-tutorial-best-practices-3f8l)
-- [Build Your Own &quot;Private Copilot&quot; in 10 Minutes: Ollama, Continue, and DeepSeek-V3](https://dev.to/syedahmershah/build-your-own-private-copilot-in-10-minutes-ollama-continue-and-deepseek-v3-4cog)
-- [How to Resize an LVM Volume in Linux](https://dev.to/nuculabs_dev/how-to-resize-an-lvm-volume-in-linux-4jib)
-- [Building a Code Review Agent That Learns From Every Decision](https://dev.to/abhiramcdivakaran/building-a-code-review-agent-that-learns-from-every-decision-5a4c)
-- [Inside the Running Object Table: COM&#39;s Hidden Registry of Live Objects](https://dev.to/steelfactor/inside-the-running-object-table-coms-hidden-registry-of-live-objects-3k64)
+- [WHAT IS JAVASCRIPT](https://dev.to/subash_4870e66d76ac024544/what-is-javascript-21b5)
+- [Stickman Walking animation](https://dev.to/preetha_vaishnavi_2b82358/stickman-walking-animation-ffc)
+- [SvelteKit Port: 32.50 kB Gzip, +72% Over Plain Svelte — Meta-Framework Tax, Round Two](https://dev.to/sendotltd/sveltekit-port-3250-kb-gzip-72-over-plain-svelte-meta-framework-tax-round-two-288c)
+- [Soul in Motion — 06:00 PM | 2026-04-12](https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-0600-pm-2026-04-12-5gi5)
+- [Entity mapping in depth: attributes, types, and nullable fields](https://dev.to/davidlastrucci/entity-mapping-in-depth-attributes-types-and-nullable-fields-3lo)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
