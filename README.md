@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Inference Reckoning: From Training Buildout to Monetization](https://dev.to/practiceoverflow/the-inference-reckoning-from-training-buildout-to-monetization-ggf)
-- [Agent Native Data Infrastructure](https://dev.to/practiceoverflow/agent-native-data-infrastructure-3ej1)
-- [One Open Source Project a Day &lpar;No. 36&rpar;: awesome-design-md - Making Design Specs Truly Readable for AI](https://dev.to/wonderlab/one-open-source-project-a-day-no-36-awesome-design-md-making-design-specs-truly-readable-for-304d)
-- [Stop Thinking of HTTP as Request/Response. It&#39;s a Universal Data Layout — and It&#39;s Faster Than Binary Protocol.](https://dev.to/thuangf45/stop-thinking-of-http-as-requestresponse-its-a-universal-data-layout-and-its-faster-than-4c1p)
-- [Best Practices for WordPress SSO Across Separate Domains](https://dev.to/nexuwp/best-practices-for-wordpress-sso-across-separate-domains-4kbk)
+- [Building an Explainable AI Toolkit for Laravel &lpar;Not Just Another ChatGPT Wrapper&rpar;](https://dev.to/mukundhan_mohan_403443a12/building-an-explainable-ai-toolkit-for-laravel-not-just-another-chatgpt-wrapper-49c)
+- [Robot Training Data Is Turning Labor Into Infrastructure](https://dev.to/simon_paxton/robot-training-data-is-turning-labor-into-infrastructure-2ebd)
+- [How to Connect Mila to Claude Desktop via MCP in 30 Seconds](https://dev.to/noleetcode/how-to-connect-mila-to-claude-desktop-via-mcp-in-30-seconds-22jo)
+- [Open-source AI Built Qwen’s Reach. Alibaba Wants Cloud Cash](https://dev.to/simon_paxton/open-source-ai-built-qwens-reach-alibaba-wants-cloud-cash-223g)
+- [The Remote Developer&#39;s Guide to Southeast Asia in 2026: Internet Speeds, Co-Living Costs, Visa Rules, and the Cities That Actually Work](https://dev.to/mightyblue/the-remote-developers-guide-to-southeast-asia-in-2026-internet-speeds-co-living-costs-visa-44g9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
