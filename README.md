@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Capman: Stop Routing Every Intent Through an LLM](https://dev.to/capman_engine/capman-stop-routing-every-intent-through-an-llm-5jc)
-- [512MiB 512MB — the silent trtexec bug](https://dev.to/tushar365/512mib-512mb-the-silent-trtexec-bug-4p1)
-- [You Don&#39;t Need a Free PDF Compressor Website Anymore](https://dev.to/igorgridel/you-dont-need-a-free-pdf-compressor-website-anymore-1o8j)
-- [I Got Badges 1, 2, and 4 on DEV.to — Badge #3 Is Currently in Witness Protection](https://dev.to/freerave/i-got-badges-1-2-and-4-on-devto-badge-3-is-currently-in-witness-protection-he4)
-- [Why Your AI Agent Can&#39;t Browse the Web &lpar;And How to Fix It in 3 Lines of Python&rpar;](https://dev.to/proxyclaw/why-your-ai-agent-cant-browse-the-web-and-how-to-fix-it-in-3-lines-of-python-14he)
+- [Leiningen — Complete Tutorial &amp; Best Practices](https://dev.to/ivangavlik/leiningen-complete-tutorial-best-practices-3f8l)
+- [Build Your Own &quot;Private Copilot&quot; in 10 Minutes: Ollama, Continue, and DeepSeek-V3](https://dev.to/syedahmershah/build-your-own-private-copilot-in-10-minutes-ollama-continue-and-deepseek-v3-4cog)
+- [How to Resize an LVM Volume in Linux](https://dev.to/nuculabs_dev/how-to-resize-an-lvm-volume-in-linux-4jib)
+- [Building a Code Review Agent That Learns From Every Decision](https://dev.to/abhiramcdivakaran/building-a-code-review-agent-that-learns-from-every-decision-5a4c)
+- [Inside the Running Object Table: COM&#39;s Hidden Registry of Live Objects](https://dev.to/steelfactor/inside-the-running-object-table-coms-hidden-registry-of-live-objects-3k64)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
