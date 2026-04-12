@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [HOW I BUILT A FULL STACK WEBSITE &lpar;MERN&rpar;](https://dev.to/nswarnob/how-i-built-a-full-stack-website-mern-2hg6)
-- [What code review process do you use for AI-generated code?](https://dev.to/manthanbhatt/what-code-review-process-do-you-use-for-ai-generated-code-4n4l)
-- [SPF Records Explained: Prevent Email Spoofing with Sender Policy Framework](https://dev.to/toolbox_starnomina/spf-records-explained-prevent-email-spoofing-with-sender-policy-framework-1lad)
-- [DKIM Explained: How Email Digital Signatures Protect Your Domain](https://dev.to/toolbox_starnomina/dkim-explained-how-email-digital-signatures-protect-your-domain-1i9i)
-- [BIMI: Display Your Brand Logo in Email Inboxes](https://dev.to/toolbox_starnomina/bimi-display-your-brand-logo-in-email-inboxes-1hjo)
+- [Python Remove Window From Screen Share With Tkinter](https://dev.to/avinash_tare_6d6e81721bb6/python-remove-window-from-screen-share-with-tkinter-43bc)
+- [The agent over-applies everything: why “don’t” is my most-used word](https://dev.to/euzharkov/the-agent-over-applies-everything-why-dont-is-my-most-used-word-2omc)
+- [Auditing Claude Code: what I found and how I contained it](https://dev.to/cepunkt_1d9c6e96d0ed47998/auditing-claude-code-what-i-found-and-how-i-contained-it-5djo)
+- [Specification-First Agentic Development: A Methodology for Structured, Traceable AI-Assisted Development](https://dev.to/holgerleichsenring/specification-first-agentic-development-a-methodology-for-structured-traceable-ai-assisted-la)
+- [How I Passed the AWS Cloud Practitioner &lpar;CLF-C02&rpar;](https://dev.to/ayaanahmad/how-i-passed-the-aws-cloud-practitioner-clf-c02-3dmn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
