@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Best Free Remove.bg Alternatives 2026: 7 Background Removers Tested](https://dev.to/samma1997/best-free-removebg-alternatives-2026-7-background-removers-tested-2if6)
-- [From Chaos to Control: AI-Powered Contingency Planning for Wedding Pros](https://dev.to/ken_deng_ai/from-chaos-to-control-ai-powered-contingency-planning-for-wedding-pros-oag)
-- [My Journey Into Python: From Beginner to Building Real Projects](https://dev.to/amirheshamdev/my-journey-into-python-from-beginner-to-building-real-projects-1bif)
-- [Reliability Patterns for Asynchronous APIs in Fintech: A Migration Guide](https://dev.to/kitkeen_55/reliability-patterns-for-asynchronous-apis-in-fintech-a-migration-guide-2k21)
-- [Migration of YouTube from SQL to NoSQL: A Component-Wise Analysis](https://dev.to/alextom/migration-of-youtube-from-sql-to-nosql-a-component-wise-analysis-1mhe)
+- [Capman: Stop Routing Every Intent Through an LLM](https://dev.to/capman_engine/capman-stop-routing-every-intent-through-an-llm-5jc)
+- [512MiB 512MB — the silent trtexec bug](https://dev.to/tushar365/512mib-512mb-the-silent-trtexec-bug-4p1)
+- [You Don&#39;t Need a Free PDF Compressor Website Anymore](https://dev.to/igorgridel/you-dont-need-a-free-pdf-compressor-website-anymore-1o8j)
+- [I Got Badges 1, 2, and 4 on DEV.to — Badge #3 Is Currently in Witness Protection](https://dev.to/freerave/i-got-badges-1-2-and-4-on-devto-badge-3-is-currently-in-witness-protection-he4)
+- [Why Your AI Agent Can&#39;t Browse the Web &lpar;And How to Fix It in 3 Lines of Python&rpar;](https://dev.to/proxyclaw/why-your-ai-agent-cant-browse-the-web-and-how-to-fix-it-in-3-lines-of-python-14he)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
