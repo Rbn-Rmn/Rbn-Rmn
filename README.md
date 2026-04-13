@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Anne Ndungu Portfolio](https://dev.to/andungu/anne-ndungu-portfolio-1k9o)
-- [NEUROLEARN: Curing AI tutor Amnesia](https://dev.to/sujithr2006/neurolearn-curing-ai-tutor-amnesia-2d59)
-- [Building a RAG Chatbot with Supabase: End-to-End Tutorial](https://dev.to/icarax/building-a-rag-chatbot-with-supabase-end-to-end-tutorial-3l6a)
-- [#The Largest SQL Injection Breach Ever — How 77 Million PSN Accounts Were Exposed”](https://dev.to/caisd/the-largest-sql-injection-breach-ever-how-77-million-psn-accounts-were-exposed-123h)
-- [🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety &lpar;Brutal Feedback Needed&rpar;](https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf)
+- [Stop sending private PDFs to servers: Building a 100% Client-Side PDF Suite](https://dev.to/zengkkj/stop-sending-private-pdfs-to-servers-building-a-100-client-side-pdf-suite-fk1)
+- [Why React Native Builds Break After Updating Dependencies &lpar;And How to Fix It&rpar;](https://dev.to/asta_dev/why-react-native-builds-break-after-updating-dependencies-and-how-to-fix-it-a27)
+- [Frontend Framework Bundle Size Benchmark: React/Vue/Angular vs Fine-Grained Runtimes](https://dev.to/qingkuai/frontend-framework-bundle-size-benchmark-reactvueangular-vs-fine-grained-runtimes-2nk0)
+- [Un lenguaje &#39;perfeccionable&#39;: por qué la idea me parece hermosa y por qué va a fracasar igual](https://dev.to/jtorchia/un-lenguaje-perfeccionable-por-que-la-idea-me-parece-hermosa-y-por-que-va-a-fracasar-igual-5f78)
+- [Securing the Air-Gap: Building a Hardware-Aware Forensic Suite for ICS/OT by Rugero Tesla &lpar;404saint&rpar;](https://dev.to/null_saint/securing-the-air-gap-building-a-hardware-aware-forensic-suite-for-icsot-by-rugero-tesla-404saint-127o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
