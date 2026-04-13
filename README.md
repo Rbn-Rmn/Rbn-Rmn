@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [ETL vs ELT: Two Paradigms, One Goal](https://dev.to/edmund_eryuba/etl-vs-elt-two-paradigms-one-goal-12fc)
-- [You can&#39;t trust agent tests](https://dev.to/alexocallaghan/you-cant-trust-agent-tests-j8o)
-- [How a Daily Dev Log Helped Me Actually Ship My Side Projects](https://dev.to/stackfolo/how-a-daily-dev-log-helped-me-actually-ship-my-side-projects-41j9)
-- [Building a Molecule Builder App with Ionic and Angular](https://dev.to/jruanobl/building-a-molecule-builder-app-with-ionic-and-angular-52on)
-- [When AI Knows You&#39;re Breaking](https://dev.to/rawveg/when-ai-knows-youre-breaking-49l0)
+- [Your Claude Code and Cursor agents have amnesia. Here&#39;s the fix.](https://dev.to/bruno_andrade_357863927e2/your-claude-code-and-cursor-agents-have-amnesia-heres-the-fix-2l3a)
+- [I Optimized a Rust Binary From 40MB to 400KB. Here’s How](https://dev.to/speed_engineer/i-optimized-a-rust-binary-from-40mb-to-400kb-heres-how-3n26)
+- [Wearable App Development Cost Breakdown For Developers](https://dev.to/dhruvjoshi9/wearable-app-development-cost-breakdown-for-developers-4o41)
+- [How I Use AI Without Letting It Think for Me](https://dev.to/gary_killen37/how-i-use-ai-without-letting-it-think-for-me-12gd)
+- [I Turned 3 Days of Content Work Into 25 Minutes With Claude Code](https://dev.to/soloailab/i-turned-3-days-of-content-work-into-25-minutes-with-claude-code-1mdp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
