@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [All It Took Was npm install &lpar;Axios Attack&rpar;](https://dev.to/audreyhal/all-it-took-was-npm-install-axios-attack-2dk2)
-- [Microsoft Auth in Next.js Finally Makes Sense](https://dev.to/chemmangat/microsoft-auth-in-nextjs-finally-makes-sense-ih4)
-- [JSON to TypeScript: Generate Types in 5 Seconds](https://dev.to/miccho27/json-to-typescript-generate-types-in-5-seconds-pkc)
-- [quick feedback post](https://dev.to/shatakshig8/quick-feedback-post-1l17)
-- [How Designers Are Making Motion Graphics Without Touching After Effects](https://dev.to/techluca_034/how-designers-are-making-motion-graphics-without-touching-after-effects-2fi7)
+- [ETL vs ELT: Two Paradigms, One Goal](https://dev.to/edmund_eryuba/etl-vs-elt-two-paradigms-one-goal-12fc)
+- [You can&#39;t trust agent tests](https://dev.to/alexocallaghan/you-cant-trust-agent-tests-j8o)
+- [How a Daily Dev Log Helped Me Actually Ship My Side Projects](https://dev.to/stackfolo/how-a-daily-dev-log-helped-me-actually-ship-my-side-projects-41j9)
+- [Building a Molecule Builder App with Ionic and Angular](https://dev.to/jruanobl/building-a-molecule-builder-app-with-ionic-and-angular-52on)
+- [When AI Knows You&#39;re Breaking](https://dev.to/rawveg/when-ai-knows-youre-breaking-49l0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
