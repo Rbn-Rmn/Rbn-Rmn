@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Stop sending private PDFs to servers: Building a 100% Client-Side PDF Suite](https://dev.to/zengkkj/stop-sending-private-pdfs-to-servers-building-a-100-client-side-pdf-suite-fk1)
-- [Why React Native Builds Break After Updating Dependencies &lpar;And How to Fix It&rpar;](https://dev.to/asta_dev/why-react-native-builds-break-after-updating-dependencies-and-how-to-fix-it-a27)
-- [Frontend Framework Bundle Size Benchmark: React/Vue/Angular vs Fine-Grained Runtimes](https://dev.to/qingkuai/frontend-framework-bundle-size-benchmark-reactvueangular-vs-fine-grained-runtimes-2nk0)
-- [Un lenguaje &#39;perfeccionable&#39;: por qué la idea me parece hermosa y por qué va a fracasar igual](https://dev.to/jtorchia/un-lenguaje-perfeccionable-por-que-la-idea-me-parece-hermosa-y-por-que-va-a-fracasar-igual-5f78)
-- [Securing the Air-Gap: Building a Hardware-Aware Forensic Suite for ICS/OT by Rugero Tesla &lpar;404saint&rpar;](https://dev.to/null_saint/securing-the-air-gap-building-a-hardware-aware-forensic-suite-for-icsot-by-rugero-tesla-404saint-127o)
+- [We Stopped Writing Code First. Here&#39;s Why Our Projects Got Better.](https://dev.to/decivo/we-stopped-writing-code-first-heres-why-our-projects-got-better-4871)
+- [How I Built a Multi-Agent Code Review Pipeline](https://dev.to/thegdsks/how-i-built-a-multi-agent-code-review-pipeline-2h7b)
+- [SSH hardening checklist for production servers](https://dev.to/saad_naeem/ssh-hardening-checklist-for-production-servers-jb8)
+- [Fixing Abstraction Leakage: Standardizing Error Handling Across Layered Services](https://dev.to/viklogix/fixing-abstraction-leakage-standardizing-error-handling-across-layered-services-4apk)
+- [Luxo Jr. ThingsBoard 🎬 Ep.1](https://dev.to/the-software-s-journey/luxo-jr-thingsboard-ep1-1co5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
