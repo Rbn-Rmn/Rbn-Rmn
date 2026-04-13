@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [React File Handling: Uploads, Drop Zones, and Object URLs](https://dev.to/childrentime/react-file-handling-uploads-drop-zones-and-object-urls-30p5)
-- [The Prompt Engineering Guide for Every Viral AI Art Trend in 2026](https://dev.to/midastools/the-prompt-engineering-guide-for-every-viral-ai-art-trend-in-2026-39ca)
-- [I Replaced SQLite with a Rust Database in My AI Robot — Here&#39;s What Happened](https://dev.to/motedb/i-replaced-sqlite-with-a-rust-database-in-my-ai-robot-heres-what-happened-1n6k)
-- [I Killed 3 Stub Functions in One Session](https://dev.to/naimkatiman/i-killed-3-stub-functions-in-one-session-m58)
-- [trimoji — Unicode and emoji-aware text truncation for JavaScript](https://dev.to/kunaltanwar/trimoji-unicode-and-emoji-aware-text-truncation-for-javascript-2b3e)
+- [Is Railway Reliable for E-Commerce Apps in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-e-commerce-apps-in-2026-4913)
+- [How I Built a Global AI Fortune Telling Website as a One-Person Company](https://dev.to/song_jack_599ca99593afc8a/how-i-built-a-global-ai-fortune-telling-website-as-a-one-person-company-296i)
+- [Integrating Remote Subagents Built by Google Apps Script with Gemini CLI](https://dev.to/gde/integrating-remote-subagents-built-by-google-apps-script-with-gemini-cli-h36)
+- [Why Copilot Spaces still loses the plot — and how knowledge graphs fix it](https://dev.to/authora/why-copilot-spaces-still-loses-the-plot-and-how-knowledge-graphs-fix-it-1371)
+- [Your Portfolio Is Already Outdated &lpar;Even If It Looks Perfect&rpar;](https://dev.to/bhavya_kapil_0feb7d6e6f64/your-portfolio-is-already-outdated-even-if-it-looks-perfect-1e08)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
