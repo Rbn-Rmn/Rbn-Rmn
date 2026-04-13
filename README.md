@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Directory of 1500+ MCP Tools — Here is What I Learned](https://dev.to/goldct/i-built-a-directory-of-1500-mcp-tools-here-is-what-i-learned-4hlj)
-- [Fully Automated Website Day 8: Bramble &amp; Thorn — First Two-Plant Roster Day](https://dev.to/dtannen/fully-automated-website-day-8-bramble-thorn-first-two-plant-roster-day-40o1)
-- [Automate PowerPoint Reports from Excel with Python](https://dev.to/slideforge_5f3f3f08/automate-powerpoint-reports-from-excel-with-python-42i3)
-- [An overview of Google Cloud Carbon Footprint](https://dev.to/jdxlabs/an-overview-of-google-cloud-carbon-footprint-46mk)
-- [Docker for Novices: el recurso que 16 listas no pueden estar equivocadas](https://dev.to/jtorchia/docker-for-novices-el-recurso-que-16-listas-no-pueden-estar-equivocadas-3dh0)
+- [From Tool Calling to Orchestration: The Design Tradeoffs Behind Agiwo](https://dev.to/hongwei_xu_a4bb2ef4eee7b3/from-tool-calling-to-orchestration-the-design-tradeoffs-behind-agiwo-356g)
+- [I Built a Real-Time Load Shedding Platform for 60 million South Africans — Here&#39;s What Nearly Broke Me](https://dev.to/zandile/i-built-a-real-time-load-shedding-platform-for-60-million-south-africans-heres-what-nearly-broke-50ed)
+- [How to Build Custom Commands for Claude Code Using Agent Skills Standard](https://dev.to/volodymyr_nehir/build-custom-commands-for-claude-code-using-agent-skills-standard-pfd)
+- [Pourquoi j&#39;ai définitivement coupé les ponts avec Windows](https://dev.to/dawhistler/pourquoi-jai-definitivement-coupe-les-ponts-avec-windows-4140)
+- [You Don’t Always Need React — Sometimes You Just Need Structure](https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
