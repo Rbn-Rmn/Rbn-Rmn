@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [CRBR Scraper: Polish Beneficial Owners &lpar;UBO&rpar;](https://dev.to/ucptools/crbr-scraper-polish-beneficial-owners-ubo-4fg9)
-- [Scream2Wish: break a genie lamp by screaming at your phone](https://dev.to/rajnishkmehta/scream2wish-break-a-genie-lamp-by-screaming-at-your-phone-11e8)
-- [The T-800 Doesn&#39;t Overthink. Neither Should Your LLM.](https://dev.to/__272d48f2ed/the-t-800-doesnt-overthink-neither-should-your-llm-i1f)
-- [Managing your schedule when you have multiple clients](https://dev.to/arthuro33/managing-your-schedule-when-you-have-multiple-clients-2g8p)
-- [Understanding Go: part 13 – Methods](https://dev.to/aurelievache/understanding-go-part-13-methods-585a)
+- [All It Took Was npm install &lpar;Axios Attack&rpar;](https://dev.to/audreyhal/all-it-took-was-npm-install-axios-attack-2dk2)
+- [Microsoft Auth in Next.js Finally Makes Sense](https://dev.to/chemmangat/microsoft-auth-in-nextjs-finally-makes-sense-ih4)
+- [JSON to TypeScript: Generate Types in 5 Seconds](https://dev.to/miccho27/json-to-typescript-generate-types-in-5-seconds-pkc)
+- [quick feedback post](https://dev.to/shatakshig8/quick-feedback-post-1l17)
+- [How Designers Are Making Motion Graphics Without Touching After Effects](https://dev.to/techluca_034/how-designers-are-making-motion-graphics-without-touching-after-effects-2fi7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
