@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your Claude Code and Cursor agents have amnesia. Here&#39;s the fix.](https://dev.to/bruno_andrade_357863927e2/your-claude-code-and-cursor-agents-have-amnesia-heres-the-fix-2l3a)
-- [I Optimized a Rust Binary From 40MB to 400KB. Here’s How](https://dev.to/speed_engineer/i-optimized-a-rust-binary-from-40mb-to-400kb-heres-how-3n26)
-- [Wearable App Development Cost Breakdown For Developers](https://dev.to/dhruvjoshi9/wearable-app-development-cost-breakdown-for-developers-4o41)
-- [How I Use AI Without Letting It Think for Me](https://dev.to/gary_killen37/how-i-use-ai-without-letting-it-think-for-me-12gd)
-- [I Turned 3 Days of Content Work Into 25 Minutes With Claude Code](https://dev.to/soloailab/i-turned-3-days-of-content-work-into-25-minutes-with-claude-code-1mdp)
+- [I Built a Directory of 1500+ MCP Tools — Here is What I Learned](https://dev.to/goldct/i-built-a-directory-of-1500-mcp-tools-here-is-what-i-learned-4hlj)
+- [Fully Automated Website Day 8: Bramble &amp; Thorn — First Two-Plant Roster Day](https://dev.to/dtannen/fully-automated-website-day-8-bramble-thorn-first-two-plant-roster-day-40o1)
+- [Automate PowerPoint Reports from Excel with Python](https://dev.to/slideforge_5f3f3f08/automate-powerpoint-reports-from-excel-with-python-42i3)
+- [An overview of Google Cloud Carbon Footprint](https://dev.to/jdxlabs/an-overview-of-google-cloud-carbon-footprint-46mk)
+- [Docker for Novices: el recurso que 16 listas no pueden estar equivocadas](https://dev.to/jtorchia/docker-for-novices-el-recurso-que-16-listas-no-pueden-estar-equivocadas-3dh0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
