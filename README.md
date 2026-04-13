@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Is Railway Reliable for E-Commerce Apps in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-e-commerce-apps-in-2026-4913)
-- [How I Built a Global AI Fortune Telling Website as a One-Person Company](https://dev.to/song_jack_599ca99593afc8a/how-i-built-a-global-ai-fortune-telling-website-as-a-one-person-company-296i)
-- [Integrating Remote Subagents Built by Google Apps Script with Gemini CLI](https://dev.to/gde/integrating-remote-subagents-built-by-google-apps-script-with-gemini-cli-h36)
-- [Why Copilot Spaces still loses the plot — and how knowledge graphs fix it](https://dev.to/authora/why-copilot-spaces-still-loses-the-plot-and-how-knowledge-graphs-fix-it-1371)
-- [Your Portfolio Is Already Outdated &lpar;Even If It Looks Perfect&rpar;](https://dev.to/bhavya_kapil_0feb7d6e6f64/your-portfolio-is-already-outdated-even-if-it-looks-perfect-1e08)
+- [CRBR Scraper: Polish Beneficial Owners &lpar;UBO&rpar;](https://dev.to/ucptools/crbr-scraper-polish-beneficial-owners-ubo-4fg9)
+- [Scream2Wish: break a genie lamp by screaming at your phone](https://dev.to/rajnishkmehta/scream2wish-break-a-genie-lamp-by-screaming-at-your-phone-11e8)
+- [The T-800 Doesn&#39;t Overthink. Neither Should Your LLM.](https://dev.to/__272d48f2ed/the-t-800-doesnt-overthink-neither-should-your-llm-i1f)
+- [Managing your schedule when you have multiple clients](https://dev.to/arthuro33/managing-your-schedule-when-you-have-multiple-clients-2g8p)
+- [Understanding Go: part 13 – Methods](https://dev.to/aurelievache/understanding-go-part-13-methods-585a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
