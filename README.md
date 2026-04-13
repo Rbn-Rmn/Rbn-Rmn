@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Popular Frameworks in Real Combat: Experience of Implementation in Production](https://dev.to/devepro/comparing-popular-frameworks-in-real-combat-experience-of-implementation-in-production-lah)
-- [5 Engineering Decisions That Made Godot the Fastest-Growing Game Engine](https://dev.to/ziva/5-engineering-decisions-that-made-godot-the-fastest-growing-game-engine-5hgh)
-- [Panduan Pengujian: Implementasi Widget, Properti, dan Arsitektur SaryPOS](https://dev.to/ariscandra/panduan-pengujian-implementasi-widget-properti-dan-arsitektur-sarypos-hp1)
-- [GIMP&#39;s Posterization: Simple Quantization vs. Median Cut for Better Visuals](https://dev.to/denlava/gimps-posterization-simple-quantization-vs-median-cut-for-better-visuals-h7f)
-- [Ghost Jobs: 30% of What You&#39;re Applying to Doesn&#39;t Exist](https://dev.to/remoet/ghost-jobs-30-of-what-youre-applying-to-doesnt-exist-ka)
+- [Assembling the Apache Lakehouse: The Modular Architecture](https://dev.to/alexmercedcoder/assembling-the-apache-lakehouse-the-modular-architecture-1362)
+- [What is Apache Arrow? Erasing the Serialization Tax](https://dev.to/alexmercedcoder/what-is-apache-arrow-erasing-the-serialization-tax-2j8)
+- [🗺️ Fixing Ola Web’s Cramped Map — and Why Small UX Gaps Ship to Production](https://dev.to/cinfinitedev_engine/fixing-ola-webs-cramped-map-and-why-small-ux-gaps-ship-to-production-4iob)
+- [&quot;5 AI APIs Every Frontend Dev Should Know in 2026&quot;](https://dev.to/devraj_singh7/5-ai-apis-every-frontend-dev-should-know-in-2026-158d)
+- [What is Apache Polaris? Unifying the Iceberg Ecosystem](https://dev.to/alexmercedcoder/what-is-apache-polaris-unifying-the-iceberg-ecosystem-3mf5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
