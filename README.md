@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [From Tool Calling to Orchestration: The Design Tradeoffs Behind Agiwo](https://dev.to/hongwei_xu_a4bb2ef4eee7b3/from-tool-calling-to-orchestration-the-design-tradeoffs-behind-agiwo-356g)
-- [I Built a Real-Time Load Shedding Platform for 60 million South Africans — Here&#39;s What Nearly Broke Me](https://dev.to/zandile/i-built-a-real-time-load-shedding-platform-for-60-million-south-africans-heres-what-nearly-broke-50ed)
-- [How to Build Custom Commands for Claude Code Using Agent Skills Standard](https://dev.to/volodymyr_nehir/build-custom-commands-for-claude-code-using-agent-skills-standard-pfd)
-- [Pourquoi j&#39;ai définitivement coupé les ponts avec Windows](https://dev.to/dawhistler/pourquoi-jai-definitivement-coupe-les-ponts-avec-windows-4140)
-- [You Don’t Always Need React — Sometimes You Just Need Structure](https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j)
+- [Anne Ndungu Portfolio](https://dev.to/andungu/anne-ndungu-portfolio-1k9o)
+- [NEUROLEARN: Curing AI tutor Amnesia](https://dev.to/sujithr2006/neurolearn-curing-ai-tutor-amnesia-2d59)
+- [Building a RAG Chatbot with Supabase: End-to-End Tutorial](https://dev.to/icarax/building-a-rag-chatbot-with-supabase-end-to-end-tutorial-3l6a)
+- [#The Largest SQL Injection Breach Ever — How 77 Million PSN Accounts Were Exposed”](https://dev.to/caisd/the-largest-sql-injection-breach-ever-how-77-million-psn-accounts-were-exposed-123h)
+- [🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety &lpar;Brutal Feedback Needed&rpar;](https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
