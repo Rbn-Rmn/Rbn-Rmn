@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Postgres LISTEN/NOTIFY Is Finally Pleasant](https://dev.to/gillarohith/debugging-postgres-listennotify-is-finally-pleasant-12ip)
-- [I built a tool that shows you exactly which method slowed down after your last deploy published: false](https://dev.to/closeup1202/i-built-a-tool-that-shows-you-exactly-which-method-slowed-down-after-your-last-deploy-published-o52)
-- [Your AI Agent Doesn&#39;t Need More Memory Tools. It Needs to Learn to Introspect.](https://dev.to/parkerscobey/your-ai-agent-doesnt-need-more-memory-tools-it-needs-to-learn-to-introspect-3hjb)
-- [Data Center Backlash: Festus Voters Oust 4 Incumbents](https://dev.to/simon_paxton/data-center-backlash-festus-voters-oust-4-incumbents-5ba)
-- [Can OpenClaw Read Your Files? Here&#39;s What&#39;s Actually True.](https://dev.to/mehul_bhardwaj_8a2d2aaecb/can-openclaw-read-your-files-heres-whats-actually-true-2pkg)
+- [Why Your App Needs a Loading Skeleton &lpar;Not a Spinner&rpar;](https://dev.to/devshefali/why-your-app-needs-a-loading-skeleton-not-a-spinner-4f7a)
+- [Writing a Rust Driver for the Sensirion SEN5x Air Quality Sensor](https://dev.to/hauju/writing-a-rust-driver-for-the-sensirion-sen5x-air-quality-sensor-27fb)
+- [Stop building custom auth for your B2B SaaS: Meet Gate Identity](https://dev.to/zhukmax/stop-building-custom-auth-for-your-b2b-saas-meet-gate-identity-259m)
+- [BDO Scraper: Rejestr Odpadów &lpar;674 000+&rpar;](https://dev.to/ucptools/bdo-scraper-rejestr-odpadow-674-000-2ikc)
+- [Vibe Coding tapi masih acak-acakan ? Improve code dengan spec first.](https://dev.to/fauzi_fadhlurrohman_a105e/vibe-coding-tapi-masih-acak-acakan-improve-code-dengan-spec-first-222e)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
