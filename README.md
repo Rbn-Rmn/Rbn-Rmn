@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [From Scratch to Queries: Building a School Database with SQL – My Nairobi Academy Project.](https://dev.to/wahuelizabeth/from-scratch-to-queries-building-a-school-database-with-sql-my-nairobi-academy-project-4if)
-- [There&#39;s a New Market Hiding in Plain Sight](https://dev.to/99rebels/theres-a-new-market-hiding-in-plain-sight-5279)
-- [Why Cursor Skips Auth Middleware on Every Route It Generates](https://dev.to/chandan_karn_fb750e731394/why-cursor-skips-auth-middleware-on-every-route-it-generates-1ae1)
-- [How to Build Your First Salesforce Agentforce Agent](https://dev.to/dipojjal/how-to-build-your-first-salesforce-agentforce-agent-48ao)
-- [Why Am I Not Hearing Back from Jobs? The Truth About ATS Filters and Employer Ghosting in 2026](https://dev.to/fastapply/why-am-i-not-hearing-back-from-jobs-the-truth-about-ats-filters-and-employer-ghosting-in-2026-142c)
+- [I Built a LangGraph Agent That Audits Android Projects — Here&#39;s the Architecture](https://dev.to/samuvelp/i-built-a-langgraph-agent-that-audits-android-projects-heres-the-architecture-53jh)
+- [ETL vs ELT: Which One Should You Use and Why?](https://dev.to/samwel_sam/etl-vs-eltwhich-one-should-you-use-and-why-5gja)
+- [I Tested 6 AI Headshot Generators With the Same Photos. Here&#39;s the Data](https://dev.to/sarwar_ai/best-ai-headshot-generators-b2p)
+- [How I Built an Autonomous Dataset Generator with CrewAI + Ollama &lpar;72-hour run, 1,065 entries&rpar;](https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280)
+- [The Backyard Quarry, Part 5: Digital Twins for Physical Objects](https://dev.to/kenwalger/the-backyard-quarry-part-5-digital-twins-for-physical-objects-5a9i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
