@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Aether-9 v3.0 A Policy-Aware Secure Bytecode Execution Layer for AI-Native and Automation Workflows](https://dev.to/adam_akeely_aether-9/aether-9-v30-a-policy-aware-secure-bytecode-execution-layer-for-ai-native-and-automation-workflows-e72)
-- [Mastering the Basics: A Deep Dive into SQL Fundamentals](https://dev.to/mbatiak/mastering-the-basics-a-deep-dive-into-sql-fundamentals-11mc)
-- [Implementing mergeMap and switchMap: &quot;The React Way&quot;](https://dev.to/riturathin/implementing-mergemap-and-switchmap-the-react-way-290e)
-- [Getting hands on with spec driven development](https://dev.to/094459/getting-hands-on-with-spec-driven-development-3ln8)
-- [The Competence Trap: Why Your Best AI Agent Might Be Your Biggest Risk](https://dev.to/the_bookmaster/the-competence-trap-why-your-best-ai-agent-might-be-your-biggest-risk-31b2)
+- [How to Run AI Locally with Lemonade Server: No Cloud, No API Keys, No Problem](https://dev.to/benriemer/how-to-run-ai-locally-with-lemonade-server-no-cloud-no-api-keys-no-problem-4hhj)
+- [The Missing Layer: What Comes After Agent Identity](https://dev.to/aaron_schnieder_4563d5d33/the-missing-layer-what-comes-after-agent-identity-3p6c)
+- [Share Anything Instantly &amp; Securely - Text, Files, and URLs with Zero Friction](https://dev.to/akshit_suthar/share-anything-instantly-securely-text-files-and-urls-with-zero-friction-id8)
+- [【初心者向け】Git &amp; GitHub 超入門：基本操作からブランチ管理、リポジトリ公開まで](https://dev.to/iwamutsu256/chu-xin-zhe-xiang-ke-git-github-chao-ru-men-ji-ben-cao-zuo-karaburantiguan-li-ripozitorigong-kai-made-4bnb)
+- [600,000 Lines of AI-Generated Code: What We Found Inside a Production SaaS](https://dev.to/pawel_reszka/600000-lines-of-ai-generated-code-what-we-found-inside-a-production-saas-3i1f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
