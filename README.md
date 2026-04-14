@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Multi-Page TIFF Files in Node.js &lpar;Without ImageMagick&rpar;](https://dev.to/yatindavra23/how-to-create-multi-page-tiff-files-in-nodejs-without-imagemagick-im0)
-- [Why I Reversed My Own Architecture After 27 AI Luminaries Reviewed It](https://dev.to/_c4b82d2458240eece0292/why-i-reversed-my-own-architecture-after-27-ai-luminaries-reviewed-it-gai)
-- [How We Built a Sub-Millisecond Crypto Market Data Feed in C++](https://dev.to/hpc_group_b579dc28b930e08/how-we-built-a-sub-millisecond-crypto-market-data-feed-in-c-1oal)
-- [They Said Kubernetes Isn&#39;t Coming to Coolify. I&#39;m Going to Find Out If That&#39;s True.](https://dev.to/drtobbyas/they-said-kubernetes-isnt-coming-to-coolify-im-going-to-find-out-if-thats-true-4eee)
-- [Canopy: Because AI Skills Deserve Better Than Vague Instructions](https://dev.to/kostiantynmatsebora/canopy-because-ai-skills-deserve-better-than-vague-instructions-524o)
+- [From Scratch to Queries: Building a School Database with SQL – My Nairobi Academy Project.](https://dev.to/wahuelizabeth/from-scratch-to-queries-building-a-school-database-with-sql-my-nairobi-academy-project-4if)
+- [There&#39;s a New Market Hiding in Plain Sight](https://dev.to/99rebels/theres-a-new-market-hiding-in-plain-sight-5279)
+- [Why Cursor Skips Auth Middleware on Every Route It Generates](https://dev.to/chandan_karn_fb750e731394/why-cursor-skips-auth-middleware-on-every-route-it-generates-1ae1)
+- [How to Build Your First Salesforce Agentforce Agent](https://dev.to/dipojjal/how-to-build-your-first-salesforce-agentforce-agent-48ao)
+- [Why Am I Not Hearing Back from Jobs? The Truth About ATS Filters and Employer Ghosting in 2026](https://dev.to/fastapply/why-am-i-not-hearing-back-from-jobs-the-truth-about-ats-filters-and-employer-ghosting-in-2026-142c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
