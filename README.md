@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Run AI Locally with Lemonade Server: No Cloud, No API Keys, No Problem](https://dev.to/benriemer/how-to-run-ai-locally-with-lemonade-server-no-cloud-no-api-keys-no-problem-4hhj)
-- [The Missing Layer: What Comes After Agent Identity](https://dev.to/aaron_schnieder_4563d5d33/the-missing-layer-what-comes-after-agent-identity-3p6c)
-- [Share Anything Instantly &amp; Securely - Text, Files, and URLs with Zero Friction](https://dev.to/akshit_suthar/share-anything-instantly-securely-text-files-and-urls-with-zero-friction-id8)
-- [【初心者向け】Git &amp; GitHub 超入門：基本操作からブランチ管理、リポジトリ公開まで](https://dev.to/iwamutsu256/chu-xin-zhe-xiang-ke-git-github-chao-ru-men-ji-ben-cao-zuo-karaburantiguan-li-ripozitorigong-kai-made-4bnb)
-- [600,000 Lines of AI-Generated Code: What We Found Inside a Production SaaS](https://dev.to/pawel_reszka/600000-lines-of-ai-generated-code-what-we-found-inside-a-production-saas-3i1f)
+- [How to Create Multi-Page TIFF Files in Node.js &lpar;Without ImageMagick&rpar;](https://dev.to/yatindavra23/how-to-create-multi-page-tiff-files-in-nodejs-without-imagemagick-im0)
+- [Why I Reversed My Own Architecture After 27 AI Luminaries Reviewed It](https://dev.to/_c4b82d2458240eece0292/why-i-reversed-my-own-architecture-after-27-ai-luminaries-reviewed-it-gai)
+- [How We Built a Sub-Millisecond Crypto Market Data Feed in C++](https://dev.to/hpc_group_b579dc28b930e08/how-we-built-a-sub-millisecond-crypto-market-data-feed-in-c-1oal)
+- [They Said Kubernetes Isn&#39;t Coming to Coolify. I&#39;m Going to Find Out If That&#39;s True.](https://dev.to/drtobbyas/they-said-kubernetes-isnt-coming-to-coolify-im-going-to-find-out-if-thats-true-4eee)
+- [Canopy: Because AI Skills Deserve Better Than Vague Instructions](https://dev.to/kostiantynmatsebora/canopy-because-ai-skills-deserve-better-than-vague-instructions-524o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
