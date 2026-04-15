@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Flowise Review 2026: I Used It for 4 Months to Build AI Agents &lpar;Honest Verdict&rpar;](https://dev.to/nova_gg/flowise-review-2026-i-used-it-for-4-months-to-build-ai-agents-honest-verdict-57nh)
-- [We Used an AI Agent to Screen 200 Applicants. Here&#39;s What We Learned.](https://dev.to/helen_mireille_47b02db70c/we-used-an-ai-agent-to-screen-200-applicants-heres-what-we-learned-4c0c)
-- [Building a Scalable Notification System: Push, Email, and SMS](https://dev.to/matt_frank_usa/building-a-scalable-notification-system-push-email-and-sms-2ga6)
-- [Claude Code sin pagar $200 al mes: guia completa para founders que no quieren depender de un servicio que se cae](https://dev.to/cristiantalasanchez/claude-code-sin-pagar-200-al-mes-guia-completa-para-founders-que-no-quieren-depender-de-un-57k4)
-- [I tried every Node.js antivirus library. Here&#39;s what I found.](https://dev.to/sonotommy/i-tried-every-nodejs-antivirus-library-heres-what-i-found-122j)
+- [I Spent 40 Hours Building AI Prompts for Competitive Intelligence — Here&#39;s What Actually Works](https://dev.to/boehner/i-spent-40-hours-building-ai-prompts-for-competitive-intelligence-heres-what-actually-works-546l)
+- [Why Do Big Websites Use Cloudflare?](https://dev.to/emann/why-do-big-websites-use-cloudflare-4dob)
+- [Apache Data Lakehouse Weekly: April 9–15, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-april-9-15-2026-51c7)
+- [AI Weekly: Agents, Models, and Chips — April 9–15, 2026](https://dev.to/alexmercedcoder/ai-weekly-agents-models-and-chips-april-9-15-2026-486f)
+- [Shipping to USA From UAE: A Complete Guide for Smooth International Relocation](https://dev.to/universalrelocations/shipping-to-usa-from-uae-a-complete-guide-for-smooth-international-relocation-121e)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
