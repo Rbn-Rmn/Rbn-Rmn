@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Es HOY! Lanzamiento de Artemis II - 1 de abril de 2026 🚀](https://dev.to/nchicaizaliz/es-hoy-lanzamiento-de-artemis-ii-1-de-abril-de-2026-401g)
-- [Building multilingual runtime collections in a Filament plugin](https://dev.to/serhii_fedorenko/building-multilingual-runtime-collections-in-a-filament-plugin-27cm)
-- [OpenAI&#39;s Promptfoo deal puts evaluation and red-teaming at the centre of the agent stack](https://dev.to/yujia_zhang_0328/openais-promptfoo-deal-puts-evaluation-and-red-teaming-at-the-centre-of-the-agent-stack-2208)
-- [Opencode for network systems administration. OMG.](https://dev.to/mikecase/opencode-for-network-systems-administration-omg-18g6)
-- [How to Detect if a Website Uses Intercom: 5 Methods](https://dev.to/detectzestack/how-to-detect-if-a-website-uses-intercom-5-methods-3o4k)
+- [Show DEV: I built a free browser-based PDF toolkit with 31 tools tags: showdev, webdev, javascript, productivity ---](https://dev.to/kabir_daki/show-dev-i-built-a-free-browser-based-pdf-toolkit-with-31-tools-tags-showdev-webdev-javascript-2dmn)
+- [LLM Performance Drop: Hosted Models Feel Worse for 3 Reasons](https://dev.to/simon_paxton/llm-performance-drop-hosted-models-feel-worse-for-3-reasons-37fa)
+- [I stopped practicing and shipped my first paid web template — here&#39;s how](https://dev.to/aditya_jaix/i-stopped-practicing-and-shipped-my-first-paid-web-template-heres-how-1pd2)
+- [How I Translated a Technical Ebook from Spanish to English with Semantic QA in Python](https://dev.to/german_yamil_e021eef8710d/how-i-translated-a-technical-ebook-from-spanish-to-english-with-semantic-qa-in-python-3ie)
+- [SharePoint Zero-Day, Linux RCE Bypass, &amp; Advanced Kerberoasting Detection](https://dev.to/soytuber/sharepoint-zero-day-linux-rce-bypass-advanced-kerberoasting-detection-4268)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
