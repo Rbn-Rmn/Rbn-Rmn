@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Real Problem With AI Agents Isn&#39;t the Code — It&#39;s the Memory](https://dev.to/dragoninexile/the-real-problem-with-ai-agents-isnt-the-code-its-the-memory-270d)
-- [&quot;GitHub Copilot vs Claude vs ChatGPT — Which Helps You Code Faster?&quot;](https://dev.to/devraj_singh7/github-copilot-vs-claude-vs-chatgpt-which-helps-you-code-faster-53gj)
-- [Dependency: That One Line in build.gradle You Copy Without Thinking? Let&#39;s Actually Understand It.](https://dev.to/itsaalaa7/dependency-that-one-line-in-buildgradle-you-copy-without-thinking-lets-actually-understand-it-5l8)
-- [I Built a Dead Simple App Because Claude Code Couldn&#39;t Hear Me](https://dev.to/vientapps/i-built-a-dead-simple-app-because-claude-code-couldnt-hear-me-2l90)
-- [Git-Native AI Development: Every Action is a Commit](https://dev.to/orquesta_live/git-native-ai-development-every-action-is-a-commit-35p5)
+- [HTTP 402 waited 27 years for this moment: the x402 Foundation and the agent economy](https://dev.to/aaron_schnieder_4563d5d33/http-402-waited-27-years-for-this-moment-the-x402-foundation-and-the-agent-economy-db9)
+- [How WooCommerce Coupon Tracking Fails at Scale Without Automation](https://dev.to/nexuwp/how-woocommerce-coupon-tracking-fails-at-scale-without-automation-490n)
+- [Kubernetes Observability: What to Monitor and Why](https://dev.to/samson_tanimawo/kubernetes-observability-what-to-monitor-and-why-8ek)
+- [OpsMind: On-Prem AI for Manufacturing — No Cloud, No API Keys, No Budget](https://dev.to/pawan_singhkapkoti_ea8a0/opsmind-on-prem-ai-for-manufacturing-no-cloud-no-api-keys-no-budget-8m7)
+- [Your MCP Server Is Probably Vulnerable](https://dev.to/bobbyblaine/your-mcp-server-is-probably-vulnerable-2135)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
