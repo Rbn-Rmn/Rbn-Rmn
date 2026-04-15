@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [From Tokens to Test Suites: Understanding How LLMs Work for QA Engineers](https://dev.to/vipin_singh_701b96b0df516/from-tokens-to-test-suites-understanding-how-llms-work-for-qa-engineers-21f1)
-- [My AI bill got too expensive to ignore, so I built a menu bar counter](https://dev.to/godnick/my-ai-bill-got-too-expensive-to-ignore-so-i-built-a-menu-bar-counter-4j68)
-- [Why JavaScript is Single-Threaded](https://dev.to/athithya_sivasankarar/why-javascript-is-single-threaded-dec)
-- [We Parsed 580 AI Instruction Files. 96% of the Content Can&#39;t Be Verified.](https://dev.to/moonrunnerkc/we-parsed-580-ai-instruction-files-96-of-the-content-cant-be-verified-4cg5)
-- [Why Mahjong AI is 10x Harder Than Go AI &lpar;And What We Learned Building One&rpar;](https://dev.to/malinguo/why-mahjong-ai-is-10x-harder-than-go-ai-and-what-we-learned-building-one-eli)
+- [Top Skills Required to Become an AWS Certified AI Practitioner](https://dev.to/datta_kharad_3fd1383b5036/top-skills-required-to-become-an-aws-certified-ai-practitioner-3p53)
+- [Don&#39;t Calculate Distances in PHP: Master PostGIS in Laravel 🗺️](https://dev.to/iprajapatiparesh/dont-calculate-distances-in-php-master-postgis-in-laravel-4dmn)
+- [GPU vs CPU for Machine Learning: When to Choose What](https://dev.to/big_mazzy_06d057cc24398c5/gpu-vs-cpu-for-machine-learning-when-to-choose-what-3k73)
+- [Chapter 1 Deep-Dive: What Amplification Actually Looks Like](https://dev.to/my2centsonai/chapter-1-deep-dive-what-amplification-actually-looks-like-4ag8)
+- [I Hit a 400k/s Wall — So I Built a Faster UUID v7 Generator in Rust](https://dev.to/marcomq/i-hit-a-400ks-wall-so-i-built-a-faster-uuid-v7-generator-in-rust-8ok)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
