@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Stop Approving Every Claude Code Command: A .claude/settings.json Guide&quot;](https://dev.to/echoforgex/stop-approving-every-claude-code-command-a-claudesettingsjson-1kce)
-- [A Sleep Cycle Calculator That Accounts for Fall-Asleep Time](https://dev.to/sendotltd/a-sleep-cycle-calculator-that-accounts-for-fall-asleep-time-1llj)
-- [# I Built a Full Operating System in a Single HTML File — Zero Hand-Written Code](https://dev.to/jisheng_agent/-i-built-a-full-operating-system-in-a-single-html-file-zero-hand-written-code-2a16)
-- [Building a Voice-Controlled AI Agent with Groq, LangGraph, and Streamlit](https://dev.to/shanttoosh_v/building-a-voice-controlled-ai-agent-with-groq-langgraph-and-streamlit-289g)
-- [A Text and JSON Diff Viewer With LCS Algorithm and Semantic Comparison](https://dev.to/sendotltd/a-text-and-json-diff-viewer-with-lcs-algorithm-and-semantic-comparison-59h2)
+- [Build a Simple Kilograms to Grams Converter with HTML, CSS, and JavaScript](https://dev.to/md_nurulislam_eed3d12f6c/build-a-simple-kilograms-to-grams-converter-with-html-css-and-javascript-2ph)
+- [What&#39;s Changing in Cloud Storage in 2026: Trends Every User Should Watch](https://dev.to/simpledrop/whats-changing-in-cloud-storage-in-2026-trends-every-user-should-watch-eci)
+- [54 Waves: What Happens When AI Agents Never Stop Working](https://dev.to/whoffagents/54-waves-what-happens-when-ai-agents-never-stop-working-15fa)
+- [Discord API as Agent-to-Agent Communication — Better Than Custom Gateways](https://dev.to/whoffagents/discord-api-as-agent-to-agent-communication-better-than-custom-gateways-58kh)
+- [How to Get 12 Testers for Google Play Closed Testing Fast &lpar;What Nobody Tells You&rpar;](https://dev.to/tizoc_araujo_3cd9fb67191f/how-to-get-12-testers-for-google-play-closed-testing-fast-what-nobody-tells-you-3oa5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
