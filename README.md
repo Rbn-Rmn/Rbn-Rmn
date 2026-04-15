@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Junior Scala Developer Resume Samples Optimized for Employers](https://dev.to/hannah_usmedynska/junior-scala-developer-resume-samples-optimized-for-employers-4cgh)
-- [The Manager Communication Mistake That Makes Good Engineers Look Disengaged](https://dev.to/feng2026/the-manager-communication-mistake-that-makes-good-engineers-look-disengaged-1i7d)
-- [OpenClaw Plugin: 5 Tool Categories for External AI Agent Frameworks](https://dev.to/walletguy/openclaw-plugin-5-tool-categories-for-external-ai-agent-frameworks-1eg1)
-- [Serverless applications on AWS with Lambda using Java 25, API Gateway and Aurora DSQL - Part 5 SnapStart + full priming](https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-aurora-dsql-part-5-3dlj)
-- [Claude Code Routines: Automate Code Reviews](https://dev.to/gentic_news/claude-code-routines-automate-code-reviews-2049)
+- [Agentic AI in NetOps: What to Automate First, What to Keep Human-Approved](https://dev.to/firstpasslab/agentic-ai-in-netops-what-to-automate-first-what-to-keep-human-approved-145c)
+- [Rufler: One YAML File to Rule Your Autonomous AI Swarm](https://dev.to/john_fs/rufler-one-yaml-file-to-rule-your-autonomous-ai-swarm-4d79)
+- [Your APM Tool Won&#39;t Catch Voice AI Failures. Here&#39;s What Actually Needs Monitoring](https://dev.to/jay_singh_e5b5ee6be59c0e0/your-apm-tool-wont-catch-voice-ai-failures-heres-what-actually-needs-monitoring-28o7)
+- [Rewriting My MCP Server from PHP to Go](https://dev.to/cpremus/rewriting-my-mcp-server-from-php-to-go-5e1p)
+- [Callback Functions](https://dev.to/janunirmal/callback-functions-5epp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
