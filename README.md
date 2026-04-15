@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Python HTTP Server Memory Usage in Containers: Addressing Uvicorn and Grainian Overhead](https://dev.to/romdevin/optimizing-python-http-server-memory-usage-in-containers-addressing-uvicorn-and-grainian-overhead-8fc)
-- [Why I Picked Rust for a Production-Ready Micro SaaS](https://dev.to/hauju/why-i-picked-rust-for-a-production-ready-micro-saas-3bjg)
-- [Python SDK for AI Agents: Async Wallet Control with Zero Dependencies](https://dev.to/walletguy/python-sdk-for-ai-agents-async-wallet-control-with-zero-dependencies-e43)
-- [My system Design Learning](https://dev.to/mahich123/my-system-design-learning-bg9)
-- [Claude Code Routines: Automate Dev Workflows](https://dev.to/onsen/claude-code-routines-automate-dev-workflows-4ijn)
+- [What&#39;s actually in a modern favicon set &lpar;and why everyone gets it wrong&rpar;](https://dev.to/sendotltd/whats-actually-in-a-modern-favicon-set-and-why-everyone-gets-it-wrong-143j)
+- [AI Web Browsers &amp; Agents in 2026: The Complete Selection Guide](https://dev.to/sarvabharan/ai-web-browsers-agents-in-2026-the-complete-selection-guide-pkb)
+- [Why Relying Only on Passwords Is No Longer Secure Enough for UK Users](https://dev.to/devabkk/why-relying-only-on-passwords-is-no-longer-secure-enough-for-uk-users-595l)
+- [I Built a Pay-Per-Call Trading Signal API for AI Agents](https://dev.to/pmestreforge/i-built-a-pay-per-call-trading-signal-api-for-ai-agents-375o)
+- [I Built a FastAPI QR Code Service and the Library Choice Mattered More Than the Code](https://dev.to/sendotltd/i-built-a-fastapi-qr-code-service-and-the-library-choice-mattered-more-than-the-code-5886)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
