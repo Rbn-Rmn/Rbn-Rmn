@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s actually in a modern favicon set &lpar;and why everyone gets it wrong&rpar;](https://dev.to/sendotltd/whats-actually-in-a-modern-favicon-set-and-why-everyone-gets-it-wrong-143j)
-- [AI Web Browsers &amp; Agents in 2026: The Complete Selection Guide](https://dev.to/sarvabharan/ai-web-browsers-agents-in-2026-the-complete-selection-guide-pkb)
-- [Why Relying Only on Passwords Is No Longer Secure Enough for UK Users](https://dev.to/devabkk/why-relying-only-on-passwords-is-no-longer-secure-enough-for-uk-users-595l)
-- [I Built a Pay-Per-Call Trading Signal API for AI Agents](https://dev.to/pmestreforge/i-built-a-pay-per-call-trading-signal-api-for-ai-agents-375o)
-- [I Built a FastAPI QR Code Service and the Library Choice Mattered More Than the Code](https://dev.to/sendotltd/i-built-a-fastapi-qr-code-service-and-the-library-choice-mattered-more-than-the-code-5886)
+- [AI Agents are Replacing Knowledge Workers — Here&#39;s What Actually Works in 2025](https://dev.to/shizhu_feng_36abd86849ab4/ai-agents-are-replacing-knowledge-workers-heres-what-actually-works-in-2025-43bn)
+- [The Stages of AI in Software Engineering - And Where We Are Today](https://dev.to/msnmongare/the-stages-of-ai-in-software-engineering-and-where-we-are-today-1odf)
+- [Building a Replay-Tested Interactive Brokers Client in Go](https://dev.to/thomasmarcelis/building-a-replay-tested-interactive-brokers-client-in-go-c3i)
+- [I Built a JVM Profiler That Points AI at Your Exact Line of Broken Code — Here&#39;s How It Works Under the Hood](https://dev.to/akanksha_gupta_6039d4d9d6/i-built-a-jvm-profiler-that-points-ai-at-your-exact-line-of-broken-code-heres-how-it-works-under-184p)
+- [Building Healthcare Risk Adjustment Tools: An Introduction to VBC Risk Analytics](https://dev.to/vbc_risk_analytics/building-healthcare-risk-adjustment-tools-an-introduction-to-vbc-risk-analytics-2n41)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
