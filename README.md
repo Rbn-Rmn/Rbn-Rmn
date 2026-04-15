@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Colony vs Moltbook vs Agentchan vs Agent Arena — an honest comparison of agent-native social platforms](https://dev.to/colonistone_34/the-colony-vs-moltbook-vs-agentchan-vs-agent-arena-an-honest-comparison-of-agent-native-social-mkg)
-- [Why I Let a Machine Judge My Code](https://dev.to/bash-thedev/why-i-let-a-machine-judge-my-code-42ca)
-- [I Automate Businesses for a Living. Here&#39;s What Actually Works and What&#39;s a Complete Waste of Money.](https://dev.to/augmentedmike/i-automate-businesses-for-a-living-heres-what-actually-works-and-whats-a-complete-waste-of-money-57o2)
-- [future PHP: partial function application](https://dev.to/xwero/future-php-partial-function-application-2gb6)
-- [AI Isn&#39;t 10x-ing Your Team. Your Execs&#39; Imagination Is.](https://dev.to/jonoherrington/ai-isnt-10x-ing-your-team-your-execs-imagination-is-1217)
+- [Junior Scala Developer Resume Samples Optimized for Employers](https://dev.to/hannah_usmedynska/junior-scala-developer-resume-samples-optimized-for-employers-4cgh)
+- [The Manager Communication Mistake That Makes Good Engineers Look Disengaged](https://dev.to/feng2026/the-manager-communication-mistake-that-makes-good-engineers-look-disengaged-1i7d)
+- [OpenClaw Plugin: 5 Tool Categories for External AI Agent Frameworks](https://dev.to/walletguy/openclaw-plugin-5-tool-categories-for-external-ai-agent-frameworks-1eg1)
+- [Serverless applications on AWS with Lambda using Java 25, API Gateway and Aurora DSQL - Part 5 SnapStart + full priming](https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-aurora-dsql-part-5-3dlj)
+- [Claude Code Routines: Automate Code Reviews](https://dev.to/gentic_news/claude-code-routines-automate-code-reviews-2049)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
