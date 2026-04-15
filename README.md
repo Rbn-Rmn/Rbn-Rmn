@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Spent 40 Hours Building AI Prompts for Competitive Intelligence — Here&#39;s What Actually Works](https://dev.to/boehner/i-spent-40-hours-building-ai-prompts-for-competitive-intelligence-heres-what-actually-works-546l)
-- [Why Do Big Websites Use Cloudflare?](https://dev.to/emann/why-do-big-websites-use-cloudflare-4dob)
-- [Apache Data Lakehouse Weekly: April 9–15, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-april-9-15-2026-51c7)
-- [AI Weekly: Agents, Models, and Chips — April 9–15, 2026](https://dev.to/alexmercedcoder/ai-weekly-agents-models-and-chips-april-9-15-2026-486f)
-- [Shipping to USA From UAE: A Complete Guide for Smooth International Relocation](https://dev.to/universalrelocations/shipping-to-usa-from-uae-a-complete-guide-for-smooth-international-relocation-121e)
+- [Es HOY! Lanzamiento de Artemis II - 1 de abril de 2026 🚀](https://dev.to/nchicaizaliz/es-hoy-lanzamiento-de-artemis-ii-1-de-abril-de-2026-401g)
+- [Building multilingual runtime collections in a Filament plugin](https://dev.to/serhii_fedorenko/building-multilingual-runtime-collections-in-a-filament-plugin-27cm)
+- [OpenAI&#39;s Promptfoo deal puts evaluation and red-teaming at the centre of the agent stack](https://dev.to/yujia_zhang_0328/openais-promptfoo-deal-puts-evaluation-and-red-teaming-at-the-centre-of-the-agent-stack-2208)
+- [Opencode for network systems administration. OMG.](https://dev.to/mikecase/opencode-for-network-systems-administration-omg-18g6)
+- [How to Detect if a Website Uses Intercom: 5 Methods](https://dev.to/detectzestack/how-to-detect-if-a-website-uses-intercom-5-methods-3o4k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
