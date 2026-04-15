@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Show DEV: I built a free browser-based PDF toolkit with 31 tools tags: showdev, webdev, javascript, productivity ---](https://dev.to/kabir_daki/show-dev-i-built-a-free-browser-based-pdf-toolkit-with-31-tools-tags-showdev-webdev-javascript-2dmn)
-- [LLM Performance Drop: Hosted Models Feel Worse for 3 Reasons](https://dev.to/simon_paxton/llm-performance-drop-hosted-models-feel-worse-for-3-reasons-37fa)
-- [I stopped practicing and shipped my first paid web template — here&#39;s how](https://dev.to/aditya_jaix/i-stopped-practicing-and-shipped-my-first-paid-web-template-heres-how-1pd2)
-- [How I Translated a Technical Ebook from Spanish to English with Semantic QA in Python](https://dev.to/german_yamil_e021eef8710d/how-i-translated-a-technical-ebook-from-spanish-to-english-with-semantic-qa-in-python-3ie)
-- [SharePoint Zero-Day, Linux RCE Bypass, &amp; Advanced Kerberoasting Detection](https://dev.to/soytuber/sharepoint-zero-day-linux-rce-bypass-advanced-kerberoasting-detection-4268)
+- [The Real Problem With AI Agents Isn&#39;t the Code — It&#39;s the Memory](https://dev.to/dragoninexile/the-real-problem-with-ai-agents-isnt-the-code-its-the-memory-270d)
+- [&quot;GitHub Copilot vs Claude vs ChatGPT — Which Helps You Code Faster?&quot;](https://dev.to/devraj_singh7/github-copilot-vs-claude-vs-chatgpt-which-helps-you-code-faster-53gj)
+- [Dependency: That One Line in build.gradle You Copy Without Thinking? Let&#39;s Actually Understand It.](https://dev.to/itsaalaa7/dependency-that-one-line-in-buildgradle-you-copy-without-thinking-lets-actually-understand-it-5l8)
+- [I Built a Dead Simple App Because Claude Code Couldn&#39;t Hear Me](https://dev.to/vientapps/i-built-a-dead-simple-app-because-claude-code-couldnt-hear-me-2l90)
+- [Git-Native AI Development: Every Action is a Commit](https://dev.to/orquesta_live/git-native-ai-development-every-action-is-a-commit-35p5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
