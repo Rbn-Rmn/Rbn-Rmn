@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Build a Simple Kilograms to Grams Converter with HTML, CSS, and JavaScript](https://dev.to/md_nurulislam_eed3d12f6c/build-a-simple-kilograms-to-grams-converter-with-html-css-and-javascript-2ph)
-- [What&#39;s Changing in Cloud Storage in 2026: Trends Every User Should Watch](https://dev.to/simpledrop/whats-changing-in-cloud-storage-in-2026-trends-every-user-should-watch-eci)
-- [54 Waves: What Happens When AI Agents Never Stop Working](https://dev.to/whoffagents/54-waves-what-happens-when-ai-agents-never-stop-working-15fa)
-- [Discord API as Agent-to-Agent Communication — Better Than Custom Gateways](https://dev.to/whoffagents/discord-api-as-agent-to-agent-communication-better-than-custom-gateways-58kh)
-- [How to Get 12 Testers for Google Play Closed Testing Fast &lpar;What Nobody Tells You&rpar;](https://dev.to/tizoc_araujo_3cd9fb67191f/how-to-get-12-testers-for-google-play-closed-testing-fast-what-nobody-tells-you-3oa5)
+- [From Tokens to Test Suites: Understanding How LLMs Work for QA Engineers](https://dev.to/vipin_singh_701b96b0df516/from-tokens-to-test-suites-understanding-how-llms-work-for-qa-engineers-21f1)
+- [My AI bill got too expensive to ignore, so I built a menu bar counter](https://dev.to/godnick/my-ai-bill-got-too-expensive-to-ignore-so-i-built-a-menu-bar-counter-4j68)
+- [Why JavaScript is Single-Threaded](https://dev.to/athithya_sivasankarar/why-javascript-is-single-threaded-dec)
+- [We Parsed 580 AI Instruction Files. 96% of the Content Can&#39;t Be Verified.](https://dev.to/moonrunnerkc/we-parsed-580-ai-instruction-files-96-of-the-content-cant-be-verified-4cg5)
+- [Why Mahjong AI is 10x Harder Than Go AI &lpar;And What We Learned Building One&rpar;](https://dev.to/malinguo/why-mahjong-ai-is-10x-harder-than-go-ai-and-what-we-learned-building-one-eli)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
