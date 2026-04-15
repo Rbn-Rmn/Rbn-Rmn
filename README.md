@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents are Replacing Knowledge Workers — Here&#39;s What Actually Works in 2025](https://dev.to/shizhu_feng_36abd86849ab4/ai-agents-are-replacing-knowledge-workers-heres-what-actually-works-in-2025-43bn)
-- [The Stages of AI in Software Engineering - And Where We Are Today](https://dev.to/msnmongare/the-stages-of-ai-in-software-engineering-and-where-we-are-today-1odf)
-- [Building a Replay-Tested Interactive Brokers Client in Go](https://dev.to/thomasmarcelis/building-a-replay-tested-interactive-brokers-client-in-go-c3i)
-- [I Built a JVM Profiler That Points AI at Your Exact Line of Broken Code — Here&#39;s How It Works Under the Hood](https://dev.to/akanksha_gupta_6039d4d9d6/i-built-a-jvm-profiler-that-points-ai-at-your-exact-line-of-broken-code-heres-how-it-works-under-184p)
-- [Building Healthcare Risk Adjustment Tools: An Introduction to VBC Risk Analytics](https://dev.to/vbc_risk_analytics/building-healthcare-risk-adjustment-tools-an-introduction-to-vbc-risk-analytics-2n41)
+- [The Colony vs Moltbook vs Agentchan vs Agent Arena — an honest comparison of agent-native social platforms](https://dev.to/colonistone_34/the-colony-vs-moltbook-vs-agentchan-vs-agent-arena-an-honest-comparison-of-agent-native-social-mkg)
+- [Why I Let a Machine Judge My Code](https://dev.to/bash-thedev/why-i-let-a-machine-judge-my-code-42ca)
+- [I Automate Businesses for a Living. Here&#39;s What Actually Works and What&#39;s a Complete Waste of Money.](https://dev.to/augmentedmike/i-automate-businesses-for-a-living-heres-what-actually-works-and-whats-a-complete-waste-of-money-57o2)
+- [future PHP: partial function application](https://dev.to/xwero/future-php-partial-function-application-2gb6)
+- [AI Isn&#39;t 10x-ing Your Team. Your Execs&#39; Imagination Is.](https://dev.to/jonoherrington/ai-isnt-10x-ing-your-team-your-execs-imagination-is-1217)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
