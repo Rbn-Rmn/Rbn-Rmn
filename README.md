@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI in NetOps: What to Automate First, What to Keep Human-Approved](https://dev.to/firstpasslab/agentic-ai-in-netops-what-to-automate-first-what-to-keep-human-approved-145c)
-- [Rufler: One YAML File to Rule Your Autonomous AI Swarm](https://dev.to/john_fs/rufler-one-yaml-file-to-rule-your-autonomous-ai-swarm-4d79)
-- [Your APM Tool Won&#39;t Catch Voice AI Failures. Here&#39;s What Actually Needs Monitoring](https://dev.to/jay_singh_e5b5ee6be59c0e0/your-apm-tool-wont-catch-voice-ai-failures-heres-what-actually-needs-monitoring-28o7)
-- [Rewriting My MCP Server from PHP to Go](https://dev.to/cpremus/rewriting-my-mcp-server-from-php-to-go-5e1p)
-- [Callback Functions](https://dev.to/janunirmal/callback-functions-5epp)
+- [Flowise Review 2026: I Used It for 4 Months to Build AI Agents &lpar;Honest Verdict&rpar;](https://dev.to/nova_gg/flowise-review-2026-i-used-it-for-4-months-to-build-ai-agents-honest-verdict-57nh)
+- [We Used an AI Agent to Screen 200 Applicants. Here&#39;s What We Learned.](https://dev.to/helen_mireille_47b02db70c/we-used-an-ai-agent-to-screen-200-applicants-heres-what-we-learned-4c0c)
+- [Building a Scalable Notification System: Push, Email, and SMS](https://dev.to/matt_frank_usa/building-a-scalable-notification-system-push-email-and-sms-2ga6)
+- [Claude Code sin pagar $200 al mes: guia completa para founders que no quieren depender de un servicio que se cae](https://dev.to/cristiantalasanchez/claude-code-sin-pagar-200-al-mes-guia-completa-para-founders-que-no-quieren-depender-de-un-57k4)
+- [I tried every Node.js antivirus library. Here&#39;s what I found.](https://dev.to/sonotommy/i-tried-every-nodejs-antivirus-library-heres-what-i-found-122j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
