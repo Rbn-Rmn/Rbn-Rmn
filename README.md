@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [🚨 Anime Fans Are Losing It: A Chi‑From‑Chobits Skill You Can Drop Into Your AI Right Now](https://dev.to/owly/anime-fans-are-losing-it-a-chi-from-chobits-skill-you-can-drop-into-your-ai-right-now-21e7)
-- [Claude Opus 4.7 Debuts, Qwen 3.6-35B Open-Source, &amp; Claude Code Workflow](https://dev.to/soytuber/claude-opus-47-debuts-qwen-36-35b-open-source-claude-code-workflow-1ec)
-- [Java Without the JVM? A Journey into Spring Boot Native Images](https://dev.to/felipestanzani/java-without-the-jvm-a-journey-into-spring-boot-native-images-5ejp)
-- [Congrats to the 2026 WeCoded Challenge Winners!](https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee)
-- [As We May Code: Why Software Is a Human Problem Dressed in Logic](https://dev.to/cec1_c0d/as-we-may-code-why-software-is-a-human-problem-dressed-in-logic-338m)
+- [`gh skill`: GitHub&#39;s New CLI Command Turns Agent Skills Into Installable Packages](https://dev.to/om_shree_0709/gh-skill-githubs-new-cli-command-turns-agent-skills-into-installable-packages-2p82)
+- [So AI is making me Lazy...](https://dev.to/ametuercodr/so-ai-is-making-me-lazy-40oh)
+- [What It Takes to Build Real-Time Fraud Detection Systems at Scale](https://dev.to/gopalakrishnan_v/what-it-takes-to-build-real-time-fraud-detection-systems-at-scale-6df)
+- [Your dependencies are 48% unmaintained — and SCA tools can&#39;t see it](https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h)
+- [Designing a 5-Minute Crypto Prediction Bot on Polymarket Using Cascade Trailing Logic](https://dev.to/benjamin_martin_749c1d57f/designing-a-5-minute-crypto-prediction-bot-on-polymarket-using-cascade-trailing-logic-2p8h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
