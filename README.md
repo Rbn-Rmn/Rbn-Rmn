@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [&quot;The Agent Workforce: Enabling Autonomous Agent-to-Agent Collaboration&quot;](https://dev.to/tercelyi/the-agent-workforce-enabling-autonomous-agent-to-agent-collaboration-17o1)
-- [SMS AOT Event Dispatch Beats C++, Kotlin Native, and JVM. Here&#39;s Why.](https://dev.to/artanidos/sms-aot-event-dispatch-beats-c-kotlin-native-and-jvm-heres-why-2n21)
-- [How to Build Your Own Quant Trading System with Open Source](https://dev.to/yuhang_chen_969a8b10adae9/how-to-build-your-own-quant-trading-system-with-open-source-4o84)
-- [Throttling in JavaScript](https://dev.to/ashish_ghildiyal_26/throttling-in-javascript-5gd4)
-- [The surprise AI bill that made me build TokenBar](https://dev.to/godnick/the-surprise-ai-bill-that-made-me-build-tokenbar-49pn)
+- [How to Audit Who Did What in Your Multi-Tenant App: Building an Activity Log With Convex and Kinde](https://dev.to/sholajegede/how-to-audit-who-did-what-in-your-multi-tenant-app-building-an-activity-log-with-convex-and-kinde-4n25)
+- [Amazon Consent Signal &lpar;ACS&rpar;: What It Is, How It Breaks, and How to Fix It at the Tag Level](https://dev.to/mehwish_malik_4f29ff7fb04/amazon-consent-signal-acs-what-it-is-how-it-breaks-and-how-to-fix-it-at-the-tag-level-1oid)
+- [Intro to React: Why Everyone’s Switching &lpar;And Why You Might Too&rpar;](https://dev.to/kathirvel-s/intro-to-react-why-everyones-switching-and-why-you-might-too-29mh)
+- [From RPA to Data Thinking: Building a High-Scale Payment Processing System](https://dev.to/kunal_deshmukh_175f888b9a/from-rpa-to-data-thinking-building-a-high-scale-payment-processing-system-3lld)
+- [RAG From First Principles: Why Every AI App Retrieves Before It Generates](https://dev.to/klement_gunndu/rag-from-first-principles-why-every-ai-app-retrieves-before-it-generates-1d6p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
