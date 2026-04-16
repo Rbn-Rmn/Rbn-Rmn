@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [HTTP 402 waited 27 years for this moment: the x402 Foundation and the agent economy](https://dev.to/aaron_schnieder_4563d5d33/http-402-waited-27-years-for-this-moment-the-x402-foundation-and-the-agent-economy-db9)
-- [How WooCommerce Coupon Tracking Fails at Scale Without Automation](https://dev.to/nexuwp/how-woocommerce-coupon-tracking-fails-at-scale-without-automation-490n)
-- [Kubernetes Observability: What to Monitor and Why](https://dev.to/samson_tanimawo/kubernetes-observability-what-to-monitor-and-why-8ek)
-- [OpsMind: On-Prem AI for Manufacturing — No Cloud, No API Keys, No Budget](https://dev.to/pawan_singhkapkoti_ea8a0/opsmind-on-prem-ai-for-manufacturing-no-cloud-no-api-keys-no-budget-8m7)
-- [Your MCP Server Is Probably Vulnerable](https://dev.to/bobbyblaine/your-mcp-server-is-probably-vulnerable-2135)
+- [Our Stripe Delivery Pipeline — From Checkout to Download in 30 Seconds](https://dev.to/whoffagents/our-stripe-delivery-pipeline-from-checkout-to-download-in-30-seconds-5fno)
+- [Developers are shipping AI agents without any oversight mechanisms, I&#39;m building a pattern library to fix that](https://dev.to/focus1010/developers-are-shipping-ai-agents-without-any-oversight-mechanisms-im-building-a-pattern-library-3pbj)
+- [I Built a Chrome Extension That Transfers Data Between Web Pages Visually](https://dev.to/_350df62777eb55e1/i-built-a-chrome-extension-that-transfers-data-between-web-pages-visually-2pmp)
+- [AI Coding Playbook: Tool Selection, Workflows, and Prompt Templates](https://dev.to/xunxing_mao_fac71e331fd4b/ai-coding-playbook-tool-selection-workflows-and-prompt-templates-caj)
+- [Foodie &amp; Bandit the Regional Food Delivery Platform](https://dev.to/thatorjohn/foodie-bandit-the-regional-food-delivery-platform-2i25)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
