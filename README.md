@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Audit Who Did What in Your Multi-Tenant App: Building an Activity Log With Convex and Kinde](https://dev.to/sholajegede/how-to-audit-who-did-what-in-your-multi-tenant-app-building-an-activity-log-with-convex-and-kinde-4n25)
-- [Amazon Consent Signal &lpar;ACS&rpar;: What It Is, How It Breaks, and How to Fix It at the Tag Level](https://dev.to/mehwish_malik_4f29ff7fb04/amazon-consent-signal-acs-what-it-is-how-it-breaks-and-how-to-fix-it-at-the-tag-level-1oid)
-- [Intro to React: Why Everyone’s Switching &lpar;And Why You Might Too&rpar;](https://dev.to/kathirvel-s/intro-to-react-why-everyones-switching-and-why-you-might-too-29mh)
-- [From RPA to Data Thinking: Building a High-Scale Payment Processing System](https://dev.to/kunal_deshmukh_175f888b9a/from-rpa-to-data-thinking-building-a-high-scale-payment-processing-system-3lld)
-- [RAG From First Principles: Why Every AI App Retrieves Before It Generates](https://dev.to/klement_gunndu/rag-from-first-principles-why-every-ai-app-retrieves-before-it-generates-1d6p)
+- [Fixing a Flutter Release APK Build That Failed on Windows](https://dev.to/kenryikegbo/-fixing-a-flutter-release-apk-build-that-failed-on-windows-41ip)
+- [Why AI Output Quality Plateaus — And What Actually Raises the Ceiling](https://dev.to/muggleai/why-ai-output-quality-plateaus-and-what-actually-raises-the-ceiling-2mg4)
+- [Mistake 12/14: You&#39;re not catching visual regressions](https://dev.to/testdino01/mistake-1214-youre-not-catching-visual-regressions-3c64)
+- [CALLBACK FUNCTION- EXAMPLES](https://dev.to/siyamala_g/callback-function-examples-56gl)
+- [Beyond Marker Clustering](https://dev.to/markosmilja/beyond-marker-clustering-1jmj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
