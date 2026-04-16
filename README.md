@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Our Stripe Delivery Pipeline — From Checkout to Download in 30 Seconds](https://dev.to/whoffagents/our-stripe-delivery-pipeline-from-checkout-to-download-in-30-seconds-5fno)
-- [Developers are shipping AI agents without any oversight mechanisms, I&#39;m building a pattern library to fix that](https://dev.to/focus1010/developers-are-shipping-ai-agents-without-any-oversight-mechanisms-im-building-a-pattern-library-3pbj)
-- [I Built a Chrome Extension That Transfers Data Between Web Pages Visually](https://dev.to/_350df62777eb55e1/i-built-a-chrome-extension-that-transfers-data-between-web-pages-visually-2pmp)
-- [AI Coding Playbook: Tool Selection, Workflows, and Prompt Templates](https://dev.to/xunxing_mao_fac71e331fd4b/ai-coding-playbook-tool-selection-workflows-and-prompt-templates-caj)
-- [Foodie &amp; Bandit the Regional Food Delivery Platform](https://dev.to/thatorjohn/foodie-bandit-the-regional-food-delivery-platform-2i25)
+- [My First Contribution to Firefox &lpar;Mozilla&rpar;: A Beginner’s Experience](https://dev.to/chimdimma1/my-first-contribution-to-firefox-mozilla-a-beginners-experience-464b)
+- [Competitive Analysis of 15 AI Testing Tools Pricing, Core Features, and Common User Complaints](https://dev.to/xiami9378389/competitive-analysis-of-15-ai-testing-toolspricing-core-features-and-common-user-complaints-5bhh)
+- [Structuring the Database: Building an AI Task System [Floxis #2]](https://dev.to/rina-park/structuring-the-database-building-an-ai-task-system-floxis-2-3g56)
+- [Move and Rename Files in PowerShell: Move-Item Explained](https://dev.to/arnostorg/move-and-rename-files-in-powershell-move-item-explained-35kl)
+- [JavaScript Execution Flow: Event Loop, Call Stack, Microtasks vs Macrotasks](https://dev.to/sachin_singhpatwal_cbaa0/javascript-execution-flow-event-loop-call-stack-microtasks-vs-macrotasks-15c3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
