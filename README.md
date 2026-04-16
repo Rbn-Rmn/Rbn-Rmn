@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Delete Files in PowerShell: Remove-Item with Safety](https://dev.to/arnostorg/delete-files-in-powershell-remove-item-with-safety-48ib)
-- [K3s, MetalLB &amp; Cilium](https://dev.to/yepchaos/k3s-metallb-cilium-e9i)
-- [We Ran 18,000 Test Calls Across 297 Agent Data Capabilities. 49% Failed.](https://dev.to/petter-strale/we-ran-18000-test-calls-across-297-agent-data-capabilities-49-failed-nh0)
-- [Power SEO Meta vs Next SEO: Which SEO Library is Better for Modern Next.js App Router?](https://dev.to/alamin_c5eb10132845723c2b/power-seo-meta-vs-next-seo-which-seo-library-is-better-for-modern-nextjs-app-router-bba)
-- [Vibe Coding Security: What Happens When Developers Trust AI Too Much](https://dev.to/danieljglover/vibe-coding-security-what-happens-when-developers-trust-ai-too-much-1fji)
+- [&quot;The Agent Workforce: Enabling Autonomous Agent-to-Agent Collaboration&quot;](https://dev.to/tercelyi/the-agent-workforce-enabling-autonomous-agent-to-agent-collaboration-17o1)
+- [SMS AOT Event Dispatch Beats C++, Kotlin Native, and JVM. Here&#39;s Why.](https://dev.to/artanidos/sms-aot-event-dispatch-beats-c-kotlin-native-and-jvm-heres-why-2n21)
+- [How to Build Your Own Quant Trading System with Open Source](https://dev.to/yuhang_chen_969a8b10adae9/how-to-build-your-own-quant-trading-system-with-open-source-4o84)
+- [Throttling in JavaScript](https://dev.to/ashish_ghildiyal_26/throttling-in-javascript-5gd4)
+- [The surprise AI bill that made me build TokenBar](https://dev.to/godnick/the-surprise-ai-bill-that-made-me-build-tokenbar-49pn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
