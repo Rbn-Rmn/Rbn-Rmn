@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Realistic Old Ceiling](https://dev.to/badbuilders/realistic-old-ceiling-3ele)
-- [I launched my first side project and got 22 visitors. Here&#39;s what the data actually told me.](https://dev.to/aymen_hb_c80749ef79bfcb47/i-launched-my-first-side-project-and-got-22-visitors-heres-what-the-data-actually-told-me-4mod)
-- [I stopped building dashboards. AI assistants are the new UI.](https://dev.to/data_nerd/i-stopped-building-dashboards-ai-assistants-are-the-new-ui-c5h)
-- [Building an AI-Powered Crypto Sentiment &amp; Trading Dashboard](https://dev.to/rakesh_kumar_021e3d407331/building-an-ai-powered-crypto-sentiment-trading-dashboard-2mlo)
-- [Weekend Challenge: Earth Day Edition](https://dev.to/dan52242644dan/weekend-challenge-earth-day-edition-4m90)
+- [Using Gemini CLI with Vertex AI &lpar;Without Worrying About Your Data&rpar;](https://dev.to/hasanmn/using-gemini-cli-with-vertex-ai-without-worrying-about-your-data-4jb)
+- [Arquitetura REST](https://dev.to/gabrieltme/arquitetura-rest-3d6)
+- [I Built a PQC Native L1 Blockchain from Scratch in 9 Months](https://dev.to/exocognosis/i-built-a-pqc-native-l1-blockchain-from-scratch-in-9-months-550h)
+- [The signing key mistake that cost me a week on my first Android release](https://dev.to/theionproject/the-signing-key-mistake-that-cost-me-a-week-on-my-first-android-release-1eo1)
+- [Part 2: Hands-on tc Framework: Building a Full-Stack Async API with Pages](https://dev.to/functors/part-2-hands-on-tc-framework-building-a-full-stack-async-api-with-pages-3i9m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
