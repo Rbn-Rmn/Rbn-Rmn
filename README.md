@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2023-33538: The TP-Link Command Injection Flaw That&#39;s Still Being Actively Exploited](https://dev.to/om_shree_0709/cve-2023-33538-the-tp-link-command-injection-flaw-thats-still-being-actively-exploited-3gd7)
-- [I Built a Code Archaeology Engine for AI — Here&#39;s Why Claude and Cursor Keep Forgetting Your Architecture](https://dev.to/eliotshift/i-built-a-code-archaeology-engine-for-ai-heres-why-claude-and-cursor-keep-forgetting-your-oa8)
-- [Terminal themes tuned for prose legibility, not syntax highlighting](https://dev.to/palo_alto_ai/terminal-themes-tuned-for-prose-legibility-not-syntax-highlighting-g7e)
-- [I shipped my first digital product in 4 hours. Here&#39;s the full build log.](https://dev.to/vdalhambra/i-shipped-my-first-digital-product-in-4-hours-heres-the-full-build-log-1bao)
-- [The User With No Face: Why Modern Technology Is Becoming More Dangerous From the Inside](https://dev.to/sonia_bobrik_1939cdddd79d/the-user-with-no-face-why-modern-technology-is-becoming-more-dangerous-from-the-inside-404a)
+- [5 self-hosted ebook managers worth trying in 2026](https://dev.to/productimpossible/5-self-hosted-ebook-managers-worth-trying-in-2026-59hn)
+- [Building Your First AI Agent with LangChain: From Chatbot to Autonomous Assistant](https://dev.to/kumail_dev110/building-your-first-ai-agent-with-langchain-from-chatbot-to-autonomous-assistant-263h)
+- [Common SOC 2 Failures &lpar;Real World&rpar;](https://dev.to/aditya_khare_cfee26fcf7c8/common-soc-2-failures-real-world-18oh)
+- [Stop Vibe-Checking Your AI App: A Practical Guide to Evals](https://dev.to/jan_ten/stop-vibe-checking-your-ai-app-a-practical-guide-to-evals-2kca)
+- [How to Use SonarQube and SonarScanner Locally to Level Up Your Code Quality](https://dev.to/basteez/how-to-use-sonarqube-and-sonarscanner-locally-to-level-up-your-code-quality-4087)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
