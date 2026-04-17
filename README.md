@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Missing Layer in Your Data Stack Why Semantic Intelligence Matters More Than Another BI Tool](https://dev.to/hello_arisyn_0dc948aa82b3/the-missing-layer-in-your-data-stackwhy-semantic-intelligence-matters-more-than-another-bi-tool-2i7f)
-- [How I put my open dataset on the Wikidata knowledge graph &lpar;and why you should too&rpar;](https://dev.to/c_d_084d360f424581c9995/how-i-put-my-open-dataset-on-the-wikidata-knowledge-graph-and-why-you-should-too-3f9i)
-- [Zero-day en Adobe Acrobat 2026: un PDF te puede hackear — actualizá ya](https://dev.to/lu1tr0n/zero-day-en-adobe-acrobat-2026-un-pdf-te-puede-hackear-actualiza-ya-2mjm)
-- [I let Claude write my React compiler. I only reviewed the tests.](https://dev.to/bs_ktigerwest_b90c3366/i-let-claude-write-my-react-compiler-i-only-reviewed-the-tests-11c0)
-- [Opus 4.7 First Look: I Tested the Day-Old Model Against 3 Other Claudes on 10 Real Tasks](https://dev.to/jamesai/opus-47-first-look-i-tested-the-day-old-model-against-3-other-claudes-on-10-real-tasks-3cj6)
+- [CVE-2023-33538: The TP-Link Command Injection Flaw That&#39;s Still Being Actively Exploited](https://dev.to/om_shree_0709/cve-2023-33538-the-tp-link-command-injection-flaw-thats-still-being-actively-exploited-3gd7)
+- [I Built a Code Archaeology Engine for AI — Here&#39;s Why Claude and Cursor Keep Forgetting Your Architecture](https://dev.to/eliotshift/i-built-a-code-archaeology-engine-for-ai-heres-why-claude-and-cursor-keep-forgetting-your-oa8)
+- [Terminal themes tuned for prose legibility, not syntax highlighting](https://dev.to/palo_alto_ai/terminal-themes-tuned-for-prose-legibility-not-syntax-highlighting-g7e)
+- [I shipped my first digital product in 4 hours. Here&#39;s the full build log.](https://dev.to/vdalhambra/i-shipped-my-first-digital-product-in-4-hours-heres-the-full-build-log-1bao)
+- [The User With No Face: Why Modern Technology Is Becoming More Dangerous From the Inside](https://dev.to/sonia_bobrik_1939cdddd79d/the-user-with-no-face-why-modern-technology-is-becoming-more-dangerous-from-the-inside-404a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
