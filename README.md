@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Processing long running events on AWS API Gateway](https://dev.to/aws-builders/processing-long-running-events-on-aws-api-gateway-bn4)
-- [The Ultimate Container Showdown Choosing Between Alpine and Distroless](https://dev.to/mechcloud_academy/the-ultimate-container-showdown-choosing-between-alpine-and-distroless-ipd)
-- [The 270-Second Rule: How to Cut Claude Code API Costs by 90% with Smart](https://dev.to/gentic_news/the-270-second-rule-how-to-cut-claude-code-api-costs-by-90-with-smart-2b2)
-- [Running LLM Classification After the Response: Next.js after&lpar;&rpar; + OpenRouter at $0.0002 per Call](https://dev.to/lovanaut55/running-llm-classification-after-the-response-nextjs-after-openrouter-at-00002-per-call-2efh)
-- [Tasks that don&#39;t make sense](https://dev.to/raphink/tasks-that-dont-make-sense-26k3)
+- [Your AI-Generated Text Stinks and Everyone Knows It — Here&#39;s What We Found Building Detection Tools](https://dev.to/gerus_team/your-ai-generated-text-stinks-and-everyone-knows-it-heres-what-we-found-building-detection-tools-410p)
+- [Introducing OwnCDN](https://dev.to/jesperhoy/introducing-owncdn-589b)
+- [Don&#39;t be mad, BMAD instead](https://dev.to/basteez/dont-be-mad-bmad-instead-3d4i)
+- [Understanding Wallet Sync: Why Your Midnight Deploy Fails Before It Starts](https://dev.to/wilsonhoe/understanding-wallet-sync-why-your-midnight-deploy-fails-before-it-starts-dkj)
+- [DUST Sponsorship on Midnight: How One Wallet Pays Fees for Another](https://dev.to/wilsonhoe/dust-sponsorship-on-midnight-how-one-wallet-pays-fees-for-another-38j6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
