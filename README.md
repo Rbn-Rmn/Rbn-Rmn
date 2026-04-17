@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Toggle: 4 Rules for Perfecting Dark Mode UX in 2026](https://dev.to/brandvix/beyond-the-toggle-4-rules-for-perfecting-dark-mode-ux-in-2026-4j55)
-- [Why Building AI for Non-English Speakers is Harder Than You Think &lpar;And How I Did It Anyway&rpar;](https://dev.to/zeshama/why-building-ai-for-non-english-speakers-is-harder-than-you-think-and-how-i-did-it-anyway-6b9)
-- [Claude Code&#39;s Edge: Why Sonnet 4.5 Beats GPT-4o for Multi-File Projects](https://dev.to/gentic_news/claude-codes-edge-why-sonnet-45-beats-gpt-4o-for-multi-file-projects-4i38)
-- [PaperBanana: framework multi-agente para ilustración académica con IA](https://dev.to/lu1tr0n/paperbanana-framework-multi-agente-para-ilustracion-academica-con-ia-38e7)
-- [I Built a Claude Code Plugin That Simultaneously Posts to Zenn and dev.to With Just &quot;Publish the article&quot;](https://dev.to/bokuno_log/i-built-a-claude-code-plugin-that-simultaneously-posts-to-zenn-and-devto-with-just-publish-the-4pmj)
+- [Remote jobs in Rust – from a file to NATS in three steps](https://dev.to/marcomq/remote-jobs-in-rust-from-a-file-to-nats-in-three-steps-4316)
+- [io_uring Adventures: Rust Servers That Love Syscalls](https://dev.to/speed_engineer/iouring-adventures-rust-servers-that-love-syscalls-47nm)
+- [Why Agentic AI is Killing the Traditional Database](https://dev.to/karan_kumar_f09865ff0efe9/why-agentic-ai-is-killing-the-traditional-database-lk2)
+- [The POUR principles of web accessibility for developers and designers](https://dev.to/devly-digital/the-pour-principles-of-web-accessibility-for-developers-and-designers-171k)
+- [Quantum Neural Network 3D — A Deep Dive into Interactive WebGL Visualization](https://dev.to/yasirawan4831/quantum-neural-network-3d-a-deep-dive-into-interactive-webgl-visualization-1k3n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
