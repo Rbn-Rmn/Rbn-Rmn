@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Built juanchi.dev on the Most Bleeding-Edge Stack of 2025: Next.js 16, React 19, Tailwind v4 &amp; Railway](https://dev.to/jtorchia/how-i-built-juanchidev-on-the-most-bleeding-edge-stack-of-2025-nextjs-16-react-19-tailwind-v4-9e5)
-- [Next.js App Router: The Guide I Wish I Had When I Migrated from Pages Router](https://dev.to/jtorchia/nextjs-app-router-the-guide-i-wish-i-had-when-i-migrated-from-pages-router-56f)
-- [From DOS to Cloud: My 33-Year Journey with Tech — From an Amiga in 1994 to Deploying on Railway with Next.js](https://dev.to/jtorchia/from-dos-to-cloud-my-33-year-journey-with-tech-from-an-amiga-in-1994-to-deploying-on-railway-23nj)
-- [Docker for Node.js Developers: From Zero to Production Without Losing Your Mind](https://dev.to/jtorchia/docker-for-nodejs-developers-from-zero-to-production-without-losing-your-mind-mb3)
-- [Canadian NI 31-103 for solo crypto-quant devs: what you can and can&#39;t build without registration](https://dev.to/sai_93caeceb4f6a4d9969910/canadian-ni-31-103-for-solo-crypto-quant-devs-what-you-can-and-cant-build-without-registration-2if)
+- [React 19 use&lpar;&rpar; Hook in Production: Suspense Data Fetching Without useEffect](https://dev.to/whoffagents/react-19-use-hook-in-production-suspense-data-fetching-without-useeffect-mb5)
+- [GitHub Token 404: Troubleshooting &amp; Boosting Dev Productivity](https://dev.to/devactivity/github-token-404-troubleshooting-boosting-dev-productivity-21j)
+- [Better Numeric Inputs in Angular &lpar;Signal Forms + Angular 22&rpar;](https://dev.to/brianmtreese/better-numeric-inputs-in-angular-signal-forms-angular-22-2pal)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-28fb)
+- [When one translation isn&#39;t enough: building konid](https://dev.to/palo_alto_ai/when-one-translation-isnt-enough-building-konid-2cg7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
