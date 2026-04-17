@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [React 19 use&lpar;&rpar; Hook in Production: Suspense Data Fetching Without useEffect](https://dev.to/whoffagents/react-19-use-hook-in-production-suspense-data-fetching-without-useeffect-mb5)
-- [GitHub Token 404: Troubleshooting &amp; Boosting Dev Productivity](https://dev.to/devactivity/github-token-404-troubleshooting-boosting-dev-productivity-21j)
-- [Better Numeric Inputs in Angular &lpar;Signal Forms + Angular 22&rpar;](https://dev.to/brianmtreese/better-numeric-inputs-in-angular-signal-forms-angular-22-2pal)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-28fb)
-- [When one translation isn&#39;t enough: building konid](https://dev.to/palo_alto_ai/when-one-translation-isnt-enough-building-konid-2cg7)
+- [Inline context without losing the paragraph you were reading](https://dev.to/palo_alto_ai/inline-context-without-losing-the-paragraph-you-were-reading-3fh)
+- [Clawdvent: An AI Dungeon Master That Lives in Your Discord - With Live Scene Art](https://dev.to/shirisha_uppoju_b20d30705/clawdvent-an-ai-dungeon-master-that-lives-in-your-discord-with-live-scene-art-1gpd)
+- [Multi-Agent A2A with the Agent Development Kit&lpar;ADK&rpar;, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-ecs-express-and-gemini-cli-1gcl)
+- [I audited every npm package with &gt;10M weekly downloads. Here is the risk map.](https://dev.to/piiiico/i-audited-every-npm-package-with-10m-weekly-downloads-here-is-the-risk-map-16k0)
+- [The 96.3% Is a Trap: What Hermes 4 405B Actually Changed](https://dev.to/ji_ai/the-963-is-a-trap-what-hermes-4-405b-actually-changed-18ee)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
