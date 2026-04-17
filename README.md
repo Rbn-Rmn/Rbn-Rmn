@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Remote jobs in Rust – from a file to NATS in three steps](https://dev.to/marcomq/remote-jobs-in-rust-from-a-file-to-nats-in-three-steps-4316)
-- [io_uring Adventures: Rust Servers That Love Syscalls](https://dev.to/speed_engineer/iouring-adventures-rust-servers-that-love-syscalls-47nm)
-- [Why Agentic AI is Killing the Traditional Database](https://dev.to/karan_kumar_f09865ff0efe9/why-agentic-ai-is-killing-the-traditional-database-lk2)
-- [The POUR principles of web accessibility for developers and designers](https://dev.to/devly-digital/the-pour-principles-of-web-accessibility-for-developers-and-designers-171k)
-- [Quantum Neural Network 3D — A Deep Dive into Interactive WebGL Visualization](https://dev.to/yasirawan4831/quantum-neural-network-3d-a-deep-dive-into-interactive-webgl-visualization-1k3n)
+- [Processing long running events on AWS API Gateway](https://dev.to/aws-builders/processing-long-running-events-on-aws-api-gateway-bn4)
+- [The Ultimate Container Showdown Choosing Between Alpine and Distroless](https://dev.to/mechcloud_academy/the-ultimate-container-showdown-choosing-between-alpine-and-distroless-ipd)
+- [The 270-Second Rule: How to Cut Claude Code API Costs by 90% with Smart](https://dev.to/gentic_news/the-270-second-rule-how-to-cut-claude-code-api-costs-by-90-with-smart-2b2)
+- [Running LLM Classification After the Response: Next.js after&lpar;&rpar; + OpenRouter at $0.0002 per Call](https://dev.to/lovanaut55/running-llm-classification-after-the-response-nextjs-after-openrouter-at-00002-per-call-2efh)
+- [Tasks that don&#39;t make sense](https://dev.to/raphink/tasks-that-dont-make-sense-26k3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
