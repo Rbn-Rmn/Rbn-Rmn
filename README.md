@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [EarthLens AI: A Multimodal Climate Scientist in Your Pocket, Powered by Google Gemini](https://dev.to/parulmalhotraiitk/earthlens-ai-a-multimodal-climate-scientist-in-your-pocket-powered-by-google-gemini-5bjj)
-- [Nginx vs Traefik vs Caddy: Which Reverse Proxy Should You Pick?](https://dev.to/instadevops/nginx-vs-traefik-vs-caddy-which-reverse-proxy-should-you-pick-3ekl)
-- [Stop using naive RAG](https://dev.to/eduardo_borges_7a50083176/stop-using-naive-rag-pmg)
-- [Building a Multimodal Agent with the ADK, AWS Fargate, and Gemini Flash Live 3.1](https://dev.to/gde/building-a-multimodal-agent-with-the-adk-aws-fargate-and-gemini-flash-live-31-4017)
-- [Building in public — week 5](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-5-5g84)
+- [AtCoder Beginer Contest 454 参加記録と解答例（A~D問題）](https://dev.to/iwamutsu256/atcoder-beginer-contest-454-can-jia-ji-lu-tojie-da-li-adwen-ti--3n90)
+- [I shipped a NuGet package, then rewrote it completely. Here&#39;s why.](https://dev.to/kitkeen_55/i-shipped-a-nuget-package-then-rewrote-it-completely-heres-why-2ngk)
+- [Deploying Under the Moonlight](https://dev.to/tuandoquoc/from-idea-to-production-while-walking-3pig)
+- [Building a Digital Agency Hub: How METIS Digital Manages 40+ Web Properties](https://dev.to/julien786534/building-a-digital-agency-hub-how-metis-digital-manages-40-web-properties-3b6d)
+- [Argon2id Master Passwords: Securing Your Self-Hosted AI Agent Wallet](https://dev.to/walletguy/argon2id-master-passwords-securing-your-self-hosted-ai-agent-wallet-1gdj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
