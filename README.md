@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [ServiceKit V2 — The Async Service Locator for Unity](https://dev.to/paulnonatomic/servicekit-v2-the-async-service-locator-for-unity-4840)
-- [WHY 90% OF DEVELOPERS FAIL AFTER 6 MONTHS!!!](https://dev.to/thecurlyhairdev/why-90-of-developers-fail-after-6-months-2cag)
-- [Automate Your Music Studio: AI for Handouts and Practice Sheets](https://dev.to/ken_deng_ai/automate-your-music-studio-ai-for-handouts-and-practice-sheets-20j7)
-- [Capture a Flutter Widget as PNG and Download It — Web Share Card](https://dev.to/kanta13jp1/capture-a-flutter-widget-as-png-and-download-it-web-share-card-2n20)
-- [Structure-Driven Engineering Organization Theory #8 — Conditions for a Structure-Driven Organization](https://dev.to/machuz/structure-driven-engineering-organization-theory-8-conditions-for-a-structure-driven-organization-h4a)
+- [Kawaii Greenhouse | Earth Day Edition 🏞️🌞🌸🌵](https://dev.to/megzlawther1/kawaii-greenhouse-earth-day-edition-3lcn)
+- [🌍 Planetary Pulse — AI-Powered Earth Dashboard with 6 Prize Tech Integrations](https://dev.to/mamoor123/planetary-pulse-ai-powered-earth-dashboard-with-6-prize-tech-integrations-18i2)
+- [Why Anomaly Detection Can&#39;t Block the Ingestion Pipeline](https://dev.to/kingsleyonoh/why-anomaly-detection-cant-block-the-ingestion-pipeline-3n42)
+- [I Built the First Agentic AI Platform for Clinical Genomics. Here Is the Full Architecture](https://dev.to/anilatambharii/i-built-the-first-agentic-ai-platform-for-clinical-genomics-here-is-the-full-architecture-510i)
+- [Stop Reading, Start Knowing: The Philosophy of Mippedia Concise](https://dev.to/mippedia/stop-reading-start-knowing-the-philosophy-of-mippedia-concise-fna)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
