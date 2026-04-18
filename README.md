@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Kawaii Greenhouse | Earth Day Edition 🏞️🌞🌸🌵](https://dev.to/megzlawther1/kawaii-greenhouse-earth-day-edition-3lcn)
-- [🌍 Planetary Pulse — AI-Powered Earth Dashboard with 6 Prize Tech Integrations](https://dev.to/mamoor123/planetary-pulse-ai-powered-earth-dashboard-with-6-prize-tech-integrations-18i2)
-- [Why Anomaly Detection Can&#39;t Block the Ingestion Pipeline](https://dev.to/kingsleyonoh/why-anomaly-detection-cant-block-the-ingestion-pipeline-3n42)
-- [I Built the First Agentic AI Platform for Clinical Genomics. Here Is the Full Architecture](https://dev.to/anilatambharii/i-built-the-first-agentic-ai-platform-for-clinical-genomics-here-is-the-full-architecture-510i)
-- [Stop Reading, Start Knowing: The Philosophy of Mippedia Concise](https://dev.to/mippedia/stop-reading-start-knowing-the-philosophy-of-mippedia-concise-fna)
+- [Unhandled CSS Ruining Life](https://dev.to/krivanek06/unhandled-css-ruining-life-2hif)
+- [I Built a Skill Registration Framework for AI Agents in 3000 Lines of TypeScript](https://dev.to/vardhineediganesh877ui/i-built-a-skill-registration-framework-for-ai-agents-in-3000-lines-of-typescript-28db)
+- [Carbon Footprint: The Micro-Logistics Optimizer](https://dev.to/haniafaisal/carbon-footprint-the-micro-logistics-optimizer-2ha2)
+- [Cloud sync is a feature you’re paying for with your privacy](https://dev.to/phlx0/the-case-for-offline-first-developer-tools-4fec)
+- [Mastering Spring Security with Spring Boot 3 and SecurityFilterChain](https://dev.to/rajesh1761/mastering-spring-security-with-spring-boot-3-and-securityfilterchain-403d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
