@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [SQL Functions You Will Actually Use in Data Work](https://dev.to/muriuki_kahuthu_54/sql-functions-you-will-actually-use-in-data-work-24g1)
-- [Monitoring an ML-Based Intrusion Detection System on AWS SageMaker](https://dev.to/ogambakerubo/monitoring-an-ml-based-intrusion-detection-system-on-aws-sagemaker-4182)
-- [Building an AI Travel Planner with Claude: and Using Claude Code to Build It](https://dev.to/kelson_qu/building-an-ai-travel-planner-with-claude-and-using-claude-code-to-build-it-1nfh)
-- [Task System: A File-Based DAG That Survives Context Compaction](https://dev.to/ivan-magda/task-system-a-file-based-dag-that-survives-context-compaction-1jf4)
-- [I Built a Free Portfolio Platform for Developers - Here&#39;s Why and How](https://dev.to/ahmad_walisharify_252389/i-built-a-free-portfolio-platform-for-developers-heres-why-and-how-15in)
+- [AI Tools That Actually Pay You Back: A Developer&#39;s Guide to Monetizing Machine Learning](https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-machine-learning-1ao2)
+- [How to Fix Spotify&#39;s Ugly Blue Titlebar on Gnome](https://dev.to/best_codes/how-to-fix-spotifys-ugly-blue-titlebar-on-gnome-3klk)
+- [Mutable BSON and Oracle OSON](https://dev.to/franckpachot/mutable-bson-and-oracle-oson-2o04)
+- [Stress Test — Article Baseline](https://dev.to/mehiar_alsayou_9611eacfc0/stress-test-article-baseline-4ma6)
+- [Show DEV: AI website builder that generates a complete site in 60 seconds](https://dev.to/aimarcus/show-dev-ai-website-builder-that-generates-a-complete-site-in-60-seconds-46p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
