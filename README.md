@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI-Assisted Debugging in Next.js 16 with Experimental Agent DevTools](https://dev.to/mericcintosun/ai-assisted-debugging-in-nextjs-16-with-experimental-agent-devtools-1obg)
-- [Building Scalable Blockchain Solutions with Go: A Developer&#39;s Journey](https://dev.to/tirixa/building-scalable-blockchain-solutions-with-go-a-developers-journey-360m)
-- [Consolidating Your Pipeline: Implementing Multi-Tenant Namespace Tunnels](https://dev.to/instatunnel/consolidating-your-pipeline-implementing-multi-tenant-namespace-tunnels-4007)
-- [Why I Built awesome-authorization: Mapping the World of Auth Engines onto a Single Page](https://dev.to/kanywst/why-i-built-awesome-authorization-mapping-the-world-of-auth-engines-onto-a-single-page-4mof)
-- [Fabric OneLake shortcuts vs ADLS Gen2 mounts: what actually works in production](https://dev.to/neeagl_algoscale/fabric-onelake-shortcuts-vs-adls-gen2-mounts-what-actually-works-in-production-a3e)
+- [ConfDroid Puppet Modules - java](https://dev.to/12ww1160/confdroid-puppet-modules-java-5abd)
+- [I built a pixelation method optimized for human perception](https://dev.to/taesoon_jang_6eb84d38b8f5/i-built-a-pixelation-method-optimized-for-human-perception-473b)
+- [Why Your WS2812B LED Strip Has the Wrong Colors](https://dev.to/_0c004e5fde78250aee362/why-your-ws2812b-led-strip-has-the-wrong-colors-4acn)
+- [Why Your NRF24L01 Radio Module Never Works Reliably](https://dev.to/_0c004e5fde78250aee362/why-your-nrf24l01-radio-module-never-works-reliably-45hc)
+- [Why Your OLED Display Flickers &lpar;And How to Fix It&rpar;](https://dev.to/_0c004e5fde78250aee362/why-your-oled-display-flickers-and-how-to-fix-it-51n2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
