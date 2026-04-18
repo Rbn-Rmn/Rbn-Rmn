@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [ConfDroid Puppet Modules - java](https://dev.to/12ww1160/confdroid-puppet-modules-java-5abd)
-- [I built a pixelation method optimized for human perception](https://dev.to/taesoon_jang_6eb84d38b8f5/i-built-a-pixelation-method-optimized-for-human-perception-473b)
-- [Why Your WS2812B LED Strip Has the Wrong Colors](https://dev.to/_0c004e5fde78250aee362/why-your-ws2812b-led-strip-has-the-wrong-colors-4acn)
-- [Why Your NRF24L01 Radio Module Never Works Reliably](https://dev.to/_0c004e5fde78250aee362/why-your-nrf24l01-radio-module-never-works-reliably-45hc)
-- [Why Your OLED Display Flickers &lpar;And How to Fix It&rpar;](https://dev.to/_0c004e5fde78250aee362/why-your-oled-display-flickers-and-how-to-fix-it-51n2)
+- [Why I Built Yet Another AI Knowledge Tool &lpar;And How It&#39;s Different&rpar;](https://dev.to/akshay_kumarkataiah_d6e7/why-i-built-yet-another-ai-knowledge-tool-and-how-its-different-38b2)
+- [m2cgen: export your ML model without shipping Python to production](https://dev.to/jtorchia/m2cgen-export-your-ml-model-without-shipping-python-to-production-13j9)
+- [m2cgen: exportá tu modelo de ML sin llevar Python a producción](https://dev.to/jtorchia/m2cgen-exporta-tu-modelo-de-ml-sin-llevar-python-a-produccion-1e0g)
+- [The Zero-Impact Build: Why Writing Less Code is the Best Earth Day Project](https://dev.to/syedahmershah/the-zero-impact-build-why-writing-less-code-is-the-best-earth-day-project-2o5f)
+- [Claude Opus 4.7 and the Beginning of the End of AI Abundance](https://dev.to/jtorchia/claude-opus-47-and-the-beginning-of-the-end-of-ai-abundance-1ik4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
