@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The RED Method: Request Rate, Errors, and Duration as Your Core SLIs](https://dev.to/dylan_dumont_266378d98367/the-red-method-request-rate-errors-and-duration-as-your-core-slis-4jk)
-- [How Voice AI handles DTMF: the complete guide &lpar;RFC 2833 vs SIP INFO vs in-band&rpar;](https://dev.to/priyanka_309d6c6a6006387e/how-voice-ai-handles-dtmf-the-complete-guide-rfc-2833-vs-sip-info-vs-in-band-54do)
-- [You Cannot Mandate Your Way to AI Adoption](https://dev.to/pixari/you-cannot-mandate-your-way-to-ai-adoption-5c92)
-- [Agentes IA que pasan tus tests. Ese es el problema.](https://dev.to/jtorchia/agentes-ia-que-pasan-tus-tests-ese-es-el-problema-10ic)
-- [Binary search is O&lpar;log n&rpar;, but that&#39;s not the whole story](https://dev.to/abanicaisse/binary-search-is-olog-n-but-thats-not-the-whole-story-2531)
+- [Jog Squad | A Gamified Eco-Jogging App: Fix the Earth. Fix Your Health. One Run at a Time. 🏃](https://dev.to/ntombizakhona/jog-squad-a-gamified-eco-jogging-app-fix-the-earth-fix-your-health-one-run-at-a-time-3j5f)
+- [Cross-Examination in a Click: Using AI to Uncover Witness Inconsistencies](https://dev.to/ken_deng_ai/cross-examination-in-a-click-using-ai-to-uncover-witness-inconsistencies-cno)
+- [🚀 I Just Released My Reading Ruler Browser Extension](https://dev.to/codebunny20/i-just-released-my-reading-ruler-browser-extension-4phm)
+- [The Restore Path Is the Most Neglected Part of Backup Design](https://dev.to/ntctech/the-restore-path-is-the-most-neglected-part-of-backup-design-la2)
+- [Green Spaces: I Built a Community Memory Map for Earth Day 🌿](https://dev.to/jakeflavin/green-spaces-i-built-a-community-memory-map-for-earth-day-1kd4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
