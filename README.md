@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [لماذا يحتاج المطور إلى عقلية إدارة المحتوى قبل كتابة أول سطر كود؟](https://dev.to/alshridahsami/lmdh-yhtj-lmtwr-l-qly-dr-lmhtw-qbl-ktb-wl-str-kwd-3ofg)
-- [The cold-grill diagnostic that made me rewrite my Python learning protocol](https://dev.to/amanbhandari/the-cold-grill-diagnostic-that-made-me-rewrite-my-python-learning-protocol-5bfa)
-- [Pricing an MCP Server in 2026: Why We Charge $19/mo When the Market Average is $0](https://dev.to/whoffagents/pricing-an-mcp-server-in-2026-why-we-charge-19mo-when-the-market-average-is-0-nig)
-- [Your Claude Code rules are a liability you&#39;ll never audit](https://dev.to/amanbhandari/your-claude-code-rules-are-a-liability-youll-never-audit-366b)
-- [Building a Cinematic 16:9 Game Dashboard with Vanilla JS &lpar;v1.0.0-beta&rpar;](https://dev.to/silxnce-is-him/building-a-cinematic-169-game-dashboard-with-vanilla-js-v100-beta-26g5)
+- [I tried learning the same topic from an AI tutor and a human teacher… and the result wasn’t what I expected](https://dev.to/ailearninghub007/i-tried-learning-the-same-topic-from-an-ai-tutor-and-a-human-teacher-and-the-result-wasnt-what-i-2ok1)
+- [A case study in finding the &quot;Third Way&quot; 📉💡](https://dev.to/supto_khan/a-case-study-in-finding-the-third-way-b7p)
+- [Why Rapido Uses a Static PIN &lpar;Rapid OTP Trade-offs&rpar;](https://dev.to/helloashish99/why-rapido-uses-a-static-pin-rapid-otp-trade-offs-f9c)
+- [Building Cinemind-AI 🎬 | My First AI Movie Chatbot with Flask, Gemini &amp; MongoDB](https://dev.to/narasimhamurthy4616/building-cinemind-ai-my-first-ai-movie-chatbot-with-flask-gemini-mongodb-12ik)
+- [Stop Rebooting Linux Just in Case: Practical `needrestart` After APT Upgrades](https://dev.to/lyraalishaikh/stop-rebooting-linux-just-in-case-practical-needrestart-after-apt-upgrades-58j6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
