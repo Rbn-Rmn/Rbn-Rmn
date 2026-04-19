@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why I Mentor Junior Developers: Growing the Next Generation of Tech Talent](https://dev.to/oluwatosinolamilekan/why-i-mentor-junior-developers-growing-the-next-generation-of-tech-talent-46nn)
-- [CodexBar: Open-Source Tool for OpenAI Codex and Claude Code Usage Stats](https://dev.to/stelixx-insider/codexbar-open-source-tool-for-openai-codex-and-claude-code-usage-stats-je0)
-- [The Self-Evolving AI Agent: How to Stop Correcting Your LLM Twice](https://dev.to/onurcinar/the-self-evolving-ai-agent-how-to-stop-correcting-your-llm-twice-15kj)
-- [[PT-BR] Ciclo de Vida de Desenvolvimento de Software com assistência de IA](https://dev.to/cedon/pt-br-ciclo-de-vida-de-desenvolvimento-de-software-com-assistencia-de-ia-1n7a)
-- [How I Built a Free Anonymous Email Service — No Phone, No Password, No Logs](https://dev.to/qrypty/how-i-built-a-free-anonymous-email-service-no-phone-no-password-no-logs-3ln8)
+- [31 dimensions of news bias, queryable from Claude in plain English](https://dev.to/connerlambden/31-dimensions-of-news-bias-queryable-from-claude-in-plain-english-1ioo)
+- [Cloudflare Workers HTML to Markdown on the Free Plan](https://dev.to/rickcogley/cloudflare-workers-html-to-markdown-on-the-free-plan-3jlc)
+- [GHSA-JM8C-9F3J-4378: GHSA-jm8c-9f3j-4378: Unauthenticated Email Content Injection in Pretalx Template Engine](https://dev.to/cverports/ghsa-jm8c-9f3j-4378-ghsa-jm8c-9f3j-4378-unauthenticated-email-content-injection-in-pretalx-4f82)
+- [How I screen for ratio spread opportunities in 30 seconds with an MCP server](https://dev.to/connerlambden/how-i-screen-for-ratio-spread-opportunities-in-30-seconds-with-an-mcp-server-130p)
+- [We brought Classic ASP to Linux: Check out the AxonASP video and our new live manual!](https://dev.to/lucas_guimaraes/we-brought-classic-asp-to-linux-check-out-the-axonasp-video-and-our-new-live-manual-4mmh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
