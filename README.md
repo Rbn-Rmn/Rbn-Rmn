@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI created slow and expensive code. How I analyzed and fixed it.](https://dev.to/sebhoek/ai-created-slow-and-expensive-code-how-i-analyzed-and-fixed-it-2nla)
-- [Why We Didn&#39;t Converge: ClickHouse&#39;s VLDB Paper and the Architecture Agents Actually Need](https://dev.to/practiceoverflow/why-we-didnt-converge-clickhouses-vldb-paper-and-the-architecture-agents-actually-need-5h13)
-- [Meta&#39;s Post-Quantum Crypto Migration Playbook](https://dev.to/practiceoverflow/metas-post-quantum-crypto-migration-playbook-333l)
-- [The Chip Account: What It Costs the Planet to Make One Chip](https://dev.to/avgskully/the-chip-account-what-it-costs-the-planet-to-make-one-chip-1mn4)
-- [What Actually Happens When You Click a Button — From Browser to Database and Back](https://dev.to/prathameshdhadbale/what-actually-happens-when-you-click-a-button-from-browser-to-database-and-back-29ef)
+- [Yotei - Highly modular &amp; customizable SwiftUI calendar](https://dev.to/claustrofob/yotei-highly-modular-customizable-swiftui-calendar-263i)
+- [We Ran 7,600+ Cloud Provisioning Tests Across AWS, Azure, and GCP — Here&#39;s What We Found](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/we-ran-7600-cloud-provisioning-tests-across-aws-azure-and-gcp-heres-what-we-found-23hc)
+- [Building a Carbon Footprint Tracker with Google Gemini for Earth Day](https://dev.to/ha3k/building-a-carbon-footprint-tracker-with-google-gemini-for-earth-day-k6p)
+- [The Invisible Hand of the State: How Government Coercion is Rewriting the First Amendment in Silicon Valley](https://dev.to/its_vrushal/the-invisible-hand-of-the-state-how-government-coercion-is-rewriting-the-first-amendment-in-102f)
+- [Working with AI review is very important](https://dev.to/hermannleboss/working-with-ai-review-is-very-important-cam)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
