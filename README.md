@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building a Smart Stadium AI Assistant using Google Cloud &lpar;Without Overengineering&rpar;](https://dev.to/mohammed_ansari_d2425db08/building-a-smart-stadium-ai-assistant-using-google-cloud-without-overengineering-4mnj)
-- [I found a critical CVE in a top AI agent framework. Here&#39;s what it taught me about how we&#39;re all building agents wrong.](https://dev.to/byteakp/i-found-a-critical-cve-in-a-top-ai-agent-framework-heres-what-it-taught-me-about-how-were-all-463j)
-- [Magento 2 Elasticsearch vs OpenSearch: Which to Use in 2026](https://dev.to/magevanta/magento-2-elasticsearch-vs-opensearch-which-to-use-in-2026-34i8)
-- [Why Your Lab Domain Suddenly Stopped Resolving &lpar;DNS Blocklists&rpar;](https://dev.to/alanwest/why-your-lab-domain-suddenly-stopped-resolving-dns-blocklists-3dln)
-- [How to Crack the SAM Database in Kali Linux | Windows Password Hash Extraction Guide](https://dev.to/ibrahim71reza/how-to-crack-the-sam-database-in-kali-linux-windows-password-hash-extraction-guide-3jek)
+- [I Built a Playable Life Sim That Reveals Your Real Climate Impact at the End](https://dev.to/miawab/i-built-a-playable-life-sim-that-reveals-your-real-climate-impact-at-the-end-3h43)
+- [htop for Your Git History](https://dev.to/ticktockbent/htop-for-your-git-history-53oj)
+- [EcoAgents — I built an AI agent that knows your carbon footprint and never lets you forget it](https://dev.to/navin_kumar_r/ecoagents-i-built-an-ai-agent-that-knows-your-carbon-footprint-and-never-lets-you-forget-it-4on2)
+- [PortfolioForge: Building an AI‑Native Portfolio Platform with Next.js, Firebase, and Genkit](https://dev.to/onkar_koventures/portfolioforge-building-an-ai-native-portfolio-platform-with-nextjs-firebase-and-genkit-24j1)
+- [Building an Interactive Wind Turbine Calculator](https://dev.to/onkar_koventures/building-an-interactive-wind-turbine-calculator-20d3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
