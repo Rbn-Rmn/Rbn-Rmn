@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI Tools That Actually Pay You Back: A Developer&#39;s Guide to Monetizing Machine Learning](https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-machine-learning-1ao2)
-- [How to Fix Spotify&#39;s Ugly Blue Titlebar on Gnome](https://dev.to/best_codes/how-to-fix-spotifys-ugly-blue-titlebar-on-gnome-3klk)
-- [Mutable BSON and Oracle OSON](https://dev.to/franckpachot/mutable-bson-and-oracle-oson-2o04)
-- [Stress Test — Article Baseline](https://dev.to/mehiar_alsayou_9611eacfc0/stress-test-article-baseline-4ma6)
-- [Show DEV: AI website builder that generates a complete site in 60 seconds](https://dev.to/aimarcus/show-dev-ai-website-builder-that-generates-a-complete-site-in-60-seconds-46p)
+- [لماذا يحتاج المطور إلى عقلية إدارة المحتوى قبل كتابة أول سطر كود؟](https://dev.to/alshridahsami/lmdh-yhtj-lmtwr-l-qly-dr-lmhtw-qbl-ktb-wl-str-kwd-3ofg)
+- [The cold-grill diagnostic that made me rewrite my Python learning protocol](https://dev.to/amanbhandari/the-cold-grill-diagnostic-that-made-me-rewrite-my-python-learning-protocol-5bfa)
+- [Pricing an MCP Server in 2026: Why We Charge $19/mo When the Market Average is $0](https://dev.to/whoffagents/pricing-an-mcp-server-in-2026-why-we-charge-19mo-when-the-market-average-is-0-nig)
+- [Your Claude Code rules are a liability you&#39;ll never audit](https://dev.to/amanbhandari/your-claude-code-rules-are-a-liability-youll-never-audit-366b)
+- [Building a Cinematic 16:9 Game Dashboard with Vanilla JS &lpar;v1.0.0-beta&rpar;](https://dev.to/silxnce-is-him/building-a-cinematic-169-game-dashboard-with-vanilla-js-v100-beta-26g5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
