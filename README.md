@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI in docs: Documentation dynamic shift most people seem to ignore](https://dev.to/davecodes/ai-in-docs-documentation-dynamic-shift-most-people-seem-to-ignore-2kgc)
-- [Does the concept of professionalism apply to the creative industries?](https://dev.to/fedavid/does-the-concept-of-professionalism-apply-to-the-creative-industries-7k6)
-- [Creating a good online presence: what is the best approach?](https://dev.to/fedavid/creating-a-good-online-presence-what-is-the-best-approach-1eg9)
-- [Custom Domains for Next.js: The Cloudflare + Vercel Setup That Works in 2026](https://dev.to/getcraftly/custom-domains-for-nextjs-the-cloudflare-vercel-setup-that-works-in-2026-2a3i)
-- [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3h4f)
+- [The RED Method: Request Rate, Errors, and Duration as Your Core SLIs](https://dev.to/dylan_dumont_266378d98367/the-red-method-request-rate-errors-and-duration-as-your-core-slis-4jk)
+- [How Voice AI handles DTMF: the complete guide &lpar;RFC 2833 vs SIP INFO vs in-band&rpar;](https://dev.to/priyanka_309d6c6a6006387e/how-voice-ai-handles-dtmf-the-complete-guide-rfc-2833-vs-sip-info-vs-in-band-54do)
+- [You Cannot Mandate Your Way to AI Adoption](https://dev.to/pixari/you-cannot-mandate-your-way-to-ai-adoption-5c92)
+- [Agentes IA que pasan tus tests. Ese es el problema.](https://dev.to/jtorchia/agentes-ia-que-pasan-tus-tests-ese-es-el-problema-10ic)
+- [Binary search is O&lpar;log n&rpar;, but that&#39;s not the whole story](https://dev.to/abanicaisse/binary-search-is-olog-n-but-thats-not-the-whole-story-2531)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
