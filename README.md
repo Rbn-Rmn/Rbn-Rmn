@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Stop picking Cursor or Claude Code. Pay for both, you cheapskate.](https://dev.to/adioof/stop-picking-cursor-or-claude-code-pay-for-both-you-cheapskate-3f80)
-- [I built a Laravel queue monitoring tool because I got tired of not knowing what my jobs actually do](https://dev.to/__yammi/i-built-a-laravel-queue-monitoring-tool-because-i-got-tired-of-not-knowing-what-my-jobs-actually-do-33lh)
-- [We replaced our multi-agent middleware with a folder. 48 hours later, the AI invented 6 coordination patterns.](https://dev.to/joinwell52/we-replaced-our-multi-agent-middleware-with-a-folder-48-hours-later-the-ai-invented-6-42a9)
-- [Mixed co-simulation with IcarusVerilog and NGSpice using &quot;MixFighter&quot; bridge.](https://dev.to/alexandre_rusev_7c8e1c1b6/mixed-co-simulation-with-icarusverilog-and-ngspice-using-mixfighter-bridge-309e)
-- [Level Up Your SQL: Subqueries &amp; CTEs in the Real World](https://dev.to/adev3loper/level-up-your-sql-subqueries-ctes-in-the-real-world-539k)
+- [Building a Smart Stadium AI Assistant using Google Cloud &lpar;Without Overengineering&rpar;](https://dev.to/mohammed_ansari_d2425db08/building-a-smart-stadium-ai-assistant-using-google-cloud-without-overengineering-4mnj)
+- [I found a critical CVE in a top AI agent framework. Here&#39;s what it taught me about how we&#39;re all building agents wrong.](https://dev.to/byteakp/i-found-a-critical-cve-in-a-top-ai-agent-framework-heres-what-it-taught-me-about-how-were-all-463j)
+- [Magento 2 Elasticsearch vs OpenSearch: Which to Use in 2026](https://dev.to/magevanta/magento-2-elasticsearch-vs-opensearch-which-to-use-in-2026-34i8)
+- [Why Your Lab Domain Suddenly Stopped Resolving &lpar;DNS Blocklists&rpar;](https://dev.to/alanwest/why-your-lab-domain-suddenly-stopped-resolving-dns-blocklists-3dln)
+- [How to Crack the SAM Database in Kali Linux | Windows Password Hash Extraction Guide](https://dev.to/ibrahim71reza/how-to-crack-the-sam-database-in-kali-linux-windows-password-hash-extraction-guide-3jek)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
