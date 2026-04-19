@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building an MS Project-Style Gantt Chart in Flutter Web — CustomPaint with Synchronized Scrolling](https://dev.to/kanta13jp1/building-an-ms-project-style-gantt-chart-in-flutter-web-custompaint-with-synchronized-scrolling-1c0i)
-- [Future Museum of Extinct Things - A Glimpse from 2100](https://dev.to/highflyer910/future-museum-of-extinct-things-a-glimpse-from-2100-4cl)
-- [Cloudflare wants agents to write and deploy their own code. That should terrify you.](https://dev.to/adioof/cloudflare-wants-agents-to-write-and-deploy-their-own-code-that-should-terrify-you-2jaa)
-- [From Prompt to Production: How I Built &quot;Google Stadium&quot; for Google PromptWars 2026](https://dev.to/rshanmugaraj_e471fa3f2ed/from-prompt-to-production-how-i-built-google-stadium-for-google-promptwars-2026-i66)
-- [How Does AI Transcription Work? [Technical Guide]](https://dev.to/quillhub/how-does-ai-transcription-work-technical-guide-5a2h)
+- [AI in docs: Documentation dynamic shift most people seem to ignore](https://dev.to/davecodes/ai-in-docs-documentation-dynamic-shift-most-people-seem-to-ignore-2kgc)
+- [Does the concept of professionalism apply to the creative industries?](https://dev.to/fedavid/does-the-concept-of-professionalism-apply-to-the-creative-industries-7k6)
+- [Creating a good online presence: what is the best approach?](https://dev.to/fedavid/creating-a-good-online-presence-what-is-the-best-approach-1eg9)
+- [Custom Domains for Next.js: The Cloudflare + Vercel Setup That Works in 2026](https://dev.to/getcraftly/custom-domains-for-nextjs-the-cloudflare-vercel-setup-that-works-in-2026-2a3i)
+- [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3h4f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
