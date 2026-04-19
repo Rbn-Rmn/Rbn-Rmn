@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [31 dimensions of news bias, queryable from Claude in plain English](https://dev.to/connerlambden/31-dimensions-of-news-bias-queryable-from-claude-in-plain-english-1ioo)
-- [Cloudflare Workers HTML to Markdown on the Free Plan](https://dev.to/rickcogley/cloudflare-workers-html-to-markdown-on-the-free-plan-3jlc)
-- [GHSA-JM8C-9F3J-4378: GHSA-jm8c-9f3j-4378: Unauthenticated Email Content Injection in Pretalx Template Engine](https://dev.to/cverports/ghsa-jm8c-9f3j-4378-ghsa-jm8c-9f3j-4378-unauthenticated-email-content-injection-in-pretalx-4f82)
-- [How I screen for ratio spread opportunities in 30 seconds with an MCP server](https://dev.to/connerlambden/how-i-screen-for-ratio-spread-opportunities-in-30-seconds-with-an-mcp-server-130p)
-- [We brought Classic ASP to Linux: Check out the AxonASP video and our new live manual!](https://dev.to/lucas_guimaraes/we-brought-classic-asp-to-linux-check-out-the-axonasp-video-and-our-new-live-manual-4mmh)
+- [Rails 8 API with Devise-JWT](https://dev.to/rozaru/rails-8-api-with-devise-jwt-2136)
+- [Three Months of AI-Powered Freelancing with ClawX: The Raw Truth](https://dev.to/kevinten10/three-months-of-ai-powered-freelancing-with-clawx-the-raw-truth-1o70)
+- [Grok 4.3 Review: What&#39;s New in xAI&#39;s Latest Model &lpar;April 2026&rpar;](https://dev.to/techsifted/grok-43-review-whats-new-in-xais-latest-model-april-2026-4l2l)
+- [Why your landing page is leaking money](https://dev.to/apollo_ag/why-your-landing-page-is-leaking-money-3ifc)
+- [Smoke Test — Article — 2026-04-20](https://dev.to/manuel_thunk_5ccfb328535a/smoke-test-article-2026-04-20-4dc7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
