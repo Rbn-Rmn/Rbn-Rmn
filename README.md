@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Playable Life Sim That Reveals Your Real Climate Impact at the End](https://dev.to/miawab/i-built-a-playable-life-sim-that-reveals-your-real-climate-impact-at-the-end-3h43)
-- [htop for Your Git History](https://dev.to/ticktockbent/htop-for-your-git-history-53oj)
-- [EcoAgents — I built an AI agent that knows your carbon footprint and never lets you forget it](https://dev.to/navin_kumar_r/ecoagents-i-built-an-ai-agent-that-knows-your-carbon-footprint-and-never-lets-you-forget-it-4on2)
-- [PortfolioForge: Building an AI‑Native Portfolio Platform with Next.js, Firebase, and Genkit](https://dev.to/onkar_koventures/portfolioforge-building-an-ai-native-portfolio-platform-with-nextjs-firebase-and-genkit-24j1)
-- [Building an Interactive Wind Turbine Calculator](https://dev.to/onkar_koventures/building-an-interactive-wind-turbine-calculator-20d3)
+- [X-Ray Vision - jerseyctf6](https://dev.to/davidonlinearchive/x-ray-vision-jerseyctf6-2cj2)
+- [Understanding Transaction Pipelines in Blockchain Systems](https://dev.to/cryptofixengineer/understanding-transaction-pipelines-in-blockchain-systems-3ehh)
+- [Show Dev: Your Face Is Now a Music Generator](https://dev.to/jeanmmayer/show-dev-your-face-is-now-a-music-generator-4pm7)
+- [An AI Benchmark That Tests Real Coding Workflows](https://dev.to/jagostoni/an-ai-benchmark-that-tests-real-coding-workflows-3b8l)
+- [Atlas](https://dev.to/gavin_rose/atlas-learn-about-the-earth-cio)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
