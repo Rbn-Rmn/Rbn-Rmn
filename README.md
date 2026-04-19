@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Added i18n to My Next.js App Router Project](https://dev.to/yone3/how-i-added-i18n-to-my-nextjs-app-router-project-41aj)
-- [I built a bird flight simulator you control by flapping your arms &lpar;Three.js + MediaPipe&rpar;](https://dev.to/ki-mathias/i-built-a-bird-flight-simulator-you-control-by-flapping-your-arms-threejs-mediapipe-ld6)
-- [I ran 4 autonomous Claude agents for 6 months. Here&#39;s the data.](https://dev.to/david_shin_0c7d69b704a649/i-ran-4-autonomous-claude-agents-for-6-months-heres-the-data-1op5)
-- [How to Store Code Intelligence Graphs Efficiently](https://dev.to/opprajwal/how-to-store-code-intelligence-graphs-efficiently-6d4)
-- [More than pretty pictures: Wendy Bishop on visual storytelling in tech](https://dev.to/mark0_617b45cda9782a/more-than-pretty-pictures-wendy-bishop-on-visual-storytelling-in-tech-4cim)
+- [AI created slow and expensive code. How I analyzed and fixed it.](https://dev.to/sebhoek/ai-created-slow-and-expensive-code-how-i-analyzed-and-fixed-it-2nla)
+- [Why We Didn&#39;t Converge: ClickHouse&#39;s VLDB Paper and the Architecture Agents Actually Need](https://dev.to/practiceoverflow/why-we-didnt-converge-clickhouses-vldb-paper-and-the-architecture-agents-actually-need-5h13)
+- [Meta&#39;s Post-Quantum Crypto Migration Playbook](https://dev.to/practiceoverflow/metas-post-quantum-crypto-migration-playbook-333l)
+- [The Chip Account: What It Costs the Planet to Make One Chip](https://dev.to/avgskully/the-chip-account-what-it-costs-the-planet-to-make-one-chip-1mn4)
+- [What Actually Happens When You Click a Button — From Browser to Database and Back](https://dev.to/prathameshdhadbale/what-actually-happens-when-you-click-a-button-from-browser-to-database-and-back-29ef)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
