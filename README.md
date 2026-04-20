@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [A Learnability Gap, Not a Capacity Gap: 353 Parameters vs a 3-Parameter Heuristic](https://dev.to/kit_good_c7f5b7ae0a9cfa0f/a-learnability-gap-not-a-capacity-gap-353-parameters-vs-a-3-parameter-heuristic-1m9f)
-- [I Stopped Using YouTube for Focus Music and My Pomodoro Sessions Got 10x Better](https://dev.to/aralroca/i-stopped-using-youtube-for-focus-music-and-my-pomodoro-sessions-got-10x-better-2p82)
-- [From Vibecoding to Vibelaunching: Building the ecosystems-cli](https://dev.to/sebs/from-vibecoding-to-vibelaunching-building-the-ecosystems-cli-nje)
-- [Why State Management is the &quot;Final Boss&quot; of Building AI Agents](https://dev.to/agiorbust/state-is-the-hardest-problem-in-ai-agents-3a8c)
-- [Implementing WebMCP on a Recruitment Website](https://dev.to/richardbaxter/implementing-webmcp-on-a-recruitment-website-19a)
+- [WCAG: Making the internet more accessible](https://dev.to/aneshodza/wcag-making-the-internet-more-accessible-3484)
+- [Can Claude Code migrate VanillaJS/HTML/CSS to Preact/Tailwind?](https://dev.to/tuzmusic/can-claude-code-migrate-vanillajshtmlcss-to-preacttailwind-36jl)
+- [Fast &amp; Accurate Prompt Injection Detection API](https://dev.to/kerrigan_k_106f56de5ab4f4/fast-accurate-prompt-injection-detection-api-apf)
+- [How I automated dead endpoint detection and removed 16,000 lines from our Node.js codebase](https://dev.to/miguel_lopes_966962540a43/how-i-automated-dead-endpoint-detection-and-removed-16000-lines-from-our-nodejs-codebase-1fan)
+- [ClickHouse Native JSON Support in 2026: A PR-by-PR Analysis](https://dev.to/manveer_chawla_64a7283d5a/clickhouse-native-json-support-in-2026-a-pr-by-pr-analysis-1hdp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
