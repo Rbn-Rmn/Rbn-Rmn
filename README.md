@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [WCAG: Making the internet more accessible](https://dev.to/aneshodza/wcag-making-the-internet-more-accessible-3484)
-- [Can Claude Code migrate VanillaJS/HTML/CSS to Preact/Tailwind?](https://dev.to/tuzmusic/can-claude-code-migrate-vanillajshtmlcss-to-preacttailwind-36jl)
-- [Fast &amp; Accurate Prompt Injection Detection API](https://dev.to/kerrigan_k_106f56de5ab4f4/fast-accurate-prompt-injection-detection-api-apf)
-- [How I automated dead endpoint detection and removed 16,000 lines from our Node.js codebase](https://dev.to/miguel_lopes_966962540a43/how-i-automated-dead-endpoint-detection-and-removed-16000-lines-from-our-nodejs-codebase-1fan)
-- [ClickHouse Native JSON Support in 2026: A PR-by-PR Analysis](https://dev.to/manveer_chawla_64a7283d5a/clickhouse-native-json-support-in-2026-a-pr-by-pr-analysis-1hdp)
+- [HttpArena - Benchmark Web Frameworks](https://dev.to/mda2av/httparena-benchmark-web-frameworks-4328)
+- [Build an Internal Developer Platform with Backstage and](https://dev.to/devopsstart/build-an-internal-developer-platform-with-backstage-and-5gjp)
+- [Secret Management for Vibe Coders: The System I Wish I Had a Year Ago](https://dev.to/21ideas/secret-management-for-vibe-coders-the-system-i-wish-i-had-a-year-ago-531o)
+- [Migrating a Large Dashboard to Nuxt 4: Lessons from God Plan](https://dev.to/parsajiravand/migrating-a-large-dashboard-to-nuxt-4-lessons-from-god-plan-4bp6)
+- [Building a Saju Engine: Case Study with Karina&#39;s Birth Chart Algorithm](https://dev.to/hyun_soolee_0c4754e81463/building-a-saju-engine-case-study-with-karinas-birth-chart-algorithm-4bdl)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
