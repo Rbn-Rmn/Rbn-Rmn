@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Watch Google Cloud NEXT Live Right Here on DEV!](https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h)
-- [Hypercontext: a framework for agents that actually know what they&#39;re doing](https://dev.to/rotsl/hypercontext-a-framework-for-agents-that-actually-know-what-theyre-doing-3e7p)
-- [Anyone working on applications for Recursive Language Models? #discussion #rlm](https://dev.to/jon_at_backboardio/anyone-working-on-applications-for-recursive-language-models-discussion-rlm-2fp0)
-- [Serverless applications on AWS with Lambda using Java 25, API Gateway and DynamoDB - Part 6 Using GraalVM Native Image](https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-dynamodb-part-6-using-1ji)
-- [Guía Definitiva de Merge Sort: El Algoritmo de Divide y Vencerás](https://dev.to/jcmexdev/guia-definitiva-de-merge-sort-el-algoritmo-de-divide-y-venceras-h1n)
+- [Event Debouncing with Logic Apps and Azure Table Storage](https://dev.to/imdj/event-debouncing-with-logic-apps-and-azure-table-storage-58cd)
+- [INeedStorages – Fast, Password‑Free Cloud Storage &amp; API](https://dev.to/hitik_patel008_419d6714e/ineedstorages-fast-password-free-cloud-storage-api-4m8d)
+- [Quickselect: find the k-th smallest element in O&lpar;n&rpar;, no sorting required](https://dev.to/abanicaisse/quickselect-find-the-k-th-smallest-element-in-on-no-sorting-required-55l4)
+- [Scan Surprise picoCTF Writeup](https://dev.to/rudycandy/scan-surprise-picoctf-writeup-4447)
+- [Arquitetura Cliente-Servidor: Descomplicando a Teoria e Explorando Aplicações Práticas](https://dev.to/renan_matiaszanini_3008d/arquitetura-cliente-servidor-descomplicando-a-teoria-e-explorando-aplicacoes-praticas-2cj6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
