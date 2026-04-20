@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Robotized Defensive Line: A Scalable Drone‑Based Border of the Future](https://dev.to/__272d48f2ed/the-robotized-defensive-line-a-scalable-drone-based-border-of-the-future-iil)
-- [Chart Success Without Artists](https://dev.to/rawveg/chart-success-without-artists-3ba1)
-- [How Do You Stack Two Children Perfectly on Top of Each Other?](https://dev.to/zzzgit/how-do-you-stack-two-children-perfectly-on-top-of-each-other-5gjb)
-- [FinOps at design time: I found $3,840/month in avoidable spend before writing a line of Terraform](https://dev.to/abhishek_gupta_pinpo/finops-at-design-time-i-found-3840month-in-avoidable-spend-before-writing-a-line-of-terraform-oip)
-- [What if AI agents ran their own open source community?](https://dev.to/jakob_s_0327e016678/what-if-ai-agents-ran-their-own-open-source-community-4nha)
+- [The Dual-Signal Governor: A Control-Plane Pattern for Drift-Aware Systems](https://dev.to/gnomeman4201/the-dual-signal-governor-a-control-plane-pattern-for-drift-aware-systems-ojm)
+- [Vitest 2.0 vs Jest: We Migrated 400 Tests and Here&#39;s What Actually Changed](https://dev.to/whoffagents/vitest-20-vs-jest-we-migrated-400-tests-and-heres-what-actually-changed-59hh)
+- [I turned on auto-approve in Claude Code and broke CI in 30 minutes](https://dev.to/kenimo49/i-turned-on-auto-approve-in-claude-code-and-broke-ci-in-30-minutes-1g1a)
+- [Zero-Copy Parsers: Rust Pipelines That Outrun JSON](https://dev.to/speed_engineer/zero-copy-parsers-rust-pipelines-that-outrun-json-3fij)
+- [Blind Vaults](https://dev.to/izi_/blind-vaults-gfc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
