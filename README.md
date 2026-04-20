@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Dual-Signal Governor: A Control-Plane Pattern for Drift-Aware Systems](https://dev.to/gnomeman4201/the-dual-signal-governor-a-control-plane-pattern-for-drift-aware-systems-ojm)
-- [Vitest 2.0 vs Jest: We Migrated 400 Tests and Here&#39;s What Actually Changed](https://dev.to/whoffagents/vitest-20-vs-jest-we-migrated-400-tests-and-heres-what-actually-changed-59hh)
-- [I turned on auto-approve in Claude Code and broke CI in 30 minutes](https://dev.to/kenimo49/i-turned-on-auto-approve-in-claude-code-and-broke-ci-in-30-minutes-1g1a)
-- [Zero-Copy Parsers: Rust Pipelines That Outrun JSON](https://dev.to/speed_engineer/zero-copy-parsers-rust-pipelines-that-outrun-json-3fij)
-- [Blind Vaults](https://dev.to/izi_/blind-vaults-gfc)
+- [Deployment strategies every engineer should understand...](https://dev.to/daniel_possiblekwabi_b57/deployment-strategies-every-engineer-should-understand-ch9)
+- [Microsoft Agent Framework: Introduction](https://dev.to/lukaswalter/microsoft-agent-framework-introduction-m1e)
+- [Every CLI Command in Our Own Blog Post Was Fabricated. Here&#39;s How We Caught Them.](https://dev.to/watsonfoglift/every-cli-command-in-our-own-blog-post-was-fabricated-heres-how-we-caught-them-45ga)
+- [How I Structure Large Laravel Projects &lpar;My Personal Architecture Blueprint&rpar;](https://dev.to/klytron/how-i-structure-large-laravel-projects-my-personal-architecture-blueprint-3acg)
+- [你还在用 Dify 做聊天机器人？——这 5 个进阶用法，90% 的人都不知道](https://dev.to/_cbd692d476c5faf3b61bcf/ni-huan-zai-yong-dify-zuo-liao-tian-ji-qi-ren-zhe-5-ge-jin-jie-yong-fa-90-de-ren-du-bu-zhi-dao-g2f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
