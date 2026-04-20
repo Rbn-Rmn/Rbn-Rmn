@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [HttpArena - Benchmark Web Frameworks](https://dev.to/mda2av/httparena-benchmark-web-frameworks-4328)
-- [Build an Internal Developer Platform with Backstage and](https://dev.to/devopsstart/build-an-internal-developer-platform-with-backstage-and-5gjp)
-- [Secret Management for Vibe Coders: The System I Wish I Had a Year Ago](https://dev.to/21ideas/secret-management-for-vibe-coders-the-system-i-wish-i-had-a-year-ago-531o)
-- [Migrating a Large Dashboard to Nuxt 4: Lessons from God Plan](https://dev.to/parsajiravand/migrating-a-large-dashboard-to-nuxt-4-lessons-from-god-plan-4bp6)
-- [Building a Saju Engine: Case Study with Karina&#39;s Birth Chart Algorithm](https://dev.to/hyun_soolee_0c4754e81463/building-a-saju-engine-case-study-with-karinas-birth-chart-algorithm-4bdl)
+- [European Commission AWS Compromise: Identity Boundary Failure Confirmed](https://dev.to/randomchaos/european-commission-aws-compromise-identity-boundary-failure-confirmed-mk8)
+- [Challenge: 3 Making UX Work Understandable to Engineers](https://dev.to/priya_sajja_c336921bbda87/challenge-3-making-ux-work-understandable-to-engineers-1kcb)
+- [Why Pull Requests Go Stale — And Why It&#39;s a Visibility Problem, Not a People Problem](https://dev.to/code-board/why-pull-requests-go-stale-and-why-its-a-visibility-problem-not-a-people-problem-343h)
+- [Privacy-first mind mapping app. Part 0: Motivations and Mind Maps](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-0-motivations-and-mind-maps-4k0m)
+- [The Engineering Capacity Trap: Why Custom Page Builders Stall Product Roadmaps and Drain Engineering Resources](https://dev.to/jasonbiondo/the-engineering-capacity-trap-why-custom-page-builders-stall-product-roadmaps-and-drain-3g8l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
