@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Event Debouncing with Logic Apps and Azure Table Storage](https://dev.to/imdj/event-debouncing-with-logic-apps-and-azure-table-storage-58cd)
-- [INeedStorages – Fast, Password‑Free Cloud Storage &amp; API](https://dev.to/hitik_patel008_419d6714e/ineedstorages-fast-password-free-cloud-storage-api-4m8d)
-- [Quickselect: find the k-th smallest element in O&lpar;n&rpar;, no sorting required](https://dev.to/abanicaisse/quickselect-find-the-k-th-smallest-element-in-on-no-sorting-required-55l4)
-- [Scan Surprise picoCTF Writeup](https://dev.to/rudycandy/scan-surprise-picoctf-writeup-4447)
-- [Arquitetura Cliente-Servidor: Descomplicando a Teoria e Explorando Aplicações Práticas](https://dev.to/renan_matiaszanini_3008d/arquitetura-cliente-servidor-descomplicando-a-teoria-e-explorando-aplicacoes-praticas-2cj6)
+- [A Learnability Gap, Not a Capacity Gap: 353 Parameters vs a 3-Parameter Heuristic](https://dev.to/kit_good_c7f5b7ae0a9cfa0f/a-learnability-gap-not-a-capacity-gap-353-parameters-vs-a-3-parameter-heuristic-1m9f)
+- [I Stopped Using YouTube for Focus Music and My Pomodoro Sessions Got 10x Better](https://dev.to/aralroca/i-stopped-using-youtube-for-focus-music-and-my-pomodoro-sessions-got-10x-better-2p82)
+- [From Vibecoding to Vibelaunching: Building the ecosystems-cli](https://dev.to/sebs/from-vibecoding-to-vibelaunching-building-the-ecosystems-cli-nje)
+- [Why State Management is the &quot;Final Boss&quot; of Building AI Agents](https://dev.to/agiorbust/state-is-the-hardest-problem-in-ai-agents-3a8c)
+- [Implementing WebMCP on a Recruitment Website](https://dev.to/richardbaxter/implementing-webmcp-on-a-recruitment-website-19a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
