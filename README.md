@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw Plugins — Ecosystem Guide and Practical Picks](https://dev.to/rosgluk/openclaw-plugins-ecosystem-guide-and-practical-picks-4an1)
-- [OpenClaw Skills Ecosystem and Practical Production Picks](https://dev.to/rosgluk/openclaw-skills-ecosystem-and-practical-production-picks-2imn)
-- [OpenClaw Production Setup Patterns with Plugins and Skills](https://dev.to/rosgluk/openclaw-production-setup-patterns-with-plugins-and-skills-1jfj)
-- [What is Appium? Full Tutorial + Modern Alternatives](https://dev.to/drizzdev/what-is-appium-full-tutorial-modern-alternatives-171b)
-- [Hermes AI Assistant Skills for Real Production Setups](https://dev.to/rosgluk/hermes-ai-assistant-skills-for-real-production-setups-f5f)
+- [The Robotized Defensive Line: A Scalable Drone‑Based Border of the Future](https://dev.to/__272d48f2ed/the-robotized-defensive-line-a-scalable-drone-based-border-of-the-future-iil)
+- [Chart Success Without Artists](https://dev.to/rawveg/chart-success-without-artists-3ba1)
+- [How Do You Stack Two Children Perfectly on Top of Each Other?](https://dev.to/zzzgit/how-do-you-stack-two-children-perfectly-on-top-of-each-other-5gjb)
+- [FinOps at design time: I found $3,840/month in avoidable spend before writing a line of Terraform](https://dev.to/abhishek_gupta_pinpo/finops-at-design-time-i-found-3840month-in-avoidable-spend-before-writing-a-line-of-terraform-oip)
+- [What if AI agents ran their own open source community?](https://dev.to/jakob_s_0327e016678/what-if-ai-agents-ran-their-own-open-source-community-4nha)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
