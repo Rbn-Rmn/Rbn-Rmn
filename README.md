@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [European Commission AWS Compromise: Identity Boundary Failure Confirmed](https://dev.to/randomchaos/european-commission-aws-compromise-identity-boundary-failure-confirmed-mk8)
-- [Challenge: 3 Making UX Work Understandable to Engineers](https://dev.to/priya_sajja_c336921bbda87/challenge-3-making-ux-work-understandable-to-engineers-1kcb)
-- [Why Pull Requests Go Stale — And Why It&#39;s a Visibility Problem, Not a People Problem](https://dev.to/code-board/why-pull-requests-go-stale-and-why-its-a-visibility-problem-not-a-people-problem-343h)
-- [Privacy-first mind mapping app. Part 0: Motivations and Mind Maps](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-0-motivations-and-mind-maps-4k0m)
-- [The Engineering Capacity Trap: Why Custom Page Builders Stall Product Roadmaps and Drain Engineering Resources](https://dev.to/jasonbiondo/the-engineering-capacity-trap-why-custom-page-builders-stall-product-roadmaps-and-drain-3g8l)
+- [From PDF Invoices to Formatted Spreadsheets in Two API Calls](https://dev.to/iterationlayer/from-pdf-invoices-to-formatted-spreadsheets-in-two-api-calls-56pm)
+- [Image Processing for E-Commerce: Resize, Watermark, and Optimize in One API Call](https://dev.to/iterationlayer/image-processing-for-e-commerce-resize-watermark-and-optimize-in-one-api-call-82i)
+- [Building AI Agents That Process Documents: MCP, Structured I/O, and Confidence Routing](https://dev.to/iterationlayer/building-ai-agents-that-process-documents-mcp-structured-io-and-confidence-routing-8ic)
+- [One Credit Pool, Every Format: Why Unified Billing Matters for Content Pipelines](https://dev.to/iterationlayer/one-credit-pool-every-format-why-unified-billing-matters-for-content-pipelines-31m4)
+- [Self-Hosted vs. Managed Document Processing: When to Build and When to Buy](https://dev.to/iterationlayer/self-hosted-vs-managed-document-processing-when-to-build-and-when-to-buy-3ah4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
