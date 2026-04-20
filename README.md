@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Deployment strategies every engineer should understand...](https://dev.to/daniel_possiblekwabi_b57/deployment-strategies-every-engineer-should-understand-ch9)
-- [Microsoft Agent Framework: Introduction](https://dev.to/lukaswalter/microsoft-agent-framework-introduction-m1e)
-- [Every CLI Command in Our Own Blog Post Was Fabricated. Here&#39;s How We Caught Them.](https://dev.to/watsonfoglift/every-cli-command-in-our-own-blog-post-was-fabricated-heres-how-we-caught-them-45ga)
-- [How I Structure Large Laravel Projects &lpar;My Personal Architecture Blueprint&rpar;](https://dev.to/klytron/how-i-structure-large-laravel-projects-my-personal-architecture-blueprint-3acg)
-- [你还在用 Dify 做聊天机器人？——这 5 个进阶用法，90% 的人都不知道](https://dev.to/_cbd692d476c5faf3b61bcf/ni-huan-zai-yong-dify-zuo-liao-tian-ji-qi-ren-zhe-5-ge-jin-jie-yong-fa-90-de-ren-du-bu-zhi-dao-g2f)
+- [Watch Google Cloud NEXT Live Right Here on DEV!](https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h)
+- [Hypercontext: a framework for agents that actually know what they&#39;re doing](https://dev.to/rotsl/hypercontext-a-framework-for-agents-that-actually-know-what-theyre-doing-3e7p)
+- [Anyone working on applications for Recursive Language Models? #discussion #rlm](https://dev.to/jon_at_backboardio/anyone-working-on-applications-for-recursive-language-models-discussion-rlm-2fp0)
+- [Serverless applications on AWS with Lambda using Java 25, API Gateway and DynamoDB - Part 6 Using GraalVM Native Image](https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-dynamodb-part-6-using-1ji)
+- [Guía Definitiva de Merge Sort: El Algoritmo de Divide y Vencerás](https://dev.to/jcmexdev/guia-definitiva-de-merge-sort-el-algoritmo-de-divide-y-venceras-h1n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
