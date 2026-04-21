@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Django: relaciones Muchos a muchos &lpar;many to many&rpar; entre modelos](https://dev.to/manuelcanga/django-relaciones-muchos-a-muchos-many-to-many-entre-modelos-cde)
-- [How to Optimize Font Loading for Better Web Performance &lpar;Free Font Resources Included&rpar;](https://dev.to/zubair_anwar_9f082942a33c/how-to-optimize-font-loading-for-better-web-performance-free-font-resources-included-3fnc)
-- [How a DeepSeek-only agent framework hit 85% prefix cache rate &lpar;and saved 93% vs Claude&rpar;](https://dev.to/esengine/how-a-deepseek-only-agent-framework-hit-85-prefix-cache-rate-and-saved-93-vs-claude-5c9g)
-- [FastAPI at 1M+ users: the patterns that actually matter](https://dev.to/tufailkhan457/fastapi-at-1m-users-the-patterns-that-actually-matter-1o44)
-- [Tunneling Out of the Air-Gap: Software Data Diodes for Industrial IoT](https://dev.to/instatunnel/tunneling-out-of-the-air-gap-software-data-diodes-for-industrial-iot-4ghe)
+- [I Built an AI Gateway from Scratch &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/uzukwu_michael_91a95b823b/i-built-an-ai-gateway-from-scratch-so-you-dont-have-to-3icc)
+- [Engineers Don&#39;t Want to Search Logs. They Want to Know What Broke.](https://dev.to/oozioma/engineers-dont-want-to-search-logs-they-want-to-know-what-broke-3l33)
+- [Copilot Forgets Everything. Make It Stop.](https://dev.to/vishdevwork/copilot-forgets-everything-make-it-stop-1kp2)
+- [Why This Backend Engineer Stopped Calling LLM APIs From Every Service And Started Running a Local Agent Instead](https://dev.to/singhvishalkr/why-this-backend-engineer-stopped-calling-llm-apis-from-every-service-and-started-running-a-local-2n4n)
+- [Why ML Models Break After Deployment](https://dev.to/hema_nambi_66c9/why-ml-models-break-after-deployment-4d42)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
