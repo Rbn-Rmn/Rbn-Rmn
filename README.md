@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built a real-time AI security monitor for local files — here&#39;s how the eepban engine works](https://dev.to/kidoai/i-built-a-real-time-ai-security-monitor-for-local-files-heres-how-the-eepban-engine-works-2l6c)
-- [I Replaced 4 LLM API Clients With One Endpoint — Here&#39;s What the Latency Data Actually Looks Like](https://dev.to/tedtalk/i-replaced-4-llm-api-clients-with-one-endpoint-heres-what-the-latency-data-actually-looks-like-5elk)
-- [1.6T Optical Transceiver: The Foundation of Next-Generation AI Data Center Networking](https://dev.to/aicplight/16t-optical-transceiver-the-foundation-of-next-generation-ai-data-center-networking-46dj)
-- [The Setup That Paid My Rent vs. The Setup That Blew Up My Account](https://dev.to/a3e_ecosystem/the-setup-that-paid-my-rent-vs-the-setup-that-blew-up-my-account-pp7)
-- [How to Safely Run AI-Generated Code with SmolVM &lpar;Open-Source MicroVM Sandbox&rpar;](https://dev.to/aniketmaurya/how-to-safely-run-ai-generated-code-with-smolvm-open-source-microvm-sandbox-2coo)
+- [Datadog alternatives for Indian mid-market &lpar;cost-aware&rpar;](https://dev.to/aicloudstrategist/datadog-alternatives-for-indian-mid-market-cost-aware-2p7k)
+- [AWS cost audit for Indian SaaS: a 24-hour methodology](https://dev.to/aicloudstrategist/aws-cost-audit-for-indian-saas-a-24-hour-methodology-1g45)
+- [Hello DEV! I&#39;m Nouman — CyberSecurity Student &amp; Fullstack Developer from Pakistan 🇵🇰](https://dev.to/noumantechdeveloper/hello-dev-im-nouman-cybersecurity-student-fullstack-developer-from-pakistan-4h06)
+- [Your First LLMOps Pipeline: From Prompt to Production in One Sprint](https://dev.to/varunvarde/your-first-llmops-pipeline-from-prompt-to-production-in-one-sprint-4ppp)
+- [TestSprite — localized dev review with feedback](https://dev.to/8006/testsprite-localized-dev-review-with-feedback-1eeh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
