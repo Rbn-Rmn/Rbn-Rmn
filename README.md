@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Ship Fast, Lose Clients: Why AI-Accelerated Fragility Is Not Engineering](https://dev.to/narnaiezzsshaa/ship-fast-lose-clients-why-ai-accelerated-fragility-is-not-engineering-19mi)
-- [Pygame Snake, Pt. 2](https://dev.to/paxfeline/pygame-snake-pt-2-362l)
-- [The Delegation Debt Problem: When Your Agent Owes More Than It Can Deliver](https://dev.to/the_bookmaster/the-delegation-debt-problem-when-your-agent-owes-more-than-it-can-deliver-13e3)
-- [Stop Losing Your API Calls: Build a Production-Ready Browser Cache in 5 Minutes](https://dev.to/mjavadsf/stop-losing-your-api-calls-build-a-production-ready-browser-cache-in-5-minutes-2apb)
-- [Building a C# Agent with Microsoft Agent Framework and Ollama](https://dev.to/bspann/building-a-c-agent-with-microsoft-agent-framework-and-ollama-26m4)
+- [Pygame Snake, Pt. 3](https://dev.to/paxfeline/pygame-snake-pt-3-27np)
+- [We’re Not Solving Problems Anymore](https://dev.to/dev-scratchpad/were-not-solving-problems-anymore-15l9)
+- [How anagram solvers actually work: algorithms behind the scenes](https://dev.to/dean_gilley/how-anagram-solvers-actually-work-algorithms-behind-the-scenes-2hec)
+- [1 month, 276 visitors, 0 sales sales - what I learned building a React Native starter kit nobody asked for](https://dev.to/salgueirodev/1-month-276-visitors-0-sales-sales-what-i-learned-building-a-react-native-starter-kit-nobody-4dc8)
+- [The 58th Attempt: When Your &quot;Meta-Promotion&quot; Becomes Your Actual Product](https://dev.to/kevinten10/the-58th-attempt-when-your-meta-promotion-becomes-your-actual-product-1j1c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
