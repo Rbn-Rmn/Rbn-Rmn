@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Two-Pipeline Enterprise CI/CD System on Azure DevOps EpicBook Deployment](https://dev.to/ebelechukwu_lucyokafor/how-i-built-a-two-pipeline-enterprise-cicd-system-on-azure-devops-epicbook-deployment-2g8c)
-- [🏟️ NaviSmart: How I Built a Crowd-Aware Stadium Navigation Assistant](https://dev.to/ajx1tech/navismart-how-i-built-a-crowd-aware-stadium-navigation-assistant-8fp)
-- [Kiwi-chan&#39;s Chest-Building Blues &lpar;and a LOT of Logs!&rpar;](https://dev.to/kiwi_tech/kiwi-chans-chest-building-blues-and-a-lot-of-logs-45d9)
-- [Building AI Systems vs. AI Features: What Nobody Tells You About Production](https://dev.to/dimitrisk_cyclopt/building-ai-systems-vs-ai-features-what-nobody-tells-you-about-production-pm8)
-- [A Developer’s Lesson on Feedback](https://dev.to/shakiran_nannyombi_b0bf41/a-developers-lesson-on-feedback-2291)
+- [The Cross-Entropy Method: Solving RL Without Gradients](https://dev.to/berkan_sesen/the-cross-entropy-method-solving-rl-without-gradients-1lol)
+- [Why queues don’t feel “instant” in real backend systems?](https://dev.to/swan_h888/why-queues-dont-feel-instant-in-real-backend-systems-251j)
+- [Columnar Databases &lpar;ClickHouse/Snowflake&rpar;](https://dev.to/godofgeeks/columnar-databases-clickhousesnowflake-42kd)
+- [Payload CMS Security Best Practices: Top 10 Threats &amp; Mitigation Strategies in 2026](https://dev.to/u11d/payload-cms-security-best-practices-top-10-threats-mitigation-strategies-in-2026-22cc)
+- [AI-Powered Cybersecurity Platform That Detects, Analyzes, and Responds to Attacks Automatically on a Kubernetes Cluster](https://dev.to/mobs75/ai-powered-cybersecurity-platform-that-detects-analyzes-and-responds-to-attacks-automatically-on-34o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
