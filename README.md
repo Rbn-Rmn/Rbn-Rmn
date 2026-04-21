@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Array Sort Methods](https://dev.to/nanthini_ammu_ac02ad32802/array-sort-methods-1kb0)
-- [14 years at one company then laid off. The senior dev career trap nobody talks about.](https://dev.to/adioof/14-years-at-one-company-then-laid-off-the-senior-dev-career-trap-nobody-talks-about-4lfh)
-- [From 10 Failed Stacks to Production: How a Data Scientist Built a Job Board with Wasp, a Full-stack Framework for the Agentic Era](https://dev.to/wasp/from-10-failed-stacks-to-production-how-a-data-scientist-built-a-job-board-with-wasp-a-full-stack-5fmp)
-- [I brought KIOKU to Claude Desktop — one .mcpb drag, no Node setup](https://dev.to/megaphone/i-brought-kioku-to-claude-desktop-one-mcpb-drag-no-node-setup-1n8l)
-- [Stop Writing API Routes: Type-Safe Mutations with Next.js Server Actions ⚡](https://dev.to/iprajapatiparesh/stop-writing-api-routes-type-safe-mutations-with-nextjs-server-actions-30h4)
+- [Django: relaciones Muchos a muchos &lpar;many to many&rpar; entre modelos](https://dev.to/manuelcanga/django-relaciones-muchos-a-muchos-many-to-many-entre-modelos-cde)
+- [How to Optimize Font Loading for Better Web Performance &lpar;Free Font Resources Included&rpar;](https://dev.to/zubair_anwar_9f082942a33c/how-to-optimize-font-loading-for-better-web-performance-free-font-resources-included-3fnc)
+- [How a DeepSeek-only agent framework hit 85% prefix cache rate &lpar;and saved 93% vs Claude&rpar;](https://dev.to/esengine/how-a-deepseek-only-agent-framework-hit-85-prefix-cache-rate-and-saved-93-vs-claude-5c9g)
+- [FastAPI at 1M+ users: the patterns that actually matter](https://dev.to/tufailkhan457/fastapi-at-1m-users-the-patterns-that-actually-matter-1o44)
+- [Tunneling Out of the Air-Gap: Software Data Diodes for Industrial IoT](https://dev.to/instatunnel/tunneling-out-of-the-air-gap-software-data-diodes-for-industrial-iot-4ghe)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
