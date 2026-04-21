@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Cross-Entropy Method: Solving RL Without Gradients](https://dev.to/berkan_sesen/the-cross-entropy-method-solving-rl-without-gradients-1lol)
-- [Why queues don’t feel “instant” in real backend systems?](https://dev.to/swan_h888/why-queues-dont-feel-instant-in-real-backend-systems-251j)
-- [Columnar Databases &lpar;ClickHouse/Snowflake&rpar;](https://dev.to/godofgeeks/columnar-databases-clickhousesnowflake-42kd)
-- [Payload CMS Security Best Practices: Top 10 Threats &amp; Mitigation Strategies in 2026](https://dev.to/u11d/payload-cms-security-best-practices-top-10-threats-mitigation-strategies-in-2026-22cc)
-- [AI-Powered Cybersecurity Platform That Detects, Analyzes, and Responds to Attacks Automatically on a Kubernetes Cluster](https://dev.to/mobs75/ai-powered-cybersecurity-platform-that-detects-analyzes-and-responds-to-attacks-automatically-on-34o)
+- [Array Sort Methods](https://dev.to/nanthini_ammu_ac02ad32802/array-sort-methods-1kb0)
+- [14 years at one company then laid off. The senior dev career trap nobody talks about.](https://dev.to/adioof/14-years-at-one-company-then-laid-off-the-senior-dev-career-trap-nobody-talks-about-4lfh)
+- [From 10 Failed Stacks to Production: How a Data Scientist Built a Job Board with Wasp, a Full-stack Framework for the Agentic Era](https://dev.to/wasp/from-10-failed-stacks-to-production-how-a-data-scientist-built-a-job-board-with-wasp-a-full-stack-5fmp)
+- [I brought KIOKU to Claude Desktop — one .mcpb drag, no Node setup](https://dev.to/megaphone/i-brought-kioku-to-claude-desktop-one-mcpb-drag-no-node-setup-1n8l)
+- [Stop Writing API Routes: Type-Safe Mutations with Next.js Server Actions ⚡](https://dev.to/iprajapatiparesh/stop-writing-api-routes-type-safe-mutations-with-nextjs-server-actions-30h4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
