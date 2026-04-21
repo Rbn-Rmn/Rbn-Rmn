@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [From PDF Invoices to Formatted Spreadsheets in Two API Calls](https://dev.to/iterationlayer/from-pdf-invoices-to-formatted-spreadsheets-in-two-api-calls-56pm)
-- [Image Processing for E-Commerce: Resize, Watermark, and Optimize in One API Call](https://dev.to/iterationlayer/image-processing-for-e-commerce-resize-watermark-and-optimize-in-one-api-call-82i)
-- [Building AI Agents That Process Documents: MCP, Structured I/O, and Confidence Routing](https://dev.to/iterationlayer/building-ai-agents-that-process-documents-mcp-structured-io-and-confidence-routing-8ic)
-- [One Credit Pool, Every Format: Why Unified Billing Matters for Content Pipelines](https://dev.to/iterationlayer/one-credit-pool-every-format-why-unified-billing-matters-for-content-pipelines-31m4)
-- [Self-Hosted vs. Managed Document Processing: When to Build and When to Buy](https://dev.to/iterationlayer/self-hosted-vs-managed-document-processing-when-to-build-and-when-to-buy-3ah4)
+- [I built a real-time AI security monitor for local files — here&#39;s how the eepban engine works](https://dev.to/kidoai/i-built-a-real-time-ai-security-monitor-for-local-files-heres-how-the-eepban-engine-works-2l6c)
+- [I Replaced 4 LLM API Clients With One Endpoint — Here&#39;s What the Latency Data Actually Looks Like](https://dev.to/tedtalk/i-replaced-4-llm-api-clients-with-one-endpoint-heres-what-the-latency-data-actually-looks-like-5elk)
+- [1.6T Optical Transceiver: The Foundation of Next-Generation AI Data Center Networking](https://dev.to/aicplight/16t-optical-transceiver-the-foundation-of-next-generation-ai-data-center-networking-46dj)
+- [The Setup That Paid My Rent vs. The Setup That Blew Up My Account](https://dev.to/a3e_ecosystem/the-setup-that-paid-my-rent-vs-the-setup-that-blew-up-my-account-pp7)
+- [How to Safely Run AI-Generated Code with SmolVM &lpar;Open-Source MicroVM Sandbox&rpar;](https://dev.to/aniketmaurya/how-to-safely-run-ai-generated-code-with-smolvm-open-source-microvm-sandbox-2coo)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
