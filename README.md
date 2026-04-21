@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The 54th Attempt: When Your &quot;Knowledge Management&quot; System Becomes a Self-Fulfilling Prophecy of Failure](https://dev.to/kevinten10/the-54th-attempt-when-your-knowledge-management-system-becomes-a-self-fulfilling-prophecy-of-5edd)
-- [When Agents Meet Reality: Recapping Our Agents in Production Meetup in London April &#39;26](https://dev.to/orkesconductor/when-agents-meet-reality-recapping-our-agents-in-production-meetup-in-london-april-26-3mbi)
-- [🙏🏻🙏🏻🙏🏻🙏🏻💪🏻💪🏻💪🏻💪🏻](https://dev.to/jon_at_backboardio/-1n79)
-- [Your Ridge Parameter Is PageRank&#39;s Damping Factor &lpar;and Why BLAS Beats GPU for Mid-Sized KRR&rpar;](https://dev.to/ki-mathias/your-ridge-parameter-is-pageranks-damping-factor-and-why-blas-beats-gpu-for-mid-sized-krr-4hac)
-- [The Creator Block Debugger: Still Fixing It But It Works](https://dev.to/ashb4/the-creator-block-debugger-still-fixing-it-but-it-works-39p)
+- [What 1,000+ Developer Posts Told Me About the Biggest Pain Points Right Now](https://dev.to/rehndev/what-1000-developer-posts-told-me-about-the-biggest-pain-points-right-now-ide)
+- [feel i invaded half the world just by coding!](https://dev.to/butterflycss/feel-i-invaded-half-the-world-when-i-see-country-analytics-3cjj)
+- [20. Node.js](https://dev.to/avery_/20-nodejs-11d8)
+- [SQL Window Functions and CTEs](https://dev.to/brian_muriithi/sql-window-functions-and-ctes-m4g)
+- [Please Don’t Throw That Away](https://dev.to/lanternetwork/please-dont-throw-that-away-16jh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
