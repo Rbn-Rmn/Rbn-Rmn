@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Datadog alternatives for Indian mid-market &lpar;cost-aware&rpar;](https://dev.to/aicloudstrategist/datadog-alternatives-for-indian-mid-market-cost-aware-2p7k)
-- [AWS cost audit for Indian SaaS: a 24-hour methodology](https://dev.to/aicloudstrategist/aws-cost-audit-for-indian-saas-a-24-hour-methodology-1g45)
-- [Hello DEV! I&#39;m Nouman — CyberSecurity Student &amp; Fullstack Developer from Pakistan 🇵🇰](https://dev.to/noumantechdeveloper/hello-dev-im-nouman-cybersecurity-student-fullstack-developer-from-pakistan-4h06)
-- [Your First LLMOps Pipeline: From Prompt to Production in One Sprint](https://dev.to/varunvarde/your-first-llmops-pipeline-from-prompt-to-production-in-one-sprint-4ppp)
-- [TestSprite — localized dev review with feedback](https://dev.to/8006/testsprite-localized-dev-review-with-feedback-1eeh)
+- [How I Built a Two-Pipeline Enterprise CI/CD System on Azure DevOps EpicBook Deployment](https://dev.to/ebelechukwu_lucyokafor/how-i-built-a-two-pipeline-enterprise-cicd-system-on-azure-devops-epicbook-deployment-2g8c)
+- [🏟️ NaviSmart: How I Built a Crowd-Aware Stadium Navigation Assistant](https://dev.to/ajx1tech/navismart-how-i-built-a-crowd-aware-stadium-navigation-assistant-8fp)
+- [Kiwi-chan&#39;s Chest-Building Blues &lpar;and a LOT of Logs!&rpar;](https://dev.to/kiwi_tech/kiwi-chans-chest-building-blues-and-a-lot-of-logs-45d9)
+- [Building AI Systems vs. AI Features: What Nobody Tells You About Production](https://dev.to/dimitrisk_cyclopt/building-ai-systems-vs-ai-features-what-nobody-tells-you-about-production-pm8)
+- [A Developer’s Lesson on Feedback](https://dev.to/shakiran_nannyombi_b0bf41/a-developers-lesson-on-feedback-2291)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
