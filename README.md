@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The 57th Attempt: When Your &quot;Meta-Promotion&quot; Strategy Becomes the Main Product](https://dev.to/kevinten10/the-57th-attempt-when-your-meta-promotion-strategy-becomes-the-main-product-730)
-- [How I Started Thinking in SQL &lpar;Not Just Writing Queries&rpar;](https://dev.to/joseph_mwangi_3ae1f57a132/how-i-started-thinking-in-sql-not-just-writing-queries-3cc7)
-- [🚀 Open Source: Svelte 5 + GSAP Creative Agency Template](https://dev.to/yusufcengiz/open-source-svelte-5-gsap-creative-agency-template-2e4i)
-- [Search Sofascore from Your Browser&#39;s Address Bar](https://dev.to/kkuj/search-sofascore-from-your-browsers-address-bar-56e0)
-- [Fundamentos de IA moderna: agentes, MCP, skills e orquestração](https://dev.to/mayzaynara/fundamentos-de-ia-moderna-agentes-mcp-skills-e-orquestracao-2136)
+- [Ship Fast, Lose Clients: Why AI-Accelerated Fragility Is Not Engineering](https://dev.to/narnaiezzsshaa/ship-fast-lose-clients-why-ai-accelerated-fragility-is-not-engineering-19mi)
+- [Pygame Snake, Pt. 2](https://dev.to/paxfeline/pygame-snake-pt-2-362l)
+- [The Delegation Debt Problem: When Your Agent Owes More Than It Can Deliver](https://dev.to/the_bookmaster/the-delegation-debt-problem-when-your-agent-owes-more-than-it-can-deliver-13e3)
+- [Stop Losing Your API Calls: Build a Production-Ready Browser Cache in 5 Minutes](https://dev.to/mjavadsf/stop-losing-your-api-calls-build-a-production-ready-browser-cache-in-5-minutes-2apb)
+- [Building a C# Agent with Microsoft Agent Framework and Ollama](https://dev.to/bspann/building-a-c-agent-with-microsoft-agent-framework-and-ollama-26m4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
