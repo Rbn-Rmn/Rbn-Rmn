@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Gateway from Scratch &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/uzukwu_michael_91a95b823b/i-built-an-ai-gateway-from-scratch-so-you-dont-have-to-3icc)
-- [Engineers Don&#39;t Want to Search Logs. They Want to Know What Broke.](https://dev.to/oozioma/engineers-dont-want-to-search-logs-they-want-to-know-what-broke-3l33)
-- [Copilot Forgets Everything. Make It Stop.](https://dev.to/vishdevwork/copilot-forgets-everything-make-it-stop-1kp2)
-- [Why This Backend Engineer Stopped Calling LLM APIs From Every Service And Started Running a Local Agent Instead](https://dev.to/singhvishalkr/why-this-backend-engineer-stopped-calling-llm-apis-from-every-service-and-started-running-a-local-2n4n)
-- [Why ML Models Break After Deployment](https://dev.to/hema_nambi_66c9/why-ml-models-break-after-deployment-4d42)
+- [Google Sheets as a Database: SELECT * FROM &#39;Sheet1&#39; LIMIT 5](https://dev.to/debba/google-sheets-as-a-database-select-from-sheet1-limit-5-2epa)
+- [DoctorDocs: 200+ Free Browser-Based PDF, OCR &amp; AI Document Tools — No Sign-Up Required](https://dev.to/ben_ebaa08f53d21a464825d6/doctordocs-200-free-browser-based-pdf-ocr-ai-document-tools-no-sign-up-required-3k6h)
+- [GKE Security: Fix Secrets &amp; Control Plane Misconfigurations](https://dev.to/buoyantcloudinc/gke-security-fix-secrets-control-plane-misconfigurations-5fm1)
+- [I accidentally made the fastest event system in the world](https://dev.to/orion_stderr/i-accidentally-made-the-fastest-event-system-in-the-world-32n2)
+- [How I built an MCP server for 27 government registries in a week](https://dev.to/openregistry/how-i-built-an-mcp-server-for-27-government-registries-in-a-week-4hf0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
