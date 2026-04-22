@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [&quot;I Only Trusted My Channel Abstraction After Plugging In the Third Provider&quot;](https://dev.to/codekingai/i-only-trusted-my-channel-abstraction-after-plugging-in-the-third-provider-ned)
-- [Home Server GitOps-Lite on Nothing but GitHub and Docker](https://dev.to/nckslvrmn/home-server-gitops-lite-on-nothing-but-github-and-docker-19lo)
-- [CVE-2026-40343: CVE-2026-40343: Fail-Open Request Handling in free5GC UDR Policy Data Subscription](https://dev.to/cverports/cve-2026-40343-cve-2026-40343-fail-open-request-handling-in-free5gc-udr-policy-data-subscription-5hb4)
-- [OpenAI Euphony: A Browser-Based Viewer for Harmony Conversations and Codex CLI Sessions](https://dev.to/_46ea277e677b888e0cd13/openai-euphony-a-browser-based-viewer-for-harmony-conversations-and-codex-cli-sessions-5gcn)
-- [Why Safari Said &#39;Link Not Found&#39; &lpar;And Chrome Didn&#39;t&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/why-safari-said-link-not-found-and-chrome-didnt-2dn5)
+- [The Hidden Costs of AI in Production &lpar;And How Developers Can Reduce Them&rpar;](https://dev.to/eva_clari_289d85ecc68da48/the-hidden-costs-of-ai-in-production-and-how-developers-can-reduce-them-3714)
+- [How I Built Plausible Deniability Into a Browser Notepad](https://dev.to/flowdeskadmin/how-i-built-plausible-deniability-into-a-browser-notepad-56b)
+- [Why I Stopped Using useEffect &lpar;And You Should Too&rpar; 🚫⚛️](https://dev.to/ajay_mudettula/why-i-stopped-using-useeffect-and-you-should-too-g86)
+- [Day 2: Setting Up Your Bug Bounty Hacking Lab — Burp Suite, Firefox &amp; Your First Intercepted HTTP Request &lpar;2026&rpar;](https://dev.to/lucky_lonerusher/day-2-setting-up-your-bug-bounty-hacking-lab-burp-suite-firefox-your-first-intercepted-http-322a)
+- [MCP is the authoring layer. Execution should cost zero tokens.](https://dev.to/leonting1010/mcp-is-the-authoring-layer-execution-should-cost-zero-tokens-4gdf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
