@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What was your Win-Win this week?! 👋👋👋👋 All wins count -- Big or Small 🎉📱](https://dev.to/mohammedzaidwaghoo/what-was-your-win-win-this-weekall-wins-count-big-or-small-a51)
-- [I&#39;m losing my own brand SERP to 3rd-party articles. Here&#39;s the JSON-LD stack I&#39;m shipping to claw it back.](https://dev.to/candle-dojo/im-losing-my-own-brand-serp-to-3rd-party-articles-heres-the-json-ld-stack-im-shipping-to-claw-2bf1)
-- [Vibe Coding Turned Me into a Mouse on a Wheel: How I Fixed It](https://dev.to/benteigland11/vibe-coding-turned-me-into-a-mouse-on-a-wheel-how-i-fixed-it-282n)
-- [Beyond the Model: Why Document Intelligence Is the Next AI Infrastructure Layer](https://dev.to/kreuzberg/beyond-the-model-why-document-intelligence-is-the-next-ai-infrastructure-layer-53i5)
-- [Benchmarkr - cURL, built for concurrency, MCP, and real performance benchmarking](https://dev.to/mackoverflow/benchmarkr-curl-built-for-concurrency-mcp-and-real-performance-benchmarking-17c6)
+- [Deconstructing X &lpar;Twitter&rpar; Media Streaming: Building a High-Performance Video Extraction Engine](https://dev.to/yqqwe/deconstructing-x-twitter-media-streaming-building-a-high-performance-video-extraction-engine-282j)
+- [Giải mã kỹ thuật luồng phát trực tuyến của X &lpar;Twitter&rpar;: Xây dựng bộ máy tải video hiệu suất cao với HLS và FFmpeg](https://dev.to/yqqwe/giai-ma-ky-thuat-luong-phat-truc-tuyen-cua-x-twitter-xay-dung-bo-may-tai-video-hieu-suat-cao-voi-ig2)
+- [Why Your API Contract Breaks in Production &lpar;And How to Fix It in the Spec&rpar;](https://dev.to/guo_king_5d052f0d094fe6ca/why-your-api-contract-breaks-in-production-and-how-to-fix-it-in-the-spec-1kjh)
+- [เจาะลึกวิศวกรรมการสตรีมมิ่งของ X &lpar;Twitter&rpar;: การสร้างระบบดึงวิดีโอประสิทธิภาพสูงด้วย HLS และ FFmpeg](https://dev.to/yqqwe/ecchaaaluekwiswkrrmkaarstriimmingkhng-x-twitter-kaarsraangrabbduengwidiioprasiththiphaaphsuungdwy-hls-aela-ffmpeg-4gn3)
+- [X&lpar;Twitter&rpar; 미디어 스트리밍 분석: 고성능 비디오 파싱 엔진 구축과 기술적 도전 과제](https://dev.to/yqqwe/xtwitter-midieo-seuteuriming-bunseog-goseongneung-bidio-pasing-enjin-gucuggwa-gisuljeog-dojeon-gwaje-k9g)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
