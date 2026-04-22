@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [When one translation isn&#39;t enough: building konid for real language](https://dev.to/palo_alto_ai/when-one-translation-isnt-enough-building-konid-for-real-language-3pn5)
-- [Toggle Windows Light and Dark Mode with Python](https://dev.to/vast-cow/toggle-windows-light-and-dark-mode-with-python-277g)
-- [I was tired of re-explaining my project to Claude every session](https://dev.to/esankhan/i-was-tired-of-re-explaining-my-project-to-claude-every-session-5d38)
-- [TON Just Got 10x Faster. Here&#39;s What That Means for Your RPC Stack](https://dev.to/getblockapi/ton-just-got-10x-faster-heres-what-that-means-for-your-rpc-stack-1724)
-- [Why AI-Generated Code Works… Until It Doesn’t &lpar;A React Reality Check&rpar;](https://dev.to/qodors/why-ai-generated-code-works-until-it-doesnt-a-react-reality-check-4pm2)
+- [Building a SaaS Platform from Scratch: Lessons Learned](https://dev.to/oxellab/building-a-saas-platform-from-scratch-lessons-learned-17n7)
+- [rabbitholes: inline Wikipedia for any word on any page](https://dev.to/palo_alto_ai/rabbitholes-inline-wikipedia-for-any-word-on-any-page-2j93)
+- [Germany Handelsregister — post-CJEU reality and the BORIS shim](https://dev.to/openregistry/germany-handelsregister-post-cjeu-reality-and-the-boris-shim-p67)
+- [Add Authentication and SSO to Your Panel App](https://dev.to/descope/add-authentication-and-sso-to-your-panel-app-1hk8)
+- [The AI Bolt-On Fallacy](https://dev.to/rootcx/the-ai-bolt-on-fallacy-5gj5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
