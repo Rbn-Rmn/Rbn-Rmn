@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building a SaaS Platform from Scratch: Lessons Learned](https://dev.to/oxellab/building-a-saas-platform-from-scratch-lessons-learned-17n7)
-- [rabbitholes: inline Wikipedia for any word on any page](https://dev.to/palo_alto_ai/rabbitholes-inline-wikipedia-for-any-word-on-any-page-2j93)
-- [Germany Handelsregister — post-CJEU reality and the BORIS shim](https://dev.to/openregistry/germany-handelsregister-post-cjeu-reality-and-the-boris-shim-p67)
-- [Add Authentication and SSO to Your Panel App](https://dev.to/descope/add-authentication-and-sso-to-your-panel-app-1hk8)
-- [The AI Bolt-On Fallacy](https://dev.to/rootcx/the-ai-bolt-on-fallacy-5gj5)
+- [Should we feel guilty for using AI?](https://dev.to/jertyuiop/should-we-feel-guilty-for-using-ai-2do8)
+- [Sibling Rivalry? How to Make Kestra Tasks Talk to Each Other](https://dev.to/kestra/sibling-rivalry-how-to-make-kestra-tasks-talk-to-each-other-15m5)
+- [I Built a Production-Ready useFetch Hook with TypeScript — Here&#39;s What I Learned &lpar;Full Source Code&rpar;](https://dev.to/kalaiarasan-dev/i-built-a-production-ready-usefetch-hook-with-typescript-heres-what-i-learned-full-source-code-19ie)
+- [SQL Index Tuning Tools: What Works and When to Use Them](https://dev.to/david_kaplunov_a521411a15/sql-index-tuning-tools-what-works-and-when-to-use-them-ijj)
+- [Change impact analysis is the silent time-sink in every medtech QMS](https://dev.to/priya_nair_ree/change-impact-analysis-is-the-silent-time-sink-in-every-medtech-qms-50bh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
