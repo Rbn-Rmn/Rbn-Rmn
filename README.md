@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Chapter 3: The Tokenizer - Text to Numbers and Back](https://dev.to/garyljackson/chapter-3-the-tokenizer-text-to-numbers-and-back-3b5)
-- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178)
-- [Privacy-first mind mapping app. Part 1: Constraints Before Tech](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-1-constraints-before-tech-50p3)
-- [I Ditched iCloud Photo Sharing and Built My Own &lpar;with an AI partner&rpar;](https://dev.to/dougdonohoe/i-ditched-icloud-photo-sharing-and-built-my-own-with-an-ai-partner-10he)
-- [Créer un système d’authentification avec PHP et MySQL &lpar;étape par étape&rpar;](https://dev.to/sabriiine15/creer-un-systeme-dauthentification-avec-php-et-mysql-etape-par-etape-1c68)
+- [PostgreSQL CDC 240x Faster, Flowfile v0.9.0 ETL, SQLite_EXTRA_INIT Deep Dive](https://dev.to/soytuber/postgresql-cdc-240x-faster-flowfile-v090-etl-sqliteextrainit-deep-dive-44k5)
+- [This Week in Other AI Tools: Fastest-Growing Projects — April 22, 2026](https://dev.to/pullrepo/this-week-in-other-ai-tools-fastest-growing-projects-april-22-2026-1ec7)
+- [Gova, a declarative GUI framework for Go](https://dev.to/namanvyas/go-3oi2)
+- [Built Gova, a declarative GUI framework for Go](https://dev.to/namanvyas/built-gova-a-declarative-gui-framework-for-go-48m6)
+- [Anchor vs Pinocchio: the real deploy cost](https://dev.to/satorigeeks/anchor-vs-pinocchio-the-real-deploy-cost-4ihm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
