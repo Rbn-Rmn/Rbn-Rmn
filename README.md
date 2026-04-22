@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Death of the Walled Garden: Why I’m Building a Sovereign AI Engine for Exponential Education](https://dev.to/avatar-alchemy/the-death-of-the-walled-garden-why-im-building-a-sovereign-ai-engine-for-exponential-education-bho)
-- [I Stopped Installing Qiskit to Understand Hadamard Gates](https://dev.to/aralroca/i-stopped-installing-qiskit-to-understand-hadamard-gates-1m8n)
-- [I lost all my Prompter scripts on a Friday. By Sunday, I&#39;d built PrompterKit.](https://dev.to/snapsynapse/i-lost-all-my-prompter-scripts-on-a-friday-by-sunday-id-built-prompterkit-g5o)
-- [ETL vs ELT: Which One Should You Use and Why](https://dev.to/kuria_dd8316139db3dea9c85/etl-vs-elt-which-one-should-you-use-and-why-38i7)
-- [16 constitutional AI models built on a Chromebook](https://dev.to/scuradimensions/16-constitutional-ai-models-built-on-a-chromebook-1a9b)
+- [Chapter 3: The Tokenizer - Text to Numbers and Back](https://dev.to/garyljackson/chapter-3-the-tokenizer-text-to-numbers-and-back-3b5)
+- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178)
+- [Privacy-first mind mapping app. Part 1: Constraints Before Tech](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-1-constraints-before-tech-50p3)
+- [I Ditched iCloud Photo Sharing and Built My Own &lpar;with an AI partner&rpar;](https://dev.to/dougdonohoe/i-ditched-icloud-photo-sharing-and-built-my-own-with-an-ai-partner-10he)
+- [Créer un système d’authentification avec PHP et MySQL &lpar;étape par étape&rpar;](https://dev.to/sabriiine15/creer-un-systeme-dauthentification-avec-php-et-mysql-etape-par-etape-1c68)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
