@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Costs of AI in Production &lpar;And How Developers Can Reduce Them&rpar;](https://dev.to/eva_clari_289d85ecc68da48/the-hidden-costs-of-ai-in-production-and-how-developers-can-reduce-them-3714)
-- [How I Built Plausible Deniability Into a Browser Notepad](https://dev.to/flowdeskadmin/how-i-built-plausible-deniability-into-a-browser-notepad-56b)
-- [Why I Stopped Using useEffect &lpar;And You Should Too&rpar; 🚫⚛️](https://dev.to/ajay_mudettula/why-i-stopped-using-useeffect-and-you-should-too-g86)
-- [Day 2: Setting Up Your Bug Bounty Hacking Lab — Burp Suite, Firefox &amp; Your First Intercepted HTTP Request &lpar;2026&rpar;](https://dev.to/lucky_lonerusher/day-2-setting-up-your-bug-bounty-hacking-lab-burp-suite-firefox-your-first-intercepted-http-322a)
-- [MCP is the authoring layer. Execution should cost zero tokens.](https://dev.to/leonting1010/mcp-is-the-authoring-layer-execution-should-cost-zero-tokens-4gdf)
+- [What was your Win-Win this week?! 👋👋👋👋 All wins count -- Big or Small 🎉📱](https://dev.to/mohammedzaidwaghoo/what-was-your-win-win-this-weekall-wins-count-big-or-small-a51)
+- [I&#39;m losing my own brand SERP to 3rd-party articles. Here&#39;s the JSON-LD stack I&#39;m shipping to claw it back.](https://dev.to/candle-dojo/im-losing-my-own-brand-serp-to-3rd-party-articles-heres-the-json-ld-stack-im-shipping-to-claw-2bf1)
+- [Vibe Coding Turned Me into a Mouse on a Wheel: How I Fixed It](https://dev.to/benteigland11/vibe-coding-turned-me-into-a-mouse-on-a-wheel-how-i-fixed-it-282n)
+- [Beyond the Model: Why Document Intelligence Is the Next AI Infrastructure Layer](https://dev.to/kreuzberg/beyond-the-model-why-document-intelligence-is-the-next-ai-infrastructure-layer-53i5)
+- [Benchmarkr - cURL, built for concurrency, MCP, and real performance benchmarking](https://dev.to/mackoverflow/benchmarkr-curl-built-for-concurrency-mcp-and-real-performance-benchmarking-17c6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
