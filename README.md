@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL CDC 240x Faster, Flowfile v0.9.0 ETL, SQLite_EXTRA_INIT Deep Dive](https://dev.to/soytuber/postgresql-cdc-240x-faster-flowfile-v090-etl-sqliteextrainit-deep-dive-44k5)
-- [This Week in Other AI Tools: Fastest-Growing Projects — April 22, 2026](https://dev.to/pullrepo/this-week-in-other-ai-tools-fastest-growing-projects-april-22-2026-1ec7)
-- [Gova, a declarative GUI framework for Go](https://dev.to/namanvyas/go-3oi2)
-- [Built Gova, a declarative GUI framework for Go](https://dev.to/namanvyas/built-gova-a-declarative-gui-framework-for-go-48m6)
-- [Anchor vs Pinocchio: the real deploy cost](https://dev.to/satorigeeks/anchor-vs-pinocchio-the-real-deploy-cost-4ihm)
+- [API keys were designed for humans. AI agents break them in 4 ways.](https://dev.to/allforscience/api-keys-were-designed-for-humans-ai-agents-break-them-in-4-ways-422)
+- [Kiwi-chan&#39;s Log: The Oak Log Obstacle Course](https://dev.to/kiwi_tech/kiwi-chans-log-the-oak-log-obstacle-course-27e7)
+- [Agentforce Builder: Build Your First AI Agent](https://dev.to/dipojjal/agentforce-builder-build-your-first-ai-agent-apn)
+- [Stop Memorizing the PDU names — Understand It Like Amazon Delivery](https://dev.to/taqq/stop-memorizing-the-pdu-names-understand-it-like-amazon-delivery-38km)
+- [I Built an AI Text Summarizer in One Night with Claude + Next.js](https://dev.to/yramstech/i-built-an-ai-text-summarizer-in-one-night-with-claude-nextjs-3p9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
