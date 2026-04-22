@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your pytest retries are lying to you. The hidden cost of --reruns, and the plugin I wrote so I could actually see what my tests were doing.](https://dev.to/michle/your-pytest-retries-are-lying-to-you-the-hidden-cost-of-reruns-and-the-plugin-i-wrote-so-i-27fh)
-- [Analyzing the Monthly Web Dev Career Thread: What…](https://dev.to/norviktech/analyzing-the-monthly-web-dev-career-thread-what-3o6g)
-- [I Fine-Tuned a Compliance Judge and Beat the Stock Model by +29.6pp F1](https://dev.to/akhona_eland_072dac9e0c2c/i-fine-tuned-a-compliance-judge-and-beat-the-stock-model-by-296pp-f1-4cgb)
-- [null=True on CharField Is Always Wrong — Here Is Why](https://dev.to/h_coder/nulltrue-on-charfield-is-always-wrong-here-is-why-1bop)
-- [Which Sandbox Should You Use for Your AI Agent?](https://dev.to/rednakta/which-sandbox-should-you-use-for-your-ai-agent-44j0)
+- [When one translation isn&#39;t enough: building konid for real language](https://dev.to/palo_alto_ai/when-one-translation-isnt-enough-building-konid-for-real-language-3pn5)
+- [Toggle Windows Light and Dark Mode with Python](https://dev.to/vast-cow/toggle-windows-light-and-dark-mode-with-python-277g)
+- [I was tired of re-explaining my project to Claude every session](https://dev.to/esankhan/i-was-tired-of-re-explaining-my-project-to-claude-every-session-5d38)
+- [TON Just Got 10x Faster. Here&#39;s What That Means for Your RPC Stack](https://dev.to/getblockapi/ton-just-got-10x-faster-heres-what-that-means-for-your-rpc-stack-1724)
+- [Why AI-Generated Code Works… Until It Doesn’t &lpar;A React Reality Check&rpar;](https://dev.to/qodors/why-ai-generated-code-works-until-it-doesnt-a-react-reality-check-4pm2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
