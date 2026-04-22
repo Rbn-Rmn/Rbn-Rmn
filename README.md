@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [WebSockets 101 for Laravel Developers: From Concept to Production on Deploynix](https://dev.to/deploynix/websockets-101-for-laravel-developers-from-concept-to-production-on-deploynix-15oo)
-- [Charting Query Results Without Leaving VS Code](https://dev.to/mike_burgh/charting-query-results-without-leaving-vs-code-21o9)
-- [Architecture vs Brute-Force: What I Learned Benchmarking KDFs for my Thesis](https://dev.to/treszyk/architecture-vs-brute-force-what-i-learned-benchmarking-kdfs-for-my-thesis-18bo)
-- [Do You Really Need WebSockets?](https://dev.to/prajwolshrestha/do-you-really-need-websockets-4ldf)
-- [How to use AI to identify and fix security vulnerabilities in your codebase](https://dev.to/coderabbitai/how-to-use-ai-to-identify-and-fix-security-vulnerabilities-in-your-codebase-4na2)
+- [Your pytest retries are lying to you. The hidden cost of --reruns, and the plugin I wrote so I could actually see what my tests were doing.](https://dev.to/michle/your-pytest-retries-are-lying-to-you-the-hidden-cost-of-reruns-and-the-plugin-i-wrote-so-i-27fh)
+- [Analyzing the Monthly Web Dev Career Thread: What…](https://dev.to/norviktech/analyzing-the-monthly-web-dev-career-thread-what-3o6g)
+- [I Fine-Tuned a Compliance Judge and Beat the Stock Model by +29.6pp F1](https://dev.to/akhona_eland_072dac9e0c2c/i-fine-tuned-a-compliance-judge-and-beat-the-stock-model-by-296pp-f1-4cgb)
+- [null=True on CharField Is Always Wrong — Here Is Why](https://dev.to/h_coder/nulltrue-on-charfield-is-always-wrong-here-is-why-1bop)
+- [Which Sandbox Should You Use for Your AI Agent?](https://dev.to/rednakta/which-sandbox-should-you-use-for-your-ai-agent-44j0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
