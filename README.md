@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Vercel got hacked because an employee clicked &#39;Allow&#39; on an OAuth prompt. We all do this.](https://dev.to/adioof/vercel-got-hacked-because-an-employee-clicked-allow-on-an-oauth-prompt-we-all-do-this-5gn1)
-- [Export Confluence Pages to Clean Markdown — Introducing Markdown Exporter for Confluence](https://dev.to/yamuno-software/export-confluence-pages-to-clean-markdown-introducing-markdown-exporter-for-confluence-36ke)
-- [FOMO as a Developer: You&#39;re Not Behind, You&#39;re Just Human](https://dev.to/nikola/fomo-as-a-developer-youre-not-behind-youre-just-human-1ggp)
-- [The Invisible Tax: How Engineers Are Building Multi-Cloud Mesh Fabrics to Escape the Egress Economy](https://dev.to/instatunnel/the-invisible-tax-how-engineers-are-building-multi-cloud-mesh-fabrics-to-escape-the-egress-economy-60p)
-- [7 GitHub Repos I&#39;d Actually Use to Find Free AI APIs and No-Cost AI Tools](https://dev.to/asynchronope/7-github-repos-id-actually-use-to-find-free-ai-apis-and-no-cost-ai-tools-31cn)
+- [JavaScript y su ecosistema: un tocahuevos con capas de abstracción](https://dev.to/satandev/javascript-y-su-ecosistema-un-tocahuevos-con-capas-de-abstraccion-k47)
+- [Privacy-first mind mapping app. Part 2: Rust Backend - Why the Pain Is Worth It](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-2-rust-backend-why-the-pain-is-worth-it-3hni)
+- [Redis-backed permissions for high-volume Laravel apps: v4.0.0-beta.1](https://dev.to/scabarcas/redis-backed-permissions-for-high-volume-laravel-apps-v400-beta1-dk3)
+- [微软应用商店上架指南](https://dev.to/yangholmes/wei-ruan-ying-yong-shang-dian-shang-jia-zhi-nan-3k8g)
+- [Dear Codebase: A Letter From Your Coding Agent](https://dev.to/mroczekdev/dear-codebase-a-letter-from-your-coding-agent-b51)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
