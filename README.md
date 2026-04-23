@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AURA: Redefining Luxury Furniture E-Commerce with Vite 8 and MERN](https://dev.to/hlaingbhonehtun/aura-redefining-luxury-furniture-e-commerce-with-vite-8-and-mern-1hp1)
-- [Stop Paying for Duplicate AI: Semantic Edge Caching with Amazon ElastiCache &lpar;Redis&rpar;](https://dev.to/dhananjay_lakkawar/stop-paying-for-duplicate-ai-semantic-edge-caching-with-amazon-elasticache-redis-4m2g)
-- [How I built a 3D space simulator in one day with Claude &lpar;Three.js + shaders&rpar;](https://dev.to/yusufktkoglu/how-i-built-a-3d-space-simulator-in-one-day-with-claude-threejs-shaders-42b)
-- [The Zero-Knowledge Trap: Why ownPublicKey&lpar;&rpar; Cannot Prove Identity in Compact](https://dev.to/iamharrie/the-zero-knowledge-trap-why-ownpublickey-cannot-prove-identity-in-compact-169i)
-- [Faru: The Kanban Board for AI Agents](https://dev.to/yvg/faru-the-kanban-board-for-ai-agents-553k)
+- [Vercel got hacked because an employee clicked &#39;Allow&#39; on an OAuth prompt. We all do this.](https://dev.to/adioof/vercel-got-hacked-because-an-employee-clicked-allow-on-an-oauth-prompt-we-all-do-this-5gn1)
+- [Export Confluence Pages to Clean Markdown — Introducing Markdown Exporter for Confluence](https://dev.to/yamuno-software/export-confluence-pages-to-clean-markdown-introducing-markdown-exporter-for-confluence-36ke)
+- [FOMO as a Developer: You&#39;re Not Behind, You&#39;re Just Human](https://dev.to/nikola/fomo-as-a-developer-youre-not-behind-youre-just-human-1ggp)
+- [The Invisible Tax: How Engineers Are Building Multi-Cloud Mesh Fabrics to Escape the Egress Economy](https://dev.to/instatunnel/the-invisible-tax-how-engineers-are-building-multi-cloud-mesh-fabrics-to-escape-the-egress-economy-60p)
+- [7 GitHub Repos I&#39;d Actually Use to Find Free AI APIs and No-Cost AI Tools](https://dev.to/asynchronope/7-github-repos-id-actually-use-to-find-free-ai-apis-and-no-cost-ai-tools-31cn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
