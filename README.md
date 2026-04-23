@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building a Boggle solver: DFS meets the trie, and why naive recursion blows up](https://dev.to/dean_gilley/building-a-boggle-solver-dfs-meets-the-trie-and-why-naive-recursion-blows-up-590p)
-- [How Auto Transport Logistics Actually Works: A Technical Deep Dive](https://dev.to/ziva1/how-auto-transport-logistics-actually-works-a-technical-deep-dive-40f8)
-- [Crossword helper internals: regex vs trie for pattern matching](https://dev.to/dean_gilley/crossword-helper-internals-regex-vs-trie-for-pattern-matching-2k7m)
-- [How nylas calendar ai conflicts Works: Detect scheduling conflicts with AI analysis](https://dev.to/qasim157/how-nylas-calendar-ai-conflicts-works-detect-scheduling-conflicts-with-ai-analysis-3994)
-- [AI-powered meeting rescheduling with alternative suggestions with nylas calendar ai reschedule](https://dev.to/qasim157/ai-powered-meeting-rescheduling-with-alternative-suggestions-with-nylas-calendar-ai-reschedule-1acj)
+- [bisql &lpar;Clojure Data Access Library&rpar; released v0.4.0: Support Malli Validation](https://dev.to/conpoi/bisql-clojure-data-access-library-released-v040-support-malli-validation-1o0o)
+- [Agent2Agent Protocol, IBM Vault, &amp; OAuth 2.0 On-Behalf-Of](https://dev.to/joatmon08/agent2agent-protocol-ibm-vault-oauth-20-on-behalf-of-1hba)
+- [The Sweet Lure of Prediction Arb: How I Tried to Speedrun a Rust Monitor &lpar;and Fried My Brain&rpar;](https://dev.to/solchekers/the-sweet-lure-of-prediction-arb-how-i-tried-to-speedrun-a-rust-monitor-and-fried-my-brain-37e0)
+- [5 Frontier Models Compared](https://dev.to/speedy_devv/5-frontier-models-compared-3mgb)
+- [AI Tweet Scheduler](https://dev.to/macraemyintminhein98/ai-tweet-scheduler-f8m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
