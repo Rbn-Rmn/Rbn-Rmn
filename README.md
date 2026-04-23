@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Finding a Practical Analytics Format for Structured JSON Logs](https://dev.to/vearutop/finding-a-practical-analytics-format-for-structured-json-logs-32l1)
-- [Working with JSON in Python Explained Simply](https://dev.to/shahrouzlogs/working-with-json-in-python-explained-simply-o3d)
-- [Why I Stopped Using LangGraph](https://dev.to/deadlocker/why-i-stopped-using-langgraph-4jo2)
-- [If your refresh token gets stolen, rotation alone won&#39;t save you — here&#39;s what does](https://dev.to/kiwidevelopment/if-your-refresh-token-gets-stolen-rotation-alone-wont-save-you-heres-what-does-1f7n)
-- [Claude&#39;s Law](https://dev.to/solidi/claudes-law-1da7)
+- [Building a Boggle solver: DFS meets the trie, and why naive recursion blows up](https://dev.to/dean_gilley/building-a-boggle-solver-dfs-meets-the-trie-and-why-naive-recursion-blows-up-590p)
+- [How Auto Transport Logistics Actually Works: A Technical Deep Dive](https://dev.to/ziva1/how-auto-transport-logistics-actually-works-a-technical-deep-dive-40f8)
+- [Crossword helper internals: regex vs trie for pattern matching](https://dev.to/dean_gilley/crossword-helper-internals-regex-vs-trie-for-pattern-matching-2k7m)
+- [How nylas calendar ai conflicts Works: Detect scheduling conflicts with AI analysis](https://dev.to/qasim157/how-nylas-calendar-ai-conflicts-works-detect-scheduling-conflicts-with-ai-analysis-3994)
+- [AI-powered meeting rescheduling with alternative suggestions with nylas calendar ai reschedule](https://dev.to/qasim157/ai-powered-meeting-rescheduling-with-alternative-suggestions-with-nylas-calendar-ai-reschedule-1acj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
