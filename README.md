@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [bisql &lpar;Clojure Data Access Library&rpar; released v0.4.0: Support Malli Validation](https://dev.to/conpoi/bisql-clojure-data-access-library-released-v040-support-malli-validation-1o0o)
-- [Agent2Agent Protocol, IBM Vault, &amp; OAuth 2.0 On-Behalf-Of](https://dev.to/joatmon08/agent2agent-protocol-ibm-vault-oauth-20-on-behalf-of-1hba)
-- [The Sweet Lure of Prediction Arb: How I Tried to Speedrun a Rust Monitor &lpar;and Fried My Brain&rpar;](https://dev.to/solchekers/the-sweet-lure-of-prediction-arb-how-i-tried-to-speedrun-a-rust-monitor-and-fried-my-brain-37e0)
-- [5 Frontier Models Compared](https://dev.to/speedy_devv/5-frontier-models-compared-3mgb)
-- [AI Tweet Scheduler](https://dev.to/macraemyintminhein98/ai-tweet-scheduler-f8m)
+- [Using AI to Build Your Year-End Performance Case](https://dev.to/9thquadrant/using-ai-to-build-your-year-end-performance-case-26kj)
+- [LLM OCR Benchmarks, Claude Code Context Issues, &amp; Cloud GPU Pricing Tool](https://dev.to/soytuber/llm-ocr-benchmarks-claude-code-context-issues-cloud-gpu-pricing-tool-4d2g)
+- [How to Actually Use AI Coding Agents — 6 Skill-Specific Tips](https://dev.to/erratahunter/how-to-actually-use-ai-coding-agents-6-skill-specific-tips-4ohe)
+- [Remote Server Monitoring over VPN: A Docker Approach &lpar;Part 2&rpar;](https://dev.to/inzheneher/remote-server-monitoring-over-vpn-a-docker-approach-part-2-2dli)
+- [Full Attendance, Zero Presence](https://dev.to/svasylenko/full-attendance-zero-presence-fhp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
