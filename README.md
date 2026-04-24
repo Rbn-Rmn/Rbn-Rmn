@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Servo Installation Twitches Before It Starts](https://dev.to/_0c004e5fde78250aee362/why-your-servo-installation-twitches-before-it-starts-4e7k)
-- [Less human AI agents, please](https://dev.to/bansac1981/less-human-ai-agents-please-590l)
-- [¿Cuándo esta terminado?](https://dev.to/jagj77/cuando-esta-terminado-49ml)
-- [My Journey as a CS Student Learning Web Development 🚀 | First Steps in Coding](https://dev.to/prinjal_kumari/my-journey-as-a-cs-student-learning-web-development-first-steps-in-coding-1m37)
-- [Provide storage for the IT department testing and training](https://dev.to/forsyth_famous_/provide-storage-for-the-it-department-testing-and-training-4i1p)
+- [Letters of Marque for AI Agents: The 600-Year Authorization Architecture You&#39;re Reinventing](https://dev.to/vibeagentmaking/letters-of-marque-for-ai-agents-the-600-year-authorization-architecture-youre-reinventing-2je)
+- [Scaling WebSockets to 100k Connections: Lessons from a Real-Time Cricket App](https://dev.to/ujjawal_tyagi_c5a84255da4/scaling-websockets-to-100k-connections-lessons-from-a-real-time-cricket-app-3f6n)
+- [AI SRE: The Complete Guide for Engineering Teams in 2026](https://dev.to/siddharth_singh_409bd5267/ai-sre-the-complete-guide-for-engineering-teams-in-2026-51ba)
+- [Claude Code Regression Shows the Real Risk is the Wrapper](https://dev.to/simon_paxton/claude-code-regression-shows-the-real-risk-is-the-wrapper-4mga)
+- [Supply Chain &amp; AI Security: Bitwarden CLI Compromise, AI Sandbox Escapes, GitHub Actions Hardening](https://dev.to/soytuber/supply-chain-ai-security-bitwarden-cli-compromise-ai-sandbox-escapes-github-actions-hardening-185a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
