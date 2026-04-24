@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring Airflow Pipelines: From PythonOperator to TaskFlow](https://dev.to/anthony-gicheru/refactoring-airflow-pipelines-from-pythonoperator-to-taskflow-25mk)
-- [A simple graph &amp; chart maker I built using Chart.js and D3.js](https://dev.to/ppm_91/a-simple-graph-chart-maker-i-built-using-chartjs-and-d3js-3hmd)
-- [Building a Gacha Tower Defense in Cocos Creator: Wave System, Merge Logic, and 28 Enemy Types](https://dev.to/imagebear/building-a-gacha-tower-defense-in-cocos-creator-wave-system-merge-logic-and-28-enemy-types-4hl5)
-- [Day 81 of #100DaysOfCode — Flask Forms](https://dev.to/m_saad_ahmad/day-80-of-100daysofcode-flask-forms-301b)
-- [I&#39;m Running Gemini as an Autonomous Coding Agent. Here&#39;s What It Can&#39;t Do and Which NEXT &#39;26 Announcements Would Fix It.](https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2)
+- [A $0.25 model beat a $3 model -- with better context](https://dev.to/kenimo49/a-025-model-beat-a-3-model-with-better-context-4c1e)
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-8ep)
+- [Git worktree: the stash replacement nobody teaches you](https://dev.to/mdenda/git-worktree-the-stash-replacement-nobody-teaches-you-5akd)
+- [Goroutines To OS Threads: The 73% Latency Drop We Measured By Promoting Work](https://dev.to/speed_engineer/goroutines-to-os-threads-the-73-latency-drop-we-measured-by-promoting-work-46k9)
+- [What Happens When You Call a Smart Contract? A Visual Guide](https://dev.to/pavelespitia/what-happens-when-you-call-a-smart-contract-a-visual-guide-1j8f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
