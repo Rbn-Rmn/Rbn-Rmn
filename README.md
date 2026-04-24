@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Stop reading AI papers. I built a free interactive playground to learn Agentic AI by building it. 🛠️](https://dev.to/rohan_ghosh_be74b4d10e263/stop-reading-ai-papers-i-built-a-free-interactive-playground-to-learn-agentic-ai-by-building-it-1c07)
-- [I Built a Persistent AI Assistant That Runs on My Mac](https://dev.to/toddsullivan/i-built-a-persistent-ai-assistant-that-runs-on-my-mac-44n)
-- [Claude Code Debugging Workflow: How I Diagnose and Fix Production Issues 3x Faster](https://dev.to/nextools/claude-code-debugging-workflow-how-i-diagnose-and-fix-production-issues-3x-faster-2l11)
-- [How to Add a Stateful Trust Boundary to a LangChain Agent with Omega Walls](https://dev.to/anviren/how-to-add-a-stateful-trust-boundary-to-a-langchain-agent-with-omega-walls-29pa)
-- [DeepSeek Just Dropped V4. Here&#39;s What the Benchmarks Actually Tell You.](https://dev.to/om_shree_0709/deepseek-just-dropped-v4-heres-what-the-benchmarks-actually-tell-you-1oae)
+- [Refactoring Airflow Pipelines: From PythonOperator to TaskFlow](https://dev.to/anthony-gicheru/refactoring-airflow-pipelines-from-pythonoperator-to-taskflow-25mk)
+- [A simple graph &amp; chart maker I built using Chart.js and D3.js](https://dev.to/ppm_91/a-simple-graph-chart-maker-i-built-using-chartjs-and-d3js-3hmd)
+- [Building a Gacha Tower Defense in Cocos Creator: Wave System, Merge Logic, and 28 Enemy Types](https://dev.to/imagebear/building-a-gacha-tower-defense-in-cocos-creator-wave-system-merge-logic-and-28-enemy-types-4hl5)
+- [Day 81 of #100DaysOfCode — Flask Forms](https://dev.to/m_saad_ahmad/day-80-of-100daysofcode-flask-forms-301b)
+- [I&#39;m Running Gemini as an Autonomous Coding Agent. Here&#39;s What It Can&#39;t Do and Which NEXT &#39;26 Announcements Would Fix It.](https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
