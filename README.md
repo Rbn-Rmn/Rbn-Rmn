@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Statistics Basics: Mean, Median, Variance](https://dev.to/yakhilesh/statistics-basics-mean-median-variance-1j0n)
-- [akm 0.5.0: Wikis, Workflows, Vaults, and a Writable Stash](https://dev.to/itlackey/akm-050-wikis-workflows-vaults-and-a-writable-stash-cap)
-- [Making Python CLIs Simple Again with Klix](https://dev.to/arjun-m/making-python-clis-simple-again-with-klix-3e41)
-- [My personal journey learning about prompt-injections and how that influences my use of AI &lpar;agents&rpar;](https://dev.to/jankaritech/my-personal-journey-learning-about-prompt-injections-and-how-that-influences-my-use-of-ai-agents-4pa7)
-- [Building a Harness: From Prototype to Production](https://dev.to/eleonorarocchi/building-a-harness-from-prototype-to-production-o30)
+- [The 80% You Don’t See: What Tracking My Work Taught Me](https://dev.to/lazydoomslayer/the-80-you-dont-see-what-tracking-my-work-taught-me-260k)
+- [I Lost a 3-Hour Debugging Session With Claude. So I Built a Fix.](https://dev.to/backrun/i-lost-a-3-hour-debugging-session-with-claude-so-i-built-a-fix-3cje)
+- [Empowering Autonomous AI Agents through Dynamic Tool Creation](https://dev.to/gde/empowering-autonomous-ai-agents-through-dynamic-tool-creation-3pfm)
+- [AI Got Hands: Breaking the Human Bottleneck in Agent Workflows](https://dev.to/mininglamp/ai-got-hands-breaking-the-human-bottleneck-in-agent-workflows-2b5o)
+- [AI for Personal: How Edge-Native Agents Bring Data Sovereignty Back to Your Device](https://dev.to/mininglamp/ai-for-personal-how-edge-native-agents-bring-data-sovereignty-back-to-your-device-5882)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
