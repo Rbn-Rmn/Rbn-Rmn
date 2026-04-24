@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The 80% You Don’t See: What Tracking My Work Taught Me](https://dev.to/lazydoomslayer/the-80-you-dont-see-what-tracking-my-work-taught-me-260k)
-- [I Lost a 3-Hour Debugging Session With Claude. So I Built a Fix.](https://dev.to/backrun/i-lost-a-3-hour-debugging-session-with-claude-so-i-built-a-fix-3cje)
-- [Empowering Autonomous AI Agents through Dynamic Tool Creation](https://dev.to/gde/empowering-autonomous-ai-agents-through-dynamic-tool-creation-3pfm)
-- [AI Got Hands: Breaking the Human Bottleneck in Agent Workflows](https://dev.to/mininglamp/ai-got-hands-breaking-the-human-bottleneck-in-agent-workflows-2b5o)
-- [AI for Personal: How Edge-Native Agents Bring Data Sovereignty Back to Your Device](https://dev.to/mininglamp/ai-for-personal-how-edge-native-agents-bring-data-sovereignty-back-to-your-device-5882)
+- [Stop reading AI papers. I built a free interactive playground to learn Agentic AI by building it. 🛠️](https://dev.to/rohan_ghosh_be74b4d10e263/stop-reading-ai-papers-i-built-a-free-interactive-playground-to-learn-agentic-ai-by-building-it-1c07)
+- [I Built a Persistent AI Assistant That Runs on My Mac](https://dev.to/toddsullivan/i-built-a-persistent-ai-assistant-that-runs-on-my-mac-44n)
+- [Claude Code Debugging Workflow: How I Diagnose and Fix Production Issues 3x Faster](https://dev.to/nextools/claude-code-debugging-workflow-how-i-diagnose-and-fix-production-issues-3x-faster-2l11)
+- [How to Add a Stateful Trust Boundary to a LangChain Agent with Omega Walls](https://dev.to/anviren/how-to-add-a-stateful-trust-boundary-to-a-langchain-agent-with-omega-walls-29pa)
+- [DeepSeek Just Dropped V4. Here&#39;s What the Benchmarks Actually Tell You.](https://dev.to/om_shree_0709/deepseek-just-dropped-v4-heres-what-the-benchmarks-actually-tell-you-1oae)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
