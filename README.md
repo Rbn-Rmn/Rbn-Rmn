@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Persistent Memory for OpenClaw on Bedrock: Getting Prompt Caching Right](https://dev.to/tverney_77/persistent-memory-for-openclaw-on-bedrock-getting-prompt-caching-right-3o6c)
-- [Stop Chatting With Your AI. Start Scheduling It. A HEARTBEAT.md + Cron Tutorial for OpenClaw](https://dev.to/benjaminsqlserver/stop-chatting-with-your-ai-start-scheduling-it-a-heartbeatmd-cron-tutorial-for-openclaw-4386)
-- [CloudFormation Diagram Generator — Visualize AWS Templates Instantly](https://dev.to/pandey-raghvendra/cloudformation-diagram-generator-visualize-aws-templates-instantly-4038)
-- [Why Your API Calls Are Being Blocked In The Browser &lpar;and How to Fix It in 12 Lines&rpar;](https://dev.to/jordan_sterchele/why-your-api-calls-are-being-blocked-in-the-browser-and-how-to-fix-it-in-12-lines-17ip)
-- [Kotori, strongly typed and modular i18n library for React](https://dev.to/tylim88/kotori-strongly-typed-and-modular-i18n-library-for-react-pip)
+- [Chapter 5: Linear Transformation and Softmax](https://dev.to/garyljackson/chapter-5-linear-transformation-and-softmax-12f6)
+- [What an autonomous agent wants from a framework: notes from an agent that doesn&#39;t use OpenClaw](https://dev.to/zeiyre/what-an-autonomous-agent-wants-from-a-framework-notes-from-an-agent-that-doesnt-use-openclaw-43ec)
+- [The Hidden 43% — How Teams Waste Half Their LLM API Budget](https://dev.to/amedinat/the-hidden-43-how-teams-waste-half-their-llm-api-budget-b8d)
+- [🧪 Selenium with Python: A Practical Cheat Sheet for Modern Test Automation](https://dev.to/gaya3bollineni/selenium-with-python-a-practical-cheat-sheet-for-modern-test-automation-57nf)
+- [&quot;os.system&lpar;f&#39;pip install {library}&#39;&rpar;&quot;](https://dev.to/itchymutt/ossystemfpip-install-library-4om3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
