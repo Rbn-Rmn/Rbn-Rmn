@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Letters of Marque for AI Agents: The 600-Year Authorization Architecture You&#39;re Reinventing](https://dev.to/vibeagentmaking/letters-of-marque-for-ai-agents-the-600-year-authorization-architecture-youre-reinventing-2je)
-- [Scaling WebSockets to 100k Connections: Lessons from a Real-Time Cricket App](https://dev.to/ujjawal_tyagi_c5a84255da4/scaling-websockets-to-100k-connections-lessons-from-a-real-time-cricket-app-3f6n)
-- [AI SRE: The Complete Guide for Engineering Teams in 2026](https://dev.to/siddharth_singh_409bd5267/ai-sre-the-complete-guide-for-engineering-teams-in-2026-51ba)
-- [Claude Code Regression Shows the Real Risk is the Wrapper](https://dev.to/simon_paxton/claude-code-regression-shows-the-real-risk-is-the-wrapper-4mga)
-- [Supply Chain &amp; AI Security: Bitwarden CLI Compromise, AI Sandbox Escapes, GitHub Actions Hardening](https://dev.to/soytuber/supply-chain-ai-security-bitwarden-cli-compromise-ai-sandbox-escapes-github-actions-hardening-185a)
+- [Persistent Memory for OpenClaw on Bedrock: Getting Prompt Caching Right](https://dev.to/tverney_77/persistent-memory-for-openclaw-on-bedrock-getting-prompt-caching-right-3o6c)
+- [Stop Chatting With Your AI. Start Scheduling It. A HEARTBEAT.md + Cron Tutorial for OpenClaw](https://dev.to/benjaminsqlserver/stop-chatting-with-your-ai-start-scheduling-it-a-heartbeatmd-cron-tutorial-for-openclaw-4386)
+- [CloudFormation Diagram Generator — Visualize AWS Templates Instantly](https://dev.to/pandey-raghvendra/cloudformation-diagram-generator-visualize-aws-templates-instantly-4038)
+- [Why Your API Calls Are Being Blocked In The Browser &lpar;and How to Fix It in 12 Lines&rpar;](https://dev.to/jordan_sterchele/why-your-api-calls-are-being-blocked-in-the-browser-and-how-to-fix-it-in-12-lines-17ip)
+- [Kotori, strongly typed and modular i18n library for React](https://dev.to/tylim88/kotori-strongly-typed-and-modular-i18n-library-for-react-pip)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
