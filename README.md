@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [A $0.25 model beat a $3 model -- with better context](https://dev.to/kenimo49/a-025-model-beat-a-3-model-with-better-context-4c1e)
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-8ep)
-- [Git worktree: the stash replacement nobody teaches you](https://dev.to/mdenda/git-worktree-the-stash-replacement-nobody-teaches-you-5akd)
-- [Goroutines To OS Threads: The 73% Latency Drop We Measured By Promoting Work](https://dev.to/speed_engineer/goroutines-to-os-threads-the-73-latency-drop-we-measured-by-promoting-work-46k9)
-- [What Happens When You Call a Smart Contract? A Visual Guide](https://dev.to/pavelespitia/what-happens-when-you-call-a-smart-contract-a-visual-guide-1j8f)
+- [Add Authentication and SSO to Your Flet App](https://dev.to/descope/add-authentication-and-sso-to-your-flet-app-543b)
+- [How I hardened my multi-agent AI support copilot](https://dev.to/eelcolos/how-i-hardened-my-multi-agent-ai-support-copilot-15p7)
+- [How I Built an Automated JS/TS Repository Analyzer in C#](https://dev.to/davidarno/how-i-built-an-automated-jsts-repository-analyzer-in-c-2oai)
+- [RFC 9880 and the IoT Validation Problem: From Standards Fragmentation to a Device-Model Compiler](https://dev.to/stefanofago73/rfc-9880-and-the-iot-validation-problem-from-standards-fragmentation-to-a-device-model-compiler-106)
+- [Harness bugs, not model bugs](https://dev.to/thegatewayguy/harness-bugs-not-model-bugs-1f4e)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
