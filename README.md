@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ yt_playlist_transcript: Download and combine transcripts from a YouTube playlist into a single](https://dev.to/goldenalien/ytplaylisttranscript-download-and-combine-transcripts-from-a-youtube-playlist-into-a-single-9jp)
-- [I built a validated alternative to CLAUDE.md/AGENTS.MD — meet GUIDE.md](https://dev.to/prism_team_remyr/i-built-a-validated-alternative-to-claudemdagentsmd-meet-guidemd-5hmc)
-- [n8n vs Zapier vs Make: Which Automation Tool Should You Actually Use in 2026?](https://dev.to/tariq_osmani/n8n-vs-zapier-vs-make-which-automation-tool-should-you-actually-use-in-2026-531i)
-- [I Made My WhatsApp Predict When My Electricity Will Run Out with Openclaw](https://dev.to/lewisawe/i-made-my-whatsapp-predict-when-my-electricity-will-run-out-with-openclaw-48eh)
-- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-582k)
+- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-12dk)
+- [How Website Technology Detection Actually Works](https://dev.to/webreveal/how-website-technology-detection-actually-works-56je)
+- [What is jQuery Really? A Look Under the Hood](https://dev.to/gmcjr/what-is-jquery-really-a-look-under-the-hood-2h0l)
+- [Building the First Anti-Fragile University: Introducing ACLAS Neuro-Edu SDK v3.0 🚀](https://dev.to/aclas_college/building-the-first-anti-fragile-university-introducing-aclas-neuro-edu-sdk-v30-2j5i)
+- [Stop Burning Tokens &lpar;and Brain Cells&rpar;: A CLI Pomodoro Timer for Focused Coding](https://dev.to/dnim/stop-burning-tokens-and-brain-cells-a-cli-pomodoro-timer-for-focused-coding-3edd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
