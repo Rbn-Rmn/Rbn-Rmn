@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Three Gaps, One Platform](https://dev.to/kadetr/three-gaps-one-platform-3pp6)
-- [Hello i am amine , a newbie python dev ,hope your doing well](https://dev.to/amine2arpy/hello-i-am-amine-a-newbie-python-dev-hope-your-doing-well-3gi9)
-- [Scan MCP Servers for OWASP Vulnerabilities From Inside Claude. Here&#39;s How.](https://dev.to/razashariff/scan-mcp-servers-for-owasp-vulnerabilities-from-inside-claude-heres-how-59mb)
-- [I thought setting up a UK company was the hard part… I was wrong](https://dev.to/lyatif_ahmedredzheb_406b/i-thought-setting-up-a-uk-company-was-the-hard-part-i-was-wrong-3o72)
-- [Saying &quot;No&quot; Is the Hardest Thing for an LLM — FCoP Gives It Grammar](https://dev.to/joinwell52/saying-no-is-the-hardest-thing-for-an-llm-fcop-gives-it-grammar-3ccd)
+- [⚡ Advanced Path Aliases in Vite — Stop Writing ../../ Forever](https://dev.to/prabhanshtiwari/advanced-path-aliases-in-vite-stop-writing-forever-2855)
+- [Silicon Valley Builds for One Time Zone. I Built My Own Way In.](https://dev.to/jaayy213/silicon-valley-builds-for-one-time-zone-i-built-my-own-way-in-3a7l)
+- [Is AI Changing the Future of Developers? &lpar;Spoiler: It’s Not the End It’s the Upgrade&rpar;](https://dev.to/kashafabdullah/is-ai-changing-the-future-of-developers-spoiler-its-not-the-end-its-the-upgrade-809)
+- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-jk0)
+- [InversifyJS + OpenAPI: One Schema to Validate Them All](https://dev.to/notaphplover/stop-maintaining-two-schemas-let-your-openapi-spec-validate-your-requests-egi)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
