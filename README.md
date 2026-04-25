@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Best Transactional Email Provider: How to Choose](https://dev.to/juan_diegoisazaa_5362a/best-transactional-email-provider-how-to-choose-3749)
-- [AeroCraft: Less CSS, Faster UI Delivery](https://dev.to/john_yaghobieh_8f294091f6/aerocraft-less-css-faster-ui-delivery-3043)
-- [Your Pipeline Is 14.2h Behind: Catching Blockchain Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-142h-behind-catching-blockchain-sentiment-leads-with-pulsebit-hll)
-- [From factory worker to 2,000+ installs - what actually worked](https://dev.to/mahere_marley_25462f7cf9e/from-factory-worker-to-2000-installs-what-actually-worked-4ng3)
-- [The AI Tool That Breached Vercel: A Case Study in Agent Trust Debt](https://dev.to/piiiico/the-ai-tool-that-breached-vercel-a-case-study-in-agent-trust-debt-19lg)
+- [Fairness in Child Safety AI: Why Demographic Parity Audits Are Not Optional](https://dev.to/sentinelsafety/fairness-in-child-safety-ai-why-demographic-parity-audits-are-not-optional-3iem)
+- [靠2M 的 Via 浏览器，独立开发者如何年入千万？](https://dev.to/gokuscraper/kao-2m-de-via-liu-lan-qi-du-li-kai-fa-zhe-ru-he-nian-ru-qian-mo--2pdm)
+- [The Abstraction of Cloud Engineering: How AI Agents Are Redefining Enterprise Architecture](https://dev.to/alifunk/the-abstraction-of-cloud-engineering-how-ai-agents-are-redefining-enterprise-architecture-5535)
+- [I stopped clicking in Discord. I just tell an AI what to do.](https://dev.to/ittology/i-stopped-clicking-in-discord-i-just-tell-an-ai-what-to-do-50i4)
+- [Cancelé Claude: medí el deterioro de calidad con mis propios benchmarks antes de irme](https://dev.to/jtorchia/cancele-claude-medi-el-deterioro-de-calidad-con-mis-propios-benchmarks-antes-de-irme-11ca)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
