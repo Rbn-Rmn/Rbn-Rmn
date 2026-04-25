@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-12dk)
-- [How Website Technology Detection Actually Works](https://dev.to/webreveal/how-website-technology-detection-actually-works-56je)
-- [What is jQuery Really? A Look Under the Hood](https://dev.to/gmcjr/what-is-jquery-really-a-look-under-the-hood-2h0l)
-- [Building the First Anti-Fragile University: Introducing ACLAS Neuro-Edu SDK v3.0 🚀](https://dev.to/aclas_college/building-the-first-anti-fragile-university-introducing-aclas-neuro-edu-sdk-v30-2j5i)
-- [Stop Burning Tokens &lpar;and Brain Cells&rpar;: A CLI Pomodoro Timer for Focused Coding](https://dev.to/dnim/stop-burning-tokens-and-brain-cells-a-cli-pomodoro-timer-for-focused-coding-3edd)
+- [Three Gaps, One Platform](https://dev.to/kadetr/three-gaps-one-platform-3pp6)
+- [Hello i am amine , a newbie python dev ,hope your doing well](https://dev.to/amine2arpy/hello-i-am-amine-a-newbie-python-dev-hope-your-doing-well-3gi9)
+- [Scan MCP Servers for OWASP Vulnerabilities From Inside Claude. Here&#39;s How.](https://dev.to/razashariff/scan-mcp-servers-for-owasp-vulnerabilities-from-inside-claude-heres-how-59mb)
+- [I thought setting up a UK company was the hard part… I was wrong](https://dev.to/lyatif_ahmedredzheb_406b/i-thought-setting-up-a-uk-company-was-the-hard-part-i-was-wrong-3o72)
+- [Saying &quot;No&quot; Is the Hardest Thing for an LLM — FCoP Gives It Grammar](https://dev.to/joinwell52/saying-no-is-the-hardest-thing-for-an-llm-fcop-gives-it-grammar-3ccd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
