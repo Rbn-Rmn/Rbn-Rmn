@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Fairness in Child Safety AI: Why Demographic Parity Audits Are Not Optional](https://dev.to/sentinelsafety/fairness-in-child-safety-ai-why-demographic-parity-audits-are-not-optional-3iem)
-- [靠2M 的 Via 浏览器，独立开发者如何年入千万？](https://dev.to/gokuscraper/kao-2m-de-via-liu-lan-qi-du-li-kai-fa-zhe-ru-he-nian-ru-qian-mo--2pdm)
-- [The Abstraction of Cloud Engineering: How AI Agents Are Redefining Enterprise Architecture](https://dev.to/alifunk/the-abstraction-of-cloud-engineering-how-ai-agents-are-redefining-enterprise-architecture-5535)
-- [I stopped clicking in Discord. I just tell an AI what to do.](https://dev.to/ittology/i-stopped-clicking-in-discord-i-just-tell-an-ai-what-to-do-50i4)
-- [Cancelé Claude: medí el deterioro de calidad con mis propios benchmarks antes de irme](https://dev.to/jtorchia/cancele-claude-medi-el-deterioro-de-calidad-con-mis-propios-benchmarks-antes-de-irme-11ca)
+- [OCR in the Browser: How Tesseract.js Makes PDF Text Extraction Free](https://dev.to/helloashish99/ocr-in-the-browser-how-tesseractjs-makes-pdf-text-extraction-free-5ab2)
+- [Spring Boot CRUD Generator v1.1.0 — JPA Relationships, Done Right](https://dev.to/karansahani78/spring-boot-crud-generator-v110-jpa-relationships-done-right-2cb)
+- [Best AI Writing Tool in 2026: A Practical Guide](https://dev.to/juan_diegoisazaa_5362a/best-ai-writing-tool-in-2026-a-practical-guide-4ib8)
+- [Shipping x402 USDC Payments to Base + Solana Mainnet for an MCP Server](https://dev.to/rascal3/shipping-x402-usdc-payments-to-base-solana-mainnet-for-an-mcp-server-3a6o)
+- [A reader comment made me realise I&#39;d only solved half the problem](https://dev.to/krissv/a-reader-comment-made-me-realise-id-only-solved-half-the-problem-3cpg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
