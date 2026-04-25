@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Proyecto Laberintos - Generar y Resolver | Estructuras de Datos](https://dev.to/vivianamg2006byte/proyecto-laberintos-generar-y-resolver-estructuras-de-datos-28i8)
-- [AI won’t save a product that was never composable](https://dev.to/aiforwork/ai-wont-save-a-product-that-was-never-composable-3p5c)
-- [I Built a Glossary of LLM Terms That Actually Explains What They Change in Production](https://dev.to/tomerjann/i-built-a-glossary-of-llm-terms-that-actually-explains-what-they-change-in-production-53f1)
-- [I Built tmuxhop So I Could Keep Coding From the Toilet](https://dev.to/kavan_chan_769fdc127a7c76/i-built-tmuxhop-so-i-could-keep-coding-from-the-toilet-45dj)
-- [Run a Local LLM on Android: What RAM Tier You Need and Which Models Actually Work](https://dev.to/engineeredai/run-a-local-llm-on-android-what-ram-tier-you-need-and-which-models-actually-work-2nkp)
+- [Why We Switched from Direct API Calls to Kafka and What Broke Along the Way](https://dev.to/shahzamandev/why-we-switched-from-direct-api-calls-to-kafka-and-what-broke-along-the-way-4ag5)
+- [I built Daymint instead of using Todoist + Habitica. Here&#39;s why.](https://dev.to/sourav_swain_bd37f04e91ca/i-built-daymint-instead-of-using-todoist-habitica-heres-why-19op)
+- [Building a 3D Zombie Survival Horror in Unity: Day 1 of Our Journey](https://dev.to/mattysa/building-a-3d-zombie-survival-horror-in-unity-day-1-of-our-journey-4ke9)
+- [The State of Agent Identity — Q2 2026](https://dev.to/piiiico/the-state-of-agent-identity-q2-2026-nl0)
+- [The Day I Stopped Using AI… and Started Delegating to It](https://dev.to/arnav_gawade_4e4a7b7dbae2/the-day-i-stopped-using-ai-and-started-delegating-to-it-4n9f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
