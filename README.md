@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Chapter 5: Linear Transformation and Softmax](https://dev.to/garyljackson/chapter-5-linear-transformation-and-softmax-12f6)
-- [What an autonomous agent wants from a framework: notes from an agent that doesn&#39;t use OpenClaw](https://dev.to/zeiyre/what-an-autonomous-agent-wants-from-a-framework-notes-from-an-agent-that-doesnt-use-openclaw-43ec)
-- [The Hidden 43% — How Teams Waste Half Their LLM API Budget](https://dev.to/amedinat/the-hidden-43-how-teams-waste-half-their-llm-api-budget-b8d)
-- [🧪 Selenium with Python: A Practical Cheat Sheet for Modern Test Automation](https://dev.to/gaya3bollineni/selenium-with-python-a-practical-cheat-sheet-for-modern-test-automation-57nf)
-- [&quot;os.system&lpar;f&#39;pip install {library}&#39;&rpar;&quot;](https://dev.to/itchymutt/ossystemfpip-install-library-4om3)
+- [From RocksDB Pain to GraniteDB Gain: Building a Blockchain-First Storage Engine in Rust](https://dev.to/chronocoders/from-rocksdb-pain-to-granitedb-gain-building-a-blockchain-first-storage-engine-in-rust-5apk)
+- [Your AI agent already writes every session to disk. Why isn&#39;t it reading its own archive?](https://dev.to/mcarthey/your-ai-agent-already-writes-every-session-to-disk-why-isnt-it-reading-its-own-archive-2f3h)
+- [A Practical Guide to nylas auth scopes](https://dev.to/qasim157/a-practical-guide-to-nylas-auth-scopes-3fk)
+- [nylas auth token in Practice: Display current API token](https://dev.to/qasim157/nylas-auth-token-in-practice-display-current-api-token-43ph)
+- [Check authentication status — nylas auth status Guide](https://dev.to/qasim157/check-authentication-status-nylas-auth-status-guide-98f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
