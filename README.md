@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building Recipe-Finder.org: A Full-Stack Journey with Vue, Express, MongoDB, and Vuetify 🍳](https://dev.to/johnrusu/building-recipe-finderorg-a-full-stack-journey-with-vue-express-mongodb-and-vuetify-2k57)
-- [The Future of Autonomous Innovation: Inside the Gemini Enterprise Agent Platform](https://dev.to/unni_mana_d760476b6a16eda/the-future-of-autonomous-innovation-inside-the-gemini-enterprise-agent-platform-5bn8)
-- [What if AI started in 2006?](https://dev.to/syedahmershah/what-if-ai-started-in-2006-8ig)
-- [From Netdata Inspiration to SaaS MVP: Server Monitoring with Bun + Claude Code Opus 4.6](https://dev.to/vitalii-nosov/from-netdata-inspiration-to-saas-mvp-server-monitoring-with-bun-claude-code-opus-46-4m66)
-- [The mid-level engineer is the real casualty of AI. Not the junior.](https://dev.to/adioof/the-mid-level-engineer-is-the-real-casualty-of-ai-not-the-junior-3oe1)
+- [🛠️ yt_playlist_transcript: Download and combine transcripts from a YouTube playlist into a single](https://dev.to/goldenalien/ytplaylisttranscript-download-and-combine-transcripts-from-a-youtube-playlist-into-a-single-9jp)
+- [I built a validated alternative to CLAUDE.md/AGENTS.MD — meet GUIDE.md](https://dev.to/prism_team_remyr/i-built-a-validated-alternative-to-claudemdagentsmd-meet-guidemd-5hmc)
+- [n8n vs Zapier vs Make: Which Automation Tool Should You Actually Use in 2026?](https://dev.to/tariq_osmani/n8n-vs-zapier-vs-make-which-automation-tool-should-you-actually-use-in-2026-531i)
+- [I Made My WhatsApp Predict When My Electricity Will Run Out with Openclaw](https://dev.to/lewisawe/i-made-my-whatsapp-predict-when-my-electricity-will-run-out-with-openclaw-48eh)
+- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-582k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
