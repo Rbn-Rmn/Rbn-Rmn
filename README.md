@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why We Switched from Direct API Calls to Kafka and What Broke Along the Way](https://dev.to/shahzamandev/why-we-switched-from-direct-api-calls-to-kafka-and-what-broke-along-the-way-4ag5)
-- [I built Daymint instead of using Todoist + Habitica. Here&#39;s why.](https://dev.to/sourav_swain_bd37f04e91ca/i-built-daymint-instead-of-using-todoist-habitica-heres-why-19op)
-- [Building a 3D Zombie Survival Horror in Unity: Day 1 of Our Journey](https://dev.to/mattysa/building-a-3d-zombie-survival-horror-in-unity-day-1-of-our-journey-4ke9)
-- [The State of Agent Identity — Q2 2026](https://dev.to/piiiico/the-state-of-agent-identity-q2-2026-nl0)
-- [The Day I Stopped Using AI… and Started Delegating to It](https://dev.to/arnav_gawade_4e4a7b7dbae2/the-day-i-stopped-using-ai-and-started-delegating-to-it-4n9f)
+- [&quot;How I Built My First Android App With No Coding Experience and a Lot of Sleepless Nights&quot;](https://dev.to/fredrick_miracho_499b706d/how-i-built-my-first-android-app-with-no-coding-experience-and-a-lot-of-sleepless-nights-400j)
+- [📘 Spec Kit vs. Superpowers ⚡ — A Comprehensive Comparison &amp; Practical Guide to Combining Both 🚀](https://dev.to/truongpx396/spec-kit-vs-superpowers-a-comprehensive-comparison-practical-guide-to-combining-both-52jj)
+- [How to build an website by using the Node.js](https://dev.to/gaurav_kamble_d3ecdbc36d2/how-to-build-an-website-by-using-the-nodejs-2ada)
+- [DeepSeek V4 核爆之后：开源 AI 真的在颠覆市场，还是只是泡沫？](https://dev.to/_cbd692d476c5faf3b61bcf/deepseek-v4-he-bao-zhi-hou-kai-yuan-ai-zhen-de-zai-dian-fu-shi-chang-huan-shi-zhi-shi-pao-mo--l4n)
+- [Google Cloud NEXT &#39;26: A FULL STACK Developer’s Take on Cloud Run &amp; AI](https://dev.to/syedahmershah/google-cloud-next-26-a-full-stack-developers-take-on-cloud-run-ai-37fl)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
