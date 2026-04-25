@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [🚀 I Built a Complete Finance SaaS Dashboard UI &lpar;So You Don’t Have To&rpar;](https://dev.to/adnen_benyahia_a9cc0d0bb/i-built-a-complete-finance-saas-dashboard-ui-so-you-dont-have-to-1645)
-- [AI Resume Builder: How to Ship Better CVs Faster](https://dev.to/juan_diegoisazaa_5362a/ai-resume-builder-how-to-ship-better-cvs-faster-568e)
-- [Why I Replaced lsof with a Rust-Based &quot;Sniper&quot; Button](https://dev.to/codemaverick143/why-i-replaced-lsof-with-a-rust-based-sniper-button-5874)
-- [Giải mã kiến trúc phân phối Media của Pinterest: Xây dựng Engine trích xuất hiệu suất cao với Async I/O và FFmpeg](https://dev.to/yqqwe/giai-ma-kien-truc-phan-phoi-media-cua-pinterest-xay-dung-engine-trich-xuat-hieu-suat-cao-voi-async-3jig)
-- [Desmontando el Stack de Medios de Pinterest: Construyendo un Motor de Extracción Asíncrono de Alto Rendimiento](https://dev.to/yqqwe/desmontando-el-stack-de-medios-de-pinterest-construyendo-un-motor-de-extraccion-asincrono-de-alto-5470)
+- [Introducing Xim Remote: The Ultimate Free, Open-Source Alternative to AirDroid](https://dev.to/surya124/introducing-xim-remote-the-ultimate-free-open-source-alternative-to-airdroid-569o)
+- [How Blade&#39;s @context directive broke our JSON-LD](https://dev.to/gaijinanime_a0c580c5a205f/how-blades-context-directive-broke-our-json-ld-2976)
+- [AI Browser Automation Without BrowserBase: What We Built Instead](https://dev.to/refaatalktifan/ai-browser-automation-without-browserbase-what-we-built-instead-34p)
+- [Meet Velocmd: The Lightning Fast Command Palette Windows Always Needed](https://dev.to/yashvardhang/meet-velocmd-the-lightning-fast-command-palette-windows-always-needed-1cb8)
+- [MCP + gRPC: The Missing Piece for Production-Ready AI Agents &lpar;No More JSON Pain!&rpar;](https://dev.to/akshitzatakia/mcp-grpc-the-missing-piece-for-production-ready-ai-agents-no-more-json-pain-4gah)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
