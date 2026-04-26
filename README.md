@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Next.js, Vercel, Supabase monoculture is one CVE away from disaster](https://dev.to/adioof/the-nextjs-vercel-supabase-monoculture-is-one-cve-away-from-disaster-3ije)
-- [Template Literals in JavaScript](https://dev.to/satyasootar/template-literals-in-javascript-3c3p)
-- [Array Flatten in JavaScript](https://dev.to/satyasootar/array-flatten-in-javascript-12nk)
-- [I built a manifest standard for agent-callable CLI tools – 93.6% routing accuracy, zero fine-tuning](https://dev.to/jimmy660538/i-built-a-manifest-standard-for-agent-callable-cli-tools-936-routing-accuracy-zero-fine-tuning-56h6)
-- [How We Built CropGuard AI — Plant Disease Detection with Django, MongoDB Atlas and Deep Learning](https://dev.to/aakarsh_chimmani/how-we-built-cropguard-ai-plant-disease-detection-with-django-mongodb-atlas-and-deep-learning-1l2d)
+- [Top Free AI Tools That Boost Developer Productivity in 2026](https://dev.to/orbit_websites_b004ed2787/top-free-ai-tools-that-boost-developer-productivity-in-2026-4j6n)
+- [Officially Introducing: The Google AI and Google Cloud Run Badges](https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9)
+- [HuntOS: The Autonomous Enterprise Sentinel — A Production-Grade Agentic Swarm on the Next &#39;26 Stack](https://dev.to/kheai/huntos-the-autonomous-enterprise-sentinel-a-production-grade-agentic-swarm-on-the-next-26-stack-5h7)
+- [angling text fill](https://dev.to/preetha_vaishnavi_2b82358/angling-text-fill-3ej6)
+- [JWT Auth Middleware in Axum 0.8 — A Beginner&#39;s Guide](https://dev.to/syeedmdtalha/jwt-auth-middleware-in-axum-08-a-beginners-guide-2kc1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
