@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Top Free AI Tools That Boost Developer Productivity in 2026](https://dev.to/orbit_websites_b004ed2787/top-free-ai-tools-that-boost-developer-productivity-in-2026-4j6n)
-- [Officially Introducing: The Google AI and Google Cloud Run Badges](https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9)
-- [HuntOS: The Autonomous Enterprise Sentinel — A Production-Grade Agentic Swarm on the Next &#39;26 Stack](https://dev.to/kheai/huntos-the-autonomous-enterprise-sentinel-a-production-grade-agentic-swarm-on-the-next-26-stack-5h7)
-- [angling text fill](https://dev.to/preetha_vaishnavi_2b82358/angling-text-fill-3ej6)
-- [JWT Auth Middleware in Axum 0.8 — A Beginner&#39;s Guide](https://dev.to/syeedmdtalha/jwt-auth-middleware-in-axum-08-a-beginners-guide-2kc1)
+- [What 9,830 Claude conversations reveal about your own habits](https://dev.to/palo_alto_ai/what-9830-claude-conversations-reveal-about-your-own-habits-b0d)
+- [Securely Deploying OpenClaw on a VPS With Enterprise Grade Access Control](https://dev.to/dean0x/securely-deploying-openclaw-on-a-vps-with-enterprise-grade-access-control-32ji)
+- [Godel&#39;s Dichotomy as Lifecycle Disjunction: A Statement-Distributive Reframing &lpar;Paper 138&rpar;](https://dev.to/fc0web/godels-dichotomy-as-lifecycle-disjunction-a-statement-distributive-reframing-paper-138-b13)
+- [Agentic Testing Has a Discovery Gap Nobody Talks About](https://dev.to/muggleai/agentic-testing-has-a-discovery-gap-nobody-talks-about-3a9b)
+- [🦞 I Built a Safe Autonomous Email Agent with OpenClaw and It Actually Works](https://dev.to/samir_vaniya_ce9cc284f2f8/i-built-a-safe-autonomous-email-agent-with-openclaw-and-it-actually-works-1kmh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
