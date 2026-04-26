@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Grant Writer&#39;s AI Guardian: Avoiding Pitfalls Through Governance](https://dev.to/ken_deng_ai/the-grant-writers-ai-guardian-avoiding-pitfalls-through-governance-53ln)
-- [Zero Budget SPA Prerendering: Cloudflare Workers, Puppeteer &amp; KV Storage](https://dev.to/raakesh_kripal_6233a79fd0/zero-budget-spa-prerendering-cloudflare-workers-puppeteer-kv-storage-2f11)
-- [Generate SEO Meta Tags for Any URL with One API Call](https://dev.to/mkiradani/generate-seo-meta-tags-for-any-url-with-one-api-call-2fag)
-- [Debugging Docker-Compose Configurations: Solving Common Issues Like a Pro](https://dev.to/kkmurthy/debugging-docker-compose-configurations-solving-common-issues-like-a-pro-5ceh)
-- [Building ASSISTLY: Integrating MongoDB into an AI Community Care Platform](https://dev.to/saimanoharigodavarty/building-assistly-integrating-mongodb-into-an-ai-community-care-platform-3ebi)
+- [Multi-Tenant Audit Logging: The Architecture Mistakes We Made](https://dev.to/robertatkinson3570/multi-tenant-audit-logging-the-architecture-mistakes-we-made-3m8f)
+- [How I Built a Real-Time Crypto Arbitrage Dashboard with FastAPI &amp; WebSockets](https://dev.to/bozgunber2506/how-i-built-a-real-time-crypto-arbitrage-dashboard-with-fastapi-websockets-20e)
+- [Coding Agents Don&#39;t Understand Your Codebase. Here&#39;s What They Actually Do.](https://dev.to/stavkamil_73/coding-agents-dont-understand-your-codebase-heres-what-they-actually-do-12g2)
+- [From Vertex AI to Agent Platform: Why Google&#39;s Rebrand Is Actually a Philosophical Shift](https://dev.to/makendrang/from-vertex-ai-to-agent-platform-why-googles-rebrand-is-actually-a-philosophical-shift-17in)
+- [I Let Claude Choose My Tech Stack for 6 Months. Here’s What I Learned the Hard Way.](https://dev.to/manasscodes/i-let-claude-choose-my-tech-stack-for-6-months-heres-what-i-learned-the-hard-way-5049)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
