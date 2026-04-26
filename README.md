@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Dominando o Claude Code: O Guia Definitivo Passo a Passo &lpar;com Exemplos Práticos&rpar;](https://dev.to/emersondelatorre/dominando-o-claude-code-o-guia-definitivo-passo-a-passo-com-exemplos-praticos-3l25)
-- [Identity in Solana](https://dev.to/smsonline/identity-in-solana-20e)
-- [Java Reflection API: Inspect &amp; Manipulate Code at Runtime](https://dev.to/bingulhan/java-reflection-api-inspect-manipulate-code-at-runtime-4k08)
-- [Understanding Transformers Part 14: Calculating Encoder–Decoder Attention](https://dev.to/rijultp/understanding-transformers-part-14-calculating-encoder-decoder-attention-2hjl)
-- [Build a Type-Safe Product Catalog API...](https://dev.to/pr1t3/build-a-type-safe-product-catalog-api-with-express-cosmoose-and-azure-cosmos-db-48ke)
+- [Persistent JWT Signing Keys with PostgreSQL](https://dev.to/shygyver/persistent-jwt-signing-keys-with-postgresql-1ef6)
+- [I built Monk Mode because blockers kept breaking my workflow](https://dev.to/johns23424234324234/i-built-monk-mode-because-blockers-kept-breaking-my-workflow-1j60)
+- [Mastering Array Flattening in JavaScript: From Nested Chaos to Clean Lists](https://dev.to/ritam369/mastering-array-flattening-in-javascript-594k)
+- [Mastering React useEffect: An AI Agent Skill for Idiomatic Side Effects](https://dev.to/theoklitosbam7/mastering-react-useeffect-an-ai-agent-skill-for-idiomatic-side-effects-27l7)
+- [The browser-agent control plane: scope, audit, handoff, rollback](https://dev.to/eliofbm/the-browser-agent-control-plane-scope-audit-handoff-rollback-1n33)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
