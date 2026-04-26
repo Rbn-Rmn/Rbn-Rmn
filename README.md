@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Tenant Audit Logging: The Architecture Mistakes We Made](https://dev.to/robertatkinson3570/multi-tenant-audit-logging-the-architecture-mistakes-we-made-3m8f)
-- [How I Built a Real-Time Crypto Arbitrage Dashboard with FastAPI &amp; WebSockets](https://dev.to/bozgunber2506/how-i-built-a-real-time-crypto-arbitrage-dashboard-with-fastapi-websockets-20e)
-- [Coding Agents Don&#39;t Understand Your Codebase. Here&#39;s What They Actually Do.](https://dev.to/stavkamil_73/coding-agents-dont-understand-your-codebase-heres-what-they-actually-do-12g2)
-- [From Vertex AI to Agent Platform: Why Google&#39;s Rebrand Is Actually a Philosophical Shift](https://dev.to/makendrang/from-vertex-ai-to-agent-platform-why-googles-rebrand-is-actually-a-philosophical-shift-17in)
-- [I Let Claude Choose My Tech Stack for 6 Months. Here’s What I Learned the Hard Way.](https://dev.to/manasscodes/i-let-claude-choose-my-tech-stack-for-6-months-heres-what-i-learned-the-hard-way-5049)
+- [Beyond New and Delete: Engineering Approach with gsl::owner, std::span and clang-tidy](https://dev.to/legacycpp/beyond-new-and-delete-engineering-approach-with-gslowner-stdspan-and-clang-tidy-27ob)
+- [Vertex AI Is Dead. Meet the Gemini Enterprise Agent Platform.](https://dev.to/rusilkoirala/googles-gemini-enterprise-agent-platform-heres-why-developers-should-care-36ee)
+- [Fixing My Laptop by Contributing to the Linux Kernel](https://dev.to/hridesh_mg/fixing-my-laptop-by-contributing-to-the-linux-kernel-232f)
+- [Apex GitHub Digest](https://dev.to/macraemyintminhein98/apex-github-digest-3f3h)
+- [Exploring Web3 and How Solana Handles Identity](https://dev.to/akeempalmer/exploring-web3-and-how-solana-handles-identity-468f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
