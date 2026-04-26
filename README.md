@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What 9,830 Claude conversations reveal about your own habits](https://dev.to/palo_alto_ai/what-9830-claude-conversations-reveal-about-your-own-habits-b0d)
-- [Securely Deploying OpenClaw on a VPS With Enterprise Grade Access Control](https://dev.to/dean0x/securely-deploying-openclaw-on-a-vps-with-enterprise-grade-access-control-32ji)
-- [Godel&#39;s Dichotomy as Lifecycle Disjunction: A Statement-Distributive Reframing &lpar;Paper 138&rpar;](https://dev.to/fc0web/godels-dichotomy-as-lifecycle-disjunction-a-statement-distributive-reframing-paper-138-b13)
-- [Agentic Testing Has a Discovery Gap Nobody Talks About](https://dev.to/muggleai/agentic-testing-has-a-discovery-gap-nobody-talks-about-3a9b)
-- [🦞 I Built a Safe Autonomous Email Agent with OpenClaw and It Actually Works](https://dev.to/samir_vaniya_ce9cc284f2f8/i-built-a-safe-autonomous-email-agent-with-openclaw-and-it-actually-works-1kmh)
+- [Dominando o Claude Code: O Guia Definitivo Passo a Passo &lpar;com Exemplos Práticos&rpar;](https://dev.to/emersondelatorre/dominando-o-claude-code-o-guia-definitivo-passo-a-passo-com-exemplos-praticos-3l25)
+- [Identity in Solana](https://dev.to/smsonline/identity-in-solana-20e)
+- [Java Reflection API: Inspect &amp; Manipulate Code at Runtime](https://dev.to/bingulhan/java-reflection-api-inspect-manipulate-code-at-runtime-4k08)
+- [Understanding Transformers Part 14: Calculating Encoder–Decoder Attention](https://dev.to/rijultp/understanding-transformers-part-14-calculating-encoder-decoder-attention-2hjl)
+- [Build a Type-Safe Product Catalog API...](https://dev.to/pr1t3/build-a-type-safe-product-catalog-api-with-express-cosmoose-and-azure-cosmos-db-48ke)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
