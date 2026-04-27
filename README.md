@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [SQLite Verification, pg_savior, &amp; PostgreSQL Restore Strategies](https://dev.to/soytuber/sqlite-verification-pgsavior-postgresql-restore-strategies-31mk)
-- [Flux - the new programming language is built for speed, easy to read, and familiar.](https://dev.to/kvthweatt/flux-the-new-programming-language-built-for-speed-easy-to-read-and-familiar-378p)
-- [How I Built a 3D Interactive Portfolio with React, Three.js, and Cloudflare Workers](https://dev.to/kgautam/how-i-built-a-3d-interactive-portfolio-with-react-threejs-and-cloudflare-workers-3f9m)
-- [What is Cursor AI’s business model? Asking for a friend.](https://dev.to/andreik/what-is-cursor-ais-business-model-asking-for-a-friend-1jdj)
-- [LLM Drift: Why Your AI Detection Pipeline is Quietly Decaying &lpar;Kimi K2 Benchmark&rpar;](https://dev.to/thoams_aidetection/llm-drift-why-your-ai-detection-pipeline-is-quietly-decaying-kimi-k2-benchmark-3gml)
+- [Just Choose by Distance — A Simple Guide to Understanding Transceiver and Fiber Cable Compatibility](https://dev.to/taqq/just-choose-by-distance-a-simple-guide-to-understanding-transceiver-and-fiber-cable-compatibility-104c)
+- [Why I Built Shop, Crowdfunding, and Live Into One Platform — A Festival Economy on Web3](https://dev.to/ko_takahashi/why-i-built-shop-crowdfunding-and-live-into-one-platform-a-festival-economy-on-web3-5ge3)
+- [Deep Dive: How Rust 1.85&#39;s Lifetime Elision Reduces Boilerplate by 40%](https://dev.to/johalputt/deep-dive-how-rust-185s-lifetime-elision-reduces-boilerplate-by-40-10nj)
+- [AI University: 230 Providers Guide — How to Stop Being Overwhelmed and Pick the Right Tools](https://dev.to/kanta13jp1/ai-university-230-providers-guide-how-to-stop-being-overwhelmed-and-pick-the-right-tools-4mmk)
+- [I was tired of copy-pasting between job tracker and CV tools, so I connected them](https://dev.to/sylumkdev/i-was-tired-of-copy-pasting-between-job-tracker-and-cv-tools-so-i-connected-them-2ai2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
