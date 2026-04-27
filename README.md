@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What I Look for When Hiring Remote Full-Stack Developers &lpar;React + Node.js&rpar;](https://dev.to/lucas_rego_213f20f3bd36ed/what-i-look-for-when-hiring-remote-full-stack-developers-react-nodejs-3ihe)
-- [I Built CrabPDF: a Privacy-First PDF Editor That Runs Locally in the Browser](https://dev.to/pucyta/i-built-crabpdf-a-privacy-first-pdf-editor-that-runs-locally-in-the-browser-2973)
-- [Guardrails in AI: Keeping LLMs Safe](https://dev.to/_sowjanyasankara_/guardrails-in-ai-keeping-llms-safe-37p5)
-- [Design Systems : How They Shape Developer Experience in Modern Product Building](https://dev.to/priya_sajja_c336921bbda87/design-systems-how-they-shape-developer-experience-in-modern-product-building-3cc0)
-- [G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god](https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i)
+- [Your LLM Judge Has Opinions. They&#39;re Not About Quality.](https://dev.to/fran3cc/your-llm-judge-has-opinions-theyre-not-about-quality-8k3)
+- [skill-tree: finding the Claude behaviors you systematically avoid](https://dev.to/palo_alto_ai/skill-tree-finding-the-claude-behaviors-you-systematically-avoid-nj0)
+- [How to Turn Your Company Into an Autonomous Knowledge Machine](https://dev.to/sampseiol1/how-to-turn-your-company-into-an-autonomous-knowledge-machine-2l97)
+- [I built my MVP with Claude Code. Now I need to deploy it. Here&#39;s what nobody tells you.](https://dev.to/chalom_ellezam_5989bce65e/i-built-my-mvp-with-claude-code-now-i-need-to-deploy-it-heres-what-nobody-tells-you-2c8c)
+- [Persistent Addresses for Distributed Autonomous Systems: DNS vs. DDNS vs. Pilot Protocol](https://dev.to/pstayet/persistent-addresses-for-distributed-autonomous-systems-dns-vs-ddns-vs-pilot-protocol-28do)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
