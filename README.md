@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [&quot;I Wired DeepSeek V4 Into Claude Code and Codex CLI Without Touching the Tools&quot;](https://dev.to/codekingai/i-wired-deepseek-v4-into-claude-code-and-codex-cli-without-touching-the-tools-64d)
-- [Reading list &lpar;21st to 27th April&rpar;](https://dev.to/094459/reading-list-21st-to-27th-april-3oph)
-- [I rethought PlanetLedger after Google Cloud NEXT 2026 — and my architecture broke &lpar;in a good way&rpar;](https://dev.to/ujja/i-rethought-planetledger-after-google-cloud-next-2026-and-my-architecture-broke-in-a-good-way-glp)
-- [How to keep FastAPI and Next.js types synced &lpar;without leaking your database schema&rpar;](https://dev.to/ameer_ap/how-to-keep-fastapi-and-nextjs-types-synced-without-leaking-your-database-schema-aic)
-- [Monetizing 6 Ancient Chinese Divination APIs with x402 &lpar;MCP + USDC on Base&rpar;](https://dev.to/jasonwagaobit/monetizing-6-ancient-chinese-divination-apis-with-x402-mcp-usdc-on-base-aid)
+- [MongoDB Associate Developer Certification: A Complete Preparation Guide](https://dev.to/hasiniginikunta/mongodb-associate-developer-certification-a-complete-preparation-guide-33ao)
+- [From OAuth to Ed25519: Why Your Solana Keypair is the Ultimate Dev Identity](https://dev.to/0xunlin/from-oauth-to-ed25519-why-your-solana-keypair-is-the-ultimate-dev-identity-51ia)
+- [Introduction to Modern Stealth Approaches&lpar;2026&rpar;](https://dev.to/moalimirinfinity/introduction-to-modern-stealth-approaches2026-34kd)
+- [I reviewed 20 SaaS landing pages. Here is top 10 UX mistakes killing your conversions](https://dev.to/niko_spectry/i-reviewed-20-saas-landing-pages-here-is-top-10-ux-mistakes-killing-your-conversions-1408)
+- [UTM parameters: how to use them correctly and the 4 patterns that break GA4 channel grouping](https://dev.to/toshihiro_shishido/utm-parameters-how-to-use-them-correctly-and-the-4-patterns-that-break-ga4-channel-grouping-21fp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
