@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Just Choose by Distance — A Simple Guide to Understanding Transceiver and Fiber Cable Compatibility](https://dev.to/taqq/just-choose-by-distance-a-simple-guide-to-understanding-transceiver-and-fiber-cable-compatibility-104c)
-- [Why I Built Shop, Crowdfunding, and Live Into One Platform — A Festival Economy on Web3](https://dev.to/ko_takahashi/why-i-built-shop-crowdfunding-and-live-into-one-platform-a-festival-economy-on-web3-5ge3)
-- [Deep Dive: How Rust 1.85&#39;s Lifetime Elision Reduces Boilerplate by 40%](https://dev.to/johalputt/deep-dive-how-rust-185s-lifetime-elision-reduces-boilerplate-by-40-10nj)
-- [AI University: 230 Providers Guide — How to Stop Being Overwhelmed and Pick the Right Tools](https://dev.to/kanta13jp1/ai-university-230-providers-guide-how-to-stop-being-overwhelmed-and-pick-the-right-tools-4mmk)
-- [I was tired of copy-pasting between job tracker and CV tools, so I connected them](https://dev.to/sylumkdev/i-was-tired-of-copy-pasting-between-job-tracker-and-cv-tools-so-i-connected-them-2ai2)
+- [GitHub Actions linters compared - actionlint, ci-doctor, sherif, octoscan](https://dev.to/depmedicdevbyte/github-actions-linters-compared-actionlint-ci-doctor-sherif-octoscan-3cc3)
+- [The Most Underrated Announcement at Google Cloud Next &#39;26 Has Nothing to Do With Gemini](https://dev.to/orbit_websites_b004ed2787/the-most-underrated-announcement-at-google-cloud-next-26-has-nothing-to-do-with-gemini-34a6)
+- [The Age of Disposable Software](https://dev.to/sirviejo87/the-age-of-disposable-software-4jjj)
+- [The Hub Pattern: Keeping Supabase Edge Functions Under 50](https://dev.to/kanta13jp1/the-hub-pattern-keeping-supabase-edge-functions-under-50-hn6)
+- [How to Minify JSON and Shrink Your API Payloads in Seconds](https://dev.to/pioneer10/how-to-minify-json-and-shrink-your-api-payloads-in-seconds-4dkp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
