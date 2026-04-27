@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Handoff Component: Why AI Output That Looks Great Still Gets Rewritten](https://dev.to/tmdlrg/the-handoff-component-why-ai-output-that-looks-great-still-gets-rewritten-5aie)
-- [Nobody Picks Your AI Product Because of Your Spreadsheet](https://dev.to/seekdb/nobody-picks-your-ai-product-because-of-your-spreadsheet-dhb)
-- [useEffect hook Simple and accurate explanation](https://dev.to/aanand_4d81b59bb2a50beb70/useeffect-hook-simple-and-accurate-explanation-30bl)
-- [Who’s Accountable When AI Gets It Wrong?](https://dev.to/akshat_uniyal/whos-accountable-when-ai-gets-it-wrong-3im2)
-- [I open‑sourced a free, MIT‑licensed library of Claude prompts and I’ll send $100 as a thanks for accepted community prompt packs](https://dev.to/sogoose/i-open-sourced-a-free-mit-licensed-library-of-claude-prompts-and-ill-send-100-as-a-thanks-for-5ab6)
+- [Day 67: Escaping the Sandbox. Wiring a Live Banking API to AWS Lambda](https://dev.to/ericrodriguez10/day-67-escaping-the-sandbox-wiring-a-live-banking-api-to-aws-lambda-1j8g)
+- [Add Authentication and SSO to Your Shiny App](https://dev.to/descope/add-authentication-and-sso-to-your-shiny-app-15mb)
+- [I Detect 26 Frameworks Without AI. Here&#39;s How Deterministic File-Based Detection Works.](https://dev.to/jonny2k26/i-detect-26-frameworks-without-ai-heres-how-deterministic-file-based-detection-works-10jh)
+- [Your MVP Isn&#39;t Minimum. I Timed Mine. Here&#39;s the Verdict.](https://dev.to/yogya_goyal/your-mvp-isnt-minimum-i-timed-mine-heres-the-verdict-lck)
+- [Building MedAI — An AI-Powered Disease Prediction &amp; Clinical Decision Support System](https://dev.to/srimukh_vishnubotla_77c92/building-medai-an-ai-powered-disease-prediction-clinical-decision-support-system-46l3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
