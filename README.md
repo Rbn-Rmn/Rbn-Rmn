@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Day 67: Escaping the Sandbox. Wiring a Live Banking API to AWS Lambda](https://dev.to/ericrodriguez10/day-67-escaping-the-sandbox-wiring-a-live-banking-api-to-aws-lambda-1j8g)
-- [Add Authentication and SSO to Your Shiny App](https://dev.to/descope/add-authentication-and-sso-to-your-shiny-app-15mb)
-- [I Detect 26 Frameworks Without AI. Here&#39;s How Deterministic File-Based Detection Works.](https://dev.to/jonny2k26/i-detect-26-frameworks-without-ai-heres-how-deterministic-file-based-detection-works-10jh)
-- [Your MVP Isn&#39;t Minimum. I Timed Mine. Here&#39;s the Verdict.](https://dev.to/yogya_goyal/your-mvp-isnt-minimum-i-timed-mine-heres-the-verdict-lck)
-- [Building MedAI — An AI-Powered Disease Prediction &amp; Clinical Decision Support System](https://dev.to/srimukh_vishnubotla_77c92/building-medai-an-ai-powered-disease-prediction-clinical-decision-support-system-46l3)
+- [What I Look for When Hiring Remote Full-Stack Developers &lpar;React + Node.js&rpar;](https://dev.to/lucas_rego_213f20f3bd36ed/what-i-look-for-when-hiring-remote-full-stack-developers-react-nodejs-3ihe)
+- [I Built CrabPDF: a Privacy-First PDF Editor That Runs Locally in the Browser](https://dev.to/pucyta/i-built-crabpdf-a-privacy-first-pdf-editor-that-runs-locally-in-the-browser-2973)
+- [Guardrails in AI: Keeping LLMs Safe](https://dev.to/_sowjanyasankara_/guardrails-in-ai-keeping-llms-safe-37p5)
+- [Design Systems : How They Shape Developer Experience in Modern Product Building](https://dev.to/priya_sajja_c336921bbda87/design-systems-how-they-shape-developer-experience-in-modern-product-building-3cc0)
+- [G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god](https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
