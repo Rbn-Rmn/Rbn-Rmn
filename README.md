@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your LLM Judge Has Opinions. They&#39;re Not About Quality.](https://dev.to/fran3cc/your-llm-judge-has-opinions-theyre-not-about-quality-8k3)
-- [skill-tree: finding the Claude behaviors you systematically avoid](https://dev.to/palo_alto_ai/skill-tree-finding-the-claude-behaviors-you-systematically-avoid-nj0)
-- [How to Turn Your Company Into an Autonomous Knowledge Machine](https://dev.to/sampseiol1/how-to-turn-your-company-into-an-autonomous-knowledge-machine-2l97)
-- [I built my MVP with Claude Code. Now I need to deploy it. Here&#39;s what nobody tells you.](https://dev.to/chalom_ellezam_5989bce65e/i-built-my-mvp-with-claude-code-now-i-need-to-deploy-it-heres-what-nobody-tells-you-2c8c)
-- [Persistent Addresses for Distributed Autonomous Systems: DNS vs. DDNS vs. Pilot Protocol](https://dev.to/pstayet/persistent-addresses-for-distributed-autonomous-systems-dns-vs-ddns-vs-pilot-protocol-28do)
+- [@agent — Code Annotations for AI Agents](https://dev.to/alex-ac/agent-code-annotations-for-ai-agents-2b7h)
+- [Chapter 8: RMS Normalisation and Residual Connections](https://dev.to/garyljackson/chapter-8-rms-normalisation-and-residual-connections-225e)
+- [Building Better Software with AI Agents: Why Fundamentals Still Matter](https://dev.to/alex_metelli_f22d28dae8de/building-better-software-with-ai-agents-why-fundamentals-still-matter-22fd)
+- [The BEAM Is Not Like Other Runtimes &lpar;And That&#39;s Why Elixir Scales the Way It Does&rpar;](https://dev.to/shayan_holakouee/the-beam-is-not-like-other-runtimes-and-thats-why-elixir-scales-the-way-it-does-3199)
+- [The Anatomy of a Perfect AI Agent Task](https://dev.to/johnayoung/the-anatomy-of-a-perfect-ai-agent-task-4a2m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
