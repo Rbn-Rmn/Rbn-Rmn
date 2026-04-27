@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Associate Developer Certification: A Complete Preparation Guide](https://dev.to/hasiniginikunta/mongodb-associate-developer-certification-a-complete-preparation-guide-33ao)
-- [From OAuth to Ed25519: Why Your Solana Keypair is the Ultimate Dev Identity](https://dev.to/0xunlin/from-oauth-to-ed25519-why-your-solana-keypair-is-the-ultimate-dev-identity-51ia)
-- [Introduction to Modern Stealth Approaches&lpar;2026&rpar;](https://dev.to/moalimirinfinity/introduction-to-modern-stealth-approaches2026-34kd)
-- [I reviewed 20 SaaS landing pages. Here is top 10 UX mistakes killing your conversions](https://dev.to/niko_spectry/i-reviewed-20-saas-landing-pages-here-is-top-10-ux-mistakes-killing-your-conversions-1408)
-- [UTM parameters: how to use them correctly and the 4 patterns that break GA4 channel grouping](https://dev.to/toshihiro_shishido/utm-parameters-how-to-use-them-correctly-and-the-4-patterns-that-break-ga4-channel-grouping-21fp)
+- [The Handoff Component: Why AI Output That Looks Great Still Gets Rewritten](https://dev.to/tmdlrg/the-handoff-component-why-ai-output-that-looks-great-still-gets-rewritten-5aie)
+- [Nobody Picks Your AI Product Because of Your Spreadsheet](https://dev.to/seekdb/nobody-picks-your-ai-product-because-of-your-spreadsheet-dhb)
+- [useEffect hook Simple and accurate explanation](https://dev.to/aanand_4d81b59bb2a50beb70/useeffect-hook-simple-and-accurate-explanation-30bl)
+- [Who’s Accountable When AI Gets It Wrong?](https://dev.to/akshat_uniyal/whos-accountable-when-ai-gets-it-wrong-3im2)
+- [I open‑sourced a free, MIT‑licensed library of Claude prompts and I’ll send $100 as a thanks for accepted community prompt packs](https://dev.to/sogoose/i-open-sourced-a-free-mit-licensed-library-of-claude-prompts-and-ill-send-100-as-a-thanks-for-5ab6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
