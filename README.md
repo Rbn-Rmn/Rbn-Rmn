@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Platform-Neutral AI Tools Are the Safer Long-Term Bet](https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1)
-- [The Great DNS Trail](https://dev.to/cwprogram/the-great-dns-trail-1fa8)
-- [Next-Generation Google Workspace Automation](https://dev.to/gde/next-generation-google-workspace-automation-1h22)
-- [DeepSeek V4 Pro Just Dropped — Here&#39;s What Changed for AI Agents](https://dev.to/_omqxansi_258d1166f7/deepseek-v4-pro-just-dropped-heres-what-changed-for-ai-agents-2208)
-- [Your LLM Bill Is Too High. Here&#39;s How to Fix It &lpar;Part 1&rpar;](https://dev.to/zhang-liz/your-llm-bill-is-too-high-heres-how-to-fix-it-part-1-1in1)
+- [Ruby Didn&#39;t Die in the Age of AI](https://dev.to/eayurt/ruby-didnt-die-in-the-age-of-ai-a3k)
+- [I made an AI that roasts your code &lpar;and it&#39;s brutally honest&rpar;](https://dev.to/codemasterip/i-made-an-ai-that-roasts-your-code-and-its-brutally-honest-4in0)
+- [The stuff that&#39;s easy to miss when you ship a site](https://dev.to/alex-grademyweb/the-stuff-thats-easy-to-miss-when-you-ship-a-site-ncj)
+- [Async/Await-like pattern in Go to make structured concurrency easy and with less boilerplate](https://dev.to/colafanta/asyncawait-like-pattern-in-go-to-make-structured-concurrency-easy-and-with-less-boilerplate-121l)
+- [Understanding Object-Oriented Programming in JavaScript](https://dev.to/anoop-rajoriya/understanding-object-oriented-programming-in-javascript-2lke)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
