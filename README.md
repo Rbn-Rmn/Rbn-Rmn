@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [1.6 Trillion Parameters Just Went Open Source. What About the Other Direction?](https://dev.to/mininglamp/16-trillion-parameters-just-went-open-source-what-about-the-other-direction-3dkl)
-- [I built a tool that turns your GitHub Repo into a town](https://dev.to/murkatopiya/i-built-a-tool-that-turns-your-github-repo-into-a-town-if-your-code-is-bad-1cnf)
-- [I built an open-source MCP server that lints a CV against 5 real ATS parsers](https://dev.to/goofypluto999/i-built-an-open-source-mcp-server-that-lints-a-cv-against-5-real-ats-parsers-pjb)
-- [I had hundreds of unread GitHub notifications. So I built this.](https://dev.to/acolytex1ken_/i-had-hundreds-of-unread-github-notifications-so-i-built-this-55a6)
-- [What&#39;s the largest project you or any programmer you know has completed entirely with AI assistance?](https://dev.to/txdesk/whats-the-largest-project-you-or-any-programmer-you-know-has-completed-entirely-with-ai-assistance-4e1b)
+- [Who is actually responsible for Web Accessibility?](https://dev.to/shaynaproductions/who-is-actually-responsible-for-web-accessibility-779)
+- [You Want To Learn SQL? Here Is What I know So far...](https://dev.to/claremwangi/you-want-to-learn-sql-here-is-what-i-know-so-far-4k0n)
+- [Top 10 Open Source Projects for Beginners to Contribute To](https://dev.to/orbit_websites_b004ed2787/top-10-open-source-projects-for-beginners-to-contribute-to-4nm8)
+- [Why AI Is Breaking Your API Security Model &lpar;And Nobody on Your Team Notices&rpar;](https://dev.to/martijn_mik_917c2ea0241de/why-ai-is-breaking-your-api-security-model-and-nobody-on-your-team-notices-5aoo)
+- [Every scanner checks what exists. Nobody checks what&#39;s missing](https://dev.to/bala_paranj_059d338e44e7e/every-scanner-checks-what-exists-nobody-checks-whats-missing-258e)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
