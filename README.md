@@ -133,14 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [From Pixels to Prescriptions: Engineering OCR Pipelines for Medical Report Simplification Using MongoDB](https://dev.to/k-deepak-544/from-pixels-to-prescriptions-engineering-ocr-pipelines-for-medical-report-simplification-using-oia)
-- [Building an Independent Internet: Mesh Network Experiments and the UDP 53 Hack](https://dev.to/fiandev/building-an-independent-internet-mesh-network-experiments-and-the-udp-53-hack-50d8)
-- [I replaced CAPTCHA with passive biometrics after AI hit 91% bypass rate — 7 biological signals, no puzzles, free tier](https://dev.to/rickardo_hudson_83429b764/i-replaced-captcha-with-passive-biometrics-after-ai-hit-91-bypass-rate-7-biological-signals-no-5aai)
-- [Automation is a trade-off](https://dev.to/suesmith/automation-is-a-trade-off-2fh8)
-- [You always hear someone say - you had to be there.
-But, yup - you had to be there to get the full experience!
-
-I found myself in the selfie shot so that was cool!](https://dev.to/xbill/you-always-hear-someone-say-you-had-to-be-there-but-yup-you-had-to-be-there-to-get-the-full-18i3)
+- [I Replaced 2,000 Lines of Go Mocks With 200 Lines of Fakes](https://dev.to/gabrielanhaia/i-replaced-2000-lines-of-go-mocks-with-200-lines-of-fakes-1jak)
+- [Your gRPC Protobuf Types Don&#39;t Belong in Your Domain Layer](https://dev.to/gabrielanhaia/your-grpc-protobuf-types-dont-belong-in-your-domain-layer-494g)
+- [Adaptive Rate Limiting with Redis and Lua](https://dev.to/debjit450/adaptive-rate-limiting-with-redis-and-lua-32fe)
+- [Go&#39;s Implicit Interfaces Are Its Best Architecture Feature](https://dev.to/gabrielanhaia/gos-implicit-interfaces-are-its-best-architecture-feature-2h8p)
+- [How a Single Missing Index Nearly Tanked Our SaaS Database &lpar;and What We Learned&rpar;](https://dev.to/naelawadallah/how-a-single-missing-index-nearly-tanked-our-saas-database-and-what-we-learned-2e9i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
