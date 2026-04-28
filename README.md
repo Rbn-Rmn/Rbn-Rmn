@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Replaced 2,000 Lines of Go Mocks With 200 Lines of Fakes](https://dev.to/gabrielanhaia/i-replaced-2000-lines-of-go-mocks-with-200-lines-of-fakes-1jak)
-- [Your gRPC Protobuf Types Don&#39;t Belong in Your Domain Layer](https://dev.to/gabrielanhaia/your-grpc-protobuf-types-dont-belong-in-your-domain-layer-494g)
-- [Adaptive Rate Limiting with Redis and Lua](https://dev.to/debjit450/adaptive-rate-limiting-with-redis-and-lua-32fe)
-- [Go&#39;s Implicit Interfaces Are Its Best Architecture Feature](https://dev.to/gabrielanhaia/gos-implicit-interfaces-are-its-best-architecture-feature-2h8p)
-- [How a Single Missing Index Nearly Tanked Our SaaS Database &lpar;and What We Learned&rpar;](https://dev.to/naelawadallah/how-a-single-missing-index-nearly-tanked-our-saas-database-and-what-we-learned-2e9i)
+- [When GitHub Actions Goes Silent: The Pending-Forever Bug I Hit Shipping My MCP Server to npm](https://dev.to/achiya-automation/when-github-actions-goes-silent-the-pending-forever-bug-i-hit-shipping-my-mcp-server-to-npm-229m)
+- [How to Use Cursor&#39;s Composer 2, Gemini, Grok &amp; More in Claude Code as Another Dev](https://dev.to/davidvesely/how-to-use-cursors-composer-2-gemini-grok-more-in-claude-code-as-another-dev-4cd1)
+- [Deep Dive: How React 19 Works in Browser Extensions with Content Scripts and Background Workers](https://dev.to/johalputt/deep-dive-how-react-19-works-in-browser-extensions-with-content-scripts-and-background-workers-13ki)
+- [My road to ML-KEM-768 over X25519 for my messaging app](https://dev.to/xmkx/my-road-to-ml-kem-768-over-x25519-for-my-messaging-app-m3f)
+- [My road to ML-KEM-768 over X25519 for my messaging app](https://dev.to/xmkx/my-road-to-ml-kem-768-over-x25519-for-my-messaging-app-50op)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
