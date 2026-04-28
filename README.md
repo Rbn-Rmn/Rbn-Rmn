@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [274 AI Tools, One Database: Why I Treat Competitors as Curriculum](https://dev.to/kanta13jp1/274-ai-tools-one-database-why-i-treat-competitors-as-curriculum-a9h)
-- [Agile, After Agile](https://dev.to/barriehadfield/agile-after-agile-49ni)
-- [My Plugin Has 20 Installs. ChatGPT Recommends It Over Competitors With 100,000+.](https://dev.to/gronrafal/my-plugin-has-20-installs-chatgpt-recommends-it-over-competitors-with-100000-lp2)
-- [Day 1: Your Team’s Chat Is a Wiki Waiting to Happen — A New Kind of RAG](https://dev.to/beeverai/day-1-your-teams-chat-is-a-wiki-waiting-to-happen-a-new-kind-of-rag-3fg6)
-- [Building an AI Assistant Inside WordPress: Lessons Learned](https://dev.to/wpaipowertools/building-an-ai-assistant-inside-wordpress-lessons-learned-18nb)
+- [1.6 Trillion Parameters Just Went Open Source. What About the Other Direction?](https://dev.to/mininglamp/16-trillion-parameters-just-went-open-source-what-about-the-other-direction-3dkl)
+- [I built a tool that turns your GitHub Repo into a town](https://dev.to/murkatopiya/i-built-a-tool-that-turns-your-github-repo-into-a-town-if-your-code-is-bad-1cnf)
+- [I built an open-source MCP server that lints a CV against 5 real ATS parsers](https://dev.to/goofypluto999/i-built-an-open-source-mcp-server-that-lints-a-cv-against-5-real-ats-parsers-pjb)
+- [I had hundreds of unread GitHub notifications. So I built this.](https://dev.to/acolytex1ken_/i-had-hundreds-of-unread-github-notifications-so-i-built-this-55a6)
+- [What&#39;s the largest project you or any programmer you know has completed entirely with AI assistance?](https://dev.to/txdesk/whats-the-largest-project-you-or-any-programmer-you-know-has-completed-entirely-with-ai-assistance-4e1b)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
