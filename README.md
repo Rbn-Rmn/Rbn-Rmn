@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Architecting Agentic AI Applications: The Complete Engineering Guide](https://dev.to/sreeni5018/architecting-agentic-ai-applications-the-complete-engineering-guide-508c)
-- [🚀 #09: Demystifying Reference Types](https://dev.to/hannalog/09-demystifying-reference-types-3f84)
-- [How to Clean Your Email List and Stop Burning Your Sender Reputation](https://dev.to/dev2studio/how-to-clean-your-email-list-and-stop-burning-your-sender-reputation-4a1n)
-- [I Built an SEO Tool — Google Ignored It Until I Fixed This](https://dev.to/teki_bhavanishankar_cfb5/googlebots-two-wave-rendering-why-your-js-app-is-invisible-to-search-1ndk)
-- [OpenAI and the New Cognitive Architecture of Software Repositories](https://dev.to/eleonorarocchi/openai-and-the-new-cognitive-architecture-of-software-repositories-383m)
+- [274 AI Tools, One Database: Why I Treat Competitors as Curriculum](https://dev.to/kanta13jp1/274-ai-tools-one-database-why-i-treat-competitors-as-curriculum-a9h)
+- [Agile, After Agile](https://dev.to/barriehadfield/agile-after-agile-49ni)
+- [My Plugin Has 20 Installs. ChatGPT Recommends It Over Competitors With 100,000+.](https://dev.to/gronrafal/my-plugin-has-20-installs-chatgpt-recommends-it-over-competitors-with-100000-lp2)
+- [Day 1: Your Team’s Chat Is a Wiki Waiting to Happen — A New Kind of RAG](https://dev.to/beeverai/day-1-your-teams-chat-is-a-wiki-waiting-to-happen-a-new-kind-of-rag-3fg6)
+- [Building an AI Assistant Inside WordPress: Lessons Learned](https://dev.to/wpaipowertools/building-an-ai-assistant-inside-wordpress-lessons-learned-18nb)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
