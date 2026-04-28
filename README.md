@@ -133,11 +133,14 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Who is actually responsible for Web Accessibility?](https://dev.to/shaynaproductions/who-is-actually-responsible-for-web-accessibility-779)
-- [You Want To Learn SQL? Here Is What I know So far...](https://dev.to/claremwangi/you-want-to-learn-sql-here-is-what-i-know-so-far-4k0n)
-- [Top 10 Open Source Projects for Beginners to Contribute To](https://dev.to/orbit_websites_b004ed2787/top-10-open-source-projects-for-beginners-to-contribute-to-4nm8)
-- [Why AI Is Breaking Your API Security Model &lpar;And Nobody on Your Team Notices&rpar;](https://dev.to/martijn_mik_917c2ea0241de/why-ai-is-breaking-your-api-security-model-and-nobody-on-your-team-notices-5aoo)
-- [Every scanner checks what exists. Nobody checks what&#39;s missing](https://dev.to/bala_paranj_059d338e44e7e/every-scanner-checks-what-exists-nobody-checks-whats-missing-258e)
+- [From Pixels to Prescriptions: Engineering OCR Pipelines for Medical Report Simplification Using MongoDB](https://dev.to/k-deepak-544/from-pixels-to-prescriptions-engineering-ocr-pipelines-for-medical-report-simplification-using-oia)
+- [Building an Independent Internet: Mesh Network Experiments and the UDP 53 Hack](https://dev.to/fiandev/building-an-independent-internet-mesh-network-experiments-and-the-udp-53-hack-50d8)
+- [I replaced CAPTCHA with passive biometrics after AI hit 91% bypass rate — 7 biological signals, no puzzles, free tier](https://dev.to/rickardo_hudson_83429b764/i-replaced-captcha-with-passive-biometrics-after-ai-hit-91-bypass-rate-7-biological-signals-no-5aai)
+- [Automation is a trade-off](https://dev.to/suesmith/automation-is-a-trade-off-2fh8)
+- [You always hear someone say - you had to be there.
+But, yup - you had to be there to get the full experience!
+
+I found myself in the selfie shot so that was cool!](https://dev.to/xbill/you-always-hear-someone-say-you-had-to-be-there-but-yup-you-had-to-be-there-to-get-the-full-18i3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
