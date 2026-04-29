@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Real-Time DDoS Detection Engine from Scratch](https://dev.to/lucadavid075/how-i-built-a-real-time-ddos-detection-engine-from-scratch-3p6f)
-- [How I Built a Real Time DDoS Detection Engine from Scratch](https://dev.to/khavelemarline/how-i-built-a-real-time-ddos-detection-engine-from-scratch-1bei)
-- [DuckDB 1.5.2, PostgreSQL Linux 7.0 Regression, &amp; SQLite Formal Verification](https://dev.to/soytuber/duckdb-152-postgresql-linux-70-regression-sqlite-formal-verification-59mn)
-- [FlashQLA Kernels Accelerate AI; NVIDIA &amp; AMD Unveil New GPUs](https://dev.to/soytuber/flashqla-kernels-accelerate-ai-nvidia-amd-unveil-new-gpus-46o6)
-- [Build Real Dialogs in Vim — No Python, No Dependencies](https://dev.to/skywind3000/build-real-dialogs-in-vim-no-python-no-dependencies-3b5a)
+- [Why I’m Cautious About AI Gateways After My Bifrost Collaboration](https://dev.to/bradleymatera/why-im-cautious-about-ai-gateways-after-my-bifrost-collaboration-18pj)
+- [Research: Bifrost &lpar;Maxim AI / H3 Labs Inc.&rpar; – Why Its “Governance” Architecture Is a Single Point of Failure for Solo American Web Devs](https://dev.to/bradleymatera/research-bifrost-maxim-ai-h3-labs-inc-why-its-governance-architecture-is-a-single-point-2j43)
+- [Protect Your API Keys: Evaluating AI Tools Like Bifrost and Caveman](https://dev.to/bradleymatera/protect-your-api-keys-evaluating-ai-tools-like-bifrost-and-caveman-2op2)
+- [Research: Why Bifrost &lpar;Maxim AI / H3 Labs Inc.&rpar; Fits the Exact Pattern of API Key Harvesting Services Targeting American Indie Devs](https://dev.to/bradleymatera/research-why-bifrost-maxim-ai-h3-labs-inc-fits-the-exact-pattern-of-api-key-harvesting-2844)
+- [Warning: Bifrost from Maxim AI Is a Real API Key Harvesting Service Targeting American Web Devs &lpar;My Exact Experience&rpar;](https://dev.to/bradleymatera/warning-bifrost-from-maxim-ai-is-a-real-api-key-harvesting-service-targeting-american-web-devs-my-25nf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
