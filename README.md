@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Backtested 96 SPY Put Credit Spread Strategies - Here&#39;s the Bug Log](https://dev.to/tomasz_dobrowolski_35d32c/i-backtested-96-spy-put-credit-spread-strategies-heres-the-bug-log-1li3)
-- [SPXW 0DTE: What Every Developer Building Options Tools Needs to Know](https://dev.to/tomasz_dobrowolski_35d32c/spxw-0dte-what-every-developer-building-options-tools-needs-to-know-3jaa)
-- [Confessions of a Dark Mode Zealot: When a Setting Becomes a Religion](https://dev.to/the_nortern_dev/confessions-of-a-dark-mode-zealot-when-a-setting-becomes-a-religion-2n29)
-- [Beyond the Chatbot: A First Look at the Gemini Agent Development Kit &lpar;ADK&rpar;](https://dev.to/dhruva_wani_17/beyond-the-chatbot-a-first-look-at-the-gemini-agent-development-kit-adk-1kdn)
-- [The Accordion Pattern: Why I stopped writing one fat LLM prompt](https://dev.to/hidekimori/the-accordion-pattern-why-i-stopped-writing-one-fat-llm-prompt-18mb)
+- [I Gave an AI Agent $0 and Told It to Make Money](https://dev.to/bshaleshka/i-gave-an-ai-agent-0-and-told-it-to-make-money-2nlj)
+- [Best Google Analytics Alternatives for Web3 Projects](https://dev.to/yos/best-google-analytics-alternatives-for-web3-projects-3nl2)
+- [How to Choose a Privacy‑First Web3 Analytics Provider for DeFi](https://dev.to/yos/how-to-choose-a-privacy-first-web3-analytics-provider-for-defi-12m8)
+- [2026&#39;s Leading Web3 Visitor Analytics Solutions for Crypto Projects](https://dev.to/yos/2026s-leading-web3-visitor-analytics-solutions-for-crypto-projects-1hcb)
+- [Crypto Campaign Attribution: A 5-Step Implementation Guide for Web3 Teams](https://dev.to/yos/crypto-campaign-attribution-a-5-step-implementation-guide-for-web3-teams-5cca)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
