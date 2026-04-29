@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why We Stopped Writing Code for Internal HR Tools](https://dev.to/rakshit_0c4a9c28e24248853/why-we-stopped-writing-code-for-internal-hr-tools-1mn0)
-- [Gemini 6.0 Flash: Is the &quot;Speed vs Accuracy&quot; Trade-off Finally Dead?](https://dev.to/susantadeb2020/gemini-60-flash-is-the-speed-vs-accuracy-trade-off-finally-dead-4pjb)
-- [Building Your First Cybersecurity Tool with Spectator: A New Language for Pentesters](https://dev.to/czax225/building-your-first-cybersecurity-tool-with-spectator-a-new-language-for-pentesters-2fm9)
-- [No-Login Online Clipboard Sync: QR Pairing, Burn Mode, &lt;100ms—Built by a 3rd-Sem CS Student](https://dev.to/dhairya_darji_ff0fec19a28/no-login-online-clipboard-sync-qr-pairing-burn-mode-100ms-built-by-a-3rd-sem-cs-student-348b)
-- [Deep Dive: How JetBrains Fleet Indexes 1M Line Codebases with Rust 1.85 and Kotlin 2.0](https://dev.to/johalputt/deep-dive-how-jetbrains-fleet-indexes-1m-line-codebases-with-rust-185-and-kotlin-20-14h2)
+- [I Backtested 96 SPY Put Credit Spread Strategies - Here&#39;s the Bug Log](https://dev.to/tomasz_dobrowolski_35d32c/i-backtested-96-spy-put-credit-spread-strategies-heres-the-bug-log-1li3)
+- [SPXW 0DTE: What Every Developer Building Options Tools Needs to Know](https://dev.to/tomasz_dobrowolski_35d32c/spxw-0dte-what-every-developer-building-options-tools-needs-to-know-3jaa)
+- [Confessions of a Dark Mode Zealot: When a Setting Becomes a Religion](https://dev.to/the_nortern_dev/confessions-of-a-dark-mode-zealot-when-a-setting-becomes-a-religion-2n29)
+- [Beyond the Chatbot: A First Look at the Gemini Agent Development Kit &lpar;ADK&rpar;](https://dev.to/dhruva_wani_17/beyond-the-chatbot-a-first-look-at-the-gemini-agent-development-kit-adk-1kdn)
+- [The Accordion Pattern: Why I stopped writing one fat LLM prompt](https://dev.to/hidekimori/the-accordion-pattern-why-i-stopped-writing-one-fat-llm-prompt-18mb)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
