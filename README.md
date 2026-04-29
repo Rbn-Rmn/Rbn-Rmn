@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Field Notes from a Solo Builder — Shipping the Beloved Claude Code Buddy Into the Wild - Part III](https://dev.to/fiorastudio/open-source-community-and-the-art-of-listening-454k)
-- [Claude Code keeps forgetting your project context? Here are 3 fixes that actually work](https://dev.to/gonewx/claude-code-keeps-forgetting-your-project-context-here-are-3-fixes-that-actually-work-olb)
-- [Indie Dev ASO Complete Guide — Climbing App Store Rankings with Optimization](https://dev.to/kanta13jp1/indie-dev-aso-complete-guide-climbing-app-store-rankings-with-optimization-3089)
-- [Build Your First MCP Server in Python in 10 Minutes](https://dev.to/nebulagg/build-your-first-mcp-server-in-python-in-10-minutes-2eij)
-- [How to build a Salesforce governance framework from scratch](https://dev.to/orgdocdev/how-to-build-a-salesforce-governance-framework-from-scratch-66p)
+- [Why We Stopped Writing Code for Internal HR Tools](https://dev.to/rakshit_0c4a9c28e24248853/why-we-stopped-writing-code-for-internal-hr-tools-1mn0)
+- [Gemini 6.0 Flash: Is the &quot;Speed vs Accuracy&quot; Trade-off Finally Dead?](https://dev.to/susantadeb2020/gemini-60-flash-is-the-speed-vs-accuracy-trade-off-finally-dead-4pjb)
+- [Building Your First Cybersecurity Tool with Spectator: A New Language for Pentesters](https://dev.to/czax225/building-your-first-cybersecurity-tool-with-spectator-a-new-language-for-pentesters-2fm9)
+- [No-Login Online Clipboard Sync: QR Pairing, Burn Mode, &lt;100ms—Built by a 3rd-Sem CS Student](https://dev.to/dhairya_darji_ff0fec19a28/no-login-online-clipboard-sync-qr-pairing-burn-mode-100ms-built-by-a-3rd-sem-cs-student-348b)
+- [Deep Dive: How JetBrains Fleet Indexes 1M Line Codebases with Rust 1.85 and Kotlin 2.0](https://dev.to/johalputt/deep-dive-how-jetbrains-fleet-indexes-1m-line-codebases-with-rust-185-and-kotlin-20-14h2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
