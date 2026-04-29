@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Power Pet: The VR Companion You Can Actually Touch — Built with Arduino UNO Q](https://dev.to/bittobuild/power-pet-the-vr-companion-you-can-actually-touch-built-with-arduino-uno-q-1cp5)
-- [Power Pet: สัตว์เลี้ยง Virtual Reality ที่สัมผัสได้ สร้างจาก Arduino UNO Q](https://dev.to/bittobuild/power-pet-satweliiyng-virtual-reality-thiisamphasaid-sraangcchaak-arduino-uno-q-4co3)
-- [Cost Visibility Is Not Cost Control](https://dev.to/ntctech/cost-visibility-is-not-cost-control-e1i)
-- [Alpine.js in 2026: The 7 kB Script Tag That Replaced jQuery &lpar;And When to Actually Use It&rpar;](https://dev.to/sahilkhurana/alpinejs-in-2026-the-7-kb-script-tag-that-replaced-jquery-and-when-to-actually-use-it-1129)
-- [I Built an AI to Monitor Servers. Then I Built a Chaos Proxy to Break Them 💥](https://dev.to/ajayagrawal/i-built-an-ai-to-monitor-servers-then-i-built-a-chaos-proxy-to-break-them-pla)
+- [Goodhart’s law is ruining models, a call to &lpar;experienced&rpar; arms.](https://dev.to/justinschroeder/goodharts-law-is-ruining-models-a-call-to-experienced-arms-4lfa)
+- [I Scanned My MacBook and Found 127GB of Developer Junk. Here&#39;s What It Was](https://dev.to/nixeton/i-scanned-my-macbook-and-found-127gb-of-developer-junk-heres-what-it-was-12cf)
+- [How I Built a Vinted Scraper That Survives Datadome &lpar;and 26 Country Redirects&rpar;](https://dev.to/datakaz/how-i-built-a-vinted-scraper-that-survives-datadome-and-26-country-redirects-3gh4)
+- [I Built the First GTM-Native MCP Server — Here&#39;s What I Learned](https://dev.to/boissonneault/i-built-the-first-gtm-native-mcp-server-heres-what-i-learned-1mdi)
+- [I built a running app in 13 days because I kept quitting my training plans](https://dev.to/dev2681/13-days-y-kept-quitting-5ag9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
