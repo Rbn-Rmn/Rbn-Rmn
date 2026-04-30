@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your AI coding agent is a while loop with delusions of grandeur](https://dev.to/frr149/your-ai-coding-agent-is-a-while-loop-with-delusions-of-grandeur-1h6e)
-- [Your Terminal is Burning Battery Like It&#39;s Mining Bitcoin](https://dev.to/frr149/your-terminal-is-burning-battery-like-its-mining-bitcoin-4e7l)
-- [How to Scrape Swedish Real Estate Data from Hemnet &lpar;No Code, No API&rpar;](https://dev.to/mayno/how-to-scrape-swedish-real-estate-data-from-hemnet-no-code-no-api-324o)
-- [Advancing Your Own AWS Architect with DrawIO Skills and Living Documentation](https://dev.to/gitaroktato/advancing-your-own-aws-architect-with-drawio-skills-and-living-documentation-3di7)
-- [I spent 5 months building a full-stack e-commerce app from scratch — now I&#39;m selling it for $3,000](https://dev.to/buddhima_ryan_e7a70ea9f83/i-spent-5-months-building-a-full-stack-e-commerce-app-from-scratch-now-im-selling-it-for-3000-fmb)
+- [System Design: проектируем сервис быстрых знакомств](https://dev.to/nowinterview/system-design-proiektiruiem-siervis-bystrykh-znakomstv-5fnc)
+- [Stop Crashing Node.js: How to Process 10GB Files with 15MB of RAM](https://dev.to/pujansrt/stop-crashing-nodejs-how-to-process-10gb-files-with-15mb-of-ram-2gb5)
+- [CloudWatch RUM vs. Ad blockers : How to fix possible missing telemetry](https://dev.to/aws-builders/cloudwatch-rum-vs-ad-blockers-how-to-fix-possible-missing-telemetry-54j5)
+- [Most products are hard to build for a simple reason: the problem was never clearly defined](https://dev.to/yogya_goyal/most-products-are-hard-to-build-for-a-simple-reason-the-problem-was-never-clearly-defined-51ik)
+- [Neuro-Morph: Building a Living Defense System with Autonomous Moving Target Defense and MongoDB](https://dev.to/nihal_max/neuro-morph-building-a-living-defense-system-with-autonomous-moving-target-defense-and-mongodb-53nk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
