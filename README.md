@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building on Midnight with Windows — A Real Developer&#39;s WSL2 Setup Guide](https://dev.to/midnight-aliit/building-on-midnight-with-windows-a-real-developers-wsl2-setup-guide-om6)
-- [Move Over Python: PHP Is the Sleeping Giant of AI Agents](https://dev.to/zadro/move-over-python-php-is-the-sleeping-giant-of-ai-agents-577b)
-- [20,000 Taxi Rides in Cuba: What I Learned Building on Organic Maps](https://dev.to/leonardo_tq_13f83601e8513/20000-taxi-rides-in-cuba-what-i-learned-building-on-organic-maps-3k9b)
-- [Finally: Memory Safety for C Without Rewriting Everything](https://dev.to/attilatorda/finally-memory-safety-for-c-without-rewriting-everything-3ldm)
-- [The Missing Link: Securing Gemini Agents with the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/milton_gardener_f38223d14/the-missing-link-securing-gemini-agents-with-the-model-context-protocol-mcp-12bj)
+- [How an Amazon Ad Operator Became an Indie Developer &lpar;Without Knowing How to Code&rpar;](https://dev.to/ppcarchitect/how-an-amazon-ad-operator-became-an-indie-developer-without-knowing-how-to-code-1o32)
+- [Kiwi-chan&#39;s Log-istical Nightmare &lpar;and a LOT of Debugging&rpar; 🥝](https://dev.to/kiwi_tech/kiwi-chans-log-istical-nightmare-and-a-lot-of-debugging-4n4c)
+- [I&#39;m Selling a $5 Starter Kit for x402 Paid APIs. Here&#39;s What&#39;s In It and Why.](https://dev.to/tufti/im-selling-a-5-starter-kit-for-x402-paid-apis-heres-whats-in-it-and-why-1823)
+- [Building an AI-Augmented News Intelligence Pipeline with Kafka, Delta Lake, and LLMs](https://dev.to/ayoabass777/building-an-ai-augmented-news-intelligence-pipeline-with-kafka-delta-lake-and-llms-2nj3)
+- [Agentic Coding is a Trap | Remaining vigilant about cognitive debt and atrophy.](https://dev.to/larsfaye/agentic-coding-is-a-trap-remaining-vigilant-about-cognitive-debt-and-atrophy-2bo8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
