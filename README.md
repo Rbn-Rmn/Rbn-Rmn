@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Shopify During Flash Sales: What Actually Breaks &lpar;And How to Fix It&rpar;](https://dev.to/asad_abdullah_zafar/scaling-shopify-during-flash-sales-what-actually-breaks-and-how-to-fix-it-3hh5)
-- [Amazon RDS Demystified: Why Amazon RDS is Still a Game-Changer?](https://dev.to/wasi_devops/amazon-rds-demystified-why-amazon-rds-is-still-a-game-changer-4lo9)
-- [When Profiling Turns Into a Reality Check](https://dev.to/chris_lee_5e58cce05f5d01d/when-profiling-turns-into-a-reality-check-51ie)
-- [Sentence Window Retrieval](https://dev.to/rushanksavant/sentence-window-retrieval-212d)
-- [How I Structure Authentication in .NET &lpar;JWT + Refresh Tokens&rpar;](https://dev.to/a95yman/how-i-structure-authentication-in-net-jwt-refresh-tokens-161a)
+- [Tolerância a Falhas: Como sistemas modernos continuam funcionando mesmo quando tudo dá errado](https://dev.to/aryane_carolinesilvasou/tolerancia-a-falhas-como-sistemas-modernos-continuam-funcionando-mesmo-quando-tudo-da-errado-2f8l)
+- [I audited 25 top npm packages with a zero-install CLI. Here&#39;s who passes.](https://dev.to/piiiico/i-audited-25-top-npm-packages-with-a-zero-install-cli-heres-who-passes-40kk)
+- [You&#39;ve probably never heard of these npm packages. They&#39;re in your production app.](https://dev.to/piiiico/youve-probably-never-heard-of-these-npm-packages-theyre-in-your-production-app-27hi)
+- [Does ClickHouse Support UPDATEs? A 2026 Data Analysis](https://dev.to/manveer_chawla_64a7283d5a/does-clickhouse-support-updates-a-2026-data-analysis-4m75)
+- [What Really Happens When You Move Your Mouse?](https://dev.to/karanjain2527/what-really-happens-when-you-move-your-mouse-4nj2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
