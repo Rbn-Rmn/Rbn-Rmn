@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Troubleshooting](https://dev.to/it_defined_9fa44164c67442/kubernetes-troubleshooting-2l9j)
-- [Two days chasing a SharedKey signature mismatch: fixing azurerm_storage_table_entity in Topaz](https://dev.to/kamil-mrzyglod/two-days-chasing-a-sharedkey-signature-mismatch-fixing-azurermstoragetableentity-in-topaz-15ag)
-- [Native AA Debate, DES Explores Parallel zkEVM Execution, Affine Metering Targets Higher Throughput, Etherspot Powers Telegram Crypto UX](https://dev.to/etherspot/native-aa-debate-des-explores-parallel-zkevm-execution-affine-metering-targets-higher-throughput-3lbm)
-- [I finally understood compound interest by writing 8 lines of JavaScript](https://dev.to/levent_elik_34b35337d291/i-finally-understood-compound-interest-by-writing-8-lines-of-javascript-3012)
-- [Lambda Multi-tenanted Isolation](https://dev.to/aws-builders/lambda-multi-tenanted-isolation-1ban)
+- [Machine Learning Developers: Why Most ML Projects Fail After the Model Stage](https://dev.to/dixit_angiras_1f2a7cb300d/machine-learning-developers-why-most-ml-projects-fail-after-the-model-stage-3320)
+- [Cost-Efficient Serverless Workflows with Express Step Functions](https://dev.to/aws-builders/cost-efficient-serverless-workflows-with-express-step-functions-e54)
+- [Stop losing AI coding context between sessions: Continue Later &lpar;skills + CLI&rpar;](https://dev.to/dhruv_anand_aintech/stop-losing-ai-coding-context-between-sessions-continue-later-skills-cli-3jca)
+- [ERP Modernization: A Phased Migration That Actually Works](https://dev.to/horizondev/erp-modernization-a-phased-migration-that-actually-works-2cko)
+- [Your iPhone already tracks your location. I built an open-source app that keeps it on the device.](https://dev.to/codybontecou/your-iphone-already-tracks-your-location-i-built-an-open-source-app-that-keeps-it-on-the-device-41c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
