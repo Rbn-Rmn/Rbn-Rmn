@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Task schedule is a piece of shit](https://dev.to/transpective_ecf841cb1a37/task-schedule-is-a-piece-of-shit-51bd)
-- [WebAssembly Güvenlik Riskleri ve Kurumsal Savunma Stratejileri](https://dev.to/nesil_teknoloji/webassembly-guvenlik-riskleri-ve-kurumsal-savunma-stratejileri-60j)
-- [GitHub API Rate Limits in 2026: When Web Scraping Is the Better Choice](https://dev.to/agenthustler/github-api-rate-limits-in-2026-when-web-scraping-is-the-better-choice-hdo)
-- [Your Perfectionism Is Killing Your Career Before It Even Starts](https://dev.to/karol_modelski/your-perfectionism-is-killing-your-career-before-it-even-starts-2b1m)
-- [5 Levels of AI Code Review — From &#39;Trust Me Bro&#39; to Production Ready](https://dev.to/harsh2644/5-levels-of-ai-code-review-from-trust-me-bro-to-production-ready-2cn4)
+- [Kubernetes Troubleshooting](https://dev.to/it_defined_9fa44164c67442/kubernetes-troubleshooting-2l9j)
+- [Two days chasing a SharedKey signature mismatch: fixing azurerm_storage_table_entity in Topaz](https://dev.to/kamil-mrzyglod/two-days-chasing-a-sharedkey-signature-mismatch-fixing-azurermstoragetableentity-in-topaz-15ag)
+- [Native AA Debate, DES Explores Parallel zkEVM Execution, Affine Metering Targets Higher Throughput, Etherspot Powers Telegram Crypto UX](https://dev.to/etherspot/native-aa-debate-des-explores-parallel-zkevm-execution-affine-metering-targets-higher-throughput-3lbm)
+- [I finally understood compound interest by writing 8 lines of JavaScript](https://dev.to/levent_elik_34b35337d291/i-finally-understood-compound-interest-by-writing-8-lines-of-javascript-3012)
+- [Lambda Multi-tenanted Isolation](https://dev.to/aws-builders/lambda-multi-tenanted-isolation-1ban)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
