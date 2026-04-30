@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How an Amazon Ad Operator Became an Indie Developer &lpar;Without Knowing How to Code&rpar;](https://dev.to/ppcarchitect/how-an-amazon-ad-operator-became-an-indie-developer-without-knowing-how-to-code-1o32)
-- [Kiwi-chan&#39;s Log-istical Nightmare &lpar;and a LOT of Debugging&rpar; 🥝](https://dev.to/kiwi_tech/kiwi-chans-log-istical-nightmare-and-a-lot-of-debugging-4n4c)
-- [I&#39;m Selling a $5 Starter Kit for x402 Paid APIs. Here&#39;s What&#39;s In It and Why.](https://dev.to/tufti/im-selling-a-5-starter-kit-for-x402-paid-apis-heres-whats-in-it-and-why-1823)
-- [Building an AI-Augmented News Intelligence Pipeline with Kafka, Delta Lake, and LLMs](https://dev.to/ayoabass777/building-an-ai-augmented-news-intelligence-pipeline-with-kafka-delta-lake-and-llms-2nj3)
-- [Agentic Coding is a Trap | Remaining vigilant about cognitive debt and atrophy.](https://dev.to/larsfaye/agentic-coding-is-a-trap-remaining-vigilant-about-cognitive-debt-and-atrophy-2bo8)
+- [The Trojan Horse of Web Design: The Genius Behind Adobe Fireworks&#39; &quot;Vector PNGs&quot;](https://dev.to/rpi1337/the-trojan-horse-of-web-design-the-genius-behind-adobe-fireworks-vector-pngs-5b9f)
+- [HTML Attributes That Do More Than You Think](https://dev.to/web_dev-usman/html-attributes-that-do-more-than-you-think-4l8f)
+- [Building Teams in Laravel &lpar;Ownership &amp; Membership&rpar;](https://dev.to/onlypads/building-teams-in-laravel-ownership-membership-5bg1)
+- [I built a tool to turn boring screenshots into scroll-stopping content 💻](https://dev.to/vasudevsoni/i-built-a-tool-to-turn-boring-screenshots-into-scroll-stopping-content-1c03)
+- [🧠 AI Trust &amp; The Hallucination Gap: Why Smart Systems Still Get Things Wrong](https://dev.to/17j/ai-trust-the-hallucination-gap-why-smart-systems-still-get-things-wrong-bkj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
