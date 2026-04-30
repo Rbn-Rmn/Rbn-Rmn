@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [System Design: проектируем сервис быстрых знакомств](https://dev.to/nowinterview/system-design-proiektiruiem-siervis-bystrykh-znakomstv-5fnc)
-- [Stop Crashing Node.js: How to Process 10GB Files with 15MB of RAM](https://dev.to/pujansrt/stop-crashing-nodejs-how-to-process-10gb-files-with-15mb-of-ram-2gb5)
-- [CloudWatch RUM vs. Ad blockers : How to fix possible missing telemetry](https://dev.to/aws-builders/cloudwatch-rum-vs-ad-blockers-how-to-fix-possible-missing-telemetry-54j5)
-- [Most products are hard to build for a simple reason: the problem was never clearly defined](https://dev.to/yogya_goyal/most-products-are-hard-to-build-for-a-simple-reason-the-problem-was-never-clearly-defined-51ik)
-- [Neuro-Morph: Building a Living Defense System with Autonomous Moving Target Defense and MongoDB](https://dev.to/nihal_max/neuro-morph-building-a-living-defense-system-with-autonomous-moving-target-defense-and-mongodb-53nk)
+- [Scaling Shopify During Flash Sales: What Actually Breaks &lpar;And How to Fix It&rpar;](https://dev.to/asad_abdullah_zafar/scaling-shopify-during-flash-sales-what-actually-breaks-and-how-to-fix-it-3hh5)
+- [Amazon RDS Demystified: Why Amazon RDS is Still a Game-Changer?](https://dev.to/wasi_devops/amazon-rds-demystified-why-amazon-rds-is-still-a-game-changer-4lo9)
+- [When Profiling Turns Into a Reality Check](https://dev.to/chris_lee_5e58cce05f5d01d/when-profiling-turns-into-a-reality-check-51ie)
+- [Sentence Window Retrieval](https://dev.to/rushanksavant/sentence-window-retrieval-212d)
+- [How I Structure Authentication in .NET &lpar;JWT + Refresh Tokens&rpar;](https://dev.to/a95yman/how-i-structure-authentication-in-net-jwt-refresh-tokens-161a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
