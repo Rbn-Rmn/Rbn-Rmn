@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [RAG Series &lpar;2&rpar;: Building Your First RAG Pipeline with LangChain](https://dev.to/wonderlab/rag-series-2-building-your-first-rag-pipeline-with-langchain-2kk7)
-- [How to Build Deferred Tool Loading for AI Agents in 15 Minutes](https://dev.to/nebulagg/how-to-build-deferred-tool-loading-for-ai-agents-in-15-minutes-idc)
-- [The asyncio Mistake That Cost Me 3 Hours](https://dev.to/_eb7f2a654e97a60ae9f96e/the-asyncio-mistake-that-cost-me-3-hours-1l84)
-- [TPUs vs. GPUs: What They Are, How They Differ, and Which Workloads Belong on Each](https://dev.to/1grace/tpus-vs-gpus-what-they-are-how-they-differ-and-which-workloads-belong-on-each-278p)
-- [3 Hours Wasted on asyncio Pitfalls That Almost Took Down Production](https://dev.to/_eb7f2a654e97a60ae9f96e/3-hours-wasted-on-asyncio-pitfalls-that-almost-took-down-production-3olj)
+- [Hono Has 34M Weekly Downloads and One Maintainer](https://dev.to/piiiico/hono-has-34m-weekly-downloads-and-one-maintainer-185l)
+- [Running Parallel AI Agents Locally Using Git Worktrees &lpar;A Practical Setup&rpar;](https://dev.to/sanjay_yadav_df9aa9af10ef/running-parallel-ai-agents-locally-using-git-worktrees-a-practical-setup-105o)
+- [Understanding Data Types in Python](https://dev.to/gamya_m/understanding-data-types-in-python-259b)
+- [I is not singular — Multi-Agent Simulation with Cognitive Architecture on a Single 8GB GPU](https://dev.to/as1as/i-is-not-singular-multi-agent-simulation-with-cognitive-architecture-on-a-single-8gb-gpu-198c)
+- [LLM Study Diary #1: Transformer](https://dev.to/zhu_sofia_015552d01df4321/llm-study-dairy-1-transformer-59ip)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
