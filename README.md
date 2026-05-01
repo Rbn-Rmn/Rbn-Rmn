@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Top Solana RPC Providers in 2026 - A Comprehensive Guide](https://dev.to/orbitflarerpc/top-solana-rpc-providers-in-2026-a-comprehensive-guide-5hck)
-- [Insomnia vs Rentgen — powerful API platform vs raw API reality](https://dev.to/liudasjan/insomnia-vs-rentgen-powerful-api-platform-vs-raw-api-reality-230o)
-- [I built an AI agent that audits a site&#39;s visibility in both Google AND ChatGPT/Perplexity — here&#39;s how it works](https://dev.to/webfluence_digital/i-built-an-ai-agent-that-audits-a-sites-visibility-in-both-google-and-chatgptperplexity-heres-277o)
-- [A warehouse supervisor&#39;s guide to shipping a SaaS in 3 weeks &lpar;with a lot of AI help&rpar;](https://dev.to/ricardo_diazmiralles/a-warehouse-supervisors-guide-to-shipping-a-saas-in-3-weeks-with-a-lot-of-ai-help-4goi)
-- [Building an Agent that respects User Permissions — With AWS Bedrock AgentCore and Entra ID](https://dev.to/sumanthprasad/building-an-agent-that-respects-user-permissions-with-aws-bedrock-agentcore-and-entra-id-10f9)
+- [Step-by-Step: Self-Host Matrix 2.0 with Docker 27 and PostgreSQL 17](https://dev.to/johalputt/step-by-step-self-host-matrix-20-with-docker-27-and-postgresql-17-38c0)
+- [Identity on Blockchain: How It Differs from the Traditional Web &lpar;with a Focus on Solana&rpar;](https://dev.to/hxrh/identity-on-blockchain-how-it-differs-from-the-traditional-web-with-a-focus-on-solana-4640)
+- [Why CLI over MCP?](https://dev.to/marcelo_earth/why-cli-over-mcp-4b5h)
+- [The O&lpar;n^2&rpar; Bug That Looked Like Clean Code](https://dev.to/aralroca/the-on2-bug-that-looked-like-clean-code-3556)
+- [3 Asyncio Pitfalls That Took Me 3 Hours to Debug and Almost Crashed Production](https://dev.to/_eb7f2a654e97a60ae9f96e/3-asyncio-pitfalls-that-took-me-3-hours-to-debug-and-almost-crashed-production-1fdm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
