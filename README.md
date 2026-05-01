@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Your Git Workflow: How to Seamlessly Transfer GitHub Repositories](https://dev.to/devactivity/streamlining-your-git-workflow-how-to-seamlessly-transfer-github-repositories-24cf)
-- [🤖 Agentic Security: Your AI Got Autonomy. Did Your Security Catch Up?](https://dev.to/17j/agentic-security-your-ai-got-autonomy-did-your-security-catch-up-3leg)
-- [Optionals na linguagem de programação Swift](https://dev.to/natorsc/optionals-na-linguagem-de-programacao-swift-45gi)
-- [Attention Is All You Need - Part 4](https://dev.to/ganesh-kumar/attention-is-all-you-need-part-4-i21)
-- [# I Built a Full-Stack App Used by 500+ Real Users as a College Student — Here&#39;s What Nobody Tells You](https://dev.to/aswini_sm_10/-i-built-a-full-stack-app-used-by-500-real-users-as-a-college-student-heres-what-nobody-tells-1okc)
+- [ccgate: Delegate Claude/Codex permission prompts to an LLM &lpar;~97% automated for me&rpar;](https://dev.to/tak848/ccgate-delegate-claude-code-codex-cli-permission-prompts-to-an-llm-274c)
+- [How I Built a Laravel Package to Send Error Alerts to Telegram, Slack &amp; Discord](https://dev.to/abdullah_alhumsi_f0769b25/how-i-built-a-laravel-package-to-send-error-alerts-to-telegram-slack-discord-1jld)
+- [I Automated Work-Life Calendar Sync With Two AI Agents That Talk to Each Other](https://dev.to/htekdev/i-automated-work-life-calendar-sync-with-two-ai-agents-that-talk-to-each-other-1bbb)
+- [How We Test a Feature Flag Platform: 1,192 Tests Across 13 SDKs](https://dev.to/domenico_giordano_e441224/how-we-test-a-feature-flag-platform-1192-tests-across-13-sdks-51a8)
+- [From an article to a library: hybrid caching for Spring Boot, completed](https://dev.to/mahmoud_nawwar_2024/from-an-article-to-a-library-hybrid-caching-for-spring-boot-completed-11oh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
