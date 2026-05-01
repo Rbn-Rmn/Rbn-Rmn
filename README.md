@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Part 1: Common Mistakes in Performance Testing - Running Tests from Your Local Machine](https://dev.to/oleh_koren/part-1-common-mistakes-in-performance-testing-running-tests-from-your-local-machine-4mie)
-- [How React streams UI, React Compiler Rendering, dev3000 CLI, TSRX, Replay, Scroll-Driven Animations, Ship 26 tickets](https://dev.to/erfanebrahimnia/how-react-streams-ui-react-compiler-rendering-dev3000-cli-tsrx-replay-scroll-driven-iig)
-- [Why accessibility overlay widgets don&#39;t actually work &lpar;and the FTC just fined one $1M&rpar;](https://dev.to/asafamos/why-accessibility-overlay-widgets-dont-actually-work-and-the-ftc-just-fined-one-1m-51l0)
-- [Your pytest configuration is lying to you. Not loudly but just quietly running different things in different places.](https://dev.to/michle/your-pytest-configuration-is-lying-to-you-not-loudly-but-just-quietly-running-different-things-in-4m2k)
-- [PeachBot Core: An Early-Stage Edge AI System Prototype &lpar;How It Works + How to Run&rpar;](https://dev.to/swapin_vidya_426f181a23d9/peachbot-core-an-early-stage-edge-ai-system-prototype-how-it-works-how-to-run-11j1)
+- [Streamlining Your Git Workflow: How to Seamlessly Transfer GitHub Repositories](https://dev.to/devactivity/streamlining-your-git-workflow-how-to-seamlessly-transfer-github-repositories-24cf)
+- [🤖 Agentic Security: Your AI Got Autonomy. Did Your Security Catch Up?](https://dev.to/17j/agentic-security-your-ai-got-autonomy-did-your-security-catch-up-3leg)
+- [Optionals na linguagem de programação Swift](https://dev.to/natorsc/optionals-na-linguagem-de-programacao-swift-45gi)
+- [Attention Is All You Need - Part 4](https://dev.to/ganesh-kumar/attention-is-all-you-need-part-4-i21)
+- [# I Built a Full-Stack App Used by 500+ Real Users as a College Student — Here&#39;s What Nobody Tells You](https://dev.to/aswini_sm_10/-i-built-a-full-stack-app-used-by-500-real-users-as-a-college-student-heres-what-nobody-tells-1okc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
