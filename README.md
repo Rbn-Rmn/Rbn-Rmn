@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [From Vibe Coding to Clarity: Auditing My Own Backend Project](https://dev.to/obianuju_dev/from-vibe-coding-to-clarity-auditing-my-own-backend-project-4pfi)
-- [The Performance Battle benchmark SolidJS deep dive React Server Components: A Practical Guide](https://dev.to/johalputt/the-performance-battle-benchmark-solidjs-deep-dive-react-server-components-a-practical-guide-1hlf)
-- [Canonical under DDoS: what my Railway logs and uptime say about my real exposure](https://dev.to/jtorchia/canonical-under-ddos-what-my-railway-logs-and-uptime-say-about-my-real-exposure-jm3)
-- [Canonical bajo DDoS: lo que mis logs de Railway y uptime dicen sobre mi exposición real](https://dev.to/jtorchia/canonical-bajo-ddos-lo-que-mis-logs-de-railway-y-uptime-dicen-sobre-mi-exposicion-real-58km)
-- [5-Minute AI Jobs and Closed Tabs — Why We Built Replay-Then-Tail SSE](https://dev.to/akshatsoni26/5-minute-ai-jobs-and-closed-tabs-why-we-built-replay-then-tail-sse-2fn1)
+- [You’re Not Bad at Programming. You Just Escape When It Gets Hard.](https://dev.to/yogya_goyal/youre-not-bad-at-programming-you-just-quit-too-early-3d8e)
+- [War Story: We Survived a 2-Hour Outage with Redis 8.0 Cluster and Sentinel](https://dev.to/johalputt/war-story-we-survived-a-2-hour-outage-with-redis-80-cluster-and-sentinel-3ek1)
+- [TestSprite: Reseña de Desarrollador Localizada &lpar;es-ES&rpar; — Fechas, Caracteres Especiales y Zonas Horarias](https://dev.to/mio_storksoft/testsprite-resena-de-desarrollador-localizada-es-es-fechas-caracteres-especiales-y-zonas-44o5)
+- [State of AI Code Review | April 2026 Recap](https://dev.to/lewiska/state-of-ai-code-review-april-2026-recap-5acb)
+- [Incremental Modernization Architecture: Splitting Monoliths into Microservices Without Breaking the Business](https://dev.to/sauloos/incremental-modernization-architecture-splitting-monoliths-into-microservices-without-breaking-the-2hkk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
