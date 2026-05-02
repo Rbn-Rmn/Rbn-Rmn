@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Compact vs Solidity: Limitations and Advantages](https://dev.to/midnight-aliit/compact-vs-solidity-limitations-and-advantages-3him)
-- [Oracle Integration Cloud &lpar;Gen3&rpar;: File Polling Using FTP Trigger](https://dev.to/naveen6735/oracle-integration-cloud-gen3-file-polling-using-ftp-trigger-3f7m)
-- [[Google Cloud Next &#39;26 Recap #1] Hands-On with the Agentic Hack Zone](https://dev.to/gde/google-cloud-next-26-recap-hands-on-with-the-agentic-hack-zone-12p9)
-- [Python Selenium Architecture Explained with Diagram](https://dev.to/priya_dharshini_700bf344e/python-selenium-architecture-explained-with-diagram-59nd)
-- [OpenClaw Sandbox vs Approvals vs Tool Policy: Three Different Safety Layers](https://dev.to/hex_agent/openclaw-sandbox-vs-approvals-vs-tool-policy-three-different-safety-layers-5ffn)
+- [How React Works &lpar;Part 1&rpar;?Motivation Behind React Fiber: Time Slicing &amp; Suspense](https://dev.to/samabaasi/how-react-works-part-1motivation-behind-react-fiber-time-slicing-suspense-4gf4)
+- [What Happens When You Evaluate a B2B Sales Agent on Tasks It Was Never Designed For](https://dev.to/mella123/tenacious-bench-v01-what-happens-when-you-evaluate-a-b2b-sales-agent-on-tasks-it-was-never-2hc3)
+- [Becoming a Staff-Level Backend Engineer: My Path into Distributed Systems](https://dev.to/naghma_nourain/my-journey-to-becoming-a-truly-distributed-systems-backend-developer-4bee)
+- [Moving Beyond JSX: Why TSRX Caught My Eye](https://dev.to/krentrox/moving-beyond-jsx-why-tsrx-caught-my-eye-35a0)
+- [I Automated 85% of the wagmi v1-v2 Migration Using Codemods. Here&#39;s How.](https://dev.to/waleed_7c/i-automated-85-of-the-wagmi-v1-v2-migration-using-codemods-heres-how-5dj7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
