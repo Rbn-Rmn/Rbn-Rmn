@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [TOON File Format Anatomy: Schema-Once, Data-Many for LLM Pipelines 🎯📄](https://dev.to/databro/toon-file-format-anatomy-schema-once-data-many-for-llm-pipelines-5ba3)
-- [Lakera Guard in 30 Lines — Production-Ready AI Safety for Next.js Route Handlers &lpar;2026&rpar;](https://dev.to/brandon-vibestart/lakera-guard-in-30-lines-production-ready-ai-safety-for-nextjs-route-handlers-2026-4j70)
-- [Strong vs Eventual Consistency in System Design](https://dev.to/samowolabi/strong-vs-eventual-consistency-in-system-design-52nd)
-- [Decentralized Oracle Manipulation and Price Feed Security](https://dev.to/mericcintosun/decentralized-oracle-manipulation-and-price-feed-security-2mla)
-- [Integrating ServiceNow Incidents with Elastic AI Agents for Observability Analysis](https://dev.to/nobu_sekiya_4594ca10c/integrating-servicenow-incidents-with-elastic-ai-agents-for-observability-analysis-5fce)
+- [From Vibe Coding to Clarity: Auditing My Own Backend Project](https://dev.to/obianuju_dev/from-vibe-coding-to-clarity-auditing-my-own-backend-project-4pfi)
+- [The Performance Battle benchmark SolidJS deep dive React Server Components: A Practical Guide](https://dev.to/johalputt/the-performance-battle-benchmark-solidjs-deep-dive-react-server-components-a-practical-guide-1hlf)
+- [Canonical under DDoS: what my Railway logs and uptime say about my real exposure](https://dev.to/jtorchia/canonical-under-ddos-what-my-railway-logs-and-uptime-say-about-my-real-exposure-jm3)
+- [Canonical bajo DDoS: lo que mis logs de Railway y uptime dicen sobre mi exposición real](https://dev.to/jtorchia/canonical-bajo-ddos-lo-que-mis-logs-de-railway-y-uptime-dicen-sobre-mi-exposicion-real-58km)
+- [5-Minute AI Jobs and Closed Tabs — Why We Built Replay-Then-Tail SSE](https://dev.to/akshatsoni26/5-minute-ai-jobs-and-closed-tabs-why-we-built-replay-then-tail-sse-2fn1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
