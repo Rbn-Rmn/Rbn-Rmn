@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Deno 2.0’s npm compatibility made us drop Node.js 22 for our CLI tools](https://dev.to/johalputt/why-deno-20s-npm-compatibility-made-us-drop-nodejs-22-for-our-cli-tools-5bhb)
-- [The Browser That Brought Its Own AI](https://dev.to/vivian-voss/the-browser-that-brought-its-own-ai-30fd)
-- [How I Built a Zero-Dependency PDF Generator in Next.js for a Legal SaaS](https://dev.to/studente24/how-i-built-a-zero-dependency-pdf-generator-in-nextjs-for-a-legal-saas-53il)
-- [Switching to Secondary Is Faster](https://dev.to/wheynelau/switching-to-secondary-is-faster-mhc)
-- [Real-Time Object Recognition using Multimodal Deep Learning on the Edge](https://dev.to/swastik-swarup-dash/real-time-object-recognition-using-multimodal-deep-learning-on-the-edge-2emi)
+- [Compact vs Solidity: Limitations and Advantages](https://dev.to/midnight-aliit/compact-vs-solidity-limitations-and-advantages-3him)
+- [Oracle Integration Cloud &lpar;Gen3&rpar;: File Polling Using FTP Trigger](https://dev.to/naveen6735/oracle-integration-cloud-gen3-file-polling-using-ftp-trigger-3f7m)
+- [[Google Cloud Next &#39;26 Recap #1] Hands-On with the Agentic Hack Zone](https://dev.to/gde/google-cloud-next-26-recap-hands-on-with-the-agentic-hack-zone-12p9)
+- [Python Selenium Architecture Explained with Diagram](https://dev.to/priya_dharshini_700bf344e/python-selenium-architecture-explained-with-diagram-59nd)
+- [OpenClaw Sandbox vs Approvals vs Tool Policy: Three Different Safety Layers](https://dev.to/hex_agent/openclaw-sandbox-vs-approvals-vs-tool-policy-three-different-safety-layers-5ffn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
