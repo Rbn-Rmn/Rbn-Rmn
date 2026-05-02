@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [TextExpander Alternatives for Mac in 2026: An Honest Comparison](https://dev.to/quicopy/textexpander-alternatives-for-mac-in-2026-an-honest-comparison-3cn8)
-- [I Tried Every Coding Course. I Finished None of Them.](https://dev.to/legacyking/i-tried-every-coding-course-i-finished-none-of-them-13nm)
-- [Spotify Verified for Human Artists: What It Signals for Code, Content, and My Own Blog](https://dev.to/jtorchia/spotify-verified-for-human-artists-what-it-signals-for-code-content-and-my-own-blog-2bk5)
-- [Spotify Verified para artistas humanos: lo que esto anticipa para el código, el contenido y mi propio blog](https://dev.to/jtorchia/spotify-verified-para-artistas-humanos-lo-que-esto-anticipa-para-el-codigo-el-contenido-y-mi-30b8)
-- [Cloudflare agents can now buy domains. The case for runtime spend rails just got concrete.](https://dev.to/pat9000/cloudflare-agents-can-now-buy-domains-the-case-for-runtime-spend-rails-just-got-concrete-539f)
+- [TOON File Format Anatomy: Schema-Once, Data-Many for LLM Pipelines 🎯📄](https://dev.to/databro/toon-file-format-anatomy-schema-once-data-many-for-llm-pipelines-5ba3)
+- [Lakera Guard in 30 Lines — Production-Ready AI Safety for Next.js Route Handlers &lpar;2026&rpar;](https://dev.to/brandon-vibestart/lakera-guard-in-30-lines-production-ready-ai-safety-for-nextjs-route-handlers-2026-4j70)
+- [Strong vs Eventual Consistency in System Design](https://dev.to/samowolabi/strong-vs-eventual-consistency-in-system-design-52nd)
+- [Decentralized Oracle Manipulation and Price Feed Security](https://dev.to/mericcintosun/decentralized-oracle-manipulation-and-price-feed-security-2mla)
+- [Integrating ServiceNow Incidents with Elastic AI Agents for Observability Analysis](https://dev.to/nobu_sekiya_4594ca10c/integrating-servicenow-incidents-with-elastic-ai-agents-for-observability-analysis-5fce)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
