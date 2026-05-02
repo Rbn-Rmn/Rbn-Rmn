@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What is an Engineering Director Anyway?](https://dev.to/solidi/what-is-an-engineering-director-anyway-1acc)
-- [How I built a production-ready Wazuh SIEM on Docker &lpar;with custom rules for VMware, AWS and GCP&rpar;](https://dev.to/giulio_savini_/how-i-built-a-production-ready-wazuh-siem-on-docker-with-custom-rules-for-vmware-aws-and-gcp-11i3)
-- [Building Jungle Grid: Real AI Workloads You Can Run Without Manually Picking GPUs](https://dev.to/jaguarkyng/building-jungle-grid-real-ai-workloads-you-can-run-without-manually-picking-gpus-eii)
-- [DBX: An Open-Source, 15 MB Database Client for 17+ Databases &lpar;Built with Tauri&rpar;](https://dev.to/t8y2/dbx-an-open-source-15-mb-database-client-for-17-databases-built-with-tauri-45oe)
-- [Hello World of RAG - Day 1](https://dev.to/gokul_kannan_1011/hello-world-of-rag-day-1-15l9)
+- [Scalar Setup ASP.NET Core Web API](https://dev.to/sharadaade/scalar-setupt-aspnet-core-web-api-26cj)
+- [The gay jailbreak: I ran the viral technique against my own production prompts and here&#39;s what I found](https://dev.to/jtorchia/the-gay-jailbreak-i-ran-the-viral-technique-against-my-own-production-prompts-and-heres-what-i-4017)
+- [The gay jailbreak: probé la técnica viral sobre mis propios prompts de producción y esto encontré](https://dev.to/jtorchia/the-gay-jailbreak-probe-la-tecnica-viral-sobre-mis-propios-prompts-de-produccion-y-esto-encontre-42h7)
+- [Quark&#39;s Outlines: Python Name Spaces](https://dev.to/mike-vincent/quarks-outlines-python-name-spaces-3a18)
+- [Self Querying Retrieval](https://dev.to/rushanksavant/self-querying-retrieval-4njo)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
