@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Scalar Setup ASP.NET Core Web API](https://dev.to/sharadaade/scalar-setupt-aspnet-core-web-api-26cj)
-- [The gay jailbreak: I ran the viral technique against my own production prompts and here&#39;s what I found](https://dev.to/jtorchia/the-gay-jailbreak-i-ran-the-viral-technique-against-my-own-production-prompts-and-heres-what-i-4017)
-- [The gay jailbreak: probé la técnica viral sobre mis propios prompts de producción y esto encontré](https://dev.to/jtorchia/the-gay-jailbreak-probe-la-tecnica-viral-sobre-mis-propios-prompts-de-produccion-y-esto-encontre-42h7)
-- [Quark&#39;s Outlines: Python Name Spaces](https://dev.to/mike-vincent/quarks-outlines-python-name-spaces-3a18)
-- [Self Querying Retrieval](https://dev.to/rushanksavant/self-querying-retrieval-4njo)
+- [TextExpander Alternatives for Mac in 2026: An Honest Comparison](https://dev.to/quicopy/textexpander-alternatives-for-mac-in-2026-an-honest-comparison-3cn8)
+- [I Tried Every Coding Course. I Finished None of Them.](https://dev.to/legacyking/i-tried-every-coding-course-i-finished-none-of-them-13nm)
+- [Spotify Verified for Human Artists: What It Signals for Code, Content, and My Own Blog](https://dev.to/jtorchia/spotify-verified-for-human-artists-what-it-signals-for-code-content-and-my-own-blog-2bk5)
+- [Spotify Verified para artistas humanos: lo que esto anticipa para el código, el contenido y mi propio blog](https://dev.to/jtorchia/spotify-verified-para-artistas-humanos-lo-que-esto-anticipa-para-el-codigo-el-contenido-y-mi-30b8)
+- [Cloudflare agents can now buy domains. The case for runtime spend rails just got concrete.](https://dev.to/pat9000/cloudflare-agents-can-now-buy-domains-the-case-for-runtime-spend-rails-just-got-concrete-539f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
