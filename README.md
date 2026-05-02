@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How React Works &lpar;Part 1&rpar;?Motivation Behind React Fiber: Time Slicing &amp; Suspense](https://dev.to/samabaasi/how-react-works-part-1motivation-behind-react-fiber-time-slicing-suspense-4gf4)
-- [What Happens When You Evaluate a B2B Sales Agent on Tasks It Was Never Designed For](https://dev.to/mella123/tenacious-bench-v01-what-happens-when-you-evaluate-a-b2b-sales-agent-on-tasks-it-was-never-2hc3)
-- [Becoming a Staff-Level Backend Engineer: My Path into Distributed Systems](https://dev.to/naghma_nourain/my-journey-to-becoming-a-truly-distributed-systems-backend-developer-4bee)
-- [Moving Beyond JSX: Why TSRX Caught My Eye](https://dev.to/krentrox/moving-beyond-jsx-why-tsrx-caught-my-eye-35a0)
-- [I Automated 85% of the wagmi v1-v2 Migration Using Codemods. Here&#39;s How.](https://dev.to/waleed_7c/i-automated-85-of-the-wagmi-v1-v2-migration-using-codemods-heres-how-5dj7)
+- [What is an Engineering Director Anyway?](https://dev.to/solidi/what-is-an-engineering-director-anyway-1acc)
+- [How I built a production-ready Wazuh SIEM on Docker &lpar;with custom rules for VMware, AWS and GCP&rpar;](https://dev.to/giulio_savini_/how-i-built-a-production-ready-wazuh-siem-on-docker-with-custom-rules-for-vmware-aws-and-gcp-11i3)
+- [Building Jungle Grid: Real AI Workloads You Can Run Without Manually Picking GPUs](https://dev.to/jaguarkyng/building-jungle-grid-real-ai-workloads-you-can-run-without-manually-picking-gpus-eii)
+- [DBX: An Open-Source, 15 MB Database Client for 17+ Databases &lpar;Built with Tauri&rpar;](https://dev.to/t8y2/dbx-an-open-source-15-mb-database-client-for-17-databases-built-with-tauri-45oe)
+- [Hello World of RAG - Day 1](https://dev.to/gokul_kannan_1011/hello-world-of-rag-day-1-15l9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
