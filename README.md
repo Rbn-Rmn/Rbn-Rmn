@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I added LLM fallback to my OpenAI app in 10 minutes](https://dev.to/jayrai/how-i-added-llm-fallback-to-my-openai-app-in-10-minutes-3d35)
-- [Convert URDF to MuJoCo MJCF Without Installing Anything API + Python SDK](https://dev.to/ravindhar/convert-urdf-to-mujoco-mjcf-without-installing-anything-api-python-sdk-43ge)
-- [shadcn vs Radix vs Base UI: Which One Should a Junior Pick in 2026?](https://dev.to/edriso/shadcn-vs-radix-vs-base-ui-which-one-should-a-junior-pick-in-2026-1jml)
-- [Building a Developer Tool on Gemini&#39;s Free Tier — What&#39;s Actually Possible](https://dev.to/hiyoyok/building-a-developer-tool-on-geminis-free-tier-whats-actually-possible-3f33)
-- [Turning Repository Knowledge Into Usable Agent Context](https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4)
+- [Pandas&#39; secret mini-language](https://dev.to/aaronmaxwell/pandas-secret-mini-language-3h96)
+- [Hey Guys, I&#39;ve Created Modern Alternative for Windows XCOPY](https://dev.to/lyneetrastudio/hey-guys-ive-created-modern-alternative-for-windows-xcopy-9nl)
+- [I thought multi-agent meant more prompts until I saw 3 ways OpenClaw users are actually splitting the work](https://dev.to/lars_winstand/i-thought-multi-agent-meant-more-prompts-until-i-saw-3-ways-openclaw-users-are-actually-splitting-13ko)
+- [Industry RPS Benchmarks 2026 — Where Your DTC Brand Stands Across Apparel, Food, Beauty, Electronics, and SaaS](https://dev.to/toshihiro_shishido/industry-rps-benchmarks-2026-where-your-dtc-brand-stands-across-apparel-food-beauty-5fic)
+- [Why Your ML Model Is Quietly Failing — And How to Catch It Before It Costs You](https://dev.to/jimkat/why-your-ml-model-is-quietly-failing-and-how-to-catch-it-before-it-costs-you-372j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
