@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Day We Discovered Defer Was Costing Us $78K &lpar;And I Almost Missed It&rpar;](https://dev.to/speed_engineer/the-day-we-discovered-defer-was-costing-us-78k-and-i-almost-missed-it-339a)
-- [Code Is a Commodity. Judgment Is Not.](https://dev.to/sargentjamesa/code-is-a-commodity-judgment-is-not-214a)
-- [Real-Time on the Frontend - SSE, WebSockets &amp; Polling](https://dev.to/codescoop/real-time-on-the-frontend-sse-websockets-polling-i2f)
-- [ƎUИИ](https://dev.to/sebastiandevelops/-5c89)
-- [I built a free, unlimited cloud storage app](https://dev.to/imaryannn/i-built-a-free-unlimited-cloud-storage-app-2fi0)
+- [Agentic Coding without Claude and Codex&quot;](https://dev.to/nuculabs_dev/agentic-coding-without-claude-and-codex-4nfh)
+- [Mistral Medium 3.5 Review: A 128B Open-Weight Model With a Coding Agent That Opens PRs For You](https://dev.to/techsifted/mistral-medium-35-review-a-128b-open-weight-model-with-a-coding-agent-that-opens-prs-for-you-5a0i)
+- [Deep Dive: Tailscale 1.60 Subnet Routing and How to Use for Home Lab Access](https://dev.to/johalputt/deep-dive-tailscale-160-subnet-routing-and-how-to-use-for-home-lab-access-460c)
+- [I Built and Launched Theta — A Modern Project Management Platform](https://dev.to/theta_pm/i-built-and-launched-theta-a-modern-project-management-platform-4cmf)
+- [SaaS Won&#39;t Die Because of AI](https://dev.to/theinvariant/saas-wont-die-because-of-ai-10d0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
