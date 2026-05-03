@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Never stop learning](https://dev.to/karenpayneoregon/never-stop-learning-4nk1)
-- [Your AI Is Doing the Wrong Job. That&#39;s On You.](https://dev.to/edfife/your-ai-is-doing-the-wrong-job-thats-on-you-3182)
-- [From Code to Clouds: Hosting a Professional Resume on GitHub Pages&lpar;2&rpar;](https://dev.to/rahimah_dev/from-code-to-clouds-hosting-a-professional-resume-on-github-pages2-3poi)
-- [I forgot a domain was auto-renewing. So I built a dashboard for my side projects.](https://dev.to/pigeoncodeur/i-forgot-a-domain-was-auto-renewing-so-i-built-a-dashboard-for-my-side-projects-1f9a)
-- [Deleting the “Nice” Anti-Pattern: A Personal Systems Refactor](https://dev.to/khalisollis/deleting-the-nice-anti-pattern-a-personal-systems-refactor-56k)
+- [Using AI to Learn and Prepare for Certification Exams](https://dev.to/pbaletkeman/using-ai-to-learn-and-prepare-for-certification-exams-1og)
+- [GitHub Copilot&#39;s 27x Billing Trap is Closing — The Budget Guard Deadline](https://dev.to/amedinat/github-copilots-27x-billing-trap-is-closing-the-budget-guard-deadline-1ioc)
+- [I always worried my READMEs disagreed with my own repos. So I built README Clew.](https://dev.to/earlgreyhot1701d/i-always-worried-my-own-readmes-disagreed-with-my-own-repos-so-i-built-readme-clew-42i5)
+- [GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/erikqin/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1h9f)
+- [How I Automated the Entire Web3 Frontend Stack Migration in One Command](https://dev.to/tobiasbond/how-i-automated-the-entire-web3-frontend-stack-migration-in-one-command-5clm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
