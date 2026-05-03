@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Feature Flags That Actually Ship: Lessons From the Trenches](https://dev.to/pravin-khandke/feature-flags-that-actually-ship-lessons-from-the-trenches-b7a)
-- [How I stopped my README.md and README.zh.md from drifting apart](https://dev.to/_alexander_a_/how-i-stopped-my-readmemd-and-readmezhmd-from-drifting-apart-44lm)
-- [Cursor Session Management: How to Find, Search, and Organize Your AI Coding Conversations](https://dev.to/gonewx/cursor-session-management-how-to-find-search-and-organize-your-ai-coding-conversations-37la)
-- [Why I built Clever Deploy](https://dev.to/cleverdeploy/why-i-built-clever-deploy-1j46)
-- [Giving an AI agent permission to spawn sub-agents &lpar;without losing control&rpar;](https://dev.to/thegdsks/giving-an-ai-agent-permission-to-spawn-sub-agents-without-losing-control-5901)
+- [Serverless Workflow Decomposition: When a Step Function Becomes a Monolith](https://dev.to/aws-builders/serverless-workflow-decomposition-when-a-step-function-becomes-a-monolith-1hch)
+- [The date bug that cost us a $120K contract and what i built to make sure it never happens again](https://dev.to/archie_602b60dff31296530b/the-date-bug-that-cost-us-a-120k-contract-and-what-i-built-to-make-sure-it-never-happens-again-5cb0)
+- [From Visual Studio 2026 to VS Code: Paledev Dark Theme](https://dev.to/jtgmagic/from-visual-studio-2026-to-vs-code-paledev-dark-theme-2j43)
+- [Consistência Eventual em Sistemas Distribuídos](https://dev.to/guilherme_ryu/consistencia-eventual-em-sistemas-distribuidos-26oj)
+- [Why I Used wttr.in Instead of OpenWeatherMap for My Firefox Extension](https://dev.to/weatherclockdash/why-i-used-wttrin-instead-of-openweathermap-for-my-firefox-extension-2f0k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
