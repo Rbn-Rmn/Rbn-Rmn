@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Run Claude Code&#39;s --dangerously-skip-permissions Safely with Docker](https://dev.to/trekhleb/run-claude-codes-dangerously-skip-permissions-safely-with-docker-514d)
-- [How Localized Chat Pages Helped Increase Organic Traffic to 160K Clicks](https://dev.to/gowrishankar_rangasamy_f9/how-localized-chat-pages-helped-increase-organic-traffic-to-160k-clicks-37cg)
-- [Specsmaxxing: I Wrote YAML Specs for My AI Agents — Here&#39;s What Changed &lpar;and What Didn&#39;t&rpar;](https://dev.to/jtorchia/specsmaxxing-i-wrote-yaml-specs-for-my-ai-agents-heres-what-changed-and-what-didnt-3ld6)
-- [Specsmaxxing: escribí mis specs en YAML para mis agentes y esto cambió &lpar;y esto no&rpar;](https://dev.to/jtorchia/specsmaxxing-escribi-mis-specs-en-yaml-para-mis-agentes-y-esto-cambio-y-esto-no-5fj6)
-- [I Built an npm Package in 6.5 Hours with AI Agents — And It Actually Works](https://dev.to/chriswessells/i-built-an-npm-package-in-65-hours-with-ai-agents-and-it-actually-works-37nc)
+- [Building a Travel Power Adapter Tool with Claude in a Weekend](https://dev.to/vientapps/building-a-travel-power-adapter-tool-with-claude-in-a-weekend-56i8)
+- [Building in public, week 7: 19 pages, 189 missing FAQ entries, and organic search finally showing up](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-7-19-pages-189-missing-faq-entries-and-organic-search-finally-showing-up-22c)
+- [The &quot;Human&quot; Protocol: Why Clarity is the Ultimate Technical Skill](https://dev.to/kate8382/the-human-protocol-why-clarity-is-the-ultimate-technical-skill-4n4l)
+- [Understanding Bastion Hosts: The Quite Gatekeepers of Modern Infrastructure](https://dev.to/amin_haiqal_2b12dc1098e18/understanding-bastion-hosts-the-quite-gatekeepers-of-modern-infrastructure-436m)
+- [We Cut 40% of Our Security Incidents Using Trivy 0.50 and Falco 0.40](https://dev.to/johalputt/we-cut-40-of-our-security-incidents-using-trivy-050-and-falco-040-50hg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
