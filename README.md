@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Happy Path&quot; is a Lie: Why You Feel Unprepared for Production](https://dev.to/i_am_codeliftsleep/the-happy-path-is-a-lie-why-you-feel-unprepared-for-production-46j9)
-- [AHE Deep Dive: How Coding Agent Harnesses Automatically Evolve](https://dev.to/luhuidev/ahe-deep-dive-how-coding-agent-harnesses-automatically-evolve-2him)
-- [Masking and Compositing &lpar;mask-image&rpar; in CSS](https://dev.to/nickbenksim/masking-and-compositing-mask-image-in-css-1hej)
-- [[Google Cloud Next &#39;26 Recap #3] Anthropic&#39;s Vision for &quot;After Software&quot;](https://dev.to/gde/google-cloud-next-26-recap-3-anthropics-vision-for-after-software-2cj6)
-- [Secure API Calling With Custom GPTs and Descope](https://dev.to/descope/secure-api-calling-with-custom-gpts-and-descope-iig)
+- [I built a free macOS app to mount SFTP, S3, and FTP as real Finder volumes — no macFUSE](https://dev.to/ayonpal/i-built-a-free-macos-app-to-mount-sftp-s3-and-ftp-as-real-finder-volumes-no-macfuse-lcn)
+- [GPU Utilization Is a Counter, Not a Cause](https://dev.to/ingero/gpu-utilization-is-a-counter-not-a-cause-n6e)
+- [🧠 Building Apps That Think: Why Most Developers Are Just Assembling, Not Creating](https://dev.to/anubhavvv___/building-apps-that-think-why-most-developers-are-just-assembling-not-creating-54h7)
+- [Hermes Agent VPS vs Managed Hosting: Which One Makes Sense?](https://dev.to/farrukh_tariq_b2d419a76cf/hermes-agent-vps-vs-managed-hosting-which-one-makes-sense-53pm)
+- [What ATS screening software actually checks in 2026](https://dev.to/goofypluto999/what-ats-screening-software-actually-checks-in-2026-7f1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
