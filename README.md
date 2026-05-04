@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to MVP: A Practical Guide to Prediction Market Development](https://dev.to/bergnadette_viliam_4e7523/from-zero-to-mvp-a-practical-guide-to-prediction-market-development-2kkp)
-- [🔐Enforcing image provenance in Kubernetes using Cosign + Sigstore + Kyverno](https://dev.to/trottomv/enforcing-image-provenance-in-kubernetes-using-cosign-sigstore-kyverno-kna)
-- [Ingress Migration Strategy: From Deprecated Controllers to Gateway API](https://dev.to/matthiasbruns/ingress-migration-strategy-from-deprecated-controllers-to-gateway-api-1607)
-- [Revolutionize the comparison of Mistral 2 and RAG: What Fails](https://dev.to/johalputt/revolutionize-the-comparison-of-mistral-2-and-rag-what-fails-4jl3)
-- [I built a carbon linter for Terraform PRs — here&#39;s the full stack](https://dev.to/grafikui/i-built-a-carbon-linter-for-terraform-prs-heres-the-full-stack-3g5p)
+- [AI Integration, Transforming Workplaces and Employee Futures - SmarterArticles S1E3](https://dev.to/rawveg/ai-integration-transforming-workplaces-and-employee-futures-smarterarticles-s1e3-3a83)
+- [How Ecodomen.ru Helps Save on Domains](https://dev.to/arezvov/how-ecodomenru-helps-save-on-domains-4k0d)
+- [I built an AI that automatically reviews your GitHub PRs](https://dev.to/murtaztahir2ai/i-built-an-ai-that-automatically-reviews-your-github-prs-4cef)
+- [MCP Ecosystem Week 19: Data Intelligence and Safety Tools Lead New Arrivals](https://dev.to/curatedmcp/mcp-ecosystem-week-19-data-intelligence-and-safety-tools-lead-new-arrivals-33kb)
+- [From a For-Loop to a Fault-Tolerant Payout System &lpar;₹70L/month, 0 Duplicate Payments&rpar;](https://dev.to/miteshvasoya/from-a-for-loop-to-a-fault-tolerant-payout-system-70lmonth-0-duplicate-payments-4cfp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
