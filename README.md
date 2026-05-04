@@ -133,11 +133,15 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Workflow Decomposition: When a Step Function Becomes a Monolith](https://dev.to/aws-builders/serverless-workflow-decomposition-when-a-step-function-becomes-a-monolith-1hch)
-- [The date bug that cost us a $120K contract and what i built to make sure it never happens again](https://dev.to/archie_602b60dff31296530b/the-date-bug-that-cost-us-a-120k-contract-and-what-i-built-to-make-sure-it-never-happens-again-5cb0)
-- [From Visual Studio 2026 to VS Code: Paledev Dark Theme](https://dev.to/jtgmagic/from-visual-studio-2026-to-vs-code-paledev-dark-theme-2j43)
-- [Consistência Eventual em Sistemas Distribuídos](https://dev.to/guilherme_ryu/consistencia-eventual-em-sistemas-distribuidos-26oj)
-- [Why I Used wttr.in Instead of OpenWeatherMap for My Firefox Extension](https://dev.to/weatherclockdash/why-i-used-wttrin-instead-of-openweathermap-for-my-firefox-extension-2f0k)
+- [Why Two-Thirds of AI Teams Are Betting on Kubernetes &lpar;And What That Means for You&rpar;](https://dev.to/pratheesh_s/why-two-thirds-of-ai-teams-are-betting-on-kubernetes-and-what-that-means-for-you-3edo)
+- [I Built a Free Invoicing Tool for Freelancers in 3 Weeks — Here&#39;s What I Learned](https://dev.to/indieops/i-built-a-free-invoicing-tool-for-freelancers-in-3-weeks-heres-what-i-learned-28a5)
+- [RAG Series &lpar;6&rpar;: Vector Databases — Storage and Retrieval Infrastructure](https://dev.to/wonderlab/rag-series-6-vector-databases-storage-and-retrieval-infrastructure-2omh)
+- [&quot;AI monitoring AI&quot; — I built a free monitoring dashboard for OpenClaw agents](https://dev.to/flik2002/ai-monitoring-ai-i-built-a-free-monitoring-dashboard-for-openclaw-agents-4p67)
+- [Claude Code is powerful—but a black box: how much is it spending? looping? how much context is left?
+
+I built claudestat: a real-time dashboard with costs, tool calls, loop detection, and reports.
+
+npm i -g @deibygs/claudestat full visibility.](https://dev.to/deibygs/claude-code-is-powerful-but-a-black-box-how-much-is-it-spending-looping-how-much-context-is-4gcl)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
