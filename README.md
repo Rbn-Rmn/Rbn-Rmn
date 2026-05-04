@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [April 2026](https://dev.to/nmiller15/april-2026-20el)
-- [mdedit.io - please feedback this no-account markdown editor](https://dev.to/matthiashertel21/mdeditio-please-feedback-this-no-account-markdown-editor-jek)
-- [hosting a public website using azure blob storage](https://dev.to/sammyhigh5/hosting-a-public-website-using-azure-blob-storage-12mh)
-- [I Build Premade FiveM Servers. Here Is Why Most of Them Are Trash &lpar;And What We Do Differently&rpar;](https://dev.to/meteostudios/i-build-premade-fivem-servers-here-is-why-most-of-them-are-trash-and-what-we-do-differently-1lh4)
-- [How I Coordinate Scripts Across Devices Without Open Ports, Firebase, or a VPS](https://dev.to/d_security/how-i-coordinate-scripts-across-devices-without-open-ports-firebase-or-a-vps-1ipi)
+- [The &quot;Happy Path&quot; is a Lie: Why You Feel Unprepared for Production](https://dev.to/i_am_codeliftsleep/the-happy-path-is-a-lie-why-you-feel-unprepared-for-production-46j9)
+- [AHE Deep Dive: How Coding Agent Harnesses Automatically Evolve](https://dev.to/luhuidev/ahe-deep-dive-how-coding-agent-harnesses-automatically-evolve-2him)
+- [Masking and Compositing &lpar;mask-image&rpar; in CSS](https://dev.to/nickbenksim/masking-and-compositing-mask-image-in-css-1hej)
+- [[Google Cloud Next &#39;26 Recap #3] Anthropic&#39;s Vision for &quot;After Software&quot;](https://dev.to/gde/google-cloud-next-26-recap-3-anthropics-vision-for-after-software-2cj6)
+- [Secure API Calling With Custom GPTs and Descope](https://dev.to/descope/secure-api-calling-with-custom-gpts-and-descope-iig)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
