@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The History of Expanso &lpar;Part 6&rpar;: Data Controls are a One-Way Street](https://dev.to/david_aronchick_ea415de50/the-history-of-expanso-part-6-data-controls-are-a-one-way-street-3j7c)
-- [Codex /goal and OpenGUI: long-running tasks need state](https://dev.to/fenix_23505d14df386c00ced/codex-goal-and-opengui-long-running-tasks-need-state-1c61)
-- [I Built a 3D Interactive Sales Simulator for Cloud Consultants — Here&#39;s Why](https://dev.to/slimevelli3/i-built-a-3d-interactive-sales-simulator-for-cloud-consultants-heres-why-6l)
-- [Under 30-Minute Setup: AI Coding Guidelines for Your Next.js Project &lpar;Before/After Code&rpar;](https://dev.to/yunbow/under-30-minute-setup-ai-coding-guidelines-for-your-nextjs-project-beforeafter-code-fnp)
-- [I Built a Minecraft Mod Where Every Sword is an AWS Service — Here&#39;s How We Coded It with AI](https://dev.to/aws-heroes/i-built-a-minecraft-mod-where-every-sword-is-an-aws-service-heres-how-we-coded-it-with-ai-4epc)
+- [Gnoke Council — Manual Mode](https://dev.to/edmundsparrow/gnoke-council-manual-mode-33i6)
+- [The New AI Tools Quietly Replacing Half Your Dev Workflow &lpar;And What To Do About It&rpar;](https://dev.to/yash_sonawane25/the-new-ai-tools-quietly-replacing-half-your-dev-workflow-and-what-to-do-about-it-20e8)
+- [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1)
+- [Chargeback vs Showback: Building Team-Level Cloud Cost Accountability](https://dev.to/muskan_8abedcc7e12/chargeback-vs-showback-building-team-level-cloud-cost-accountability-330h)
+- [S3 Storage Class Automation: Stop Paying Hot Prices for Cold Data](https://dev.to/muskan_8abedcc7e12/s3-storage-class-automation-stop-paying-hot-prices-for-cold-data-45oi)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
