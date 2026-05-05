@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Onslaught: Why Nigeria&#39;s Volume of Cyber Attacks Is Overwhelming Defences](https://dev.to/peternasarah/the-onslaught-why-nigerias-volume-of-cyber-attacks-is-overwhelming-defences-304e)
-- [Mitsui &amp; Co. &lpar;TSE: 8031&rpar;: First ¥1 Trillion Profit — And the Stock Is Down 10% From Its Peak](https://dev.to/ruslanaverin/mitsui-co-tse-8031-first-y1-trillion-profit-and-the-stock-is-down-10-from-its-peak-3d2o)
-- [Mitsubishi Corporation &lpar;TSE: 8058&rpar;: Why Buffett&#39;s Biggest Japanese Bet Keeps Getting Bigger](https://dev.to/ruslanaverin/mitsubishi-corporation-tse-8058-why-buffetts-biggest-japanese-bet-keeps-getting-bigger-30mm)
-- [I got tired of explaining my codebase to AI every conversation. So I gave it a memory.](https://dev.to/patsa2561art/i-got-tired-of-explaining-my-codebase-to-ai-every-conversation-so-i-gave-it-a-memory-4h2c)
-- [I Built a Browser App Store That Fetches GitHub Releases](https://dev.to/iamovi/i-built-a-browser-app-store-that-fetches-github-releases-407d)
+- [Type vs Interface in TypeScript: The Easiest Explanation for Frontend Engineers in 2026](https://dev.to/jeetvora331/type-vs-interface-in-typescript-the-easiest-explanation-for-frontend-engineers-in-2026-37)
+- [Markus: An Open-Source AI Digital Workforce Platform with Organizational Governance](https://dev.to/jsyqrt/markus-an-open-source-ai-digital-workforce-platform-with-organizational-governance-4ddm)
+- [🔥 Fine-Tuning Gemma 4 on Your Own Dataset: A Step-by-Step Guide](https://dev.to/mamoor_ahmad/fine-tuning-gemma-4-on-your-own-dataset-a-step-by-step-guide-66a)
+- [The AI Didn&#39;t Delete Your Database. Your Missing Agent Pipeline Did.](https://dev.to/michaeltuszynski/the-ai-didnt-delete-your-database-your-missing-agent-pipeline-did-54ch)
+- [We Need a CatRun for the AI Era](https://dev.to/taekim34/we-need-a-catrun-for-the-ai-era-34a0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
