@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [30-Day Study Plan to Master Generative AI on AWS](https://dev.to/datta_kharad_3fd1383b5036/30-day-study-plan-to-master-generative-ai-on-aws-3ioj)
-- [ElevenLabs Conversational AI survey bot — reducing latency and robotic feel, plus initial delay issue](https://dev.to/vanshika_shah_6e748f3aec5/elevenlabs-conversational-ai-survey-bot-reducing-latency-and-robotic-feel-plus-initial-delay-1jbf)
-- [🥊 Boxea bien. El knock-out viene solo](https://dev.to/laumontironi/boxea-bien-el-knock-out-viene-solo-5lg)
-- [Speed Up Your NestJS App with SWR Caching and RedisX](https://dev.to/sur-ser/speed-up-your-nestjs-app-with-swr-caching-and-redisx-3245)
-- [I imagined a P2P network for sharing AI inference and made a prototype](https://dev.to/lexy_eyn/i-imagined-a-p2p-network-for-sharing-ai-inference-and-made-a-prototype-9d7)
+- [The Onslaught: Why Nigeria&#39;s Volume of Cyber Attacks Is Overwhelming Defences](https://dev.to/peternasarah/the-onslaught-why-nigerias-volume-of-cyber-attacks-is-overwhelming-defences-304e)
+- [Mitsui &amp; Co. &lpar;TSE: 8031&rpar;: First ¥1 Trillion Profit — And the Stock Is Down 10% From Its Peak](https://dev.to/ruslanaverin/mitsui-co-tse-8031-first-y1-trillion-profit-and-the-stock-is-down-10-from-its-peak-3d2o)
+- [Mitsubishi Corporation &lpar;TSE: 8058&rpar;: Why Buffett&#39;s Biggest Japanese Bet Keeps Getting Bigger](https://dev.to/ruslanaverin/mitsubishi-corporation-tse-8058-why-buffetts-biggest-japanese-bet-keeps-getting-bigger-30mm)
+- [I got tired of explaining my codebase to AI every conversation. So I gave it a memory.](https://dev.to/patsa2561art/i-got-tired-of-explaining-my-codebase-to-ai-every-conversation-so-i-gave-it-a-memory-4h2c)
+- [I Built a Browser App Store That Fetches GitHub Releases](https://dev.to/iamovi/i-built-a-browser-app-store-that-fetches-github-releases-407d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
