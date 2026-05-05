@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building a Translation Pipeline for International Contract Bidding](https://dev.to/diogoheleno/building-a-translation-pipeline-for-international-contract-bidding-465j)
-- [Realistic Ragdoll Physics in Three.js](https://dev.to/mattvb91/realistic-ragdoll-physics-in-threejs-1pko)
-- [Flutter Mobile Test Automation: The Complete Guide](https://dev.to/drizzdev/flutter-mobile-test-automation-the-complete-guide-37g3)
-- [Intelligent RAG powered Playwright code reviewer](https://dev.to/automationwithsaurav/intelligent-rag-powered-playwright-code-reviewer-2219)
-- [Building Translation Workflows: Technical Implementation for Multi-Linguist Review Processes](https://dev.to/diogoheleno/building-translation-workflows-technical-implementation-for-multi-linguist-review-processes-5910)
+- [30-Day Study Plan to Master Generative AI on AWS](https://dev.to/datta_kharad_3fd1383b5036/30-day-study-plan-to-master-generative-ai-on-aws-3ioj)
+- [ElevenLabs Conversational AI survey bot — reducing latency and robotic feel, plus initial delay issue](https://dev.to/vanshika_shah_6e748f3aec5/elevenlabs-conversational-ai-survey-bot-reducing-latency-and-robotic-feel-plus-initial-delay-1jbf)
+- [🥊 Boxea bien. El knock-out viene solo](https://dev.to/laumontironi/boxea-bien-el-knock-out-viene-solo-5lg)
+- [Speed Up Your NestJS App with SWR Caching and RedisX](https://dev.to/sur-ser/speed-up-your-nestjs-app-with-swr-caching-and-redisx-3245)
+- [I imagined a P2P network for sharing AI inference and made a prototype](https://dev.to/lexy_eyn/i-imagined-a-p2p-network-for-sharing-ai-inference-and-made-a-prototype-9d7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
