@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AlgoExpert vs NeetCode: The Interview Skill Neither One Actually Trains](https://dev.to/codeintuition/algoexpert-vs-neetcode-the-interview-skill-neither-one-actually-trains-567f)
-- [XSS Explained: How Attackers Execute JavaScript Inside Your Application](https://dev.to/sanjayghosh/xss-explained-how-attackers-execute-javascript-inside-your-application-5fc6)
-- [Works With Agents SDK — Python, TypeScript, Go, Rust, Shell, C#](https://dev.to/vystartasv/works-with-agents-sdk-python-typescript-go-rust-shell-c-3dp4)
-- [How to scan your codebase for post-quantum cryptographic risk](https://dev.to/jahanzeb_raja_758df006510/how-to-scan-your-codebase-for-post-quantum-cryptographic-risk-3da9)
-- [Why I&#39;m betting static SSG beats dynamic AI rendering for directory SEO](https://dev.to/morinaga/why-im-betting-static-ssg-beats-dynamic-ai-rendering-for-directory-seo-1pbd)
+- [Understanding SQL Joins and SQL Functions, CTEs and Subqueries.](https://dev.to/josengash/understanding-sql-joins-and-sql-functions-ctes-and-subqueries-5g2)
+- [5 things healthcare engineering teams get wrong about HIPAA CI/CD](https://dev.to/stonebridgetechsolutions/5-things-healthcare-engineering-teams-get-wrong-about-hipaa-cicd-5ao)
+- [I built a production-ready RAG backend &lpar;because most examples break in real life&rpar;](https://dev.to/yasirmansoori/i-built-a-production-ready-rag-backend-because-most-examples-break-in-real-life-284b)
+- [I will never walk into a backend interview without solving these 20 questions.](https://dev.to/dexter10x/i-will-never-walk-into-a-backend-interview-without-solving-these-20-questions-4mep)
+- [I built an MCP server so AI agents can flash 1,000+ embedded boards](https://dev.to/tonythehacker/i-built-an-mcp-server-so-ai-agents-can-flash-1000-embedded-boards-5bbd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
