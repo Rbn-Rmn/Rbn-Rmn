@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.](https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6)
-- [Apache Data Lakehouse Weekly: April 30–May 6, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-april-30-may-6-2026-1ibl)
-- [Building an Autonomous Vehicle Safety Test Framework: Automating MISRA &amp; CERT C Compliance](https://dev.to/rishumishra/building-an-autonomous-vehicle-safety-test-framework-automating-misra-cert-c-compliance-3c9l)
-- [Designing an E2E-Encrypted Terminal Chat in C++17: SRP-6a, HKDF, and a Relay-Blind Server](https://dev.to/secret_kk/i-built-an-end-to-end-encrypted-command-line-chat-in-c17-srp-6a-fernet-hkdf-5h50)
-- [Day 11: Conversational RAG — How to Chat with Your Documents 💬](https://dev.to/rushanksavant/day-11-conversational-rag-how-to-chat-with-your-documents-43nm)
+- [The Anatomy of an Action Governance Layer: From Intent to Enforcement](https://dev.to/ttw/-the-anatomy-of-an-action-governance-layer-from-intent-to-enforcement-28em)
+- [Bun Is Porting from Zig to Rust — Here&#39;s Why That Matters If You Run LLM Workloads](https://dev.to/amedinat/bun-is-porting-from-zig-to-rust-heres-why-that-matters-if-you-run-llm-workloads-3kgo)
+- [Offline-First Architecture in a Tauri App — What It Actually Means](https://dev.to/hiyoyok/offline-first-architecture-in-a-tauri-app-what-it-actually-means-4gkj)
+- [how to write launch copy for a side project &lpar;without losing 3 days of your life&rpar;](https://dev.to/r1ck404/how-to-write-launch-copy-for-a-side-project-without-losing-3-days-of-your-life-53ke)
+- [The NPM Audit Trap: A Thursday Morning Tragedy](https://dev.to/proco/the-npm-audit-trap-a-thursday-morning-tragedy-57h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
