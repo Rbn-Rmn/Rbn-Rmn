@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Illusion of Replaceability](https://dev.to/nicohartmann/the-illusion-of-replaceability-1pl4)
-- [Hermes Agent Skill Authoring — SKILL.md Structure and Best Practices](https://dev.to/rosgluk/hermes-agent-skill-authoring-skillmd-structure-and-best-practices-44n9)
-- [Real GPT-5.4 Chatbot Costs in Production &lpar;WordPress + WooCommerce + Forums&rpar;](https://dev.to/fabio-plugins/real-gpt-54-chatbot-costs-in-production-wordpress-woocommerce-forums-4agk)
-- [We Built 3 Live Products Last Year. Here&#39;s What That Changes for Our Clients.](https://dev.to/buildbyravirai/we-built-3-live-products-last-year-heres-what-that-changes-for-our-clients-444d)
-- [How I Set Up Codex for Spec-Driven Development](https://dev.to/reymondyncierto/how-i-set-up-codex-for-spec-driven-development-1nmh)
+- [Code Reviews: The Part of the Loop Almost Nobody Tracks](https://dev.to/crawleyprint_71/code-reviews-the-part-of-the-loop-almost-nobody-tracks-59e9)
+- [TTS Models for Indian Languages: The Tech Giving Bharat a Voice](https://dev.to/vinodsrajpurohit/tts-models-for-indian-languages-the-tech-giving-bharat-a-voice-1ij7)
+- [What Is TokenMix? One API Key, 171 AI Models, Zero Platform Fee](https://dev.to/tokenmixai/what-is-tokenmix-one-api-key-171-ai-models-zero-platform-fee-3b7l)
+- [How much can a Front-end Developer learn about Machine Learning using only JavaScript?](https://dev.to/developerrsa/how-much-can-a-front-end-developer-learn-about-machine-learning-using-only-javascript-2lc6)
+- [Como Testar Agentes de IA que Chamam suas APIs Sem Perder Dados](https://dev.to/lucas_ferreira/como-testar-agentes-de-ia-que-chamam-suas-apis-sem-perder-dados-355k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
