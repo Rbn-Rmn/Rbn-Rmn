@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [ABAP OOP Design Patterns Part 3: Strategy, Command, and Template Method Patterns in Real SAP S/4HANA Systems](https://dev.to/oktay_a56a5e9cc26cc1df8fe/abap-oop-design-patterns-part-3-strategy-command-and-template-method-patterns-in-real-sap-4n00)
-- [Why Agentic Engineering Must Replace Vibe Coding](https://dev.to/shrsv/why-agentic-engineering-must-replace-vibe-coding-339f)
-- [ABAP RAP Deep Dive — Part 2: Implementing Business Logic, Validations, and Determinations in SAP S/4HANA](https://dev.to/oktay_a56a5e9cc26cc1df8fe/abap-rap-deep-dive-part-2-implementing-business-logic-validations-and-determinations-in-sap-1mi9)
-- [find Command Cheat Sheet — All Flags &amp; Usage Examples](https://dev.to/cameroonreevesdev/find-command-cheat-sheet-all-flags-usage-examples-5f32)
-- [How Rails Engines can isolate your monolith without microservices](https://dev.to/davidslv/how-rails-engines-can-isolate-your-monolith-without-microservices-58eo)
+- [OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.](https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6)
+- [Apache Data Lakehouse Weekly: April 30–May 6, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-april-30-may-6-2026-1ibl)
+- [Building an Autonomous Vehicle Safety Test Framework: Automating MISRA &amp; CERT C Compliance](https://dev.to/rishumishra/building-an-autonomous-vehicle-safety-test-framework-automating-misra-cert-c-compliance-3c9l)
+- [Designing an E2E-Encrypted Terminal Chat in C++17: SRP-6a, HKDF, and a Relay-Blind Server](https://dev.to/secret_kk/i-built-an-end-to-end-encrypted-command-line-chat-in-c17-srp-6a-fernet-hkdf-5h50)
+- [Day 11: Conversational RAG — How to Chat with Your Documents 💬](https://dev.to/rushanksavant/day-11-conversational-rag-how-to-chat-with-your-documents-43nm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
