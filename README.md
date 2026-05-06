@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Protecting Keycloak Auth with Proof of Work](https://dev.to/mr_buch/protecting-keycloak-auth-with-proof-of-work-2i4d)
-- [AGEF explained: a portable evidence format for AI agent sessions](https://dev.to/radotsvetkov/agef-explained-a-portable-evidence-format-for-ai-agent-sessions-2no5)
-- [Local Deep Research: Run Your Own AI Research Assistant, Fully Private](https://dev.to/arshtechpro/local-deep-research-run-your-own-ai-research-assistant-fully-private-6eg)
-- [Seven third-party script patterns we triage before touching CSS](https://dev.to/apogeewatcher/seven-third-party-script-patterns-we-triage-before-touching-css-1fb1)
-- [Building SwiftDeploy: A Declarative Infrastructure CLI with Observability and Policy Enforcement](https://dev.to/adeolu102/building-swiftdeploy-a-declarative-infrastructure-cli-with-observability-and-policy-enforcement-4g8o)
+- [One of the selling points of open source software has always been that you could look at the code and make sure it does what is says it does. But then who could be bothered to read the source code to verify it was legit. Agents can do it for you now.](https://dev.to/argenkiwi/one-of-the-selling-points-of-open-source-software-has-always-been-that-you-could-look-at-the-code-17ag)
+- [Can LLMs Audit Smart Contracts? Benchmarking Claude Opus 4.7, GPT-5.5, and Gemini 3.1 Pro](https://dev.to/hayitov/can-llms-audit-smart-contracts-benchmarking-claude-opus-47-gpt-55-and-gemini-31-pro-29jg)
+- [Lessons from Log4Shell: Building a CRA-Ready Log4j](https://dev.to/theasf/lessons-from-log4shell-building-a-cra-ready-log4j-j43)
+- [Generative Simulation Benchmarking for deep-sea exploration habitat design during mission-critical recovery windows](https://dev.to/rikinptl/generative-simulation-benchmarking-for-deep-sea-exploration-habitat-design-during-mission-critical-1ef6)
+- [Stop Credentialing Your AI Agents Like It&#39;s 2019](https://dev.to/t_devonartis_c9f34e5721/stop-credentialing-your-ai-agents-like-its-2019-ec9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
