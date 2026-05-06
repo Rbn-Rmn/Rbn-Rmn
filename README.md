@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Best Study Schedule for AI-102: 2-Week, 4-Week &amp; 8-Week Plans](https://dev.to/datta_kharad_3fd1383b5036/best-study-schedule-for-ai-102-2-week-4-week-8-week-plans-3g0n)
-- [I built a free LocalStack alternative in Go — v0.6.0 is out with 37 AWS services](https://dev.to/jeffrin-dev/i-built-a-free-localstack-alternative-in-go-v060-is-out-with-37-aws-services-3mgp)
-- [Beyond Chatbot Wrappers: Designing ‘Velocity Architecture’ for Production Multi-Agent Systems](https://dev.to/muzammil_endevsols/beyond-chatbot-wrappers-designing-velocity-architecture-for-production-multi-agent-systems-22dp)
-- [How I Built FeedLog: Three Repos, One Product](https://dev.to/odeds/how-i-built-feedlog-three-repos-one-product-1pba)
-- [Designing an AI-powered content optimization system using LLMs on AWS](https://dev.to/nagashreebhat/designing-an-ai-powered-content-optimization-system-using-llms-on-aws-1a7d)
+- [The Illusion of Replaceability](https://dev.to/nicohartmann/the-illusion-of-replaceability-1pl4)
+- [Hermes Agent Skill Authoring — SKILL.md Structure and Best Practices](https://dev.to/rosgluk/hermes-agent-skill-authoring-skillmd-structure-and-best-practices-44n9)
+- [Real GPT-5.4 Chatbot Costs in Production &lpar;WordPress + WooCommerce + Forums&rpar;](https://dev.to/fabio-plugins/real-gpt-54-chatbot-costs-in-production-wordpress-woocommerce-forums-4agk)
+- [We Built 3 Live Products Last Year. Here&#39;s What That Changes for Our Clients.](https://dev.to/buildbyravirai/we-built-3-live-products-last-year-heres-what-that-changes-for-our-clients-444d)
+- [How I Set Up Codex for Spec-Driven Development](https://dev.to/reymondyncierto/how-i-set-up-codex-for-spec-driven-development-1nmh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
