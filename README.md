@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Understanding SQL Joins and SQL Functions, CTEs and Subqueries.](https://dev.to/josengash/understanding-sql-joins-and-sql-functions-ctes-and-subqueries-5g2)
-- [5 things healthcare engineering teams get wrong about HIPAA CI/CD](https://dev.to/stonebridgetechsolutions/5-things-healthcare-engineering-teams-get-wrong-about-hipaa-cicd-5ao)
-- [I built a production-ready RAG backend &lpar;because most examples break in real life&rpar;](https://dev.to/yasirmansoori/i-built-a-production-ready-rag-backend-because-most-examples-break-in-real-life-284b)
-- [I will never walk into a backend interview without solving these 20 questions.](https://dev.to/dexter10x/i-will-never-walk-into-a-backend-interview-without-solving-these-20-questions-4mep)
-- [I built an MCP server so AI agents can flash 1,000+ embedded boards](https://dev.to/tonythehacker/i-built-an-mcp-server-so-ai-agents-can-flash-1000-embedded-boards-5bbd)
+- [Building a Xiaohongshu &lpar;RedNote&rpar; E-commerce Scraper for RedShop Product Data](https://dev.to/sami_8858131362756585e4f4/building-a-xiaohongshu-rednote-e-commerce-scraper-for-redshop-product-data-2g7d)
+- [7 Signs Your Data Quality Framework Is Broken](https://dev.to/balapriya/7-signs-your-data-quality-framework-is-broken-lh8)
+- [Turning Server Logs into Incident Summaries with Java and Groq](https://dev.to/misbahulhaq/turning-server-logs-into-incident-summaries-with-java-and-groq-4ebm)
+- [De la Idea al Píxel: Cómo Implementar el Acotamiento de Cámara Usando Min y Max en Python](https://dev.to/abrazos_programacion/de-la-idea-al-pixel-como-implementar-el-acotamiento-de-camara-usando-min-y-max-en-python-3boa)
+- [38% of MCP servers have no auth -- inside the OWASP MCP Top 10](https://dev.to/kenimo49/38-of-mcp-servers-have-no-auth-inside-the-owasp-mcp-top-10-hm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
