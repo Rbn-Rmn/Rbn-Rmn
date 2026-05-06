@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Code Reviews: The Part of the Loop Almost Nobody Tracks](https://dev.to/crawleyprint_71/code-reviews-the-part-of-the-loop-almost-nobody-tracks-59e9)
-- [TTS Models for Indian Languages: The Tech Giving Bharat a Voice](https://dev.to/vinodsrajpurohit/tts-models-for-indian-languages-the-tech-giving-bharat-a-voice-1ij7)
-- [What Is TokenMix? One API Key, 171 AI Models, Zero Platform Fee](https://dev.to/tokenmixai/what-is-tokenmix-one-api-key-171-ai-models-zero-platform-fee-3b7l)
-- [How much can a Front-end Developer learn about Machine Learning using only JavaScript?](https://dev.to/developerrsa/how-much-can-a-front-end-developer-learn-about-machine-learning-using-only-javascript-2lc6)
-- [Como Testar Agentes de IA que Chamam suas APIs Sem Perder Dados](https://dev.to/lucas_ferreira/como-testar-agentes-de-ia-que-chamam-suas-apis-sem-perder-dados-355k)
+- [ABAP OOP Design Patterns Part 3: Strategy, Command, and Template Method Patterns in Real SAP S/4HANA Systems](https://dev.to/oktay_a56a5e9cc26cc1df8fe/abap-oop-design-patterns-part-3-strategy-command-and-template-method-patterns-in-real-sap-4n00)
+- [Why Agentic Engineering Must Replace Vibe Coding](https://dev.to/shrsv/why-agentic-engineering-must-replace-vibe-coding-339f)
+- [ABAP RAP Deep Dive — Part 2: Implementing Business Logic, Validations, and Determinations in SAP S/4HANA](https://dev.to/oktay_a56a5e9cc26cc1df8fe/abap-rap-deep-dive-part-2-implementing-business-logic-validations-and-determinations-in-sap-1mi9)
+- [find Command Cheat Sheet — All Flags &amp; Usage Examples](https://dev.to/cameroonreevesdev/find-command-cheat-sheet-all-flags-usage-examples-5f32)
+- [How Rails Engines can isolate your monolith without microservices](https://dev.to/davidslv/how-rails-engines-can-isolate-your-monolith-without-microservices-58eo)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
