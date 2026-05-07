@@ -133,13 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Looking for a Founding CTO / Core Tech Member for TeslaLab-AI
-
-We’re building an AI-powered platform for GitHub repo customization, automated maintenance, monitoring, dependency upgrades, and security patching for modern AI-built apps.](https://dev.to/teslalabai_b7eb123a189dd/looking-for-a-founding-cto-core-tech-member-for-teslalab-ai-were-building-an-ai-powered-1em6)
-- [The Story Behind GoWatcher: A Tale of F5 Fatigue and Code Flow](https://dev.to/cinfinitedev_engine/the-story-behind-gowatcher-a-tale-of-f5-fatigue-and-code-flow-hf)
-- [# The Hidden Costs of Microfrontends — Interactive Edge Cases](https://dev.to/kensaadi/-the-hidden-costs-of-microfrontends-interactive-edge-cases-1gl6)
-- [How I Built a Personal Work Journal Dashboard with Claude](https://dev.to/mjd/how-i-built-a-personal-work-journal-dashboard-with-claude-4nnk)
-- [Amazon Kiro: The Spec-Driven AI IDE Replacing Amazon Q](https://dev.to/austriasoftwaroftwaredeveloper/amazon-kiro-the-spec-driven-ai-ide-replacing-amazon-q-2f5f)
+- [Claude Code Was Broken for 6 Weeks. AMD Caught It in 6,852 Sessions Before Anthropic Did.](https://dev.to/rentierdigital/claude-code-was-broken-for-6-weeks-amd-caught-it-in-6852-sessions-before-anthropic-did-7i5)
+- [I build this IDE for mobiles and tablets.](https://dev.to/iamexe/i-build-this-ide-for-mobiles-and-tablets-1ifo)
+- [Top 7 Timeline Visualization Components for Modern Web Apps in 2026](https://dev.to/lenormor/top-7-timeline-visualization-components-for-modern-web-apps-in-2026-420l)
+- [The Best Engineers of the Next Decade Will Not Be the Best Coders](https://dev.to/fadebowaley/the-best-engineers-of-the-next-decade-will-not-be-the-best-coders-4ai2)
+- [Building a 100+ Script FiveM Server Package: Architecture Decisions That Mattered](https://dev.to/meteostudios/building-a-100-script-fivem-server-package-architecture-decisions-that-mattered-1mjp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
