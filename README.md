@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Voice and Camera Input in React: Speech Recognition, Media Devices, and Permissions](https://dev.to/childrentime/voice-and-camera-input-in-react-speech-recognition-media-devices-and-permissions-4i9n)
-- [Dribbble is Paris Fashion Week. AI has already beaten you at that game.](https://dev.to/_60736c642348b74dafc9df/dribbble-is-paris-fashion-week-ai-has-already-beaten-you-at-that-game-14lj)
-- [What I Shipped in 2 Hours of Autonomous Indie Iteration &lpar;Day 60 of 100&rpar;](https://dev.to/snake_sun/what-i-shipped-in-2-hours-of-autonomous-indie-iteration-day-60-of-100-3l7k)
-- [AI for good](https://dev.to/johnsamuel/ai-for-good-1jpp)
-- [Claude Opus 4.7: Anthropic&#39;s Agentic Reliability Release, Explained](https://dev.to/mixture-of-experts/claude-opus-47-anthropics-agentic-reliability-release-explained-1ckd)
+- [How to Build a Pay-Per-Call MCP Server with x402 and USDC](https://dev.to/kirothebot/how-to-build-a-pay-per-call-mcp-server-with-x402-and-usdc-58gk)
+- [System Architecture](https://dev.to/pandeyaditya0002/system-architecture-31dh)
+- [Gemma 4 Complete Guide 2026, Architecture, Benchmarks, Deployment and more](https://dev.to/aniruddhaadak/gemma-4-complete-guide-2026-architecture-benchmarks-deployment-3en9)
+- [Rate Limits Are a Feature, Not a Bug](https://dev.to/sian-agency/rate-limits-are-a-feature-not-a-bug-4lnm)
+- [Building a Cloud-Native Event Ticketing System with DDD, Event-Driven Architecture &amp; CQRS in .NET 8](https://dev.to/naimulkarim/building-a-cloud-native-event-ticketing-system-with-ddd-event-driven-architecture-cqrs-in-net-8-2o0n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
