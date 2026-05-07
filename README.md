@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The 30-Minute Kickoff Meeting That Prevents 90% of Agency Client Problems](https://dev.to/lisasakura/the-30-minute-kickoff-meeting-that-prevents-90-of-agency-client-problems-362e)
-- [A Day in the Life of a Local First Developer](https://dev.to/iceburgcrm/a-day-in-the-life-of-a-local-first-developer-41oc)
-- [PHP Enum Methods to TypeScript: Why Discriminated Unions + namespace Beats class enums](https://dev.to/gabrielanhaia/php-enum-methods-to-typescript-why-discriminated-unions-namespace-beats-class-enums-1dp0)
-- [How to Build a Discord Bot that Splits Audio Stems with Python &lpar;2026&rpar;](https://dev.to/stevecase430/how-to-build-a-discord-bot-that-splits-audio-stems-with-python-2026-10e6)
-- [Rethinking MVVM Architecture: Clarifying Layer Responsibilities](https://dev.to/zhangjunzhi/rethinking-mvvm-architecture-clarifying-layer-responsibilities-1hmk)
+- [NFS vs Parallel File Systems in HPC: How to Choose the Right Storage Architecture](https://dev.to/zubairakbar/nfs-vs-parallel-file-systems-in-hpc-how-to-choose-the-right-storage-architecture-4dfn)
+- [I built an Open-Source Flight/Travel Booking Template using React &amp; Firebase](https://dev.to/amiiirafshaaar/i-built-an-open-source-flighttravel-booking-template-using-react-firebase-2lce)
+- [Useful Linux Commands Every System Administrator Should Know](https://dev.to/setu102/useful-linux-commands-every-system-administrator-should-know-3141)
+- [[Boost]](https://dev.to/tacoda/-3jnl)
+- [Bitlocker Bypass, AI Trust Exploits, and FreeBSD RCE Disclosures](https://dev.to/soytuber/bitlocker-bypass-ai-trust-exploits-and-freebsd-rce-disclosures-179i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
