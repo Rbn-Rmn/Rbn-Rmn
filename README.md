@@ -133,11 +133,13 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building Safety-Critical APIs: A Guide to Linear Types and Austral Implementation](https://dev.to/fullagenticstack/building-safety-critical-apis-a-guide-to-linear-types-and-austral-implementation-3bcm)
-- [I Published Broken Packages to PyPI. I Checked Them First.](https://dev.to/vystartasv/i-published-broken-packages-to-pypi-i-checked-them-first-44a7)
-- [Building a Real-Time Amazon Sales Tracker with Scraper API: Complete Python Guide](https://dev.to/loopsthings/building-a-real-time-amazon-sales-tracker-with-scraper-api-complete-python-guide-519j)
-- [Five chatbot UI mistakes that quietly break user trust](https://dev.to/victor_desg/five-chatbot-ui-mistakes-that-quietly-break-user-trust-4m)
-- [Hỏi ChatGPT Khi Bị Bệnh: Tiện Lợi Hay Đang Tự Đẩy Mình Vào Nguy Hiểm?](https://dev.to/itprepvn/hoi-chatgpt-khi-bi-benh-tien-loi-hay-dang-tu-day-minh-vao-nguy-hiem-4jki)
+- [🚀 Looking for a Founding CTO / Core Tech Member for TeslaLab-AI
+
+We’re building an AI-powered platform for GitHub repo customization, automated maintenance, monitoring, dependency upgrades, and security patching for modern AI-built apps.](https://dev.to/teslalabai_b7eb123a189dd/looking-for-a-founding-cto-core-tech-member-for-teslalab-ai-were-building-an-ai-powered-1em6)
+- [The Story Behind GoWatcher: A Tale of F5 Fatigue and Code Flow](https://dev.to/cinfinitedev_engine/the-story-behind-gowatcher-a-tale-of-f5-fatigue-and-code-flow-hf)
+- [# The Hidden Costs of Microfrontends — Interactive Edge Cases](https://dev.to/kensaadi/-the-hidden-costs-of-microfrontends-interactive-edge-cases-1gl6)
+- [How I Built a Personal Work Journal Dashboard with Claude](https://dev.to/mjd/how-i-built-a-personal-work-journal-dashboard-with-claude-4nnk)
+- [Amazon Kiro: The Spec-Driven AI IDE Replacing Amazon Q](https://dev.to/austriasoftwaroftwaredeveloper/amazon-kiro-the-spec-driven-ai-ide-replacing-amazon-q-2f5f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
