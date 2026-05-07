@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing Code. Start Managing Agents. &lpar;A VSCode vs. Antigravity Story&rpar;](https://dev.to/sreeraj_sreenivasan_2b932/stop-writing-code-start-managing-agents-a-vscode-vs-antigravity-story-5350)
-- [Mac-Only? Just Fork It](https://dev.to/thisisryanswift/mac-only-just-fork-it-57ka)
-- [I built Alpha-XMD: a free, open-source WhatsApp bot with 200+ commands, Shazam, and AI chat](https://dev.to/alexio1109/i-built-alpha-xmd-a-free-open-source-whatsapp-bot-with-200-commands-shazam-and-ai-chat-5dal)
-- [The week your AI coding tier got smaller](https://dev.to/amedinat/the-week-your-ai-coding-tier-got-smaller-1a2j)
-- [Build a Secure API with Rails 8 - Part-1](https://dev.to/renzodiaz/build-a-secure-api-with-rails-8-part-1-11lh)
+- [Voice and Camera Input in React: Speech Recognition, Media Devices, and Permissions](https://dev.to/childrentime/voice-and-camera-input-in-react-speech-recognition-media-devices-and-permissions-4i9n)
+- [Dribbble is Paris Fashion Week. AI has already beaten you at that game.](https://dev.to/_60736c642348b74dafc9df/dribbble-is-paris-fashion-week-ai-has-already-beaten-you-at-that-game-14lj)
+- [What I Shipped in 2 Hours of Autonomous Indie Iteration &lpar;Day 60 of 100&rpar;](https://dev.to/snake_sun/what-i-shipped-in-2-hours-of-autonomous-indie-iteration-day-60-of-100-3l7k)
+- [AI for good](https://dev.to/johnsamuel/ai-for-good-1jpp)
+- [Claude Opus 4.7: Anthropic&#39;s Agentic Reliability Release, Explained](https://dev.to/mixture-of-experts/claude-opus-47-anthropics-agentic-reliability-release-explained-1ckd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
