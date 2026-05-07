@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Was Broken for 6 Weeks. AMD Caught It in 6,852 Sessions Before Anthropic Did.](https://dev.to/rentierdigital/claude-code-was-broken-for-6-weeks-amd-caught-it-in-6852-sessions-before-anthropic-did-7i5)
-- [I build this IDE for mobiles and tablets.](https://dev.to/iamexe/i-build-this-ide-for-mobiles-and-tablets-1ifo)
-- [Top 7 Timeline Visualization Components for Modern Web Apps in 2026](https://dev.to/lenormor/top-7-timeline-visualization-components-for-modern-web-apps-in-2026-420l)
-- [The Best Engineers of the Next Decade Will Not Be the Best Coders](https://dev.to/fadebowaley/the-best-engineers-of-the-next-decade-will-not-be-the-best-coders-4ai2)
-- [Building a 100+ Script FiveM Server Package: Architecture Decisions That Mattered](https://dev.to/meteostudios/building-a-100-script-fivem-server-package-architecture-decisions-that-mattered-1mjp)
+- [I Built a Pay-Per-Call MCP Server — Here&#39;s What the Agent Payment Stack Actually Looks Like](https://dev.to/kirothebot/i-built-a-pay-per-call-mcp-server-heres-what-the-agent-payment-stack-actually-looks-like-5a5o)
+- [Plans Are the New Code](https://dev.to/jsolano/plans-are-the-new-code-4i8i)
+- [I made a browser-based hub for small games and tools](https://dev.to/hc_7434c96db0010b253/i-made-a-browser-based-hub-for-small-games-and-tools-4gnc)
+- [I open-sourced a 4-agent adversarial code review team. Any coding agent can call it as an MCP server. Built in heym.](https://dev.to/frank_brsrk/i-open-sourced-a-4-agent-adversarial-code-review-team-any-coding-agent-can-call-it-as-an-mcp-36oe)
+- [Running Gemma 4 Locally with LM Studio — Complete Setup Guide &amp; Real Use Cases](https://dev.to/kushang_tailor/running-gemma-4-locally-with-lm-studio-complete-setup-guide-real-use-cases-3np3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
