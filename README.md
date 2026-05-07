@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How Web3 Tokens Get Their Value](https://dev.to/100daysofsolana/how-web3-tokens-get-their-value-3bbk)
-- [How NodeJS Handles Multiple Requests with a Single Thread](https://dev.to/ritam369/how-nodejs-handles-multiple-requests-with-a-single-thread-26po)
-- [Your AI is Only as Good as the System You Give It &lpar;Most Engineers Get This Backwards&rpar;](https://dev.to/davidslv/your-ai-is-only-as-good-as-the-system-behind-it-5efe)
-- [Kiboko to Sherehe&lpar;polite&rpar;: From Strict Go Rules to JavaScript Chaos](https://dev.to/amonoff/kiboko-to-sherehepolite-from-strict-go-rules-to-javascript-chaos-350m)
-- [Why Every IT Engineer Should Build AI Agents in 2026 &lpar;Not Just Watch the Hype&rpar;](https://dev.to/julio_cesarfernandes_db1/why-every-it-engineer-should-build-ai-agents-in-2026-not-just-watch-the-hype-1876)
+- [The 30-Minute Kickoff Meeting That Prevents 90% of Agency Client Problems](https://dev.to/lisasakura/the-30-minute-kickoff-meeting-that-prevents-90-of-agency-client-problems-362e)
+- [A Day in the Life of a Local First Developer](https://dev.to/iceburgcrm/a-day-in-the-life-of-a-local-first-developer-41oc)
+- [PHP Enum Methods to TypeScript: Why Discriminated Unions + namespace Beats class enums](https://dev.to/gabrielanhaia/php-enum-methods-to-typescript-why-discriminated-unions-namespace-beats-class-enums-1dp0)
+- [How to Build a Discord Bot that Splits Audio Stems with Python &lpar;2026&rpar;](https://dev.to/stevecase430/how-to-build-a-discord-bot-that-splits-audio-stems-with-python-2026-10e6)
+- [Rethinking MVVM Architecture: Clarifying Layer Responsibilities](https://dev.to/zhangjunzhi/rethinking-mvvm-architecture-clarifying-layer-responsibilities-1hmk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
