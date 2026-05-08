@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why your infra is the silent bottleneck in your AI systems?](https://dev.to/dhruvagg/why-your-infra-is-the-silent-bottleneck-in-your-ai-systems-5f4f)
-- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-5h4c)
-- [Handing Power to Machines](https://dev.to/rawveg/handing-power-to-machines-478c)
-- [Gemma 4 Has Four Models. Here&#39;s Which One You Actually Need](https://dev.to/nirbhay_gautam/gemma-4-has-four-models-heres-which-one-you-actually-need-1057)
-- [ServiceNow MCP: Automate ITSM workflows without leaving your AI agent](https://dev.to/curatedmcp/servicenow-mcp-automate-itsm-workflows-without-leaving-your-ai-agent-cmd)
+- [ESP32-S31: The New Espressif IoT Chip That Changes Everything](https://dev.to/bittobuild/esp32-s31-the-new-espressif-iot-chip-that-changes-everything-4jc4)
+- [When your pronunciation is wrong, the meaning changes completely](https://dev.to/palo_alto_ai/when-your-pronunciation-is-wrong-the-meaning-changes-completely-5g9a)
+- [Building GNOME Apps with Rust, Part 4: Blueprint](https://dev.to/fromthearchitect/building-gnome-apps-with-rust-part-4-blueprint-5dce)
+- [What I Learned About Latency While Building a Real-Time Voice AI Agent](https://dev.to/luispham/what-i-learned-about-latency-while-building-a-real-time-voice-ai-agent-g6o)
+- [Building LoopSignal Part 2: The Public Board, Voting, and Prioritization Without the Overhead](https://dev.to/seralifatih/building-loopsignal-part-2-the-public-board-voting-and-prioritization-without-the-overhead-45ep)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
