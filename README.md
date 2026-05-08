@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building My First AWS VPC with Terraform: A Beginner-Friendly Guide for Career Changers](https://dev.to/benjamin_tetteh/building-my-first-aws-vpc-with-terraform-a-beginner-friendly-guide-for-career-changers-1elm)
-- [See SYNAPSE Route a Three-Model Pipeline — No Connector Code Required.](https://dev.to/chris_597825ce72dc83f7b31/see-synapse-route-a-three-model-pipeline-no-connector-code-required-59lj)
-- [Why I&#39;m building free PDF and image tools that never touch a server](https://dev.to/swathikt_d6870eb8d/why-im-building-free-pdf-and-image-tools-that-never-touch-a-server-21i5)
-- [ClauseGuard — Technical Walkthrough](https://dev.to/muhammadbinmurtaza/clauseguard-technical-walkthrough-1jp7)
-- [PrestaShop Behind a Load Balancer: What Breaks and How to Fix It](https://dev.to/flashpeter7/prestashop-behind-a-load-balancer-what-breaks-and-how-to-fix-it-50cp)
+- [Your PDFs Never Leave Your Pocket: Building a 100% Offline RAG App with Gemma 4 + LiteRT-LM](https://dev.to/umarpazir11/your-pdfs-never-leave-your-pocket-building-a-100-offline-rag-app-with-gemma-4-litert-lm-340)
+- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-14oj)
+- [Anthropic prompt caching cut our RCA cost by 90%](https://dev.to/stella_lin_82914c71e25769/anthropic-prompt-caching-cut-our-rca-cost-by-90-5gmb)
+- [How to Secure an Ubuntu Linux Server for Production](https://dev.to/sovrab/how-to-secure-an-ubuntu-linux-server-for-production-1j3p)
+- [Designing Resilient Shopify Middleware](https://dev.to/masadashraf/designing-resilient-shopify-middleware-4d6i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
