@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [An afternoon of iOS perf work, with Claude in the loop](https://dev.to/carlosperc/an-afternoon-of-ios-perf-work-with-claude-in-the-loop-42eg)
-- [MCP servers, sandboxed — introducing ACT](https://dev.to/gamepad64/mcp-servers-sandboxed-introducing-act-5fa2)
-- [Postmortem: Our AI-Powered Chatbot Hallucinated Sensitive Data – Root Cause and Fix](https://dev.to/johalputt/postmortem-our-ai-powered-chatbot-hallucinated-sensitive-data-root-cause-and-fix-1g7l)
-- [【Practice Exam】 Claude Certified Architect Foundations &lpar;CCA-F&rpar;](https://dev.to/arahata0907/practice-exam-claude-certified-architect-foundations-cca-f-3mo5)
-- [Gemma-4-31B on v6e-4 TPU Benchmarks](https://dev.to/gde/gemma4-5fon)
+- [Building My First AWS VPC with Terraform: A Beginner-Friendly Guide for Career Changers](https://dev.to/benjamin_tetteh/building-my-first-aws-vpc-with-terraform-a-beginner-friendly-guide-for-career-changers-1elm)
+- [See SYNAPSE Route a Three-Model Pipeline — No Connector Code Required.](https://dev.to/chris_597825ce72dc83f7b31/see-synapse-route-a-three-model-pipeline-no-connector-code-required-59lj)
+- [Why I&#39;m building free PDF and image tools that never touch a server](https://dev.to/swathikt_d6870eb8d/why-im-building-free-pdf-and-image-tools-that-never-touch-a-server-21i5)
+- [ClauseGuard — Technical Walkthrough](https://dev.to/muhammadbinmurtaza/clauseguard-technical-walkthrough-1jp7)
+- [PrestaShop Behind a Load Balancer: What Breaks and How to Fix It](https://dev.to/flashpeter7/prestashop-behind-a-load-balancer-what-breaks-and-how-to-fix-it-50cp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
