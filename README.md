@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your PDFs Never Leave Your Pocket: Building a 100% Offline RAG App with Gemma 4 + LiteRT-LM](https://dev.to/umarpazir11/your-pdfs-never-leave-your-pocket-building-a-100-offline-rag-app-with-gemma-4-litert-lm-340)
-- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-14oj)
-- [Anthropic prompt caching cut our RCA cost by 90%](https://dev.to/stella_lin_82914c71e25769/anthropic-prompt-caching-cut-our-rca-cost-by-90-5gmb)
-- [How to Secure an Ubuntu Linux Server for Production](https://dev.to/sovrab/how-to-secure-an-ubuntu-linux-server-for-production-1j3p)
-- [Designing Resilient Shopify Middleware](https://dev.to/masadashraf/designing-resilient-shopify-middleware-4d6i)
+- [My Local Copilot: Gemma 4 + Open WebUI + OpenHands for Coding Without Leaving My Machine](https://dev.to/theelmix/my-local-copilot-gemma-4-open-webui-openhands-for-coding-without-leaving-my-machine-180j)
+- [Hot Take: Developer Conferences Are Useless — Use YouTube 2026 and Blogs Instead of Paid Courses](https://dev.to/johalputt/hot-take-developer-conferences-are-useless-use-youtube-2026-and-blogs-instead-of-paid-courses-4g30)
+- [AI Content Filter: The Practitioner&#39;s Playbook for Killing Low-Quality LLM Slop at Scale](https://dev.to/ariauser13/ai-content-filter-the-practitioners-playbook-for-killing-low-quality-llm-slop-at-scale-3172)
+- [How I’m Using Agent Harnesses, TDD, and the Seam Model to Improve Development in Legacy Systems](https://dev.to/rafaeltedesco/how-im-using-agent-harnesses-tdd-and-the-seam-model-to-improve-development-in-legacy-systems-1a7)
+- [Why Enterprise Transformation Fails Without System Standardization](https://dev.to/denizceylan_kurt/why-enterprise-transformation-fails-without-system-standardization-3mop)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
