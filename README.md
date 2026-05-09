@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built a native iOS app for Vercel Web Analytics](https://dev.to/apoorvdarshan/i-built-a-native-ios-app-for-vercel-web-analytics-lg5)
-- [There&#39;s no clean way to verify an email address. Here&#39;s what works anyway.](https://dev.to/apa512/theres-no-clean-way-to-verify-an-email-address-heres-what-works-anyway-36bn)
-- [The KYC Drop-Off No Dashboard Can Explain](https://dev.to/aeriela_week_b738262c26a5/the-kyc-drop-off-no-dashboard-can-explain-2p4f)
-- [The Co-Founder Vetting System Nobody Talks About &lpar;Until It&#39;s Too Late&rpar;](https://dev.to/ariauser13/the-co-founder-vetting-system-nobody-talks-about-until-its-too-late-k79)
-- [When the Merchant Is Real but the Funnel Still Says No](https://dev.to/melisa_carvalho_cf8a232ce/when-the-merchant-is-real-but-the-funnel-still-says-no-45ho)
+- [ESP32-S3 กับ TinyML: สร้างระบบรักษาความปลอดภัยบ้านอัจฉริยะด้วย Edge AI ตรวจจับความผิดปกติแบบ Real-time](https://dev.to/bittobuild/esp32-s3-kab-tinyml-sraangrabbraksaakhwaampldphaybaanacchchriyadwy-edge-ai-trwcchcchabkhwaamphidpktiaebb-4jn)
+- [ESP32-S3 + TinyML: Build a Real-Time Edge AI Home Security System That Runs Without the Cloud](https://dev.to/bittobuild/esp32-s3-tinyml-build-a-real-time-edge-ai-home-security-system-that-runs-without-the-cloud-3c22)
+- [GPU-as-a-Service &lpar;GaaS&rpar;, Model-as-a-Service &lpar;MaaS&rpar;, Token-as-a-Service &lpar;TaaS&rpar;](https://dev.to/devang_prajapati/gpu-as-a-service-gaas-model-as-a-service-maas-token-as-a-service-taas-9nc)
+- [Weekly Dev Log 2026-W04](https://dev.to/umitomo-lab/weekly-dev-log-2026-w04-26k1)
+- [Stop Guessing Your RAG Quality: Automating Faithfulness Metrics with Spring AI and LLM-as-a-Judge](https://dev.to/machinecodingmaster/stop-guessing-your-rag-quality-automating-faithfulness-metrics-with-spring-ai-and-llm-as-a-judge-2lep)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
