@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic hit B ARR in 16 months. I went looking for where the money is actually coming from.](https://dev.to/thegdsks/anthropic-hit-b-arr-in-16-months-i-went-looking-for-where-the-money-is-actually-coming-from-5f25)
-- [HCP Terraform: Plan Free vs Crédito Trial — La Guía Definitiva](https://dev.to/8infinitecloud/hcp-terraform-plan-free-vs-credito-trial-la-guia-definitiva-1kol)
-- [Zero Values em Go: o que toda variável traz de fábrica](https://dev.to/oliversieto/zero-values-em-go-o-que-toda-variavel-traz-de-fabrica-32od)
-- [&quot;Prime Testable&quot; Code](https://dev.to/aaronmaxwell/prime-testable-code-2cmd)
-- [Human Operators in Distributed Financial Systems: When People Become Part of the Architecture](https://dev.to/doomhammerhell/human-operators-in-distributed-financial-systems-when-people-become-part-of-the-architecture-59l7)
+- [Why I stopped using exceptions for control flow in my .NET 8 APIs](https://dev.to/fenixkit/why-i-stopped-using-exceptions-for-control-flow-in-my-net-8-apis-29j2)
+- [How I Built a QR-Powered ERP for Garment Factories Using React, Firebase, and a Raspberry Pi 🧵⚡](https://dev.to/drmcoder/how-i-built-a-qr-powered-erp-for-garment-factories-using-react-firebase-and-a-raspberry-pi-55gc)
+- [When Stability Improves Performance &lpar;Threading&rpar;](https://dev.to/tavari/when-stability-improves-performance-threading-3e2p)
+- [Why VirusTotal Alone Isn&#39;t Enough to Verify APK Safety](https://dev.to/sehan_shahid/why-virustotal-alone-isnt-enough-to-verify-apk-safety-2683)
+- [Authorization and Authentication in AWS](https://dev.to/khursheed_alam_d53e78064d/authorization-and-authentication-in-aws-5340)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
