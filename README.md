@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a $15K Web Design Agency Landing Page With Next.js and Formgrid](https://dev.to/allenarduino/how-to-build-a-15k-web-design-agency-landing-page-with-nextjs-and-formgrid-5291)
-- [The Hidden 43% — How Teams Are Wasting Almost Half Their LLM API Budget](https://dev.to/amedinat/the-hidden-43-how-teams-are-wasting-almost-half-their-llm-api-budget-32b5)
-- [Building a Multi-Agent Fleet with No Central Server](https://dev.to/asterview/building-a-multi-agent-fleet-with-no-central-server-12fp)
-- [Por Qué Fallan los Agentes de IA: 3 Modos de Fallo Que Cuestan Tokens y Tiempo](https://dev.to/aws-espanol/por-que-fallan-los-agentes-de-ia-3-modos-de-fallo-que-cuestan-tokens-y-tiempo-20b)
-- [TWD setup is now two Vite plugins and zero app code](https://dev.to/kevinccbsg/twd-setup-is-now-two-vite-plugins-and-zero-app-code-3e4i)
+- [I built a native iOS app for Vercel Web Analytics](https://dev.to/apoorvdarshan/i-built-a-native-ios-app-for-vercel-web-analytics-lg5)
+- [There&#39;s no clean way to verify an email address. Here&#39;s what works anyway.](https://dev.to/apa512/theres-no-clean-way-to-verify-an-email-address-heres-what-works-anyway-36bn)
+- [The KYC Drop-Off No Dashboard Can Explain](https://dev.to/aeriela_week_b738262c26a5/the-kyc-drop-off-no-dashboard-can-explain-2p4f)
+- [The Co-Founder Vetting System Nobody Talks About &lpar;Until It&#39;s Too Late&rpar;](https://dev.to/ariauser13/the-co-founder-vetting-system-nobody-talks-about-until-its-too-late-k79)
+- [When the Merchant Is Real but the Funnel Still Says No](https://dev.to/melisa_carvalho_cf8a232ce/when-the-merchant-is-real-but-the-funnel-still-says-no-45ho)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
