@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My CI Runner Was Killed by My Own Script: The Dark Side of Cleanup](https://dev.to/merbayerp/my-ci-runner-was-killed-by-my-own-script-the-dark-side-of-cleanup-6o0)
-- [Why Solana Transactions Feel More Like Database Commits Than API Calls](https://dev.to/anika_jha_33ae1d9afc69178/why-solana-transactions-feel-more-like-database-commits-than-api-calls-4ign)
-- [Descomplicando o REST](https://dev.to/yuripeixinho/descomplicando-o-rest-5fb4)
-- [The Senior Multiplier](https://dev.to/jsolano/the-senior-multiplier-49h2)
-- [I Built a Research Synthesis Engine That Reads 15 Papers and Generates Peer-Reviewed Hypotheses — Powered by Gemma 4](https://dev.to/navid_mirnouri_30d4db25f3/i-built-a-research-synthesis-engine-that-reads-15-papers-and-generates-peer-reviewed-hypotheses--2ie0)
+- [Your Backend Should Be a Compiler, Not a Collection of Handlers](https://dev.to/stinklewinks/your-backend-should-be-a-compiler-not-a-collection-of-handlers-5a9c)
+- [Building a Docker debug TUI in Rust with output-aware follow-ups](https://dev.to/nickciolpan/building-a-docker-debug-tui-in-rust-with-output-aware-follow-ups-3oi8)
+- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-3j6g)
+- [Descomplicando GraphQL](https://dev.to/yuripeixinho/descomplicando-graphql-14i8)
+- [step by step crud operation in motoko - how to store and retrieve data](https://dev.to/abdulsalamamtech/step-by-step-crud-operation-in-motoko-how-to-store-and-retrieve-data-34fp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
