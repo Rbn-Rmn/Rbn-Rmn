@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Build your own AI-powered Voice To-Do Assistant using a Waveshare 1.75&quot; display + Cursor + DuckyClaw — from setup to full feature implementation](https://dev.to/tuyadeveloper/build-your-own-ai-powered-voice-to-do-assistant-using-a-waveshare-175-display-cursor--keh)
-- [Python argparse: Build CLI Tools in 10 Minutes](https://dev.to/german_yamil_e021eef8710d/python-argparse-build-cli-tools-in-10-minutes-4faj)
-- [What Building a SAST Tool Taught Me About AppSec That 13 Years of Software Engineering Didn&#39;t](https://dev.to/pgmpofu/what-building-a-sast-tool-taught-me-about-appsec-that-13-years-of-software-engineering-didnt-3n2l)
-- [Generation 1 — Standalone Models &lpar;2018–2022&rpar;](https://dev.to/raghavenreddy/generation-1-standalone-models-2018-2022-3mcl)
-- [TaskDev - a task runner for AI coding agents &lpar;MCP&rpar;](https://dev.to/tolbxela/taskdev-a-task-runner-for-ai-coding-agents-mcp-3kg1)
+- [How Swarm Orchestrator v8 Tries to Break Its Own AI Patches](https://dev.to/moonrunnerkc/how-swarm-orchestrator-v8-tries-to-break-its-own-ai-patches-2513)
+- [How to Write a CLAUDE.md Rule That Actually Gets Enforced](https://dev.to/moonrunnerkc/how-to-write-a-claudemd-rule-that-actually-gets-enforced-3npa)
+- [There is a moment, after I finish a prompt and before I press send, when the ...](https://dev.to/paifamily/there-is-a-moment-after-i-finish-a-prompt-and-before-i-press-send-when-the--l2m)
+- [I built an AI that explains your CI failures in plain English &lpar;right inside your PR&rpar;](https://dev.to/aliyaakoub/i-built-an-ai-that-explains-your-ci-failures-in-plain-english-right-inside-your-pr-nef)
+- [Build Your Own Lab: Virtualization for DevOps Beginners](https://dev.to/ubayedbinsufian/build-your-own-lab-virtualization-for-devops-beginners-1fac)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
