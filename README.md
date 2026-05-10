@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How secrets work in multi-service OSC stacks &lpar;and one mistake we helped a customer avoid&rpar;](https://dev.to/oscdev/how-secrets-work-in-multi-service-osc-stacks-and-one-mistake-we-helped-a-customer-avoid-3jm9)
-- [SQLite Concurrency Corruption, DuckDB Delta Writes, and DuckLake Data Inlining](https://dev.to/soytuber/sqlite-concurrency-corruption-duckdb-delta-writes-and-ducklake-data-inlining-ao3)
-- [DeepSeek-V4-Flash Benchmarks, FlashRT CUDA Runtime, &amp; V100 LLM Performance](https://dev.to/soytuber/deepseek-v4-flash-benchmarks-flashrt-cuda-runtime-v100-llm-performance-58i2)
-- [Pi Lightsaber Lab](https://dev.to/igoriot/pi-lightsaber-lab-3oba)
-- [Building Private Signal Board: a Full-Stack Midnight dApp with Compact, Witnesses, React, and Off-Chain Metadata](https://dev.to/marmar9615cloud/building-private-signal-board-a-full-stack-midnight-dapp-with-compact-witnesses-react-and-41cm)
+- [I gave my AI agents passports instead of better memory. That fixed the actual problem.](https://dev.to/aipass/i-gave-my-ai-agents-passports-instead-of-better-memory-that-fixed-the-actual-problem-lm4)
+- [The Irony of AI Development: How Context Engineering Is Taking Us Back to Waterfall](https://dev.to/keithjmackay/the-irony-of-ai-development-how-context-engineering-is-taking-us-back-to-waterfall-31j3)
+- [Food Blog Platform — Daily Dev Log](https://dev.to/cyberb0x/food-blog-platform-daily-dev-log-14gc)
+- [Four cms-sim releases in three weeks — to-import bundles, visual diff, and one-command pulls from Sanity + WordPress](https://dev.to/joshuapozos/four-cms-sim-releases-in-three-weeks-to-import-bundles-visual-diff-and-one-command-pulls-from-p65)
+- [ReactJs Performance ~ Server-Side Rendering &lpar;SSR&rpar; and Static Generation ~](https://dev.to/kkr0423/reactjs-performance-server-side-rendering-ssr-and-static-generation--5bbd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
