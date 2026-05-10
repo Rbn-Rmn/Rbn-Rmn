@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [🚀I Built a Chrome Extension That Runs Entire Coursera Courses on Autopilot](https://dev.to/rajairfanahmed/i-built-a-chrome-extension-that-runs-entire-coursera-courses-on-autopilot-3cmi)
-- [TripSync — A Three-Tier Gemma 4 Travel Planner Running Live on Flask](https://dev.to/nightowl/-tripsync-a-three-tier-gemma-4-travel-planner-running-live-on-flask-3iki)
-- [All Roads Lead to AI Rome](https://dev.to/vektor_memory_43f51a32376/all-roads-lead-to-ai-rome-16f)
-- [When Lean Proved My Durability Definition Too Easily](https://dev.to/iroha1203/when-lean-proved-my-durability-definition-too-easily-20nc)
-- [Months of work on a 3-app Marvel ecosystem — React 19, Three.js globe, PWA, i18n, monorepo](https://dev.to/adsy/months-of-work-on-a-3-app-marvel-ecosystem-react-19-threejs-globe-pwa-i18n-monorepo-2pp)
+- [pnpm vs npm vs yarn in 2026: I ran all three on my real monorepo and it forced me to change my mind](https://dev.to/jtorchia/pnpm-vs-npm-vs-yarn-in-2026-i-ran-all-three-on-my-real-monorepo-and-it-forced-me-to-change-my-mind-9mc)
+- [pnpm vs npm vs yarn en 2026: lo corrí en mi monorepo real y el resultado me obligó a cambiar de criterio](https://dev.to/jtorchia/pnpm-vs-npm-vs-yarn-en-2026-lo-corri-en-mi-monorepo-real-y-el-resultado-me-obligo-a-cambiar-de-pkd)
+- [OWASP Agentic Top 10 in Next.js — Mitigation Patterns for Each Risk &lpar;2026&rpar;](https://dev.to/brandon-vibestart/owasp-agentic-top-10-in-nextjs-mitigation-patterns-for-each-risk-2026-416n)
+- [policy layers and two-phase commit for agent payments](https://dev.to/t49qnsx7qtkpanks/policy-layers-and-two-phase-commit-for-agent-payments-3n73)
+- [How I Got Into Google Summer of Code &lpar;GSoC&rpar; 2026 as a Tier-3 MCA Student](https://dev.to/tarunsinghofficial/how-i-got-into-google-summer-of-code-gsoc-2026-as-a-tier-3-mca-student-4017)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
