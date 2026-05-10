@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Browser Is Not a Security Boundary](https://dev.to/trustboundarylab/the-browser-is-not-a-security-boundary-1flj)
-- [Why I Built an ML-Powered Secrets Detector Instead of Just Using Regex](https://dev.to/pgmpofu/why-i-built-an-ml-powered-secrets-detector-instead-of-just-using-regex-4koa)
-- [Why your app feels slow and how we fixed it with PowerSync](https://dev.to/doszhan/why-your-app-feels-slow-and-how-we-fixed-it-with-powersync-ehc)
-- [C# Networking Deep Dive With io_uring part 2 - Bridge the Async Model](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-2-bridge-the-async-model-3cgo)
-- [LLMs broke ad fraud detection. Here&#39;s what that means.](https://dev.to/yisrael_gottlieb/llms-broke-ad-fraud-detection-heres-what-that-means-1i7h)
+- [I shipped 30 apps. AI crawlers ignore them.](https://dev.to/jill_builds_apps/i-shipped-30-apps-ai-crawlers-ignore-them-506c)
+- [How We Built ElderEase: An AI-Powered Healthcare Platform for Seniors](https://dev.to/aadya2901/how-we-built-elderease-an-ai-powered-healthcare-platform-for-seniors-573i)
+- [Why Your Next App Ships Faster From Studio to Deploy](https://dev.to/debajyoti_ghosh/why-your-next-app-ships-faster-from-studio-to-deploy-9bj)
+- [Why AI-Generated Code Makes You Slower &lpar;And How to Fix Your Workflow&rpar;](https://dev.to/alanwest/why-ai-generated-code-makes-you-slower-and-how-to-fix-your-workflow-hf6)
+- [The Late Payment Policy + 4 email scripts that turn 90-day-overdue invoices into 14-day-paid invoices](https://dev.to/acehq/the-late-payment-policy-4-email-scripts-that-turn-90-day-overdue-invoices-into-14-day-paid-36of)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
