@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building MCP servers with Spring AI: a practical boundary for agents](https://dev.to/pcornelissen/building-mcp-servers-with-spring-ai-a-practical-boundary-for-agents-1d23)
-- [Beyond SQL: How to Build a High-Performance On-Device Vector Search Engine for Android](https://dev.to/programmingcentral/beyond-sql-how-to-build-a-high-performance-on-device-vector-search-engine-for-android-1e0o)
-- [🤔 Everything You Were Too Afraid to Ask About Gemma 4 &lpar;But Should Have&rpar;](https://dev.to/aditya_007/everything-you-were-too-afraid-to-ask-about-gemma-4-but-should-have-5gpa)
-- [EU AI Act Article 14: Human Oversight Requirements Explained](https://dev.to/gregorio_vonhildebrand_a/eu-ai-act-article-14-human-oversight-requirements-explained-eb6)
-- [Three Detection Paradigms. One Dataset. One Result.](https://dev.to/alonsoir/three-detection-paradigms-one-dataset-one-result-3147)
+- [Simple DEV Blog Post Writer with LangGraph Multi Agents with Memory, AWS Bedrock Nova: Generator &amp; Evaluator Pattern](https://dev.to/aws-builders/simple-dev-blog-post-writer-with-langgraph-multi-agents-with-memory-aws-bedrock-nova-generator--5b1)
+- [PHP vs Node.js &lpar;2026&rpar;: I Benchmarked Both — Here&#39;s What Surprised Me](https://dev.to/syedahmershah/php-vs-nodejs-2026-i-benchmarked-both-heres-what-surprised-me-2caj)
+- [Why Node.js Is Perfect for Building Fast Web Applications](https://dev.to/pratham69/why-nodejs-is-perfect-for-building-fast-web-applications-59o1)
+- [Local LLMs in 2026: What Actually Works on Consumer Hardware](https://dev.to/studiomeyer_io/local-llms-in-2026-what-actually-works-on-consumer-hardware-50me)
+- [Cursor Pagination Step by Step](https://dev.to/edriso/cursor-pagination-step-by-step-1iff)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
