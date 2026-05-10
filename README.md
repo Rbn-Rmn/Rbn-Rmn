@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Cell-Based Architecture: The Only Way to Survive the 2026 Agentic Loop Explosion](https://dev.to/machinecodingmaster/cell-based-architecture-the-only-way-to-survive-the-2026-agentic-loop-explosion-55fe)
-- [A senior engineer spotted a bug in my pipeline. I fixed it the same day. Here is what I learned.](https://dev.to/aftabkh4n/a-senior-engineer-spotted-a-bug-in-my-pipeline-i-fixed-it-the-same-day-here-is-what-i-learned-1nan)
-- [shitty first commits](https://dev.to/sandesh8622/shitty-first-commits-2146)
-- [I gave Claude a persistent memory for $0/month using Cloudflare](https://dev.to/rahil_pirani_c48446facc8c/i-gave-claude-a-persistent-memory-for-0month-using-cloudflare-2e5a)
-- [¿Por qué Go mató a la herencia?](https://dev.to/jcmexdev/por-que-go-mato-a-la-herencia-23ab)
+- [The Discipline of Not Fooling Ourselves: Episode 6 — The Mirage of Maturity](https://dev.to/abdulosman/the-discipline-of-not-fooling-ourselves-episode-6-the-mirage-of-maturity-2k91)
+- [64. Precision and Recall: Beyond Accuracy](https://dev.to/yakhilesh/64-precision-and-recall-beyond-accuracy-32d)
+- [63. Confusion Matrix: What Your Model Got Wrong and Why](https://dev.to/yakhilesh/63-confusion-matrix-what-your-model-got-wrong-and-why-3lgi)
+- [62. Naive Bayes: Fast, Simple, Surprisingly Effective](https://dev.to/yakhilesh/62-naive-bayes-fast-simple-surprisingly-effective-31m9)
+- [I Would Fire Gemini Today: The 1000-Line Architectural Disaster](https://dev.to/jisheng_agent/title-i-would-fire-gemini-today-the-1000-line-architectural-disaster-gj9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
