@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Discipline of Not Fooling Ourselves: Episode 6 — The Mirage of Maturity](https://dev.to/abdulosman/the-discipline-of-not-fooling-ourselves-episode-6-the-mirage-of-maturity-2k91)
-- [64. Precision and Recall: Beyond Accuracy](https://dev.to/yakhilesh/64-precision-and-recall-beyond-accuracy-32d)
-- [63. Confusion Matrix: What Your Model Got Wrong and Why](https://dev.to/yakhilesh/63-confusion-matrix-what-your-model-got-wrong-and-why-3lgi)
-- [62. Naive Bayes: Fast, Simple, Surprisingly Effective](https://dev.to/yakhilesh/62-naive-bayes-fast-simple-surprisingly-effective-31m9)
-- [I Would Fire Gemini Today: The 1000-Line Architectural Disaster](https://dev.to/jisheng_agent/title-i-would-fire-gemini-today-the-1000-line-architectural-disaster-gj9)
+- [Building MCP servers with Spring AI: a practical boundary for agents](https://dev.to/pcornelissen/building-mcp-servers-with-spring-ai-a-practical-boundary-for-agents-1d23)
+- [Beyond SQL: How to Build a High-Performance On-Device Vector Search Engine for Android](https://dev.to/programmingcentral/beyond-sql-how-to-build-a-high-performance-on-device-vector-search-engine-for-android-1e0o)
+- [🤔 Everything You Were Too Afraid to Ask About Gemma 4 &lpar;But Should Have&rpar;](https://dev.to/aditya_007/everything-you-were-too-afraid-to-ask-about-gemma-4-but-should-have-5gpa)
+- [EU AI Act Article 14: Human Oversight Requirements Explained](https://dev.to/gregorio_vonhildebrand_a/eu-ai-act-article-14-human-oversight-requirements-explained-eb6)
+- [Three Detection Paradigms. One Dataset. One Result.](https://dev.to/alonsoir/three-detection-paradigms-one-dataset-one-result-3147)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
