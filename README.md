@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Modern Deployment Strategies with AWS: Blue/Green and Canary with CodeDeploy](https://dev.to/kindadailybren/modern-deployment-strategies-with-aws-bluegreen-and-canary-with-codedeploy-3ie7)
-- [Prompt Engineering for AI Agents: 7 Production Patterns That Beat Better Prompts](https://dev.to/suifeng023/prompt-engineering-for-ai-agents-7-production-patterns-that-beat-better-prompts-469e)
-- [Why DevOps Skills Matter in 2026](https://dev.to/rim_5303334767f10/why-devops-skills-matter-in-2026-2g0c)
-- [TLS/SSL Handshake : Understand in 3 Minutes](https://dev.to/hongster85/tlsssl-handshake-understand-in-3-minutes-2fee)
-- [Audit Every Page on Your Site from sitemap.xml in One Command](https://dev.to/avansledright/audit-every-page-on-your-site-from-sitemapxml-in-one-command-1kp8)
+- [Why Avoiding Stage Fright Often Makes It Stronger](https://dev.to/lauren_bonvini/why-avoiding-stage-fright-often-makes-it-stronger-2588)
+- [AI Made Software Faster. It Didn&#39;t Make It Instant](https://dev.to/daniloab/ai-made-software-faster-it-didnt-make-it-instant-2j77)
+- [Terraform vs Ansible: Which Should a SysAdmin Learn First?](https://dev.to/pawan_natekar_8b1ab344624/terraform-vs-ansible-which-should-a-sysadmin-learn-first-3c4j)
+- [Startup success probability](https://dev.to/orchidfiles/startup-success-probability-45p2)
+- [Building a Lightweight Web Scraping Toy with Bun’s Experimental `Bun.Webview`](https://dev.to/gengyue/building-a-lightweight-web-scraping-toy-with-buns-experimental-bunwebview-p5g)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
