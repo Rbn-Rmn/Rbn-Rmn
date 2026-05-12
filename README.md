@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How Mutual Trust Secures Decentralized AI Agent Networks](https://dev.to/artem_a/how-mutual-trust-secures-decentralized-ai-agent-networks-1mlf)
-- [I Was That Developer](https://dev.to/ivan_kikhtan_02fd1e9a4c4b/i-was-that-developer-42ol)
-- [Context in Context: Why AI Tools Degrade Over Longer Work Sessions](https://dev.to/keithjmackay/context-in-context-why-ai-tools-degrade-over-longer-work-sessions-4m0m)
-- [Use Data Stores In Application Development | 🏗️ Build A Product Catalog API](https://dev.to/aws-builders/use-data-stores-in-application-development-build-a-product-catalog-api-404f)
-- [Stop Sharing Prompts — Start Shipping Claude Plugins](https://dev.to/montells/stop-sharing-prompts-start-shipping-claude-plugins-od2)
+- [🚀 Taming the AI: I built a Self-Healing SysAdmin Agent in a Docker Sandbox 🛡️](https://dev.to/kernelcero/taming-the-ai-i-built-a-self-healing-sysadmin-agent-in-a-docker-sandbox-2o9i)
+- [Hexagonal Architecture Should Be Your Default](https://dev.to/tacoda/hexagonal-architecture-should-be-your-default-4jdc)
+- [The 20-Minute Compromise: CI/CD Audit Guide for the TanStack Supply Chain Attack](https://dev.to/narnaiezzsshaa/the-20-minute-compromise-cicd-audit-guide-for-the-tanstack-supply-chain-attack-48g7)
+- [I Built Compressly Because Most Image Conversion Tools Were Honestly Frustrating](https://dev.to/athenis/i-built-compressly-because-most-image-conversion-tools-were-honestly-frustrating-380k)
+- [Can you stop attacking #npm packages? I&#39;m scared of installing packages. Now it&#39;s time to switch 100% to PNPM...](https://dev.to/fromchiapasdev/can-you-stop-attacking-npm-packages-im-scared-of-installing-packages-now-its-time-to-switch-1aa4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
