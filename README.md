@@ -133,11 +133,15 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Avoiding Stage Fright Often Makes It Stronger](https://dev.to/lauren_bonvini/why-avoiding-stage-fright-often-makes-it-stronger-2588)
-- [AI Made Software Faster. It Didn&#39;t Make It Instant](https://dev.to/daniloab/ai-made-software-faster-it-didnt-make-it-instant-2j77)
-- [Terraform vs Ansible: Which Should a SysAdmin Learn First?](https://dev.to/pawan_natekar_8b1ab344624/terraform-vs-ansible-which-should-a-sysadmin-learn-first-3c4j)
-- [Startup success probability](https://dev.to/orchidfiles/startup-success-probability-45p2)
-- [Building a Lightweight Web Scraping Toy with Bun’s Experimental `Bun.Webview`](https://dev.to/gengyue/building-a-lightweight-web-scraping-toy-with-buns-experimental-bunwebview-p5g)
+- [We&#39;re All Juggling 4 AI Tools Now and Pretending That&#39;s Normal](https://dev.to/chrisbuildsonline/were-all-juggling-4-ai-tools-now-and-pretending-thats-normal-25pp)
+- [Termux + Ollama + 2.3B parameters. Offline. Private. Fast.
+
+Wrote a full guide on how to set it up, what works, and what breaks.
+
+If your internet has ever failed you mid-build, this is for you.](https://dev.to/okeke_chukwudubem_5f3bf49/termux-ollama-23b-parameters-offline-private-fast-wrote-a-full-guide-on-how-to-set-it-356e)
+- [🏆 30 Best Distributed Systems Talks of All Time](https://dev.to/techtalksweekly/30-best-distributed-systems-talks-of-all-time-3e4g)
+- [Node.js 18 is a year past EOL and Node.js 20 just hit EOL — is your stack exposed?](https://dev.to/endoflifeai/nodejs-18-is-a-year-past-eol-and-nodejs-20-just-hit-eol-is-your-stack-exposed-394h)
+- [I Built a Wordle Clone in Python - Here&#39;s How You Can Too](https://dev.to/ioanadaria/i-built-a-wordle-clone-in-python-heres-how-you-can-too-58gc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
