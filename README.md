@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Tracking 47 Reddit comments through Perplexity citation rails](https://dev.to/code_pocket_99fdbc771/tracking-47-reddit-comments-through-perplexity-citation-rails-2lm8)
-- [How Merkle anchoring on Base L2 turns a track record into verifiable proof](https://dev.to/algovaultlabs/how-merkle-anchoring-on-base-l2-turns-a-track-record-into-verifiable-proof-2pc6)
-- [ASCII Donut Math Animation — 30 Days Web Challenge Day 2](https://dev.to/abduarrahman/ascii-donut-math-animation-30-days-web-challenge-day-2-23f9)
-- [Seeking Guidance on the Microsoft Elevate Educator Expert Pathway](https://dev.to/dukeastro93/seeking-guidance-on-the-microsoft-elevate-educator-expert-pathway-13jh)
-- [FP&amp;A Command Center](https://dev.to/pradeep_hebballi_2a02b8b3/fpa-command-center-5bbi)
+- [Reverse Email Lookup Shootout: Hunter, Clearbit, Datagma, and PDL Tested on 500 Real B2B Addresses](https://dev.to/zackrag/reverse-email-lookup-shootout-hunter-clearbit-datagma-and-pdl-tested-on-500-real-b2b-addresses-55h0)
+- [How AI Agents Are Replacing Door-to-Door Sales Teams](https://dev.to/forgeflows/how-ai-agents-are-replacing-door-to-door-sales-teams-4ipk)
+- [Playwright Proxy Debugging: Why Your Script Works Locally but Fails With Proxies](https://dev.to/web4browser/playwright-proxy-debugging-why-your-script-works-locally-but-fails-with-proxies-14kn)
+- [FAQ Schema Isn&#39;t Dead — Just the Rich Result!](https://dev.to/venkatweetz/faq-schema-isnt-dead-just-the-rich-result-e42)
+- [Day 1 — Introduction to DevOps &amp; DevSecOps](https://dev.to/17j/day-1-introduction-to-devops-devsecops-1m68)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
