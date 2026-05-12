@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Wearables and the Rise of Everyday Bio-Surveillance](https://dev.to/shradha_puri/wearables-and-the-rise-of-everyday-bio-surveillance-jjg)
-- [AI Cannot Continue Like This: Why We Need an Opt-In Model and &quot;Pay-per-Citation&quot; by Law](https://dev.to/jcarlosweb/ai-cannot-continue-like-this-why-we-need-an-opt-in-model-and-pay-per-citation-by-law-5dme)
-- [How I Locked Down a Static Site with Lambda@Edge and Cognito &lpar;No Backend Required&rpar;](https://dev.to/robertobelotti/how-i-locked-down-a-static-site-with-lambdaedge-and-cognito-no-backend-required-40el)
-- [I built fixnx to catch common website issues &lpar;security/SEO/performance&rpar;](https://dev.to/7t_b92610df62e11cd9c45196/i-built-fixnx-to-catch-common-website-issues-securityseoperformance-42ph)
-- [How Telecom APIs Are Powering the Next Generation of MVNOs](https://dev.to/telecomhub/how-telecom-apis-are-powering-the-next-generation-of-mvnos-4obn)
+- [Modern Deployment Strategies with AWS: Blue/Green and Canary with CodeDeploy](https://dev.to/kindadailybren/modern-deployment-strategies-with-aws-bluegreen-and-canary-with-codedeploy-3ie7)
+- [Prompt Engineering for AI Agents: 7 Production Patterns That Beat Better Prompts](https://dev.to/suifeng023/prompt-engineering-for-ai-agents-7-production-patterns-that-beat-better-prompts-469e)
+- [Why DevOps Skills Matter in 2026](https://dev.to/rim_5303334767f10/why-devops-skills-matter-in-2026-2g0c)
+- [TLS/SSL Handshake : Understand in 3 Minutes](https://dev.to/hongster85/tlsssl-handshake-understand-in-3-minutes-2fee)
+- [Audit Every Page on Your Site from sitemap.xml in One Command](https://dev.to/avansledright/audit-every-page-on-your-site-from-sitemapxml-in-one-command-1kp8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
