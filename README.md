@@ -133,15 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;re All Juggling 4 AI Tools Now and Pretending That&#39;s Normal](https://dev.to/chrisbuildsonline/were-all-juggling-4-ai-tools-now-and-pretending-thats-normal-25pp)
-- [Termux + Ollama + 2.3B parameters. Offline. Private. Fast.
-
-Wrote a full guide on how to set it up, what works, and what breaks.
-
-If your internet has ever failed you mid-build, this is for you.](https://dev.to/okeke_chukwudubem_5f3bf49/termux-ollama-23b-parameters-offline-private-fast-wrote-a-full-guide-on-how-to-set-it-356e)
-- [🏆 30 Best Distributed Systems Talks of All Time](https://dev.to/techtalksweekly/30-best-distributed-systems-talks-of-all-time-3e4g)
-- [Node.js 18 is a year past EOL and Node.js 20 just hit EOL — is your stack exposed?](https://dev.to/endoflifeai/nodejs-18-is-a-year-past-eol-and-nodejs-20-just-hit-eol-is-your-stack-exposed-394h)
-- [I Built a Wordle Clone in Python - Here&#39;s How You Can Too](https://dev.to/ioanadaria/i-built-a-wordle-clone-in-python-heres-how-you-can-too-58gc)
+- [How Mutual Trust Secures Decentralized AI Agent Networks](https://dev.to/artem_a/how-mutual-trust-secures-decentralized-ai-agent-networks-1mlf)
+- [I Was That Developer](https://dev.to/ivan_kikhtan_02fd1e9a4c4b/i-was-that-developer-42ol)
+- [Context in Context: Why AI Tools Degrade Over Longer Work Sessions](https://dev.to/keithjmackay/context-in-context-why-ai-tools-degrade-over-longer-work-sessions-4m0m)
+- [Use Data Stores In Application Development | 🏗️ Build A Product Catalog API](https://dev.to/aws-builders/use-data-stores-in-application-development-build-a-product-catalog-api-404f)
+- [Stop Sharing Prompts — Start Shipping Claude Plugins](https://dev.to/montells/stop-sharing-prompts-start-shipping-claude-plugins-od2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
