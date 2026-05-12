@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Use AI to Cut My Code Review Prep Time in Half &lpar;Step-by-Step&rpar;](https://dev.to/tal_vardi_d7f3ffe2d1f9cdf/how-i-use-ai-to-cut-my-code-review-prep-time-in-half-step-by-step-2afn)
-- [What I learned building a software licensing system for desktop and offline apps](https://dev.to/catsika/what-i-learned-building-a-software-licensing-system-for-desktop-and-offline-apps-7ac)
-- [The Unofficial MojoWiki](https://dev.to/krun_dev/the-unofficial-mojowiki-4gn2)
-- [I Couldn&#39;t Find a Rolling Text Library for Compose, So I Built One](https://dev.to/morozione_e85f4e0ed33e002/i-couldnt-find-a-rolling-text-library-for-compose-so-i-built-one-306b)
-- [Job Post: Full-Stack Software Engineer](https://dev.to/kasseyharmonyai/job-post-full-stack-software-engineer-3265)
+- [Tracking 47 Reddit comments through Perplexity citation rails](https://dev.to/code_pocket_99fdbc771/tracking-47-reddit-comments-through-perplexity-citation-rails-2lm8)
+- [How Merkle anchoring on Base L2 turns a track record into verifiable proof](https://dev.to/algovaultlabs/how-merkle-anchoring-on-base-l2-turns-a-track-record-into-verifiable-proof-2pc6)
+- [ASCII Donut Math Animation — 30 Days Web Challenge Day 2](https://dev.to/abduarrahman/ascii-donut-math-animation-30-days-web-challenge-day-2-23f9)
+- [Seeking Guidance on the Microsoft Elevate Educator Expert Pathway](https://dev.to/dukeastro93/seeking-guidance-on-the-microsoft-elevate-educator-expert-pathway-13jh)
+- [FP&amp;A Command Center](https://dev.to/pradeep_hebballi_2a02b8b3/fpa-command-center-5bbi)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
