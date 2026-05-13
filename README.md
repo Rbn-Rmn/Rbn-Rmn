@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Improving operational resilience by decoupling code deployments from feature activation using AWS AppConfig feature flags](https://dev.to/aparkris/improving-operational-resilience-by-decoupling-code-deployments-from-feature-activation-using-aws-i3)
-- [Kilo Code for VS Code on Product Hunt](https://dev.to/fmerian/kilo-code-for-vs-code-on-product-hunt-371p)
-- [10 Free Browser-Based Text Tools Every Developer Should Bookmark](https://dev.to/trading_view_49166759752f/10-free-browser-based-text-tools-every-developer-should-bookmark-pal)
-- [Why Most &quot;Cheaper Cloud&quot; Strategies Fail](https://dev.to/ntctech/why-most-cheaper-cloud-strategies-fail-3h7g)
-- [I Used Gemma 4 as a Local Coding Agent With OpenCode. Here’s What Happened](https://dev.to/lkp/i-used-gemma-4-as-a-local-coding-agent-with-opencode-heres-what-happened-19mh)
+- [Replace Zapier With 50 Lines of Python &lpar;Save $50/Month&rpar;](https://dev.to/brad_20095bd4959b60ad2335/replace-zapier-with-50-lines-of-python-save-50month-4nl8)
+- [Dev Log: From Combat MVP to Map Mode - Building the Strategic Core of &quot;CIDER&quot;](https://dev.to/gamedecisiondiagram/dev-log-from-combat-mvp-to-map-mode-building-the-strategic-core-of-cider-55jk)
+- [Six Claude Code Skills That Close the AI Agent Feedback Loop](https://dev.to/eyalb/six-claude-code-skills-that-close-the-ai-agent-feedback-loop-10bb)
+- [Explained Global, Local &amp; Block Scope in JavaScript](https://dev.to/nikita_maharana_879884df2/explained-global-local-block-scope-in-javascript-25e9)
+- [I Thought OOP Was Just &quot;IS-A&quot;… Until an Interview Destroyed My Confidence](https://dev.to/yuktisays/i-thought-oop-was-just-is-a-until-an-interview-destroyed-my-confidence-19p1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
