@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Replace Zapier With 50 Lines of Python &lpar;Save $50/Month&rpar;](https://dev.to/brad_20095bd4959b60ad2335/replace-zapier-with-50-lines-of-python-save-50month-4nl8)
-- [Dev Log: From Combat MVP to Map Mode - Building the Strategic Core of &quot;CIDER&quot;](https://dev.to/gamedecisiondiagram/dev-log-from-combat-mvp-to-map-mode-building-the-strategic-core-of-cider-55jk)
-- [Six Claude Code Skills That Close the AI Agent Feedback Loop](https://dev.to/eyalb/six-claude-code-skills-that-close-the-ai-agent-feedback-loop-10bb)
-- [Explained Global, Local &amp; Block Scope in JavaScript](https://dev.to/nikita_maharana_879884df2/explained-global-local-block-scope-in-javascript-25e9)
-- [I Thought OOP Was Just &quot;IS-A&quot;… Until an Interview Destroyed My Confidence](https://dev.to/yuktisays/i-thought-oop-was-just-is-a-until-an-interview-destroyed-my-confidence-19p1)
+- [Two days lost to PGRST116: when Supabase RLS hides a successful write](https://dev.to/arvavit/two-days-lost-to-pgrst116-when-supabase-rls-hides-a-successful-write-4nch)
+- [We built an enterprise integration stack for .NET from scratch: EAV + DSL + runtime](https://dev.to/rinat_kozin_d0a2ef43e7824/we-built-an-enterprise-integration-stack-for-net-from-scratch-eav-dsl-runtime-2l16)
+- [Containerization With Docker](https://dev.to/stephen_githinji_/containerization-with-docker-4ama)
+- [AI + BI Convergence: Engineering the 10M-Row AI BI Agent](https://dev.to/dattasable/ai-bi-convergence-engai-businessintelligence-duckdb-datastrategyineering-the-10m-row-ai-bi-agent-531p)
+- [Engineering the Sentinel: Architecting a 10M-Record Fraud Detection System](https://dev.to/dattasable/engineering-the-sentinel-architecting-a-10m-record-fraud-detection-system-53if)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
