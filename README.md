@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Two days lost to PGRST116: when Supabase RLS hides a successful write](https://dev.to/arvavit/two-days-lost-to-pgrst116-when-supabase-rls-hides-a-successful-write-4nch)
-- [We built an enterprise integration stack for .NET from scratch: EAV + DSL + runtime](https://dev.to/rinat_kozin_d0a2ef43e7824/we-built-an-enterprise-integration-stack-for-net-from-scratch-eav-dsl-runtime-2l16)
-- [Containerization With Docker](https://dev.to/stephen_githinji_/containerization-with-docker-4ama)
-- [AI + BI Convergence: Engineering the 10M-Row AI BI Agent](https://dev.to/dattasable/ai-bi-convergence-engai-businessintelligence-duckdb-datastrategyineering-the-10m-row-ai-bi-agent-531p)
-- [Engineering the Sentinel: Architecting a 10M-Record Fraud Detection System](https://dev.to/dattasable/engineering-the-sentinel-architecting-a-10m-record-fraud-detection-system-53if)
+- [Why AI Hallucinates](https://dev.to/anjan_tripathy_16/why-ai-hallucinates-4d7h)
+- [Smile Detection With Flutter](https://dev.to/88dev/smile-detection-with-flutter-37pi)
+- [Ontologic 1.5 is out! 🎉](https://dev.to/sacha/ontologic-15-is-out-4beb)
+- [drug-pipeline-mcp: Open-source pharmaceutical R&amp;D intelligence](https://dev.to/dasclown/drug-pipeline-mcp-open-source-pharmaceutical-rd-intelligence-504f)
+- [5 Go Loggers That Will Replace Your Sad Little fmt.Println Habit](https://dev.to/lovestaco/5-go-loggers-that-will-replace-your-sad-little-fmtprintln-habit-512k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
