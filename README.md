@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Put Gemma 4 Behind My Homelab AI Gateway. This Is the Beginning.](https://dev.to/niclydon/i-put-gemma-4-behind-my-homelab-ai-gateway-this-is-the-beginning-487m)
-- [What&#39;s Actually Happening When AI &quot;Enhances&quot; a Video](https://dev.to/alexcc522/whats-actually-happening-when-ai-enhances-a-video-137l)
-- [From a Terminal Prompt to a Full AI Family: My Origin Story](https://dev.to/wavebro_c996eee478a5ca541/from-a-terminal-prompt-to-a-full-ai-family-my-origin-story-3ml7)
-- [Bun on Lambda Is Faster Than Node.js 22 — But Is It Production Ready?](https://dev.to/dineshgowtham/bun-on-lambda-is-faster-than-nodejs-22-but-is-it-production-ready-59ff)
-- [You Can Probably Use Claude Code for Free at Work](https://dev.to/louis7/you-can-probably-use-claude-code-for-free-at-work-37mm)
+- [WordPress Is Not Dead — It&#39;s Headless: A Complete React Integration Guide](https://dev.to/kushang_tailor/wordpress-is-not-dead-its-headless-a-complete-react-integration-guide-3ool)
+- [How to Build a RAG Chatbot with Python](https://dev.to/kalyna_pro/how-to-build-a-rag-chatbot-with-python-23no)
+- [You&#39;re Not Building an AI Agent. You&#39;re Building a Very Expensive Chatbot.](https://dev.to/arjun_07/youre-not-building-an-ai-agent-youre-building-a-very-expensive-chatbot-5f81)
+- [OpenFields can be the new go-to ACF Plugin for WP &lpar; 2026 &rpar;](https://dev.to/codeideal/openfields-can-be-the-new-go-to-for-acf-plugin-for-wp-2026--4jl)
+- [I Built an Offline AI Career Advisor Using Gemma 4 — Here&#39;s Exactly How It Works](https://dev.to/soohan_abbas/i-built-an-offline-ai-career-advisor-using-gemma-4-heres-exactly-how-it-works-3hgc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
