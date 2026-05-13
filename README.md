@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [LLVM #4 — User Defined Operators](https://dev.to/lahari_tenneti_4a8a082e9c/llvm-4-user-defined-operators-3f58)
-- [SLMs vs. LLMs: When Smaller Wins](https://dev.to/mark_thorn_llm/slms-vs-llms-when-smaller-wins-hbj)
-- [Why Your Dark Mode Looks Weird &lpar;And How to Fix It&rpar;](https://dev.to/gengyue/why-your-dark-mode-looks-weird-and-how-to-fix-it-307d)
-- [Lambda Durable Functions, When You Don&#39;t Need Step Functions](https://dev.to/aws-builders/lambda-durable-functions-when-you-dont-need-step-functions-20bn)
-- [Claprec: Inside the Architecture - N-Tier, decoupling, microservices &lpar;2/6&rpar;](https://dev.to/keno_sej/claprec-inside-the-architecture-n-tier-decoupling-microservices-26-4pbd)
+- [Improving operational resilience by decoupling code deployments from feature activation using AWS AppConfig feature flags](https://dev.to/aparkris/improving-operational-resilience-by-decoupling-code-deployments-from-feature-activation-using-aws-i3)
+- [Kilo Code for VS Code on Product Hunt](https://dev.to/fmerian/kilo-code-for-vs-code-on-product-hunt-371p)
+- [10 Free Browser-Based Text Tools Every Developer Should Bookmark](https://dev.to/trading_view_49166759752f/10-free-browser-based-text-tools-every-developer-should-bookmark-pal)
+- [Why Most &quot;Cheaper Cloud&quot; Strategies Fail](https://dev.to/ntctech/why-most-cheaper-cloud-strategies-fail-3h7g)
+- [I Used Gemma 4 as a Local Coding Agent With OpenCode. Here’s What Happened](https://dev.to/lkp/i-used-gemma-4-as-a-local-coding-agent-with-opencode-heres-what-happened-19mh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
