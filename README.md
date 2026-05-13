@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [WordPress Is Not Dead — It&#39;s Headless: A Complete React Integration Guide](https://dev.to/kushang_tailor/wordpress-is-not-dead-its-headless-a-complete-react-integration-guide-3ool)
-- [How to Build a RAG Chatbot with Python](https://dev.to/kalyna_pro/how-to-build-a-rag-chatbot-with-python-23no)
-- [You&#39;re Not Building an AI Agent. You&#39;re Building a Very Expensive Chatbot.](https://dev.to/arjun_07/youre-not-building-an-ai-agent-youre-building-a-very-expensive-chatbot-5f81)
-- [OpenFields can be the new go-to ACF Plugin for WP &lpar; 2026 &rpar;](https://dev.to/codeideal/openfields-can-be-the-new-go-to-for-acf-plugin-for-wp-2026--4jl)
-- [I Built an Offline AI Career Advisor Using Gemma 4 — Here&#39;s Exactly How It Works](https://dev.to/soohan_abbas/i-built-an-offline-ai-career-advisor-using-gemma-4-heres-exactly-how-it-works-3hgc)
+- [Building a Simple Web Server in Go](https://dev.to/steve_omollo/building-a-simple-web-server-in-go-59hl)
+- [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
+- [I have talked to dozens of AI teams about production. The same things keep breaking.](https://dev.to/neethu_eve_/i-have-talked-to-dozens-of-ai-teams-about-production-the-same-things-keep-breaking-1n6b)
+- [Image Compression &amp; Privacy: Why You Shouldn&#39;t Upload Private Photos to Online Tools](https://dev.to/hunkwu/image-compression-privacy-why-you-shouldnt-upload-private-photos-to-online-tools-1aij)
+- [I built a Windows optimizer that refuses to run if Outlook is open](https://dev.to/tiltedlunar123/i-built-a-windows-optimizer-that-refuses-to-run-if-outlook-is-open-1fl5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
