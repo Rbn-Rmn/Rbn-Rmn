@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Privacy-First Facial Similarity Network using React &amp; Firebase](https://dev.to/shtatskyi/how-i-built-a-privacy-first-facial-similarity-network-using-react-firebase-19gd)
-- [Automate Instagram Carousel Posts with n8n + RenderPix](https://dev.to/ozgurs/automate-instagram-carousel-posts-with-n8n-renderpix-3e2)
-- [Scalable Shopify Integration Patterns Every Developer Should Know](https://dev.to/masadashraf/scalable-shopify-integration-patterns-every-developer-should-know-2l94)
-- [What is Agent Memory and why does it matter?](https://dev.to/anilmurty/what-is-agent-memory-and-why-does-it-matter-3469)
-- [Stay Tuned on May 22 for the Gemma 4 Writing Challenge Post Featuring 4 DEVengers!](https://dev.to/devengers/stay-tuned-on-may-22-for-the-gemma-4-writing-challenge-post-featuring-4-devengers-593)
+- [Hexagons, Hypertables, and 240 Dead Tags: Migrating a Maritime Data Platform to TimescaleDB](https://dev.to/vessel_api/hexagons-hypertables-and-240-dead-tags-migrating-a-maritime-data-platform-to-timescaledb-m72)
+- [Bug Bounty Mode in Spectrion](https://dev.to/denisbabkevich/bug-bounty-mode-in-spectrion-1i3k)
+- [Useful &amp; Commonly Used HTTP Status Codes for Your Next API Project](https://dev.to/frankstack/useful-commonly-used-http-status-codes-for-your-next-api-project-364p)
+- [RAG - Sliding Window, Token Based Chunking and PDF Chunking Packages](https://dev.to/ramya_perumal_e93721ef2fa/rag-sliding-window-token-based-chunking-and-pdf-chunking-packages-18nd)
+- [I love to build](https://dev.to/rmpasta/i-love-to-build-f27)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
