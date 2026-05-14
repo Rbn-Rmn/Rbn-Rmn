@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Converting JSON to CSV: How to Flatten Nested Data for Spreadsheets](https://dev.to/snappy_tools/converting-json-to-csv-how-to-flatten-nested-data-for-spreadsheets-4lb0)
-- [Lambda Cold Starts Are Not Solved — They Moved to INIT Phase](https://dev.to/dineshgowtham/lambda-cold-starts-are-not-solved-they-moved-to-init-phase-4go9)
-- [Why Agency Owners Complain About Onboarding But Never Fix It](https://dev.to/lisasakura/why-agency-owners-complain-about-onboarding-but-never-fix-it-3m5m)
-- [Top 7 Quantum Computing Breakthroughs That Changed 2024](https://dev.to/ghoasha_46c1feabcdcaa18f0/top-7-quantum-computing-breakthroughs-that-changed-2024-54hc)
-- [DSA Is Dying in DE Interviews. Nobody Agrees on What&#39;s Next.](https://dev.to/datadriven/dsa-is-dying-in-de-interviews-nobody-agrees-on-whats-next-56kh)
+- [Building a Scalable Laboratory Information Management System &lpar;LIMS&rpar; Using CodeIgniter 4](https://dev.to/sanjana_tandel/building-a-scalable-laboratory-information-management-system-lims-using-codeigniter-4-1nb1)
+- [Code Review Is the Real Bottleneck of 2026 — And Most Teams Don&#39;t See It](https://dev.to/code-board/code-review-is-the-real-bottleneck-of-2026-and-most-teams-dont-see-it-5eed)
+- [The mdadm backup file: when it&#39;s needed, and when it isn&#39;t](https://dev.to/imrepentek/the-mdadm-backup-file-when-its-needed-and-when-it-isnt-2lnd)
+- [The Top Ten Human Programming Blunders AI Could Have Prevented](https://dev.to/gregthevibecoder/the-top-ten-human-programming-blunders-ai-could-have-prevented-ikm)
+- [Y a des petites choses qu&#39;on peut coder soi-meme au lieu de payer un SaaS](https://dev.to/hi3ris/y-a-des-petites-choses-quon-peut-coder-soi-meme-au-lieu-de-payer-un-saas-27m2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
