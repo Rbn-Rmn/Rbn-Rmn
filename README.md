@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [print&lpar;&quot;hello world&quot;&rpar; the first code and after vibe coding hhhhhh.](https://dev.to/zaza_ziro_25a/printhello-world-the-first-code-and-after-vibe-coding-hhhhhh-2dff)
-- [I kept saying the same five things in every doc review. So I made them defaults.](https://dev.to/wordcaster/i-kept-saying-the-same-five-things-in-every-doc-review-so-i-made-them-defaults-3lo4)
-- [I built &quot;Next.js for the terminal&quot; in TypeScript — here&#39;s the architecture](https://dev.to/omarmusayev/i-built-nextjs-for-the-terminal-in-typescript-heres-the-architecture-53k4)
-- [I Have a Toy for You and You Will Like It: How to Play with the UVerify Sandbox](https://dev.to/uverify/i-have-a-toy-for-you-and-you-will-like-it-how-to-play-with-the-uverify-sandbox-204p)
-- [The Truth About Serverless APIs Nobody Mentions](https://dev.to/mgmaster24/the-truth-about-serverless-apis-nobody-mentions-kla)
+- [Audit Your File System with Surveilr: A Practical Guide](https://dev.to/mukhtar_onif/audit-your-file-system-with-surveilr-a-practical-guide-140k)
+- [I Built a TypeScript Object-Graph Database Because I Got Tired of Flattening Everything](https://dev.to/nicolai_kilian_1a1311afc5/i-built-a-typescript-object-graph-database-because-i-got-tired-of-flattening-everything-k4o)
+- [Building bilingual Arabic-first SaaS with Next.js 14: a production recipe](https://dev.to/karem505/building-bilingual-arabic-first-saas-with-nextjs-14-a-production-recipe-27lo)
+- [Keycloak Knows. Why Doesn&#39;t The Rest Of Your Stack?](https://dev.to/mr_buch/keycloak-knows-why-doesnt-the-rest-of-your-stack-4ikj)
+- [Finding My Place in Tech👨🏾‍💻️](https://dev.to/draczihper/finding-my-place-in-tech-2f1c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
