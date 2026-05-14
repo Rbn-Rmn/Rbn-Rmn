@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The AI Honeymoon is Over: Pragmatic Truths from Linear CEO Karri Saarinen](https://dev.to/jacob_is_surfing/the-ai-honeymoon-is-over-pragmatic-truths-from-linear-ceo-karri-saarinen-fi)
-- [Build the infrastructure and understand Terraform](https://dev.to/tdcyber_24/build-the-infrastructure-and-understand-terraform-2e4b)
-- [What Anthropic&#39;s $200 Agent SDK Credit Means If You Run claude -p in Production](https://dev.to/vainamoinen/what-anthropics-200-agent-sdk-credit-means-if-you-run-claude-p-in-production-ce2)
-- [I Built a Free Bloomberg-Style Stock Analyzer in a Weekend — With Claude Code as My Co-Developer](https://dev.to/mamun/i-built-a-free-bloomberg-style-stock-analyzer-in-a-weekend-with-claude-code-as-my-co-developer-6en)
-- [I got tired of Android MTP hanging, so I bypassed it with a C++ daemon and Rust.](https://dev.to/vishnusrivatsava/i-got-tired-of-android-mtp-hanging-so-i-bypassed-it-with-a-c-daemon-and-rust-3e82)
+- [Converting JSON to CSV: How to Flatten Nested Data for Spreadsheets](https://dev.to/snappy_tools/converting-json-to-csv-how-to-flatten-nested-data-for-spreadsheets-4lb0)
+- [Lambda Cold Starts Are Not Solved — They Moved to INIT Phase](https://dev.to/dineshgowtham/lambda-cold-starts-are-not-solved-they-moved-to-init-phase-4go9)
+- [Why Agency Owners Complain About Onboarding But Never Fix It](https://dev.to/lisasakura/why-agency-owners-complain-about-onboarding-but-never-fix-it-3m5m)
+- [Top 7 Quantum Computing Breakthroughs That Changed 2024](https://dev.to/ghoasha_46c1feabcdcaa18f0/top-7-quantum-computing-breakthroughs-that-changed-2024-54hc)
+- [DSA Is Dying in DE Interviews. Nobody Agrees on What&#39;s Next.](https://dev.to/datadriven/dsa-is-dying-in-de-interviews-nobody-agrees-on-whats-next-56kh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
