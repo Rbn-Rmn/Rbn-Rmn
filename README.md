@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable Laboratory Information Management System &lpar;LIMS&rpar; Using CodeIgniter 4](https://dev.to/sanjana_tandel/building-a-scalable-laboratory-information-management-system-lims-using-codeigniter-4-1nb1)
-- [Code Review Is the Real Bottleneck of 2026 — And Most Teams Don&#39;t See It](https://dev.to/code-board/code-review-is-the-real-bottleneck-of-2026-and-most-teams-dont-see-it-5eed)
-- [The mdadm backup file: when it&#39;s needed, and when it isn&#39;t](https://dev.to/imrepentek/the-mdadm-backup-file-when-its-needed-and-when-it-isnt-2lnd)
-- [The Top Ten Human Programming Blunders AI Could Have Prevented](https://dev.to/gregthevibecoder/the-top-ten-human-programming-blunders-ai-could-have-prevented-ikm)
-- [Y a des petites choses qu&#39;on peut coder soi-meme au lieu de payer un SaaS](https://dev.to/hi3ris/y-a-des-petites-choses-quon-peut-coder-soi-meme-au-lieu-de-payer-un-saas-27m2)
+- [Vetting AI as Productivity Tool](https://dev.to/matbanik/vetting-ai-as-productivity-tool-lgb)
+- [7 Reasons Developers Still Prefer Linux in 2026](https://dev.to/techrefreshing/7-reasons-developers-still-prefer-linux-in-2026-3hnm)
+- [RTK: Como economizei 5,3 milhões de tokens sem mudar uma linha de código](https://dev.to/rflpazini/rtk-como-economizei-53-milhoes-de-tokens-sem-mudar-uma-linha-de-codigo-5e1m)
+- [Poland KRS — post‑eKRS‑2024 reality / API guide](https://dev.to/openregistry/poland-krs-post-ekrs-2024-reality-api-guide-46df)
+- [Next.js vs Remix: What&#39;s the Difference?](https://dev.to/descope/nextjs-vs-remix-whats-the-difference-8ga)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
