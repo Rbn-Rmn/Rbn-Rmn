@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Audit Your File System with Surveilr: A Practical Guide](https://dev.to/mukhtar_onif/audit-your-file-system-with-surveilr-a-practical-guide-140k)
-- [I Built a TypeScript Object-Graph Database Because I Got Tired of Flattening Everything](https://dev.to/nicolai_kilian_1a1311afc5/i-built-a-typescript-object-graph-database-because-i-got-tired-of-flattening-everything-k4o)
-- [Building bilingual Arabic-first SaaS with Next.js 14: a production recipe](https://dev.to/karem505/building-bilingual-arabic-first-saas-with-nextjs-14-a-production-recipe-27lo)
-- [Keycloak Knows. Why Doesn&#39;t The Rest Of Your Stack?](https://dev.to/mr_buch/keycloak-knows-why-doesnt-the-rest-of-your-stack-4ikj)
-- [Finding My Place in Tech👨🏾‍💻️](https://dev.to/draczihper/finding-my-place-in-tech-2f1c)
+- [How I Built a Privacy-First Facial Similarity Network using React &amp; Firebase](https://dev.to/shtatskyi/how-i-built-a-privacy-first-facial-similarity-network-using-react-firebase-19gd)
+- [Automate Instagram Carousel Posts with n8n + RenderPix](https://dev.to/ozgurs/automate-instagram-carousel-posts-with-n8n-renderpix-3e2)
+- [Scalable Shopify Integration Patterns Every Developer Should Know](https://dev.to/masadashraf/scalable-shopify-integration-patterns-every-developer-should-know-2l94)
+- [What is Agent Memory and why does it matter?](https://dev.to/anilmurty/what-is-agent-memory-and-why-does-it-matter-3469)
+- [Stay Tuned on May 22 for the Gemma 4 Writing Challenge Post Featuring 4 DEVengers!](https://dev.to/devengers/stay-tuned-on-may-22-for-the-gemma-4-writing-challenge-post-featuring-4-devengers-593)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
