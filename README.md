@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Vetting AI as Productivity Tool](https://dev.to/matbanik/vetting-ai-as-productivity-tool-lgb)
-- [7 Reasons Developers Still Prefer Linux in 2026](https://dev.to/techrefreshing/7-reasons-developers-still-prefer-linux-in-2026-3hnm)
-- [RTK: Como economizei 5,3 milhões de tokens sem mudar uma linha de código](https://dev.to/rflpazini/rtk-como-economizei-53-milhoes-de-tokens-sem-mudar-uma-linha-de-codigo-5e1m)
-- [Poland KRS — post‑eKRS‑2024 reality / API guide](https://dev.to/openregistry/poland-krs-post-ekrs-2024-reality-api-guide-46df)
-- [Next.js vs Remix: What&#39;s the Difference?](https://dev.to/descope/nextjs-vs-remix-whats-the-difference-8ga)
+- [What &quot;100% of Our Code Is Written by AI&quot; Actually Means](https://dev.to/keithjmackay/what-100-of-our-code-is-written-by-ai-actually-means-1a1c)
+- [How AI Agents Are Transforming Code Review in 2026](https://dev.to/elysiumquill/how-ai-agents-are-transforming-code-review-in-2026-2c01)
+- [How to connect Power BI to a PostgreSQL Database](https://dev.to/gathurum/connecting-power-bi-to-a-postgresql-database-a-practical-guide-4p6i)
+- [vLLM Gemma4 26B Tuning on v6e-4](https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o)
+- [The End of the Memory Tax: How Google’s TurboQuant is Rewriting the Rules of Local RAG Systems](https://dev.to/hemu1808/the-end-of-the-memory-tax-how-googles-turboquant-is-rewriting-the-rules-of-local-rag-systems-b91)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
