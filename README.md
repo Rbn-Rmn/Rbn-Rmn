@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Two Gates Are Closing on AI Web Scraping](https://dev.to/simon_paxton/two-gates-are-closing-on-ai-web-scraping-3l95)
-- [From Piper to Polly: How I Built a Production-Ready Text-to-Speech API &lpar;and Everything That Broke Along the Way&rpar;](https://dev.to/elizabeththomas7/from-piper-to-polly-how-i-built-a-production-ready-text-to-speech-api-and-everything-that-broke-nl9)
-- [Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.](https://dev.to/thegdsks/your-bundle-is-4000x-bigger-than-quake-the-9-step-audit-that-fixes-it-5cpb)
-- [Building AI Agents That Don&#39;t Break in Production: Lessons From Real Deployments](https://dev.to/lycore/building-ai-agents-that-dont-break-in-production-lessons-from-real-deployments-1481)
-- [SaaSpocalypse? Real. SaaS Is Dead? SaaSinine.](https://dev.to/keithjmackay/saaspocalypse-real-saas-is-dead-saasinine-1b22)
+- [The AI Honeymoon is Over: Pragmatic Truths from Linear CEO Karri Saarinen](https://dev.to/jacob_is_surfing/the-ai-honeymoon-is-over-pragmatic-truths-from-linear-ceo-karri-saarinen-fi)
+- [Build the infrastructure and understand Terraform](https://dev.to/tdcyber_24/build-the-infrastructure-and-understand-terraform-2e4b)
+- [What Anthropic&#39;s $200 Agent SDK Credit Means If You Run claude -p in Production](https://dev.to/vainamoinen/what-anthropics-200-agent-sdk-credit-means-if-you-run-claude-p-in-production-ce2)
+- [I Built a Free Bloomberg-Style Stock Analyzer in a Weekend — With Claude Code as My Co-Developer](https://dev.to/mamun/i-built-a-free-bloomberg-style-stock-analyzer-in-a-weekend-with-claude-code-as-my-co-developer-6en)
+- [I got tired of Android MTP hanging, so I bypassed it with a C++ daemon and Rust.](https://dev.to/vishnusrivatsava/i-got-tired-of-android-mtp-hanging-so-i-bypassed-it-with-a-c-daemon-and-rust-3e82)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
