@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The AI Bridge Problem: Why Enterprise AI Integration Is an Architecture Challenge, Not an AI Challenge](https://dev.to/sauloos/the-ai-bridge-problem-why-enterprise-ai-integration-is-an-architecture-challenge-not-an-ai-15en)
-- [Serverless Packet Capture](https://dev.to/aws-builders/serverless-packet-capture-2ogk)
-- [How CoreStory Cuts LLM Costs by 70% While Improving Output Quality](https://dev.to/mozzello/how-corestory-cuts-llm-costs-by-70-while-improving-output-quality-43ap)
-- [I Managed WordPress Security Across 1500+ Clients. The Main Reason WP Sites Get Hacked.](https://dev.to/eliotdill/i-managed-wordpress-security-across-1500-clients-the-main-reason-wp-sites-get-hacked-3nhh)
-- [When dev and prod disagree about your CSS](https://dev.to/dip_032d2fe1959e1990ddbb1/when-dev-and-prod-disagree-about-your-css-1ibe)
+- [Cron Jobs in Node.js: The Practical Guide Nobody Gave Me](https://dev.to/armorbreak/cron-jobs-in-nodejs-the-practical-guide-nobody-gave-me-3mgj)
+- [I Reverse-Engineered NYC Local Law 97. Here&#39;s What 40% of Buildings Are Getting Wrong.](https://dev.to/tinashe_/i-reverse-engineered-nyc-local-law-97-heres-what-40-of-buildings-are-getting-wrong-2n31)
+- [I Audited 70 Companies&#39; llms.txt Files. Most Don&#39;t Have One.](https://dev.to/intally/i-audited-70-companies-llmstxt-files-most-dont-have-one-22g2)
+- [🧠 Beyond Chatbots: Understanding Hermes Agent and the Rise of Autonomous AI Systems](https://dev.to/muhammad_yasin_f39f26989f/beyond-chatbots-understanding-hermes-agent-and-the-rise-of-autonomous-ai-systems-3p12)
+- [XGBoost: When Gradient Boosting Meets Regularization](https://dev.to/jacobjerryarackal/xgboost-when-gradient-boosting-meets-regularization-36kk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
