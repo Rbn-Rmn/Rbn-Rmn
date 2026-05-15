@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Using Singletons &lpar;And How It Saved Our Architecture and My Sanity&rpar;](https://dev.to/utkuhanakar/why-i-stopped-using-singletons-and-how-it-saved-our-architecture-and-my-sanity-bph)
-- [Learning the Term “Tool Sprawl” Helped Me Rethink My Distance from Tools &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/learning-the-term-tool-sprawl-helped-me-rethink-my-distance-from-tools-bite-size-article-4if0)
-- [Understanding Reinforcement Learning with Neural Networks Part 5: Connecting Reward, Derivative, and Step Size](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-5-connecting-reward-derivative-2dk)
-- [Swift Protocol Magic II: Designing a Reusable Location Tracking System](https://dev.to/salahamassi/swift-protocol-magic-ii-designing-a-reusable-location-tracking-system-2heh)
-- [AndroidAppLockscreen: drop a PIN lockscreen into any Android app in minutes](https://dev.to/fayazbuilds_n5f2t7/androidapplockscreen-drop-a-pin-lockscreen-into-any-android-app-in-minutes-5dch)
+- [I got tired of weather apps lying to me about Romania. So I built my own.](https://dev.to/vremealive/i-got-tired-of-weather-apps-lying-to-me-about-romania-so-i-built-my-own-kmf)
+- [Security news weekly round-up - 15th May 2026](https://dev.to/ziizium/security-news-weekly-round-up-15th-may-2026-4g8h)
+- [I built a free LLM pricing tool that updates itself daily. here&#39;s how](https://dev.to/cloudybot/i-built-a-free-llm-pricing-tool-that-updates-itself-daily-heres-how-2cpn)
+- [Introducing Go DB ORM &lpar;v1.0.1&rpar; — A Type-Safe, Fluent ORM for Go](https://dev.to/anik2069/introducing-go-db-orm-v101-a-type-safe-fluent-orm-for-go-48a9)
+- [Structured Outputs vs Free-Form Summaries: Notes from an AI Regulatory Monitoring Build](https://dev.to/andrii_oliinyk_1f2b44e25a/structured-outputs-vs-free-form-summaries-notes-from-an-ai-regulatory-monitoring-build-30lf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
