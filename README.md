@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript String Methods: The Ultimate Cheat Sheet](https://dev.to/armorbreak/javascript-string-methods-the-ultimate-cheat-sheet-8g8)
-- [Managing Environment Variables in Node.js: The Complete Guide](https://dev.to/armorbreak/managing-environment-variables-in-nodejs-the-complete-guide-1c6o)
-- [How I Built a 4-Layer Email Validator API with FastAPI and Published it on RapidAPI](https://dev.to/pabscueto/how-i-built-a-4-layer-email-validator-api-with-fastapi-and-published-it-on-rapidapi-3g28)
-- [Designing a REST API That Developers Actually Like Using](https://dev.to/armorbreak/designing-a-rest-api-that-developers-actually-like-using-3gfj)
-- [Cómo invocar un alias de AWS Lambda desde Amazon Connect Customer usando un script reutilizable](https://dev.to/eliexer/como-invocar-un-alias-de-aws-lambda-desde-amazon-connect-customer-usando-un-script-reutilizable-14f8)
+- [Deploying Node.js apps to Railway](https://dev.to/zsevic/deploying-nodejs-apps-to-railway-14hj)
+- [Why I Stopped Using PostgreSQL for Side Projects &lpar;And You Should Too&rpar;](https://dev.to/armorbreak/why-i-stopped-using-postgresql-for-side-projects-and-you-should-too-13n6)
+- [Dockerizing a Node.js App in 2026: The Practical Guide](https://dev.to/armorbreak/dockerizing-a-nodejs-app-in-2026-the-practical-guide-mh4)
+- [Part 0: The Case for Dependency Injection in Go](https://dev.to/matzefriedrich/part-0-the-case-for-dependency-injection-in-go-4kl3)
+- [How I Deploy Node.js Apps to Production &lpar;2026&rpar;](https://dev.to/armorbreak/how-i-deploy-nodejs-apps-to-production-2026-45io)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
