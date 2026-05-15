@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [MediaPipe Face Mesh: All 478 Landmark Points](https://dev.to/metsander/mediapipe-face-mesh-all-478-landmark-points-5ec8)
-- [Logging &amp; Observability Best Practices from Bronto](https://dev.to/bronto_io/logging-observability-best-practices-from-bronto-59hc)
-- [Agent-First Coding Is Here. What It Actually Means for Developers in 2026](https://dev.to/lasisi_ibrahimpelumi_dc0/agent-first-coding-is-here-what-it-actually-means-for-developers-in-2026-50ae)
-- [How to secure your macOS games](https://dev.to/guardingpearsoftware/how-to-secure-your-macos-games-2o87)
-- [Building a Letterboxd Film &amp; Review data pipeline: from raw scrape to first insight](https://dev.to/can_ylmaz_da7b70586976b3/building-a-letterboxd-film-review-data-pipeline-from-raw-scrape-to-first-insight-4bo6)
+- [The AI Bridge Problem: Why Enterprise AI Integration Is an Architecture Challenge, Not an AI Challenge](https://dev.to/sauloos/the-ai-bridge-problem-why-enterprise-ai-integration-is-an-architecture-challenge-not-an-ai-15en)
+- [Serverless Packet Capture](https://dev.to/aws-builders/serverless-packet-capture-2ogk)
+- [How CoreStory Cuts LLM Costs by 70% While Improving Output Quality](https://dev.to/mozzello/how-corestory-cuts-llm-costs-by-70-while-improving-output-quality-43ap)
+- [I Managed WordPress Security Across 1500+ Clients. The Main Reason WP Sites Get Hacked.](https://dev.to/eliotdill/i-managed-wordpress-security-across-1500-clients-the-main-reason-wp-sites-get-hacked-3nhh)
+- [When dev and prod disagree about your CSS](https://dev.to/dip_032d2fe1959e1990ddbb1/when-dev-and-prod-disagree-about-your-css-1ibe)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
