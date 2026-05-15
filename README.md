@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Hexagons, Hypertables, and 240 Dead Tags: Migrating a Maritime Data Platform to TimescaleDB](https://dev.to/vessel_api/hexagons-hypertables-and-240-dead-tags-migrating-a-maritime-data-platform-to-timescaledb-m72)
-- [Bug Bounty Mode in Spectrion](https://dev.to/denisbabkevich/bug-bounty-mode-in-spectrion-1i3k)
-- [Useful &amp; Commonly Used HTTP Status Codes for Your Next API Project](https://dev.to/frankstack/useful-commonly-used-http-status-codes-for-your-next-api-project-364p)
-- [RAG - Sliding Window, Token Based Chunking and PDF Chunking Packages](https://dev.to/ramya_perumal_e93721ef2fa/rag-sliding-window-token-based-chunking-and-pdf-chunking-packages-18nd)
-- [I love to build](https://dev.to/rmpasta/i-love-to-build-f27)
+- [What is a Data Structure? Explained Simply with Examples](https://dev.to/bitveen/what-is-a-data-structure-explained-simply-with-examples-5bhk)
+- [antirez lanza DS4: corre DeepSeek v4 Flash local en Mac de 128 GB](https://dev.to/lu1tr0n/antirez-lanza-ds4-corre-deepseek-v4-flash-local-en-mac-de-128-gb-5dbo)
+- [Your ROAS is a lie — I built an MCP server to find the real number](https://dev.to/imatulsrivas/your-roas-is-a-lie-i-built-an-mcp-server-to-find-the-real-number-4ka9)
+- [A Secret I Will Never Reveal](https://dev.to/tavari/a-secret-i-will-never-reveal-pf1)
+- [AI 週報 — 2026-05-08 to 2026-05-15 | OpenAI 做顧問、Anthropic 做生態，模型公司集體轉向](https://dev.to/yang_goufang_23c7ba674984/ai-zhou-bao-2026-05-08-2026-05-15openai-zuo-gu-wen-anthropic-zuo-sheng-tai-mo-xing-gong-si-ji-ti-zhuan-xiang-n81)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
