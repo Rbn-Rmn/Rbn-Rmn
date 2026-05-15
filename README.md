@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What is a Data Structure? Explained Simply with Examples](https://dev.to/bitveen/what-is-a-data-structure-explained-simply-with-examples-5bhk)
-- [antirez lanza DS4: corre DeepSeek v4 Flash local en Mac de 128 GB](https://dev.to/lu1tr0n/antirez-lanza-ds4-corre-deepseek-v4-flash-local-en-mac-de-128-gb-5dbo)
-- [Your ROAS is a lie — I built an MCP server to find the real number](https://dev.to/imatulsrivas/your-roas-is-a-lie-i-built-an-mcp-server-to-find-the-real-number-4ka9)
-- [A Secret I Will Never Reveal](https://dev.to/tavari/a-secret-i-will-never-reveal-pf1)
-- [AI 週報 — 2026-05-08 to 2026-05-15 | OpenAI 做顧問、Anthropic 做生態，模型公司集體轉向](https://dev.to/yang_goufang_23c7ba674984/ai-zhou-bao-2026-05-08-2026-05-15openai-zuo-gu-wen-anthropic-zuo-sheng-tai-mo-xing-gong-si-ji-ti-zhuan-xiang-n81)
+- [CLAUDE.md Rules: How to Cut AI Coding Mistakes from 40% to 3% in 2026](https://dev.to/rams901/claudemd-rules-how-to-cut-ai-coding-mistakes-from-40-to-3-in-2026-2j7o)
+- [My Journy to Build a Smart Hydroponic Grow Tent!! &lpar;Planning&rpar;](https://dev.to/maso_eb42159b65f6592/my-journy-to-build-a-smart-hydroponic-grow-tent-planning-5dcl)
+- [How I built a NestJS + Next.js starter kit with i18n &lpar;vi/en&rpar; — and why you should too](https://dev.to/fadow/how-i-built-a-nestjs-nextjs-starter-kit-with-i18n-vien-and-why-you-should-too-5efa)
+- [Agency Client Onboarding Checklist: Build Your Process in 90 Minutes](https://dev.to/lisasakura/agency-client-onboarding-checklist-build-your-process-in-90-minutes-2ba3)
+- [The AI Multiverse: Why Different AI Tools Give Different Answers to the Same Question](https://dev.to/priyankagupta_gupta_002c6/the-ai-multiverse-why-different-ai-tools-give-different-answers-to-the-same-question-5agg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
