@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [5 Things I Stopped Doing as a Web Designer - What about you?](https://dev.to/pixelbricks_design/5-things-i-stopped-doing-as-a-web-designer-what-about-you-njj)
-- [How to create a linux virtual machine.](https://dev.to/azuretrailblazer/how-to-create-a-linux-virtual-machine-33me)
-- [Cinderella is in Good Hands — Building an Agentic IoT System with Gemma 4 and ASHA](https://dev.to/piusoblie/cinderella-is-in-good-hands-building-an-agentic-iot-system-with-gemma-4-and-asha-10dn)
-- [Claprec: Frontend - Angular, NgRx, and OpenAPI &lpar;3/6&rpar;](https://dev.to/keno_sej/claprec-frontend-angular-ngrx-and-openapi-36-4pb4)
-- [How AI Agent Observability Changes What You Can Actually Debug](https://dev.to/8080_ai/how-ai-agent-observability-changes-what-you-can-actually-debug-1pml)
+- [MediaPipe Face Mesh: All 478 Landmark Points](https://dev.to/metsander/mediapipe-face-mesh-all-478-landmark-points-5ec8)
+- [Logging &amp; Observability Best Practices from Bronto](https://dev.to/bronto_io/logging-observability-best-practices-from-bronto-59hc)
+- [Agent-First Coding Is Here. What It Actually Means for Developers in 2026](https://dev.to/lasisi_ibrahimpelumi_dc0/agent-first-coding-is-here-what-it-actually-means-for-developers-in-2026-50ae)
+- [How to secure your macOS games](https://dev.to/guardingpearsoftware/how-to-secure-your-macos-games-2o87)
+- [Building a Letterboxd Film &amp; Review data pipeline: from raw scrape to first insight](https://dev.to/can_ylmaz_da7b70586976b3/building-a-letterboxd-film-review-data-pipeline-from-raw-scrape-to-first-insight-4bo6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
