@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Cron Jobs in Node.js: The Practical Guide Nobody Gave Me](https://dev.to/armorbreak/cron-jobs-in-nodejs-the-practical-guide-nobody-gave-me-3mgj)
-- [I Reverse-Engineered NYC Local Law 97. Here&#39;s What 40% of Buildings Are Getting Wrong.](https://dev.to/tinashe_/i-reverse-engineered-nyc-local-law-97-heres-what-40-of-buildings-are-getting-wrong-2n31)
-- [I Audited 70 Companies&#39; llms.txt Files. Most Don&#39;t Have One.](https://dev.to/intally/i-audited-70-companies-llmstxt-files-most-dont-have-one-22g2)
-- [🧠 Beyond Chatbots: Understanding Hermes Agent and the Rise of Autonomous AI Systems](https://dev.to/muhammad_yasin_f39f26989f/beyond-chatbots-understanding-hermes-agent-and-the-rise-of-autonomous-ai-systems-3p12)
-- [XGBoost: When Gradient Boosting Meets Regularization](https://dev.to/jacobjerryarackal/xgboost-when-gradient-boosting-meets-regularization-36kk)
+- [MCP &lpar;Model Context Protocol&rpar; for .NET Devs — What It Is and Why You&#39;ll Be Using It Soon](https://dev.to/vikrant_bagal_afae3e25ca7/mcp-model-context-protocol-for-net-devs-what-it-is-and-why-youll-be-using-it-soon-a98)
+- [Vibe Architecture](https://dev.to/davidayres/vibe-architecture-262e)
+- [Topogram’s structured graph: concept and implementation](https://dev.to/attebury/topograms-structured-graph-concept-and-implementation-56lj)
+- [Designing a REST API That Developers Actually Like Using](https://dev.to/armorbreak/designing-a-rest-api-that-developers-actually-like-using-5813)
+- [15 CSS Tricks That Save Me Hours Every Week](https://dev.to/armorbreak/15-css-tricks-that-save-me-hours-every-week-mj2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
