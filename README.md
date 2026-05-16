@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Organise Before You Stage: Changelists for Git](https://dev.to/bhfock/organise-before-you-stage-changelists-for-git-59ep)
-- [Start with NvChad](https://dev.to/ralvaracode/start-with-nvchad-50ee)
-- [AI&#39;s energy problem has a software fix. Most teams aren&#39;t using it.](https://dev.to/thegatewayguy/ais-energy-problem-has-a-software-fix-most-teams-arent-using-it-4mca)
-- [We tracked 200K AI requests. Here&#39;s where the money actually goes](https://dev.to/jrmromao/we-tracked-200k-ai-requests-heres-where-the-money-actually-goes-495e)
-- [Your WebSocket says &quot;connected&quot; but stopped sending data. Here&#39;s the bug TCP keepalive can&#39;t catch.](https://dev.to/mixa_dev/your-websocket-says-connected-but-stopped-sending-data-heres-the-bug-tcp-keepalive-cant-catch-5424)
+- [✦ DevPen: The AI-Powered Note-Taking App for Developers 🚀](https://dev.to/pranay_rauthu/devpen-the-ai-powered-note-taking-app-for-developers-2jb9)
+- [Understanding Reinforcement Learning with Neural Networks Part 6: Completing the Reinforcement Learning Process](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-6-completing-the-reinforcement-5g8b)
+- [SMM Turbo: Hybrid AI Instagram Editor via Gemma 4](https://dev.to/digital-abetka/smm-turbo-hybrid-ai-instagram-editor-via-gemma-4-5d7o)
+- [Capacitor Live Updates: A Complete Guide to OTA Updates](https://dev.to/capawesome/capacitor-live-updates-a-complete-guide-to-ota-updates-5fco)
+- [ASP .NET Core Bootstrap toast](https://dev.to/karenpayneoregon/asp-net-core-bootstrap-toast-570)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
