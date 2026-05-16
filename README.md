@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Model Answered. Nobody Asked Who Authorized That.](https://dev.to/ntctech/the-model-answered-nobody-asked-who-authorized-that-b75)
-- [Building Maintainable WordPress Plugin and Theme Systems](https://dev.to/kunal_pareek/building-maintainable-wordpress-plugin-and-theme-systems-1n23)
-- [How I Built and Launched 2 Commercial APIs in a Single Day](https://dev.to/3three/how-i-built-and-launched-2-commercial-apis-in-a-single-day-4o7i)
-- [Building NSFD-v1: An Algorithm for Detecting Network Signal Failure in Industrial Production Lines](https://dev.to/shieldstring/building-nsfd-v1-an-algorithm-for-detecting-network-signal-failure-in-industrial-production-lines-1bl8)
-- [How To Use Python For SEO Redirect Mapping](https://dev.to/nad14/how-to-use-python-for-seo-redirect-mapping-377h)
+- [Build and Deploy an Automatic Sync Solution for Amazon Bedrock Knowledge Bases](https://dev.to/revsystem/build-and-deploy-an-automatic-sync-solution-for-amazon-bedrock-knowledge-bases-4olf)
+- [Docker as the Safety Net for AI-Generated Frontend Code](https://dev.to/raju_dandigam/docker-as-the-safety-net-for-ai-generated-frontend-code-dmg)
+- [Which Gemma 4 Variant Should Power Your MCP Agent?](https://dev.to/megberts/which-gemma-4-variant-should-power-your-mcp-agent-4gkn)
+- [Building My Own Self-Hosted VPN Infrastructure](https://dev.to/samay15jan/building-my-own-self-hosted-vpn-infrastructure-kl9)
+- [Day 3 — AWS CloudTrail Setup](https://dev.to/ismailg/day-3-aws-cloudtrail-setup-2a7b)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
