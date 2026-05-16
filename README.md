@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [📚Why Your Angular App Will Fail Without Domain Boundaries &lpar;DDD for Frontend Engineers&rpar;](https://dev.to/abdelaaziz_ouakala/why-your-angular-app-will-fail-without-domain-boundaries-ddd-for-frontend-engineers-34dk)
-- [Query Filters, UI Design and the CNF/DNF caveat nobody talks about](https://dev.to/manoj1512/query-filters-ui-design-and-the-cnfdnf-caveat-nobody-talks-about-16ef)
-- [Stop Hiring, Start Orchestrating: Running an AI Agent Company with Paperclip on Railway](https://dev.to/alphasec/stop-hiring-start-orchestrating-running-an-ai-agent-company-with-paperclip-on-railway-41bn)
-- [I built a fake Google login because my MVP demo could not wait for the OAuth console](https://dev.to/webjayant/i-built-a-fake-google-login-because-my-mvp-demo-could-not-wait-for-the-oauth-console-3mjc)
-- [Magento 2 MSI Performance Optimization: Taming Multi-Source Inventory](https://dev.to/magevanta/magento-2-msi-performance-optimization-taming-multi-source-inventory-5a1i)
+- [LeetCode Solution: 20. Valid Parentheses](https://dev.to/vansh_aggarwal_5fb2fff667/leetcode-solution-20-valid-parentheses-350j)
+- [I Taught SQL to Complete Beginners: Here&#39;s What Actually Happened](https://dev.to/navas_herbert/i-taught-sql-to-complete-beginners-heres-what-actually-happened-4h84)
+- [Browser delegation is not a replacement for clean APIs](https://dev.to/eliofbm/browser-delegation-is-not-a-replacement-for-clean-apis-347n)
+- [DOMINI Suite: how I built two OSINT tools to analyze domains and IPs from scratch](https://dev.to/evolve-space/domini-suite-how-i-built-two-osint-tools-to-analyze-domains-and-ips-from-scratch-4bm7)
+- [Track brand mentions across China&#39;s top 5 social platforms in one API call — $0.045 per mention](https://dev.to/sami_8858131362756585e4f4/i-built-5-single-platform-scrapers-the-one-that-sells-fastest-is-the-aggregator-that-wraps-them-2pli)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
