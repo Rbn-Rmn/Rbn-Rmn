@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Build and Deploy an Automatic Sync Solution for Amazon Bedrock Knowledge Bases](https://dev.to/revsystem/build-and-deploy-an-automatic-sync-solution-for-amazon-bedrock-knowledge-bases-4olf)
-- [Docker as the Safety Net for AI-Generated Frontend Code](https://dev.to/raju_dandigam/docker-as-the-safety-net-for-ai-generated-frontend-code-dmg)
-- [Which Gemma 4 Variant Should Power Your MCP Agent?](https://dev.to/megberts/which-gemma-4-variant-should-power-your-mcp-agent-4gkn)
-- [Building My Own Self-Hosted VPN Infrastructure](https://dev.to/samay15jan/building-my-own-self-hosted-vpn-infrastructure-kl9)
-- [Day 3 — AWS CloudTrail Setup](https://dev.to/ismailg/day-3-aws-cloudtrail-setup-2a7b)
+- [The easiest way to test React Router v7 apps](https://dev.to/kevinccbsg/the-easiest-way-to-test-react-router-v7-apps-92p)
+- [Monté un mini-SOC en mi portátil con honeypot, Wazuh e IA local — proyecto del Máster en Evolve](https://dev.to/evolve-space/monte-un-mini-soc-en-mi-portatil-con-honeypot-wazuh-e-ia-local-proyecto-del-master-en-evolve-52mc)
+- [How to Connect a Namecheap Domain to a DigitalOcean Droplet with Nginx](https://dev.to/tahsin000/how-to-connect-a-namecheap-domain-to-a-digitalocean-droplet-with-nginx-2mok)
+- [Hiring a Product Engineering Studio in India in 2026: A Founder&#39;s Checklist](https://dev.to/ujjawal_tyagi_c5a84255da4/hiring-a-product-engineering-studio-in-india-in-2026-a-founders-checklist-14cc)
+- [Why I chose human-edited subtitles over AI auto-captions for vocabulary mining](https://dev.to/qcrao/why-i-chose-human-edited-subtitles-over-ai-auto-captions-for-vocabulary-mining-3lig)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
