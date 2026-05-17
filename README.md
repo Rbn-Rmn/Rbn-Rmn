@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built an &quot;Immune System&quot; for AI Agents using Textual TUI &amp; FastAPI Middleware &lpar;First Post!&rpar;](https://dev.to/noname_242/i-built-an-immune-system-for-ai-agents-using-textual-tui-fastapi-middleware-first-post-1no7)
-- [AWS vs GCP ตอนที่ 3: ต่อเครื่องออกอินเตอร์เน็ตโดยไม่เปิด Public IP](https://dev.to/perajit/aws-vs-gcp-tnthii-3-tekhruuengkinetrentodyaimepid-public-ip-11kp)
-- [Finding real purpose with impact mapping](https://dev.to/andbjo/finding-real-purpose-with-impact-mapping-b8a)
-- [building with hermes agent : hardening the permission approval bridge](https://dev.to/aniruddhaadak/building-with-hermes-agent-hardening-the-permission-approval-bridge-4gen)
-- [How I Automated Away My Weekly Status Reports with Next.js and Llama 3.1 🐈](https://dev.to/franciscolunadev82/how-i-automated-away-my-weekly-status-reports-with-nextjs-and-llama-31-409)
+- [Building a Biomedical GraphRAG Inference System: Comparing LLM-Only, Basic RAG, and GraphRAG Pipelines](https://dev.to/kavyanjali_lingam/building-a-biomedical-graphrag-inference-system-with-tigergraph-and-llm-benchmarking-410n)
+- [Azertio: API and Database Testing Without the Glue Code](https://dev.to/luiinge/azertio-api-and-database-testing-without-the-glue-code-1ibl)
+- [How to Test a REST API Automatically Without Writing Code](https://dev.to/samiron_barai_951bfa56753/how-to-test-a-rest-api-automatically-without-writing-code-1mam)
+- [How We Built CyberGraph RAG: A 3.5M Token Cybersecurity GraphRAG System with TigerGraph](https://dev.to/bhuvi_d/how-we-built-cybergraph-rag-a-35m-token-cybersecurity-graphrag-system-with-tigergraph-5eon)
+- [One Day, These Posts Will Be Running on Kiwi Engine](https://dev.to/stinklewinks/one-day-these-posts-will-be-running-on-kiwi-engine-5365)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
