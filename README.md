@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [🏏 Building Captain Cool AI &lpar;Third Umpire AI&rpar;: An Agentic AI-Powered Cricket Intelligence Platform Built at Agentic Premier League Pune](https://dev.to/amhikastkar/building-captain-cool-ai-third-umpire-ai-an-agentic-ai-powered-cricket-intelligence-platform-7ai)
-- [🏏 Building &quot;Captain Cool&quot;: A Multi-Agent IPL Strategist with Google Antigravity &amp; Gemini 2.5](https://dev.to/arnav_ahirrao/building-captain-cool-a-multi-agent-ipl-strategist-with-google-antigravity-gemini-25-6h5)
-- [Build with AI - APL GDG Pune](https://dev.to/aaryan_gupta_8/build-with-ai-apl-gdg-pune-3)
-- [STRAT- built for the last over](https://dev.to/saeeekumbhar/strat-built-for-the-last-over-4gmo)
-- [I Built an AI IPL War Room Using Gemini Multi-Agent Reasoning 🏏](https://dev.to/mrunalini_pachpute_bf0b2e/i-built-an-ai-ipl-war-room-using-gemini-multi-agent-reasoning-1af7)
+- [The Missing Organizing Principle of Microsoft Fabric: Medallion Architecture Explained :gem:](https://dev.to/dattasable/the-missing-organizing-principle-of-microsoft-fabric-medallion-architecture-explained-gem-4loi)
+- [Running My Tiny Docker-like Runtime on macOS with Lima](https://dev.to/amirsefati/running-my-tiny-docker-like-runtime-on-macos-with-lima-5bd)
+- [Explorando el éxito musical en Spotify con Python](https://dev.to/mariaangelesciobanu/explorando-el-exito-musical-en-spotify-con-python-21mk)
+- [🔎Do You ACTUALLY Need NgRx? &lpar;Or Are You Solving the Wrong Problem?&rpar;](https://dev.to/abdelaaziz_ouakala/do-you-actually-need-ngrx-or-are-you-solving-the-wrong-problem-2hp5)
+- [Bulk Emails from a chat input — without Redis, queues, or worker services](https://dev.to/roshan_ican/bulk-emails-from-a-chat-input-without-redis-queues-or-worker-services-4oak)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
