@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Indexing Solana Programs in Rust: Notes From a Python Backend Engineer](https://dev.to/tyu1996/indexing-solana-programs-in-rust-notes-from-a-python-backend-engineer-58h6)
-- [A Practical Terraform Security Review with Codex and Claude Code](https://dev.to/mike_anderson_d01f52129fb/a-practical-terraform-security-review-with-codex-and-claude-code-4659)
-- [The Hidden Cost of Every Query You Send](https://dev.to/talal_ahm2d/the-hidden-cost-of-every-query-you-send-5cnc)
-- [Laravel Starter Kit Localization Is Surprisingly Painful](https://dev.to/catatsumuri/laravel-starter-kit-localization-is-surprisingly-painful-2ipk)
-- [Compass v1.1.0 · we shipped a memory plugin that catches its own consumption drift](https://dev.to/chunxiaoxx/compass-v110-we-shipped-a-memory-plugin-that-catches-its-own-consumption-drift-3dap)
+- [Vayal AI: Tamil Voice + Vision Crop Advisory for Farmers Using Gemma 4](https://dev.to/ragasudha/vayal-ai-tamil-voice-vision-crop-advisory-for-farmers-using-gemma-4-5534)
+- [Building a 3D engine from scratch with C++ and Vulkan for web developers Part I: Bootstrapping Vulkan](https://dev.to/remojansen/building-a-3d-engine-from-scratch-with-c-and-vulkan-for-web-developers-part-i-bootstrapping-1bap)
+- [The AI Ghostwriter Experiment](https://dev.to/hrishikesh_dalal_ced8f95e/the-ai-ghostwriter-experiment-1o2a)
+- [Why Google + Wiz Changes Everything for Brisbane Multicloud Teams — A DevSecOps Perspective](https://dev.to/pratheesh_s/why-google-wiz-changes-everything-for-brisbane-multicloud-teams-a-devsecops-perspective-4oea)
+- [I built Native App AI: Turn websites or Web app into Play Store-ready Android apps in minutes](https://dev.to/akash_bf2ee84ad80a5653730/i-built-native-app-ai-turn-websites-or-web-app-into-play-store-ready-android-apps-in-minutes-4mb7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
