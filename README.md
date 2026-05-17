@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Time Complexity &amp; Big-O Notation Explained Simply](https://dev.to/bitveen/time-complexity-big-o-notation-explained-simply-9jn)
-- [Agentic LLM Inference Parameters Reference for Qwen and Gemma](https://dev.to/rosgluk/agentic-llm-inference-parameters-reference-for-qwen-and-gemma-4nkh)
-- [Reloj de voltímetros con AVR128DB28: 3 medidores analógicos como manecillas](https://dev.to/lu1tr0n/reloj-de-voltimetros-con-avr128db28-3-medidores-analogicos-como-manecillas-2752)
-- [SHENRON v0.3.3: From Telemetry Generator to Blue-Team Reasoning Instrument](https://dev.to/gnomeman4201/shenron-v033-from-telemetry-generator-to-blue-team-reasoning-instrument-2k91)
-- [I Turned Obsidian Into a Live SOC Dashboard](https://dev.to/numbpill3d/i-turned-obsidian-into-a-live-soc-dashboard-3hd9)
+- [The cracked mirror: why AI hallucination is structural, not a bug](https://dev.to/thousand_miles_ai/the-cracked-mirror-why-ai-hallucination-is-structural-not-a-bug-30ld)
+- [LLMs as Linguistic Probes: A Graduate Student&#39;s Guide to Advanced Syntax, Semantics, and Efficient Fine-Tuning](https://dev.to/ismail_zamareh_d099419122bc4f/llms-as-linguistic-probes-a-graduate-students-guide-to-advanced-syntax-semantics-and-efficient-34i)
+- [Linux Performance Tuning: CPU, Memory, I/O &amp; Network](https://dev.to/jamesli/linux-performance-tuning-cpu-memory-io-network-28op)
+- [Why the AI sprint planning market is solving the wrong problem](https://dev.to/energetekk/why-the-ai-sprint-planning-market-is-solving-the-wrong-problem-cfl)
+- [How to Apply to 100 Jobs in One Afternoon &lpar;Without Sending Junk&rpar;](https://dev.to/amerinator/how-to-apply-to-100-jobs-in-one-afternoon-without-sending-junk-4c29)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
