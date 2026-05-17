@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building an open-source Windows file transfer app with Rust, Tauri and QUIC](https://dev.to/kerimsabic/building-an-open-source-windows-file-transfer-app-with-rust-tauri-and-quic-2g46)
-- [!!!](https://dev.to/fayismahmood/-22ck)
-- [Built a Network Traffic Classifier with Random Forest &lpar;96.8% Accuracy&rpar;](https://dev.to/gulrez/built-a-network-traffic-classifier-with-random-forest-968-accuracy-52ai)
-- [OpenSparrow – open-source admin panel builder, zero dependencies, v2.1 just dropped](https://dev.to/wrobeltomasz/opensparrow-open-source-admin-panel-builder-zero-dependencies-v21-just-dropped-38ag)
-- [Building AI Quality Checks for Construction Billing: Lessons from Real Pay Application Errors](https://dev.to/payapppro/building-ai-quality-checks-for-construction-billing-lessons-from-real-pay-application-errors-11ai)
+- [My MeDo Hackathon Experience](https://dev.to/gbemicodes/my-medo-hackathon-experience-3gj0)
+- [The Browser Was the Engine](https://dev.to/lazarv/the-browser-was-the-engine-58bg)
+- [I had two blog posts ranking against each other. Here&#39;s the Next.js fix](https://dev.to/castnova/i-had-two-blog-posts-ranking-against-each-other-heres-the-nextjs-fix-2lo3)
+- [CONNECTING POWER BI TO SQL](https://dev.to/moraa_omwoyo/connecting-power-bi-to-sql-4ocn)
+- [xAI open-sourced their ranker. It doesn&#39;t compile.](https://dev.to/roobie/xai-open-sourced-their-ranker-it-doesnt-compile-2gfj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
