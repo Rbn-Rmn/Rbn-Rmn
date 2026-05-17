@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Missing Organizing Principle of Microsoft Fabric: Medallion Architecture Explained :gem:](https://dev.to/dattasable/the-missing-organizing-principle-of-microsoft-fabric-medallion-architecture-explained-gem-4loi)
-- [Running My Tiny Docker-like Runtime on macOS with Lima](https://dev.to/amirsefati/running-my-tiny-docker-like-runtime-on-macos-with-lima-5bd)
-- [Explorando el éxito musical en Spotify con Python](https://dev.to/mariaangelesciobanu/explorando-el-exito-musical-en-spotify-con-python-21mk)
-- [🔎Do You ACTUALLY Need NgRx? &lpar;Or Are You Solving the Wrong Problem?&rpar;](https://dev.to/abdelaaziz_ouakala/do-you-actually-need-ngrx-or-are-you-solving-the-wrong-problem-2hp5)
-- [Bulk Emails from a chat input — without Redis, queues, or worker services](https://dev.to/roshan_ican/bulk-emails-from-a-chat-input-without-redis-queues-or-worker-services-4oak)
+- [From 38% to 58% Activation Rate in One Week — The Single UX Change That Did It](https://dev.to/mdashraf/from-38-to-58-activation-rate-in-one-week-the-single-ux-change-that-did-it-53d6)
+- [Aggregate Benchmarks Lie. Here&#39;s What 700 AI Functions Look Like by Security Domain.](https://dev.to/ofri-peretz/aggregate-benchmarks-lie-heres-what-700-ai-functions-look-like-by-security-domain-1hgj)
+- [Database Replication Lag: The Invisible Disaster](https://dev.to/merbayerp/database-replication-lag-the-invisible-disaster-2g3d)
+- [How artificial intelligence is changing the way developers, freshers, and experienced professionals prepare for technical interviews](https://dev.to/ashish_kumarpandey_20a84/the-interview-prep-industry-is-broken-ai-is-finally-fixing-it-3hii)
+- [Zerostack – A Unix-inspired coding agent written in pure Rust](https://dev.to/technoblogger14o3/zerostack-a-unix-inspired-coding-agent-written-in-pure-rust-1m9i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
