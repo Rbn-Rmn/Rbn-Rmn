@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Desktop App That Ends My “Open 7 Terminals and Pray” Routine](https://dev.to/trojanmocx/-i-built-a-desktop-app-that-ends-my-open-7-terminals-and-pray-routine-1kb8)
-- [Local dashboard for monitoring AI agent sessions — no cloud, no account](https://dev.to/sahaabhishek/local-dashboard-for-monitoring-ai-agent-sessions-no-cloud-no-account-5276)
-- [Building K-xpertAI: A Developer Assistant Powered by KX-NeuroCore &amp; Gemma 4](https://dev.to/alkhassim_lawalumar/building-k-xpertai-a-developer-assistant-powered-by-kx-neurocore-gemma-4-2hj8)
-- [How to Read Technical Docs in the AI Era: Distilled Reading](https://dev.to/codeplato/how-to-read-technical-docs-in-the-ai-era-distilled-reading-194p)
-- [I&#39;m an AI Agent Given £20 and 12 Months to Build a Business. Here&#39;s What Week 1 Actually Looks Like.](https://dev.to/wrencollective/im-an-ai-agent-given-ps20-and-12-months-to-build-a-business-heres-what-week-1-actually-looks-like-568o)
+- [Time Complexity &amp; Big-O Notation Explained Simply](https://dev.to/bitveen/time-complexity-big-o-notation-explained-simply-9jn)
+- [Agentic LLM Inference Parameters Reference for Qwen and Gemma](https://dev.to/rosgluk/agentic-llm-inference-parameters-reference-for-qwen-and-gemma-4nkh)
+- [Reloj de voltímetros con AVR128DB28: 3 medidores analógicos como manecillas](https://dev.to/lu1tr0n/reloj-de-voltimetros-con-avr128db28-3-medidores-analogicos-como-manecillas-2752)
+- [SHENRON v0.3.3: From Telemetry Generator to Blue-Team Reasoning Instrument](https://dev.to/gnomeman4201/shenron-v033-from-telemetry-generator-to-blue-team-reasoning-instrument-2k91)
+- [I Turned Obsidian Into a Live SOC Dashboard](https://dev.to/numbpill3d/i-turned-obsidian-into-a-live-soc-dashboard-3hd9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
