@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Vayal AI: Tamil Voice + Vision Crop Advisory for Farmers Using Gemma 4](https://dev.to/ragasudha/vayal-ai-tamil-voice-vision-crop-advisory-for-farmers-using-gemma-4-5534)
-- [Building a 3D engine from scratch with C++ and Vulkan for web developers Part I: Bootstrapping Vulkan](https://dev.to/remojansen/building-a-3d-engine-from-scratch-with-c-and-vulkan-for-web-developers-part-i-bootstrapping-1bap)
-- [The AI Ghostwriter Experiment](https://dev.to/hrishikesh_dalal_ced8f95e/the-ai-ghostwriter-experiment-1o2a)
-- [Why Google + Wiz Changes Everything for Brisbane Multicloud Teams — A DevSecOps Perspective](https://dev.to/pratheesh_s/why-google-wiz-changes-everything-for-brisbane-multicloud-teams-a-devsecops-perspective-4oea)
-- [I built Native App AI: Turn websites or Web app into Play Store-ready Android apps in minutes](https://dev.to/akash_bf2ee84ad80a5653730/i-built-native-app-ai-turn-websites-or-web-app-into-play-store-ready-android-apps-in-minutes-4mb7)
+- [🏏 Building Captain Cool AI &lpar;Third Umpire AI&rpar;: An Agentic AI-Powered Cricket Intelligence Platform Built at Agentic Premier League Pune](https://dev.to/amhikastkar/building-captain-cool-ai-third-umpire-ai-an-agentic-ai-powered-cricket-intelligence-platform-7ai)
+- [🏏 Building &quot;Captain Cool&quot;: A Multi-Agent IPL Strategist with Google Antigravity &amp; Gemini 2.5](https://dev.to/arnav_ahirrao/building-captain-cool-a-multi-agent-ipl-strategist-with-google-antigravity-gemini-25-6h5)
+- [Build with AI - APL GDG Pune](https://dev.to/aaryan_gupta_8/build-with-ai-apl-gdg-pune-3)
+- [STRAT- built for the last over](https://dev.to/saeeekumbhar/strat-built-for-the-last-over-4gmo)
+- [I Built an AI IPL War Room Using Gemini Multi-Agent Reasoning 🏏](https://dev.to/mrunalini_pachpute_bf0b2e/i-built-an-ai-ipl-war-room-using-gemini-multi-agent-reasoning-1af7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
