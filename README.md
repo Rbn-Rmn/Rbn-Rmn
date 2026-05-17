@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building a Biomedical GraphRAG Inference System: Comparing LLM-Only, Basic RAG, and GraphRAG Pipelines](https://dev.to/kavyanjali_lingam/building-a-biomedical-graphrag-inference-system-with-tigergraph-and-llm-benchmarking-410n)
-- [Azertio: API and Database Testing Without the Glue Code](https://dev.to/luiinge/azertio-api-and-database-testing-without-the-glue-code-1ibl)
-- [How to Test a REST API Automatically Without Writing Code](https://dev.to/samiron_barai_951bfa56753/how-to-test-a-rest-api-automatically-without-writing-code-1mam)
-- [How We Built CyberGraph RAG: A 3.5M Token Cybersecurity GraphRAG System with TigerGraph](https://dev.to/bhuvi_d/how-we-built-cybergraph-rag-a-35m-token-cybersecurity-graphrag-system-with-tigergraph-5eon)
-- [One Day, These Posts Will Be Running on Kiwi Engine](https://dev.to/stinklewinks/one-day-these-posts-will-be-running-on-kiwi-engine-5365)
+- [Building an open-source Windows file transfer app with Rust, Tauri and QUIC](https://dev.to/kerimsabic/building-an-open-source-windows-file-transfer-app-with-rust-tauri-and-quic-2g46)
+- [!!!](https://dev.to/fayismahmood/-22ck)
+- [Built a Network Traffic Classifier with Random Forest &lpar;96.8% Accuracy&rpar;](https://dev.to/gulrez/built-a-network-traffic-classifier-with-random-forest-968-accuracy-52ai)
+- [OpenSparrow – open-source admin panel builder, zero dependencies, v2.1 just dropped](https://dev.to/wrobeltomasz/opensparrow-open-source-admin-panel-builder-zero-dependencies-v21-just-dropped-38ag)
+- [Building AI Quality Checks for Construction Billing: Lessons from Real Pay Application Errors](https://dev.to/payapppro/building-ai-quality-checks-for-construction-billing-lessons-from-real-pay-application-errors-11ai)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
