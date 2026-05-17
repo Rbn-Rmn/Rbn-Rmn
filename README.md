@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The cracked mirror: why AI hallucination is structural, not a bug](https://dev.to/thousand_miles_ai/the-cracked-mirror-why-ai-hallucination-is-structural-not-a-bug-30ld)
-- [LLMs as Linguistic Probes: A Graduate Student&#39;s Guide to Advanced Syntax, Semantics, and Efficient Fine-Tuning](https://dev.to/ismail_zamareh_d099419122bc4f/llms-as-linguistic-probes-a-graduate-students-guide-to-advanced-syntax-semantics-and-efficient-34i)
-- [Linux Performance Tuning: CPU, Memory, I/O &amp; Network](https://dev.to/jamesli/linux-performance-tuning-cpu-memory-io-network-28op)
-- [Why the AI sprint planning market is solving the wrong problem](https://dev.to/energetekk/why-the-ai-sprint-planning-market-is-solving-the-wrong-problem-cfl)
-- [How to Apply to 100 Jobs in One Afternoon &lpar;Without Sending Junk&rpar;](https://dev.to/amerinator/how-to-apply-to-100-jobs-in-one-afternoon-without-sending-junk-4c29)
+- [A tmux sidecar for repeatable Claude/Codex workflows](https://dev.to/dkrupenya/a-tmux-sidecar-for-repeatable-claudecodex-workflows-4426)
+- [PKM vs RAG vs Wiki vs Memory Systems Explained Clearly](https://dev.to/rosgluk/pkm-vs-rag-vs-wiki-vs-memory-systems-explained-clearly-4b1c)
+- [Teaching an AI to Pick Its Own Brain: Building Adaptive Model Routing](https://dev.to/wavebro_c996eee478a5ca541/teaching-an-ai-to-pick-its-own-brain-building-adaptive-model-routing-10n9)
+- [Bridging the Gap: My Journey from Curiosity to Full-Stack Engineering](https://dev.to/ayesha_shaik_a7253f323b3e/bridging-the-gap-my-journey-from-curiosity-to-full-stack-engineering-35a1)
+- [GraphQL Authorization Bypass: A Real CVE Code Review](https://dev.to/securitystefan/graphql-authorization-bypass-a-real-cve-code-review-10jh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
