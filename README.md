@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My MeDo Hackathon Experience](https://dev.to/gbemicodes/my-medo-hackathon-experience-3gj0)
-- [The Browser Was the Engine](https://dev.to/lazarv/the-browser-was-the-engine-58bg)
-- [I had two blog posts ranking against each other. Here&#39;s the Next.js fix](https://dev.to/castnova/i-had-two-blog-posts-ranking-against-each-other-heres-the-nextjs-fix-2lo3)
-- [CONNECTING POWER BI TO SQL](https://dev.to/moraa_omwoyo/connecting-power-bi-to-sql-4ocn)
-- [xAI open-sourced their ranker. It doesn&#39;t compile.](https://dev.to/roobie/xai-open-sourced-their-ranker-it-doesnt-compile-2gfj)
+- [Building an On-Chain AI Agent Marketplace — Architecture, ERC-721 Identity, and Multi-Chain Lessons](https://dev.to/athenaios/building-an-on-chain-ai-agent-marketplace-architecture-erc-721-identity-and-multi-chain-lessons-50np)
+- [GPU Hardware &amp; Driver Update: RTX 5090 Benchmarks, llama.cpp MTP, Windows 11 Fix](https://dev.to/soytuber/gpu-hardware-driver-update-rtx-5090-benchmarks-llamacpp-mtp-windows-11-fix-2002)
+- [Anthropic&#39;s Claude Gains Context Control, Excels in Frontend Dev &amp; Agent Simulations](https://dev.to/soytuber/anthropics-claude-gains-context-control-excels-in-frontend-dev-agent-simulations-2e07)
+- [Spring Boot 2026: Why Measuring Only Startup Time Is a Trap](https://dev.to/jtorchia/spring-boot-2026-why-measuring-only-startup-time-is-a-trap-2oa3)
+- [Spring Boot 2026: por qué medir solo startup time es una trampa](https://dev.to/jtorchia/spring-boot-2026-por-que-medir-solo-startup-time-es-una-trampa-2o0h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
