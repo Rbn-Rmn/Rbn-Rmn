@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AIOps That Actually Helps: Start with Telemetry, Correlation, and Safe Automation](https://dev.to/nimesh_kulkarni_2f7a2057e/aiops-that-actually-helps-start-with-telemetry-correlation-and-safe-automation-4p1j)
-- [Psychological Capital](https://dev.to/1grace/psychological-capital-5c4h)
-- [How to organize high impact workshops and events](https://dev.to/1grace/how-to-organize-high-impact-workshops-events-4dpk)
-- [I Built a Web3 Threat Intelligence Oracle Powered by Gemma 4](https://dev.to/james-kabingu/i-built-a-web3-threat-intelligence-oracle-powered-by-gemma-4-283p)
-- [Your ICP Is a Trap](https://dev.to/michal_szalinski_91bf893d/your-icp-is-a-trap-3i3o)
+- [Space Complexity Explained — Why Memory Matters in DSA](https://dev.to/bitveen/space-complexity-explained-why-memory-matters-in-dsa-3ab6)
+- [What channel are Email and SMS in GA4 — Google&#39;s official spec has the answer](https://dev.to/toshihiro_shishido/what-channel-are-email-and-sms-in-ga4-googles-official-spec-has-the-answer-5d51)
+- [Stop Re-Explaining Your Codebase to AI Every Single Session](https://dev.to/zephex/stop-re-explaining-your-codebase-to-ai-every-single-session-45o2)
+- [I built 108 free browser-based file tools that never upload your files](https://dev.to/everytools_4u_3d089af1a5e/i-built-108-free-browser-based-file-tools-that-never-upload-your-files-4m5o)
+- [A History of IDEs at Google: From Emacs to Cider and Cloud Dev Environments](https://dev.to/pickuma/a-history-of-ides-at-google-from-emacs-to-cider-and-cloud-dev-environments-4cgh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
