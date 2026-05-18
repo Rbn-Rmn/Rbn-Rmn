@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m tired of managing 4 different API keys for different AI models. Here&#39;s my fix.](https://dev.to/sbt112321321/im-tired-of-managing-4-different-api-keys-for-different-ai-models-heres-my-fix-42jb)
-- [From logic Apps to Workflows and what it means](https://dev.to/wyattdave/from-logic-apps-to-workflows-and-what-it-means-4ook)
-- [I Built PentestScan: A Simple Web &amp; API Security Scanner for Developers and Small Teams](https://dev.to/xil/i-built-pentestscan-a-simple-web-api-security-scanner-for-developers-and-small-teams-38km)
-- [Blazingly Fast Ecommerce Stack for Less Than a Coffee a Month — No Marketplace, No Platform Cut](https://dev.to/dbartalos/blazingly-fast-ecommerce-stack-for-less-than-a-coffee-a-month-no-marketplace-no-platform-cut-59dn)
-- [Chunking in RAG: why your splitter matters more than your embedding model](https://dev.to/saurabh_naik_b213f3bbeafe/chunking-in-rag-why-your-splitter-matters-more-than-your-embedding-model-3o19)
+- [I got tired of re-explaining myself to AI. So I built a memory graph](https://dev.to/rahulmranga/i-got-tired-of-re-explaining-myself-to-ai-so-i-built-a-memory-graph-3i11)
+- [I Built a Modern Disk Cleaner as a Solo Dev — Here&#39;s What I Learned](https://dev.to/mahirgunduz/i-built-a-modern-disk-cleaner-as-a-solo-dev-heres-what-i-learned-500b)
+- [Every Indian GST invoice generator forces signup. I built one that doesn&#39;t.](https://dev.to/manja316/every-indian-gst-invoice-generator-forces-signup-i-built-one-that-doesnt-2hj7)
+- [Why Your AI Voiceovers Sounds Robotic &lpar;And How to Fix Them&rpar;](https://dev.to/ezinne_anne/why-your-ai-voiceovers-sounds-robotic-and-how-to-fix-them-4ga3)
+- [How we engineered a better Next.js theme library](https://dev.to/thekadhikari/how-we-engineered-a-better-nextjs-theme-library-34bg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
