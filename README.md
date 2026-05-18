@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Shopify ShieldScan](https://dev.to/picarda27/shopify-shieldscan-59i3)
-- [Running Gemma 4 Inside a Docker Container with GPU Passthrough](https://dev.to/shreya111111/running-gemma-4-inside-a-docker-container-with-gpu-passthrough-2g8d)
-- [Front Controller: The Pattern That Unifies Your Web Application&#39;s Entry Point](https://dev.to/r3d_cr0wn/front-controller-el-patron-que-unifica-el-punto-de-entrada-de-tu-aplicacion-web-3l9b)
-- [Beyong New and Delete: from auto_ptr to unique_ptr](https://dev.to/legacycpp/beyong-new-and-delete-from-autoptr-to-uniqueptr-5e35)
-- [Consolidating Power Automate Flows to a Single Connection Reference with PAC CLI](https://dev.to/liyaquat_lashkariya/consolidating-power-automate-flows-to-a-single-connection-reference-with-pac-cli-152p)
+- [Orchestrated Multi-Agent Safety &amp; Test Oversight - AKA &quot;`O MAS TO&quot;](https://dev.to/marcosomma/orchestrated-multi-agent-safety-test-oversight-aka-o-masto-5hje)
+- [GitHub&#39;s New Billing Model Changes Everything About Agentic Development](https://dev.to/htekdev/githubs-new-billing-model-changes-everything-about-agentic-development-437b)
+- [Codex Chronicle was paying for every frame.](https://dev.to/niclydon/codex-chronicle-was-paying-for-every-frame-i-built-a-four-sensor-gemma-4-replacement-on-a-mac-mini-55e7)
+- [Immutability - Not a Universal Law but a Trade-off part 2](https://dev.to/ivangavlik/immutability-not-a-universal-law-but-a-trade-off-part-2-20c2)
+- [Let Your AI Agent Scaffold Apps With seed4j-mcp](https://dev.to/avdev4j/let-your-ai-agent-scaffold-apps-with-seed4j-mcp-344l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
