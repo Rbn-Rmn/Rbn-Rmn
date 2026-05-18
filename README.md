@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of re-explaining myself to AI. So I built a memory graph](https://dev.to/rahulmranga/i-got-tired-of-re-explaining-myself-to-ai-so-i-built-a-memory-graph-3i11)
-- [I Built a Modern Disk Cleaner as a Solo Dev — Here&#39;s What I Learned](https://dev.to/mahirgunduz/i-built-a-modern-disk-cleaner-as-a-solo-dev-heres-what-i-learned-500b)
-- [Every Indian GST invoice generator forces signup. I built one that doesn&#39;t.](https://dev.to/manja316/every-indian-gst-invoice-generator-forces-signup-i-built-one-that-doesnt-2hj7)
-- [Why Your AI Voiceovers Sounds Robotic &lpar;And How to Fix Them&rpar;](https://dev.to/ezinne_anne/why-your-ai-voiceovers-sounds-robotic-and-how-to-fix-them-4ga3)
-- [How we engineered a better Next.js theme library](https://dev.to/thekadhikari/how-we-engineered-a-better-nextjs-theme-library-34bg)
+- [PREDICTION-20260518-0006: craft-and-peer-recognition [2026-Q3 through 2027-Q4]](https://dev.to/sha888/prediction-20260518-0006-craft-and-peer-recognition-2026-q3-through-2027-q4-a02)
+- [PREDICTION-20260518-0005: ideology-faith-nation [2026-Q3 through 2027-Q2]](https://dev.to/sha888/prediction-20260518-0005-ideology-faith-nation-2026-q3-through-2027-q2-1200)
+- [Building Streamable HTTP MCP Servers from Scratch using FastMCP in 2026](https://dev.to/composiodev/building-streamable-http-mcp-servers-from-scratch-using-fastmcp-in-2026-5fh9)
+- [PREDICTION-20260512-0004: boredom-with-asymmetric-leverage [2026-Q3 through 2027-Q1]](https://dev.to/sha888/prediction-20260512-0004-boredom-with-asymmetric-leverage-2026-q3-through-2027-q1-17d)
+- [PREDICTION-20260503-0003: craft-and-peer-recognition [2026-Q2 through 2026-Q4]](https://dev.to/sha888/prediction-20260503-0003-craft-and-peer-recognition-2026-q2-through-2026-q4-15e8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
