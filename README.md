@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Space Complexity Explained — Why Memory Matters in DSA](https://dev.to/bitveen/space-complexity-explained-why-memory-matters-in-dsa-3ab6)
-- [What channel are Email and SMS in GA4 — Google&#39;s official spec has the answer](https://dev.to/toshihiro_shishido/what-channel-are-email-and-sms-in-ga4-googles-official-spec-has-the-answer-5d51)
-- [Stop Re-Explaining Your Codebase to AI Every Single Session](https://dev.to/zephex/stop-re-explaining-your-codebase-to-ai-every-single-session-45o2)
-- [I built 108 free browser-based file tools that never upload your files](https://dev.to/everytools_4u_3d089af1a5e/i-built-108-free-browser-based-file-tools-that-never-upload-your-files-4m5o)
-- [A History of IDEs at Google: From Emacs to Cider and Cloud Dev Environments](https://dev.to/pickuma/a-history-of-ides-at-google-from-emacs-to-cider-and-cloud-dev-environments-4cgh)
+- [I&#39;m tired of managing 4 different API keys for different AI models. Here&#39;s my fix.](https://dev.to/sbt112321321/im-tired-of-managing-4-different-api-keys-for-different-ai-models-heres-my-fix-42jb)
+- [From logic Apps to Workflows and what it means](https://dev.to/wyattdave/from-logic-apps-to-workflows-and-what-it-means-4ook)
+- [I Built PentestScan: A Simple Web &amp; API Security Scanner for Developers and Small Teams](https://dev.to/xil/i-built-pentestscan-a-simple-web-api-security-scanner-for-developers-and-small-teams-38km)
+- [Blazingly Fast Ecommerce Stack for Less Than a Coffee a Month — No Marketplace, No Platform Cut](https://dev.to/dbartalos/blazingly-fast-ecommerce-stack-for-less-than-a-coffee-a-month-no-marketplace-no-platform-cut-59dn)
+- [Chunking in RAG: why your splitter matters more than your embedding model](https://dev.to/saurabh_naik_b213f3bbeafe/chunking-in-rag-why-your-splitter-matters-more-than-your-embedding-model-3o19)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
