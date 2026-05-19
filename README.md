@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [# Day 5 of learning AI Engineering: built a small RAG app over a PDF](https://dev.to/suraj_bera/-day-5-of-learning-ai-engineering-built-a-small-rag-app-over-a-pdf-j7p)
-- [Stop Guessing Your Network: Using PowerShell and TCP Commands to Understand What’s Happening Behind the Scenes](https://dev.to/kenryikegbo/stop-guessing-your-network-using-powershell-and-tcp-commands-to-understand-whats-happening-behind-51mf)
-- [What Happens When You Run `npm run dev`](https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9)
-- [Is productivity understood in the same way by managers and developers?](https://dev.to/matiii_faro/is-productivity-understood-in-the-same-way-by-managers-and-developers-168o)
-- [You Got an ADA Demand Letter. Now What?](https://dev.to/lawebe/you-got-an-ada-demand-letter-now-what-3c5p)
+- [Lazy-Loading AI Skills in n8n with the Data Table Node](https://dev.to/thesvbd/lazy-loading-ai-skills-in-n8n-with-the-data-table-node-9l8)
+- [The Access Control Gap That Makes Most Enterprise RAG Systems Dangerous](https://dev.to/manjunath_d35c391da339e5b/the-access-control-gap-that-makes-most-enterprise-rag-systems-dangerous-o0l)
+- [I Built a Bloomberg Terminal for Startup Founders Using AI — No Code Required](https://dev.to/joya_biswas_309145ffc3fd1/i-built-a-bloomberg-terminal-for-startup-founders-using-ai-no-code-required-21d9)
+- [rakers — a headless JS renderer in Rust](https://dev.to/tbxyz_0/rakers-a-headless-js-renderer-in-rust-23m4)
+- [I Got a Green Tick. But What Just Happened?](https://dev.to/hxrh/i-got-a-green-tick-but-what-just-happened-5fbm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
