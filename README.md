@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Lazy-Loading AI Skills in n8n with the Data Table Node](https://dev.to/thesvbd/lazy-loading-ai-skills-in-n8n-with-the-data-table-node-9l8)
-- [The Access Control Gap That Makes Most Enterprise RAG Systems Dangerous](https://dev.to/manjunath_d35c391da339e5b/the-access-control-gap-that-makes-most-enterprise-rag-systems-dangerous-o0l)
-- [I Built a Bloomberg Terminal for Startup Founders Using AI — No Code Required](https://dev.to/joya_biswas_309145ffc3fd1/i-built-a-bloomberg-terminal-for-startup-founders-using-ai-no-code-required-21d9)
-- [rakers — a headless JS renderer in Rust](https://dev.to/tbxyz_0/rakers-a-headless-js-renderer-in-rust-23m4)
-- [I Got a Green Tick. But What Just Happened?](https://dev.to/hxrh/i-got-a-green-tick-but-what-just-happened-5fbm)
+- [Anthropic just proved agent commerce works. Their own data shows why verification infrastructure needs to exist.](https://dev.to/gengeo-ai/anthropic-just-proved-agent-commerce-works-their-own-data-shows-why-verification-infrastructure-48fh)
+- [3 takeaways from the IO &#39;26 developer keynote](https://dev.to/googleai/3-takeaways-from-the-io-26-developer-keynote-11b2)
+- [The Engineer Atlassian Laid Off Who Responded with a 38-Minute Documentary: What Every Leader Must Learn](https://dev.to/guayoyo_tech/the-engineer-atlassian-laid-off-who-responded-with-a-38-minute-documentary-what-every-leader-must-552f)
+- [El Ingeniero que Atlassian Despidió y Respondió con un Documental de 38 Minutos: Lo que Todo Líder Debe Aprender](https://dev.to/guayoyo_tech/el-ingeniero-que-atlassian-despidio-y-respondio-con-un-documental-de-38-minutos-lo-que-todo-lider-9he)
+- [Meet @vysmo/text - 243 text animation presets in 3 KB](https://dev.to/thomasdolso/meet-vysmotext-243-text-animation-presets-in-3-kb-2318)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
