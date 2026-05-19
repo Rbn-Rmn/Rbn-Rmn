@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Quiet Exits, Quiet Collapse &lpar;Part 1&rpar;: How People Become Exitable without Noise](https://dev.to/abdulosman/quiet-exits-quiet-collapse-part-1-how-people-become-exitable-without-noise-241k)
-- [What is GEO? The Complete Guide to Generative Engine Optimization](https://dev.to/devtoaaron/what-is-geo-the-complete-guide-to-generative-engine-optimization-4777)
-- [AI Crawler Management: How to Optimize Your robots.txt for AI Search](https://dev.to/devtoaaron/ai-crawler-management-how-to-optimize-your-robotstxt-for-ai-search-2pme)
-- [What If Every Phone in the Room Was a Game Controller — in the Age of AI?](https://dev.to/zerodays/what-if-every-phone-in-the-room-was-a-game-controller-in-the-age-of-ai-375g)
-- [Why are we still debugging production logs like it&#39;s 2012?](https://dev.to/rsv110/why-are-we-still-debugging-production-logs-like-its-2012-244f)
+- [# Feature Flags em React/Next.js: Guia Completo com ConfigCat e Context API](https://dev.to/l00p4/-feature-flags-em-reactnextjs-guia-completo-com-configcat-e-context-api-4716)
+- [Deploying Ansible AWX on Kubernetes Using Helm](https://dev.to/sirisharaju_kamparaju_c9c/deploying-ansible-awx-on-kubernetes-using-helm-6i5)
+- [Knowledge Base Software: Improving Information Management for Businesses](https://dev.to/joywinter90/knowledge-base-software-improving-information-management-for-businesses-39cc)
+- [Azure Blob Storage for Beginners: Private Access, SAS Tokens &amp; Cost Savings Explained](https://dev.to/degreatkhali/azure-blob-storage-for-beginners-private-access-sas-tokens-cost-savings-explained-1opo)
+- [GBase 8a Backup and Restore Guide: Full and Incremental Backups with gbackup](https://dev.to/michaelfv/gbase-8a-backup-and-restore-guide-full-and-incremental-backups-with-gbackup-37n7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
