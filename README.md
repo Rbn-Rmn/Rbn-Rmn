@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Showdown Thoughts: The Three-Pass Pattern](https://dev.to/carryologist/showdown-thoughts-the-three-pass-pattern-4096)
-- [JavaScript 前端集成贵金属 K 线图：10 分钟快速实现](https://dev.to/san_siwu_f08e7c406830469/javascript-qian-duan-ji-cheng-gui-jin-shu-k-xian-tu-10-fen-zhong-kuai-su-shi-xian-834)
-- [Rust&#39;s Borrow Checker: Translating Intent into Memory Safety](https://dev.to/mournfulcord/rusts-borrow-checker-translating-intent-into-memory-safety-2k3e)
-- [How to Set Up a Self-Hosted Server on Oracle Cloud Free Tier in 30 Minutes](https://dev.to/-abdullah-sheikh/how-to-set-up-a-self-hosted-server-on-oracle-cloud-free-tier-in-30-minutes-1ip8)
-- [I asked Gemma 4 to summarize. It said the transcript looked truncated. It was right.](https://dev.to/thehwang/i-asked-gemma-4-to-summarize-it-said-the-transcript-looked-truncated-it-was-right-4pff)
+- [Why Bun is Rewriting in Rust &lpar;And What It Means for JavaScript Developers&rpar;](https://dev.to/tonyspiro/why-bun-is-rewriting-in-rust-and-what-it-means-for-javascript-developers-31jo)
+- [Nobody handed me a guide to the codebase. I learned by fixing tiny bugs.](https://dev.to/ranonbezerra/nobody-handed-me-a-guide-to-the-codebase-i-learned-by-fixing-tiny-bugs-37gi)
+- [Benchmarking five live translation systems with an open-source eval harness &lpar;including OpenAI&#39;s GPT-Realtime-Translate&rpar;](https://dev.to/yahya_saleh_d157cf3d7fe2e/benchmarking-five-live-translation-systems-with-an-open-source-eval-harness-including-openais-11l7)
+- [Sub-Agents vs Tools: ADK Multi-Agent Decision Framework](https://dev.to/buoyantcloudinc/sub-agents-vs-tools-adk-multi-agent-decision-framework-55ih)
+- [Pick the Right HTDemucs Model in Python — Query 800 MUSDB18-HQ Scores on Hugging Face &lpar;2026&rpar;](https://dev.to/stevecase430/pick-the-right-htdemucs-model-in-python-query-800-musdb18-hq-scores-on-hugging-face-2026-1a47)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
