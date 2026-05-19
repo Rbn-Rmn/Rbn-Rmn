@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [# Feature Flags em React/Next.js: Guia Completo com ConfigCat e Context API](https://dev.to/l00p4/-feature-flags-em-reactnextjs-guia-completo-com-configcat-e-context-api-4716)
-- [Deploying Ansible AWX on Kubernetes Using Helm](https://dev.to/sirisharaju_kamparaju_c9c/deploying-ansible-awx-on-kubernetes-using-helm-6i5)
-- [Knowledge Base Software: Improving Information Management for Businesses](https://dev.to/joywinter90/knowledge-base-software-improving-information-management-for-businesses-39cc)
-- [Azure Blob Storage for Beginners: Private Access, SAS Tokens &amp; Cost Savings Explained](https://dev.to/degreatkhali/azure-blob-storage-for-beginners-private-access-sas-tokens-cost-savings-explained-1opo)
-- [GBase 8a Backup and Restore Guide: Full and Incremental Backups with gbackup](https://dev.to/michaelfv/gbase-8a-backup-and-restore-guide-full-and-incremental-backups-with-gbackup-37n7)
+- [Showdown Thoughts: The Three-Pass Pattern](https://dev.to/carryologist/showdown-thoughts-the-three-pass-pattern-4096)
+- [JavaScript 前端集成贵金属 K 线图：10 分钟快速实现](https://dev.to/san_siwu_f08e7c406830469/javascript-qian-duan-ji-cheng-gui-jin-shu-k-xian-tu-10-fen-zhong-kuai-su-shi-xian-834)
+- [Rust&#39;s Borrow Checker: Translating Intent into Memory Safety](https://dev.to/mournfulcord/rusts-borrow-checker-translating-intent-into-memory-safety-2k3e)
+- [How to Set Up a Self-Hosted Server on Oracle Cloud Free Tier in 30 Minutes](https://dev.to/-abdullah-sheikh/how-to-set-up-a-self-hosted-server-on-oracle-cloud-free-tier-in-30-minutes-1ip8)
+- [I asked Gemma 4 to summarize. It said the transcript looked truncated. It was right.](https://dev.to/thehwang/i-asked-gemma-4-to-summarize-it-said-the-transcript-looked-truncated-it-was-right-4pff)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
