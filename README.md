@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Gave an AI Agent a Telegram Bot and It Started Editing Videos](https://dev.to/johnsonbuilds/i-gave-an-ai-agent-a-telegram-bot-and-it-started-editing-videos-55gm)
-- [Implementando uma pilha a partir de uma fila](https://dev.to/jeffque/implementando-uma-pilha-a-partir-de-uma-fila-4k4b)
-- [Building an AI-Powered Supply Chain Platform with FastAPI, React Native, and Data Science](https://dev.to/chiedu/building-an-ai-powered-supply-chain-platform-with-fastapi-react-native-and-data-science-2hp4)
-- [The portfolio math. When 30 small apps beat 1 big one.](https://dev.to/thegdsks/the-portfolio-math-when-30-small-apps-beat-1-big-one-41ai)
-- [What If Your Phone Addiction Was Actually Building an Empire? &lpar;A Game Dev Story&rpar;](https://dev.to/tanishpaul1106/what-if-your-phone-addiction-was-actually-building-an-empire-a-game-dev-story-120l)
+- [Quiet Exits, Quiet Collapse &lpar;Part 1&rpar;: How People Become Exitable without Noise](https://dev.to/abdulosman/quiet-exits-quiet-collapse-part-1-how-people-become-exitable-without-noise-241k)
+- [What is GEO? The Complete Guide to Generative Engine Optimization](https://dev.to/devtoaaron/what-is-geo-the-complete-guide-to-generative-engine-optimization-4777)
+- [AI Crawler Management: How to Optimize Your robots.txt for AI Search](https://dev.to/devtoaaron/ai-crawler-management-how-to-optimize-your-robotstxt-for-ai-search-2pme)
+- [What If Every Phone in the Room Was a Game Controller — in the Age of AI?](https://dev.to/zerodays/what-if-every-phone-in-the-room-was-a-game-controller-in-the-age-of-ai-375g)
+- [Why are we still debugging production logs like it&#39;s 2012?](https://dev.to/rsv110/why-are-we-still-debugging-production-logs-like-its-2012-244f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
