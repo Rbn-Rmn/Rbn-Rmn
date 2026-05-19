@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How RNNs Work — Remembering Previous States in Sequential Data](https://dev.to/zeromathai/how-rnns-work-remembering-previous-states-in-sequential-data-560o)
-- [Building a Technical Literature Dashboard with Power Automate Power Apps LDX hub StructFlow](https://dev.to/kozo-ki/building-a-technical-literature-dashboard-with-power-automate-power-apps-ldx-hub-structflow-3aa4)
-- [🧭Diseñando VPCs en AWS: patrones reales &lpar;hub-spoke, mesh, multi-account&rpar;.](https://dev.to/oscar_gaviria_2b862594738/disenando-vpcs-en-aws-patrones-reales-hub-spoke-mesh-multi-account-3953)
-- [CrawlForge v4.2.2: New CLI + 3 Tools for Local AI Scraping](https://dev.to/simon_crawlforge_dev/crawlforge-v422-new-cli-3-tools-for-local-ai-scraping-5954)
-- [Hushh Open Source Hiring Challenge 2026: contribute to Kai or hushhTech](https://dev.to/ankit_kumarsingh_8f19945/hushh-open-source-hiring-challenge-2026-contribute-to-kai-or-hushhtech-2agj)
+- [I Gave an AI Agent a Telegram Bot and It Started Editing Videos](https://dev.to/johnsonbuilds/i-gave-an-ai-agent-a-telegram-bot-and-it-started-editing-videos-55gm)
+- [Implementando uma pilha a partir de uma fila](https://dev.to/jeffque/implementando-uma-pilha-a-partir-de-uma-fila-4k4b)
+- [Building an AI-Powered Supply Chain Platform with FastAPI, React Native, and Data Science](https://dev.to/chiedu/building-an-ai-powered-supply-chain-platform-with-fastapi-react-native-and-data-science-2hp4)
+- [The portfolio math. When 30 small apps beat 1 big one.](https://dev.to/thegdsks/the-portfolio-math-when-30-small-apps-beat-1-big-one-41ai)
+- [What If Your Phone Addiction Was Actually Building an Empire? &lpar;A Game Dev Story&rpar;](https://dev.to/tanishpaul1106/what-if-your-phone-addiction-was-actually-building-an-empire-a-game-dev-story-120l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
