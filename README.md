@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [GPUs, Data Security, and the AI Performance Race: Running Powerful Models Without Losing Control of Your Data](https://dev.to/mike_anderson_d01f52129fb/gpus-data-security-and-the-ai-performance-race-running-powerful-models-without-losing-control-of-1e8h)
-- [Understanding MCP: The Communication Layer Between AI Agents and Tools](https://dev.to/yaruyng/understanding-mcp-the-communication-layer-between-ai-agents-and-tools-2ocl)
-- [Building a Cloud Resume on Azure &lpar;and Then Refusing to Stop&rpar;](https://dev.to/rlwilliamson/building-a-cloud-resume-on-azure-and-then-refusing-to-stop-218m)
-- [How I Built a Secure, 3,072-Dim AI Document Indexer Using Next.js &amp; Supabase.](https://dev.to/dhritich20baruah/how-i-built-a-secure-3072-dim-ai-document-indexer-using-nextjs-supabase-1bbf)
-- [Google Antigravity 2.0 Is the I/O 2026 Announcement Devs Are Sleeping On](https://dev.to/ashutoshranjan/google-antigravity-20-is-the-io-2026-announcement-devs-are-sleeping-on-2mke)
+- [&quot;When the AI gets stuck, the engineer fetches the same PRD via MCP and keeps going&quot;](https://dev.to/zoetaka38/when-the-ai-gets-stuck-the-engineer-fetches-the-same-prd-via-mcp-and-keeps-going-52nd)
+- [Prompt Engineering Is Slowly Becoming Context Engineering](https://dev.to/sudarshangouda/prompt-engineering-is-slowly-becoming-context-engineering-3ije)
+- [Railway Blocked by Google Cloud: What&#39;s Happening?](https://dev.to/onsen/railway-blocked-by-google-cloud-whats-happening-5a8k)
+- [Debugging Occasional ECONNRESET Errors in Node.js: Root Causes and Fixes](https://dev.to/pickuma/debugging-occasional-econnreset-errors-in-nodejs-root-causes-and-fixes-1ke0)
+- [Book Review: Operational AI with Docker](https://dev.to/docker/book-review-operational-ai-with-docker-73d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
