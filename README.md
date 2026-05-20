@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Capture the Reasoning Path, Not the Final State](https://dev.to/niclydon/capture-the-reasoning-path-not-the-final-state-c9d)
-- [AgentThreatBench: The First OWASP Agentic Top 10 Security Benchmark](https://dev.to/vaishnavi_gudur/agentthreatbench-the-first-owasp-agentic-top-10-security-benchmark-6pp)
-- [The Future Guide for Escaping Single-Provider Administrative Failure](https://dev.to/kufre_akpan_e7256f8198803/the-future-guide-for-escaping-single-provider-administrative-failure-33ei)
-- [Day 8 — I scraped 5 freelance Gumroad top sellers. All 5 wrote one thing I didn&#39;t.](https://dev.to/foxck016077/day-8-i-scraped-5-freelance-gumroad-top-sellers-all-5-wrote-one-thing-i-didnt-4o0)
-- [Scaling Intelligence Workshop: Google NYC, Thursday, May 28th 🚀](https://dev.to/googleai/scaling-intelligence-workshop-google-nyc-thursday-may-28th-5cpk)
+- [GPUs, Data Security, and the AI Performance Race: Running Powerful Models Without Losing Control of Your Data](https://dev.to/mike_anderson_d01f52129fb/gpus-data-security-and-the-ai-performance-race-running-powerful-models-without-losing-control-of-1e8h)
+- [Understanding MCP: The Communication Layer Between AI Agents and Tools](https://dev.to/yaruyng/understanding-mcp-the-communication-layer-between-ai-agents-and-tools-2ocl)
+- [Building a Cloud Resume on Azure &lpar;and Then Refusing to Stop&rpar;](https://dev.to/rlwilliamson/building-a-cloud-resume-on-azure-and-then-refusing-to-stop-218m)
+- [How I Built a Secure, 3,072-Dim AI Document Indexer Using Next.js &amp; Supabase.](https://dev.to/dhritich20baruah/how-i-built-a-secure-3072-dim-ai-document-indexer-using-nextjs-supabase-1bbf)
+- [Google Antigravity 2.0 Is the I/O 2026 Announcement Devs Are Sleeping On](https://dev.to/ashutoshranjan/google-antigravity-20-is-the-io-2026-announcement-devs-are-sleeping-on-2mke)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
