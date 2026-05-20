@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [GPU Observability for Workloads That Cannot Phone Home](https://dev.to/ingero/gpu-observability-for-workloads-that-cannot-phone-home-534d)
-- [A Production Python Telegram Bot Was Crashing Every 2 Hours. The Fix Was 18 Lines.](https://dev.to/lamas51/a-production-python-telegram-bot-was-crashing-every-2-hours-the-fix-was-18-lines-29di)
-- [5 Mistakes I Made Building a Social Media App With 7 AI Systems](https://dev.to/bravo24/5-mistakes-i-made-building-a-social-media-app-with-7-ai-systems-4172)
-- [Yansımalı DLL Enjeksiyonu Rehberi Bellek İçi Saldırılar ve Savunma](https://dev.to/nesil_teknoloji/yansimali-dll-enjeksiyonu-rehberi-bellek-ici-saldirilar-ve-savunma-15kj)
-- [I built a tool to instantly share web projects without deploying](https://dev.to/karthik_c40c3df4bd1e7c38e/i-built-a-tool-to-instantly-share-web-projects-without-deploying-12on)
+- [AI Citation Registry: Cross-Jurisdiction Data Conflict](https://dev.to/aigistry/ai-citation-registry-cross-jurisdiction-data-conflict-4mm0)
+- [My PR Merged Into a Graveyard: On the Rise of Antigravity and the Fall of Open Source](https://dev.to/himanshu_748/my-pr-merged-into-a-graveyard-on-the-rise-of-antigravity-and-the-fall-of-open-source-5cpd)
+- [Private AI on a Normal Android Phone: Building Krexel with Gemma 4 E2B](https://dev.to/krishna_apex/private-ai-on-a-normal-android-phone-building-krexel-with-gemma-4-e2b-473e)
+- [The Best Result This Week Was a Failed Prediction — Phase-3a Doesn&#39;t Transfer](https://dev.to/mxguru1/the-best-result-this-week-was-a-failed-prediction-phase-3a-doesnt-transfer-3ihb)
+- [Embedding 685 million texts in 32 minutes](https://dev.to/artain/embedding-685-million-texts-in-32-minutes-46o7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
