@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [&quot;When the AI gets stuck, the engineer fetches the same PRD via MCP and keeps going&quot;](https://dev.to/zoetaka38/when-the-ai-gets-stuck-the-engineer-fetches-the-same-prd-via-mcp-and-keeps-going-52nd)
-- [Prompt Engineering Is Slowly Becoming Context Engineering](https://dev.to/sudarshangouda/prompt-engineering-is-slowly-becoming-context-engineering-3ije)
-- [Railway Blocked by Google Cloud: What&#39;s Happening?](https://dev.to/onsen/railway-blocked-by-google-cloud-whats-happening-5a8k)
-- [Debugging Occasional ECONNRESET Errors in Node.js: Root Causes and Fixes](https://dev.to/pickuma/debugging-occasional-econnreset-errors-in-nodejs-root-causes-and-fixes-1ke0)
-- [Book Review: Operational AI with Docker](https://dev.to/docker/book-review-operational-ai-with-docker-73d)
+- [R Learning](https://dev.to/pjdev2d/r-learning-30de)
+- [# AI Coding Assistants Aren&#39;t Magicians: Why Pattern Matching Can&#39;t Replace Engineering Judgment](https://dev.to/hackastak/-ai-coding-assistants-arent-magicians-why-pattern-matching-cant-replace-engineering-judgment-4gme)
+- [How to Vet AI Developers in 2026: Questions That Catch Fakes Before They Cost You $60,000](https://dev.to/ihor_ostin/how-to-vet-ai-developers-in-2026-questions-that-catch-fakes-before-they-cost-you-60000-5g0)
+- [Debugging Slow SQL in GBase 8a: How Execution Plans, Distribution Keys, and Parallelism Go Off the Rails Together](https://dev.to/michaelfv/debugging-slow-sql-in-gbase-8a-how-execution-plans-distribution-keys-and-parallelism-go-off-the-2i7)
+- [Why Your AI Safety Theater Is Killing Innovation: A Product Manager&#39;s Guide to Chaos Capital](https://dev.to/jaikora/why-your-ai-safety-theater-is-killing-innovation-a-product-managers-guide-to-chaos-capital-88i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
