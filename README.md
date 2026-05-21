@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Doesn&#39;t Need an API Key: Entra Agent ID and Anthropic&#39;s Workload Identity Federation](https://dev.to/astaykov/your-ai-agent-doesnt-need-an-api-key-entra-agent-id-and-anthropics-workload-identity-federation-el0)
-- [ECDSA - The Math That Only Goes One Way](https://dev.to/muhammad_ademola/ecdsa-the-math-that-only-goes-one-way-2fa3)
-- [S3 Files Killed My Least Favorite Lambda Pattern](https://dev.to/aws-builders/s3-files-killed-my-least-favorite-lambda-pattern-25f9)
-- [BNB RPC Endpoints for Production Apps and Backend Workloads](https://dev.to/hubertroy/bnb-rpc-endpoints-for-production-apps-and-backend-workloads-2lg2)
-- [RPC Endpoints Guide for Production Web3 Apps](https://dev.to/hubertroy/rpc-endpoints-guide-for-production-web3-apps-5cj7)
+- [Centralising Upsun Technical References with Meta-Upsun](https://dev.to/upsun/centralising-upsun-technical-references-with-meta-upsun-a8p)
+- [How I Practice System Design with AI &lpar;URL Shortener Walkthrough&rpar;](https://dev.to/nguyen_phuchai_b01cae130/how-i-practice-system-design-with-ai-url-shortener-walkthrough-1mmf)
+- [Why Gemma 4 Matters for Africa and Low-Connectivity Regions](https://dev.to/allan_kipruto_7f71bb911c6/why-gemma-4-matters-for-africa-and-low-connectivity-regions-bno)
+- [Writing to an Apache Iceberg Table: How Commits and ACID Actually Work](https://dev.to/alexmercedcoder/writing-to-an-apache-iceberg-table-how-commits-and-acid-actually-work-59da)
+- [Claude Code vs. OpenCode without the hype ✅](https://dev.to/composiodev/claude-code-vs-opencode-without-the-hype-j1f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
