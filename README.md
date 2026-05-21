@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Centralising Upsun Technical References with Meta-Upsun](https://dev.to/upsun/centralising-upsun-technical-references-with-meta-upsun-a8p)
-- [How I Practice System Design with AI &lpar;URL Shortener Walkthrough&rpar;](https://dev.to/nguyen_phuchai_b01cae130/how-i-practice-system-design-with-ai-url-shortener-walkthrough-1mmf)
-- [Why Gemma 4 Matters for Africa and Low-Connectivity Regions](https://dev.to/allan_kipruto_7f71bb911c6/why-gemma-4-matters-for-africa-and-low-connectivity-regions-bno)
-- [Writing to an Apache Iceberg Table: How Commits and ACID Actually Work](https://dev.to/alexmercedcoder/writing-to-an-apache-iceberg-table-how-commits-and-acid-actually-work-59da)
-- [Claude Code vs. OpenCode without the hype ✅](https://dev.to/composiodev/claude-code-vs-opencode-without-the-hype-j1f)
+- [Beyond the Model: Why the Gemini Ecosystem and Google AI Studio Are Redefining Enterprise AI Architecture in 2026](https://dev.to/rexreus/beyond-the-model-why-the-gemini-ecosystem-and-google-ai-studio-are-redefining-enterprise-ai-3nlg)
+- [The New AI Workflow Is Not “More Agents”](https://dev.to/chrisbuildsonline/the-new-ai-workflow-is-not-more-agents-14i3)
+- [How to Make Large Time-Series Charts Smooth in Vue.js + ApexCharts &lpar;and fix Zoom &amp; Scroll behavior issues&rpar;](https://dev.to/aaronestrada/how-to-make-large-time-series-charts-smooth-in-vuejs-apexcharts-and-fix-zoom-scroll-behavior-3k6n)
+- [Why Lightweight Prompt Compressors Fail in Production &lpar;And How to Fix It&rpar;](https://dev.to/buddyhenderson/why-lightweight-prompt-compressors-fail-in-production-and-how-to-fix-it-n8j)
+- [Shopify Just Shipped a UCP CLI. It Buys Anywhere — But Only Finds Shopify.](https://dev.to/benjifisher/shopify-just-shipped-a-ucp-cli-it-buys-anywhere-but-only-finds-shopify-38lf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
