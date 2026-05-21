@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How We Handled Real-Time Traffic Spikes During the World Cup With a Lightweight Mini App](https://dev.to/mei_zhang_7ba62b665663941/how-we-handled-real-time-traffic-spikes-during-the-world-cup-with-a-lightweight-mini-app-gep)
-- [Why ChatGPT Cannot Replace Travel Agents — Notes from Building the Backend](https://dev.to/parveenasnora/why-chatgpt-cannot-replace-travel-agents-notes-from-building-the-backend-3iaa)
-- [Platform Lockdowns Will Doom Your Business](https://dev.to/interface-profit/platform-lockdowns-will-doom-your-business-1cj)
-- [AI Is Breaking the Traditional Software Pricing Model](https://dev.to/girish_r/ai-is-breaking-the-traditional-software-pricing-model-13fp)
-- [Stop Using Raw Vector Search: Implement GraphRAG with Spring AI and Neo4j](https://dev.to/machinecodingmaster/stop-using-raw-vector-search-implement-graphrag-with-spring-ai-and-neo4j-no6)
+- [Your AI Agent Doesn&#39;t Need an API Key: Entra Agent ID and Anthropic&#39;s Workload Identity Federation](https://dev.to/astaykov/your-ai-agent-doesnt-need-an-api-key-entra-agent-id-and-anthropics-workload-identity-federation-el0)
+- [ECDSA - The Math That Only Goes One Way](https://dev.to/muhammad_ademola/ecdsa-the-math-that-only-goes-one-way-2fa3)
+- [S3 Files Killed My Least Favorite Lambda Pattern](https://dev.to/aws-builders/s3-files-killed-my-least-favorite-lambda-pattern-25f9)
+- [BNB RPC Endpoints for Production Apps and Backend Workloads](https://dev.to/hubertroy/bnb-rpc-endpoints-for-production-apps-and-backend-workloads-2lg2)
+- [RPC Endpoints Guide for Production Web3 Apps](https://dev.to/hubertroy/rpc-endpoints-guide-for-production-web3-apps-5cj7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
