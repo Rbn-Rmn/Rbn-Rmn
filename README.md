@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Unity’s AI agent went public: the developers of a static analysis tool on what that means for code quality](https://dev.to/pvsdev/unitys-ai-agent-went-public-the-developers-of-a-static-analysis-tool-on-what-that-means-for-code-5gb6)
-- [Anna&#39;s Archive publica un llms.txt para los LLMs que rastrean su catálogo](https://dev.to/lu1tr0n/annas-archive-publica-un-llmstxt-para-los-llms-que-rastrean-su-catalogo-2bk9)
-- [Why I Built Mneme HQ: Preventing AI Agent Architectural Drift](https://dev.to/mnemehq/why-i-built-mneme-hq-preventing-ai-agent-architectural-drift-64m)
-- [I Built a Pay-Per-Call Crypto Signal API with x402 — Heres the Architecture](https://dev.to/kirothebot/i-built-a-pay-per-call-crypto-signal-api-with-x402-heres-the-architecture-1eac)
-- [🚀 “From Prompts to Autonomous Agents: What Google I/O 2026 Changed”](https://dev.to/anmolpawar_/from-prompts-to-autonomous-agents-what-google-io-2026-changed-32ko)
+- [AI Workflow Automation Needs More Than Another Script](https://dev.to/agntable/ai-workflow-automation-needs-more-than-another-script-9fj)
+- [Reviving Cineverse: From Local Storage to Firebase 🚀](https://dev.to/ali_mohamed/reviving-cineverse-from-local-storage-to-firebase-3jn7)
+- [Approaches to Streaming Data into Apache Iceberg Tables](https://dev.to/alexmercedcoder/approaches-to-streaming-data-into-apache-iceberg-tables-27k5)
+- [How to Add Rounded Corners to an Image Online](https://dev.to/chenmuxing/how-to-add-rounded-corners-to-an-image-online-440e)
+- [The subtle impact of AI &lpar;&amp; IT&rpar; on jobs](https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
