@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Stream LLMs: How Parallel Computation Will Unblock Your AI Agents](https://dev.to/monuminu/multi-stream-llms-how-parallel-computation-will-unblock-your-ai-agents-3gjb)
-- [Where Logic, Mathematics, and Philosophy Reside in Structure A11](https://dev.to/__272d48f2ed/where-logic-mathematics-and-philosophy-reside-in-structure-a11-fh1)
-- [Exception Handling in Java](https://dev.to/harini_magesh_fa40041cf8d/exception-handling-in-java-2mk3)
-- [Building a Secure Real-Time Messaging App with .NET 8 and Angular 18](https://dev.to/naimulkarim/building-a-secure-real-time-messaging-app-with-net-8-and-angular-18-jdo)
-- [Adminizer 4.6](https://dev.to/adminizer/adminizer-46-4b3o)
+- [Stop manually stripping Prisma inputs. Generate Zod schemas &amp; guard your DB automatically.](https://dev.to/explita/stop-manually-stripping-prisma-inputs-generate-zod-schemas-guard-your-db-automatically-56mj)
+- [Stop guessing your AI API bill: a quick guide to token cost math](https://dev.to/sakhawat_ali_eb33423d904e/stop-guessing-your-ai-api-bill-a-quick-guide-to-token-cost-math-2hj5)
+- [Making Dynamic MDX Blogs Work with OpenNext on Cloudflare Workers](https://dev.to/harshalranjhani/making-dynamic-mdx-blogs-work-with-opennext-on-cloudflare-workers-b5o)
+- [The Folly of Relying on Traditional Payment Platforms for the African Creator Economy](https://dev.to/exit-own/the-folly-of-relying-on-traditional-payment-platforms-for-the-african-creator-economy-419f)
+- [AI agents don&#39;t have a memory problem. They have an architecture problem.](https://dev.to/davincc77/ai-agents-dont-have-a-memory-problem-they-have-an-architecture-problem-3pl6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
