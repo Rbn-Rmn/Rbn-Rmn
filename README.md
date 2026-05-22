@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Spec sheets aren&#39;t capabilities: a Day-1 Gemma 4 eval on Telugu vision](https://dev.to/avinash431/spec-sheets-arent-capabilities-a-day-1-gemma-4-eval-on-telugu-vision-1el3)
-- [Design a Clean Form with Floating Labels in Bootstrap 5](https://dev.to/zamfir80/clean-bootstrap-5-register-form-with-floating-labels-2noi)
-- [Your MCP Server Is Probably Overprivileged - Here&#39;s a Scanner For It](https://dev.to/david_dev_sec/your-mcp-server-is-probably-overprivileged-heres-a-scanner-for-it-3cmb)
-- [Maatru: An agentic Telugu literacy app for kids, built with Gemma 4](https://dev.to/avinash431/maatru-an-agentic-telugu-literacy-app-for-kids-built-with-gemma-4-48k0)
-- [Gemma 4 Is Not Just Another Open Model — It Changes What Developers Can Build Locally](https://dev.to/samarth28/gemma-4-is-not-just-another-open-model-it-changes-what-developers-can-build-locally-1el5)
+- [From AI Code Generation to AI System Investigation](https://dev.to/miller-28/from-ai-code-generation-to-ai-system-investigation-4b6e)
+- [I gave Gemini 3.5 Flash a CVE-fix PR to review. It found another bug in the same file.](https://dev.to/vicente_junior_dev/i-gave-gemini-35-flash-a-cve-fix-pr-to-review-it-found-another-bug-in-the-same-file-1g24)
+- [Leveraging the Wrong Scaling Patterns Will Lose You in Production](https://dev.to/nomad-revenue/leveraging-the-wrong-scaling-patterns-will-lose-you-in-production-nk1)
+- [The Return of Recursion: How 5M-Parameter Models Are Outperforming Frontier LLMs on Reasoning in 2026](https://dev.to/rams901/the-return-of-recursion-how-5m-parameter-models-are-outperforming-frontier-llms-on-reasoning-in-2abo)
+- [I built my first Chrome extension because editing localStorage was annoying](https://dev.to/rodrigocnascimento/i-built-my-first-chrome-extension-because-editing-localstorage-was-annoying-1ji1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
