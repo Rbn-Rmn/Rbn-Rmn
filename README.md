@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built a search engine over 1,600+ cybersecurity articles — here&#39;s what I actually learned](https://dev.to/ayinedjimi-consultants/i-built-a-search-engine-over-1600-cybersecurity-articles-heres-what-i-actually-learned-1eke)
-- [I used LLMs to rewrite meta descriptions for 1,600 articles — honest results](https://dev.to/ayinedjimi-consultants/i-used-llms-to-rewrite-meta-descriptions-for-1600-articles-honest-results-2389)
-- [Per-user cost attribution for your AI APP](https://dev.to/seenfinity/per-user-cost-attribution-for-your-ai-app-16o)
-- [I Built a Safari Extension That Shows When Your YouTube Video Ends](https://dev.to/fluphalicious/i-built-a-safari-extension-that-shows-when-your-youtube-video-ends-1jfh)
-- [What It Actually Takes to Audit Aurora PostgreSQL on AWS](https://dev.to/pranay_raavi/what-it-actually-takes-to-audit-aurora-postgresql-on-aws-l7j)
+- [Multi-Stream LLMs: How Parallel Computation Will Unblock Your AI Agents](https://dev.to/monuminu/multi-stream-llms-how-parallel-computation-will-unblock-your-ai-agents-3gjb)
+- [Where Logic, Mathematics, and Philosophy Reside in Structure A11](https://dev.to/__272d48f2ed/where-logic-mathematics-and-philosophy-reside-in-structure-a11-fh1)
+- [Exception Handling in Java](https://dev.to/harini_magesh_fa40041cf8d/exception-handling-in-java-2mk3)
+- [Building a Secure Real-Time Messaging App with .NET 8 and Angular 18](https://dev.to/naimulkarim/building-a-secure-real-time-messaging-app-with-net-8-and-angular-18-jdo)
+- [Adminizer 4.6](https://dev.to/adminizer/adminizer-46-4b3o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
