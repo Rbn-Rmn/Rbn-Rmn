@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [When is AI fine in education?](https://dev.to/szymonkuczer/when-is-ai-fine-in-education-4d3i)
-- [Python Tools for Managing API Rate Limits in Data Pipelines](https://dev.to/137foundry/python-tools-for-managing-api-rate-limits-in-data-pipelines-2ema)
-- [How to Implement Exponential Backoff for Rate-Limited APIs in Python](https://dev.to/137foundry/how-to-implement-exponential-backoff-for-rate-limited-apis-in-python-28b5)
-- [&quot;My Web Chat Wasn&#39;t a Real Channel. That Broke My Agent Pipeline&quot;](https://dev.to/codekingai/my-web-chat-wasnt-a-real-channel-that-broke-my-agent-pipeline-11ed)
-- [next-advanced-sitemap v1.0.7 — safer URL ingestion &amp; automatic trimming for Next.js sitemap generation](https://dev.to/fomadev/next-advanced-sitemap-v107-safer-url-ingestion-automatic-trimming-for-nextjs-sitemap-47f4)
+- [Unity’s AI agent went public: the developers of a static analysis tool on what that means for code quality](https://dev.to/pvsdev/unitys-ai-agent-went-public-the-developers-of-a-static-analysis-tool-on-what-that-means-for-code-5gb6)
+- [Anna&#39;s Archive publica un llms.txt para los LLMs que rastrean su catálogo](https://dev.to/lu1tr0n/annas-archive-publica-un-llmstxt-para-los-llms-que-rastrean-su-catalogo-2bk9)
+- [Why I Built Mneme HQ: Preventing AI Agent Architectural Drift](https://dev.to/mnemehq/why-i-built-mneme-hq-preventing-ai-agent-architectural-drift-64m)
+- [I Built a Pay-Per-Call Crypto Signal API with x402 — Heres the Architecture](https://dev.to/kirothebot/i-built-a-pay-per-call-crypto-signal-api-with-x402-heres-the-architecture-1eac)
+- [🚀 “From Prompts to Autonomous Agents: What Google I/O 2026 Changed”](https://dev.to/anmolpawar_/from-prompts-to-autonomous-agents-what-google-io-2026-changed-32ko)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
