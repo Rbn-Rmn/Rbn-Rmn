@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Caught and Fixed an N+1 Query in My Django REST API](https://dev.to/highcenburg/how-i-caught-and-fixed-an-n1-query-in-my-django-rest-api-36p5)
-- [How to Start Coding as a Student: A Complete Beginner’s Guide 🚀](https://dev.to/manju_devi_93d3af8012a762/how-to-start-coding-as-a-student-a-complete-beginners-guide-4pm8)
-- [Storing Kamal secrets in AWS Secrets Manager and deploying to a cheap Hetzner VPS](https://dev.to/godsloveady/storing-kamal-secrets-in-aws-secrets-manager-and-deploying-to-a-cheap-hetzner-vps-2262)
-- [What Are Buffers, Really?](https://dev.to/ho3na3/what-are-buffers-290m)
-- [Build AI Agents with Hot Dev](https://dev.to/curtissummers/build-ai-agents-with-hot-dev-3po6)
+- [Stop Trusting Your Accuracy Score: A Practical Guide to Evaluating Logistic Regression Models](https://dev.to/gervaisamoah/stop-trusting-your-accuracy-score-a-practical-guide-to-evaluating-logistic-regression-models-2g5d)
+- [Serious Question: Is the Developer Job Actually in Risk Due to AI? published: true tags: #discuss #career #ai #help](https://dev.to/prince_kumar_24/serious-question-is-the-developer-job-actually-in-risk-due-to-ai-published-true-tags-discuss-440p)
+- [rav2d: We ported an AV2 video decoder from C to Rust — here&#39;s why](https://dev.to/stukenov/rav2d-we-ported-an-av2-video-decoder-from-c-to-rust-heres-why-2n7a)
+- [Your New Domain&#39;s First Week of GA4 Is a Lie: 4 Days of Raw Data from a Launch](https://dev.to/kenimo49/your-new-domains-first-week-of-ga4-is-a-lie-4-days-of-raw-data-from-a-launch-47pi)
+- [Gemma Guide - Real-Time Spatial Awareness for Blind Users](https://dev.to/danparii/gemma-guide-real-time-spatial-awareness-for-blind-users-2449)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
