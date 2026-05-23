@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Long-Context Models Killed RAG. Except for the 6 Cases Where They Made It Worse.](https://dev.to/gabrielanhaia/long-context-models-killed-rag-except-for-the-6-cases-where-they-made-it-worse-1ico)
-- [I Built a Neural Network Engine in C# That Runs in Your Browser - No ONNX Runtime, No JavaScript Bridge, No Native Binaries](https://dev.to/lostbeard/i-built-a-neural-network-engine-in-c-that-runs-in-your-browser-no-onnx-runtime-no-javascript-4aj3)
-- [An In-Depth Overview of the Apache Iceberg 1.11.0 Release](https://dev.to/alexmercedcoder/an-in-depth-overview-of-the-apache-iceberg-1110-release-4l1n)
-- [Your Agent Just Called the Same Tool 47 Times. Here&#39;s the 20-Line Detector.](https://dev.to/gabrielanhaia/your-agent-just-called-the-same-tool-47-times-heres-the-20-line-detector-59f1)
-- [How I Built a Multi-System Astrology Bot in Python &lpar;And What Meta Banned Me For&rpar;](https://dev.to/shustyk/how-i-built-a-multi-system-astrology-bot-in-python-and-what-meta-banned-me-for-1j4e)
+- [I Tried Google Antigravity 2.0 Here&#39;s What It Actually Feels Like to Code With AI Agents By Isaac Yakubu | Google I/O 2026 Challenge Submission](https://dev.to/engrisaac/i-tried-google-antigravity-20-heres-what-it-actually-feels-like-to-code-with-ai-agents-by-isaac-4fdp)
+- [The growth quest picks what you avoid, not what you&#39;re already good at](https://dev.to/palo_alto_ai/the-growth-quest-picks-what-you-avoid-not-what-youre-already-good-at-4hl9)
+- [Firebase AI Logic&#39;s Template-Only Mode Is the Security Feature We Actually Needed](https://dev.to/paper_scratcher_bafb0086c/firebase-ai-logics-template-only-mode-is-the-security-feature-we-actually-needed-2o94)
+- [Hardware Guide: What Do You Actually Need to Run Local LLMs?](https://dev.to/lingdas1/hardware-guide-what-do-you-actually-need-to-run-local-llms-1eik)
+- [Constitutional Exception Committees: A Pattern for AI Agent Constraint Governance](https://dev.to/elia_airtisshmuelovitc/constitutional-exception-committees-a-pattern-for-ai-agent-constraint-governance-5a7h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
