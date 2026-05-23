@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Autonomous Agents Need Receipts, Not Just Reasoning](https://dev.to/tarunai/autonomous-agents-need-receipts-not-just-reasoning-1d1n)
-- [What 3.9M powerlifting records tell us about competition strategy — an EDA with Python](https://dev.to/evolve-space/what-39m-powerlifting-records-tell-us-about-competition-strategy-an-eda-with-python-5g6k)
-- [Dev.to Article Draft #13](https://dev.to/zny10289/devto-article-draft-13-2mkh)
-- [Beyond the Context Window: How to Build a Self-Improving AI Agent with Persistent Memory](https://dev.to/programmingcentral/beyond-the-context-window-how-to-build-a-self-improving-ai-agent-with-persistent-memory-31lh)
-- [Full Agentic Stack - 5 Ideias da Arquitetura &#39;AI-First&#39; que Vão Mudar a Forma Como Você Desenvolve Software](https://dev.to/fullagenticstack/full-agentic-stack-5-ideias-da-arquitetura-ai-first-que-vao-mudar-a-forma-como-voce-desenvolve-21l7)
+- [Brave CMS – A CMS Built for Simplicity, Flexibility, and Scalability](https://dev.to/zamfir80/brave-cms-a-modern-laravel-cms-built-for-simplicity-flexibility-and-scalability-1fh5)
+- [WebAssembly in 2026: The Quiet Revolution That Finally Delivered](https://dev.to/zny10289/webassembly-in-2026-the-quiet-revolution-that-finally-delivered-8ff)
+- [Devirtualization and Static Polymorphism](https://dev.to/david-alvarez-rosa/devirtualization-and-static-polymorphism-3mmg)
+- [Local LLM for Claude Code, AI Workflow Orchestration, and MLOps Deployment Patterns](https://dev.to/soytuber/local-llm-for-claude-code-ai-workflow-orchestration-and-mlops-deployment-patterns-dl8)
+- [CSS in 2026: Container Queries, Cascade Layers, and the End of Utility-Class Bloat](https://dev.to/zny10289/css-in-2026-container-queries-cascade-layers-and-the-end-of-utility-class-bloat-3nkc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
