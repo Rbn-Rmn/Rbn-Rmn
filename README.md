@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Event Triggers บน Garudust](https://dev.to/garudust/event-triggers-bn-garudust-4ji3)
-- [Event Loop: como o JavaScript executa código assíncrono](https://dev.to/rohyer/event-loop-como-o-javascript-executa-codigo-assincrono-59jd)
-- [5 Best AI Chatbot Plugins for WordPress in 2026 &lpar;Compared&rpar;](https://dev.to/wengjiyao/5-best-ai-chatbot-plugins-for-wordpress-in-2026-compared-1ch0)
-- [17 天 / 247 views / 0 sales — 我把 $9 PDF 砍掉，25 分鐘 spike 出新方向](https://dev.to/foxck016077/17-tian-247-views-0-sales-wo-ba-9-pdf-kan-diao-25-fen-zhong-spike-chu-xin-fang-xiang-d7h)
-- [Fractal Time Oriented Programming](https://dev.to/nikolaysuslov/fractal-time-oriented-programming-50nb)
+- [From Legacy to Live — Reviving XMLPayments with GitHub Copilot](https://dev.to/printo_tom/-from-legacy-to-live-reviving-xmlpayments-with-github-copilot-427c)
+- [AI Agents in Practice — Read from the beginning](https://dev.to/gursharansingh/ai-agents-in-practice-read-from-the-beginning-1l5l)
+- [Reviving My Gemma Agentic Framework: From Prototype to Polished Repo](https://dev.to/printo_tom/reviving-my-gemma-agentic-framework-from-prototype-to-polished-repo-p2g)
+- [Smart Contracts Demand Better Infrastructure: Building on contract.dev](https://dev.to/binnadev/smart-contracts-demand-better-infrastructure-building-on-contractdev-3ha3)
+- [Self-Hosted LLM Tool Calling: Forge and the Build-vs-Buy Decision](https://dev.to/yash_pritwani_07a77613fd6/self-hosted-llm-tool-calling-forge-and-the-build-vs-buy-decision-3egn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
