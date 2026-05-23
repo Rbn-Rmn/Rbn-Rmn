@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The 11 Major Cloud Service Providers in 2025](https://dev.to/khushi_dubey/the-11-major-cloud-service-providers-in-2025-k54)
-- [Visualizing Database Design: From Interactive Canvas to Drizzle, Prisma, and SQL in Real-time](https://dev.to/ishaansharmadev/visualizing-database-design-from-interactive-canvasto-drizzle-prisma-and-sql-in-real-time-2een)
-- [A tool to make your GitHub README impossible to ignore 🚀](https://dev.to/dhanushnehru/a-tool-to-make-your-github-readme-impossible-to-ignore-19ac)
-- [Zero-Downtime Blue-Green and IP-Based Canary Deployments on ECS Fargate](https://dev.to/aws-builders/zero-downtime-blue-green-and-ip-based-canary-deployments-on-ecs-fargate-4ea8)
-- [I reproduced a Claude Code RCE. The bug pattern is everywhere.](https://dev.to/piyush_gupta005/i-reproduced-a-claude-code-rce-the-bug-pattern-is-everywhere-4jo1)
+- [I Fed React&#39;s Entire Hooks Transition History to Gemma 4. Here&#39;s What It Found That We Missed.](https://dev.to/sujal_gupta_3dc0d9052e350/i-fed-reacts-entire-hooks-transition-history-to-gemma-4-heres-what-it-found-that-we-missed-3faf)
+- [Building a Private RAG System: Lessons from a Local-First AI Journal](https://dev.to/rahul_talreja_946a8621542/building-a-private-rag-system-lessons-from-a-local-first-ai-journal-2dol)
+- [CodePulse AI — Reviving an AI-Powered Repository Intelligence Platform](https://dev.to/codedbyasim/codepulse-ai-reviving-an-ai-powered-repository-intelligence-platform-2e43)
+- [Part 1: Taming Asynchronous JavaScript: How to Build a &quot;Mailbox&quot; Queue](https://dev.to/pckrishnadas88/part-1-taming-asynchronous-javascript-how-to-build-a-mailbox-queue-2jok)
+- [Building My AI-Powered VS Code Extension 🚀](https://dev.to/zuned_khan_bc1effe283b67c/building-my-ai-powered-vs-code-extension-4cdj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
