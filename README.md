@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Fed React&#39;s Entire Hooks Transition History to Gemma 4. Here&#39;s What It Found That We Missed.](https://dev.to/sujal_gupta_3dc0d9052e350/i-fed-reacts-entire-hooks-transition-history-to-gemma-4-heres-what-it-found-that-we-missed-3faf)
-- [Building a Private RAG System: Lessons from a Local-First AI Journal](https://dev.to/rahul_talreja_946a8621542/building-a-private-rag-system-lessons-from-a-local-first-ai-journal-2dol)
-- [CodePulse AI — Reviving an AI-Powered Repository Intelligence Platform](https://dev.to/codedbyasim/codepulse-ai-reviving-an-ai-powered-repository-intelligence-platform-2e43)
-- [Part 1: Taming Asynchronous JavaScript: How to Build a &quot;Mailbox&quot; Queue](https://dev.to/pckrishnadas88/part-1-taming-asynchronous-javascript-how-to-build-a-mailbox-queue-2jok)
-- [Building My AI-Powered VS Code Extension 🚀](https://dev.to/zuned_khan_bc1effe283b67c/building-my-ai-powered-vs-code-extension-4cdj)
+- [How I Caught and Fixed an N+1 Query in My Django REST API](https://dev.to/highcenburg/how-i-caught-and-fixed-an-n1-query-in-my-django-rest-api-36p5)
+- [How to Start Coding as a Student: A Complete Beginner’s Guide 🚀](https://dev.to/manju_devi_93d3af8012a762/how-to-start-coding-as-a-student-a-complete-beginners-guide-4pm8)
+- [Storing Kamal secrets in AWS Secrets Manager and deploying to a cheap Hetzner VPS](https://dev.to/godsloveady/storing-kamal-secrets-in-aws-secrets-manager-and-deploying-to-a-cheap-hetzner-vps-2262)
+- [What Are Buffers, Really?](https://dev.to/ho3na3/what-are-buffers-290m)
+- [Build AI Agents with Hot Dev](https://dev.to/curtissummers/build-ai-agents-with-hot-dev-3po6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
