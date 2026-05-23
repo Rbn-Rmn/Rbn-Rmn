@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Coding Agents Hallucinate and How to Fix It](https://dev.to/0xandrewshu/why-ai-coding-agents-hallucinate-and-how-to-fix-it-1lj0)
-- [PolicyAware vs Guardrails vs AI Gateways vs Model Routers: The Comparison Every AI Engineer Needs to Read](https://dev.to/ktirupati/policyaware-vs-guardrails-vs-ai-gateways-vs-model-routers-the-comparison-every-ai-engineer-needs-289p)
-- [Partner: An AI That Does Research While You Sleep](https://dev.to/zty522/partner-an-ai-that-does-research-while-you-sleep-jfl)
-- [Rugby Fundamentals as Software Concepts - Mapping the Pitch to your Code Base](https://dev.to/opango_timmy14/rugby-fundamentals-as-software-concepts-mapping-the-pitch-to-your-code-base-2fj7)
-- [I Let Claude Code Run Unsupervised for 24 Hours. Here&#39;s What Happened.](https://dev.to/numbpill3d/i-let-claude-code-run-unsupervised-for-24-hours-heres-what-happened-179a)
+- [Long-Context Models Killed RAG. Except for the 6 Cases Where They Made It Worse.](https://dev.to/gabrielanhaia/long-context-models-killed-rag-except-for-the-6-cases-where-they-made-it-worse-1ico)
+- [I Built a Neural Network Engine in C# That Runs in Your Browser - No ONNX Runtime, No JavaScript Bridge, No Native Binaries](https://dev.to/lostbeard/i-built-a-neural-network-engine-in-c-that-runs-in-your-browser-no-onnx-runtime-no-javascript-4aj3)
+- [An In-Depth Overview of the Apache Iceberg 1.11.0 Release](https://dev.to/alexmercedcoder/an-in-depth-overview-of-the-apache-iceberg-1110-release-4l1n)
+- [Your Agent Just Called the Same Tool 47 Times. Here&#39;s the 20-Line Detector.](https://dev.to/gabrielanhaia/your-agent-just-called-the-same-tool-47-times-heres-the-20-line-detector-59f1)
+- [How I Built a Multi-System Astrology Bot in Python &lpar;And What Meta Banned Me For&rpar;](https://dev.to/shustyk/how-i-built-a-multi-system-astrology-bot-in-python-and-what-meta-banned-me-for-1j4e)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
