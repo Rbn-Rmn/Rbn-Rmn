@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Tried Google Antigravity 2.0 Here&#39;s What It Actually Feels Like to Code With AI Agents By Isaac Yakubu | Google I/O 2026 Challenge Submission](https://dev.to/engrisaac/i-tried-google-antigravity-20-heres-what-it-actually-feels-like-to-code-with-ai-agents-by-isaac-4fdp)
-- [The growth quest picks what you avoid, not what you&#39;re already good at](https://dev.to/palo_alto_ai/the-growth-quest-picks-what-you-avoid-not-what-youre-already-good-at-4hl9)
-- [Firebase AI Logic&#39;s Template-Only Mode Is the Security Feature We Actually Needed](https://dev.to/paper_scratcher_bafb0086c/firebase-ai-logics-template-only-mode-is-the-security-feature-we-actually-needed-2o94)
-- [Hardware Guide: What Do You Actually Need to Run Local LLMs?](https://dev.to/lingdas1/hardware-guide-what-do-you-actually-need-to-run-local-llms-1eik)
-- [Constitutional Exception Committees: A Pattern for AI Agent Constraint Governance](https://dev.to/elia_airtisshmuelovitc/constitutional-exception-committees-a-pattern-for-ai-agent-constraint-governance-5a7h)
+- [Autonomous Agents Need Receipts, Not Just Reasoning](https://dev.to/tarunai/autonomous-agents-need-receipts-not-just-reasoning-1d1n)
+- [What 3.9M powerlifting records tell us about competition strategy — an EDA with Python](https://dev.to/evolve-space/what-39m-powerlifting-records-tell-us-about-competition-strategy-an-eda-with-python-5g6k)
+- [Dev.to Article Draft #13](https://dev.to/zny10289/devto-article-draft-13-2mkh)
+- [Beyond the Context Window: How to Build a Self-Improving AI Agent with Persistent Memory](https://dev.to/programmingcentral/beyond-the-context-window-how-to-build-a-self-improving-ai-agent-with-persistent-memory-31lh)
+- [Full Agentic Stack - 5 Ideias da Arquitetura &#39;AI-First&#39; que Vão Mudar a Forma Como Você Desenvolve Software](https://dev.to/fullagenticstack/full-agentic-stack-5-ideias-da-arquitetura-ai-first-que-vao-mudar-a-forma-como-voce-desenvolve-21l7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
