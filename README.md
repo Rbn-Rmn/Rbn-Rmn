@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [VPC CNI en EKS: cómo dejar de pagar nodos que no usás](https://dev.to/aws-builders/vpc-cni-en-eks-como-dejar-de-pagar-nodos-que-no-usas-3de0)
-- [The Future of Text Analysis: Introducing TechnoHelps Semantic Engine](https://dev.to/technohelpsofficial/the-future-of-text-analysis-introducing-technohelps-semantic-engine-2439)
-- [I built a Chrome Extension that saves product images + context directly to Google Drive &amp; Sheets](https://dev.to/chautnus/i-built-a-chrome-extension-that-saves-product-images-context-directly-to-google-drive-sheets-317m)
-- [95+ browser-based dev tools that never touch a server](https://dev.to/fnf_08927f0ffbd60a/95-browser-based-dev-tools-that-never-touch-a-server-3li6)
-- [Ghost Bugs Cost $40K: A Neural Debugging Postmortem](https://dev.to/mihokoto/ghost-bugs-cost-40k-a-neural-debugging-postmortem-1nb3)
+- [Event Triggers บน Garudust](https://dev.to/garudust/event-triggers-bn-garudust-4ji3)
+- [Event Loop: como o JavaScript executa código assíncrono](https://dev.to/rohyer/event-loop-como-o-javascript-executa-codigo-assincrono-59jd)
+- [5 Best AI Chatbot Plugins for WordPress in 2026 &lpar;Compared&rpar;](https://dev.to/wengjiyao/5-best-ai-chatbot-plugins-for-wordpress-in-2026-compared-1ch0)
+- [17 天 / 247 views / 0 sales — 我把 $9 PDF 砍掉，25 分鐘 spike 出新方向](https://dev.to/foxck016077/17-tian-247-views-0-sales-wo-ba-9-pdf-kan-diao-25-fen-zhong-spike-chu-xin-fang-xiang-d7h)
+- [Fractal Time Oriented Programming](https://dev.to/nikolaysuslov/fractal-time-oriented-programming-50nb)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
