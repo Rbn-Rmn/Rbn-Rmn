@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [From Legacy to Live — Reviving XMLPayments with GitHub Copilot](https://dev.to/printo_tom/-from-legacy-to-live-reviving-xmlpayments-with-github-copilot-427c)
-- [AI Agents in Practice — Read from the beginning](https://dev.to/gursharansingh/ai-agents-in-practice-read-from-the-beginning-1l5l)
-- [Reviving My Gemma Agentic Framework: From Prototype to Polished Repo](https://dev.to/printo_tom/reviving-my-gemma-agentic-framework-from-prototype-to-polished-repo-p2g)
-- [Smart Contracts Demand Better Infrastructure: Building on contract.dev](https://dev.to/binnadev/smart-contracts-demand-better-infrastructure-building-on-contractdev-3ha3)
-- [Self-Hosted LLM Tool Calling: Forge and the Build-vs-Buy Decision](https://dev.to/yash_pritwani_07a77613fd6/self-hosted-llm-tool-calling-forge-and-the-build-vs-buy-decision-3egn)
+- [The 11 Major Cloud Service Providers in 2025](https://dev.to/khushi_dubey/the-11-major-cloud-service-providers-in-2025-k54)
+- [Visualizing Database Design: From Interactive Canvas to Drizzle, Prisma, and SQL in Real-time](https://dev.to/ishaansharmadev/visualizing-database-design-from-interactive-canvasto-drizzle-prisma-and-sql-in-real-time-2een)
+- [A tool to make your GitHub README impossible to ignore 🚀](https://dev.to/dhanushnehru/a-tool-to-make-your-github-readme-impossible-to-ignore-19ac)
+- [Zero-Downtime Blue-Green and IP-Based Canary Deployments on ECS Fargate](https://dev.to/aws-builders/zero-downtime-blue-green-and-ip-based-canary-deployments-on-ecs-fargate-4ea8)
+- [I reproduced a Claude Code RCE. The bug pattern is everywhere.](https://dev.to/piyush_gupta005/i-reproduced-a-claude-code-rce-the-bug-pattern-is-everywhere-4jo1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
