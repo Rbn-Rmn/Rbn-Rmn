@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What Are Server-Sent Events &lpar;SSE&rpar;? A Developer&#39;s Guide for 2026](https://dev.to/napster_rj/what-are-server-sent-events-sse-a-developers-guide-for-2026-4jb6)
-- [How to Test WebSocket Connections Online in 2026 — A Debugging Field Guide](https://dev.to/napster_rj/how-to-test-websocket-connections-online-in-2026-a-debugging-field-guide-1m63)
-- [SSRS reports in F&amp;O: the RDP + Contract + Controller pattern](https://dev.to/sapotacorp/ssrs-reports-in-fo-the-rdp-contract-controller-pattern-1nl2)
-- [Google Built the Perfect Deepfake Engine. Can a Hidden Pixel Signal Stop the Chaos?](https://dev.to/kislay/google-built-the-perfect-deepfake-engine-can-a-hidden-pixel-signal-stop-the-chaos-2bkh)
-- [Welcome to our Organic Coding Future](https://dev.to/sachagreif/welcome-to-our-organic-coding-future-79l)
+- [What failing at building an AI agent taught me about building AI agents.](https://dev.to/frank-895/what-failing-at-building-an-ai-agent-taught-me-about-building-ai-agents-3f16)
+- [AI-Powered Conversational Multimodal RAG Dashboard[Gemma4]](https://dev.to/psathya/ai-powered-conversational-multimodal-rag-dashboardgemma4-gpe)
+- [I built an AI IDE where the AI tries to hack its own code here&#39;s how the swarm works](https://dev.to/malgatyuvraj/i-built-an-ai-ide-where-the-ai-tries-to-hack-its-own-code-heres-how-the-swarm-works-28a5)
+- [From Govhack Win to Something That Actually Matters](https://dev.to/ujja/from-govhack-win-to-something-that-actually-matters-2mmi)
+- [AI Coding &amp; Vibe Coding: Build Faster Without Losing the Plot](https://dev.to/nimay_04/ai-coding-vibe-coding-build-faster-without-losing-the-plot-b2c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
