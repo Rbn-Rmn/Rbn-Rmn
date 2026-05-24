@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Go Unit Testing: Structure &amp; Best Practices](https://dev.to/rosgluk/go-unit-testing-structure-best-practices-1k19)
-- [The cognitive bottleneck: rethinking velocity for AI-assisted development](https://dev.to/mrpercival/the-cognitive-bottleneck-rethinking-velocity-for-ai-assisted-development-2kjg)
-- [GitHub Bounty 赏金接单全攻略：从0到第一桶金](https://dev.to/yjgxkkk/github-bounty-shang-jin-jie-dan-quan-gong-lue-cong-0dao-di-tong-jin-1h3h)
-- [I Built a Mix Translation Tool in a Single HTML File](https://dev.to/chukiextra/i-built-a-mix-translation-tool-in-a-single-html-file-4dgc)
-- [LIKAS: An offline disaster companion for the Philippines, powered by on-device Gemma 4 E2B](https://dev.to/jpcurada/likas-an-offline-disaster-companion-for-the-philippines-powered-by-on-device-gemma-4-e2b-ao1)
+- [yard-fence 0.9.0: cleaner YARD docs when Markdown braces get in the way](https://dev.to/galtzo/yard-fence-090-cleaner-yard-docs-when-markdown-braces-get-in-the-way-2683)
+- [I Reviewed 9 Web Dev Studios in Kazakhstan Before Picking One — Here&#39;s What I Found &lpar;and Why the Stack Choice Shocked Me](https://dev.to/alterbing/i-reviewed-9-web-dev-studios-in-kazakhstan-before-picking-one-heres-what-i-found-and-why-the-41id)
+- [How Agentic AI Is Changing Cross-Border Payments &lpar;and What It Means for Developers&rpar;](https://dev.to/afriex/how-agentic-ai-is-changing-cross-border-payments-and-what-it-means-for-developers-3m12)
+- [I Didn&#39;t Write a Single Line of Code. I Built It Anyway.](https://dev.to/mikecase/i-didnt-write-a-single-line-of-code-i-built-it-anyway-3ln)
+- [Source Score: Continuing Exploration of LLM Usage in Automated Workflows](https://dev.to/semmet/source-score-continuing-exploration-of-llm-usage-in-automated-workflows-eoi)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
