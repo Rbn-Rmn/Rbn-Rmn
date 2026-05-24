@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Java reordering tool I wanted for years, so I finally built it](https://dev.to/antonlem/the-java-reordering-tool-i-wanted-for-years-so-i-finally-built-it-2ngc)
-- [&quot;VIBE CODING&quot; Exploring the future of app development where AI handles the heavy lifting based on the &#39;vibe&#39; you describe.&quot;](https://dev.to/ridwan_hamzat/vibe-coding-exploring-the-future-of-app-development-where-ai-handles-the-heavy-lifting-2l2g)
-- [Sentient Canvas: A Localized Agentic Workspace Powered by Google&#39;s Gemma 4](https://dev.to/jeffery_kachukwucide_d41c/sentient-canvas-a-localized-agentic-workspace-powered-by-googles-gemma-4-1gm5)
-- [I Bombed My First System Design Interviews. These 5 Concepts Were Why.](https://dev.to/aashna_mahajan/i-bombed-my-first-system-design-interviews-these-5-concepts-were-why-4nb3)
-- [Why Your PyTorch Training Crawls on a Beefy GPU &lpar;And How to Fix It&rpar;](https://dev.to/alanwest/why-your-pytorch-training-crawls-on-a-beefy-gpu-and-how-to-fix-it-52g8)
+- [I Replaced 70MB Node.js Log Viewer with a 172KB Zig Binary](https://dev.to/sulthonzh/i-replaced-70mb-nodejs-log-viewer-with-a-172kb-zig-binary-11c5)
+- [I Turned npm outdated into a CI Gate — Here&#39;s How](https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-1e0m)
+- [Don&#39;t fall for the Claude Mythos hype](https://dev.to/hulkinpublic/dont-fall-for-the-claude-mythos-hype-1lcl)
+- [Vestige: A Gemma 4 Brain Tracker That Won&#39;t Blow Smoke Up Your Ass](https://dev.to/anchildress1/vestige-a-gemma-4-brain-tracker-that-wont-blow-smoke-up-your-ass-5caf)
+- [Gemminate: Transforming Static Textbooks into Interactive Learning Journeys with Gemma 4](https://dev.to/folefac_martins_44a2bca70/gemminate-transforming-static-textbooks-into-interactive-learning-journeys-with-gemma-4-65g)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
