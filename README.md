@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What failing at building an AI agent taught me about building AI agents.](https://dev.to/frank-895/what-failing-at-building-an-ai-agent-taught-me-about-building-ai-agents-3f16)
-- [AI-Powered Conversational Multimodal RAG Dashboard[Gemma4]](https://dev.to/psathya/ai-powered-conversational-multimodal-rag-dashboardgemma4-gpe)
-- [I built an AI IDE where the AI tries to hack its own code here&#39;s how the swarm works](https://dev.to/malgatyuvraj/i-built-an-ai-ide-where-the-ai-tries-to-hack-its-own-code-heres-how-the-swarm-works-28a5)
-- [From Govhack Win to Something That Actually Matters](https://dev.to/ujja/from-govhack-win-to-something-that-actually-matters-2mmi)
-- [AI Coding &amp; Vibe Coding: Build Faster Without Losing the Plot](https://dev.to/nimay_04/ai-coding-vibe-coding-build-faster-without-losing-the-plot-b2c)
+- [My Impression of AI in Programming](https://dev.to/pauljlucas/my-impression-of-ai-in-programming-33ci)
+- [Stop Wasting Hours: The Production-Ready Laravel 12 + Docker Starter Kit &lpar;CI/CD Included&rpar;](https://dev.to/scriptman27/stop-wasting-hours-the-production-ready-laravel-12-docker-starter-kit-cicd-included-463n)
+- [Deploy Smart Contracts from Claude Desktop: ContractDeploy MCP Tools](https://dev.to/walletguy/deploy-smart-contracts-from-claude-desktop-contractdeploy-mcp-tools-5dpe)
+- [Diagnosing KubeAPIErrorBudgetBurn: When a 7-Year-Old Disk Takes Down Your Control Plane](https://dev.to/kashishtwts/diagnosing-kubeapierrorbudgetburn-when-a-7-year-old-disk-takes-down-your-control-plane-3md6)
+- [I built a demo for email personas – one inbox, multiple identities](https://dev.to/hj503x/i-built-a-demo-for-email-personas-one-inbox-multiple-identities-goi)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
