@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built a local first AI CCTV assistant using Gemma 4 + Frigate](https://dev.to/dhanushreddy29/i-built-a-local-first-ai-cctv-assistant-using-gemma-4-frigate-42m8)
-- [Your PDF Parser Is Failing You — Here&#39;s How to Fix It With One API Call](https://dev.to/savitar_ai/how-to-extract-text-from-pdfs-using-python-api-complete-beginner-guide-29el)
-- [CrowdShield AI — Smart Stadium Operating System &amp; Crowd Intelligence Platform](https://dev.to/abhisek_d36645346a8/crowdshield-ai-smart-stadium-operating-system-crowd-intelligence-platform-4m6e)
-- [I built a free AI observability tool, prove your AI is useful, not just running](https://dev.to/emmao/i-built-a-free-ai-observability-tool-prove-your-ai-is-useful-not-just-running-470a)
-- [Beyond Autocomplete: Why Google Antigravity 2.0 Changes the Rules for Indie Builders](https://dev.to/sandman_sh/beyond-autocomplete-why-google-antigravity-20-changes-the-rules-for-indie-builders-1i4)
+- [Stop Flying Blind: We Built an LLM Evaluation Framework That Works Across 17+ Agent Frameworks](https://dev.to/anjaiahspr/stop-flying-blind-we-built-an-llm-evaluation-framework-that-works-across-17-agent-frameworks-1698)
+- [The Misleading &quot;User is not authorized to access connection&quot; Error in AWS CodeBuild — and Why Your IAM Policy Looks Fine](https://dev.to/morganw/the-misleading-user-is-not-authorized-to-access-connection-error-in-aws-codebuild-and-why-your-191a)
+- [I Resurrected a Dead F1 Project and Accidentally Built a Race Intelligence OS](https://dev.to/nilamadhab47/i-resurrected-a-dead-f1-project-and-accidentally-built-a-race-intelligence-os-2886)
+- [Remix Mini PC: After a Year of Dead Ends, the eMMC Finally Talks](https://dev.to/matemiller/remix-mini-pc-after-a-year-of-dead-ends-the-emmc-finally-talks-16p6)
+- [Not All Games Are Equal: The Real Difference Between a Trap and a Tool](https://dev.to/wetcat/not-all-games-are-equal-the-real-difference-between-a-trap-and-a-tool-5gf0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
