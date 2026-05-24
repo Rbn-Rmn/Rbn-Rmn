@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My Impression of AI in Programming](https://dev.to/pauljlucas/my-impression-of-ai-in-programming-33ci)
-- [Stop Wasting Hours: The Production-Ready Laravel 12 + Docker Starter Kit &lpar;CI/CD Included&rpar;](https://dev.to/scriptman27/stop-wasting-hours-the-production-ready-laravel-12-docker-starter-kit-cicd-included-463n)
-- [Deploy Smart Contracts from Claude Desktop: ContractDeploy MCP Tools](https://dev.to/walletguy/deploy-smart-contracts-from-claude-desktop-contractdeploy-mcp-tools-5dpe)
-- [Diagnosing KubeAPIErrorBudgetBurn: When a 7-Year-Old Disk Takes Down Your Control Plane](https://dev.to/kashishtwts/diagnosing-kubeapierrorbudgetburn-when-a-7-year-old-disk-takes-down-your-control-plane-3md6)
-- [I built a demo for email personas – one inbox, multiple identities](https://dev.to/hj503x/i-built-a-demo-for-email-personas-one-inbox-multiple-identities-goi)
+- [Reading Log #5 — Aoashi Seeing Like a State Distinction](https://dev.to/machuz/reading-log-5-aoashi-x-seeing-like-a-state-x-distinction-6i)
+- [[Boost]](https://dev.to/ikrahul/-4ipd)
+- [How to Build a Clinical Trial Search App in 5 Minutes - Clinical Trials API Tutorial](https://dev.to/ikrahul/how-to-build-a-clinical-trial-search-app-in-5-minutes-clinical-trials-api-tutorial-39de)
+- [Gemma For Dummies: I Knew Nothing. Now I&#39;m Running AI on My Laptop.](https://dev.to/aditthya/gemma-for-dummies-i-knew-nothing-now-im-running-ai-on-my-laptop-pi2)
+- [Why Every Student Developer Should Know About Microsoft Imagine Cup 🚀](https://dev.to/gidado_mukhtarbalangoggo/why-every-student-developer-should-know-about-microsoft-imagine-cup-afj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
