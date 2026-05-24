@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I bypassed Blazor WebAssembly&#39;s Virtual DOM using raw WASM pointers](https://dev.to/unitbuilds_cc/how-i-bypassed-blazor-webassemblys-virtual-dom-using-raw-wasm-pointers-4jn7)
-- [Distributed Tracing for LLM Agents: When MCP Makes Tool Calls Observable](https://dev.to/ekb-dev/distributed-tracing-for-llm-agents-when-mcp-makes-tool-calls-observable-54gb)
-- [I Built an AI Second Brain with Gemma 4](https://dev.to/qamar_dev_01/i-built-an-ai-second-brain-with-gemma-4-5370)
-- [The Most Exciting Google I/O 2026 Announcement for Me: HTML-in-Canvas](https://dev.to/goldenthrust/the-most-exciting-google-io-2026-announcement-for-me-html-in-canvas-2jea)
-- [CrisisLens: Compressing Disaster Scenes into 200-Byte Emergency Payloads with Gemma 4](https://dev.to/msteja/crisislens-compressing-disaster-scenes-into-200-byte-emergency-payloads-with-gemma-4-130d)
+- [I built a local first AI CCTV assistant using Gemma 4 + Frigate](https://dev.to/dhanushreddy29/i-built-a-local-first-ai-cctv-assistant-using-gemma-4-frigate-42m8)
+- [Your PDF Parser Is Failing You — Here&#39;s How to Fix It With One API Call](https://dev.to/savitar_ai/how-to-extract-text-from-pdfs-using-python-api-complete-beginner-guide-29el)
+- [CrowdShield AI — Smart Stadium Operating System &amp; Crowd Intelligence Platform](https://dev.to/abhisek_d36645346a8/crowdshield-ai-smart-stadium-operating-system-crowd-intelligence-platform-4m6e)
+- [I built a free AI observability tool, prove your AI is useful, not just running](https://dev.to/emmao/i-built-a-free-ai-observability-tool-prove-your-ai-is-useful-not-just-running-470a)
+- [Beyond Autocomplete: Why Google Antigravity 2.0 Changes the Rules for Indie Builders](https://dev.to/sandman_sh/beyond-autocomplete-why-google-antigravity-20-changes-the-rules-for-indie-builders-1i4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
