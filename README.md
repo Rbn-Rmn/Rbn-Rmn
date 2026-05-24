@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I stopped uploading my files to random websites and built my own tools instead](https://dev.to/puretools/i-stopped-uploading-my-files-to-random-websites-and-built-my-own-tools-instead-1h5l)
-- [Context window == RAM?](https://dev.to/mekickdemonscreator/context-window-ram-2g14)
-- [A note on building reliability infrastructure for AI agents and why post-incident debugging matters more than pre-flight validation.](https://dev.to/saferunai/a-note-on-building-reliability-infrastructure-for-ai-agents-and-why-post-incident-debugging-matters-1jf8)
-- [Claude Code vs Cursor AI: Which Should You Use in 2026?](https://dev.to/thedevbrief/claude-code-vs-cursor-ai-which-should-you-use-in-2026-18c3)
-- [&quot;I Tried Google Antigravity 2.0 — Here&#39;s Why It&#39;s Not Just Another Cursor Clone&quot;](https://dev.to/zaza_ziro_25a/i-tried-google-antigravity-20-heres-why-its-not-just-another-cursor-clone-ggi)
+- [Go Unit Testing: Structure &amp; Best Practices](https://dev.to/rosgluk/go-unit-testing-structure-best-practices-1k19)
+- [The cognitive bottleneck: rethinking velocity for AI-assisted development](https://dev.to/mrpercival/the-cognitive-bottleneck-rethinking-velocity-for-ai-assisted-development-2kjg)
+- [GitHub Bounty 赏金接单全攻略：从0到第一桶金](https://dev.to/yjgxkkk/github-bounty-shang-jin-jie-dan-quan-gong-lue-cong-0dao-di-tong-jin-1h3h)
+- [I Built a Mix Translation Tool in a Single HTML File](https://dev.to/chukiextra/i-built-a-mix-translation-tool-in-a-single-html-file-4dgc)
+- [LIKAS: An offline disaster companion for the Philippines, powered by on-device Gemma 4 E2B](https://dev.to/jpcurada/likas-an-offline-disaster-companion-for-the-philippines-powered-by-on-device-gemma-4-e2b-ao1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
