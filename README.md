@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Reading Log #5 — Aoashi Seeing Like a State Distinction](https://dev.to/machuz/reading-log-5-aoashi-x-seeing-like-a-state-x-distinction-6i)
-- [[Boost]](https://dev.to/ikrahul/-4ipd)
-- [How to Build a Clinical Trial Search App in 5 Minutes - Clinical Trials API Tutorial](https://dev.to/ikrahul/how-to-build-a-clinical-trial-search-app-in-5-minutes-clinical-trials-api-tutorial-39de)
-- [Gemma For Dummies: I Knew Nothing. Now I&#39;m Running AI on My Laptop.](https://dev.to/aditthya/gemma-for-dummies-i-knew-nothing-now-im-running-ai-on-my-laptop-pi2)
-- [Why Every Student Developer Should Know About Microsoft Imagine Cup 🚀](https://dev.to/gidado_mukhtarbalangoggo/why-every-student-developer-should-know-about-microsoft-imagine-cup-afj)
+- [How I bypassed Blazor WebAssembly&#39;s Virtual DOM using raw WASM pointers](https://dev.to/unitbuilds_cc/how-i-bypassed-blazor-webassemblys-virtual-dom-using-raw-wasm-pointers-4jn7)
+- [Distributed Tracing for LLM Agents: When MCP Makes Tool Calls Observable](https://dev.to/ekb-dev/distributed-tracing-for-llm-agents-when-mcp-makes-tool-calls-observable-54gb)
+- [I Built an AI Second Brain with Gemma 4](https://dev.to/qamar_dev_01/i-built-an-ai-second-brain-with-gemma-4-5370)
+- [The Most Exciting Google I/O 2026 Announcement for Me: HTML-in-Canvas](https://dev.to/goldenthrust/the-most-exciting-google-io-2026-announcement-for-me-html-in-canvas-2jea)
+- [CrisisLens: Compressing Disaster Scenes into 200-Byte Emergency Payloads with Gemma 4](https://dev.to/msteja/crisislens-compressing-disaster-scenes-into-200-byte-emergency-payloads-with-gemma-4-130d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
