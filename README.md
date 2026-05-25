@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How Secure LoRa Communication Devices Work: Building the Future of Private and Long-Range Connectivity Author: Shivam Wakade | Founder, PrivSR](https://dev.to/shivam_wakade_privsr/how-secure-lora-communication-devices-work-building-the-future-of-private-and-long-range-26e8)
-- [How I Rebuilt an RPG Map Editor with Rust, React, and WASM](https://dev.to/thexper_f46a597a4e23988d2/reworking-the-rpg-map-editor-10g0)
-- [Building a System That Automates YouTube Post-Production](https://dev.to/satyamskillz/building-a-system-that-automates-youtube-post-production-55d)
-- [Building a 100% Serverless Digital Asset Packager in the Browser](https://dev.to/assetforge_labs_1a43f338a/building-a-100-serverless-digital-asset-packager-in-the-browser-31j8)
-- [Game Recommended AI](https://dev.to/alejandrotg-code/game-recommended-ai-2b9a)
+- [GoBadge Dynamic: From Module Stats to Universal Badges](https://dev.to/cinfinitedev_engine/gobadge-dynamic-from-module-stats-to-universal-badges-361l)
+- [LangGraph 워크플로우 템플릿 &lpar;v39&rpar;](https://dev.to/matias_yoon_738a24cb1190f/langgraph-weokeupeulrou-tempeulris-v39-293)
+- [The git Commands You Forgot Exist &lpar;And Why AI Workflows Make Them Relevant Again&rpar;](https://dev.to/copyleftdev/the-git-commands-you-forgot-exist-and-why-ai-workflows-make-them-relevant-again-2gb8)
+- [Six Levels of MCP Servers](https://dev.to/david_golverdingen_b133a5/six-levels-of-mcp-servers-2b25)
+- [One container to replace Grafana + Loki + Tempo + Prometheus](https://dev.to/adiakys/one-container-to-replace-grafana-loki-tempo-prometheus-1kki)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
