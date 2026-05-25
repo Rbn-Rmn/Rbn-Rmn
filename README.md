@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Trishul SNMP Suite 2.0.1: Better MIBs, Traps, and SNMP Labs](https://dev.to/tosumitdhaka/trishul-snmp-suite-201-better-mibs-traps-and-snmp-labs-196f)
-- [India’s Laws Were Not Built for AI — And Courts Are Filling the Gap](https://dev.to/legalcastlegroup/indias-laws-were-not-built-for-ai-and-courts-are-filling-the-gap-5fm4)
-- [skill-insp: A Skill That Scores Other Skills](https://dev.to/conanttu/skill-insp-a-skill-that-scores-other-skills-3gga)
-- [Clprolf Minimalist](https://dev.to/charles_koffler_bcabc582b/clprolf-minimalist-mf8)
-- [Messaging in the Age of AI](https://dev.to/pravin-khandke/messaging-in-the-age-of-ai-26h7)
+- [How Secure LoRa Communication Devices Work: Building the Future of Private and Long-Range Connectivity Author: Shivam Wakade | Founder, PrivSR](https://dev.to/shivam_wakade_privsr/how-secure-lora-communication-devices-work-building-the-future-of-private-and-long-range-26e8)
+- [How I Rebuilt an RPG Map Editor with Rust, React, and WASM](https://dev.to/thexper_f46a597a4e23988d2/reworking-the-rpg-map-editor-10g0)
+- [Building a System That Automates YouTube Post-Production](https://dev.to/satyamskillz/building-a-system-that-automates-youtube-post-production-55d)
+- [Building a 100% Serverless Digital Asset Packager in the Browser](https://dev.to/assetforge_labs_1a43f338a/building-a-100-serverless-digital-asset-packager-in-the-browser-31j8)
+- [Game Recommended AI](https://dev.to/alejandrotg-code/game-recommended-ai-2b9a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
