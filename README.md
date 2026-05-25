@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [E-commerce Order Automation: Stripe + Invoice + Shipping Workflow](https://dev.to/iurii_rogulia/e-commerce-order-automation-stripe-invoice-shipping-workflow-1iaf)
-- [How to Evaluate AI Agents: LLM-as-Judge Tutorial](https://dev.to/aws/how-to-evaluate-ai-agents-llm-as-judge-tutorial-4a6h)
-- [The Interview Prep Stack I Used as a Senior Software Engineer Targeting Big Tech](https://dev.to/emily_davis_6bf6e94308541/the-interview-prep-stack-i-used-as-a-senior-software-engineer-targeting-big-tech-kk4)
-- [Gemma4 Challenge](https://dev.to/jowi00000/gemma4-challenge-356b)
-- [OptiLearn - Powered by Google Gemma 4](https://dev.to/sasiru_virajith/optilearn-powered-by-google-gemma-4-2c7m)
+- [Deploying Your First App on Kubernetes: A Beginner&#39;s Guide &lpar;Minikube &amp; Kind&rpar;](https://dev.to/emmsddev/deploying-your-first-app-on-kubernetes-a-beginners-guide-minikube-kind-3654)
+- [Logs in code](https://dev.to/fcharles/logs-in-code-58hi)
+- [It&#39;s called a PR &quot;review&quot; for a reason](https://dev.to/satejbidvai/its-called-a-pr-review-for-a-reason-4bi8)
+- [DePIN GPU Market: The Failed Job Receipt Developers Should Demand](https://dev.to/aicryptosystems/depin-gpu-market-the-failed-job-receipt-developers-should-demand-40n3)
+- [Why Your AI Agent Monitoring is Wrong &lpar;And How to Fix It&rpar;](https://dev.to/ajaydevineni/why-your-ai-agent-monitoring-is-wrong-and-how-to-fix-it-1b25)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
