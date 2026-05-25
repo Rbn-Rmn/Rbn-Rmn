@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Topical Authority Architecture](https://dev.to/joseph_anady_214bacedf939/topical-authority-architecture-pp0)
-- [Inside Hermes Agent&#39;s Session Memory: What X-Hermes-Session-Id Actually Does](https://dev.to/pulkitgovrani/inside-hermes-agents-session-memory-what-x-hermes-session-id-actually-does-1p0d)
-- [How Logs Travel From Your EKS Pod to Datadog The Hidden Journey Inside / Kubernetes](https://dev.to/diya_r/how-logs-travel-from-your-eks-pod-to-datadog-the-hidden-journey-inside-kubernetes-33pe)
-- [Is it safe to connect my bank account to AI?](https://dev.to/fincontextai/is-it-safe-to-connect-my-bank-account-to-ai-2goj)
-- [No Room — The World of Aying &lpar;8/12&rpar;](https://dev.to/aying/no-room-the-world-of-aying-812-1602)
+- [E-commerce Order Automation: Stripe + Invoice + Shipping Workflow](https://dev.to/iurii_rogulia/e-commerce-order-automation-stripe-invoice-shipping-workflow-1iaf)
+- [How to Evaluate AI Agents: LLM-as-Judge Tutorial](https://dev.to/aws/how-to-evaluate-ai-agents-llm-as-judge-tutorial-4a6h)
+- [The Interview Prep Stack I Used as a Senior Software Engineer Targeting Big Tech](https://dev.to/emily_davis_6bf6e94308541/the-interview-prep-stack-i-used-as-a-senior-software-engineer-targeting-big-tech-kk4)
+- [Gemma4 Challenge](https://dev.to/jowi00000/gemma4-challenge-356b)
+- [OptiLearn - Powered by Google Gemma 4](https://dev.to/sasiru_virajith/optilearn-powered-by-google-gemma-4-2c7m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
