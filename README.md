@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Found a Tool That Generates a Complete .NET 8 or Java Spring Boot API From SQL Schema in 30 Seconds](https://dev.to/hbaswapu/i-found-a-tool-that-generates-a-complete-net-8-or-java-spring-boot-api-from-sql-schema-in-30-3n00)
-- [I Added a 4th Agent That Audits My Other Agents. It Caught My Strategist Procrastinating for 3 Weeks.](https://dev.to/kenimo49/i-added-a-4th-agent-that-audits-my-other-agents-it-caught-my-strategist-procrastinating-for-3-cg)
-- [Streaming LLM responses to the browser in Go &lpar;Server-Sent Events&rpar;](https://dev.to/ayinedjimi-consultants/streaming-llm-responses-to-the-browser-in-go-server-sent-events-11on)
-- [A prompt is not a conversation. It&#39;s a component contract.](https://dev.to/csalda3a/a-prompt-is-not-a-conversation-its-a-component-contract-4jk8)
-- [How to Pass the EAA 2025 Accessibility Audit — A Step-by-Step WCAG Checklist](https://dev.to/toolkitonline/how-to-pass-the-eaa-2025-accessibility-audit-a-step-by-step-wcag-checklist-1kl)
+- [دليل بوابات الدفع للتاجر العربي في 2026 &lpar;وكيف تختار المناسبة لمتجرك&rpar;](https://dev.to/doonfrs/dlyl-bwbt-ldf-lltjr-lrby-fy-2026-wkyf-tkhtr-lmnsb-lmtjrk-22mi)
+- [How My Docker Setup Saved Me From a Supply Chain Attack &lpar;And Why Yours Should Too&rpar;](https://dev.to/hschimpf/how-my-docker-setup-saved-me-from-a-supply-chain-attack-and-why-yours-should-too-59lk)
+- [Technical Update](https://dev.to/evgeniy_karafinka_ae5681c/technical-update-47ae)
+- [I Gave My AI Agent the Ability to Research Before It Writes — Here’s What Changed](https://dev.to/ivancazares2k/i-gave-my-ai-agent-the-ability-to-research-before-it-writes-heres-what-changed-d9)
+- [Kubernetes sem Cloud Provider &lpar;Parte 2&rpar;: Criando Operators em Go para automação e self-service de plataforma](https://dev.to/pramos/kubernetes-sem-cloud-provider-parte-2-criando-operators-em-go-para-automacao-e-self-service-de-1pp9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
