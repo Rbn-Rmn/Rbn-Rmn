@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Replaced 70MB Node.js Log Viewer with a 172KB Zig Binary](https://dev.to/sulthonzh/i-replaced-70mb-nodejs-log-viewer-with-a-172kb-zig-binary-11c5)
-- [I Turned npm outdated into a CI Gate — Here&#39;s How](https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-1e0m)
-- [Don&#39;t fall for the Claude Mythos hype](https://dev.to/hulkinpublic/dont-fall-for-the-claude-mythos-hype-1lcl)
-- [Vestige: A Gemma 4 Brain Tracker That Won&#39;t Blow Smoke Up Your Ass](https://dev.to/anchildress1/vestige-a-gemma-4-brain-tracker-that-wont-blow-smoke-up-your-ass-5caf)
-- [Gemminate: Transforming Static Textbooks into Interactive Learning Journeys with Gemma 4](https://dev.to/folefac_martins_44a2bca70/gemminate-transforming-static-textbooks-into-interactive-learning-journeys-with-gemma-4-65g)
+- [Topical Authority Architecture](https://dev.to/joseph_anady_214bacedf939/topical-authority-architecture-pp0)
+- [Inside Hermes Agent&#39;s Session Memory: What X-Hermes-Session-Id Actually Does](https://dev.to/pulkitgovrani/inside-hermes-agents-session-memory-what-x-hermes-session-id-actually-does-1p0d)
+- [How Logs Travel From Your EKS Pod to Datadog The Hidden Journey Inside / Kubernetes](https://dev.to/diya_r/how-logs-travel-from-your-eks-pod-to-datadog-the-hidden-journey-inside-kubernetes-33pe)
+- [Is it safe to connect my bank account to AI?](https://dev.to/fincontextai/is-it-safe-to-connect-my-bank-account-to-ai-2goj)
+- [No Room — The World of Aying &lpar;8/12&rpar;](https://dev.to/aying/no-room-the-world-of-aying-812-1602)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
