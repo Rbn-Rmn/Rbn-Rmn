@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [دليل بوابات الدفع للتاجر العربي في 2026 &lpar;وكيف تختار المناسبة لمتجرك&rpar;](https://dev.to/doonfrs/dlyl-bwbt-ldf-lltjr-lrby-fy-2026-wkyf-tkhtr-lmnsb-lmtjrk-22mi)
-- [How My Docker Setup Saved Me From a Supply Chain Attack &lpar;And Why Yours Should Too&rpar;](https://dev.to/hschimpf/how-my-docker-setup-saved-me-from-a-supply-chain-attack-and-why-yours-should-too-59lk)
-- [Technical Update](https://dev.to/evgeniy_karafinka_ae5681c/technical-update-47ae)
-- [I Gave My AI Agent the Ability to Research Before It Writes — Here’s What Changed](https://dev.to/ivancazares2k/i-gave-my-ai-agent-the-ability-to-research-before-it-writes-heres-what-changed-d9)
-- [Kubernetes sem Cloud Provider &lpar;Parte 2&rpar;: Criando Operators em Go para automação e self-service de plataforma](https://dev.to/pramos/kubernetes-sem-cloud-provider-parte-2-criando-operators-em-go-para-automacao-e-self-service-de-1pp9)
+- [Access Control Doesn&#39;t Scale Linearly -- Part 3](https://dev.to/anusha_mukka/access-control-doesnt-scale-linearly-part-3-33h6)
+- [33x faster than Rust: Why I stopped waiting for my compiler and built my own.](https://dev.to/jai_lalawat_84c750c65b525/33x-faster-than-rust-why-i-stopped-waiting-for-my-compiler-and-built-my-own-3l40)
+- [I Built My First Production AWS Project as a Career Changer](https://dev.to/murphym757/i-built-my-first-production-aws-project-as-a-career-changer-e4l)
+- [Why Detecting PII Matters More Than Ever](https://dev.to/cautionlabs/why-detecting-pii-matters-more-than-ever-2kha)
+- [Python Tasks](https://dev.to/gunalan22082002/python-tasks-13f2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
