@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [DS - while loop](https://dev.to/arabdiv9/ds-while-loop-4iop)
-- [Comment structurer une API simple avec Go pour plus de clarté](https://dev.to/_notbu7ch/comment-structurer-une-api-simple-avec-go-pour-plus-de-clarte-38g9)
-- [Complete llms.txt guide for 2026](https://dev.to/lab451/complete-llmstxt-guide-for-2026-57d)
-- [Cinema Seat Reservation System — From Baseline Local Development To Live Cloud-Native Production — Part 1: Overview &amp; Architecture](https://dev.to/mazenaly256/cinema-seat-reservation-system-from-baseline-local-development-to-live-cloud-native-production--1d9i)
-- [As someone who is trying to Develop an engineering mindset, this article strongly resonated with the struggles I have faced trying to understand software development from a systems first perspective rather than language first. This is good advice.](https://dev.to/codekuti/as-someone-who-is-trying-to-develop-an-engineering-mindset-this-article-strongly-resonated-with-gk3)
+- [No More Waiting in Line: How I Built a Web-Based Canteen Queue Management System with Flask and MongoDB](https://dev.to/lakshmi_saravanan_97901df/no-more-waiting-in-line-how-i-built-a-web-based-canteen-queue-management-system-with-flask-and-52l)
+- [Deploying Unbound Validating DNS Resolver on Ubuntu 24.04](https://dev.to/vultr/deploying-unbound-validating-dns-resolver-on-ubuntu-2404-4pn6)
+- [Deploying Prometheus Metrics Collection Server on Ubuntu 24.04](https://dev.to/vultr/deploying-prometheus-metrics-collection-server-on-ubuntu-2404-47di)
+- [AWS IAM Roles Anywhere Hands-On](https://dev.to/kanywst/iam-roles-anywhere-hands-on-2fh8)
+- [Deploying Grafana Metrics Visualization Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-grafana-metrics-visualization-platform-on-ubuntu-2404-553j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
