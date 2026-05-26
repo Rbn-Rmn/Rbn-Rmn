@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Access Control Doesn&#39;t Scale Linearly -- Part 3](https://dev.to/anusha_mukka/access-control-doesnt-scale-linearly-part-3-33h6)
-- [33x faster than Rust: Why I stopped waiting for my compiler and built my own.](https://dev.to/jai_lalawat_84c750c65b525/33x-faster-than-rust-why-i-stopped-waiting-for-my-compiler-and-built-my-own-3l40)
-- [I Built My First Production AWS Project as a Career Changer](https://dev.to/murphym757/i-built-my-first-production-aws-project-as-a-career-changer-e4l)
-- [Why Detecting PII Matters More Than Ever](https://dev.to/cautionlabs/why-detecting-pii-matters-more-than-ever-2kha)
-- [Python Tasks](https://dev.to/gunalan22082002/python-tasks-13f2)
+- [DS - while loop](https://dev.to/arabdiv9/ds-while-loop-4iop)
+- [Comment structurer une API simple avec Go pour plus de clarté](https://dev.to/_notbu7ch/comment-structurer-une-api-simple-avec-go-pour-plus-de-clarte-38g9)
+- [Complete llms.txt guide for 2026](https://dev.to/lab451/complete-llmstxt-guide-for-2026-57d)
+- [Cinema Seat Reservation System — From Baseline Local Development To Live Cloud-Native Production — Part 1: Overview &amp; Architecture](https://dev.to/mazenaly256/cinema-seat-reservation-system-from-baseline-local-development-to-live-cloud-native-production--1d9i)
+- [As someone who is trying to Develop an engineering mindset, this article strongly resonated with the struggles I have faced trying to understand software development from a systems first perspective rather than language first. This is good advice.](https://dev.to/codekuti/as-someone-who-is-trying-to-develop-an-engineering-mindset-this-article-strongly-resonated-with-gk3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
