@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Built Semantic Discussion Clustering Without Embeddings &lpar;and Why It Was Good Enough&rpar;](https://dev.to/mervindublin/how-i-built-semantic-discussion-clustering-without-embeddings-and-why-it-was-good-enough-21dl)
-- [I Built a Real-Time Simulation Game in a Single HTML File &lpar;Without React or Custom JavaScript&rpar;](https://dev.to/idevgames/i-built-a-real-time-simulation-game-in-a-single-html-file-without-react-or-custom-javascript-262p)
-- [I Got Tired of SNMP Dev Hell, So I Built Trishul SNMP Suite](https://dev.to/tosumitdhaka/i-got-tired-of-snmp-dev-hell-so-i-built-trishul-snmp-suite-35jl)
-- [98. RAG: Give Your AI Access to Your Documents](https://dev.to/yakhilesh/98-rag-give-your-ai-access-to-your-documents-f3b)
-- [Why Getting a Tech Job Right Now Feels Broken?](https://dev.to/alvisonhunter/why-getting-a-tech-job-right-now-feels-broken-2jc4)
+- [When the Runtime Was the Wall: How Rust Broke a 50 ms SLA and Saved the Day](https://dev.to/built-from-africa/when-the-runtime-was-the-wall-how-rust-broke-a-50-ms-sla-and-saved-the-day-3gd)
+- [🎤 Building a Real-Time Voice AI Assistant Using Open Source Tools](https://dev.to/kailashdev/building-a-real-time-voice-ai-assistant-using-open-source-tools-1gcj)
+- [I Benchmarked 5 Voice AI Stacks. Only 2 Stayed Under 300ms.](https://dev.to/kenimo49/i-benchmarked-5-voice-ai-stacks-only-2-stayed-under-300ms-2bka)
+- [I built AimVantage — an AI tool that turns your CV + a job link into a full interview prep pack in 90 seconds](https://dev.to/goofypluto999/i-built-aimvantage-an-ai-tool-that-turns-your-cv-a-job-link-into-a-full-interview-prep-pack-in-54jc)
+- [Your LLM Is Wrong. Your Codebase Is Why.](https://dev.to/mudassirworks/your-llm-is-wrong-your-codebase-is-why-1jjp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
