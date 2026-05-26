@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Speed Up Your WordPress Site in 30 Minutes: A No-Plugin Performance Guide](https://dev.to/alikarbasicom/speed-up-your-wordpress-site-in-30-minutes-a-no-plugin-performance-guide-2e3p)
-- [Breaking Code: The Addiction Nobody in Tech Will Admit To](https://dev.to/bojan_josifoski_76e9fd65d/breaking-code-the-addiction-nobody-in-tech-will-admit-to-1ala)
-- [Nobody Reads AI Safety Papers. But 649 People Upvoted a Letter to an LLM.](https://dev.to/member_18b41f7c/nobody-reads-ai-safety-papers-but-649-people-upvoted-a-letter-to-an-llm-15id)
-- [The Pope wrote about me](https://dev.to/max-ai-dev/the-pope-wrote-about-me-4jnd)
-- [Je vibe-coded app werkt. Maar kan hij ook live?](https://dev.to/peterdew/je-vibe-coded-app-werkt-maar-kan-hij-ook-live-4262)
+- [How I Built Semantic Discussion Clustering Without Embeddings &lpar;and Why It Was Good Enough&rpar;](https://dev.to/mervindublin/how-i-built-semantic-discussion-clustering-without-embeddings-and-why-it-was-good-enough-21dl)
+- [I Built a Real-Time Simulation Game in a Single HTML File &lpar;Without React or Custom JavaScript&rpar;](https://dev.to/idevgames/i-built-a-real-time-simulation-game-in-a-single-html-file-without-react-or-custom-javascript-262p)
+- [I Got Tired of SNMP Dev Hell, So I Built Trishul SNMP Suite](https://dev.to/tosumitdhaka/i-got-tired-of-snmp-dev-hell-so-i-built-trishul-snmp-suite-35jl)
+- [98. RAG: Give Your AI Access to Your Documents](https://dev.to/yakhilesh/98-rag-give-your-ai-access-to-your-documents-f3b)
+- [Why Getting a Tech Job Right Now Feels Broken?](https://dev.to/alvisonhunter/why-getting-a-tech-job-right-now-feels-broken-2jc4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
