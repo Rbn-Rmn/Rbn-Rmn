@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [When the Runtime Was the Wall: How Rust Broke a 50 ms SLA and Saved the Day](https://dev.to/built-from-africa/when-the-runtime-was-the-wall-how-rust-broke-a-50-ms-sla-and-saved-the-day-3gd)
-- [🎤 Building a Real-Time Voice AI Assistant Using Open Source Tools](https://dev.to/kailashdev/building-a-real-time-voice-ai-assistant-using-open-source-tools-1gcj)
-- [I Benchmarked 5 Voice AI Stacks. Only 2 Stayed Under 300ms.](https://dev.to/kenimo49/i-benchmarked-5-voice-ai-stacks-only-2-stayed-under-300ms-2bka)
-- [I built AimVantage — an AI tool that turns your CV + a job link into a full interview prep pack in 90 seconds](https://dev.to/goofypluto999/i-built-aimvantage-an-ai-tool-that-turns-your-cv-a-job-link-into-a-full-interview-prep-pack-in-54jc)
-- [Your LLM Is Wrong. Your Codebase Is Why.](https://dev.to/mudassirworks/your-llm-is-wrong-your-codebase-is-why-1jjp)
+- [Why &#39;AI Without Hype&#39; Stopped Differentiating in 2026](https://dev.to/studiomeyer_io/why-ai-without-hype-stopped-differentiating-in-2026-4ah4)
+- [A SEC filing research prompt pack for source-aware stock research](https://dev.to/gandalfthegato/a-sec-filing-research-prompt-pack-for-source-aware-stock-research-152e)
+- [SchemaSpy vs SchemaCrawler - Which Database Documentation Tool is Right for You?](https://dev.to/sualeh/schemaspy-vs-schemacrawler-which-database-documentation-tool-is-right-for-you-3do9)
+- [One of the First Public HiDream-O1-Image LoRAs — and How to Train Your Own](https://dev.to/shinji_shimizu_bb51276a5e/one-of-the-first-public-hidream-o1-image-loras-and-how-to-train-your-own-5hd1)
+- [Human-in-the-Loop: The Most Important Concept in AI That Keeps You Employed](https://dev.to/vektor_memory_43f51a32376/human-in-the-loop-the-most-important-concept-in-ai-that-keeps-you-employed-2df0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
