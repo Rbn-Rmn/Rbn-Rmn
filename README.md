@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [No More Waiting in Line: How I Built a Web-Based Canteen Queue Management System with Flask and MongoDB](https://dev.to/lakshmi_saravanan_97901df/no-more-waiting-in-line-how-i-built-a-web-based-canteen-queue-management-system-with-flask-and-52l)
-- [Deploying Unbound Validating DNS Resolver on Ubuntu 24.04](https://dev.to/vultr/deploying-unbound-validating-dns-resolver-on-ubuntu-2404-4pn6)
-- [Deploying Prometheus Metrics Collection Server on Ubuntu 24.04](https://dev.to/vultr/deploying-prometheus-metrics-collection-server-on-ubuntu-2404-47di)
-- [AWS IAM Roles Anywhere Hands-On](https://dev.to/kanywst/iam-roles-anywhere-hands-on-2fh8)
-- [Deploying Grafana Metrics Visualization Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-grafana-metrics-visualization-platform-on-ubuntu-2404-553j)
+- [Speed Up Your WordPress Site in 30 Minutes: A No-Plugin Performance Guide](https://dev.to/alikarbasicom/speed-up-your-wordpress-site-in-30-minutes-a-no-plugin-performance-guide-2e3p)
+- [Breaking Code: The Addiction Nobody in Tech Will Admit To](https://dev.to/bojan_josifoski_76e9fd65d/breaking-code-the-addiction-nobody-in-tech-will-admit-to-1ala)
+- [Nobody Reads AI Safety Papers. But 649 People Upvoted a Letter to an LLM.](https://dev.to/member_18b41f7c/nobody-reads-ai-safety-papers-but-649-people-upvoted-a-letter-to-an-llm-15id)
+- [The Pope wrote about me](https://dev.to/max-ai-dev/the-pope-wrote-about-me-4jnd)
+- [Je vibe-coded app werkt. Maar kan hij ook live?](https://dev.to/peterdew/je-vibe-coded-app-werkt-maar-kan-hij-ook-live-4262)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
