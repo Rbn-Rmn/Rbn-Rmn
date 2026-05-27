@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why &#39;AI Without Hype&#39; Stopped Differentiating in 2026](https://dev.to/studiomeyer_io/why-ai-without-hype-stopped-differentiating-in-2026-4ah4)
-- [A SEC filing research prompt pack for source-aware stock research](https://dev.to/gandalfthegato/a-sec-filing-research-prompt-pack-for-source-aware-stock-research-152e)
-- [SchemaSpy vs SchemaCrawler - Which Database Documentation Tool is Right for You?](https://dev.to/sualeh/schemaspy-vs-schemacrawler-which-database-documentation-tool-is-right-for-you-3do9)
-- [One of the First Public HiDream-O1-Image LoRAs — and How to Train Your Own](https://dev.to/shinji_shimizu_bb51276a5e/one-of-the-first-public-hidream-o1-image-loras-and-how-to-train-your-own-5hd1)
-- [Human-in-the-Loop: The Most Important Concept in AI That Keeps You Employed](https://dev.to/vektor_memory_43f51a32376/human-in-the-loop-the-most-important-concept-in-ai-that-keeps-you-employed-2df0)
+- [I Built a Self-Healing Extension Stabilizer for Ungoogled Chromium &lpar;and You Can Use It Too&rpar;](https://dev.to/kingyou/i-built-a-self-healing-extension-stabilizer-for-ungoogled-chromium-and-you-can-use-it-too-161a)
+- [I scanned Dub&#39;s codebase. It&#39;s not a link shortener.](https://dev.to/ryan_patrick_smith/i-scanned-dubs-codebase-its-not-a-link-shortener-4mla)
+- [AI Coding Subscriptions: Where to Go After GitHub Copilot Changes](https://dev.to/songyang-dev/ai-coding-subscriptions-where-to-go-after-github-copilot-changes-3g11)
+- [EClaw vs Slack and Mattermost for Multi-Agent Workflows](https://dev.to/eclaw/eclaw-vs-slack-and-mattermost-for-multi-agent-workflows-2o48)
+- [🐍 Custom Django middleware request response — what devs get wrong](https://dev.to/ptp2308/custom-django-middleware-request-response-what-devs-get-wrong-26dj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
