@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Dual Encoder vs Cross-Encoder: Why Your RAG Pipeline Needs Both](https://dev.to/krunalkanojiya/dual-encoder-vs-cross-encoder-why-your-rag-pipeline-needs-both-4bd)
-- [Stop Using useEffect for Data Fetching: Understanding TanStack Query](https://dev.to/victor_mwangi_d224324203c/stop-using-useeffect-for-data-fetching-understanding-tanstack-query-10gf)
-- [When you bring your data home, who is going to keep an eye on it?](https://dev.to/justyn_larry_e12a0d9779f4/when-you-bring-your-data-home-who-is-going-to-keep-an-eye-on-it-gap)
-- [How to Translate Your Existing Lovable app with i18.dev &lpar;In Under 1 Minute&rpar;](https://dev.to/sacsand_sandaruvan_b1edba/how-to-translate-your-existing-lovable-app-with-i18dev-in-under-1-minute-1749)
-- [I made Claude Code and Codex talk to each other across machines. Here&#39;s what broke.](https://dev.to/david_5ec94a134489e16f55f/i-made-claude-code-and-codex-talk-to-each-other-across-machines-heres-what-broke-57od)
+- [Beyond the Numbers: How Ada Lovelace Envisioned the Dawn of Symbolic Computation &lpar;1833–1834&rpar;](https://dev.to/bioshistory/beyond-the-numbers-how-ada-lovelace-envisioned-the-dawn-of-symbolic-computation-1833-1834-4f9i)
+- [Millwright-Inspector: A Methodology for Software Development with AI Coding Agents](https://dev.to/emin_akkoc/millwright-inspector-a-methodology-for-software-development-with-ai-coding-agents-p10)
+- [Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes](https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7)
+- [When Preprocessing Helps-and When It Hurts: Why Your Image Classification Model&#39;s Accuracy Varies So Much](https://dev.to/rakshath/when-preprocessing-helps-and-when-it-hurts-why-your-image-classification-models-accuracy-varies-4d96)
+- [Treasure Hunt Engine: How We Blew Up the Docs and Built a System That Actually Works](https://dev.to/on-chain-commerce/treasure-hunt-engine-how-we-blew-up-the-docs-and-built-a-system-that-actually-works-27no)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
