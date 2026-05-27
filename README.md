@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Resume Keeps Getting Rejected by ATS Systems &lpar;Even When You’re Qualified&rpar;](https://dev.to/thekarlesi/why-your-resume-keeps-getting-rejected-by-ats-systems-even-when-youre-qualified-53lm)
-- [Building an Offline-First Architecture for 40,000+ Concurrent RFID Scans](https://dev.to/stampiq/building-an-offline-first-architecture-for-40000-concurrent-rfid-scans-med)
-- [I Built a Tiny Chrome Extension to Save My Mouse Wheel &lpar;Auto Scroll&rpar;](https://dev.to/codebunny20/i-built-a-tiny-chrome-extension-to-save-my-mouse-wheel-auto-scroll-1f8e)
-- [# I Got Burned by Socket Chaos. Here&#39;s How I Finally Built Real-Time Calls That Actually Work.](https://dev.to/akhilesh_goswami_15cf5dca/-i-got-burned-by-socket-chaos-heres-how-i-finally-built-real-time-calls-that-actually-work-3l58)
-- [How to Cut Your CSS File Size by 40% Without Losing Any Styles](https://dev.to/kui_luo/how-to-cut-your-css-file-size-by-40-without-losing-any-styles-387)
+- [Dual Encoder vs Cross-Encoder: Why Your RAG Pipeline Needs Both](https://dev.to/krunalkanojiya/dual-encoder-vs-cross-encoder-why-your-rag-pipeline-needs-both-4bd)
+- [Stop Using useEffect for Data Fetching: Understanding TanStack Query](https://dev.to/victor_mwangi_d224324203c/stop-using-useeffect-for-data-fetching-understanding-tanstack-query-10gf)
+- [When you bring your data home, who is going to keep an eye on it?](https://dev.to/justyn_larry_e12a0d9779f4/when-you-bring-your-data-home-who-is-going-to-keep-an-eye-on-it-gap)
+- [How to Translate Your Existing Lovable app with i18.dev &lpar;In Under 1 Minute&rpar;](https://dev.to/sacsand_sandaruvan_b1edba/how-to-translate-your-existing-lovable-app-with-i18dev-in-under-1-minute-1749)
+- [I made Claude Code and Codex talk to each other across machines. Here&#39;s what broke.](https://dev.to/david_5ec94a134489e16f55f/i-made-claude-code-and-codex-talk-to-each-other-across-machines-heres-what-broke-57od)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
