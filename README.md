@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Self-Healing Extension Stabilizer for Ungoogled Chromium &lpar;and You Can Use It Too&rpar;](https://dev.to/kingyou/i-built-a-self-healing-extension-stabilizer-for-ungoogled-chromium-and-you-can-use-it-too-161a)
-- [I scanned Dub&#39;s codebase. It&#39;s not a link shortener.](https://dev.to/ryan_patrick_smith/i-scanned-dubs-codebase-its-not-a-link-shortener-4mla)
-- [AI Coding Subscriptions: Where to Go After GitHub Copilot Changes](https://dev.to/songyang-dev/ai-coding-subscriptions-where-to-go-after-github-copilot-changes-3g11)
-- [EClaw vs Slack and Mattermost for Multi-Agent Workflows](https://dev.to/eclaw/eclaw-vs-slack-and-mattermost-for-multi-agent-workflows-2o48)
-- [🐍 Custom Django middleware request response — what devs get wrong](https://dev.to/ptp2308/custom-django-middleware-request-response-what-devs-get-wrong-26dj)
+- [I Built 8 Free Browser-Based Developer Tools &lpar;No Uploads, No Tracking&rpar;](https://dev.to/matengtian/i-built-8-free-browser-based-developer-tools-no-uploads-no-tracking-3e26)
+- [Next.js 16 Broke My App in 4 Places and None of Them Threw an Error](https://dev.to/shubhradev/nextjs-16-broke-my-app-in-4-places-and-none-of-them-threw-an-error-51mn)
+- [I built a satellite pass quality forecaster using NOAA space weather data and Skyfield — here&#39;s how it works](https://dev.to/nilabh_jyotikalita_aa0b0/i-built-a-satellite-pass-quality-forecaster-using-noaa-space-weather-data-and-skyfield-heres-how-52j3)
+- [React.js ~The landscape of data fetching in React~](https://dev.to/kkr0423/reactjs-the-landscape-of-data-fetching-in-react-1i3l)
+- [Liquid Alerts: WOW Alerts Meet Liquid Border](https://dev.to/pawel_nosko/liquid-alerts-wow-alerts-meet-liquid-border-22mc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
