@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built 8 Free Browser-Based Developer Tools &lpar;No Uploads, No Tracking&rpar;](https://dev.to/matengtian/i-built-8-free-browser-based-developer-tools-no-uploads-no-tracking-3e26)
-- [Next.js 16 Broke My App in 4 Places and None of Them Threw an Error](https://dev.to/shubhradev/nextjs-16-broke-my-app-in-4-places-and-none-of-them-threw-an-error-51mn)
-- [I built a satellite pass quality forecaster using NOAA space weather data and Skyfield — here&#39;s how it works](https://dev.to/nilabh_jyotikalita_aa0b0/i-built-a-satellite-pass-quality-forecaster-using-noaa-space-weather-data-and-skyfield-heres-how-52j3)
-- [React.js ~The landscape of data fetching in React~](https://dev.to/kkr0423/reactjs-the-landscape-of-data-fetching-in-react-1i3l)
-- [Liquid Alerts: WOW Alerts Meet Liquid Border](https://dev.to/pawel_nosko/liquid-alerts-wow-alerts-meet-liquid-border-22mc)
+- [Why Your Resume Keeps Getting Rejected by ATS Systems &lpar;Even When You’re Qualified&rpar;](https://dev.to/thekarlesi/why-your-resume-keeps-getting-rejected-by-ats-systems-even-when-youre-qualified-53lm)
+- [Building an Offline-First Architecture for 40,000+ Concurrent RFID Scans](https://dev.to/stampiq/building-an-offline-first-architecture-for-40000-concurrent-rfid-scans-med)
+- [I Built a Tiny Chrome Extension to Save My Mouse Wheel &lpar;Auto Scroll&rpar;](https://dev.to/codebunny20/i-built-a-tiny-chrome-extension-to-save-my-mouse-wheel-auto-scroll-1f8e)
+- [# I Got Burned by Socket Chaos. Here&#39;s How I Finally Built Real-Time Calls That Actually Work.](https://dev.to/akhilesh_goswami_15cf5dca/-i-got-burned-by-socket-chaos-heres-how-i-finally-built-real-time-calls-that-actually-work-3l58)
+- [How to Cut Your CSS File Size by 40% Without Losing Any Styles](https://dev.to/kui_luo/how-to-cut-your-css-file-size-by-40-without-losing-any-styles-387)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
