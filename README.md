@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Numbers: How Ada Lovelace Envisioned the Dawn of Symbolic Computation &lpar;1833–1834&rpar;](https://dev.to/bioshistory/beyond-the-numbers-how-ada-lovelace-envisioned-the-dawn-of-symbolic-computation-1833-1834-4f9i)
-- [Millwright-Inspector: A Methodology for Software Development with AI Coding Agents](https://dev.to/emin_akkoc/millwright-inspector-a-methodology-for-software-development-with-ai-coding-agents-p10)
-- [Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes](https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7)
-- [When Preprocessing Helps-and When It Hurts: Why Your Image Classification Model&#39;s Accuracy Varies So Much](https://dev.to/rakshath/when-preprocessing-helps-and-when-it-hurts-why-your-image-classification-models-accuracy-varies-4d96)
-- [Treasure Hunt Engine: How We Blew Up the Docs and Built a System That Actually Works](https://dev.to/on-chain-commerce/treasure-hunt-engine-how-we-blew-up-the-docs-and-built-a-system-that-actually-works-27no)
+- [Upgrading OtakuShelf to JHipster 9.1.0](https://dev.to/avdev4j/44-upgrading-otakushelf-to-jhipster-910-242)
+- [Polishing the catalog &lpar;and reading the agent&#39;s receipts&rpar;](https://dev.to/avdev4j/polishing-the-catalog-and-reading-the-agents-receipts-2c0g)
+- [Adding the anime side without holding my breath](https://dev.to/avdev4j/24-adding-the-anime-side-without-holding-my-breath-1617)
+- [Pairing up: scaffolding OtakuShelf with an agent](https://dev.to/avdev4j/14-pairing-up-scaffolding-otakushelf-with-an-agent-4j4h)
+- [State.js Tutorial: Creating Reusable UI Components with Pure CSS Reactivity](https://dev.to/idevgames/statejs-tutorial-creating-reusable-ui-components-with-pure-css-reactivity-3b56)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
