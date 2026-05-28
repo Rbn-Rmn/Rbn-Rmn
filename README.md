@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Stop Reinventing the Wheel: 5 Hidden Gems in PrestaShop&#39;s Tools.php File](https://dev.to/ndabene/stop-reinventing-the-wheel-5-hidden-gems-in-prestashops-toolsphp-file-25nm)
-- [AI Tools &amp; Products Radar — May 28, 2026](https://dev.to/hongphuc5497/ai-tools-products-radar-may-28-2026-41hj)
-- [New Benchmark Reveals Hidden Trade-offs in AI Model Tuning Methods](https://dev.to/eli_9c82b7dfe52c1bc371ffe/new-benchmark-reveals-hidden-trade-offs-in-ai-model-tuning-methods-280l)
-- [What I Learned Building My First Chrome Extension for Google Calendar](https://dev.to/james7brown/what-i-learned-building-my-first-chrome-extension-for-google-calendar-3m7b)
-- [Trider – The AI Habit Tracker That Actually Gets You &lpar;Free, No Ads&rpar;](https://dev.to/trider/trider-the-ai-habit-tracker-that-actually-gets-you-free-no-ads-3m4n)
+- [Check out my latest project](https://dev.to/radghost/-2b4g)
+- [10 Most Important Things You Should Learn in Lean 4](https://dev.to/shrsv/10-most-important-things-you-should-learn-in-lean-4-1lgk)
+- [How I Automated My Obsidian Vault with Claude — It Now Works the Night Shift](https://dev.to/sabahattink/how-i-automated-my-obsidian-vault-with-claude-it-now-works-the-night-shift-3gjl)
+- [The hidden cost of cloud GPU training: egress, idle time, and lock-in](https://dev.to/asymm/the-hidden-cost-of-cloud-gpu-training-egress-idle-time-and-lock-in-15f5)
+- [Control SwiftUI and Compose State Synchronously with Worklets in Expo UI](https://dev.to/expo/control-swiftui-and-compose-state-synchronously-with-worklets-in-expo-ui-3ado)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
