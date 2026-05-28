@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Day 7 of trying to get 20 paying customers in 40 days. Currently at 0.](https://dev.to/gthorr/day-7-of-trying-to-get-20-paying-customers-in-40-days-currently-at-0-406d)
-- [How We Blew Up Our Event Pipeline at 3 AM Because the Treasure Hunt Engine Had No Clear Operator Bounds](https://dev.to/dev-architecture-blog/how-we-blew-up-our-event-pipeline-at-3-am-because-the-treasure-hunt-engine-had-no-clear-operator-20c7)
-- [Autograder - Finish-Up-A-Thon](https://dev.to/arthur_carvalho_713e122a1/autograder-finish-up-a-thon-11fd)
-- [Federico@Cursor,Dimma@Fireworks深入探讨Composer2技术](https://dev.to/cognitalk/federicocursordimmafireworksshen-ru-tan-tao-composer2ji-zhu-17kg)
-- [Hermes Memory Providers: A Complete Breakdown for New Users](https://dev.to/paper_scratcher_bafb0086c/hermes-memory-providers-a-complete-breakdown-for-new-users-1ki3)
+- [How I Built an AI-Powered Google Maps Scraper for Lead Generation](https://dev.to/elke_qin/how-i-built-an-ai-powered-google-maps-scraper-for-lead-generation-30cp)
+- [Readsb ADS-B Aircraft Local State Archive](https://dev.to/johnnyfitz/readsb-ads-b-aircraft-local-state-archive-cik)
+- [The Veltrix Event Engine Blew Up Because We Trusted the Defaults](https://dev.to/built-from-africa/the-veltrix-event-engine-blew-up-because-we-trusted-the-defaults-2he3)
+- [MiniScript Weekly News — May 27, 2026](https://dev.to/joestrout/miniscript-weekly-news-may-27-2026-5570)
+- [The benchmark that made me change my mind about Jakarta EE in 2026](https://dev.to/jtorchia/the-benchmark-that-made-me-change-my-mind-about-jakarta-ee-in-2026-2feb)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
