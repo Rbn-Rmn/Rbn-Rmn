@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI-Powered Google Maps Scraper for Lead Generation](https://dev.to/elke_qin/how-i-built-an-ai-powered-google-maps-scraper-for-lead-generation-30cp)
-- [Readsb ADS-B Aircraft Local State Archive](https://dev.to/johnnyfitz/readsb-ads-b-aircraft-local-state-archive-cik)
-- [The Veltrix Event Engine Blew Up Because We Trusted the Defaults](https://dev.to/built-from-africa/the-veltrix-event-engine-blew-up-because-we-trusted-the-defaults-2he3)
-- [MiniScript Weekly News — May 27, 2026](https://dev.to/joestrout/miniscript-weekly-news-may-27-2026-5570)
-- [The benchmark that made me change my mind about Jakarta EE in 2026](https://dev.to/jtorchia/the-benchmark-that-made-me-change-my-mind-about-jakarta-ee-in-2026-2feb)
+- [Read-Modify-Write isolation in NoSQL: the distributed-lock hell.](https://dev.to/hugo_vantighem/read-modify-write-isolation-in-nosql-the-distributed-lock-hell-3jo0)
+- [Understanding known_hosts and Host Key Verification: What It Protects Against and How TOFU Works](https://dev.to/mahafuz/understanding-knownhosts-and-host-key-verification-what-it-protects-against-and-how-tofu-works-pid)
+- [A-Z AI Glossary](https://dev.to/preetid/a-z-ai-glossary-3b1j)
+- [From a Forgotten Multiplayer Prototype to a Chaotic Hidden-Object Game — Reviving WhatUsee 🚀](https://dev.to/adothub/from-a-forgotten-multiplayer-prototype-to-a-chaotic-hidden-object-game-reviving-whatusee-2lnf)
+- [Handling Localization in PCF Components: A Practical Walkthrough](https://dev.to/_neronotte/handling-localization-in-pcf-components-a-practical-walkthrough-3cbe)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
