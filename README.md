@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Check out my latest project](https://dev.to/radghost/-2b4g)
-- [10 Most Important Things You Should Learn in Lean 4](https://dev.to/shrsv/10-most-important-things-you-should-learn-in-lean-4-1lgk)
-- [How I Automated My Obsidian Vault with Claude — It Now Works the Night Shift](https://dev.to/sabahattink/how-i-automated-my-obsidian-vault-with-claude-it-now-works-the-night-shift-3gjl)
-- [The hidden cost of cloud GPU training: egress, idle time, and lock-in](https://dev.to/asymm/the-hidden-cost-of-cloud-gpu-training-egress-idle-time-and-lock-in-15f5)
-- [Control SwiftUI and Compose State Synchronously with Worklets in Expo UI](https://dev.to/expo/control-swiftui-and-compose-state-synchronously-with-worklets-in-expo-ui-3ado)
+- [173 Undocumented Security Findings in TerraGoat: What Standard IaC Scanners Miss &lpar;and Why Post-Quantum Matters&rpar;](https://dev.to/mkscorpiosec/173-undocumented-security-findings-in-terragoat-what-standard-iac-scanners-miss-and-why-f62)
+- [The Dark Art of Veltrix Configuration: How I Learned to Stop Worrying and Love the Metrics](https://dev.to/dev-architecture-blog/the-dark-art-of-veltrix-configuration-how-i-learned-to-stop-worrying-and-love-the-metrics-4290)
+- [Why I built the HuggingFace for RL agents — and why RL needs one](https://dev.to/youngseong/why-i-built-the-huggingface-for-rl-agents-and-why-rl-needs-one-502n)
+- [TRM Grew ChatGPT Referrals 8,337% in 90 Days. I Copied Their 4 LLMO Pillars Onto 3 Indie Sites. Only 1 Moved the Needle.](https://dev.to/kenimo49/trm-grew-chatgpt-referrals-8337-in-90-days-i-copied-their-4-llmo-pillars-onto-3-indie-sites-43e1)
+- [NIS2 for developers: translate 66 pages of EU regulation into 10 technical controls](https://dev.to/ayinedjimi-consultants/nis2-for-developers-translate-66-pages-of-eu-regulation-into-10-technical-controls-3m62)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
