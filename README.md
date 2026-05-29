@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Codex&#39;s Context Compression Breaks at Scale — A Deep Dive Into the Silent Memory Leak](https://dev.to/xu_xu_b2179aa8fc958d531d1/why-codexs-context-compression-breaks-at-scale-a-deep-dive-into-the-silent-memory-leak-3m1d)
-- [Smart Face Recognition Attendance System — No More Proxy Attendance](https://dev.to/harsha_gopalkrishnapuran/smart-face-recognition-attendance-system-no-more-proxy-attendance-2835)
-- [Everyone’s Building AI Agents. Here’s the One I Built for Myself](https://dev.to/vishdevwork/everyones-building-ai-agents-heres-the-one-i-built-for-myself-1plh)
-- [Why Objects Are Passed as Arguments in Java – Complete Guide for Beginners](https://dev.to/harini_magesh_fa40041cf8d/why-objects-are-passed-as-arguments-in-java-complete-guide-for-beginners-2kib)
-- [Fractal Time Generator in Schrödinger equation](https://dev.to/nikolaysuslov/fractal-time-generator-in-schrodinger-equation-1d6l)
+- [We built 24 apps with AI. Three platforms. 561 vulnerabilities.](https://dev.to/muhammad_hasan/we-built-24-apps-with-ai-three-platforms-561-vulnerabilities-gp7)
+- [I built a docs Q&amp;A engine that returns null instead of hallucinating](https://dev.to/sujithkrishnanpk_c9f931/i-built-a-docs-qa-engine-that-returns-null-instead-of-hallucinating-58p6)
+- [MongoDB `$facet` Explained: One Query, Multiple Results](https://dev.to/visualeaf/mongodb-facet-explained-one-query-multiple-results-b64)
+- [I Blamed the Model for Months. The Bug Was My Sampler.](https://dev.to/sleepyquant/i-blamed-the-model-for-months-the-bug-was-my-sampler-3dne)
+- [Stripping away the layers of abstractions: How does a filesystem work?](https://dev.to/2sidcode/stripping-away-the-layers-of-abstractions-how-does-a-filesystem-work-35jf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
