@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [We built 24 apps with AI. Three platforms. 561 vulnerabilities.](https://dev.to/muhammad_hasan/we-built-24-apps-with-ai-three-platforms-561-vulnerabilities-gp7)
-- [I built a docs Q&amp;A engine that returns null instead of hallucinating](https://dev.to/sujithkrishnanpk_c9f931/i-built-a-docs-qa-engine-that-returns-null-instead-of-hallucinating-58p6)
-- [MongoDB `$facet` Explained: One Query, Multiple Results](https://dev.to/visualeaf/mongodb-facet-explained-one-query-multiple-results-b64)
-- [I Blamed the Model for Months. The Bug Was My Sampler.](https://dev.to/sleepyquant/i-blamed-the-model-for-months-the-bug-was-my-sampler-3dne)
-- [Stripping away the layers of abstractions: How does a filesystem work?](https://dev.to/2sidcode/stripping-away-the-layers-of-abstractions-how-does-a-filesystem-work-35jf)
+- [Sidemark: Active Telemetry Comments for C#](https://dev.to/david_whitney/sidemark-active-telemetry-comments-for-c-1bai)
+- [Rest Template - API for developers- Spring Boot](https://dev.to/s_srikamini_bfb9ce2df10/rest-template-api-for-developers-spring-boot-1l)
+- [How Compute Savings Plans Work &lpar;Step-by-Step&rpar;](https://dev.to/aman_singh_414811a9e4168b/how-compute-savings-plans-work-step-by-step-59f3)
+- [How to investigate suspicious SSH logins without giving AI a shell](https://dev.to/sec123/how-to-investigate-suspicious-ssh-logins-without-giving-ai-a-shell-407n)
+- [I Deployed My Go Backend to a Real VPS. Here&#39;s Exactly What Happened.](https://dev.to/abhishek_sharma_a9792aee8/i-deployed-my-go-backend-to-a-real-vps-heres-exactly-what-happened-2dpj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
