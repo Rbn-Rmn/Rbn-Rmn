@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Oracle ORA-00022 오류 원인과 해결 방법 완벽 가이드](https://dev.to/dbmserror/oracle-ora-00022-oryu-weoningwa-haegyeol-bangbeob-wanbyeog-gaideu-3lfp)
-- [Claude Opus 4.8 is out. The benchmark isn&#39;t why I&#39;m switching.](https://dev.to/hunter_g_50e2ec233acd07b5/claude-opus-48-is-out-the-benchmark-isnt-why-im-switching-5flo)
-- [How Hermes AI Agent can help corner &quot;kioskos&quot; in Caracas, Venezuela](https://dev.to/saulolinares10/how-hermes-ai-agent-can-help-corner-kioskos-in-caracas-venezuela-1lh1)
-- [SSH Key Management at Scale: Generating, Rotating, and Revoking Keys Across Teams](https://dev.to/mahafuz/ssh-key-management-at-scale-generating-rotating-and-revoking-keys-across-teams-5f73)
-- [You vibe code. Aigent.ly handles the vulnerabilities.](https://dev.to/aigently/you-vibe-code-aigently-handles-the-vulnerabilities-12gb)
+- [Why Codex&#39;s Context Compression Breaks at Scale — A Deep Dive Into the Silent Memory Leak](https://dev.to/xu_xu_b2179aa8fc958d531d1/why-codexs-context-compression-breaks-at-scale-a-deep-dive-into-the-silent-memory-leak-3m1d)
+- [Smart Face Recognition Attendance System — No More Proxy Attendance](https://dev.to/harsha_gopalkrishnapuran/smart-face-recognition-attendance-system-no-more-proxy-attendance-2835)
+- [Everyone’s Building AI Agents. Here’s the One I Built for Myself](https://dev.to/vishdevwork/everyones-building-ai-agents-heres-the-one-i-built-for-myself-1plh)
+- [Why Objects Are Passed as Arguments in Java – Complete Guide for Beginners](https://dev.to/harini_magesh_fa40041cf8d/why-objects-are-passed-as-arguments-in-java-complete-guide-for-beginners-2kib)
+- [Fractal Time Generator in Schrödinger equation](https://dev.to/nikolaysuslov/fractal-time-generator-in-schrodinger-equation-1d6l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
