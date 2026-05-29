@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [173 Undocumented Security Findings in TerraGoat: What Standard IaC Scanners Miss &lpar;and Why Post-Quantum Matters&rpar;](https://dev.to/mkscorpiosec/173-undocumented-security-findings-in-terragoat-what-standard-iac-scanners-miss-and-why-f62)
-- [The Dark Art of Veltrix Configuration: How I Learned to Stop Worrying and Love the Metrics](https://dev.to/dev-architecture-blog/the-dark-art-of-veltrix-configuration-how-i-learned-to-stop-worrying-and-love-the-metrics-4290)
-- [Why I built the HuggingFace for RL agents — and why RL needs one](https://dev.to/youngseong/why-i-built-the-huggingface-for-rl-agents-and-why-rl-needs-one-502n)
-- [TRM Grew ChatGPT Referrals 8,337% in 90 Days. I Copied Their 4 LLMO Pillars Onto 3 Indie Sites. Only 1 Moved the Needle.](https://dev.to/kenimo49/trm-grew-chatgpt-referrals-8337-in-90-days-i-copied-their-4-llmo-pillars-onto-3-indie-sites-43e1)
-- [NIS2 for developers: translate 66 pages of EU regulation into 10 technical controls](https://dev.to/ayinedjimi-consultants/nis2-for-developers-translate-66-pages-of-eu-regulation-into-10-technical-controls-3m62)
+- [Oracle ORA-00022 오류 원인과 해결 방법 완벽 가이드](https://dev.to/dbmserror/oracle-ora-00022-oryu-weoningwa-haegyeol-bangbeob-wanbyeog-gaideu-3lfp)
+- [Claude Opus 4.8 is out. The benchmark isn&#39;t why I&#39;m switching.](https://dev.to/hunter_g_50e2ec233acd07b5/claude-opus-48-is-out-the-benchmark-isnt-why-im-switching-5flo)
+- [How Hermes AI Agent can help corner &quot;kioskos&quot; in Caracas, Venezuela](https://dev.to/saulolinares10/how-hermes-ai-agent-can-help-corner-kioskos-in-caracas-venezuela-1lh1)
+- [SSH Key Management at Scale: Generating, Rotating, and Revoking Keys Across Teams](https://dev.to/mahafuz/ssh-key-management-at-scale-generating-rotating-and-revoking-keys-across-teams-5f73)
+- [You vibe code. Aigent.ly handles the vulnerabilities.](https://dev.to/aigently/you-vibe-code-aigently-handles-the-vulnerabilities-12gb)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
