@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Sidemark: Active Telemetry Comments for C#](https://dev.to/david_whitney/sidemark-active-telemetry-comments-for-c-1bai)
-- [Rest Template - API for developers- Spring Boot](https://dev.to/s_srikamini_bfb9ce2df10/rest-template-api-for-developers-spring-boot-1l)
-- [How Compute Savings Plans Work &lpar;Step-by-Step&rpar;](https://dev.to/aman_singh_414811a9e4168b/how-compute-savings-plans-work-step-by-step-59f3)
-- [How to investigate suspicious SSH logins without giving AI a shell](https://dev.to/sec123/how-to-investigate-suspicious-ssh-logins-without-giving-ai-a-shell-407n)
-- [I Deployed My Go Backend to a Real VPS. Here&#39;s Exactly What Happened.](https://dev.to/abhishek_sharma_a9792aee8/i-deployed-my-go-backend-to-a-real-vps-heres-exactly-what-happened-2dpj)
+- [How to Add Memory Security to Your LangChain Agent in 5 Minutes](https://dev.to/vaishnavi_gudur/how-to-add-memory-security-to-your-langchain-agent-in-5-minutes-39gm)
+- [your personal AI newspaper](https://dev.to/anushka_singh09/your-personal-ai-newspaper-3ibk)
+- [Python Functions](https://dev.to/sakthivenkat/function-in-python-3pdo)
+- [Most Flutter Beginners Use TextField Wrong - Here&#39;s the Right Way](https://dev.to/the_flutter_sensei/most-flutter-beginners-use-textfield-wrong-heres-the-right-way-l5g)
+- [Not All Open Source Is Equal: Choosing a PostgreSQL Operator for Kubernetes in 2026](https://dev.to/vyacheslav_sarzhan_3c1767/not-all-open-source-is-equal-choosing-a-postgresql-operator-for-kubernetes-in-2026-1l6c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
