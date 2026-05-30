@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Installing PostgreSQL on Arch Linux | Practical Setup Guide](https://dev.to/ishanjarwal/installing-postgresql-on-arch-linux-practical-setup-guide-1hme)
-- [Designing Coding Agent Skills That Actually Work](https://dev.to/erfankashani/designing-coding-agent-skills-that-actually-work-5bjl)
-- [Three Ways to Set Up CDC from Postgres to ClickHouse](https://dev.to/hsnmnr/three-ways-to-set-up-cdc-from-postgres-to-clickhouse-2fob)
-- [They Named Him Before He Was a Person](https://dev.to/yash_gandhi_b0979f0105433/they-named-him-before-he-was-a-person-1160)
-- [I Built a Chrome Extension to Block Distracting Sites and Fix My Pomodoro Timer — Here&#39;s What I Learned](https://dev.to/promise_uzoechi/i-built-a-chrome-extension-because-i-couldnt-stop-opening-twitter-between-pomodoro-sessions-1gnj)
+- [Insights of Git &lpar; part : 1 &rpar;](https://dev.to/ste_bhushhan/insights-of-git-part-1--4mo8)
+- [Someone wrote a fake EULA into Bitcoin. Two hours later they revoked it.](https://dev.to/zekebuilds/someone-wrote-a-fake-eula-into-bitcoin-two-hours-later-they-revoked-it-3e42)
+- [Payload CMS Has 508 Circular Dependencies. Next.js Has 17. Here&#39;s Why They Form in Every Large JS Codebase.](https://dev.to/ofri-peretz/payload-cms-has-508-circular-dependencies-nextjs-has-17-heres-why-they-form-in-every-large-js-41f5)
+- [Prompt Packs Are Dead. Long Live Skills](https://dev.to/mogwainerfherder/prompt-packs-are-dead-long-live-skills-n4h)
+- [Senior developer&quot; after 3 years is title laundering](https://dev.to/adioof/senior-developer-after-3-years-is-title-laundering-3g9h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
