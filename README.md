@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Inference Theft Is the New AI App Security Bug: How to Protect Your LLM Endpoints](https://dev.to/nimay_04/inference-theft-is-the-new-ai-app-security-bug-how-to-protect-your-llm-endpoints-50hb)
-- [DaloyJS Is the Latest Modern Enterprise TypeScript Framework, and It Has Your Back on Security](https://dev.to/devlinduldulao/daloyjs-is-the-latest-modern-enterprise-typescript-framework-and-it-has-your-back-on-security-2af6)
-- [From ASP.NET + MSSQL to PHP + MySQL: Migrating a Names Site Without Mangling the Accents](https://dev.to/imagebear/from-aspnet-mssql-to-php-mysql-migrating-a-names-site-without-mangling-the-accents-52dj)
-- [A Cleaner Way to Handle 404 Pages in Next.js](https://dev.to/joodi/a-cleaner-way-to-handle-404-pages-in-nextjs-43o3)
-- [Why my single Next.js app runs 4 different domains &lpar;and how the proxy.ts decides who sees what&rpar;](https://dev.to/youssefroop/why-my-single-nextjs-app-runs-4-different-domains-and-how-the-proxyts-decides-who-sees-what-3lmk)
+- [Nexthena — A Local-First Whiteboard App Built on Excalidraw](https://dev.to/blackstar/nexthena-a-local-first-whiteboard-app-built-on-excalidraw-220d)
+- [From Logic to Numbers: A Beginner’s Guide to Programming Through Mathematical Thinking](https://dev.to/vinayagam_6a170db9281d526/from-logic-to-numbers-a-beginners-guide-to-programming-through-mathematical-thinking-3o4h)
+- [Oracle Fusion Report Scheduling with Skip Conditions](https://dev.to/naveen6735/oracle-fusion-report-scheduling-with-skip-conditions-5051)
+- [AtCoder Beginner Contest 460 参加記録と解答例 &lpar;A D問題&rpar;](https://dev.to/iwamutsu256/atcoder-beginner-contest-460-can-jia-ji-lu-tojie-da-li-a-dwen-ti--3jk2)
+- [Your AI Agent Just Crashed at Step 9 of 12. Here&#39;s How to Make That Not Matter.](https://dev.to/piotrwachowski/your-ai-agent-just-crashed-at-step-9-of-12-heres-how-to-make-that-not-matter-1ijb)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
