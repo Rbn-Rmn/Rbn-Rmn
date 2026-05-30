@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Homelab Rabbit Hole](https://dev.to/franute/the-homelab-rabbit-hole-369l)
-- [I Built an AI Agent That Earns Money While I Sleep — Here&#39;s What Actually Works](https://dev.to/zeroknowledge0x/i-built-an-ai-agent-that-earns-money-while-i-sleep-heres-what-actually-works-3pkp)
-- [title: From Zero to Hermes Agent in 3 Days — An Honest Beginner&#39;s Journey](https://dev.to/mauriziolisanti/title-from-zero-to-hermes-agent-in-3-days-an-honest-beginners-journey-13l2)
-- [Security news weekly round-up - 29th May 2026](https://dev.to/ziizium/security-news-weekly-round-up-29th-may-2026-15ap)
-- [I Passed Every Coding Interview Then Froze on Day One. Here&#39;s Why.](https://dev.to/ossamagocer/i-passed-every-coding-interview-then-froze-on-day-one-heres-why-155m)
+- [Vamos participar do GitHub Challenge!](https://dev.to/anamaria/vamos-participar-do-github-challenge-3d41)
+- [I Built 4 Real Mobile Apps With No Coding Background — Here&#39;s the Exact Workflow](https://dev.to/rumi7911/i-built-4-real-mobile-apps-with-no-coding-background-heres-the-exact-workflow-69k)
+- [How to optimize application performance — a hands on tutorial](https://dev.to/therizwansaleem/how-to-optimize-application-performance-a-hands-on-tutorial-30h8)
+- [I Didn&#39;t Want to Open Excel Just to Generate Sequential Numbers in VS Code](https://dev.to/almiraj/i-didnt-want-to-open-excel-just-to-generate-sequential-numbers-in-vs-code-508h)
+- [I Built a Q&amp;A Bot for My Docs and Almost Gave Up &lpar;Here&#39;s What Worked&rpar;](https://dev.to/__c1b9e06dc90a7e0a676b/i-built-a-qa-bot-for-my-docs-and-almost-gave-up-heres-what-worked-1kgj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
