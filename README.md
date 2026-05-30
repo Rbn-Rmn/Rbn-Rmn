@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Vamos participar do GitHub Challenge!](https://dev.to/anamaria/vamos-participar-do-github-challenge-3d41)
-- [I Built 4 Real Mobile Apps With No Coding Background — Here&#39;s the Exact Workflow](https://dev.to/rumi7911/i-built-4-real-mobile-apps-with-no-coding-background-heres-the-exact-workflow-69k)
-- [How to optimize application performance — a hands on tutorial](https://dev.to/therizwansaleem/how-to-optimize-application-performance-a-hands-on-tutorial-30h8)
-- [I Didn&#39;t Want to Open Excel Just to Generate Sequential Numbers in VS Code](https://dev.to/almiraj/i-didnt-want-to-open-excel-just-to-generate-sequential-numbers-in-vs-code-508h)
-- [I Built a Q&amp;A Bot for My Docs and Almost Gave Up &lpar;Here&#39;s What Worked&rpar;](https://dev.to/__c1b9e06dc90a7e0a676b/i-built-a-qa-bot-for-my-docs-and-almost-gave-up-heres-what-worked-1kgj)
+- [Anthropic Launches Claude Opus 4.8 — A Powerful New AI Model for the Future](https://dev.to/yasirawan4831/anthropic-launches-claude-opus-48-a-powerful-new-ai-model-for-the-future-385)
+- [Anthropic Just Dropped Claude Opus 4.8: What It Means for Developers 🚀](https://dev.to/sheraz046/anthropic-just-dropped-claude-opus-48-what-it-means-for-developers-58ma)
+- [PostgreSQL 08003 오류 원인과 해결 방법 완벽 가이드](https://dev.to/dbmserror/postgresql-08003-oryu-weoningwa-haegyeol-bangbeob-wanbyeog-gaideu-361i)
+- [JDK 26 Pitfalls: Why CPU-Bound Tasks are Killing Your Virtual Threads](https://dev.to/machinecodingmaster/jdk-26-pitfalls-why-cpu-bound-tasks-are-killing-your-virtual-threads-5545)
+- [Oracle ORA-00057 오류 원인과 해결 방법 완벽 가이드](https://dev.to/dbmserror/oracle-ora-00057-oryu-weoningwa-haegyeol-bangbeob-wanbyeog-gaideu-38co)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
