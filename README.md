@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [🍢 hatsu-yakitori 0.4.8 &amp; 0.4.9: Lean-Verified FMM, HDF5 Input, and a Smarter Frontier](https://dev.to/p_pumulo/hatsu-yakitori-048-049-lean-verified-fmm-hdf5-input-and-a-smarter-frontier-2a6h)
-- [Adashi App – Bringing Trust and Transparency to Community Savings](https://dev.to/ecoder/adashi-app-bringing-trust-and-transparency-to-community-savings-34la)
-- [Normalization Is Where Reliable Inbound Email Starts](https://dev.to/pavelsg/normalization-is-where-reliable-inbound-email-starts-1boe)
-- [SQL Window Functions: A Practical Guide to ROW_NUMBER, RANK, LAG, and LEAD](https://dev.to/snappy_tools/sql-window-functions-a-practical-guide-to-rownumber-rank-lag-and-lead-2hk6)
-- [Building Our Backend House of Cards](https://dev.to/fuadhusnan_f44f3e13/building-our-backend-house-of-cards-412g)
+- [Inference Theft Is the New AI App Security Bug: How to Protect Your LLM Endpoints](https://dev.to/nimay_04/inference-theft-is-the-new-ai-app-security-bug-how-to-protect-your-llm-endpoints-50hb)
+- [DaloyJS Is the Latest Modern Enterprise TypeScript Framework, and It Has Your Back on Security](https://dev.to/devlinduldulao/daloyjs-is-the-latest-modern-enterprise-typescript-framework-and-it-has-your-back-on-security-2af6)
+- [From ASP.NET + MSSQL to PHP + MySQL: Migrating a Names Site Without Mangling the Accents](https://dev.to/imagebear/from-aspnet-mssql-to-php-mysql-migrating-a-names-site-without-mangling-the-accents-52dj)
+- [A Cleaner Way to Handle 404 Pages in Next.js](https://dev.to/joodi/a-cleaner-way-to-handle-404-pages-in-nextjs-43o3)
+- [Why my single Next.js app runs 4 different domains &lpar;and how the proxy.ts decides who sees what&rpar;](https://dev.to/youssefroop/why-my-single-nextjs-app-runs-4-different-domains-and-how-the-proxyts-decides-who-sees-what-3lmk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
