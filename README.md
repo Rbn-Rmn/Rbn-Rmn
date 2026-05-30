@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [FinOps in Architecture Design](https://dev.to/godofgeeks/finops-in-architecture-design-2nk)
-- [Gue Bikin AI yang Cari Duit Otomatis dari Open Source — Ini Cerita Jujurnya](https://dev.to/zeroknowledge0x/gue-bikin-ai-yang-cari-duit-otomatis-dari-open-source-ini-cerita-jujurnya-pm9)
-- [Automating Google Search Console reporting with Python](https://dev.to/dylan_parker123/automating-google-search-console-reporting-with-python-12h9)
-- [AI + TMDB: 3 Passes to Match Torrent Posters — Prompt Iteration With Real Numbers](https://dev.to/ohugonnot/ai-tmdb-3-passes-to-match-torrent-posters-prompt-iteration-with-real-numbers-bl7)
-- [Great Stack to Doesn&#39;t Work Bonus: 10 PostgreSQL Features You Didn&#39;t Know Existed](https://dev.to/turacthethinker/great-stack-to-doesnt-work-bonus-10-postgresql-features-you-didnt-know-existed-on)
+- [🍢 hatsu-yakitori 0.4.8 &amp; 0.4.9: Lean-Verified FMM, HDF5 Input, and a Smarter Frontier](https://dev.to/p_pumulo/hatsu-yakitori-048-049-lean-verified-fmm-hdf5-input-and-a-smarter-frontier-2a6h)
+- [Adashi App – Bringing Trust and Transparency to Community Savings](https://dev.to/ecoder/adashi-app-bringing-trust-and-transparency-to-community-savings-34la)
+- [Normalization Is Where Reliable Inbound Email Starts](https://dev.to/pavelsg/normalization-is-where-reliable-inbound-email-starts-1boe)
+- [SQL Window Functions: A Practical Guide to ROW_NUMBER, RANK, LAG, and LEAD](https://dev.to/snappy_tools/sql-window-functions-a-practical-guide-to-rownumber-rank-lag-and-lead-2hk6)
+- [Building Our Backend House of Cards](https://dev.to/fuadhusnan_f44f3e13/building-our-backend-house-of-cards-412g)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
