@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Tu navegador te conoce mejor de lo que crees: privacidad en 2026](https://dev.to/johantovar/tu-navegador-te-conoce-mejor-de-lo-que-crees-privacidad-en-2026-468m)
-- [Home-Bottom Row Modifier Clusters](https://dev.to/argenkiwi/home-bottom-row-modifier-clusters-590n)
-- [We Trusted Auto-Ack. The Queue Agreed. Our Costs Didn&#39;t.](https://dev.to/sansbuilds/we-trusted-auto-ack-the-queue-agreed-our-costs-didnt-3617)
-- [DevOps for Developers: Reducing Cognitive Load and Boosting Transparency](https://dev.to/czmirek/devops-for-developers-reducing-cognitive-load-and-boosting-transparency-103l)
-- [Python pytest: Write Tests That Actually Help You](https://dev.to/german_yamil_e021eef8710d/python-pytest-write-tests-that-actually-help-you-3546)
+- [Stop Shipping AI Slop: Build an Anti-Slop Harness Around Your LLM](https://dev.to/turacthethinker/stop-shipping-ai-slop-build-an-anti-slop-harness-around-your-llm-273b)
+- [Great Stack to Doesn&#39;t Work #3 — Redis: &quot;99% Cache Hit Ratio, System Down&quot;](https://dev.to/turacthethinker/great-stack-to-doesnt-work-3-redis-99-cache-hit-ratio-system-down-3lh2)
+- [Payload CMS Has 508 Circular Dependencies in 675 Files. Here&#39;s How Every Codebase Accumulates Them.](https://dev.to/ofri-peretz/what-are-circular-dependencies-in-javascript-and-why-they-break-things-51jd)
+- [Great Stack to Doesn&#39;t Work Bonus: SQL vs NoSQL: Which One in 2026?](https://dev.to/turacthethinker/great-stack-to-doesnt-work-bonus-sql-vs-nosql-which-one-in-2026-3lcp)
+- [Great Stack to Doesn&#39;t Work #2 — Kafka: &quot;Where Did My Messages Go?&quot;](https://dev.to/turacthethinker/great-stack-to-doesnt-work-2-kafka-where-did-my-messages-go-175p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
