@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Launches Claude Opus 4.8 — A Powerful New AI Model for the Future](https://dev.to/yasirawan4831/anthropic-launches-claude-opus-48-a-powerful-new-ai-model-for-the-future-385)
-- [Anthropic Just Dropped Claude Opus 4.8: What It Means for Developers 🚀](https://dev.to/sheraz046/anthropic-just-dropped-claude-opus-48-what-it-means-for-developers-58ma)
-- [PostgreSQL 08003 오류 원인과 해결 방법 완벽 가이드](https://dev.to/dbmserror/postgresql-08003-oryu-weoningwa-haegyeol-bangbeob-wanbyeog-gaideu-361i)
-- [JDK 26 Pitfalls: Why CPU-Bound Tasks are Killing Your Virtual Threads](https://dev.to/machinecodingmaster/jdk-26-pitfalls-why-cpu-bound-tasks-are-killing-your-virtual-threads-5545)
-- [Oracle ORA-00057 오류 원인과 해결 방법 완벽 가이드](https://dev.to/dbmserror/oracle-ora-00057-oryu-weoningwa-haegyeol-bangbeob-wanbyeog-gaideu-38co)
+- [FinOps in Architecture Design](https://dev.to/godofgeeks/finops-in-architecture-design-2nk)
+- [Gue Bikin AI yang Cari Duit Otomatis dari Open Source — Ini Cerita Jujurnya](https://dev.to/zeroknowledge0x/gue-bikin-ai-yang-cari-duit-otomatis-dari-open-source-ini-cerita-jujurnya-pm9)
+- [Automating Google Search Console reporting with Python](https://dev.to/dylan_parker123/automating-google-search-console-reporting-with-python-12h9)
+- [AI + TMDB: 3 Passes to Match Torrent Posters — Prompt Iteration With Real Numbers](https://dev.to/ohugonnot/ai-tmdb-3-passes-to-match-torrent-posters-prompt-iteration-with-real-numbers-bl7)
+- [Great Stack to Doesn&#39;t Work Bonus: 10 PostgreSQL Features You Didn&#39;t Know Existed](https://dev.to/turacthethinker/great-stack-to-doesnt-work-bonus-10-postgresql-features-you-didnt-know-existed-on)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
