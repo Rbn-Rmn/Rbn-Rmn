@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Insights of Git &lpar; part : 1 &rpar;](https://dev.to/ste_bhushhan/insights-of-git-part-1--4mo8)
-- [Someone wrote a fake EULA into Bitcoin. Two hours later they revoked it.](https://dev.to/zekebuilds/someone-wrote-a-fake-eula-into-bitcoin-two-hours-later-they-revoked-it-3e42)
-- [Payload CMS Has 508 Circular Dependencies. Next.js Has 17. Here&#39;s Why They Form in Every Large JS Codebase.](https://dev.to/ofri-peretz/payload-cms-has-508-circular-dependencies-nextjs-has-17-heres-why-they-form-in-every-large-js-41f5)
-- [Prompt Packs Are Dead. Long Live Skills](https://dev.to/mogwainerfherder/prompt-packs-are-dead-long-live-skills-n4h)
-- [Senior developer&quot; after 3 years is title laundering](https://dev.to/adioof/senior-developer-after-3-years-is-title-laundering-3g9h)
+- [Tu navegador te conoce mejor de lo que crees: privacidad en 2026](https://dev.to/johantovar/tu-navegador-te-conoce-mejor-de-lo-que-crees-privacidad-en-2026-468m)
+- [Home-Bottom Row Modifier Clusters](https://dev.to/argenkiwi/home-bottom-row-modifier-clusters-590n)
+- [We Trusted Auto-Ack. The Queue Agreed. Our Costs Didn&#39;t.](https://dev.to/sansbuilds/we-trusted-auto-ack-the-queue-agreed-our-costs-didnt-3617)
+- [DevOps for Developers: Reducing Cognitive Load and Boosting Transparency](https://dev.to/czmirek/devops-for-developers-reducing-cognitive-load-and-boosting-transparency-103l)
+- [Python pytest: Write Tests That Actually Help You](https://dev.to/german_yamil_e021eef8710d/python-pytest-write-tests-that-actually-help-you-3546)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
