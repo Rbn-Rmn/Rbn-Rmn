@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Receipts beat scheduled optimism](https://dev.to/cryptokeesan/receipts-beat-scheduled-optimism-1c5d)
-- [Beyond Vector Search: How to Build a Production-Grade Hybrid Memory System for AI Agents](https://dev.to/programmingcentral/beyond-vector-search-how-to-build-a-production-grade-hybrid-memory-system-for-ai-agents-2o2f)
-- [Glean vs Guru vs TactasAI: Enterprise Search, Knowledge Management, or Managed AI Agents?](https://dev.to/danielrfoster/glean-vs-guru-vs-tactasai-enterprise-search-knowledge-management-or-managed-ai-agents-3655)
-- [Ultracode for Codex: Claude-style Dynamic Workflows with a Skill](https://dev.to/pablonax/ultracode-for-codex-claude-style-dynamic-workflows-with-a-skill-3knk)
-- [Day 23 of 60: Someone Asked Me a Question on Day 3. I Put It on My Build List. Today I Shipped the Answer.](https://dev.to/mbugua_cessy/day-23-of-60-someone-asked-me-a-question-on-day-3-i-put-it-on-my-build-list-today-i-shipped-the-267f)
+- [🌐OS May Recap: Learning to Navigate the Open-Source Galactica](https://dev.to/neithergalax/os-may-recap-learning-to-navigate-the-open-source-galactica-1e1j)
+- [I wrapped a backlink API in an MCP server so I could do SEO gap analysis from inside Claude](https://dev.to/petteri_pucilowski_7ec755/i-wrapped-a-backlink-api-in-an-mcp-server-so-i-could-do-seo-gap-analysis-from-inside-claude-13mk)
+- [LangGraph Production, RAG Memory Challenges, and AI Agent Patterns](https://dev.to/soytuber/langgraph-production-rag-memory-challenges-and-ai-agent-patterns-1bae)
+- [known_hosts](https://dev.to/erixero/knownhosts-40f0)
+- [UbuCon26 Kenya](https://dev.to/markngugi/ubucon26-2g91)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
