@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Polly wants a transcript: giving agents ears and a voice, on your own machine](https://dev.to/drakulavich/polly-wants-a-transcript-giving-agents-ears-and-a-voice-on-your-own-machine-165)
-- [AI coding assistants make junior devs faster and worse at the same time](https://dev.to/adioof/ai-coding-assistants-make-junior-devs-faster-and-worse-at-the-same-time-1ngp)
-- [AI Won&#39;t Save You From Forgetting How to Think](https://dev.to/olehvolos/ai-wont-save-you-from-forgetting-how-to-think-55mp)
-- [encodeURI vs encodeURIComponent: The JavaScript URL Encoding Trap](https://dev.to/zhihu_wu_dea1d82af01a04d7/encodeuri-vs-encodeuricomponent-the-javascript-url-encoding-trap-13p)
-- [Building an MCP Server Using Spring AI, JSON-RPC and SSE &lpar;Server-Sent Events&rpar;](https://dev.to/anil_lalam_2cee9c52a20a39/building-an-mcp-server-using-spring-ai-json-rpc-and-sse-server-sent-events-5i3)
+- [I open-sourced a World Cup 2026 prediction model — and tested it honestly](https://dev.to/jerry_chen_dbaa6838e17336/i-open-sourced-a-world-cup-2026-prediction-model-and-tested-it-honestly-44d1)
+- [WordPress Emails Were Failing Silently on DigitalOcean. Here&#39;s What Broke.](https://dev.to/itsmikekipruto/wordpress-emails-were-failing-silently-on-digitalocean-heres-what-broke-hal)
+- [Reading Belgium&#39;s KBO/CBE registry: what the live API returns](https://dev.to/openregistry/reading-belgiums-kbocbe-registry-what-the-live-api-returns-3410)
+- [🤫 I Built CodeMoji: A VS Code Extension That Turns Code Into Emojis](https://dev.to/vignesh_k_5002/i-built-codemoji-a-vs-code-extension-that-turns-code-into-emojis-241j)
+- [5 AI Pair Programming Patterns That Actually Speed Up Development](https://dev.to/learnairesource/5-ai-pair-programming-patterns-that-actually-speed-up-development-1jad)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
