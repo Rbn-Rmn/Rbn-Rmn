@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Observability 2.0: Tracing AI &quot;Thought Chains&quot; with OpenTelemetry](https://dev.to/tercelyi/observability-20-tracing-ai-thought-chains-with-opentelemetry-3dn4)
-- [What Is a Function in Scala](https://dev.to/portoni/what-is-a-function-in-scala-1n2b)
-- [When the Default Postgres Pool Died at 3 AM](https://dev.to/built-from-africa/when-the-default-postgres-pool-died-at-3-am-j30)
-- [What Is Database Sharding — and When Does Your Startup Actually Need It](https://dev.to/spectredevxyz/what-is-database-sharding-and-when-does-your-startup-actually-need-it-4d0f)
-- [Anti Refusal LLM Service](https://dev.to/cerberusai/anti-refusal-llm-service-478o)
+- [The Most Used Technology in the World Has Zero Marketing and Product People](https://dev.to/himanshu_kumar_8d8c6d1525/the-most-used-technology-in-the-world-has-zero-marketing-and-product-people-388b)
+- [The Principle of Least Privilege: Operational Speed&#39;s Security Cost](https://dev.to/merbayerp/the-principle-of-least-privilege-operational-speeds-security-cost-9b5)
+- [Your AI Sucks at Math. Fix It With One Command.](https://dev.to/wholiver/your-ai-sucks-at-math-fix-it-with-one-command-2f98)
+- [How Zone01 Kisumu &quot;Build from Scratch&quot; Approach Transformed Me from a Framework User to a Problem Solver](https://dev.to/kev_luciano/how-zone01-kisumu-build-from-scratch-approach-transformed-me-from-a-framework-user-to-a-problem-4gb1)
+- [Bringing MongoDB Atlas and Voyage AI to Dify: Build RAG Workflows and Data Agents Without Heavy Glue Code](https://dev.to/mongodb/bringing-mongodb-atlas-and-voyage-ai-to-dify-build-rag-workflows-and-data-agents-without-heavy-1l22)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
