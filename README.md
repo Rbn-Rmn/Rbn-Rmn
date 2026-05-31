@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Four themes for a terminal you read more than you syntax-highlight](https://dev.to/palo_alto_ai/four-themes-for-a-terminal-you-read-more-than-you-syntax-highlight-58kd)
-- [Building Truly Cross-Platform Claude Code Hooks with Go, Bash, PowerShell, WSL, and Git-Bash](https://dev.to/shrsv/building-truly-cross-platform-claude-code-hooks-with-go-bash-powershell-wsl-and-git-bash-1ceo)
-- [I Added a 71-Line Black Box to My Python Agent, Then Queried the $200 Crash With DuckDB](https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18)
-- [The Industry Needs an Open Reasoning Spec. Seven Papers Explain What Goes In It.](https://dev.to/bala_paranj_059d338e44e7e/the-industry-needs-an-open-reasoning-spec-seven-papers-explain-what-goes-in-it-jn4)
-- [Getting Started with eslint-plugin-mongodb-security](https://dev.to/ofri-peretz/getting-started-with-eslint-plugin-mongodb-security-ol6)
+- [Why Your Scraper Works in the Browser But Fails in Python](https://dev.to/extractdata/why-your-scraper-works-in-the-browser-but-fails-in-python-2akh)
+- [pocket-db vs lowdb vs LokiJS: an honest embedded database benchmark](https://dev.to/axfab/pocket-db-vs-lowdb-vs-lokijs-an-honest-embedded-database-benchmark-1bjg)
+- [CLAUDE.md Security Rules: What to Add Now That Claude Code Reviews Your Code](https://dev.to/olivia_craft/claudemd-security-rules-what-to-add-now-that-claude-code-reviews-your-code-3kcf)
+- [🛡️ Building PatchPoint: Unifying DevOps Security Silos with Coral SQL](https://dev.to/abhi_mishra/building-patchpoint-unifying-devops-security-silos-with-coral-sql-318h)
+- [Agent Substrate: The Agentic AI Isolation Layer On K8s](https://dev.to/thenjdevopsguy/agent-substrate-the-agentic-ai-isolation-layer-on-k8s-4emj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
