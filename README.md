@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Scraper Works in the Browser But Fails in Python](https://dev.to/extractdata/why-your-scraper-works-in-the-browser-but-fails-in-python-2akh)
-- [pocket-db vs lowdb vs LokiJS: an honest embedded database benchmark](https://dev.to/axfab/pocket-db-vs-lowdb-vs-lokijs-an-honest-embedded-database-benchmark-1bjg)
-- [CLAUDE.md Security Rules: What to Add Now That Claude Code Reviews Your Code](https://dev.to/olivia_craft/claudemd-security-rules-what-to-add-now-that-claude-code-reviews-your-code-3kcf)
-- [🛡️ Building PatchPoint: Unifying DevOps Security Silos with Coral SQL](https://dev.to/abhi_mishra/building-patchpoint-unifying-devops-security-silos-with-coral-sql-318h)
-- [Agent Substrate: The Agentic AI Isolation Layer On K8s](https://dev.to/thenjdevopsguy/agent-substrate-the-agentic-ai-isolation-layer-on-k8s-4emj)
+- [Receipts beat scheduled optimism](https://dev.to/cryptokeesan/receipts-beat-scheduled-optimism-1c5d)
+- [Beyond Vector Search: How to Build a Production-Grade Hybrid Memory System for AI Agents](https://dev.to/programmingcentral/beyond-vector-search-how-to-build-a-production-grade-hybrid-memory-system-for-ai-agents-2o2f)
+- [Glean vs Guru vs TactasAI: Enterprise Search, Knowledge Management, or Managed AI Agents?](https://dev.to/danielrfoster/glean-vs-guru-vs-tactasai-enterprise-search-knowledge-management-or-managed-ai-agents-3655)
+- [Ultracode for Codex: Claude-style Dynamic Workflows with a Skill](https://dev.to/pablonax/ultracode-for-codex-claude-style-dynamic-workflows-with-a-skill-3knk)
+- [Day 23 of 60: Someone Asked Me a Question on Day 3. I Put It on My Build List. Today I Shipped the Answer.](https://dev.to/mbugua_cessy/day-23-of-60-someone-asked-me-a-question-on-day-3-i-put-it-on-my-build-list-today-i-shipped-the-267f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
