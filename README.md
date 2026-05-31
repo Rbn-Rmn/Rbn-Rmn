@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Arazzo Visualizer: Run API Workflows in VS Code](https://dev.to/himethw/arazzo-visualizer-run-api-workflows-in-vs-code-imo)
-- [Developer will need to understand lambda by 2026](https://dev.to/hamza_rafique_ee4b2091ff6/developer-will-need-to-understand-lambda-by-2026-4gg)
-- [App Size: A Battle for Every Kilobyte, or Prioritizing Functionality?](https://dev.to/merbayerp/app-size-a-battle-for-every-kilobyte-or-prioritizing-functionality-3275)
-- [How AI reads your website, and what that means for the people who build it](https://dev.to/onecaratlabs/how-ai-reads-your-website-and-what-that-means-for-the-people-who-build-it-3h64)
-- [How I Built a Live Football Platform That Doesn&#39;t Fall Apart Under Load](https://dev.to/hafizsyedahmedali/how-i-built-a-live-football-platform-that-doesnt-fall-apart-under-load-439e)
+- [AI Smart Contract Review: The Finding Is Not the Audit](https://dev.to/aicryptosystems/ai-smart-contract-review-the-finding-is-not-the-audit-1lmb)
+- [Bing Search API Replacement: scrape SERP results for $1.05/1K](https://dev.to/devil_scrapes/bing-search-api-replacement-scrape-serp-results-for-1051k-6lg)
+- [The Junior Developer Is Disappearing. Here&#39;s What AI Editors Did to the Entry Ramp.](https://dev.to/zyvop/the-junior-developer-is-disappearing-heres-what-ai-editors-did-to-the-entry-ramp-26e6)
+- [ATS Tech Stack Detector: pull company back-end stacks from jobs for $5.05/1K](https://dev.to/devil_scrapes/ats-tech-stack-detector-pull-company-back-end-stacks-from-jobs-for-5051k-1444)
+- [Is AWS Certification Worth It in 2026?](https://dev.to/vivek-pillai/is-aws-certification-worth-it-in-2026-524b)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
