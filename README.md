@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI Smart Contract Review: The Finding Is Not the Audit](https://dev.to/aicryptosystems/ai-smart-contract-review-the-finding-is-not-the-audit-1lmb)
-- [Bing Search API Replacement: scrape SERP results for $1.05/1K](https://dev.to/devil_scrapes/bing-search-api-replacement-scrape-serp-results-for-1051k-6lg)
-- [The Junior Developer Is Disappearing. Here&#39;s What AI Editors Did to the Entry Ramp.](https://dev.to/zyvop/the-junior-developer-is-disappearing-heres-what-ai-editors-did-to-the-entry-ramp-26e6)
-- [ATS Tech Stack Detector: pull company back-end stacks from jobs for $5.05/1K](https://dev.to/devil_scrapes/ats-tech-stack-detector-pull-company-back-end-stacks-from-jobs-for-5051k-1444)
-- [Is AWS Certification Worth It in 2026?](https://dev.to/vivek-pillai/is-aws-certification-worth-it-in-2026-524b)
+- [Polly wants a transcript: giving agents ears and a voice, on your own machine](https://dev.to/drakulavich/polly-wants-a-transcript-giving-agents-ears-and-a-voice-on-your-own-machine-165)
+- [AI coding assistants make junior devs faster and worse at the same time](https://dev.to/adioof/ai-coding-assistants-make-junior-devs-faster-and-worse-at-the-same-time-1ngp)
+- [AI Won&#39;t Save You From Forgetting How to Think](https://dev.to/olehvolos/ai-wont-save-you-from-forgetting-how-to-think-55mp)
+- [encodeURI vs encodeURIComponent: The JavaScript URL Encoding Trap](https://dev.to/zhihu_wu_dea1d82af01a04d7/encodeuri-vs-encodeuricomponent-the-javascript-url-encoding-trap-13p)
+- [Building an MCP Server Using Spring AI, JSON-RPC and SSE &lpar;Server-Sent Events&rpar;](https://dev.to/anil_lalam_2cee9c52a20a39/building-an-mcp-server-using-spring-ai-json-rpc-and-sse-server-sent-events-5i3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
