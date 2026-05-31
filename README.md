@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I open-sourced a World Cup 2026 prediction model — and tested it honestly](https://dev.to/jerry_chen_dbaa6838e17336/i-open-sourced-a-world-cup-2026-prediction-model-and-tested-it-honestly-44d1)
-- [WordPress Emails Were Failing Silently on DigitalOcean. Here&#39;s What Broke.](https://dev.to/itsmikekipruto/wordpress-emails-were-failing-silently-on-digitalocean-heres-what-broke-hal)
-- [Reading Belgium&#39;s KBO/CBE registry: what the live API returns](https://dev.to/openregistry/reading-belgiums-kbocbe-registry-what-the-live-api-returns-3410)
-- [🤫 I Built CodeMoji: A VS Code Extension That Turns Code Into Emojis](https://dev.to/vignesh_k_5002/i-built-codemoji-a-vs-code-extension-that-turns-code-into-emojis-241j)
-- [5 AI Pair Programming Patterns That Actually Speed Up Development](https://dev.to/learnairesource/5-ai-pair-programming-patterns-that-actually-speed-up-development-1jad)
+- [Four themes for a terminal you read more than you syntax-highlight](https://dev.to/palo_alto_ai/four-themes-for-a-terminal-you-read-more-than-you-syntax-highlight-58kd)
+- [Building Truly Cross-Platform Claude Code Hooks with Go, Bash, PowerShell, WSL, and Git-Bash](https://dev.to/shrsv/building-truly-cross-platform-claude-code-hooks-with-go-bash-powershell-wsl-and-git-bash-1ceo)
+- [I Added a 71-Line Black Box to My Python Agent, Then Queried the $200 Crash With DuckDB](https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18)
+- [The Industry Needs an Open Reasoning Spec. Seven Papers Explain What Goes In It.](https://dev.to/bala_paranj_059d338e44e7e/the-industry-needs-an-open-reasoning-spec-seven-papers-explain-what-goes-in-it-jn4)
+- [Getting Started with eslint-plugin-mongodb-security](https://dev.to/ofri-peretz/getting-started-with-eslint-plugin-mongodb-security-ol6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
