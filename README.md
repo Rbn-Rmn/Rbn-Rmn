@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Hermes Commander: An Autonomous Research Assistant Powered by Hermes Agent 🧠](https://dev.to/anmolpawar_/hermes-commander-an-autonomous-research-assistant-powered-by-hermes-agent-1iim)
-- [Have Antigravity review prompts update themselves when your codebase changes](https://dev.to/thmoje/built-a-system-where-antigravity-review-prompts-update-themselves-when-your-codebase-changes-283b)
-- [Building a Cloud SIEM from Scratch with AWS Lambda and EventBridge](https://dev.to/antonio-1313/building-a-cloud-siem-from-scratch-with-aws-lambda-and-eventbridge-59id)
-- [Compound Engineering: A Plugin That Makes Your AI Coding Agent Smarter Over Time](https://dev.to/arshtechpro/compound-engineering-a-plugin-that-makes-your-ai-coding-agent-smarter-over-time-2pp0)
-- [&quot;I Reviewed 50 Dev Resumes — These 5 Mistakes Killed Their Chances&quot;](https://dev.to/devraj_singh7/i-reviewed-50-dev-resumes-these-5-mistakes-killed-their-chances-3l92)
+- [Observability 2.0: Tracing AI &quot;Thought Chains&quot; with OpenTelemetry](https://dev.to/tercelyi/observability-20-tracing-ai-thought-chains-with-opentelemetry-3dn4)
+- [What Is a Function in Scala](https://dev.to/portoni/what-is-a-function-in-scala-1n2b)
+- [When the Default Postgres Pool Died at 3 AM](https://dev.to/built-from-africa/when-the-default-postgres-pool-died-at-3-am-j30)
+- [What Is Database Sharding — and When Does Your Startup Actually Need It](https://dev.to/spectredevxyz/what-is-database-sharding-and-when-does-your-startup-actually-need-it-4d0f)
+- [Anti Refusal LLM Service](https://dev.to/cerberusai/anti-refusal-llm-service-478o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
