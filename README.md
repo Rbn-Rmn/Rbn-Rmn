@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Still Have Nightmares About Our Server Melting Down on Launch Day Because of One Misconfigured Event Loop](https://dev.to/built-from-africa/i-still-have-nightmares-about-our-server-melting-down-on-launch-day-because-of-one-misconfigured-fin)
-- [Real Cost per Voice Call: $0.31 After 12 Months in Production](https://dev.to/isabelle_dubuis_d858453d7/real-cost-per-voice-call-031-after-12-months-in-production-ofn)
-- [Why are large language models so terrible at video games?!](https://dev.to/mgobea/why-are-large-language-models-so-terrible-at-video-games-1c1d)
-- [5 Signs Your Business IT Setup Is Costing You Money](https://dev.to/iurii_rogulia/5-signs-your-business-it-setup-is-costing-you-money-38gl)
-- [Open-Source Multi-Agent Orchestration: Lessons from AgentForge](https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-4omg)
+- [How to Secure Applications Deployed Across Multiple Clouds using IBM Cloud](https://dev.to/vscottz/how-to-secure-applications-deployed-across-multiple-clouds-3p3o)
+- [Why your OSINT tool lies to you](https://dev.to/wrg11/why-your-osint-tool-lies-to-you-3fbp)
+- [From Sinus Relief to Toxic Gas: A Lesson in LLM Overreliance &lpar;LLM09&rpar;](https://dev.to/ggle_in/from-sinus-relief-to-toxic-gas-a-lesson-in-llm-overreliance-llm09-dhp)
+- [Building Picture-in-Picture &lpar;PiP&rpar; Mode in React Native with Expo and TypeScript](https://dev.to/dainyjose/building-picture-in-picture-pip-mode-in-react-native-with-expo-and-typescript-af6)
+- [Silent Skills Every Developer Should Build](https://dev.to/fcharles/silent-skills-every-developer-should-build-56fe)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
