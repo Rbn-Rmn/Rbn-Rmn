@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Transaction Simulation Story: The Dry Run Is Not the Signed Result](https://dev.to/aicryptosystems/transaction-simulation-story-the-dry-run-is-not-the-signed-result-n32)
-- [GitHub Finish-Up-A-Thon Submission: FR-RUST](https://dev.to/sayed_anower_780d008cfd14/github-finish-up-a-thon-submission-fr-rust-35pn)
-- [Understanding useContext in React: A Simple Guide](https://dev.to/jayashree_a84b6eff7bc414e/understanding-usecontext-in-react-a-simple-guide-19ec)
-- [How to get your name recognized by the LLMs &lpar;a practical entity playbook&rpar;](https://dev.to/jbrazy480/how-to-get-your-name-recognized-by-the-llms-a-practical-entity-playbook-1j96)
-- [Treating Robots as Code: Why We Built a Programmable IR for ROS 2](https://dev.to/arounamounchili/treating-robots-as-code-why-we-built-a-programmable-ir-for-ros-2-2pg1)
+- [I Still Have Nightmares About Our Server Melting Down on Launch Day Because of One Misconfigured Event Loop](https://dev.to/built-from-africa/i-still-have-nightmares-about-our-server-melting-down-on-launch-day-because-of-one-misconfigured-fin)
+- [Real Cost per Voice Call: $0.31 After 12 Months in Production](https://dev.to/isabelle_dubuis_d858453d7/real-cost-per-voice-call-031-after-12-months-in-production-ofn)
+- [Why are large language models so terrible at video games?!](https://dev.to/mgobea/why-are-large-language-models-so-terrible-at-video-games-1c1d)
+- [5 Signs Your Business IT Setup Is Costing You Money](https://dev.to/iurii_rogulia/5-signs-your-business-it-setup-is-costing-you-money-38gl)
+- [Open-Source Multi-Agent Orchestration: Lessons from AgentForge](https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-4omg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
