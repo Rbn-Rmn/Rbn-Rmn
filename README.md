@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Applications Deployed Across Multiple Clouds using IBM Cloud](https://dev.to/vscottz/how-to-secure-applications-deployed-across-multiple-clouds-3p3o)
-- [Why your OSINT tool lies to you](https://dev.to/wrg11/why-your-osint-tool-lies-to-you-3fbp)
-- [From Sinus Relief to Toxic Gas: A Lesson in LLM Overreliance &lpar;LLM09&rpar;](https://dev.to/ggle_in/from-sinus-relief-to-toxic-gas-a-lesson-in-llm-overreliance-llm09-dhp)
-- [Building Picture-in-Picture &lpar;PiP&rpar; Mode in React Native with Expo and TypeScript](https://dev.to/dainyjose/building-picture-in-picture-pip-mode-in-react-native-with-expo-and-typescript-af6)
-- [Silent Skills Every Developer Should Build](https://dev.to/fcharles/silent-skills-every-developer-should-build-56fe)
+- [AI Builder Notes - May 2026](https://dev.to/srijanshukla18/ai-builder-notes-may-2026-450g)
+- [The Bypass-First Principle: How to Ship When Everything Is Blocked](https://dev.to/l850097071/the-bypass-first-principle-how-to-ship-when-everything-is-blocked-21pm)
+- [FinTech &amp; Algorithmic Risk Control: How VPS Automation and API Integration Protect Capital and Eliminate Human Execution Errors in Trading](https://dev.to/amendamax2025/fintech-algorithmic-risk-control-how-vps-automation-and-api-integration-protect-capital-and-25c8)
+- [peektea v2: yesterday it peeked, today it actually opens things](https://dev.to/lovestaco/peektea-v2-yesterday-it-peeked-today-it-actually-opens-things-njh)
+- [What I Got Wrong About Claude Code &lpar;And How I Fixed It&rpar;](https://dev.to/jszutkowski/what-i-got-wrong-about-claude-code-and-how-i-fixed-it-4f48)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
