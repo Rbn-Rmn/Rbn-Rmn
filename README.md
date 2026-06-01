@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Elevating Legacy PHP Authentication to Enterprise Standards: A Zero-Trust Approach](https://dev.to/nkhayatei/elevating-legacy-php-authentication-to-enterprise-standards-a-zero-trust-approach-37j1)
-- [Breathing Life into the Pi: Deploying Gemma 4 2B on a Raspberry Pi 5](https://dev.to/hey_atharva/breathing-life-into-the-pi-deploying-gemma-4-2b-on-a-raspberry-pi-5-5gn2)
-- [I Sent 240 PRs to Open Source Repos Using an AI Agent — Here&#39;s the Brutal Truth About What Actually Gets Merged](https://dev.to/zeroknowledge0x/i-sent-240-prs-to-open-source-repos-using-an-ai-agent-heres-the-brutal-truth-about-what-actually-16ic)
-- [Odoo Website Promo Bars Without Custom Theme Code Every Black Friday](https://dev.to/zackbm/odoo-website-promo-bars-without-custom-theme-code-every-black-friday-2f41)
-- [12 Engineering Habits That Cut LLM Token Spend at Production Scale](https://dev.to/shakti_mishra_308e9f36b5d/12-engineering-habits-that-cut-llm-token-spend-at-production-scale-24jp)
+- [Why NSOpenPanel Can&#39;t See Your Android Device](https://dev.to/hiyoyok/why-nsopenpanel-cant-see-your-android-device-257j)
+- [Reflections on AI &lpar;large language models&rpar; in various fields](https://dev.to/keliumju/reflections-on-ai-large-language-models-in-various-fields-816)
+- [RAG - Hybrid search and RAG pipeline using FAISS DB](https://dev.to/ramya_perumal_e93721ef2fa/rag-hybrid-search-and-rag-pipeline-using-faiss-db-3hhk)
+- [Why ROU Asset Depreciation Checks Fail When Schedule And Journal Logic Drift](https://dev.to/adamjomi222/why-rou-asset-depreciation-checks-fail-when-schedule-and-journal-logic-drift-2bk9)
+- [Tossed The T.V. but Kept the Remote? Here&#39;s how to NOT generate more E-Waste.](https://dev.to/brisk4t/tossed-the-tv-but-kept-the-remote-heres-how-to-not-generate-more-e-waste-8ha)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
