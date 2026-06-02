@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Forgot My Own LeetCode Solutions After 10 Days — So I Built This](https://dev.to/null_pointer/i-forgot-my-own-leetcode-solutions-after-10-days-so-i-built-this-k06)
-- [Prompting styles - Basic](https://dev.to/indumathi__r/prompting-styles-basic-45m5)
-- [I Wish I Knew This Speed Hack Sooner — Here&#39;s the Full Breakdown](https://dev.to/truelane/i-wish-i-knew-this-speed-hack-sooner-heres-the-full-breakdown-4d67)
-- [Be Recommended by Inithouse: How to Set Up AI Brand Monitoring in 10 Minutes](https://dev.to/jakub_inithouse/be-recommended-by-inithouse-how-to-set-up-ai-brand-monitoring-in-10-minutes-gbp)
-- [The NLM Drug Interaction API is gone — here&#39;s what to use instead](https://dev.to/ben_feeney_f0074083491ec6/the-nlm-drug-interaction-api-is-gone-heres-what-to-use-instead-2ac7)
+- [Quick Tip: Switch From Proprietary Lock-In to Open Source AI in Under 10 Minutes](https://dev.to/purecast/quick-tip-switch-from-proprietary-lock-in-to-open-source-ai-in-under-10-minutes-5fi6)
+- [Agentic: Which App/Harness Is Best for Angular Development?](https://dev.to/lxt/agentic-which-appharness-is-best-for-angular-development-28h9)
+- [ExchangeCash: Reviving My Location-Based Cash Exchange Platform](https://dev.to/ashish_yadav_0e4a68bb3d1d/exchangecash-reviving-my-location-based-cash-exchange-platform-4a1f)
+- [Great Stack to Doesn&#39;t Work #4 — Kubernetes: &quot;Pod Is Running, App Is Dead&quot;](https://dev.to/turacthethinker/great-stack-to-doesnt-work-4-kubernetes-pod-is-running-app-is-dead-218g)
+- [Top 10 AI Agent FinOps Tools in 2026: An Honest Buyer Comparison](https://dev.to/muskan_8abedcc7e12/top-10-ai-agent-finops-tools-in-2026-an-honest-buyer-comparison-4j5j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
