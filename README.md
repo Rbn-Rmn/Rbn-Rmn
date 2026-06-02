@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Blind Spot of Agentic AI Systems — When Nobody Notices the Agent Is Stuck](https://dev.to/mypatric69/the-blind-spot-of-agentic-ai-systems-when-nobody-notices-the-agent-is-stuck-1hkb)
-- [FenceGuard, part 1: first sensor ordered and why I&#39;m starting small](https://dev.to/emeliefogelstrom/fenceguard-part-1-first-sensor-ordered-and-why-im-starting-small-905)
-- [CSS ellipsis is great. Until the string itself matters.](https://dev.to/tonyblu331/css-ellipsis-is-great-until-the-string-itself-matters-1ijl)
-- [How to Cheat LLM Context: A Lightweight AI Doc Assistant Architecture](https://dev.to/p-zielinski/how-to-cheat-llm-context-a-lightweight-ai-doc-assistant-architecture-3hl1)
-- [Benford&#39;s Law: Catching Data Fabrication and Corporate Fraud with Pure Math](https://dev.to/white_oak_intel/benfords-law-catching-data-fabrication-and-corporate-fraud-with-pure-math-3l7j)
+- [How My Team from Risevest Academy Built an End-to-End Encrypted Messaging App in 3 Weeks](https://dev.to/olusi_jackson_52199637ef3/how-my-team-from-risevest-academy-built-an-end-to-end-encrypted-messaging-app-in-3-weeks-4hma)
+- [Next.js 16 Caching for E-Commerce: Cache Components, use cache, revalidateTag, and Fresh Product Data](https://dev.to/u11d/nextjs-16-caching-for-e-commerce-cache-components-use-cache-revalidatetag-and-fresh-product-4ik1)
+- [Building My First React Component with TypeScript: A Beginner&#39;s Breakdown](https://dev.to/danikeya/building-my-first-react-component-with-typescript-a-beginners-breakdown-5783)
+- [SQL Interview Problems for Data Engineers: 30 Patterns That Actually Get Asked](https://dev.to/de_clerke/sql-interview-problems-for-data-engineers-30-patterns-that-actually-get-asked-4npk)
+- [Rust, C++, and the Creative Power of Free Software](https://dev.to/leandro_rabindranathlen/rust-c-and-the-creative-power-of-free-software-2gdj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
