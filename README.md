@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [ExpressoTS v4 is in preview, and the new site + docs are live.](https://dev.to/expressots/expressots-v4-is-in-preview-and-the-new-site-docs-are-live-44df)
-- [How to add a contact form to a static site without a backend](https://dev.to/vaibhav_jain_3b62a5510248/how-to-add-a-contact-form-to-a-static-site-without-a-backend-3je9)
-- [Interview Q &amp; A Non-technical](https://dev.to/tapaspal/interview-q-a-non-technical-5541)
-- [SAA-Lab1 — Scaling en AWS &lpar;baseline&rpar;: ALB + Auto Scaling + CloudFront](https://dev.to/llunarg/saa-lab1-scaling-en-aws-baseline-alb-auto-scaling-cloudfront-3pc3)
-- [Your AI Team Is Building Debt Your CFO Can&#39;t See. Here&#39;s the Ledger.](https://dev.to/keithjmackay/your-ai-team-is-building-debt-your-cfo-cant-see-heres-the-ledger-65c)
+- [I Forgot My Own LeetCode Solutions After 10 Days — So I Built This](https://dev.to/null_pointer/i-forgot-my-own-leetcode-solutions-after-10-days-so-i-built-this-k06)
+- [Prompting styles - Basic](https://dev.to/indumathi__r/prompting-styles-basic-45m5)
+- [I Wish I Knew This Speed Hack Sooner — Here&#39;s the Full Breakdown](https://dev.to/truelane/i-wish-i-knew-this-speed-hack-sooner-heres-the-full-breakdown-4d67)
+- [Be Recommended by Inithouse: How to Set Up AI Brand Monitoring in 10 Minutes](https://dev.to/jakub_inithouse/be-recommended-by-inithouse-how-to-set-up-ai-brand-monitoring-in-10-minutes-gbp)
+- [The NLM Drug Interaction API is gone — here&#39;s what to use instead](https://dev.to/ben_feeney_f0074083491ec6/the-nlm-drug-interaction-api-is-gone-heres-what-to-use-instead-2ac7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
