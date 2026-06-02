@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Writing an Operator-Friendly Developer Console: A Practical Guide to Building a Low-Latency Internal](https://dev.to/therizwansaleem/writing-an-operator-friendly-developer-console-a-practical-guide-to-building-a-low-latency-internal-260)
-- [One OpenAI-compatible endpoint for 200+ AI models](https://dev.to/routerbase/one-openai-compatible-endpoint-for-200-ai-models-2ljf)
-- [I Built a Browser Extension to Intercept HTTP Requests – Here&#39;s What I Learned about Manifest V3](https://dev.to/request_bridge_93f2bbc3b8/i-built-a-browser-extension-to-intercept-http-requests-heres-what-i-learned-about-manifest-v3-28o)
-- [Onchain Model Card: The Claim Can Change While the Hash Cannot](https://dev.to/aicryptosystems/onchain-model-card-the-claim-can-change-while-the-hash-cannot-353p)
-- [veil-cli: a terminal wallet that makes you understand before you sign](https://dev.to/summusforge/veil-cli-a-terminal-wallet-that-makes-you-understand-before-you-sign-2003)
+- [OpenCode review 2026: the open-source terminal coding agent that challenges Claude Code](https://dev.to/jovan_chan_9500711396d4e6/opencode-review-2026-the-open-source-terminal-coding-agent-that-challenges-claude-code-5a89)
+- [O Marketing do Apocalipse: Como a Ameaça à Democracia Virou a Vaga de Emprego Mais Cobiçada de 2026 no Mercado de T.I.?](https://dev.to/flavioconca/o-marketing-do-apocalipse-como-a-ameaca-a-democracia-virou-a-vaga-de-emprego-mais-cobicada-de-2026-2k2b)
+- [Using one LLM API key across OpenAI-compatible clients, Claude Code, and terminal agents](https://dev.to/tokenhubapi/using-one-llm-api-key-across-openai-compatible-clients-claude-code-and-terminal-agents-3eng)
+- [AI Pipeline: Preventing Drift in Production Systems](https://dev.to/launchdarkly/ai-pipeline-preventing-drift-in-production-systems-3k1g)
+- [SQL Pattern Series #2: The Match Pattern](https://dev.to/baldwin_apps/sql-pattern-series-2-the-match-pattern-4716)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
