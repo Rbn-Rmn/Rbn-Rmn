@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [OpenCode review 2026: the open-source terminal coding agent that challenges Claude Code](https://dev.to/jovan_chan_9500711396d4e6/opencode-review-2026-the-open-source-terminal-coding-agent-that-challenges-claude-code-5a89)
-- [O Marketing do Apocalipse: Como a Ameaça à Democracia Virou a Vaga de Emprego Mais Cobiçada de 2026 no Mercado de T.I.?](https://dev.to/flavioconca/o-marketing-do-apocalipse-como-a-ameaca-a-democracia-virou-a-vaga-de-emprego-mais-cobicada-de-2026-2k2b)
-- [Using one LLM API key across OpenAI-compatible clients, Claude Code, and terminal agents](https://dev.to/tokenhubapi/using-one-llm-api-key-across-openai-compatible-clients-claude-code-and-terminal-agents-3eng)
-- [AI Pipeline: Preventing Drift in Production Systems](https://dev.to/launchdarkly/ai-pipeline-preventing-drift-in-production-systems-3k1g)
-- [SQL Pattern Series #2: The Match Pattern](https://dev.to/baldwin_apps/sql-pattern-series-2-the-match-pattern-4716)
+- [The Blind Spot of Agentic AI Systems — When Nobody Notices the Agent Is Stuck](https://dev.to/mypatric69/the-blind-spot-of-agentic-ai-systems-when-nobody-notices-the-agent-is-stuck-1hkb)
+- [FenceGuard, part 1: first sensor ordered and why I&#39;m starting small](https://dev.to/emeliefogelstrom/fenceguard-part-1-first-sensor-ordered-and-why-im-starting-small-905)
+- [CSS ellipsis is great. Until the string itself matters.](https://dev.to/tonyblu331/css-ellipsis-is-great-until-the-string-itself-matters-1ijl)
+- [How to Cheat LLM Context: A Lightweight AI Doc Assistant Architecture](https://dev.to/p-zielinski/how-to-cheat-llm-context-a-lightweight-ai-doc-assistant-architecture-3hl1)
+- [Benford&#39;s Law: Catching Data Fabrication and Corporate Fraud with Pure Math](https://dev.to/white_oak_intel/benfords-law-catching-data-fabrication-and-corporate-fraud-with-pure-math-3l7j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
