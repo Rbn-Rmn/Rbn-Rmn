@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Quick Tip: Switch From Proprietary Lock-In to Open Source AI in Under 10 Minutes](https://dev.to/purecast/quick-tip-switch-from-proprietary-lock-in-to-open-source-ai-in-under-10-minutes-5fi6)
-- [Agentic: Which App/Harness Is Best for Angular Development?](https://dev.to/lxt/agentic-which-appharness-is-best-for-angular-development-28h9)
-- [ExchangeCash: Reviving My Location-Based Cash Exchange Platform](https://dev.to/ashish_yadav_0e4a68bb3d1d/exchangecash-reviving-my-location-based-cash-exchange-platform-4a1f)
-- [Great Stack to Doesn&#39;t Work #4 — Kubernetes: &quot;Pod Is Running, App Is Dead&quot;](https://dev.to/turacthethinker/great-stack-to-doesnt-work-4-kubernetes-pod-is-running-app-is-dead-218g)
-- [Top 10 AI Agent FinOps Tools in 2026: An Honest Buyer Comparison](https://dev.to/muskan_8abedcc7e12/top-10-ai-agent-finops-tools-in-2026-an-honest-buyer-comparison-4j5j)
+- [Writing an Operator-Friendly Developer Console: A Practical Guide to Building a Low-Latency Internal](https://dev.to/therizwansaleem/writing-an-operator-friendly-developer-console-a-practical-guide-to-building-a-low-latency-internal-260)
+- [One OpenAI-compatible endpoint for 200+ AI models](https://dev.to/routerbase/one-openai-compatible-endpoint-for-200-ai-models-2ljf)
+- [I Built a Browser Extension to Intercept HTTP Requests – Here&#39;s What I Learned about Manifest V3](https://dev.to/request_bridge_93f2bbc3b8/i-built-a-browser-extension-to-intercept-http-requests-heres-what-i-learned-about-manifest-v3-28o)
+- [Onchain Model Card: The Claim Can Change While the Hash Cannot](https://dev.to/aicryptosystems/onchain-model-card-the-claim-can-change-while-the-hash-cannot-353p)
+- [veil-cli: a terminal wallet that makes you understand before you sign](https://dev.to/summusforge/veil-cli-a-terminal-wallet-that-makes-you-understand-before-you-sign-2003)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
