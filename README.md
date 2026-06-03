@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I had a folder full of dead repos. So I built a graveyard — and a way to raise them.](https://dev.to/chintanonweb/i-had-a-folder-full-of-dead-repos-so-i-built-a-graveyard-and-a-way-to-raise-them-383l)
-- [5 Architecture Mistakes I Made as a Full-Stack Developer &lpar;And What They Taught Me&rpar;](https://dev.to/saikrishna_gopannagari_f9/5-architecture-mistakes-i-made-as-a-full-stack-developer-and-what-they-taught-me-1i5b)
-- [I Built an AI-Powered Meeting Platform From Scratch — Here’s How It Actually Works](https://dev.to/anupam_kumar/i-built-an-ai-powered-meeting-platform-from-scratch-heres-how-it-actually-works-31p)
-- [How the State.js Ecosystem Solves the Performance vs. Experience Paradox in Modern E‑Commerce](https://dev.to/idevgames/how-the-statejs-ecosystem-solves-the-performance-vs-experience-paradox-in-modern-e-commerce-em2)
-- [Building LifeFast: A Solo Founder&#39;s Deep Dive into Fasting App Architecture](https://dev.to/jane49cloud/building-lifefast-a-solo-founders-deep-dive-into-fasting-app-architecture-p9o)
+- [Triggering Lambda Durable Functions from SQS](https://dev.to/aws-builders/triggering-lambda-durable-functions-from-sqs-350e)
+- [Stop letting your hackathon API keys rot](https://dev.to/backboardio/stop-letting-your-hackathon-api-keys-rot-542j)
+- [Scarab Diagnostic Suite Field Test #006: Terraform Console Panic](https://dev.to/scarab-systems/scarab-diagnostic-suite-field-test-006-terraform-console-panic-3n68)
+- [We&#39;re Open Sourcing Our Voice AI Latency Benchmarking Tool](https://dev.to/autor_tech/were-open-sourcing-our-voice-ai-latency-benchmarking-tool-3oa8)
+- [Dogfooding MEA Against My Zero-Cost Homelab &lpar;And the Troubleshooting Hell Along the Way](https://dev.to/null_saint/dogfooding-my-own-passive-ics-security-analyzer-against-my-zero-cost-homelab-and-the-12ag)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
