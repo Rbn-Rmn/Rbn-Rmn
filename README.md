@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [You can&#39;t delete an event. GDPR says you must. Crypto-shredding is the truce.](https://dev.to/norbertrosenwinkel/you-cant-delete-an-event-gdpr-says-you-must-crypto-shredding-is-the-truce-26ak)
-- [A Deep Dive into Cleaning Persistent WordPress Malware and Hardening the REST API](https://dev.to/jahidshah/a-deep-dive-into-cleaning-persistent-wordpress-malware-and-hardening-the-rest-api-kok)
-- [Show DEV: Obex, a faith-based self-control app with streak tracking and blockers](https://dev.to/thisislvca/show-dev-obex-a-faith-based-self-control-app-with-streak-tracking-and-blockers-3mle)
-- [Export Grok Chats to Markdown, Notion, and PDF in One Click 🚀](https://dev.to/anuis258/export-grok-chats-to-markdown-notion-and-pdf-in-one-click-1lcb)
-- [I built a JavaScript library that adds hover sounds to any HTML element.](https://dev.to/paulo_guerra_f55162e5fc6d/i-built-a-javascript-library-that-adds-hover-sounds-to-any-html-element-3588)
+- [I had a folder full of dead repos. So I built a graveyard — and a way to raise them.](https://dev.to/chintanonweb/i-had-a-folder-full-of-dead-repos-so-i-built-a-graveyard-and-a-way-to-raise-them-383l)
+- [5 Architecture Mistakes I Made as a Full-Stack Developer &lpar;And What They Taught Me&rpar;](https://dev.to/saikrishna_gopannagari_f9/5-architecture-mistakes-i-made-as-a-full-stack-developer-and-what-they-taught-me-1i5b)
+- [I Built an AI-Powered Meeting Platform From Scratch — Here’s How It Actually Works](https://dev.to/anupam_kumar/i-built-an-ai-powered-meeting-platform-from-scratch-heres-how-it-actually-works-31p)
+- [How the State.js Ecosystem Solves the Performance vs. Experience Paradox in Modern E‑Commerce](https://dev.to/idevgames/how-the-statejs-ecosystem-solves-the-performance-vs-experience-paradox-in-modern-e-commerce-em2)
+- [Building LifeFast: A Solo Founder&#39;s Deep Dive into Fasting App Architecture](https://dev.to/jane49cloud/building-lifefast-a-solo-founders-deep-dive-into-fasting-app-architecture-p9o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
