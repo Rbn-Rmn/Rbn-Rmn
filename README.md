@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How My Team from Risevest Academy Built an End-to-End Encrypted Messaging App in 3 Weeks](https://dev.to/olusi_jackson_52199637ef3/how-my-team-from-risevest-academy-built-an-end-to-end-encrypted-messaging-app-in-3-weeks-4hma)
-- [Next.js 16 Caching for E-Commerce: Cache Components, use cache, revalidateTag, and Fresh Product Data](https://dev.to/u11d/nextjs-16-caching-for-e-commerce-cache-components-use-cache-revalidatetag-and-fresh-product-4ik1)
-- [Building My First React Component with TypeScript: A Beginner&#39;s Breakdown](https://dev.to/danikeya/building-my-first-react-component-with-typescript-a-beginners-breakdown-5783)
-- [SQL Interview Problems for Data Engineers: 30 Patterns That Actually Get Asked](https://dev.to/de_clerke/sql-interview-problems-for-data-engineers-30-patterns-that-actually-get-asked-4npk)
-- [Rust, C++, and the Creative Power of Free Software](https://dev.to/leandro_rabindranathlen/rust-c-and-the-creative-power-of-free-software-2gdj)
+- [How many of us developers end up inadvertently running businesses? Starting out with hobby projects, seeing that there are operating costs, wanting to charge users or monetize and eventually having to register a company to funnel payments correctly?](https://dev.to/emiara/how-many-of-us-developers-end-up-inadvertently-running-businesses-starting-out-with-hobby-26d0)
+- [copilot automations turn agents into scheduled infrastructure](https://dev.to/pvgomes/copilot-automations-turn-agents-into-scheduled-infrastructure-b2i)
+- [Why I built Cadence: I wanted GSD&#39;s discipline without GSD&#39;s bill](https://dev.to/manehorizons/why-i-built-cadence-i-wanted-gsds-discipline-without-gsds-bill-15g5)
+- [Building Your First Developer Agent With OpenAI Agents SDK](https://dev.to/nazar_boyko/building-your-first-developer-agent-with-openai-agents-sdk-5egg)
+- [I built a Chrome extension that tests web forms with AI](https://dev.to/ishimirwe_denyse_dcb4142f/i-built-a-chrome-extension-that-tests-web-forms-with-ai-2m7l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
