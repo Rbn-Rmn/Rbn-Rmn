@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How many of us developers end up inadvertently running businesses? Starting out with hobby projects, seeing that there are operating costs, wanting to charge users or monetize and eventually having to register a company to funnel payments correctly?](https://dev.to/emiara/how-many-of-us-developers-end-up-inadvertently-running-businesses-starting-out-with-hobby-26d0)
-- [copilot automations turn agents into scheduled infrastructure](https://dev.to/pvgomes/copilot-automations-turn-agents-into-scheduled-infrastructure-b2i)
-- [Why I built Cadence: I wanted GSD&#39;s discipline without GSD&#39;s bill](https://dev.to/manehorizons/why-i-built-cadence-i-wanted-gsds-discipline-without-gsds-bill-15g5)
-- [Building Your First Developer Agent With OpenAI Agents SDK](https://dev.to/nazar_boyko/building-your-first-developer-agent-with-openai-agents-sdk-5egg)
-- [I built a Chrome extension that tests web forms with AI](https://dev.to/ishimirwe_denyse_dcb4142f/i-built-a-chrome-extension-that-tests-web-forms-with-ai-2m7l)
+- [How Unicode Font Generators Work for Instagram Bios](https://dev.to/owenwilsondev/how-unicode-font-generators-work-for-instagram-bios-5aeg)
+- [Running 35B–400B LLMs on a GPU-less Cluster to Mine 10,000 Papers — and the 4 Bugs That Almost Ruined the Data](https://dev.to/sysoft/running-35b-400b-llms-on-a-gpu-less-cluster-to-mine-10000-papers-and-the-4-bugs-that-almost-ka3)
+- [The Infrastructure Rule That Prevents AI Automation Disasters](https://dev.to/karan2598/the-infrastructure-rule-that-prevents-ai-automation-disasters-3kon)
+- [How to Look Up Healthcare Providers by NPI with an API &lpar;real-time NPPES data&rpar;](https://dev.to/chin_ramamoorthi/how-to-look-up-healthcare-providers-by-npi-with-an-api-real-time-nppes-data-52c6)
+- [Terraform Tutorial for Beginners: Infrastructure as Code](https://dev.to/elearning_sherdil_783bbb/terraform-tutorial-for-beginners-infrastructure-as-code-170o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
