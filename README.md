@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [matança de empregos em TI pela IA: hype ou realidade? Os dados dizem outra coisa](https://dev.to/alealmeida369/matanca-de-empregos-em-ti-pela-ia-hype-ou-realidade-os-dados-dizem-outra-coisa-3o5c)
-- [Webnative - Build web. Ship anywhere.](https://dev.to/mindw1n/webnative-build-web-ship-anywhere-49ca)
-- [My First CORS Error in FastAPI](https://dev.to/bynilotpal/my-first-cors-error-in-fastapi-45jo)
-- [My First CORS Error in FastAPI](https://dev.to/bynilotpal/my-first-cors-error-in-fastapi-2hf6)
-- [Built envguard to solve a stability itch.](https://dev.to/virajshoor/built-envguard-to-solve-a-stability-itch-2518)
+- [You can&#39;t delete an event. GDPR says you must. Crypto-shredding is the truce.](https://dev.to/norbertrosenwinkel/you-cant-delete-an-event-gdpr-says-you-must-crypto-shredding-is-the-truce-26ak)
+- [A Deep Dive into Cleaning Persistent WordPress Malware and Hardening the REST API](https://dev.to/jahidshah/a-deep-dive-into-cleaning-persistent-wordpress-malware-and-hardening-the-rest-api-kok)
+- [Show DEV: Obex, a faith-based self-control app with streak tracking and blockers](https://dev.to/thisislvca/show-dev-obex-a-faith-based-self-control-app-with-streak-tracking-and-blockers-3mle)
+- [Export Grok Chats to Markdown, Notion, and PDF in One Click 🚀](https://dev.to/anuis258/export-grok-chats-to-markdown-notion-and-pdf-in-one-click-1lcb)
+- [I built a JavaScript library that adds hover sounds to any HTML element.](https://dev.to/paulo_guerra_f55162e5fc6d/i-built-a-javascript-library-that-adds-hover-sounds-to-any-html-element-3588)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
