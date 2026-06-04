@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Browser Tool and Sell It on Gumroad — A Complete Guide](https://dev.to/xueboyang1985/how-to-build-a-browser-tool-and-sell-it-on-gumroad-a-complete-guide-h2o)
-- [ISP Proxy vs Residential Proxy: What Actually Matters for Web Scraping?](https://dev.to/9proxy/isp-proxy-vs-residential-proxy-what-actually-matters-for-web-scraping-186n)
-- [Building an unofficial Dumpert client for Apple TV with Swift 6 and SwiftUI](https://dev.to/rm335/building-an-unofficial-dumpert-client-for-apple-tv-with-swift-6-and-swiftui-3jnb)
-- [Less boilerplate than raw SQL, less magic than ORM: generating PostgreSQL queries from Go structs](https://dev.to/juggle73/less-boilerplate-than-raw-sql-less-magic-than-orm-generating-postgresql-queries-from-go-structs-1mhh)
-- [How I Shrank a Next.js Image by 80% in My First Week of Docker](https://dev.to/tyanick/how-i-shrank-a-nextjs-image-by-80-in-my-first-week-of-docker-3ego)
+- [Sprint 4 Review: Exception Handling | Review Sprint 4: tratamento de exceções](https://dev.to/crabpascal/sprint-4-review-exception-handling-review-sprint-4-tratamento-de-excecoes-2nnm)
+- [EKS vs GKE vs AKS in 2026: The Real Cost of 100 Nodes](https://dev.to/muskan_8abedcc7e12/eks-vs-gke-vs-aks-in-2026-the-real-cost-of-100-nodes-4im9)
+- [Scarab Diagnostic Suite Field Test #008: Next.js Image Optimizer Resource Boundary](https://dev.to/scarab-systems/scarab-diagnostic-suite-field-test-007-nextjs-image-optimizer-resource-boundary-1ng5)
+- [Static Site, Live Inventory: Two Sources of Truth That Don&#39;t Fight Each Other](https://dev.to/dbartalos/static-site-live-inventory-two-sources-of-truth-that-dont-fight-each-other-5c0a)
+- [Stop Uploading Your Files: How I Built 12 Local, Privacy-First Tools for Creators 🚀](https://dev.to/strongfil/stop-uploading-your-files-how-i-built-12-local-privacy-first-tools-for-creators-cej)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
