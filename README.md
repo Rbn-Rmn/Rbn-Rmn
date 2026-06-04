@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What It&#39;s Actually Like to Be an LFX Mentee at CNCF](https://dev.to/mohammedfirdouss/what-its-actually-like-to-be-an-lfx-mentee-at-cncf-2i2k)
-- [A basic pygame game which is not basic - Starfall Protocol](https://dev.to/namanchhabra21/a-basic-pygame-game-which-is-not-basic-starfall-protocol-51je)
-- [Gemma 4 12B Is Google&#39;s Biggest Bet on Local Multimodal AI Yet](https://dev.to/lymy1205/gemma-4-12b-is-googles-biggest-bet-on-local-multimodal-ai-yet-25eg)
-- [Microsoft ACS SDK: Agent Control Sandbox PoC](https://dev.to/jangwook_kim_e31e7291ad98/microsoft-acs-sdk-agent-control-sandbox-poc-4036)
-- [Multi-step form without the overhead](https://dev.to/ovidem/multi-step-form-without-the-overhead-5bjc)
+- [Delphi-Style String Functions in CrabPascal &lpar;v2.13.0&rpar; | Funções de string estilo Delphi no CrabPascal &lpar;v2.13.0&rpar;](https://dev.to/crabpascal/delphi-style-string-functions-in-crabpascal-v2130-funcoes-de-string-estilo-delphi-no-4076)
+- [I Used Claude Every Day for Years — Here&#39;s the Setup I&#39;d Start With Today](https://dev.to/nitinfab/i-used-claude-every-day-for-years-heres-the-setup-id-start-with-today-48cl)
+- [Cross Browser vs Cross Platform Testing: Challenges in Real Projects](https://dev.to/david-auerbach/cross-browser-vs-cross-platform-testing-challenges-in-real-projects-1l55)
+- [Cross-Organization Delegation: The Hardest Trust Problem in the Agent Economy](https://dev.to/chrishood/cross-organization-delegation-the-hardest-trust-problem-in-the-agent-economy-4bfa)
+- [Observability in AI: Why Monitoring Systems Is No Longer Enough](https://dev.to/yash_07/observability-in-ai-why-monitoring-systems-is-no-longer-enough-3oea)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
