@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Triggering Lambda Durable Functions from SQS](https://dev.to/aws-builders/triggering-lambda-durable-functions-from-sqs-350e)
-- [Stop letting your hackathon API keys rot](https://dev.to/backboardio/stop-letting-your-hackathon-api-keys-rot-542j)
-- [Scarab Diagnostic Suite Field Test #006: Terraform Console Panic](https://dev.to/scarab-systems/scarab-diagnostic-suite-field-test-006-terraform-console-panic-3n68)
-- [We&#39;re Open Sourcing Our Voice AI Latency Benchmarking Tool](https://dev.to/autor_tech/were-open-sourcing-our-voice-ai-latency-benchmarking-tool-3oa8)
-- [Dogfooding MEA Against My Zero-Cost Homelab &lpar;And the Troubleshooting Hell Along the Way](https://dev.to/null_saint/dogfooding-my-own-passive-ics-security-analyzer-against-my-zero-cost-homelab-and-the-12ag)
+- [What It&#39;s Actually Like to Be an LFX Mentee at CNCF](https://dev.to/mohammedfirdouss/what-its-actually-like-to-be-an-lfx-mentee-at-cncf-2i2k)
+- [A basic pygame game which is not basic - Starfall Protocol](https://dev.to/namanchhabra21/a-basic-pygame-game-which-is-not-basic-starfall-protocol-51je)
+- [Gemma 4 12B Is Google&#39;s Biggest Bet on Local Multimodal AI Yet](https://dev.to/lymy1205/gemma-4-12b-is-googles-biggest-bet-on-local-multimodal-ai-yet-25eg)
+- [Microsoft ACS SDK: Agent Control Sandbox PoC](https://dev.to/jangwook_kim_e31e7291ad98/microsoft-acs-sdk-agent-control-sandbox-poc-4036)
+- [Multi-step form without the overhead](https://dev.to/ovidem/multi-step-form-without-the-overhead-5bjc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
