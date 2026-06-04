@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [DIRTY is yours to fix.](https://dev.to/earthbound_misfit/dirty-is-yours-to-fix-hhc)
-- [From Delphi Developer to CrabPascal | Do desenvolvedor Delphi ao CrabPascal](https://dev.to/crabpascal/from-delphi-developer-to-crabpascal-do-desenvolvedor-delphi-ao-crabpascal-jeg)
-- [From Pure Curiosity to Web Dev to GenAI: My 3-Year Coding Journey](https://dev.to/withkunal/from-pure-curiosity-to-web-dev-to-genai-my-3-year-coding-journey-j4n)
-- [I built a protocol that pays AI agents automatically. Here&#39;s what I learned that nobody talks about](https://dev.to/aditya_chotaliya_cb279fc9/i-built-a-protocol-that-pays-ai-agents-automatically-heres-what-i-learned-that-nobody-talks-about-2bhl)
-- [Nested Learning（嵌套学习）的起源与发展历史全解析](https://dev.to/cognitalk/nested-learningqian-tao-xue-xi-de-qi-yuan-yu-fa-zhan-li-shi-quan-jie-xi-5bkb)
+- [Org rules and project rules need different homes](https://dev.to/tacoda/org-rules-and-project-rules-need-different-homes-4n0h)
+- [Building a Real Cybersecurity Lab on Your Laptop](https://dev.to/arashad_dodhiya_0e4bdba5a/building-a-real-cybersecurity-lab-on-your-laptop-5hcg)
+- [Observability untuk Developer: Kenapa Log Saja Tidak Cukup di 2026](https://dev.to/ai_code_5c8f03cd630c072b1/observability-untuk-developer-kenapa-log-saja-tidak-cukup-di-2026-3jg0)
+- [🚀 Hermes Agent Just Added a Kanban Board — And It Changes Everything](https://dev.to/vivek_shetye/hermes-agent-just-added-a-kanban-board-and-it-changes-everything-4dp3)
+- [[Boost]](https://dev.to/romiisromie/-4jnm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
