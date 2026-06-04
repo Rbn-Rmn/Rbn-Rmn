@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Delphi-Style String Functions in CrabPascal &lpar;v2.13.0&rpar; | Funções de string estilo Delphi no CrabPascal &lpar;v2.13.0&rpar;](https://dev.to/crabpascal/delphi-style-string-functions-in-crabpascal-v2130-funcoes-de-string-estilo-delphi-no-4076)
-- [I Used Claude Every Day for Years — Here&#39;s the Setup I&#39;d Start With Today](https://dev.to/nitinfab/i-used-claude-every-day-for-years-heres-the-setup-id-start-with-today-48cl)
-- [Cross Browser vs Cross Platform Testing: Challenges in Real Projects](https://dev.to/david-auerbach/cross-browser-vs-cross-platform-testing-challenges-in-real-projects-1l55)
-- [Cross-Organization Delegation: The Hardest Trust Problem in the Agent Economy](https://dev.to/chrishood/cross-organization-delegation-the-hardest-trust-problem-in-the-agent-economy-4bfa)
-- [Observability in AI: Why Monitoring Systems Is No Longer Enough](https://dev.to/yash_07/observability-in-ai-why-monitoring-systems-is-no-longer-enough-3oea)
+- [How to Build a Browser Tool and Sell It on Gumroad — A Complete Guide](https://dev.to/xueboyang1985/how-to-build-a-browser-tool-and-sell-it-on-gumroad-a-complete-guide-h2o)
+- [ISP Proxy vs Residential Proxy: What Actually Matters for Web Scraping?](https://dev.to/9proxy/isp-proxy-vs-residential-proxy-what-actually-matters-for-web-scraping-186n)
+- [Building an unofficial Dumpert client for Apple TV with Swift 6 and SwiftUI](https://dev.to/rm335/building-an-unofficial-dumpert-client-for-apple-tv-with-swift-6-and-swiftui-3jnb)
+- [Less boilerplate than raw SQL, less magic than ORM: generating PostgreSQL queries from Go structs](https://dev.to/juggle73/less-boilerplate-than-raw-sql-less-magic-than-orm-generating-postgresql-queries-from-go-structs-1mhh)
+- [How I Shrank a Next.js Image by 80% in My First Week of Docker](https://dev.to/tyanick/how-i-shrank-a-nextjs-image-by-80-in-my-first-week-of-docker-3ego)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
