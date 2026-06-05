@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Using Microsoft Fabric Shortcuts to Avoid Duplicate Data Copies](https://dev.to/ravikiranpagidi/using-microsoft-fabric-shortcuts-to-avoid-duplicate-data-copies-327e)
-- [From Soundwaves to Stress Levels: Building an Affective Computing Pipeline with Wav2Vec 2.0](https://dev.to/wellallytech/from-soundwaves-to-stress-levels-building-an-affective-computing-pipeline-with-wav2vec-20-17b7)
-- [Speculative decoding: when and why it actually speeds up inference](https://dev.to/tech_nuggets/speculative-decoding-when-and-why-it-actually-speeds-up-inference-5pl)
-- [My CKA Troubleshooting Playbook: The Systematic Approach I Used to Fix Kubernetes Issues Fast](https://dev.to/shahzadahmad91/my-cka-troubleshooting-playbook-the-systematic-approach-i-used-to-fix-kubernetes-issues-fast-cn5)
-- [ETags and Conditional Requests: Stop Sending the Same API Response Twice](https://dev.to/apikumo/etags-and-conditional-requests-stop-sending-the-same-api-response-twice-47k)
+- [Google AI Studio: The Playground Every Developer Should Know About 🎮](https://dev.to/playfulprogramming/google-ai-studio-the-playground-every-developer-should-know-about-19bd)
+- [What Is GraphQL?](https://dev.to/mohamedelmorsy/what-is-graphql-546l)
+- [One Malicious GitHub Issue Was All It Took to Hijack a Claude Code Agent](https://dev.to/coridev/one-malicious-github-issue-was-all-it-took-to-hijack-a-claude-code-agent-41da)
+- [I Consolidated My Entire Developer Homelab onto One Machine — Here&#39;s the Full Stack](https://dev.to/ddsundaria/i-consolidated-my-entire-developer-homelab-onto-one-machine-heres-the-full-stack-496m)
+- [Full-stack RBAC with NestJS Clean Architecture + Next.js FSD](https://dev.to/devtugu/full-stack-rbac-with-nestjs-clean-architecture-nextjs-fsd-5bba)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
