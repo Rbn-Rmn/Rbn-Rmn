@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Safer browser automation with a Puppeteer MCP server](https://dev.to/tecnomanu/i-built-a-puppeteer-mcp-server-for-safer-browser-automation-42mj)
-- [GSoC&#39;26: Week 1](https://dev.to/harkeerat24/gsoc26-week-1-gkd)
-- [Product Video API: How APIs Power CSV Video Generation](https://dev.to/mena234/product-video-api-how-apis-power-csv-video-generation-8e8)
-- [The MCP tool you approved might not be the tool running](https://dev.to/maaz_ahmed/the-mcp-tool-you-approved-might-not-be-the-tool-running-3cfc)
-- [I built an AI resume builder as a side project. Here is the stack and what broke.](https://dev.to/mateyw/i-built-an-ai-resume-builder-as-a-side-project-here-is-the-stack-and-what-broke-21bl)
+- [June 2026 Check In: A Progress Update on the Last 6 Months](https://dev.to/theoriginalbpc/june-2026-check-in-a-progress-update-on-the-last-6-months-595g)
+- [Here to Learn](https://dev.to/teeteate/here-to-learn-242j)
+- [Building a Calorie Tracker in Telegram: Why the Best Architecture Is No App Store](https://dev.to/ofgcap/building-a-calorie-tracker-in-telegram-why-the-best-architecture-is-no-app-store-1jgn)
+- [REST API Design: Building APIs That Developers Love &lpar;2026&rpar;](https://dev.to/armorbreak/rest-api-design-building-apis-that-developers-love-2026-3lp3)
+- [Git: The Tool That Saves Your Code and Your Career](https://dev.to/agenticdevops/git-the-tool-that-saves-your-code-and-your-career-2ahd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
