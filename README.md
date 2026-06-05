@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building a Conversational AI Agent with Python and Rasa: A Step‑by‑Step Guide](https://dev.to/fazil_hasanov_8150a43b0ff/building-a-conversational-ai-agent-with-python-and-rasa-a-step-by-step-guide-1fig)
-- [I built an AI SEO tool, but decided not to auto-publish new pages](https://dev.to/serionflow/i-built-an-ai-seo-tool-but-decided-not-to-auto-publish-new-pages-1bdb)
-- [Multi-Agent Systems: Powerful Idea, Easy To Overcomplicate](https://dev.to/nazar_boyko/multi-agent-systems-powerful-idea-easy-to-overcomplicate-c7k)
-- [App Mode Launcher - From a Simple Launcher to an Intelligent Workspace Manager](https://dev.to/felipe_fernandes_11105ad3/app-mode-launcher-from-a-simple-launcher-to-an-intelligent-workspace-manager-5cgm)
-- [Dockerfile Fundamentals](https://dev.to/aykhlf_yassir/dockerfile-fundamentals-35bm)
+- [ParadeDB NPM Package Seeks Feedback on Simplifying Postgres Integration with JavaScript via Drizzle ORM](https://dev.to/pavkode/paradedb-npm-package-seeks-feedback-on-simplifying-postgres-integration-with-javascript-via-drizzle-4pje)
+- [How to Verify Shopify Webhooks Correctly &lpar;And Stop Getting It Wrong&rpar;](https://dev.to/masadashraf/how-to-verify-shopify-webhooks-correctly-and-stop-getting-it-wrong-1mbm)
+- [GitHub, Demystified](https://dev.to/mlh/github-demystified-4mkd)
+- [How to Add Drug Interaction Checking to Your Health App in 5 Minutes](https://dev.to/anthesiaco/how-to-add-drug-interaction-checking-to-your-health-app-in-5-minutes-3ip8)
+- [From Excel to AI: We Were Always Programmers](https://dev.to/brixmavu/from-excel-to-ai-we-were-always-programmers-1b6o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
