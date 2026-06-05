@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Estou criando minha própria linguagem de programação em Python](https://dev.to/callebe_josuecantu/estou-criando-minha-propria-linguagem-de-programacao-em-python-57e2)
-- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-4mel)
-- [Why I&#39;m betting on AI-curated directories when Google AI Overviews answer the same queries](https://dev.to/morinaga/why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries-i5m)
-- [AI at the Crossroads: Between the Profitability Mirage and the Reality of Efficiency](https://dev.to/ndabene/ai-at-the-crossroads-between-the-profitability-mirage-and-the-reality-of-efficiency-1m0)
-- [Bridging the Rigidity Gap: Deploying Secure Agentic RAG in Healthcare Governance](https://dev.to/mindy_jen_phd/bridging-the-rigidity-gap-deploying-secure-agentic-rag-in-healthcare-governance-462n)
+- [Using Microsoft Fabric Shortcuts to Avoid Duplicate Data Copies](https://dev.to/ravikiranpagidi/using-microsoft-fabric-shortcuts-to-avoid-duplicate-data-copies-327e)
+- [From Soundwaves to Stress Levels: Building an Affective Computing Pipeline with Wav2Vec 2.0](https://dev.to/wellallytech/from-soundwaves-to-stress-levels-building-an-affective-computing-pipeline-with-wav2vec-20-17b7)
+- [Speculative decoding: when and why it actually speeds up inference](https://dev.to/tech_nuggets/speculative-decoding-when-and-why-it-actually-speeds-up-inference-5pl)
+- [My CKA Troubleshooting Playbook: The Systematic Approach I Used to Fix Kubernetes Issues Fast](https://dev.to/shahzadahmad91/my-cka-troubleshooting-playbook-the-systematic-approach-i-used-to-fix-kubernetes-issues-fast-cn5)
+- [ETags and Conditional Requests: Stop Sending the Same API Response Twice](https://dev.to/apikumo/etags-and-conditional-requests-stop-sending-the-same-api-response-twice-47k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
