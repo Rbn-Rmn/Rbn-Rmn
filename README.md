@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Cookify: Turning a Broken Prototype into a Real AI Recipe App](https://dev.to/codewithmanohar/cookify-turning-a-broken-prototype-into-a-real-ai-recipe-app-1ak6)
-- [Search Configuration Management in OpenSearch: Tuning Search Without Deploying Code](https://dev.to/iprithv/search-configuration-management-in-opensearch-tuning-search-without-deploying-code-2dni)
-- [AI Agents: The Future of Autonomous Intelligence](https://dev.to/kielltampubolon/ai-agents-the-future-of-autonomous-intelligence-onp)
-- [CloakBrowser MCP: Playwright MCP tools with a CloakBrowser Chromium runtime](https://dev.to/swimmwatch/cloakbrowser-mcp-playwright-mcp-tools-with-a-cloakbrowser-chromium-runtime-3ec8)
-- [7 CLAUDE.md Anti-Patterns That Are Killing Your Claude Code Output](https://dev.to/alfredolab/7-claudemd-anti-patterns-that-are-killing-your-claude-code-output-2imd)
+- [WebMCP Registry – a public index for WebMCP tool contracts](https://dev.to/jeffsalive/webmcp-registry-a-public-index-for-webmcp-tool-contracts-23ln)
+- [Clean Architecture Revisited](https://dev.to/codegandalf/clean-architecture-revisited-59lg)
+- [Why I started documenting everything I learn as a web developer](https://dev.to/webcodeveloper_d340ce1327/why-i-started-documenting-everything-i-learn-as-a-web-developer-4jko)
+- [Closing the execution gap: a series](https://dev.to/thearun85/closing-the-execution-gap-a-series-3490)
+- [Supercharge your macOS workspace management with Aerospace - A guide for busy people](https://dev.to/sydalwedaie/supercharge-your-macos-workspace-management-with-aerospace-a-guide-for-busy-people-3aj6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
