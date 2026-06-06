@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [WebMCP Registry – a public index for WebMCP tool contracts](https://dev.to/jeffsalive/webmcp-registry-a-public-index-for-webmcp-tool-contracts-23ln)
-- [Clean Architecture Revisited](https://dev.to/codegandalf/clean-architecture-revisited-59lg)
-- [Why I started documenting everything I learn as a web developer](https://dev.to/webcodeveloper_d340ce1327/why-i-started-documenting-everything-i-learn-as-a-web-developer-4jko)
-- [Closing the execution gap: a series](https://dev.to/thearun85/closing-the-execution-gap-a-series-3490)
-- [Supercharge your macOS workspace management with Aerospace - A guide for busy people](https://dev.to/sydalwedaie/supercharge-your-macos-workspace-management-with-aerospace-a-guide-for-busy-people-3aj6)
+- [Auth in Next.js SaaS starters: redirect loops, OAuth callbacks, magic links, and session drift](https://dev.to/halbonlabs/auth-in-nextjs-saas-starters-redirect-loops-oauth-callbacks-magic-links-and-session-drift-2383)
+- [Text-to-Speech for Claude Code — Hear What the Agent Is Doing](https://dev.to/souliane/text-to-speech-for-claude-code-hear-what-the-agent-is-doing-3mom)
+- [We&#39;re still the only one to hit #1 on both LoCoMo and LongMemEval. Here is how to use it.](https://dev.to/backboardio/were-still-the-only-one-to-hit-1-on-both-locomo-and-longmemeval-here-is-how-to-use-it-35p7)
+- [Closing the execution gap, Part 2: Dependency management](https://dev.to/thearun85/closing-the-execution-gap-part-2-dependency-management-3eah)
+- [our #1 user of Backboard.io is a memory company positioning themselves as a competitor to us, white labeling our product...](https://dev.to/jon_at_backboardio/our-1-user-of-backboardio-is-a-memory-company-positioning-themselves-as-a-competitor-to-us-white-4780)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
