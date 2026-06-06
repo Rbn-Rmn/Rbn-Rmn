@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building a Self-Hosted Newsletter Setup with n8n &amp; Gemini](https://dev.to/the_peripheral_stack/building-a-self-hosted-newsletter-setup-with-n8n-gemini-10n2)
-- [Presentando Fitz: un lenguaje donde HTTP, Postgres, JWT y WebSockets son parte de la sintaxis](https://dev.to/martin_palopoli/presentando-fitz-un-lenguaje-donde-http-postgres-jwt-y-websockets-son-parte-de-la-sintaxis-3la8)
-- [Building an AI game engine with Three.js](https://dev.to/mario_jgoestarosso_5c91/building-an-ai-game-engine-with-threejs-5162)
-- [Introducing Fitz: a language where HTTP, Postgres, JWT, and WebSockets are part of the syntax](https://dev.to/martin_palopoli/introducing-fitz-a-language-where-http-postgres-jwt-and-websockets-are-part-of-the-syntax-4if0)
-- [Why Trae Keeps Topping the Juejin AI Coding Tools List](https://dev.to/ninghonggang/why-trae-keeps-topping-the-juejin-ai-coding-tools-list-3ka0)
+- [Harness Engineering — The Quality Pillar of Agentic Engineering](https://dev.to/mjcs/harness-engineering-the-quality-pillar-of-agentic-engineering-31e0)
+- [Complete Guide: Setting Up a Node.js + Express + TypeScript Project](https://dev.to/sivasakthi_paramasivam_e8/complete-guide-setting-up-a-nodejs-express-typescript-project-2975)
+- [ExcelPy: From Tkinter Prototype to AI-Assisted Workbook Review](https://dev.to/00gizem00/excelpy-from-tkinter-prototype-to-ai-assisted-workbook-review-12ed)
+- [Two platforms, one missing secret: enabling dev.to and Bluesky in a content pipeline](https://dev.to/arihantdeva/two-platforms-one-missing-secret-enabling-devto-and-bluesky-in-a-content-pipeline-40ln)
+- [Turning a wedding gift list into a charity-giving platform](https://dev.to/alanmaizon/turning-a-wedding-gift-list-into-a-charity-giving-platform-kh5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
