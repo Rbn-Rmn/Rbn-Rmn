@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Harness Engineering — The Quality Pillar of Agentic Engineering](https://dev.to/mjcs/harness-engineering-the-quality-pillar-of-agentic-engineering-31e0)
-- [Complete Guide: Setting Up a Node.js + Express + TypeScript Project](https://dev.to/sivasakthi_paramasivam_e8/complete-guide-setting-up-a-nodejs-express-typescript-project-2975)
-- [ExcelPy: From Tkinter Prototype to AI-Assisted Workbook Review](https://dev.to/00gizem00/excelpy-from-tkinter-prototype-to-ai-assisted-workbook-review-12ed)
-- [Two platforms, one missing secret: enabling dev.to and Bluesky in a content pipeline](https://dev.to/arihantdeva/two-platforms-one-missing-secret-enabling-devto-and-bluesky-in-a-content-pipeline-40ln)
-- [Turning a wedding gift list into a charity-giving platform](https://dev.to/alanmaizon/turning-a-wedding-gift-list-into-a-charity-giving-platform-kh5)
+- [The Engineering Hiring Screen That Predicts Actual Job Performance](https://dev.to/crescevo/the-engineering-hiring-screen-that-predicts-actual-job-performance-1bla)
+- [I Built a Fraud Detection System That Catches 99.76% of Fraud — Here&#39;s Everything I Learned](https://dev.to/whozahm3d/i-built-a-fraud-detection-system-that-catches-9976-of-fraud-heres-everything-i-learned-55h3)
+- [Browser Push Notifications for a Django Website](https://dev.to/djangotricks/browser-push-notifications-for-a-django-website-4obd)
+- [Can&#39;t change favicon.ico](https://dev.to/boylesg/cant-change-faviconico-3kb)
+- [How Excel is used in Real-World Data Analysis](https://dev.to/datawithian/how-excel-is-used-in-real-world-data-analysis-3hig)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
