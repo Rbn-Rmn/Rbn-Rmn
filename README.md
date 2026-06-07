@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My Apify Promotion Filter: Scale Clean APIs, Hold Back Noisy Demand](https://dev.to/the_aientrepreneur_7ae85/my-apify-promotion-filter-scale-clean-apis-hold-back-noisy-demand-2bpg)
-- [Your Go struct already describes your API. Let it write the docs too.](https://dev.to/tranlongan/your-go-struct-already-describes-your-api-let-it-write-the-docs-too-hf6)
-- [LiteParse: A Fast, Local Document Parser for Developers](https://dev.to/arshtechpro/liteparse-a-fast-local-document-parser-for-developers-3jlb)
-- [Boosting Blog Post Visibility: Building an Automation System with the IndexNow API](https://dev.to/junhee916/boosting-blog-post-visibility-building-an-automation-system-with-the-indexnow-api-22nn)
-- [Using SSH Tunnels to make up for lack of HTTPS on LAN](https://dev.to/someoddcodeguy/using-ssh-tunnels-to-make-up-for-lack-of-https-on-lan-184f)
+- [AI Agent Safety Need Stop Signs, Not Just Instructions](https://dev.to/otaready/ai-agent-safety-need-stop-signs-not-just-instructions-1nb9)
+- [How Excel is used in Real World Data Analysis](https://dev.to/maryngure/how-excel-is-used-in-real-world-data-analysis-2lh3)
+- [Finishing a Read-Only MCP Server: From 6 Tools to 9](https://dev.to/kielltampubolon/finishing-a-read-only-mcp-server-from-6-tools-to-9-52n)
+- [What an OpenAI-Compatible API Router Should Actually Do](https://dev.to/incatai/what-an-openai-compatible-api-router-should-actually-do-3oeo)
+- [How the Internet Actually Works - Networking, DNS, Architecture &amp; My DMI DevOps Journey](https://dev.to/gbadedata/how-the-internet-actually-works-networking-dns-architecture-my-dmi-devops-journey-47dp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
