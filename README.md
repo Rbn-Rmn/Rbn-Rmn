@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI Shrinkflation: Your AI Model Was Quietly Dialed Back](https://dev.to/keithjmackay/ai-shrinkflation-your-ai-model-was-quietly-dialed-back-3p2a)
-- [Syncing AI agents across Claude, Gemini, and Cursor](https://dev.to/mustafa_bahaa/syncing-ai-agents-across-claude-gemini-and-cursor-3d0j)
-- [I Died, Just Not Physically...](https://dev.to/itsweshy/i-died-just-not-physically-29h1)
-- [40-Year-Old Bug. Claude Found It Before the Author Did.](https://dev.to/keithjmackay/40-year-old-bug-claude-found-it-before-the-author-did-50ga)
-- [Thank you .](https://dev.to/modex_1234/thank-you--i59)
+- [My Apify Promotion Filter: Scale Clean APIs, Hold Back Noisy Demand](https://dev.to/the_aientrepreneur_7ae85/my-apify-promotion-filter-scale-clean-apis-hold-back-noisy-demand-2bpg)
+- [Your Go struct already describes your API. Let it write the docs too.](https://dev.to/tranlongan/your-go-struct-already-describes-your-api-let-it-write-the-docs-too-hf6)
+- [LiteParse: A Fast, Local Document Parser for Developers](https://dev.to/arshtechpro/liteparse-a-fast-local-document-parser-for-developers-3jlb)
+- [Boosting Blog Post Visibility: Building an Automation System with the IndexNow API](https://dev.to/junhee916/boosting-blog-post-visibility-building-an-automation-system-with-the-indexnow-api-22nn)
+- [Using SSH Tunnels to make up for lack of HTTPS on LAN](https://dev.to/someoddcodeguy/using-ssh-tunnels-to-make-up-for-lack-of-https-on-lan-184f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
