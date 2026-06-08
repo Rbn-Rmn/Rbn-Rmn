@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;re Building the Funnel and Standing Under It](https://dev.to/stkremen/were-building-the-funnel-and-standing-under-it-3kp3)
-- [NeoBrain: A Local Alternative to Character.AI](https://dev.to/sbeuvadyarik67/neobrain-a-local-alternative-to-characterai-4kj7)
-- [COSS Weekly: Supabase achieves $10B valuation, DeepSeek eyes $7B funding round, Martin Scorsese joins Black Forest Labs, and more](https://dev.to/sabirchinstrap/coss-weekly-supabase-achieves-10b-valuation-deepseek-eyes-7b-funding-round-martin-scorsese-1hdc)
-- [You have been zigged &lpar;series&rpar; : Introduction and hello world](https://dev.to/perennial_lorekeeper/you-have-been-zigged-series-introduction-and-hello-world-2h1k)
-- [One MCP server for Jira, Confluence and Bitbucket: 61 tools under one config](https://dev.to/ahmetozel/one-mcp-server-for-jira-confluence-and-bitbucket-61-tools-under-one-config-5771)
+- [🚀 Build a Fully Local AI Agent with Hermes Agent, Ollama, Qwen 3.5, and SearXNG &lpar;100% Private &amp; $0 Cost&rpar;](https://dev.to/vivek_shetye/build-a-fully-local-ai-agent-with-hermes-agent-ollama-qwen-35-and-searxng-100-private-0-568d)
+- [GSAP vs Lottie: Choosing the Right Animation Tool](https://dev.to/fazalshah/gsap-vs-lottie-choosing-the-right-animation-tool-3d03)
+- [Beyond the Prompt: Building Self-Evolving AI Agents for Deep Research and CI/CD Automation](https://dev.to/programmingcentral/beyond-the-prompt-building-self-evolving-ai-agents-for-deep-research-and-cicd-automation-1gn0)
+- [Building a fraud detection and data quality API for Latin America](https://dev.to/mediavox/building-a-fraud-detection-and-data-quality-api-for-latin-america-31dm)
+- [pip install jhansi — the SDK is live](https://dev.to/thearun85/pip-install-jhansi-the-sdk-is-live-1l03)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
