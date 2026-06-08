@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Error Handling in Node.js: Beyond Try/Catch &lpar;2026&rpar;](https://dev.to/armorbreak/error-handling-in-nodejs-beyond-trycatch-2026-2048)
-- [Clean Architecture on the Frontend: Beyond Smart and Dumb Components](https://dev.to/djblackett/clean-architecture-on-the-frontend-beyond-smart-and-dumb-components-1abj)
-- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-62n)
-- [Why I&#39;m betting on AI-curated directories when Google AI Overviews answer the same queries](https://dev.to/morinaga/why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries-4g7f)
-- [The Five Faculties: A Tour of SAFi&#39;s Cognitive Architecture](https://dev.to/nelson_amaya_16872e58232b/the-five-faculties-a-tour-of-safis-cognitive-architecture-5bc0)
+- [From Spikes to Insights: Mastering CGM Glucose Prediction with Transformers and PyTorch](https://dev.to/beck_moulton/from-spikes-to-insights-mastering-cgm-glucose-prediction-with-transformers-and-pytorch-3gji)
+- [TalkToPlanB vs WhatsApp: an honest comparison &lpar;2026&rpar;](https://dev.to/jmlee850623/whatsappman-vs-whatsapp-an-honest-comparison-2026-551o)
+- [From Prototype to Production: Finishing Moonsu Link, a Chat-Native Agricultural Marketplace for Cameroon](https://dev.to/chestly_ace/from-prototype-to-production-finishing-moonsu-link-a-chat-native-agricultural-marketplace-for-16bo)
+- [BYTE PAIR ENCODING](https://dev.to/yaya_sh/byte-pair-encoding-5hco)
+- [That&#39;s what the Finish-Up-A-Thon is all about.](https://dev.to/bigboss6797976/thats-what-the-finish-up-a-thon-is-all-about-3b2n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
