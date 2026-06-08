@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Build a Fully Local AI Agent with Hermes Agent, Ollama, Qwen 3.5, and SearXNG &lpar;100% Private &amp; $0 Cost&rpar;](https://dev.to/vivek_shetye/build-a-fully-local-ai-agent-with-hermes-agent-ollama-qwen-35-and-searxng-100-private-0-568d)
-- [GSAP vs Lottie: Choosing the Right Animation Tool](https://dev.to/fazalshah/gsap-vs-lottie-choosing-the-right-animation-tool-3d03)
-- [Beyond the Prompt: Building Self-Evolving AI Agents for Deep Research and CI/CD Automation](https://dev.to/programmingcentral/beyond-the-prompt-building-self-evolving-ai-agents-for-deep-research-and-cicd-automation-1gn0)
-- [Building a fraud detection and data quality API for Latin America](https://dev.to/mediavox/building-a-fraud-detection-and-data-quality-api-for-latin-america-31dm)
-- [pip install jhansi — the SDK is live](https://dev.to/thearun85/pip-install-jhansi-the-sdk-is-live-1l03)
+- [Advanced: Network Mocking, Visual &amp; Accessibility &lpar;Playwright + TypeScript, Ch.22&rpar;](https://dev.to/aktibaba/advanced-network-mocking-visual-accessibility-playwright-typescript-ch22-5eb2)
+- [Tired of Hcaptcha?](https://dev.to/mrafieefard/tired-of-hcaptcha-1c3)
+- [Same PRD, four stacks, zero LLM calls — and EU AI Act Annex IV from the same spec](https://dev.to/anioko/same-prd-four-stacks-zero-llm-calls-and-eu-ai-act-annex-iv-from-the-same-spec-hf2)
+- [Scarab Field Test #018 — Quieting facebook/react From 133 Findings to 0](https://dev.to/scarab-systems/scarab-field-test-018-quieting-facebookreact-from-133-findings-to-0-4j9b)
+- [I created a website specifically for my laziness.](https://dev.to/ahmedsevindik/i-created-a-website-specifically-for-my-laziness-p7j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
