@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Debugging &amp; Developer Experience &lpar;Playwright + TypeScript, Ch.6&rpar;](https://dev.to/aktibaba/debugging-developer-experience-playwright-typescript-ch6-404j)
-- [Crafting Digital DNA: A Tutorial on Verifiable Content Provenance](https://dev.to/prabashanadev/crafting-digital-dna-a-tutorial-on-verifiable-content-provenance-200k)
-- [OpenAPI, ORM, SVG and Lottie](https://dev.to/codenameone/openapi-orm-svg-and-lottie-56ea)
-- [Linux Fundamentals for Data Engineering](https://dev.to/solace_sabato_eb94f19112d/linux-fundamentals-for-data-engineering-hio)
-- [Age verification is coming. Free Software can build it right.](https://dev.to/phalkmin/age-verification-is-coming-free-software-can-build-it-right-1lh5)
+- [We&#39;re Building the Funnel and Standing Under It](https://dev.to/stkremen/were-building-the-funnel-and-standing-under-it-3kp3)
+- [NeoBrain: A Local Alternative to Character.AI](https://dev.to/sbeuvadyarik67/neobrain-a-local-alternative-to-characterai-4kj7)
+- [COSS Weekly: Supabase achieves $10B valuation, DeepSeek eyes $7B funding round, Martin Scorsese joins Black Forest Labs, and more](https://dev.to/sabirchinstrap/coss-weekly-supabase-achieves-10b-valuation-deepseek-eyes-7b-funding-round-martin-scorsese-1hdc)
+- [You have been zigged &lpar;series&rpar; : Introduction and hello world](https://dev.to/perennial_lorekeeper/you-have-been-zigged-series-introduction-and-hello-world-2h1k)
+- [One MCP server for Jira, Confluence and Bitbucket: 61 tools under one config](https://dev.to/ahmetozel/one-mcp-server-for-jira-confluence-and-bitbucket-61-tools-under-one-config-5771)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
