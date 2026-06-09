@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Hooks and State Management in Modern Frontend Frameworks](https://dev.to/technvernacular/hooks-and-state-management-in-modern-frontend-frameworks-9di)
-- [Designing Atlantico: a calm theme for focused development](https://dev.to/gvenancio/designing-atlantico-a-calm-theme-for-focused-development-3o51)
-- [How to Scrape E-Commerce Sites for AI Agents Using Playwright and LLMs](https://dev.to/alterlab/how-to-scrape-e-commerce-sites-for-ai-agents-using-playwright-and-llms-j5g)
-- [Why is my Node.js app slow? An OpenTelemetry debugging checklist](https://dev.to/savas_ozturk/why-is-my-nodejs-app-slow-an-opentelemetry-debugging-checklist-1apn)
-- [Architecting isolated workspaces with Kasm: hardened, egress-controlled, disposable](https://dev.to/jeremy-burgos/architecting-isolated-workspaces-with-kasm-hardened-egress-controlled-disposable-2nmk)
+- [Your Agent Doesn&#39;t Need That 10,000-Token API Response: Context Offloading with Strands](https://dev.to/morganwilliscloud/your-agent-doesnt-need-that-10000-token-api-response-context-offloading-with-strands-2imd)
+- [Browserscan.net Canvas Fingerprint Pure-JS Technical Report](https://dev.to/losenine/browserscannet-canvas-fingerprint-pure-js-technical-report-kif)
+- [WP Umbrella&#39;s Strengths and Who It Fits — An Honest Review from a Competing Tool Builder](https://dev.to/susumun/wp-umbrellas-strengths-and-who-it-fits-an-honest-review-from-a-competing-tool-builder-400)
+- [I&#39;m a DevOps engineer with no mobile experience, so I built and shipped an iOS app](https://dev.to/ivantsanev13/im-a-devops-engineer-with-no-mobile-experience-so-i-built-and-shipped-an-ios-app-3fe7)
+- [Answers rot. Store questions instead.](https://dev.to/roccoalt/answers-rot-store-questions-instead-c21)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
