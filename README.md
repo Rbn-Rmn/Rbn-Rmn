@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [You have been zigged &lpar;series&rpar; : Accessing environment variables](https://dev.to/black_tornado/you-have-been-zigged-series-accessing-environment-variables-1adj)
-- [Comparing Model Performance: Without MTP vs. With MTP vs. With MTP + QAT](https://dev.to/0xkoji/comparing-model-performance-without-mtp-vs-with-mtp-vs-with-mtp-qat-22ki)
-- [Five Minutes of Being Remembered](https://dev.to/paifamily/five-minutes-of-being-remembered-29pc)
-- [⚙️ Terraform create AWS EC2 instance with Python environment](https://dev.to/ptp2308/terraform-create-aws-ec2-instance-with-python-environment-4c1a)
-- [Why SQLite FTS5&#39;s default tokenizer drops your Japanese substrings &lpar;and the one-line fix&rpar;](https://dev.to/omochi_dev/why-sqlite-fts5s-default-tokenizer-drops-your-japanese-substrings-and-the-one-line-fix-1k2d)
+- [[Sofi_Log #016] Longevity Protocol: Refactoring Human Uptime via Biohacking](https://dev.to/sofi_works_2a97535d1a93dc/sofilog-016-longevity-protocol-refactoring-human-uptime-via-biohacking-3fj5)
+- [I Built a Free Body Calculator That Shows All Your Numbers in One Report](https://dev.to/dayu2333jinyul/i-built-a-free-body-calculator-that-shows-all-your-numbers-in-one-report-1m1j)
+- [Why Consensus Defines Blockchain Performance Limits](https://dev.to/cryptofixengineer/why-consensus-defines-blockchain-performance-limits-5851)
+- [Show DEV: I got tired of bloated tools, so I built PNX to fix my workflow](https://dev.to/saboor_tahir/show-dev-i-got-tired-of-bloated-tools-so-i-built-pnx-to-fix-my-workflow-h49)
+- [Physical AI has Scaling Laws now. The Race just became something else.](https://dev.to/xberry-tech/physical-ai-has-scaling-laws-now-the-race-just-became-something-else-1p3d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
