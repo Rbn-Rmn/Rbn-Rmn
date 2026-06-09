@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your Agent Doesn&#39;t Need That 10,000-Token API Response: Context Offloading with Strands](https://dev.to/morganwilliscloud/your-agent-doesnt-need-that-10000-token-api-response-context-offloading-with-strands-2imd)
-- [Browserscan.net Canvas Fingerprint Pure-JS Technical Report](https://dev.to/losenine/browserscannet-canvas-fingerprint-pure-js-technical-report-kif)
-- [WP Umbrella&#39;s Strengths and Who It Fits — An Honest Review from a Competing Tool Builder](https://dev.to/susumun/wp-umbrellas-strengths-and-who-it-fits-an-honest-review-from-a-competing-tool-builder-400)
-- [I&#39;m a DevOps engineer with no mobile experience, so I built and shipped an iOS app](https://dev.to/ivantsanev13/im-a-devops-engineer-with-no-mobile-experience-so-i-built-and-shipped-an-ios-app-3fe7)
-- [Answers rot. Store questions instead.](https://dev.to/roccoalt/answers-rot-store-questions-instead-c21)
+- [Building a stateless process supervisor in Go: what the OS fights you on](https://dev.to/justadev/building-a-stateless-process-supervisor-in-go-what-the-os-fights-you-on-5f9j)
+- [Solana NFTs Without Metaplex: What I Built with Token Extensions published](https://dev.to/lymah/solana-nfts-without-metaplex-what-i-built-with-token-extensionspublished-7do)
+- [I built a local dead-man&#39;s-switch for cron jobs &lpar;no server, no signup&rpar;](https://dev.to/_06a3df6b50aec966668fb/i-built-a-local-dead-mans-switch-for-cron-jobs-no-server-no-signup-3j1m)
+- [The math of multi-model consensus: when 3 cheap reviews beat 1 expensive one](https://dev.to/brianmello/the-math-of-multi-model-consensus-when-3-cheap-reviews-beat-1-expensive-one-5997)
+- [AI coding evolves from autocomplete to running the full development process](https://dev.to/davekurian/ai-coding-evolves-from-autocomplete-to-running-the-full-development-process-1db6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
