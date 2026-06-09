@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [[Sofi_Log #016] Longevity Protocol: Refactoring Human Uptime via Biohacking](https://dev.to/sofi_works_2a97535d1a93dc/sofilog-016-longevity-protocol-refactoring-human-uptime-via-biohacking-3fj5)
-- [I Built a Free Body Calculator That Shows All Your Numbers in One Report](https://dev.to/dayu2333jinyul/i-built-a-free-body-calculator-that-shows-all-your-numbers-in-one-report-1m1j)
-- [Why Consensus Defines Blockchain Performance Limits](https://dev.to/cryptofixengineer/why-consensus-defines-blockchain-performance-limits-5851)
-- [Show DEV: I got tired of bloated tools, so I built PNX to fix my workflow](https://dev.to/saboor_tahir/show-dev-i-got-tired-of-bloated-tools-so-i-built-pnx-to-fix-my-workflow-h49)
-- [Physical AI has Scaling Laws now. The Race just became something else.](https://dev.to/xberry-tech/physical-ai-has-scaling-laws-now-the-race-just-became-something-else-1p3d)
+- [Hooks and State Management in Modern Frontend Frameworks](https://dev.to/technvernacular/hooks-and-state-management-in-modern-frontend-frameworks-9di)
+- [Designing Atlantico: a calm theme for focused development](https://dev.to/gvenancio/designing-atlantico-a-calm-theme-for-focused-development-3o51)
+- [How to Scrape E-Commerce Sites for AI Agents Using Playwright and LLMs](https://dev.to/alterlab/how-to-scrape-e-commerce-sites-for-ai-agents-using-playwright-and-llms-j5g)
+- [Why is my Node.js app slow? An OpenTelemetry debugging checklist](https://dev.to/savas_ozturk/why-is-my-nodejs-app-slow-an-opentelemetry-debugging-checklist-1apn)
+- [Architecting isolated workspaces with Kasm: hardened, egress-controlled, disposable](https://dev.to/jeremy-burgos/architecting-isolated-workspaces-with-kasm-hardened-egress-controlled-disposable-2nmk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
