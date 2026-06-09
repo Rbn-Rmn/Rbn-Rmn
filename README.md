@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why I built ScreenFine](https://dev.to/devendravariya/why-i-built-screenfine-2gpk)
-- [The Env Variable Name Was Gone From the Bundle. The Value Wasn&#39;t.](https://dev.to/oopssec-store/the-env-variable-name-was-gone-from-the-bundle-the-value-wasnt-kl)
-- [The Demo Partner Program](https://dev.to/arthurpro/the-demo-partner-program-4m6o)
-- [How Excel Is Used in Real-World Data Analysis Week 1 Reflection | Data Science &amp; Analytics Program, LuxDevHQ](https://dev.to/mjamosk254/how-excel-is-used-in-real-world-data-analysis-week-1-reflection-data-science-analytics-program-3kc2)
-- [Stage 1.8 — Network Analysis Tools](https://dev.to/rencberakman/stage-18-network-analysis-tools-1ick)
+- [Flutter Midsommer Madnesss](https://dev.to/gde/flutter-midsommer-madnesss-kkb)
+- [Vortex 3.0 RISC-V GPGPU, Pragtical SDL GPU Backend, NVIDIA RTX Spark Launch](https://dev.to/soytuber/vortex-30-risc-v-gpgpu-pragtical-sdl-gpu-backend-nvidia-rtx-spark-launch-4eh0)
+- [The AI-generated C# that passes review and breaks in production](https://dev.to/agentic_architect/the-ai-generated-c-that-passes-review-and-breaks-in-production-5ci3)
+- [Local Time, UTC, Offset και Epoch: Ο απόλυτος οδηγός για developers](https://dev.to/__b63657/local-time-utc-offset-kai-epoch-o-apolutos-odegos-gia-developers-3h0f)
+- [How to Compare Testing Tools Without Getting Fooled by Feature Checklists](https://dev.to/sleepyfalcon247/how-to-compare-testing-tools-without-getting-fooled-by-feature-checklists-1b8l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
