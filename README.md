@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Author Doesn&#39;t Have to Be an Engineer: How the Harness Holds Quality &lpar;Series Part 5&rpar;](https://dev.to/ryantsuji/the-author-doesnt-have-to-be-an-engineer-how-the-harness-holds-quality-series-part-5-12e4)
-- [I built a hardware-inspired UI component library in pure Vanilla JS — here&#39;s how](https://dev.to/prince_4rvin/i-built-a-hardware-inspired-ui-component-library-in-pure-vanilla-js-heres-how-2hcn)
-- [Top 10 Free Online Tools Every Developer Should Bookmark](https://dev.to/azam-akram/top-10-free-online-tools-every-developer-should-bookmark-120c)
-- [Capstone: A 100-Test Suite, End to End &lpar;Playwright + TypeScript, Ch.26&rpar;](https://dev.to/aktibaba/capstone-a-100-test-suite-end-to-end-playwright-typescript-ch26-5b9n)
-- [Two Pillars Protocol — A maturity model for AI-era software engineering](https://dev.to/rlabs/two-pillars-protocol-a-maturity-model-for-ai-era-software-engineering-4bkj)
+- [You have been zigged &lpar;series&rpar; : Accessing environment variables](https://dev.to/black_tornado/you-have-been-zigged-series-accessing-environment-variables-1adj)
+- [Comparing Model Performance: Without MTP vs. With MTP vs. With MTP + QAT](https://dev.to/0xkoji/comparing-model-performance-without-mtp-vs-with-mtp-vs-with-mtp-qat-22ki)
+- [Five Minutes of Being Remembered](https://dev.to/paifamily/five-minutes-of-being-remembered-29pc)
+- [⚙️ Terraform create AWS EC2 instance with Python environment](https://dev.to/ptp2308/terraform-create-aws-ec2-instance-with-python-environment-4c1a)
+- [Why SQLite FTS5&#39;s default tokenizer drops your Japanese substrings &lpar;and the one-line fix&rpar;](https://dev.to/omochi_dev/why-sqlite-fts5s-default-tokenizer-drops-your-japanese-substrings-and-the-one-line-fix-1k2d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
