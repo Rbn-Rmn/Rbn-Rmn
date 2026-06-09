@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building a stateless process supervisor in Go: what the OS fights you on](https://dev.to/justadev/building-a-stateless-process-supervisor-in-go-what-the-os-fights-you-on-5f9j)
-- [Solana NFTs Without Metaplex: What I Built with Token Extensions published](https://dev.to/lymah/solana-nfts-without-metaplex-what-i-built-with-token-extensionspublished-7do)
-- [I built a local dead-man&#39;s-switch for cron jobs &lpar;no server, no signup&rpar;](https://dev.to/_06a3df6b50aec966668fb/i-built-a-local-dead-mans-switch-for-cron-jobs-no-server-no-signup-3j1m)
-- [The math of multi-model consensus: when 3 cheap reviews beat 1 expensive one](https://dev.to/brianmello/the-math-of-multi-model-consensus-when-3-cheap-reviews-beat-1-expensive-one-5997)
-- [AI coding evolves from autocomplete to running the full development process](https://dev.to/davekurian/ai-coding-evolves-from-autocomplete-to-running-the-full-development-process-1db6)
+- [Why I built ScreenFine](https://dev.to/devendravariya/why-i-built-screenfine-2gpk)
+- [The Env Variable Name Was Gone From the Bundle. The Value Wasn&#39;t.](https://dev.to/oopssec-store/the-env-variable-name-was-gone-from-the-bundle-the-value-wasnt-kl)
+- [The Demo Partner Program](https://dev.to/arthurpro/the-demo-partner-program-4m6o)
+- [How Excel Is Used in Real-World Data Analysis Week 1 Reflection | Data Science &amp; Analytics Program, LuxDevHQ](https://dev.to/mjamosk254/how-excel-is-used-in-real-world-data-analysis-week-1-reflection-data-science-analytics-program-3kc2)
+- [Stage 1.8 — Network Analysis Tools](https://dev.to/rencberakman/stage-18-network-analysis-tools-1ick)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
