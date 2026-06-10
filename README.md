@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic OG Images in Rails](https://dev.to/accreditly/dynamic-og-images-in-rails-1p9m)
-- [How I revived a 128MB RAM NAS by building my own control panel](https://dev.to/itprogresscorp/how-i-revived-a-128mb-ram-nas-by-building-my-own-control-panel-3keg)
-- [Flash Attention: what it does and why it matters](https://dev.to/tech_nuggets/flash-attention-what-it-does-and-why-it-matters-59b8)
-- [Technical SEO: A Simple Introduction](https://dev.to/gopuadks/technical-seo-a-simple-introduction-man)
-- [When Prompt Batching Made My LLM App More Expensive](https://dev.to/ahikmah/when-prompt-batching-made-my-llm-app-more-expensive-5gf5)
+- [How I built a multiplayer game inspired by Contexto](https://dev.to/jayaed/how-i-built-a-multiplayer-game-inspired-by-contexto-42d1)
+- [I Built My Personal Portfolio with Next.js, Tailwind CSS, and AI-Assisted Development](https://dev.to/darkpanther5667/i-built-my-personal-portfolio-with-nextjs-tailwind-css-and-ai-assisted-development-46lf)
+- [No parser. No interpreter. Just Java. That&#39;s how `@CompiledPath` gets so close to native performance.](https://dev.to/hannyu/no-parser-no-interpreter-just-java-thats-how-compiledpath-gets-so-close-to-native-50cj)
+- [Welcome Thread - v379](https://dev.to/devteam/welcome-thread-v379-9fb)
+- [Teaching an AI to Never Forget: How the Memory System Works](https://dev.to/panditabhis/teaching-an-ai-to-never-forget-how-the-memory-system-works-40o3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
