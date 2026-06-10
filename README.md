@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [WordPress Market Share Declining &lpar;2026 Data&rpar;](https://dev.to/hamed_pakdaman_c724e294d9/wordpress-market-share-declining-2026-data-3k8g)
-- [🤖 Your AI Agent Is Failing in Prod — You Just Don&#39;t Know It Yet](https://dev.to/cypriantinasheaarons/your-ai-agent-is-failing-in-prod-you-just-dont-know-it-yet-4je8)
-- [⚡ Proof Compounds. Claims Decay. — Why Delivery Is Your Next Marketing Asset](https://dev.to/cypriantinasheaarons/proof-compounds-claims-decay-why-delivery-is-your-next-marketing-asset-51kl)
-- [🔥 The Sales Call Is Not a Performance — It&#39;s a Diagnosis](https://dev.to/cypriantinasheaarons/the-sales-call-is-not-a-performance-its-a-diagnosis-1l71)
-- [🚀 Outbound Without Begging — The Contextual Outreach System That Works](https://dev.to/cypriantinasheaarons/outbound-without-begging-the-contextual-outreach-system-that-works-21ad)
+- [Dynamic OG Images in Rails](https://dev.to/accreditly/dynamic-og-images-in-rails-1p9m)
+- [How I revived a 128MB RAM NAS by building my own control panel](https://dev.to/itprogresscorp/how-i-revived-a-128mb-ram-nas-by-building-my-own-control-panel-3keg)
+- [Flash Attention: what it does and why it matters](https://dev.to/tech_nuggets/flash-attention-what-it-does-and-why-it-matters-59b8)
+- [Technical SEO: A Simple Introduction](https://dev.to/gopuadks/technical-seo-a-simple-introduction-man)
+- [When Prompt Batching Made My LLM App More Expensive](https://dev.to/ahikmah/when-prompt-batching-made-my-llm-app-more-expensive-5gf5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
