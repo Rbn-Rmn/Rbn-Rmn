@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [HTML in Canvas API](https://dev.to/rajeshkr/html-in-canvas-api-1i1o)
-- [You built it in a weekend — now what](https://dev.to/b0gy/you-built-it-in-a-weekend-now-what-3i07)
-- [Enterprise-grade AI integration: embedding LLMs into the business processes of large companies — redb.Route.Llm 3.1.1](https://dev.to/rinat_kozin_d0a2ef43e7824/enterprise-grade-ai-integration-embedding-llms-into-the-business-processes-of-large-companies--3a36)
-- [Reset, revert, and reflog: the ultimate guide to undoing commits without losing your repo](https://dev.to/cristian-jonhson/reset-revert-and-reflog-the-ultimate-guide-to-undoing-commits-without-losing-your-repo-3dp8)
-- [Chega de &quot;Lista de Tarefas&quot;: Como criei uma automação para receber emails sobre tecnologia](https://dev.to/cavalcantiraissa/chega-de-lista-de-tarefas-como-criei-uma-automacao-para-receber-emails-sobre-tecnologia-113h)
+- [I Built a Portfolio in Real Time Using Rullst &lpar;Rust&#39;s Best New Framework?&rpar; 🦀](https://dev.to/venelouis/i-built-a-portfolio-in-real-time-using-rullst-rusts-best-new-framework-3kcm)
+- [I Built an API That Turns Any Website Into JSON Using Just CSS Selectors](https://dev.to/sergio_morales_c705507bcd/i-built-an-api-that-turns-any-website-into-json-using-just-css-selectors-1fd1)
+- [I parsed my own firewall logs and found which AI tools my org was really talking to — including one routing data to China](https://dev.to/dezotech/i-parsed-my-own-firewall-logs-and-found-which-ai-tools-my-org-was-really-talking-to-including-one-3bnl)
+- [BurnLink: An Open-Source End-to-End Encrypted File Sharing Platform](https://dev.to/joy0x1/burnlink-an-open-source-end-to-end-encrypted-file-sharing-platform-2mfo)
+- [HOST A STATIC WEBSITE ON AZURE BLOB STORAGE IN 5 MINUTES &lpar;No VMs&rpar;](https://dev.to/daniel_ugot_8f1e5c3cc3f3c/host-a-static-website-on-azure-blob-storage-in-5-minutes-no-vms-4gdo)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
