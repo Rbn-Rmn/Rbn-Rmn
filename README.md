@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [FCC and CE Certification for Electronics from China](https://dev.to/china-sourcing-agents/fcc-and-ce-certification-for-electronics-from-china-4kfg)
-- [China Electronics Industry 2026: What Importers Need to Know](https://dev.to/china-sourcing-agents/china-electronics-industry-2026-what-importers-need-to-know-11j6)
-- [China Electronics Manufacturing Companies: A Buyer&#39;s Guide](https://dev.to/china-sourcing-agents/china-electronics-manufacturing-companies-a-buyers-guide-gjm)
-- [China Electronics Market Cities: Where to Source What](https://dev.to/china-sourcing-agents/china-electronics-market-cities-where-to-source-what-1k8a)
-- [China Electronics Market Websites](https://dev.to/china-sourcing-agents/china-electronics-market-websites-42bo)
+- [Building a Side Income Selling AI Developer Tools on Gumroad &lpar;Month 2 Update: $382&rpar;](https://dev.to/rafsilva85/building-a-side-income-selling-ai-developer-tools-on-gumroad-month-2-update-382-3bm2)
+- [The Spec That Doesn&#39;t Lie](https://dev.to/diyaburman/the-spec-that-doesnt-lie-5a00)
+- [Storing API Keys Safely in a Tauri App — Don&#39;t Just Use LocalStorage](https://dev.to/hiyoyok/storing-api-keys-safely-in-a-tauri-app-dont-just-use-localstorage-2i71)
+- [No Cloud, No Cost: Build an Offline Visual AI Agent with Gemma 4](https://dev.to/gde/no-cloud-no-cost-build-an-offline-visual-ai-agent-with-gemma-4-19k8)
+- [RikFinTech-Pro](https://dev.to/rikmakershub/rikfintech-pro-b3g)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
