@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I built a multiplayer game inspired by Contexto](https://dev.to/jayaed/how-i-built-a-multiplayer-game-inspired-by-contexto-42d1)
-- [I Built My Personal Portfolio with Next.js, Tailwind CSS, and AI-Assisted Development](https://dev.to/darkpanther5667/i-built-my-personal-portfolio-with-nextjs-tailwind-css-and-ai-assisted-development-46lf)
-- [No parser. No interpreter. Just Java. That&#39;s how `@CompiledPath` gets so close to native performance.](https://dev.to/hannyu/no-parser-no-interpreter-just-java-thats-how-compiledpath-gets-so-close-to-native-50cj)
-- [Welcome Thread - v379](https://dev.to/devteam/welcome-thread-v379-9fb)
-- [Teaching an AI to Never Forget: How the Memory System Works](https://dev.to/panditabhis/teaching-an-ai-to-never-forget-how-the-memory-system-works-40o3)
+- [Copilot Chat Goes GA in PRs — But Multi-Repo Visibility Is Still Missing](https://dev.to/code-board/copilot-chat-goes-ga-in-prs-but-multi-repo-visibility-is-still-missing-p4i)
+- [Your Agent Returns 200 and Lies. Verify Before You Trust](https://dev.to/alex_spinov/your-agent-returns-200-and-lies-verify-before-you-trust-2cm3)
+- [Stop sharing .env files in Discord. I built a zero-setup, E2E encrypted CLI instead.](https://dev.to/arjunn881/stop-sharing-env-files-in-discord-i-built-a-zero-setup-e2e-encrypted-cli-instead-hoo)
+- [Mixture of Experts &lpar;MoE&rpar; Explained Simply: How Modern AI Models Get Bigger Without Getting Slower](https://dev.to/shrsv/mixture-of-experts-moe-explained-simply-how-modern-ai-models-get-bigger-without-getting-slower-25mm)
+- [Jetpack Compose Navigation&lpar;Interview Prep&rpar;](https://dev.to/itsaalaa7/jetpack-compose-navigationinterview-prep-2bc7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
