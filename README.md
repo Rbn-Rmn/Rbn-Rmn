@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Copilot Chat Goes GA in PRs — But Multi-Repo Visibility Is Still Missing](https://dev.to/code-board/copilot-chat-goes-ga-in-prs-but-multi-repo-visibility-is-still-missing-p4i)
-- [Your Agent Returns 200 and Lies. Verify Before You Trust](https://dev.to/alex_spinov/your-agent-returns-200-and-lies-verify-before-you-trust-2cm3)
-- [Stop sharing .env files in Discord. I built a zero-setup, E2E encrypted CLI instead.](https://dev.to/arjunn881/stop-sharing-env-files-in-discord-i-built-a-zero-setup-e2e-encrypted-cli-instead-hoo)
-- [Mixture of Experts &lpar;MoE&rpar; Explained Simply: How Modern AI Models Get Bigger Without Getting Slower](https://dev.to/shrsv/mixture-of-experts-moe-explained-simply-how-modern-ai-models-get-bigger-without-getting-slower-25mm)
-- [Jetpack Compose Navigation&lpar;Interview Prep&rpar;](https://dev.to/itsaalaa7/jetpack-compose-navigationinterview-prep-2bc7)
+- [HTML in Canvas API](https://dev.to/rajeshkr/html-in-canvas-api-1i1o)
+- [You built it in a weekend — now what](https://dev.to/b0gy/you-built-it-in-a-weekend-now-what-3i07)
+- [Enterprise-grade AI integration: embedding LLMs into the business processes of large companies — redb.Route.Llm 3.1.1](https://dev.to/rinat_kozin_d0a2ef43e7824/enterprise-grade-ai-integration-embedding-llms-into-the-business-processes-of-large-companies--3a36)
+- [Reset, revert, and reflog: the ultimate guide to undoing commits without losing your repo](https://dev.to/cristian-jonhson/reset-revert-and-reflog-the-ultimate-guide-to-undoing-commits-without-losing-your-repo-3dp8)
+- [Chega de &quot;Lista de Tarefas&quot;: Como criei uma automação para receber emails sobre tecnologia](https://dev.to/cavalcantiraissa/chega-de-lista-de-tarefas-como-criei-uma-automacao-para-receber-emails-sobre-tecnologia-113h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
