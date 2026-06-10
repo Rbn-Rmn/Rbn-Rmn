@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building a Side Income Selling AI Developer Tools on Gumroad &lpar;Month 2 Update: $382&rpar;](https://dev.to/rafsilva85/building-a-side-income-selling-ai-developer-tools-on-gumroad-month-2-update-382-3bm2)
-- [The Spec That Doesn&#39;t Lie](https://dev.to/diyaburman/the-spec-that-doesnt-lie-5a00)
-- [Storing API Keys Safely in a Tauri App — Don&#39;t Just Use LocalStorage](https://dev.to/hiyoyok/storing-api-keys-safely-in-a-tauri-app-dont-just-use-localstorage-2i71)
-- [No Cloud, No Cost: Build an Offline Visual AI Agent with Gemma 4](https://dev.to/gde/no-cloud-no-cost-build-an-offline-visual-ai-agent-with-gemma-4-19k8)
-- [RikFinTech-Pro](https://dev.to/rikmakershub/rikfintech-pro-b3g)
+- [WordPress Market Share Declining &lpar;2026 Data&rpar;](https://dev.to/hamed_pakdaman_c724e294d9/wordpress-market-share-declining-2026-data-3k8g)
+- [🤖 Your AI Agent Is Failing in Prod — You Just Don&#39;t Know It Yet](https://dev.to/cypriantinasheaarons/your-ai-agent-is-failing-in-prod-you-just-dont-know-it-yet-4je8)
+- [⚡ Proof Compounds. Claims Decay. — Why Delivery Is Your Next Marketing Asset](https://dev.to/cypriantinasheaarons/proof-compounds-claims-decay-why-delivery-is-your-next-marketing-asset-51kl)
+- [🔥 The Sales Call Is Not a Performance — It&#39;s a Diagnosis](https://dev.to/cypriantinasheaarons/the-sales-call-is-not-a-performance-its-a-diagnosis-1l71)
+- [🚀 Outbound Without Begging — The Contextual Outreach System That Works](https://dev.to/cypriantinasheaarons/outbound-without-begging-the-contextual-outreach-system-that-works-21ad)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
