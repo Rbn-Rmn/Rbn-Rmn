@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Most Cloud Exit Strategies Start Too Late — Here&#39;s the Architecture Reason Why](https://dev.to/ntctech/most-cloud-exit-strategies-start-too-late-heres-the-architecture-reason-why-4f5f)
-- [ServiceLoader is great — until you want a constructor argument](https://dev.to/deniss_larka/serviceloader-is-great-until-you-want-a-constructor-argument-2767)
-- [AgentGuard: The Foundation Missing from Agentic AI Systems](https://dev.to/mypatric69/agentguard-the-foundation-missing-from-agentic-ai-systems-1lpk)
-- [I built a zero-dep CLI that finds unused dependencies — and is wrong less often than depcheck](https://dev.to/_06a3df6b50aec966668fb/i-built-a-zero-dep-cli-that-finds-unused-dependencies-and-is-wrong-less-often-than-depcheck-52ba)
-- [Passkeys Under the Hood: What&#39;s Actually Happening When You Use Face ID to Log In](https://dev.to/spicykim/passkeys-under-the-hood-whats-actually-happening-when-you-use-face-id-to-log-in-2md1)
+- [I Built an AI Code Reviewer That Runs on 240 Repos — And a Cron System That Keeps It Alive](https://dev.to/sulthonzh/i-built-an-ai-code-reviewer-that-runs-on-240-repos-and-a-cron-system-that-keeps-it-alive-32nj)
+- [Is Open Source Sustainable?](https://dev.to/merbayerp/is-open-source-sustainable-3n2a)
+- [AIClaw&#39;s Generated File Attachments Keep Tool Output In The Chat Loop](https://dev.to/chowyu12/aiclaws-generated-file-attachments-keep-tool-output-in-the-chat-loop-4n7h)
+- [How to Prepare for a Senior Developer Interview in 2026](https://dev.to/contextual_e058ba21d87c47/how-to-prepare-for-a-senior-developer-interview-in-2026-584p)
+- [Do You React Faster to Sound or Sight? Test Both in Your Browser](https://dev.to/nasirazizawan/do-you-react-faster-to-sound-or-sight-test-both-in-your-browser-33ge)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
