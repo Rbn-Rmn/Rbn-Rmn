@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Portfolio in Real Time Using Rullst &lpar;Rust&#39;s Best New Framework?&rpar; 🦀](https://dev.to/venelouis/i-built-a-portfolio-in-real-time-using-rullst-rusts-best-new-framework-3kcm)
-- [I Built an API That Turns Any Website Into JSON Using Just CSS Selectors](https://dev.to/sergio_morales_c705507bcd/i-built-an-api-that-turns-any-website-into-json-using-just-css-selectors-1fd1)
-- [I parsed my own firewall logs and found which AI tools my org was really talking to — including one routing data to China](https://dev.to/dezotech/i-parsed-my-own-firewall-logs-and-found-which-ai-tools-my-org-was-really-talking-to-including-one-3bnl)
-- [BurnLink: An Open-Source End-to-End Encrypted File Sharing Platform](https://dev.to/joy0x1/burnlink-an-open-source-end-to-end-encrypted-file-sharing-platform-2mfo)
-- [HOST A STATIC WEBSITE ON AZURE BLOB STORAGE IN 5 MINUTES &lpar;No VMs&rpar;](https://dev.to/daniel_ugot_8f1e5c3cc3f3c/host-a-static-website-on-azure-blob-storage-in-5-minutes-no-vms-4gdo)
+- [ShadowFeed Weekly #1: IronWorm npm Attack, $36M Humanity Protocol Hack, Microsoft Repos Compromised](https://dev.to/qanzhi111/shadowfeed-weekly-1-ironworm-npm-attack-36m-humanity-protocol-hack-microsoft-repos-compromised-4b6e)
+- [How a Magento 2 Upgrade Broke Our Multi-Website Setup &lpar;And Why the Problem Wasn&#39;t Magento&rpar;](https://dev.to/raj_d0814e615822b2781f996/how-a-magento-2-upgrade-broke-our-multi-website-setup-and-why-the-problem-wasnt-magento-2pd5)
+- [# I Thought High Current Always Meant a Fault Until I Came Across Transformer Inrush Current](https://dev.to/salma_aga/-i-thought-high-current-always-meant-a-fault-until-i-came-across-transformer-inrush-current-2a66)
+- [I Tracked Every Penny I Spent on AI APIs for a Month](https://dev.to/__5b6e8f677243ba4b2f60f/i-tracked-every-penny-i-spent-on-ai-apis-for-a-month-35ka)
+- [I Catalogued 93 AI Tools for Service Businesses. Two Categories Had Zero.](https://dev.to/contechfinder/i-catalogued-93-ai-tools-for-service-businesses-two-categories-had-zero-3l8l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
