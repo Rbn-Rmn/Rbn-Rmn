@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Code Reviewer That Runs on 240 Repos — And a Cron System That Keeps It Alive](https://dev.to/sulthonzh/i-built-an-ai-code-reviewer-that-runs-on-240-repos-and-a-cron-system-that-keeps-it-alive-32nj)
-- [Is Open Source Sustainable?](https://dev.to/merbayerp/is-open-source-sustainable-3n2a)
-- [AIClaw&#39;s Generated File Attachments Keep Tool Output In The Chat Loop](https://dev.to/chowyu12/aiclaws-generated-file-attachments-keep-tool-output-in-the-chat-loop-4n7h)
-- [How to Prepare for a Senior Developer Interview in 2026](https://dev.to/contextual_e058ba21d87c47/how-to-prepare-for-a-senior-developer-interview-in-2026-584p)
-- [Do You React Faster to Sound or Sight? Test Both in Your Browser](https://dev.to/nasirazizawan/do-you-react-faster-to-sound-or-sight-test-both-in-your-browser-33ge)
+- [The end of the programmer: 26 predictions I dare you to break](https://dev.to/ad_soares_9901444a323f3e2/the-end-of-the-programmer-26-predictions-i-dare-you-to-break-5g8c)
+- [How I Added Goose as an External Agent to Entire](https://dev.to/entire/how-i-added-goose-as-an-external-agent-to-entire-6gf)
+- [A Fluent LLM Answer Is Not the Same as an Inspected Answer](https://dev.to/kenerator/a-fluent-llm-answer-is-not-the-same-as-an-inspected-answer-o98)
+- [ayatsaadati — Complete Guide](https://dev.to/sahand1987/ayatsaadati-complete-guide-b90)
+- [MailHog Alternatives for CI Pipelines in 2026](https://dev.to/zerodrop/mailhog-alternatives-for-ci-pipelines-in-2025-5d0c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
