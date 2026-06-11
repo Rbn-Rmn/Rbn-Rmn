@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I replaced my Telegram bot and Google Sheet with my own MCP enabled open-source finance app](https://dev.to/andrew_zol/i-replaced-my-telegram-bot-and-google-sheet-with-my-own-mcp-enabled-open-source-finance-app-5hdi)
-- [How I Use AI to Write Platform-Specific Code &lpar;Without Getting Generic Output&rpar;](https://dev.to/djayavardhanreddy/how-i-use-ai-to-write-platform-specific-code-without-getting-generic-output-1921)
-- [Qwen 3.6 35B-A3B for Local AI in 2026: The 24GB VRAM Line That Gets You 120 tok/s](https://dev.to/jovan_chan_9500711396d4e6/qwen-36-35b-a3b-for-local-ai-in-2026-the-24gb-vram-line-that-gets-you-120-toks-3l89)
-- [Same Lever, Opposite Intent: When Shared Agent Memory Backfires](https://dev.to/ankushchadha/same-lever-opposite-intent-when-shared-agent-memory-backfires-19cl)
-- [Building a Laravel MCP Server That Answers Questions Over Real Data](https://dev.to/tomshaw/building-a-laravel-mcp-server-that-answers-questions-over-real-data-3cjg)
+- [Most Cloud Exit Strategies Start Too Late — Here&#39;s the Architecture Reason Why](https://dev.to/ntctech/most-cloud-exit-strategies-start-too-late-heres-the-architecture-reason-why-4f5f)
+- [ServiceLoader is great — until you want a constructor argument](https://dev.to/deniss_larka/serviceloader-is-great-until-you-want-a-constructor-argument-2767)
+- [AgentGuard: The Foundation Missing from Agentic AI Systems](https://dev.to/mypatric69/agentguard-the-foundation-missing-from-agentic-ai-systems-1lpk)
+- [I built a zero-dep CLI that finds unused dependencies — and is wrong less often than depcheck](https://dev.to/_06a3df6b50aec966668fb/i-built-a-zero-dep-cli-that-finds-unused-dependencies-and-is-wrong-less-often-than-depcheck-52ba)
+- [Passkeys Under the Hood: What&#39;s Actually Happening When You Use Face ID to Log In](https://dev.to/spicykim/passkeys-under-the-hood-whats-actually-happening-when-you-use-face-id-to-log-in-2md1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
