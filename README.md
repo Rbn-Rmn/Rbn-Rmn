@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Open-Source Multi-Agent Orchestration: Lessons from AgentForge](https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-19df)
-- [Two unrelated Claude Code Opus 4.8 failures hit the same week: token burn and fabricated tool results](https://dev.to/yurukusa/two-unrelated-claude-code-opus-48-failures-hit-the-same-week-token-burn-and-fabricated-tool-31hi)
-- [SemiAnalysis访谈Radiant的AIInfra主管PatrickWohlschlegel](https://dev.to/cognitalk/semianalysisfang-tan-radiantde-aiinfrazhu-guan-patrickwohlschlegel-63d)
-- [Transformers 中的涌现类比推理](https://dev.to/cognitalk/transformers-zhong-de-yong-xian-lei-bi-tui-li-51f0)
-- [[Boost]](https://dev.to/iromin/-26ea)
+- [Streaming 25 Million Excel Cells Through 7 MB of Memory](https://dev.to/ari10/streaming-25-million-excel-cells-through-7-mb-of-memory-821)
+- [The Best JavaScript Slider Library? Introducing Pagiflow: A Zero-Dependency, High-Performance Carousel](https://dev.to/pagiflow/the-best-javascript-slider-library-introducing-pagiflow-a-zero-dependency-high-performance-12ch)
+- [Are Your Game&#39;s &quot;Optimizations&quot; Just Bottlenecks in Disguise?](https://dev.to/prabashanadev/are-your-games-optimizations-just-bottlenecks-in-disguise-593a)
+- [FastAPI for AI Engineers - Part 5: Authentication vs Authorization &lpar;And Why Most Beginners Confuse Them&rpar;](https://dev.to/zeroshotanu/fastapi-for-ai-engineers-part-5-authentication-vs-authorization-and-why-most-beginners-confuse-42ma)
+- [Every Step Was Allowed. The Sequence Was the Attack. &lpar;AI Memory Judgment, CLAIM-30&rpar;](https://dev.to/zep1997/every-step-was-allowed-the-sequence-was-the-attack-ai-memory-judgment-claim-30-4ehc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
