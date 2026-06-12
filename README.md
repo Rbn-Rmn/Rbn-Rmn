@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [When Kubernetes Isn&#39;t the Problem: Debugging External Dependencies in AKS](https://dev.to/devops_oracle/when-kubernetes-isnt-the-problem-debugging-external-dependencies-in-aks-4kie)
-- [Mac Studio M4 Max vs Mac Mini M4 Pro for Local AI in 2026: Is the $600 Upgrade to 546 GB/s Worth It?](https://dev.to/jovan_chan_9500711396d4e6/mac-studio-m4-max-vs-mac-mini-m4-pro-for-local-ai-in-2026-is-the-600-upgrade-to-546-gbs-worth-it-1mi2)
-- [Startup Automation in 2026: The Opportunities, Risks, and Limits of AI-Driven Growth](https://dev.to/nasifsid/startup-automation-in-2026-the-opportunities-risks-and-limits-of-ai-driven-growth-2npc)
-- [Kimi K2.6 for Local AI in 2026: What VRAM and System RAM You Need to Actually Run the 1T-Parameter MoE Coding Leader](https://dev.to/jovan_chan_9500711396d4e6/kimi-k26-for-local-ai-in-2026-what-vram-and-system-ram-you-need-to-actually-run-the-1t-parameter-3hnd)
-- [Open-Source Coding Agents 2026: Which One to Run](https://dev.to/jovan_chan_9500711396d4e6/open-source-coding-agents-2026-which-one-to-run-5g14)
+- [Actuando sobre la Seguridad Perimetral: Cómo Implementar un Cortafuegos Dinámico basado en el Comportamiento DNS](https://dev.to/arcadio_ortega/actuando-sobre-la-seguridad-perimetral-como-implementar-un-cortafuegos-dinamico-basado-en-el-4844)
+- [Why I don’t feel the excitement when coding now, unlike before because of AI?](https://dev.to/emmanuel-pangan/why-i-dont-feel-the-excitement-when-coding-now-unlike-before-because-of-ai-21d0)
+- [System Design - 17. Service Discovery &amp; Service Mesh: How Thousands of Services Find Each Other](https://dev.to/rajkiran_389/system-design-16-service-discovery-service-mesh-how-thousands-of-services-find-each-other-4g0b)
+- [Mobile Game Power Optimization: Why 30 FPS vs 60 FPS Can Double Energy Usage &lpar;Real Data Breakdown&rpar;](https://dev.to/gameoptim/mobile-game-power-optimization-why-30-fps-vs-60-fps-can-double-energy-usage-real-data-breakdown-110n)
+- [Building a Mac Screen Recorder That Adds Zoom Animations from Click Data](https://dev.to/snazarofff/building-a-mac-screen-recorder-that-adds-zoom-animations-from-click-data-528m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
