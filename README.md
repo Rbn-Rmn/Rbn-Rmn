@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [CSS &#39;overscroll-behavior&#39; rubber banding: the right color behind the page when you pull it](https://dev.to/a-dev/css-overscroll-behavior-rubber-banding-the-right-color-behind-the-page-when-you-pull-it-47mj)
-- [SkillOpt: Revolutionizing AI Agent Skills in 2026](https://dev.to/meghroop_tech/skillopt-revolutionizing-ai-agent-skills-in-2026-28j0)
-- [Optimistic UI Patterns with Next.js Server Actions and Supabase Realtime](https://dev.to/mahdi_benrhouma_fe1c6005/optimistic-ui-patterns-with-nextjs-server-actions-and-supabase-realtime-7e0)
-- [Event-Driven Algos: Mastering Webhooks and Order Lifecycle Event Triggers](https://dev.to/mountek/event-driven-algos-mastering-webhooks-and-order-lifecycle-event-triggers-1c0b)
-- [Combien coûte un site web au Maroc en 2026 ?](https://dev.to/hamzasehouli/rerferferfer-4pa8)
+- [Building a Permission-Gated MCP Server in Laravel &lpar;Without Opening a Backdoor&rpar;](https://dev.to/nasrulhazim/building-a-permission-gated-mcp-server-in-laravel-without-opening-a-backdoor-3jk5)
+- [I Built Bit Flip to Make Coding Interview Practice Simpler](https://dev.to/zt4ff_1/i-built-bit-flip-to-make-coding-interview-practice-simpler-44dc)
+- [PuskesmasAI: Finishing an Offline AI Triage App for Rural Indonesia](https://dev.to/jefri_bulo/puskesmasai-finishing-an-offline-ai-triage-app-for-rural-indonesia-52da)
+- [Designing an Expiring-Points System on an RDBMS &lpar;with Benchmarks&rpar;](https://dev.to/matsubo/designing-an-expiring-points-system-on-an-rdbms-with-benchmarks-5hk1)
+- [I Stopped Prompting My Agents, I Write Agentic Loops Instead - Here&#39;s Why](https://dev.to/dragos_roua/i-stopped-prompting-my-agents-i-write-agentic-loops-instead-heres-why-300p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
