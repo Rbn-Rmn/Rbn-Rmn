@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Streaming 25 Million Excel Cells Through 7 MB of Memory](https://dev.to/ari10/streaming-25-million-excel-cells-through-7-mb-of-memory-821)
-- [The Best JavaScript Slider Library? Introducing Pagiflow: A Zero-Dependency, High-Performance Carousel](https://dev.to/pagiflow/the-best-javascript-slider-library-introducing-pagiflow-a-zero-dependency-high-performance-12ch)
-- [Are Your Game&#39;s &quot;Optimizations&quot; Just Bottlenecks in Disguise?](https://dev.to/prabashanadev/are-your-games-optimizations-just-bottlenecks-in-disguise-593a)
-- [FastAPI for AI Engineers - Part 5: Authentication vs Authorization &lpar;And Why Most Beginners Confuse Them&rpar;](https://dev.to/zeroshotanu/fastapi-for-ai-engineers-part-5-authentication-vs-authorization-and-why-most-beginners-confuse-42ma)
-- [Every Step Was Allowed. The Sequence Was the Attack. &lpar;AI Memory Judgment, CLAIM-30&rpar;](https://dev.to/zep1997/every-step-was-allowed-the-sequence-was-the-attack-ai-memory-judgment-claim-30-4ehc)
+- [.NET 11 vs .NET 10: We Benchmarked Both on a Real Production App &lpar;Should You Upgrade?&rpar;](https://dev.to/kirandeepjassalcrypto/net-11-vs-net-10-we-benchmarked-both-on-a-real-production-app-should-you-upgrade-5goh)
+- [What Makes An Agent Loop Useful?](https://dev.to/ebonyl/what-makes-an-agent-loop-useful-d5e)
+- [Most beginners misuse these Git branch commands: main, checkout -b, switch -c, and push -u explained](https://dev.to/cristian-jonhson/stop-using-git-branch-commands-blindly-main-checkout-b-switch-c-and-push-u-explained-1kol)
+- [Web Testing in 2026 Is Less About Tools and More About Trust](https://dev.to/orbitpickle307/web-testing-in-2026-is-less-about-tools-and-more-about-trust-7a3)
+- [I Built an AI Symptom Tracker That Generates Doctor-Ready Reports](https://dev.to/kyisaiah47/i-built-an-ai-symptom-tracker-that-generates-doctor-ready-reports-3o26)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
