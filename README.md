@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Actuando sobre la Seguridad Perimetral: Cómo Implementar un Cortafuegos Dinámico basado en el Comportamiento DNS](https://dev.to/arcadio_ortega/actuando-sobre-la-seguridad-perimetral-como-implementar-un-cortafuegos-dinamico-basado-en-el-4844)
-- [Why I don’t feel the excitement when coding now, unlike before because of AI?](https://dev.to/emmanuel-pangan/why-i-dont-feel-the-excitement-when-coding-now-unlike-before-because-of-ai-21d0)
-- [System Design - 17. Service Discovery &amp; Service Mesh: How Thousands of Services Find Each Other](https://dev.to/rajkiran_389/system-design-16-service-discovery-service-mesh-how-thousands-of-services-find-each-other-4g0b)
-- [Mobile Game Power Optimization: Why 30 FPS vs 60 FPS Can Double Energy Usage &lpar;Real Data Breakdown&rpar;](https://dev.to/gameoptim/mobile-game-power-optimization-why-30-fps-vs-60-fps-can-double-energy-usage-real-data-breakdown-110n)
-- [Building a Mac Screen Recorder That Adds Zoom Animations from Click Data](https://dev.to/snazarofff/building-a-mac-screen-recorder-that-adds-zoom-animations-from-click-data-528m)
+- [Open-Source Multi-Agent Orchestration: Lessons from AgentForge](https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-19df)
+- [Two unrelated Claude Code Opus 4.8 failures hit the same week: token burn and fabricated tool results](https://dev.to/yurukusa/two-unrelated-claude-code-opus-48-failures-hit-the-same-week-token-burn-and-fabricated-tool-31hi)
+- [SemiAnalysis访谈Radiant的AIInfra主管PatrickWohlschlegel](https://dev.to/cognitalk/semianalysisfang-tan-radiantde-aiinfrazhu-guan-patrickwohlschlegel-63d)
+- [Transformers 中的涌现类比推理](https://dev.to/cognitalk/transformers-zhong-de-yong-xian-lei-bi-tui-li-51f0)
+- [[Boost]](https://dev.to/iromin/-26ea)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
