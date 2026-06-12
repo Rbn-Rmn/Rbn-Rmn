@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [.NET 11 vs .NET 10: We Benchmarked Both on a Real Production App &lpar;Should You Upgrade?&rpar;](https://dev.to/kirandeepjassalcrypto/net-11-vs-net-10-we-benchmarked-both-on-a-real-production-app-should-you-upgrade-5goh)
-- [What Makes An Agent Loop Useful?](https://dev.to/ebonyl/what-makes-an-agent-loop-useful-d5e)
-- [Most beginners misuse these Git branch commands: main, checkout -b, switch -c, and push -u explained](https://dev.to/cristian-jonhson/stop-using-git-branch-commands-blindly-main-checkout-b-switch-c-and-push-u-explained-1kol)
-- [Web Testing in 2026 Is Less About Tools and More About Trust](https://dev.to/orbitpickle307/web-testing-in-2026-is-less-about-tools-and-more-about-trust-7a3)
-- [I Built an AI Symptom Tracker That Generates Doctor-Ready Reports](https://dev.to/kyisaiah47/i-built-an-ai-symptom-tracker-that-generates-doctor-ready-reports-3o26)
+- [Competitive Programming Series — Session 2: Recursion and Backtracking](https://dev.to/rs9000/competitive-programming-series-session-2-recursion-and-backtracking-pmn)
+- [AI Agent Security, Malware Evasion, &amp; LLM Data Leakage Risks](https://dev.to/soytuber/ai-agent-security-malware-evasion-llm-data-leakage-risks-4opa)
+- [Local AI Coding Agents, Secure Production Deployment, and Angular-Specific AI Skills](https://dev.to/soytuber/local-ai-coding-agents-secure-production-deployment-and-angular-specific-ai-skills-181p)
+- [DuckDB Data Inlining, SQLite Fossildelta OOB, Postgres 19 Temporal Data](https://dev.to/soytuber/duckdb-data-inlining-sqlite-fossildelta-oob-postgres-19-temporal-data-123m)
+- [AI Fluency for Software Engineers: A Practical Playbook Beyond Prompting](https://dev.to/natarajan_murugesan_b00c4/ai-fluency-for-software-engineers-a-practical-playbook-beyond-prompting-37n1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
