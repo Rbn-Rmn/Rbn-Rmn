@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Opening Pandora&#39;s Box: How to Unlock Direct DOM Method Calls in Blazor, No External JS File Needed](https://dev.to/j_sakamoto/opening-pandoras-box-how-to-unlock-direct-dom-method-calls-in-blazor-no-external-js-file-needed-5h5p)
-- [[🗄️DataBase] Database Transactions 底層到底做了什麼：從記憶體到磁碟](https://dev.to/qq5yu/database-database-transactions-di-ceng-dao-di-zuo-liao-shi-mo-cong-ji-yi-ti-dao-ci-die-4cnc)
-- [Why AgentTrail Exists: Building Open-Source Audit Trails for AI Agents](https://dev.to/agenttrail/why-agenttrail-exists-building-open-source-audit-trails-for-ai-agents-2i38)
-- [I Built a Local LLM Rig to Escape API Bills. Then I Paid OpenAI Again.](https://dev.to/hannune/i-built-a-local-llm-rig-to-escape-api-bills-then-i-paid-openai-again-4bi7)
-- [How I Built a 24 Game Solver: Brute-Force Meets Elegance in TypeScript](https://dev.to/_fd62359cd3c9c677f9e9f6/how-i-built-a-24-game-solver-brute-force-meets-elegance-in-typescript-50ko)
+- [OS Architecture, Kernel, Shell &amp; File System](https://dev.to/tejas_shinkar/os-architecture-kernel-shell-file-system-3nlc)
+- [What Nobody Told Me About Maintaining an Open Source Project](https://dev.to/motionmind2007/what-nobody-told-me-about-maintaining-an-open-source-project-307m)
+- [Your agent finished at 3 a.m. Where did the report go?](https://dev.to/mmmikael/your-agent-finished-at-3-am-where-did-the-report-go-m8a)
+- [I Built a Coding Mascot Generator with Google AI Studio — Meet Octo-Byte! 🐙](https://dev.to/gamya_m/i-built-a-coding-mascot-generator-with-google-ai-studio-meet-octo-byte-5abi)
+- [My AI-agent waste detector scored zero false positives. Then I ran it on a real trace.](https://dev.to/jeonsewon/my-ai-agent-waste-detector-scored-zero-false-positives-then-i-ran-it-on-a-real-trace-96o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
