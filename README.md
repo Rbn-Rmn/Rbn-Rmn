@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Can we just add login?&quot; — a 4-way system for client change requests that don&#39;t eat your margin](https://dev.to/projectnomad/can-we-just-add-login-a-4-way-system-for-client-change-requests-that-dont-eat-your-margin-2n6b)
-- [AI Evals, Part 2: Error Analysis The Unglamorous Superpower Behind Good Evals](https://dev.to/mrviduus/ai-evals-part-2-error-analysis-the-unglamorous-superpower-behind-good-evals-4k2h)
-- [Fable 5 dropped and I&#39;m suddenly a lot more paranoid about my VS Code extensions](https://dev.to/ishaan_agrawal/fable-5-dropped-and-im-suddenly-a-lot-more-paranoid-about-my-vs-code-extensions-iin)
-- [How to Keep Your Website Fast When Using Custom Fonts](https://dev.to/mubeen_naeem7896/how-to-keep-your-website-fast-when-using-custom-fonts-2j0i)
-- [The Remote Already Exists: What &quot;Click&quot; Got Right About Agentic AI](https://dev.to/alexmercedcoder/the-remote-already-exists-what-click-got-right-about-agentic-ai-1d97)
+- [Opening Pandora&#39;s Box: How to Unlock Direct DOM Method Calls in Blazor, No External JS File Needed](https://dev.to/j_sakamoto/opening-pandoras-box-how-to-unlock-direct-dom-method-calls-in-blazor-no-external-js-file-needed-5h5p)
+- [[🗄️DataBase] Database Transactions 底層到底做了什麼：從記憶體到磁碟](https://dev.to/qq5yu/database-database-transactions-di-ceng-dao-di-zuo-liao-shi-mo-cong-ji-yi-ti-dao-ci-die-4cnc)
+- [Why AgentTrail Exists: Building Open-Source Audit Trails for AI Agents](https://dev.to/agenttrail/why-agenttrail-exists-building-open-source-audit-trails-for-ai-agents-2i38)
+- [I Built a Local LLM Rig to Escape API Bills. Then I Paid OpenAI Again.](https://dev.to/hannune/i-built-a-local-llm-rig-to-escape-api-bills-then-i-paid-openai-again-4bi7)
+- [How I Built a 24 Game Solver: Brute-Force Meets Elegance in TypeScript](https://dev.to/_fd62359cd3c9c677f9e9f6/how-i-built-a-24-game-solver-brute-force-meets-elegance-in-typescript-50ko)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
