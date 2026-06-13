@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Man Who Studied the Hippocampus Is Telling You What&#39;s Missing](https://dev.to/penfieldlabs/the-man-who-studied-the-hippocampus-is-telling-you-whats-missing-88b)
-- [How We Landed The #2 Spot on SaaSHub and How You Can Too](https://dev.to/katie_p/how-we-landed-the-2-spot-on-saashub-and-how-you-can-too-3jej)
-- [Saving 82% on AI: How I Migrated From GPT-4 to Chinese Models](https://dev.to/gentlenode/saving-82-on-ai-how-i-migrated-from-gpt-4-to-chinese-models-3k1j)
-- [Les taux de TVA en francophonie en 2026 : France, Belgique, Suisse et Québec comparés](https://dev.to/tresor4k/les-taux-de-tva-en-francophonie-en-2026-france-belgique-suisse-et-quebec-compares-2ipa)
-- [Review: OpenHuman - An open source AI harness built with the human in mind](https://dev.to/ai-tool-hunter/review-openhuman-an-open-source-ai-harness-built-with-the-human-in-mind-pkk)
+- [Azure Application Insights: Monitoring, KQL Queries and Observability in Production](https://dev.to/manoharij/azure-application-insights-monitoring-kql-queries-and-observability-in-production-2nac)
+- [SQLite in a Tauri v2 App — Simple, Reliable, Zero Regrets](https://dev.to/hiyoyok/sqlite-in-a-tauri-v2-app-simple-reliable-zero-regrets-391h)
+- [I built an interactive tracker for my 25-week GenAI engineering roadmap &lpar;instead of using Notion&rpar;](https://dev.to/poseidonrage/i-built-an-interactive-tracker-for-my-25-week-genai-engineering-roadmap-instead-of-using-notion-1ji0)
+- [I built my own 2D game engine from scratch using TypeScript](https://dev.to/eiturhan/i-built-my-own-2d-game-engine-from-scratch-using-typescript-41d2)
+- [Debugging OOMKilled errors and fixing memory leaks in serverless-like environments.](https://dev.to/sohanaakbar7/debugging-oomkilled-errors-and-fixing-memory-leaks-in-serverless-like-environments-24d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
