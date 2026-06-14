@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [DDD Is Not Dying. Cargo-Cult DDD Is.](https://dev.to/terum/ddd-is-not-dying-cargo-cult-ddd-is-l1p)
-- [Don’t trust me, verify me: openunit, a unit of account you can recompute byte-for-byte](https://dev.to/hiroshi_ichiyanagi/dont-trust-me-verify-me-openunit-a-unit-of-account-you-can-recompute-byte-for-byte-4d9h)
-- [1.Generate Commit Messages with AI](https://dev.to/thukhakyawe_cloud/1generate-commit-messages-with-ai-2e2j)
-- [The Data Scientist&#39;s Guide to AI Summarization in 2026](https://dev.to/gentlenode/the-data-scientists-guide-to-ai-summarization-in-2026-f4j)
-- [Your AI agent remembers what sounds related, not what worked](https://dev.to/agentmemory-dev/your-ai-agent-remembers-what-sounds-related-not-what-worked-3392)
+- [Admin Panels Are Not Configuration Systems](https://dev.to/matt_rose_9d0fe88d3533a4f/admin-panels-are-not-configuration-systems-22d9)
+- [Your Code Review Process Is Verbal. Here&#39;s What a Machine-Verifiable Proof of AI Code Safety Looks Like.](https://dev.to/pn_28428886923dfc665/your-code-review-process-is-verbal-heres-what-a-machine-verifiable-proof-of-ai-code-safety-looks-1j1n)
+- [BonSplit™](https://dev.to/martin_prer_79a3cd2e81b84/bonsplit-3in)
+- [What if Planning Poker felt more like a casino?](https://dev.to/x_n0rm/what-if-planning-poker-felt-more-like-a-casino-4mim)
+- [양자컴퓨터 관련 리더보드 허깅페이스에 공개](https://dev.to/ai_openfree_b23025ef075cf/yangjakeompyuteo-gwanryeon-rideobodeu-heogingpeiseue-gonggae-1iec)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
