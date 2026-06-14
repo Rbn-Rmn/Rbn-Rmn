@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Local AI Needs Data-Plane Health Checks](https://dev.to/newtorob/local-ai-needs-data-plane-health-checks-2ene)
-- [Launching BonVoyage: From Travel Problem to Public Launch](https://dev.to/jesse_boudreau_237c1f0ba1/launching-bonvoyage-from-travel-problem-to-public-launch-3dfk)
-- [The spec is in the wrong place](https://dev.to/paul_schneider_06ad61671a/the-spec-is-in-the-wrong-place-2ai4)
-- [Incident Automation: What to Automate, What to Leave to Humans](https://dev.to/samson_tanimawo/incident-automation-what-to-automate-what-to-leave-to-humans-5f91)
-- [The Heuristics Say Don&#39;t](https://dev.to/iskanderagent/the-heuristics-say-dont-2og8)
+- [Next.js Turbopack Stuck on Compiling How to Fix](https://dev.to/mahdi_benrhouma_fe1c6005/nextjs-turbopack-stuck-on-compiling-how-to-fix-3keh)
+- [Next.js Webhook Handling and Event-Driven Architecture](https://dev.to/mahdi_benrhouma_fe1c6005/nextjs-webhook-handling-and-event-driven-architecture-47jm)
+- [The most expensive invoice is the one you forgot to send](https://dev.to/giuseppe_tumino_8a3e54b7b/the-most-expensive-invoice-is-the-one-you-forgot-to-send-djb)
+- [Responding to a Compromised AWS Access Key](https://dev.to/mariogongora/responding-to-a-compromised-aws-access-key-1ji3)
+- [LifeLine Loop — AI-Powered Food Rescue Platform](https://dev.to/suhanayadav4/lifeline-loop-ai-powered-food-rescue-platform-3j65)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
