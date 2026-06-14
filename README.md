@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My safety guard protected 2 tools and trusted the other 20](https://dev.to/achiya-automation/my-safety-guard-protected-2-tools-and-trusted-the-other-20-5890)
-- [I’m 17, and I’m teaching 6,000+ students to build apps without getting stuck in syntax hell](https://dev.to/yashwardhan_sharma/im-17-and-im-teaching-6000-students-to-build-apps-without-getting-stuck-in-syntax-hell-3f1h)
-- [Building a focused 2026 World Cup schedule tracker](https://dev.to/justlovemaki/building-a-focused-2026-world-cup-schedule-tracker-1nn3)
-- [How WSO2 API Manager Transforms API Analytics &amp; Monitoring](https://dev.to/chamath_gunawardhana_e13e/how-wso2-api-manager-transforms-api-analytics-monitoring-2aof)
-- [The Best Abstractions Arrive Late](https://dev.to/stinklewinks/the-best-abstractions-arrive-late-1h1o)
+- [I Built Dusk: Playwright MCP, but for Flutter Apps](https://dev.to/fluttersdk/i-built-dusk-playwright-mcp-but-for-flutter-apps-l5m)
+- [Built 50 privacy-first web tools that run entirely in your browser—no servers, no tracking, just useful tools. Tooljar.app](https://dev.to/burak_eldek_f6fdf098a7cd8/built-50-privacy-first-web-tools-that-run-entirely-in-your-browser-no-servers-no-tracking-just-4pnb)
+- [Talkis - an opensource alternative to wispr flow](https://dev.to/david_perov_7963d06e094d3/talkis-an-opensource-alternative-to-wispr-flow-10nn)
+- [Build Your Own Claude Code Marketplace: Scaffold, Structure, and Auto-Updates](https://dev.to/nagell/build-your-own-claude-code-marketplace-scaffold-structure-and-auto-updates-4n3f)
+- [Replacing Fragile CSS Selectors with LLM-Powered Zero-Shot JSON Extraction](https://dev.to/alterlab/replacing-fragile-css-selectors-with-llm-powered-zero-shot-json-extraction-39j2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
