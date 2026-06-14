@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I built a website vulnerability scanner for UAE PDPL compliance as a solo founder](https://dev.to/akilesh_864dae62398fb356a/how-i-built-a-website-vulnerability-scanner-for-uae-pdpl-compliance-as-a-solo-founder-ki7)
-- [APK Install and App Manager in Rust + Tauri — Building ADB Tools](https://dev.to/hiyoyok/apk-install-and-app-manager-in-rust-tauri-building-adb-tools-3l4g)
-- [I built a tool that formats messy developer notes into clean GitHub Markdown](https://dev.to/taniy8/i-built-a-tool-that-formats-messy-developer-notes-into-clean-github-markdown-4kbc)
-- [🚀 BFS: The Jedi Mind Trick for Graph Traversal &lpar;Why It’s More Than Just a Queue&rpar;](https://dev.to/timevolt/bfs-the-jedi-mind-trick-for-graph-traversal-why-its-more-than-just-a-queue-ok)
-- [I built Reclaim: an AI tool that finds medical billing errors and writes your appeal letters](https://dev.to/kyisaiah47/i-built-reclaim-an-ai-tool-that-finds-medical-billing-errors-and-writes-your-appeal-letters-43ph)
+- [My safety guard protected 2 tools and trusted the other 20](https://dev.to/achiya-automation/my-safety-guard-protected-2-tools-and-trusted-the-other-20-5890)
+- [I’m 17, and I’m teaching 6,000+ students to build apps without getting stuck in syntax hell](https://dev.to/yashwardhan_sharma/im-17-and-im-teaching-6000-students-to-build-apps-without-getting-stuck-in-syntax-hell-3f1h)
+- [Building a focused 2026 World Cup schedule tracker](https://dev.to/justlovemaki/building-a-focused-2026-world-cup-schedule-tracker-1nn3)
+- [How WSO2 API Manager Transforms API Analytics &amp; Monitoring](https://dev.to/chamath_gunawardhana_e13e/how-wso2-api-manager-transforms-api-analytics-monitoring-2aof)
+- [The Best Abstractions Arrive Late](https://dev.to/stinklewinks/the-best-abstractions-arrive-late-1h1o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
