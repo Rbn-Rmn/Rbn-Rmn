@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Running a container inside a non-privileged microVM, on an Apple Silicon Mac](https://dev.to/terum/running-a-container-inside-a-non-privileged-microvm-on-an-apple-silicon-mac-145f)
-- [Could We Build a World Without Cash? Exploring Universal Biometric Identity and Digital Credits](https://dev.to/itsmdshahin/could-we-build-a-world-without-cash-exploring-universal-biometric-identity-and-digital-credits-4ga9)
-- [I Stopped Curating Games. I Built an AI Agent to Run My Portal Instead.](https://dev.to/michal_bilinski_839d59856/i-stopped-curating-games-i-built-an-ai-agent-to-run-my-portal-instead-2aci)
-- [&quot;I Added a /yolo Button to My Local AI Assistant&quot;](https://dev.to/codekingai/i-added-a-yolo-button-to-my-local-ai-assistant-4klh)
-- [Turn on CMCD: make your CDN logs explain rebuffering](https://dev.to/masonwritescode/turn-on-cmcd-make-your-cdn-logs-explain-rebuffering-k8d)
+- [Build and deploy an MCP server with .NET and Azure Container Apps](https://dev.to/lukaswalter/build-and-deploy-an-mcp-server-with-net-and-azure-container-apps-183m)
+- [Why recording video in the browser is harder than it looks](https://dev.to/dealwith/why-recording-video-in-the-browser-is-harder-than-it-looks-5fdo)
+- [System Design - 24. Geospatial Indexing: How Uber Finds the Nearest Driver Among Millions in Milliseconds](https://dev.to/rajkiran_389/system-design-8-geospatial-indexing-how-uber-finds-the-nearest-driver-among-millions-in-k13)
+- [I built a deterministic CI firewall for AI-generated pull requests](https://dev.to/sjh9714/i-built-a-deterministic-ci-firewall-for-ai-generated-pull-requests-4o3c)
+- [The Hidden Math of Mid-Cycle Subscription Upgrades](https://dev.to/mattia_armas/the-hidden-math-of-mid-cycle-subscription-upgrades-1h7f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
