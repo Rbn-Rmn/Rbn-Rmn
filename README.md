@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Thread Battle: Go Concurrency vs. Node.js Event Loop from First Principles](https://dev.to/aabiskar/the-thread-battle-go-concurrency-vs-nodejs-event-loop-from-first-principles-498g)
-- [Bridging the Gap: Connect Local AI Agents to A-Modular-Kingdom MCP Server Automatically](https://dev.to/masihmoafi/bridging-the-gap-connect-local-ai-agents-to-a-modular-kingdom-mcp-server-automatically-30lc)
-- [👋 Hello DEV Community!](https://dev.to/jolidon_dev/hello-dev-community-5c5m)
-- [LiteLLM Vulnerability Chain Enables Full AI Gateway Takeover from Default Account](https://dev.to/etairos/litellm-vulnerability-chain-enables-full-ai-gateway-takeover-from-default-account-kh2)
-- [Agentic Design Patterns: The Shapes Every Coding Agent Reuses](https://dev.to/thesmartdude/agentic-design-patterns-the-shapes-every-coding-agent-reuses-3m15)
+- [How I Built an iPhone App and Published It on the App Store — With Kiro CLI as My Partner](https://dev.to/aws-builders/how-i-built-an-iphone-app-and-published-it-on-the-app-store-with-kiro-cli-as-my-partner-3kn1)
+- [When Your Pull Request Has More AI Reviewers Than Humans](https://dev.to/neithergalax/when-your-pull-request-has-more-ai-reviewers-than-humans-13n7)
+- [[chronolog] SavePoint 1.1.4 Release 🎉](https://dev.to/savepointapp/chronolog-savepoint-114-release-m51)
+- [Java&#39;s Project Valhalla Finally Lands in JDK 28 — What It Means for Developers](https://dev.to/jamilxt/javas-project-valhalla-finally-lands-in-jdk-28-what-it-means-for-developers-1j0o)
+- [Running Local LLMs With Ollama For Private Development](https://dev.to/nazar_boyko/running-local-llms-with-ollama-for-private-development-4924)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
