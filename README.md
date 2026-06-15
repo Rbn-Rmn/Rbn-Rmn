@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Build and deploy an MCP server with .NET and Azure Container Apps](https://dev.to/lukaswalter/build-and-deploy-an-mcp-server-with-net-and-azure-container-apps-183m)
-- [Why recording video in the browser is harder than it looks](https://dev.to/dealwith/why-recording-video-in-the-browser-is-harder-than-it-looks-5fdo)
-- [System Design - 24. Geospatial Indexing: How Uber Finds the Nearest Driver Among Millions in Milliseconds](https://dev.to/rajkiran_389/system-design-8-geospatial-indexing-how-uber-finds-the-nearest-driver-among-millions-in-k13)
-- [I built a deterministic CI firewall for AI-generated pull requests](https://dev.to/sjh9714/i-built-a-deterministic-ci-firewall-for-ai-generated-pull-requests-4o3c)
-- [The Hidden Math of Mid-Cycle Subscription Upgrades](https://dev.to/mattia_armas/the-hidden-math-of-mid-cycle-subscription-upgrades-1h7f)
+- [The Thread Battle: Go Concurrency vs. Node.js Event Loop from First Principles](https://dev.to/aabiskar/the-thread-battle-go-concurrency-vs-nodejs-event-loop-from-first-principles-498g)
+- [Bridging the Gap: Connect Local AI Agents to A-Modular-Kingdom MCP Server Automatically](https://dev.to/masihmoafi/bridging-the-gap-connect-local-ai-agents-to-a-modular-kingdom-mcp-server-automatically-30lc)
+- [👋 Hello DEV Community!](https://dev.to/jolidon_dev/hello-dev-community-5c5m)
+- [LiteLLM Vulnerability Chain Enables Full AI Gateway Takeover from Default Account](https://dev.to/etairos/litellm-vulnerability-chain-enables-full-ai-gateway-takeover-from-default-account-kh2)
+- [Agentic Design Patterns: The Shapes Every Coding Agent Reuses](https://dev.to/thesmartdude/agentic-design-patterns-the-shapes-every-coding-agent-reuses-3m15)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
