@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Stop Rewriting UI Components for Every Project](https://dev.to/natuworkguy/stop-rewriting-ui-components-for-every-project-4nj2)
-- [What is SRE? A Beginner&#39;s Guide to Site Reliability Engineering](https://dev.to/jitulkumar/what-is-sre-a-beginners-guide-to-site-reliability-engineering-27p8)
-- [I scraped Chrome Web Store reviews to find abandoned extensions that still have 100k+ users](https://dev.to/babyfox1306/i-scraped-chrome-web-store-reviews-to-find-abandoned-extensions-that-still-have-100k-users-3ikl)
-- [How to Automate Publishing to CSDN and WeChat MP Using Playwright &lpar;When APIs Fail&rpar;](https://dev.to/quarktimes/how-to-automate-publishing-to-csdn-and-wechat-mp-using-playwright-when-apis-fail-4g01)
-- [When Code Takes a Break: What Engineers Think About on Silent Days](https://dev.to/quarktimes/when-code-takes-a-break-what-engineers-think-about-on-silent-days-34hh)
+- [Running a container inside a non-privileged microVM, on an Apple Silicon Mac](https://dev.to/terum/running-a-container-inside-a-non-privileged-microvm-on-an-apple-silicon-mac-145f)
+- [Could We Build a World Without Cash? Exploring Universal Biometric Identity and Digital Credits](https://dev.to/itsmdshahin/could-we-build-a-world-without-cash-exploring-universal-biometric-identity-and-digital-credits-4ga9)
+- [I Stopped Curating Games. I Built an AI Agent to Run My Portal Instead.](https://dev.to/michal_bilinski_839d59856/i-stopped-curating-games-i-built-an-ai-agent-to-run-my-portal-instead-2aci)
+- [&quot;I Added a /yolo Button to My Local AI Assistant&quot;](https://dev.to/codekingai/i-added-a-yolo-button-to-my-local-ai-assistant-4klh)
+- [Turn on CMCD: make your CDN logs explain rebuffering](https://dev.to/masonwritescode/turn-on-cmcd-make-your-cdn-logs-explain-rebuffering-k8d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
