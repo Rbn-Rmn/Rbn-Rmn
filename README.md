@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an iPhone App and Published It on the App Store — With Kiro CLI as My Partner](https://dev.to/aws-builders/how-i-built-an-iphone-app-and-published-it-on-the-app-store-with-kiro-cli-as-my-partner-3kn1)
-- [When Your Pull Request Has More AI Reviewers Than Humans](https://dev.to/neithergalax/when-your-pull-request-has-more-ai-reviewers-than-humans-13n7)
-- [[chronolog] SavePoint 1.1.4 Release 🎉](https://dev.to/savepointapp/chronolog-savepoint-114-release-m51)
-- [Java&#39;s Project Valhalla Finally Lands in JDK 28 — What It Means for Developers](https://dev.to/jamilxt/javas-project-valhalla-finally-lands-in-jdk-28-what-it-means-for-developers-1j0o)
-- [Running Local LLMs With Ollama For Private Development](https://dev.to/nazar_boyko/running-local-llms-with-ollama-for-private-development-4924)
+- [Why traditional AI chatbots are boring, and what we are building instead](https://dev.to/gaotusai/why-traditional-ai-chatbots-are-boring-and-what-we-are-building-instead-3ipm)
+- [CloudNativePG: Running PostgreSQL in Kubernetes Without the Pain](https://dev.to/futhgar/cloudnativepg-running-postgresql-in-kubernetes-without-the-pain-32pj)
+- [Your Automation Hits a 403 That Will Never Resolve. Now What?](https://dev.to/arihantdeva/your-automation-hits-a-403-that-will-never-resolve-now-what-ni8)
+- [PostgreSQL 2200S Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-2200s-error-causes-and-solutions-complete-guide-i5f)
+- [🐍 Python Power Moves: 5 Tricks to Level Up Your Code Today](https://dev.to/leechon/python-power-moves-5-tricks-to-level-up-your-code-today-4l00)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
