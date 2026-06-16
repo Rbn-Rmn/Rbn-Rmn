@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [TASKS FOR AI: THERMONUCLEAR REACTOR, QUANTUM DECOHERENCE, AND HACKER PROTECTION —RESULT](https://dev.to/alex_boyarskiy_25e950b58b/tasks-for-ai-thermonuclear-reactor-quantum-decoherence-and-hacker-protection-result-42ji)
-- [Deploying CapRover Self-Hosted PaaS for Docker Applications on Ubuntu 24.04](https://dev.to/vultr/deploying-caprover-self-hosted-paas-for-docker-applications-on-ubuntu-2404-2faa)
-- [Just Shipped FilmTailor&#39;s Scheduling Feature and Chose Event Sourcing. Sorry Not Sorry.](https://dev.to/filmtailor/just-shipped-filmtailors-scheduling-feature-and-chose-event-sourcing-sorry-not-sorry-3i1d)
-- [Deploying Cal.com Open-Source Calendly Alternative on Ubuntu 24.04](https://dev.to/vultr/deploying-calcom-open-source-calendly-alternative-on-ubuntu-2404-57mj)
-- [Deploying Authelia Open-Source Authentication and Authorization Gateway on Ubuntu 24.04](https://dev.to/vultr/deploying-authelia-open-source-authentication-and-authorization-gateway-on-ubuntu-2404-134)
+- [Preview Auth0 Changes Safely with Deploy CLI Dry Run](https://dev.to/auth0/preview-auth0-changes-safely-with-deploy-cli-dry-run-38hn)
+- [How are you handling financial controls for autonomous AI agents?](https://dev.to/billionaire664/how-are-you-handling-financial-controls-for-autonomous-ai-agents-2op2)
+- [x402 hit 119M transactions — here&#39;s the layer that still isn&#39;t built](https://dev.to/t49qnsx7qtkpanks/x402-hit-119m-transactions-heres-the-layer-that-still-isnt-built-d0b)
+- [Open Graph Image Sizes and Dimensions: The Complete 2026 Guide](https://dev.to/grabbit/open-graph-image-sizes-and-dimensions-the-complete-2026-guide-1k16)
+- [We get feedback too late](https://dev.to/bjornno/we-get-feedback-too-late-3kap)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
