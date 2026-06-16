@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [All-in-one FastAPI + Nuxt + Web3 boilerplate](https://dev.to/peter_jung_bcbb8a8f41e6b7/all-in-one-fastapi-nuxt-web3-boilerplate-5ck4)
-- [Lo humano, lo automatizable, lo irresponsable.](https://dev.to/aws-builders/lo-humano-lo-automatizable-lo-irresponsable-320o)
-- [The LLM Is Not the Final Authority: Building Trust Infrastructure for AI Agents](https://dev.to/sriram7737/the-llm-is-not-the-final-authority-building-trust-infrastructure-for-ai-agents-221i)
-- [Stop Reinventing Boilerplate: Modern Web Development Is About Orchestration](https://dev.to/eugene_maiorov/stop-reinventing-boilerplate-modern-web-development-is-about-orchestration-41k5)
-- [AI agents hallucinate. Here is how to cryptographically notarize their output for $0.01](https://dev.to/gitsergecrypto/ai-agents-hallucinate-here-is-how-to-cryptographically-notarize-their-outputfor-001-4eop)
+- [TASKS FOR AI: THERMONUCLEAR REACTOR, QUANTUM DECOHERENCE, AND HACKER PROTECTION —RESULT](https://dev.to/alex_boyarskiy_25e950b58b/tasks-for-ai-thermonuclear-reactor-quantum-decoherence-and-hacker-protection-result-42ji)
+- [Deploying CapRover Self-Hosted PaaS for Docker Applications on Ubuntu 24.04](https://dev.to/vultr/deploying-caprover-self-hosted-paas-for-docker-applications-on-ubuntu-2404-2faa)
+- [Just Shipped FilmTailor&#39;s Scheduling Feature and Chose Event Sourcing. Sorry Not Sorry.](https://dev.to/filmtailor/just-shipped-filmtailors-scheduling-feature-and-chose-event-sourcing-sorry-not-sorry-3i1d)
+- [Deploying Cal.com Open-Source Calendly Alternative on Ubuntu 24.04](https://dev.to/vultr/deploying-calcom-open-source-calendly-alternative-on-ubuntu-2404-57mj)
+- [Deploying Authelia Open-Source Authentication and Authorization Gateway on Ubuntu 24.04](https://dev.to/vultr/deploying-authelia-open-source-authentication-and-authorization-gateway-on-ubuntu-2404-134)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
