@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your pipeline isn&#39;t slow. Your parser is.](https://dev.to/fagundesv/your-pipeline-isnt-slow-your-parser-is-13h6)
-- [How I Built an Elden Ring Build Calculator](https://dev.to/xiaodong_ding_241610dbd31/how-i-built-an-elden-ring-build-calculator-143j)
-- [NCCL: The Hidden Engine Behind Multi-GPU LLM Training](https://dev.to/shrsv/nccl-the-hidden-engine-behind-multi-gpu-llm-training-217i)
-- [AI Evals, Part 5: From a Number to a Gate Evals in CI and Production](https://dev.to/mrviduus/ai-evals-part-5-from-a-number-to-a-gate-evals-in-ci-and-production-1j33)
-- [AI Can Build Your UI—But Can It Maintain It?](https://dev.to/christian-otieno/ai-can-build-your-ui-but-can-it-maintain-it-16lh)
+- [We Analyzed 44,000 Interview Practice Sessions to Find the Hardest Tech Companies to Interview At](https://dev.to/alex_bell_f2b96166c2d62f5/we-analyzed-44000-interview-practice-sessions-to-find-the-hardest-tech-companies-to-interview-at-4d1p)
+- [Astrophysics &amp; AI with Python: Unlocking the Secrets of N-Body Simulations with Rebound](https://dev.to/programmingcentral/astrophysics-ai-with-python-unlocking-the-secrets-of-n-body-simulations-with-rebound-1mh6)
+- [Nimmake: Simplifying C++ Project Management by Reducing Configuration Overhead Compared to CMake](https://dev.to/denlava/nimmake-simplifying-c-project-management-by-reducing-configuration-overhead-compared-to-cmake-1l61)
+- [How I Generated a 100-Million-Pixel Julia Set on a 4 GB RAM PC Using Python](https://dev.to/divyanshusinha136/how-i-generated-a-100-million-pixel-julia-set-on-a-4-gb-ram-pc-using-python-1e2j)
+- [How I Saved My Bootcamp Project Budget Using AI Data Extraction &lpar;A...](https://dev.to/loyaldash/how-i-saved-my-bootcamp-project-budget-using-ai-data-extraction-a-c1k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
