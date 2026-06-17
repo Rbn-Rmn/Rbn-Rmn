@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [We Analyzed 44,000 Interview Practice Sessions to Find the Hardest Tech Companies to Interview At](https://dev.to/alex_bell_f2b96166c2d62f5/we-analyzed-44000-interview-practice-sessions-to-find-the-hardest-tech-companies-to-interview-at-4d1p)
-- [Astrophysics &amp; AI with Python: Unlocking the Secrets of N-Body Simulations with Rebound](https://dev.to/programmingcentral/astrophysics-ai-with-python-unlocking-the-secrets-of-n-body-simulations-with-rebound-1mh6)
-- [Nimmake: Simplifying C++ Project Management by Reducing Configuration Overhead Compared to CMake](https://dev.to/denlava/nimmake-simplifying-c-project-management-by-reducing-configuration-overhead-compared-to-cmake-1l61)
-- [How I Generated a 100-Million-Pixel Julia Set on a 4 GB RAM PC Using Python](https://dev.to/divyanshusinha136/how-i-generated-a-100-million-pixel-julia-set-on-a-4-gb-ram-pc-using-python-1e2j)
-- [How I Saved My Bootcamp Project Budget Using AI Data Extraction &lpar;A...](https://dev.to/loyaldash/how-i-saved-my-bootcamp-project-budget-using-ai-data-extraction-a-c1k)
+- [Engenharia de Plataforma - Como justificar](https://dev.to/joaovictor6/engenharia-de-plataforma-como-justificar-uma-plataforma-5cb9)
+- [The Real AI Privacy Problem Isn&#39;t What You Tell AI — It&#39;s What AI Infers](https://dev.to/sewyed/the-real-ai-privacy-problem-isnt-what-you-tell-ai-its-what-ai-infers-32o)
+- [Deploy Activepieces on Google Cloud Run with Production Guardrails Built In](https://dev.to/shiyghan_navti_a4d6e1ad0b/deploy-activepieces-on-google-cloud-run-with-production-guardrails-built-in-1cff)
+- [Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram](https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj)
+- [Accounting is losing its head — and that&#39;s a good thing](https://dev.to/lifeofjer/accounting-is-losing-its-head-and-thats-a-good-thing-27mm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
