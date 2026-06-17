@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Angular resources are not a good fit for Guards](https://dev.to/geromegrignon/angular-resources-are-not-a-good-fit-for-guards-58j)
-- [Choosing a Healthcare Data Management Service Provider](https://dev.to/alex_mev/choosing-a-healthcare-data-management-service-provider-1ki5)
-- [Secret Scanning in CI: What Pre-Commit, Pull Request, and Main Branch Each Actually Catch](https://dev.to/rufilboss/secret-scanning-in-ci-what-pre-commit-pull-request-and-main-branch-each-actually-catch-3c55)
-- [How I built Strimoza – a personal video cloud with Python, Flask and Bunny CDN](https://dev.to/strimoza/how-i-built-strimoza-a-personal-video-cloud-with-python-flask-and-bunny-cdn-17gd)
-- [Combination Sum | Backtracking](https://dev.to/jaspreet_singh_86ae1740ac/combination-sum-backtracking-31ip)
+- [AI Documentation Tools in 2026: Mintlify vs Document360 vs GitBook — Which Turns Your Code Into Live Docs?](https://dev.to/storm_son_b44db572b250b68/ai-documentation-tools-in-2026-mintlify-vs-document360-vs-gitbook-which-turns-your-code-into-110i)
+- [Building a Polymarket Trading Bot for Copy Trading &amp; Wallet Analytics](https://dev.to/chumba_24/building-a-polymarket-trading-bot-for-copy-trading-wallet-analytics-2e48)
+- [Manutenção preditiva no carro: o que os sensores e a telemetria já avisam antes da pane](https://dev.to/pneuscarmg_centroautomot/manutencao-preditiva-no-carro-o-que-os-sensores-e-a-telemetria-ja-avisam-antes-da-pane-fo)
+- [All In or Not At All](https://dev.to/codegax/all-in-or-not-at-all-4khl)
+- [10 Shopify Development Tricks That Saved Me Hundreds of Hours](https://dev.to/ecom_digital_a911992dbb89/10-shopify-development-tricks-that-saved-me-hundreds-of-hours-33bk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
