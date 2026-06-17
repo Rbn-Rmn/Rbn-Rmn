@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Speed, Accuracy, and Efficiency: Benchmarking Endee vs. Google Vertex AI](https://dev.to/endee_mktg_31ca7cc9c0a2e8/speed-accuracy-and-efficiency-benchmarking-endee-vs-google-vertex-ai-4djc)
-- [Why Most AI Agents Fail in Production And the Architecture Patterns That Actually Work](https://dev.to/jacobjerryarackal/why-most-ai-agents-fail-in-production-and-the-architecture-patterns-that-actually-work-dbo)
-- [Why AI Systems Need State Management More Than Bigger Context Windows](https://dev.to/karan2598/why-ai-systems-need-state-management-more-than-bigger-context-windows-2a4m)
-- [We&#39;ve all pressed Ctrl+C a million times. Linux solved this in the 1980s — the rest of us didn&#39;t.](https://dev.to/parth_dixit/weve-all-pressed-ctrlc-a-million-times-linux-solved-this-in-the-1980s-the-rest-of-us-didnt-5bd9)
-- [Introduction to LLMs for Beginners](https://dev.to/shashank_ms_6a35baa4be138/introduction-to-llms-for-beginners-197a)
+- [Angular resources are not a good fit for Guards](https://dev.to/geromegrignon/angular-resources-are-not-a-good-fit-for-guards-58j)
+- [Choosing a Healthcare Data Management Service Provider](https://dev.to/alex_mev/choosing-a-healthcare-data-management-service-provider-1ki5)
+- [Secret Scanning in CI: What Pre-Commit, Pull Request, and Main Branch Each Actually Catch](https://dev.to/rufilboss/secret-scanning-in-ci-what-pre-commit-pull-request-and-main-branch-each-actually-catch-3c55)
+- [How I built Strimoza – a personal video cloud with Python, Flask and Bunny CDN](https://dev.to/strimoza/how-i-built-strimoza-a-personal-video-cloud-with-python-flask-and-bunny-cdn-17gd)
+- [Combination Sum | Backtracking](https://dev.to/jaspreet_singh_86ae1740ac/combination-sum-backtracking-31ip)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
