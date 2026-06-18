@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [A single malloc took 7 milliseconds. So I deleted the slow path.](https://dev.to/anastassow/a-single-malloc-took-7-milliseconds-so-i-deleted-the-slow-path-2h2f)
-- [Building an agentic PR reviewer with Antigravity SDK](https://dev.to/googleai/building-an-agentic-pr-reviewer-with-antigravity-sdk-3b0i)
-- [How I Built a Python &amp; Selenium Automation Bot for Real-World Workflow Automation](https://dev.to/varanasi_teja/-how-i-built-a-python-selenium-automation-bot-for-real-world-workflow-automation-2c8i)
-- [A small open-source library for scoped, budgeted, time-bounded API keys](https://dev.to/kat_laszlo/a-small-open-source-library-for-scoped-budgeted-time-bounded-api-keys-1nb1)
-- [What It Took to Actually Govern Claude Code Across Our Engineering Team](https://dev.to/sahajmeet_kaur_/what-it-took-to-actually-govern-claude-code-across-our-engineering-team-4jp6)
+- [Stop copying config files into every new project — I built a CLI for this](https://dev.to/ihdatech/stop-copying-config-files-into-every-new-project-i-built-a-cli-for-this-4510)
+- [Generics in C# &lpar;List&lt;T&gt;, Dictionary&lt;TKey,TValue&gt;&rpar;](https://dev.to/allcoderthings/generics-in-c-list-dictionarytkeytvalue-1bad)
+- [WWDC 2026 - WidgetKit Foundations: A Practical Guide for Developers](https://dev.to/arshtechpro/wwdc-2026-widgetkit-foundations-a-practical-guide-for-developers-2o8d)
+- [How to implement field-level AES-256-GCM encryption in Spring Boot &lpar;and why we packaged it into one annotation&rpar;](https://dev.to/clinvio/how-to-implement-field-level-aes-256-gcm-encryption-in-spring-boot-and-why-we-packaged-it-into-one-304d)
+- [DuckDB 1.4.5 LTS, pgEdge ColdFront Beta, and SQLite&#39;s FCNTL_PDB Internals](https://dev.to/soytuber/duckdb-145-lts-pgedge-coldfront-beta-and-sqlites-fcntlpdb-internals-4dcl)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
