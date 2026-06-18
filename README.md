@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL 22036 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-22036-error-causes-and-solutions-complete-guide-238c)
-- [[System Design] Part 4 — Amazon CONDOR &amp; Anticipatory Shipping](https://dev.to/vesviet/system-design-part-4-amazon-condor-anticipatory-shipping-35nd)
-- [Limn Engine — Complete API Reference](https://dev.to/kehinde_owolabi_e2e54567a/limn-engine-complete-api-reference-1acj)
-- [C++ and Microarchitecture Nuances](https://dev.to/rupertjonessa/c-and-microarchitecture-nuances-4a2i)
-- [Mastering Design Principles: Dependency Inversion in Kotlin](https://dev.to/renzo_fernandoloyolavil/mastering-design-principles-dependency-inversion-in-kotlin-4mp8)
+- [Building Minyut: An Embeddable RAG Chatbot in One Script Tag](https://dev.to/flux8labs/building-minyut-an-embeddable-rag-chatbot-in-one-script-tag-c1h)
+- [Push vs Pull Memory: A Better Way to Think About AI Agent Memory](https://dev.to/hendrixxcnc/push-vs-pull-memory-a-better-way-to-think-about-ai-agent-memory-3lnp)
+- [No Name, No Bio, No Face: Meet GitHub&#39;s Busiest Account](https://dev.to/dalirnet/no-name-no-bio-no-rest-meet-githubs-busiest-account-45g8)
+- [Vibe Coding 101: Catatan Seorang Developer yang Capek Nulis Kode Manual](https://dev.to/disann/vibe-coding-101-catatan-seorang-developer-yang-capek-nulis-kode-manual-1e4l)
+- [What&#39;s Your Free Pick Today?](https://dev.to/sahiravoice/whats-your-free-pick-today-11f7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
