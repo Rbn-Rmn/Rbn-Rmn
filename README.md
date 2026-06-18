@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building Minyut: An Embeddable RAG Chatbot in One Script Tag](https://dev.to/flux8labs/building-minyut-an-embeddable-rag-chatbot-in-one-script-tag-c1h)
-- [Push vs Pull Memory: A Better Way to Think About AI Agent Memory](https://dev.to/hendrixxcnc/push-vs-pull-memory-a-better-way-to-think-about-ai-agent-memory-3lnp)
-- [No Name, No Bio, No Face: Meet GitHub&#39;s Busiest Account](https://dev.to/dalirnet/no-name-no-bio-no-rest-meet-githubs-busiest-account-45g8)
-- [Vibe Coding 101: Catatan Seorang Developer yang Capek Nulis Kode Manual](https://dev.to/disann/vibe-coding-101-catatan-seorang-developer-yang-capek-nulis-kode-manual-1e4l)
-- [What&#39;s Your Free Pick Today?](https://dev.to/sahiravoice/whats-your-free-pick-today-11f7)
+- [Vercel launches eve, an open-source framework simplifying AI agent development](https://dev.to/davekurian/vercel-launches-eve-an-open-source-framework-simplifying-ai-agent-development-57oi)
+- [Build a GDPR-Compliant AI Pipeline with Intel TDX — Step by Step: 3 Hours vs 6 Months](https://dev.to/voltagegpu/build-a-gdpr-compliant-ai-pipeline-with-intel-tdx-step-by-step-3-hours-vs-6-months-3n62)
+- [JSON vs YAML vs TOML vs CSV vs Protobuf: Developer&#39;s Guide](https://dev.to/iurii_rogulia/json-vs-yaml-vs-toml-vs-csv-vs-protobuf-developers-guide-5g12)
+- [How I Stopped Regexing HTML Tables and Started Using AI for Data Extraction](https://dev.to/__c1b9e06dc90a7e0a676b/how-i-stopped-regexing-html-tables-and-started-using-ai-for-data-extraction-1mmd)
+- [PDF Tamper Detection in Python: Integrate in Under 50 Lines](https://dev.to/iurii_rogulia/pdf-tamper-detection-in-python-integrate-in-under-50-lines-1593)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
