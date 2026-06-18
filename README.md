@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Engenharia de Plataforma - Como justificar](https://dev.to/joaovictor6/engenharia-de-plataforma-como-justificar-uma-plataforma-5cb9)
-- [The Real AI Privacy Problem Isn&#39;t What You Tell AI — It&#39;s What AI Infers](https://dev.to/sewyed/the-real-ai-privacy-problem-isnt-what-you-tell-ai-its-what-ai-infers-32o)
-- [Deploy Activepieces on Google Cloud Run with Production Guardrails Built In](https://dev.to/shiyghan_navti_a4d6e1ad0b/deploy-activepieces-on-google-cloud-run-with-production-guardrails-built-in-1cff)
-- [Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram](https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj)
-- [Accounting is losing its head — and that&#39;s a good thing](https://dev.to/lifeofjer/accounting-is-losing-its-head-and-thats-a-good-thing-27mm)
+- [PostgreSQL 22036 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-22036-error-causes-and-solutions-complete-guide-238c)
+- [[System Design] Part 4 — Amazon CONDOR &amp; Anticipatory Shipping](https://dev.to/vesviet/system-design-part-4-amazon-condor-anticipatory-shipping-35nd)
+- [Limn Engine — Complete API Reference](https://dev.to/kehinde_owolabi_e2e54567a/limn-engine-complete-api-reference-1acj)
+- [C++ and Microarchitecture Nuances](https://dev.to/rupertjonessa/c-and-microarchitecture-nuances-4a2i)
+- [Mastering Design Principles: Dependency Inversion in Kotlin](https://dev.to/renzo_fernandoloyolavil/mastering-design-principles-dependency-inversion-in-kotlin-4mp8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
