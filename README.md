@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Stop copying config files into every new project — I built a CLI for this](https://dev.to/ihdatech/stop-copying-config-files-into-every-new-project-i-built-a-cli-for-this-4510)
-- [Generics in C# &lpar;List&lt;T&gt;, Dictionary&lt;TKey,TValue&gt;&rpar;](https://dev.to/allcoderthings/generics-in-c-list-dictionarytkeytvalue-1bad)
-- [WWDC 2026 - WidgetKit Foundations: A Practical Guide for Developers](https://dev.to/arshtechpro/wwdc-2026-widgetkit-foundations-a-practical-guide-for-developers-2o8d)
-- [How to implement field-level AES-256-GCM encryption in Spring Boot &lpar;and why we packaged it into one annotation&rpar;](https://dev.to/clinvio/how-to-implement-field-level-aes-256-gcm-encryption-in-spring-boot-and-why-we-packaged-it-into-one-304d)
-- [DuckDB 1.4.5 LTS, pgEdge ColdFront Beta, and SQLite&#39;s FCNTL_PDB Internals](https://dev.to/soytuber/duckdb-145-lts-pgedge-coldfront-beta-and-sqlites-fcntlpdb-internals-4dcl)
+- [Digitalocean Vs Vultr: Winner Revealed in 2026](https://dev.to/jordankeurope/digitalocean-vs-vultr-winner-revealed-in-2026-19og)
+- [Write your error states for a stranger three months from now, not for yourself today](https://dev.to/rapls/write-your-error-states-for-a-stranger-three-months-from-now-not-for-yourself-today-54jm)
+- [How has my relationship with AI evolved?](https://dev.to/alfchee/how-has-my-relationship-with-ai-evolved-42el)
+- [Vultr Vs Digitalocean: Which Is Better in 2026?](https://dev.to/rociogarciavf/vultr-vs-digitalocean-which-is-better-in-2026-3h31)
+- [BFS: The Jedi’s Shortcut Through the Graph Galaxy](https://dev.to/timevolt/bfs-the-jedis-shortcut-through-the-graph-galaxy-54j5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
