@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [New Book Offers Practical Mobile App Security Guide for Developers and AppSec Engineers](https://dev.to/kserude/new-book-offers-practical-mobile-app-security-guide-for-developers-and-appsec-engineers-2jn0)
-- [Most Repos Look Fine. Until They Don’t.](https://dev.to/mobasshir_khan_eaf8ec5cf3/most-repos-look-fine-until-they-dont-137n)
-- [Turn Woo catalog into an AI-ready API — now on WordPress.org](https://dev.to/kalicart-bridge/turn-woo-catalog-into-an-ai-ready-api-now-on-wordpressorg-jdo)
-- [A Quick Setup for NestJS 11 + Prisma 7 + PostgreSQL backend in seconds.](https://dev.to/nabinkdl/a-quick-setup-for-nestjs-11-prisma-7-postgresql-backend-in-seconds-3d39)
-- [A rival to my open-source tool shipped. I read all of it — then ported its 4 best ideas the same afternoon.](https://dev.to/achiya-automation/a-rival-to-my-open-source-tool-shipped-i-read-all-of-it-then-ported-its-4-best-ideas-the-same-1nbe)
+- [A single malloc took 7 milliseconds. So I deleted the slow path.](https://dev.to/anastassow/a-single-malloc-took-7-milliseconds-so-i-deleted-the-slow-path-2h2f)
+- [Building an agentic PR reviewer with Antigravity SDK](https://dev.to/googleai/building-an-agentic-pr-reviewer-with-antigravity-sdk-3b0i)
+- [How I Built a Python &amp; Selenium Automation Bot for Real-World Workflow Automation](https://dev.to/varanasi_teja/-how-i-built-a-python-selenium-automation-bot-for-real-world-workflow-automation-2c8i)
+- [A small open-source library for scoped, budgeted, time-bounded API keys](https://dev.to/kat_laszlo/a-small-open-source-library-for-scoped-budgeted-time-bounded-api-keys-1nb1)
+- [What It Took to Actually Govern Claude Code Across Our Engineering Team](https://dev.to/sahajmeet_kaur_/what-it-took-to-actually-govern-claude-code-across-our-engineering-team-4jp6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
