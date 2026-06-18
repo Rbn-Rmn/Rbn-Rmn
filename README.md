@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Vercel launches eve, an open-source framework simplifying AI agent development](https://dev.to/davekurian/vercel-launches-eve-an-open-source-framework-simplifying-ai-agent-development-57oi)
-- [Build a GDPR-Compliant AI Pipeline with Intel TDX — Step by Step: 3 Hours vs 6 Months](https://dev.to/voltagegpu/build-a-gdpr-compliant-ai-pipeline-with-intel-tdx-step-by-step-3-hours-vs-6-months-3n62)
-- [JSON vs YAML vs TOML vs CSV vs Protobuf: Developer&#39;s Guide](https://dev.to/iurii_rogulia/json-vs-yaml-vs-toml-vs-csv-vs-protobuf-developers-guide-5g12)
-- [How I Stopped Regexing HTML Tables and Started Using AI for Data Extraction](https://dev.to/__c1b9e06dc90a7e0a676b/how-i-stopped-regexing-html-tables-and-started-using-ai-for-data-extraction-1mmd)
-- [PDF Tamper Detection in Python: Integrate in Under 50 Lines](https://dev.to/iurii_rogulia/pdf-tamper-detection-in-python-integrate-in-under-50-lines-1593)
+- [What DataDome actually checks — and why your Cloudflare playbook doesn’t transfer](https://dev.to/bshahin/what-datadome-actually-checks-and-why-your-cloudflare-playbook-doesnt-transfer-24b5)
+- [Managed vs interactive Cloudflare challenge: how to tell, and why it changes your fix](https://dev.to/bshahin/managed-vs-interactive-cloudflare-challenge-how-to-tell-and-why-it-changes-your-fix-3in0)
+- [An AI coding agent &quot;fixed&quot; my code today. It made things worse.](https://dev.to/johnstonkweku/an-ai-coding-agent-fixed-my-code-today-it-made-things-worse-l90)
+- [Build Your First AI Agent in a Weekend: A Step-by-Step Tutorial](https://dev.to/_6b06ef452491543610c33/build-your-first-ai-agent-in-a-weekend-a-step-by-step-tutorial-4k16)
+- [Choosing the Right LLM for Your Agent: A Builder&#39;s Comparison Framework](https://dev.to/_6b06ef452491543610c33/choosing-the-right-llm-for-your-agent-a-builders-comparison-framework-48af)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
