@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What DataDome actually checks — and why your Cloudflare playbook doesn’t transfer](https://dev.to/bshahin/what-datadome-actually-checks-and-why-your-cloudflare-playbook-doesnt-transfer-24b5)
-- [Managed vs interactive Cloudflare challenge: how to tell, and why it changes your fix](https://dev.to/bshahin/managed-vs-interactive-cloudflare-challenge-how-to-tell-and-why-it-changes-your-fix-3in0)
-- [An AI coding agent &quot;fixed&quot; my code today. It made things worse.](https://dev.to/johnstonkweku/an-ai-coding-agent-fixed-my-code-today-it-made-things-worse-l90)
-- [Build Your First AI Agent in a Weekend: A Step-by-Step Tutorial](https://dev.to/_6b06ef452491543610c33/build-your-first-ai-agent-in-a-weekend-a-step-by-step-tutorial-4k16)
-- [Choosing the Right LLM for Your Agent: A Builder&#39;s Comparison Framework](https://dev.to/_6b06ef452491543610c33/choosing-the-right-llm-for-your-agent-a-builders-comparison-framework-48af)
+- [New Book Offers Practical Mobile App Security Guide for Developers and AppSec Engineers](https://dev.to/kserude/new-book-offers-practical-mobile-app-security-guide-for-developers-and-appsec-engineers-2jn0)
+- [Most Repos Look Fine. Until They Don’t.](https://dev.to/mobasshir_khan_eaf8ec5cf3/most-repos-look-fine-until-they-dont-137n)
+- [Turn Woo catalog into an AI-ready API — now on WordPress.org](https://dev.to/kalicart-bridge/turn-woo-catalog-into-an-ai-ready-api-now-on-wordpressorg-jdo)
+- [A Quick Setup for NestJS 11 + Prisma 7 + PostgreSQL backend in seconds.](https://dev.to/nabinkdl/a-quick-setup-for-nestjs-11-prisma-7-postgresql-backend-in-seconds-3d39)
+- [A rival to my open-source tool shipped. I read all of it — then ported its 4 best ideas the same afternoon.](https://dev.to/achiya-automation/a-rival-to-my-open-source-tool-shipped-i-read-all-of-it-then-ported-its-4-best-ideas-the-same-1nbe)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
