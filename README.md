@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Stop Wasting Tokens: I Built a File-Mapping Standard for AI-Assisted Development](https://dev.to/matteoturri/stop-wasting-tokens-i-built-a-file-mapping-standard-for-ai-assisted-development-o25)
-- [Your AI Agent Isn&#39;t Broken. Your Company&#39;s Truth Is.](https://dev.to/code_with_mwai/your-ai-agent-isnt-broken-your-companys-truth-is-2cl8)
-- [AI Agent Orchestration: Proxmox Automation, OpenAI Data Agents &amp; Azure Serverless Runtime](https://dev.to/soytuber/ai-agent-orchestration-proxmox-automation-openai-data-agents-azure-serverless-runtime-fd5)
-- [Security news weekly round-up - 19th June 2026](https://dev.to/ziizium/security-news-weekly-round-up-19th-june-2026-4j2d)
-- [Humanizing Artificial Intelligence in DevOps Documentation: Making Runbooks Easier to Create and Use](https://dev.to/jjoyneriv/humanizing-artificial-intelligence-in-devops-documentation-making-runbooks-easier-to-create-and-use-4fl7)
+- [Resume Tips That Work](https://dev.to/lavkeshdwivedi/resume-tips-that-work-oej)
+- [Organization Without Overthinking](https://dev.to/lavkeshdwivedi/organization-without-overthinking-2jdb)
+- [Docker Compose overview](https://dev.to/zsevic/docker-compose-overview-32h9)
+- [Alan&#39;s Garden: a puzzle game where flowers are tiny programs](https://dev.to/thehwang/alans-garden-a-puzzle-game-where-flowers-are-tiny-programs-32hg)
+- [How I Built a $4,000/Month Distribution System](https://dev.to/kalashvasaniya/how-i-built-a-4000month-distribution-system-4lnb)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
