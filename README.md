@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building RabbitHole &lpar;Even While It Breaks&rpar;](https://dev.to/casperday11/building-rabbithole-even-while-it-breaks-gbk)
-- [Pipeline Architecture: dati che fluiscono attraverso filtri](https://dev.to/dev_iadicola/pipeline-architecture-dati-che-fluiscono-attraverso-filtri-42j4)
-- [Mastering Symfony Security, Passports and Custom Authenticators](https://dev.to/mattleads/mastering-symfony-security-passports-and-custom-authenticators-36j5)
-- [what is spec-driven development? &lpar;with ai coding agents&rpar;](https://dev.to/jcamarate/what-is-spec-driven-development-with-ai-coding-agents-56mc)
-- [The 5-layer Windows shell customization system Microsoft hides from Settings](https://dev.to/amathlai/the-5-layer-windows-shell-customization-system-microsoft-hides-from-settings-4kf7)
+- [When automation meets simplicity over Python or Ansible](https://dev.to/skhell/when-automation-meets-simplicity-over-python-or-ansible-2ilp)
+- [I Trained My OpenClaw to Dream. Here&#39;s What It Learned Overnight.](https://dev.to/mrclaw207/i-trained-my-openclaw-to-dream-heres-what-it-learned-overnight-2ed8)
+- [Your Agent Doesn&#39;t Run Out of Context. It Degrades at 79%](https://dev.to/0012303/your-agent-doesnt-run-out-of-context-it-degrades-at-79-4in4)
+- [Kubernetes for Docker Users](https://dev.to/lavkeshdwivedi/kubernetes-for-docker-users-4k3b)
+- [Why Most IT Modernization Projects Fail](https://dev.to/lavkeshdwivedi/why-most-it-modernization-projects-fail-3lek)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
