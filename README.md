@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Argon2 Dummy Hash: 50 Milliseconds Between Username Enumeration and Peace of Mind](https://dev.to/ohugonnot/the-argon2-dummy-hash-50-milliseconds-between-username-enumeration-and-peace-of-mind-3lof)
-- [How to Choose the Right Image Format for Your Project](https://dev.to/mohamed_khi_02e25d8859385/how-to-choose-the-right-image-format-for-your-project-4ebe)
-- [Multi-Model AI Routing: Cut Your API Costs by 90%](https://dev.to/aiwave/multi-model-ai-routing-cut-your-api-costs-by-90-1lgb)
-- [How AIClaw Compresses Long Agent Conversations Without Losing the Important Parts](https://dev.to/chowyu12/how-aiclaw-compresses-long-agent-conversations-without-losing-the-important-parts-2h1c)
-- [2026. Week 24: mobile as a test for backend honesty](https://dev.to/s_a_shkuratov/2026-week-24-mobile-as-a-test-for-backend-honesty-21nm)
+- [Agile is a Mindset, Not Endless Sprint Meetings](https://dev.to/doogal/agile-is-a-mindset-not-endless-sprint-meetings-180d)
+- [AI makes developers more vital, not less](https://dev.to/lavkeshdwivedi/ai-makes-developers-more-vital-not-less-53fl)
+- [AWS Certified Cloud Practitioner &lpar;CLF-C02&rpar; Study Notes](https://dev.to/bassyc/aws-certified-cloud-practitioner-clf-c02-study-notes-ngl)
+- [A thought you can&#39;t capture in a second is already gone](https://dev.to/simple_memo/a-thought-you-cant-capture-in-a-second-is-already-gone-20n9)
+- [How to Read DNS Lookup Output &lpar;dig, nslookup, and What It All Means&rpar;](https://dev.to/dnsassistant/how-to-read-dns-lookup-output-dig-nslookup-and-what-it-all-means-4hdp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
