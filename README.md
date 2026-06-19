@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Agile is a Mindset, Not Endless Sprint Meetings](https://dev.to/doogal/agile-is-a-mindset-not-endless-sprint-meetings-180d)
-- [AI makes developers more vital, not less](https://dev.to/lavkeshdwivedi/ai-makes-developers-more-vital-not-less-53fl)
-- [AWS Certified Cloud Practitioner &lpar;CLF-C02&rpar; Study Notes](https://dev.to/bassyc/aws-certified-cloud-practitioner-clf-c02-study-notes-ngl)
-- [A thought you can&#39;t capture in a second is already gone](https://dev.to/simple_memo/a-thought-you-cant-capture-in-a-second-is-already-gone-20n9)
-- [How to Read DNS Lookup Output &lpar;dig, nslookup, and What It All Means&rpar;](https://dev.to/dnsassistant/how-to-read-dns-lookup-output-dig-nslookup-and-what-it-all-means-4hdp)
+- [Building RabbitHole &lpar;Even While It Breaks&rpar;](https://dev.to/casperday11/building-rabbithole-even-while-it-breaks-gbk)
+- [Pipeline Architecture: dati che fluiscono attraverso filtri](https://dev.to/dev_iadicola/pipeline-architecture-dati-che-fluiscono-attraverso-filtri-42j4)
+- [Mastering Symfony Security, Passports and Custom Authenticators](https://dev.to/mattleads/mastering-symfony-security-passports-and-custom-authenticators-36j5)
+- [what is spec-driven development? &lpar;with ai coding agents&rpar;](https://dev.to/jcamarate/what-is-spec-driven-development-with-ai-coding-agents-56mc)
+- [The 5-layer Windows shell customization system Microsoft hides from Settings](https://dev.to/amathlai/the-5-layer-windows-shell-customization-system-microsoft-hides-from-settings-4kf7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
