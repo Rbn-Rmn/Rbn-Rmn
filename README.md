@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Astrophysics &amp; AI with Python: Mastering Solar Flare Analysis with SunPy](https://dev.to/programmingcentral/astrophysics-ai-with-python-mastering-solar-flare-analysis-with-sunpy-n8j)
-- [Software Architecture Matters](https://dev.to/lavkeshdwivedi/software-architecture-matters-2k66)
-- [Can You Be a Data Scientist Without Statistics? Yes. Should You?](https://dev.to/amailuk/can-you-be-a-data-scientist-without-statistics-yes-should-you-3jn4)
-- [Manipulating QEMU Hardwares with Bootkit](https://dev.to/bekoo/manipulating-qemu-hardwares-with-bootkit-4gl7)
-- [How to E2E Test Amazon SES Email Workflows in Playwright](https://dev.to/zerodrop/how-to-e2e-test-amazon-ses-email-workflows-in-playwright-326)
+- [Stop Wasting Tokens: I Built a File-Mapping Standard for AI-Assisted Development](https://dev.to/matteoturri/stop-wasting-tokens-i-built-a-file-mapping-standard-for-ai-assisted-development-o25)
+- [Your AI Agent Isn&#39;t Broken. Your Company&#39;s Truth Is.](https://dev.to/code_with_mwai/your-ai-agent-isnt-broken-your-companys-truth-is-2cl8)
+- [AI Agent Orchestration: Proxmox Automation, OpenAI Data Agents &amp; Azure Serverless Runtime](https://dev.to/soytuber/ai-agent-orchestration-proxmox-automation-openai-data-agents-azure-serverless-runtime-fd5)
+- [Security news weekly round-up - 19th June 2026](https://dev.to/ziizium/security-news-weekly-round-up-19th-june-2026-4j2d)
+- [Humanizing Artificial Intelligence in DevOps Documentation: Making Runbooks Easier to Create and Use](https://dev.to/jjoyneriv/humanizing-artificial-intelligence-in-devops-documentation-making-runbooks-easier-to-create-and-use-4fl7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
