@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Multi-Step Agent Stress Test: Adversity Sandboxes and Oracle Checks](https://dev.to/quantamind/how-to-build-a-multi-step-agent-stress-test-adversity-sandboxes-and-oracle-checks-5f28)
-- [Eidetic Works Pro is live: persistent memory for your AI agents, $29/mo](https://dev.to/nucleusos/eidetic-works-pro-is-live-persistent-memory-for-your-ai-agents-29mo-49n5)
-- [Structuring TypeScript: Interfaces, Type Aliases, Enums, and Object Types](https://dev.to/ramesh_s_a8f0867d239e927c/structuring-typescript-interfaces-type-aliases-enums-and-object-types-1gmb)
-- [How to Detect a Solana Honeypot Token Before Your Bot Buys](https://dev.to/mrwizardlyloaf/how-to-detect-a-solana-honeypot-token-before-your-bot-buys-2cdf)
-- [TypeScript Types Demystified: Simple Types, Special Types, and Type Inference](https://dev.to/ramesh_s_a8f0867d239e927c/typescript-types-demystified-simple-types-special-types-and-type-inference-5bf0)
+- [The Argon2 Dummy Hash: 50 Milliseconds Between Username Enumeration and Peace of Mind](https://dev.to/ohugonnot/the-argon2-dummy-hash-50-milliseconds-between-username-enumeration-and-peace-of-mind-3lof)
+- [How to Choose the Right Image Format for Your Project](https://dev.to/mohamed_khi_02e25d8859385/how-to-choose-the-right-image-format-for-your-project-4ebe)
+- [Multi-Model AI Routing: Cut Your API Costs by 90%](https://dev.to/aiwave/multi-model-ai-routing-cut-your-api-costs-by-90-1lgb)
+- [How AIClaw Compresses Long Agent Conversations Without Losing the Important Parts](https://dev.to/chowyu12/how-aiclaw-compresses-long-agent-conversations-without-losing-the-important-parts-2h1c)
+- [2026. Week 24: mobile as a test for backend honesty](https://dev.to/s_a_shkuratov/2026-week-24-mobile-as-a-test-for-backend-honesty-21nm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
