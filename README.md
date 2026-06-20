@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Resume Tips That Work](https://dev.to/lavkeshdwivedi/resume-tips-that-work-oej)
-- [Organization Without Overthinking](https://dev.to/lavkeshdwivedi/organization-without-overthinking-2jdb)
-- [Docker Compose overview](https://dev.to/zsevic/docker-compose-overview-32h9)
-- [Alan&#39;s Garden: a puzzle game where flowers are tiny programs](https://dev.to/thehwang/alans-garden-a-puzzle-game-where-flowers-are-tiny-programs-32hg)
-- [How I Built a $4,000/Month Distribution System](https://dev.to/kalashvasaniya/how-i-built-a-4000month-distribution-system-4lnb)
+- [Rebuilding a Divi Blog with Custom Shortcodes: A Field Report](https://dev.to/highcenburg/rebuilding-a-divi-blog-with-custom-shortcodes-a-field-report-141g)
+- [MTP File Transfer in Rust on macOS — Why I Wrote My Own Stack](https://dev.to/hiyoyok/mtp-file-transfer-in-rust-on-macos-why-i-wrote-my-own-stack-3obg)
+- [&quot;not a valid OPENSSH private key file&quot; — building a compat layer for seven SSH private-key formats](https://dev.to/susumun/not-a-valid-openssh-private-key-file-building-a-compat-layer-for-seven-ssh-private-key-formats-fl8)
+- [Building a Voice AI Platform with 28 Modules in Python](https://dev.to/ryanwinston_134/building-a-voice-ai-platform-with-28-modules-in-python-4hbm)
+- [I Created a Gemini API Key and Got AQ. Instead of AIza](https://dev.to/rapls/i-created-a-gemini-api-key-and-got-aq-instead-of-aiza-3dp3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
