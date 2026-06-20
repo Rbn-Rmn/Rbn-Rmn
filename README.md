@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Rebuilding a Divi Blog with Custom Shortcodes: A Field Report](https://dev.to/highcenburg/rebuilding-a-divi-blog-with-custom-shortcodes-a-field-report-141g)
-- [MTP File Transfer in Rust on macOS — Why I Wrote My Own Stack](https://dev.to/hiyoyok/mtp-file-transfer-in-rust-on-macos-why-i-wrote-my-own-stack-3obg)
-- [&quot;not a valid OPENSSH private key file&quot; — building a compat layer for seven SSH private-key formats](https://dev.to/susumun/not-a-valid-openssh-private-key-file-building-a-compat-layer-for-seven-ssh-private-key-formats-fl8)
-- [Building a Voice AI Platform with 28 Modules in Python](https://dev.to/ryanwinston_134/building-a-voice-ai-platform-with-28-modules-in-python-4hbm)
-- [I Created a Gemini API Key and Got AQ. Instead of AIza](https://dev.to/rapls/i-created-a-gemini-api-key-and-got-aq-instead-of-aiza-3dp3)
+- [Passkeys in 2026: A Practical Engineering Guide to Passwordless Auth](https://dev.to/moksh/passkeys-in-2026-a-practical-engineering-guide-to-passwordless-auth-15pj)
+- [Hermes Agent Skills — Self-Evolving, Persona-Aware Skill Collection for Hermes Agent](https://dev.to/ow1onp/hermes-agent-skills-self-evolving-persona-aware-skill-collection-for-hermes-agent-4f84)
+- [I Built a Client Intake and Invoicing Tool for Freelancers — Here’s Why](https://dev.to/gigvorx/i-built-a-client-intake-and-invoicing-tool-for-freelancers-heres-why-3h48)
+- [A battery rated for 5000 cycles is making a promise about a lab, not your warehouse](https://dev.to/bayko_bayko_9d2580334a101/a-battery-rated-for-5000-cycles-is-making-a-promise-about-a-lab-not-your-warehouse-596o)
+- [Why Most People Fail to Learn DevOps &lpar;And The 2 Books That Changed Everything for Me&rpar;](https://dev.to/yash_sonawane25/why-most-people-fail-to-learn-devops-and-the-2-books-that-changed-everything-for-me-1ad1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
