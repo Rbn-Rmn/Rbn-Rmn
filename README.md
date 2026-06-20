@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Is the upstream fix released yet?](https://dev.to/lukaso/is-the-upstream-fix-released-yet-1l)
-- [I built a service that turns GitHub PRs to customer readable changelogs](https://dev.to/20sid02/i-built-a-service-that-turns-github-prs-to-customer-readable-changelogs-5611)
-- [Imposter Syndrome in Tech: How to Deal with Feeling &quot;Not Good Enough&quot;](https://dev.to/itzzsvr_tech74/imposter-syndrome-in-tech-how-to-deal-with-feeling-not-good-enough-5800)
-- [Shipping Four Products Solo: What a Year of Building in Public Taught Me](https://dev.to/pavelespitia/shipping-four-products-solo-what-a-year-of-building-in-public-taught-me-2nhh)
-- [Making GBase 8c Auditing Work: Traceable, Retainable, and Queryable](https://dev.to/michaelfv/making-gbase-8c-auditing-work-traceable-retainable-and-queryable-202m)
+- [Why Most Software Is Built Backwards](https://dev.to/stinklewinks/why-most-software-is-built-backwards-46i)
+- [The Enter key that quietly breaks Japanese input &lpar;and how to test if your app does it&rpar;](https://dev.to/greymothjp/the-enter-key-that-quietly-breaks-japanese-input-and-how-to-test-if-your-app-does-it-25ep)
+- [From Delivery Rider to Building My First AI System — Here&#39;s My Story](https://dev.to/ammorick/from-delivery-rider-to-building-my-first-ai-system-heres-my-story-3d9c)
+- [Anonymous membership proofs on Midnight: allowlists, voter rolls, and gated access](https://dev.to/iamharrie/anonymous-membership-proofs-on-midnight-allowlists-voter-rolls-and-gated-access-49bc)
+- [Title: How I Built ZenPlan: A Premium AI Habit Tracker with Next.js, Vercel OIDC, and Amazon DynamoDB](https://dev.to/divinefavour1234567/title-how-i-built-zenplan-a-premium-ai-habit-tracker-with-nextjs-vercel-oidc-and-amazon-314l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
