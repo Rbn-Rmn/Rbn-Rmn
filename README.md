@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Passkeys in 2026: A Practical Engineering Guide to Passwordless Auth](https://dev.to/moksh/passkeys-in-2026-a-practical-engineering-guide-to-passwordless-auth-15pj)
-- [Hermes Agent Skills — Self-Evolving, Persona-Aware Skill Collection for Hermes Agent](https://dev.to/ow1onp/hermes-agent-skills-self-evolving-persona-aware-skill-collection-for-hermes-agent-4f84)
-- [I Built a Client Intake and Invoicing Tool for Freelancers — Here’s Why](https://dev.to/gigvorx/i-built-a-client-intake-and-invoicing-tool-for-freelancers-heres-why-3h48)
-- [A battery rated for 5000 cycles is making a promise about a lab, not your warehouse](https://dev.to/bayko_bayko_9d2580334a101/a-battery-rated-for-5000-cycles-is-making-a-promise-about-a-lab-not-your-warehouse-596o)
-- [Why Most People Fail to Learn DevOps &lpar;And The 2 Books That Changed Everything for Me&rpar;](https://dev.to/yash_sonawane25/why-most-people-fail-to-learn-devops-and-the-2-books-that-changed-everything-for-me-1ad1)
+- [DOI to BibTeX converter - doesn&#39;t lowercase your acronyms or choke on ampersands](https://dev.to/saurabh_shah/doi-to-bibtex-converter-doesnt-lowercase-your-acronyms-or-choke-on-ampersands-51gm)
+- [Afriex Virtual Accounts: A Developer&#39;s Guide to Dedicated and Pool Accounts](https://dev.to/afriex/afriex-virtual-accounts-a-developers-guide-to-dedicated-and-pool-accounts-260b)
+- [Emergency Guide: Repairing Git Repositories After a Power Outage](https://dev.to/7x05/emergency-guide-repairing-git-repositories-after-a-power-outage-14pd)
+- [shadcn/ui vs Material UI Developer Guide 2026](https://dev.to/shadcndeck_dev/shadcnui-vs-material-ui-developer-guide-2026-4i51)
+- [RAG Pipeline: The Uncle-Nephew Complete Learning Guide](https://dev.to/surajrkhonde/rag-pipeline-the-uncle-nephew-complete-learning-guide-7h4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
