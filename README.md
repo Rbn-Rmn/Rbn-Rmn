@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [DOI to BibTeX converter - doesn&#39;t lowercase your acronyms or choke on ampersands](https://dev.to/saurabh_shah/doi-to-bibtex-converter-doesnt-lowercase-your-acronyms-or-choke-on-ampersands-51gm)
-- [Afriex Virtual Accounts: A Developer&#39;s Guide to Dedicated and Pool Accounts](https://dev.to/afriex/afriex-virtual-accounts-a-developers-guide-to-dedicated-and-pool-accounts-260b)
-- [Emergency Guide: Repairing Git Repositories After a Power Outage](https://dev.to/7x05/emergency-guide-repairing-git-repositories-after-a-power-outage-14pd)
-- [shadcn/ui vs Material UI Developer Guide 2026](https://dev.to/shadcndeck_dev/shadcnui-vs-material-ui-developer-guide-2026-4i51)
-- [RAG Pipeline: The Uncle-Nephew Complete Learning Guide](https://dev.to/surajrkhonde/rag-pipeline-the-uncle-nephew-complete-learning-guide-7h4)
+- [SpaceX AI1 Orbital Data Center: 1 GW of Space AI Compute by 2027, Developer Guide](https://dev.to/akaranjkar08/spacex-ai1-orbital-data-center-1-gw-of-space-ai-compute-by-2027-developer-guide-2n86)
+- [AI for GitLab CI Authoring: Save Hours, Avoid Footguns](https://dev.to/devopsaitoolkit/ai-for-gitlab-ci-authoring-save-hours-avoid-footguns-3lco)
+- [Elixir 1.20 has a type system now: comparing it with Rust and TypeScript](https://dev.to/geekmasahiro/elixir-120-has-a-type-system-now-comparing-it-with-rust-and-typescript-31p4)
+- [&quot;I Stopped Pretending Every AI Provider Was the Same&quot;](https://dev.to/codekingai/i-stopped-pretending-every-ai-provider-was-the-same-18k8)
+- [The FullAgenticStack Manifesto: Agents are not just LLMs](https://dev.to/fullagenticstack/the-fullagenticstack-manifesto-agents-are-not-just-llms-48pa)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
