@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX AI1 Orbital Data Center: 1 GW of Space AI Compute by 2027, Developer Guide](https://dev.to/akaranjkar08/spacex-ai1-orbital-data-center-1-gw-of-space-ai-compute-by-2027-developer-guide-2n86)
-- [AI for GitLab CI Authoring: Save Hours, Avoid Footguns](https://dev.to/devopsaitoolkit/ai-for-gitlab-ci-authoring-save-hours-avoid-footguns-3lco)
-- [Elixir 1.20 has a type system now: comparing it with Rust and TypeScript](https://dev.to/geekmasahiro/elixir-120-has-a-type-system-now-comparing-it-with-rust-and-typescript-31p4)
-- [&quot;I Stopped Pretending Every AI Provider Was the Same&quot;](https://dev.to/codekingai/i-stopped-pretending-every-ai-provider-was-the-same-18k8)
-- [The FullAgenticStack Manifesto: Agents are not just LLMs](https://dev.to/fullagenticstack/the-fullagenticstack-manifesto-agents-are-not-just-llms-48pa)
+- [Is the upstream fix released yet?](https://dev.to/lukaso/is-the-upstream-fix-released-yet-1l)
+- [I built a service that turns GitHub PRs to customer readable changelogs](https://dev.to/20sid02/i-built-a-service-that-turns-github-prs-to-customer-readable-changelogs-5611)
+- [Imposter Syndrome in Tech: How to Deal with Feeling &quot;Not Good Enough&quot;](https://dev.to/itzzsvr_tech74/imposter-syndrome-in-tech-how-to-deal-with-feeling-not-good-enough-5800)
+- [Shipping Four Products Solo: What a Year of Building in Public Taught Me](https://dev.to/pavelespitia/shipping-four-products-solo-what-a-year-of-building-in-public-taught-me-2nhh)
+- [Making GBase 8c Auditing Work: Traceable, Retainable, and Queryable](https://dev.to/michaelfv/making-gbase-8c-auditing-work-traceable-retainable-and-queryable-202m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
