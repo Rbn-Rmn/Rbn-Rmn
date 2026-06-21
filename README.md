@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Open Codex app from the macOS Terminal with the Current Project Selected](https://dev.to/shinshin86/open-codex-desktop-from-the-macos-terminal-with-the-current-project-selected-1iln)
-- [Agent = Model x Harness: Your Eval Layer Is Part of the Agent, Not a Tool Beside It](https://dev.to/saurav_bhattacharya/agent-model-x-harness-your-eval-layer-is-part-of-the-agent-not-a-tool-beside-it-1422)
-- [AI Now Recommends Local Businesses. Most Are Invisible.](https://dev.to/studiomeyer_io/ai-now-recommends-local-businesses-most-are-invisible-3cb6)
-- [Your agent takes orders from the web pages it reads](https://dev.to/mjmirza/your-agent-takes-orders-from-the-web-pages-it-reads-43ep)
-- [Build Financial Analysis into Your Hermes AI Agent with the FMP Skill](https://dev.to/robinberaud/build-financial-analysis-into-your-hermes-ai-agent-with-the-fmp-skill-2bj6)
+- [Debugging AI Coding Agents: How to See Prompts, Tool Calls, Token Usage, and Cost](https://dev.to/houleixx/debugging-ai-coding-agents-how-to-see-prompts-tool-calls-token-usage-and-cost-4omm)
+- [How to Rewrite Your Software System Without Stopping Your Business](https://dev.to/spectredevxyz/how-to-rewrite-your-software-system-without-stopping-your-business-1afe)
+- [Collaboration Opportunity – Remote Partner &lpar;Entry-Level / Non-Technical Role&rpar;](https://dev.to/topstar_ai/collaboration-opportunity-remote-partner-entry-level-non-technical-role-3ine)
+- [Why &quot;is it fully fixed?&quot; has no honest answer — a small-server story](https://dev.to/justjinoit/why-is-it-fully-fixed-has-no-honest-answer-a-small-server-story-5g2)
+- [perso — a WebAssembly policy engine that decides what your MCP agent is allowed to do](https://dev.to/teknokeras/perso-a-webassembly-policy-engine-that-decides-what-your-mcp-agent-is-allowed-to-do-2i8a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
