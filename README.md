@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Single-Node Kubernetes Cluster on AWS EC2 with K3s](https://dev.to/prokshita_nagarajan_16a4d/deploying-a-single-node-kubernetes-cluster-on-aws-ec2-with-k3s-25ma)
-- [Build Games In Java: Sprites, Box2D Physics And Low-Latency Sound](https://dev.to/codenameone/build-games-in-java-sprites-box2d-physics-and-low-latency-sound-341i)
-- [RxJS in Angular — Chapter 7 | Combining Observables — `forkJoin`, `combineLatest`, `zip` &amp; More](https://dev.to/jps27cse/rxjs-in-angular-chapter-7-combining-observables-forkjoin-combinelatest-zip-more-25b)
-- [The Playwright Playbook — Bonus: Refactoring Schema Validation with Zod](https://dev.to/sshhfaiz/the-playwright-playbook-bonus-refactoring-schema-validation-with-zod-3400)
-- [Why I Switched from Cursor to Antigravity 🖥](https://dev.to/itzzsvr_tech74/why-i-switched-from-cursor-to-antigravity-400m)
+- [I Got Tired of Paying $99/mo for Options Data — So I Built My Own API tags: python, api, finance, showdev](https://dev.to/salomon_c7d44a2175a53c6d3/i-got-tired-of-paying-99mo-for-options-data-so-i-built-my-own-api-tags-python-api-finance-40d2)
+- [React Folder Structures That Scale: A Practical Guide for Modern Frontend Teams](https://dev.to/ufomadu_nnaemeka_89/react-folder-structures-that-scale-a-practical-guide-for-modern-frontend-teams-49b2)
+- [𝗪𝗵𝗮𝘁 𝗶𝗳 𝐫𝐞𝐥𝐢𝐚𝐛𝐥𝐲 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝗱𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲 𝐭𝐚𝐬𝐤𝐬 𝘄𝗮𝘀 𝐟𝐢𝐧𝐚𝐥𝐥𝐲 𝘄𝗶𝘁𝗵𝗶𝗻 𝗿𝗲𝗮𝗰𝗵?!](https://dev.to/f4roukb/-55n5)
+- [&quot;Bro we should open a bar&quot;, don&#39;t be this guy](https://dev.to/erintomorri/bro-we-should-open-a-bar-dont-be-this-guy-3fmb)
+- [The App Store&#39;s silent giants: AI assistants reply to almost none of their reviewers](https://dev.to/neelagiri65/the-app-stores-silent-giants-ai-assistants-reply-to-almost-none-of-their-reviewers-hj9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
