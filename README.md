@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m 13. I built a software company. Here&#39;s everything I learned in 1 months.](https://dev.to/akhourianmolkumar/im-13-i-built-a-software-company-heres-everything-i-learned-in-2-months-22kf)
-- [The Code I Shared: Reflections on my best 29+ Merged Pull Requests in Open Source](https://dev.to/aniruddhaadak/the-code-i-shared-reflections-on-359-merged-pull-requests-in-open-source-gk2)
-- [Software Development Process: From Idea to Successful Product](https://dev.to/asif_foysal_682ed1f242ce4/software-development-process-from-idea-to-successful-product-bp2)
-- [Stop Wasting LLM Budgets: High-Performance Semantic Caching with Spring AI and pgvector](https://dev.to/machinecodingmaster/stop-wasting-llm-budgets-high-performance-semantic-caching-with-spring-ai-and-pgvector-2n1o)
-- [shared configuration in microservices](https://dev.to/amygo_homes_0dc672a85369f/shared-configuration-in-microservices-26ao)
+- [I localized my app store screenshots into 8 languages. Here&#39;s what actually moved installs](https://dev.to/rishbz/i-localized-my-app-store-screenshots-into-8-languages-heres-what-actually-moved-installs-3e4c)
+- [Solstice Turing Simulation: An Interactive 3D Imitation Game Powered by Google Gemini](https://dev.to/himanshuyeolecsejpg/solstice-turing-simulation-an-interactive-3d-imitation-game-powered-by-google-gemini-42d8)
+- [Coding Agents: Moving From &quot;Bash Mimics&quot; to &quot;AST Manipulators&quot;](https://dev.to/6e2baa41a8b2856/coding-agents-moving-from-bash-mimics-to-ast-manipulators-1fc6)
+- [How Graphify Stopped My Team from Burning Thousands of Tokens Per Query](https://dev.to/vikrantnegi/how-graphify-stopped-my-team-from-burning-through-cursors-context-window-2d32)
+- [Memory Drift: How I Gamified LLM Context Decay in Next.js](https://dev.to/pvishalkeerthan/memory-drift-how-i-gamified-llm-context-decay-in-nextjs-4ilf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
