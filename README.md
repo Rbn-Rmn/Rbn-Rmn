@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Got Tired of Paying $99/mo for Options Data — So I Built My Own API tags: python, api, finance, showdev](https://dev.to/salomon_c7d44a2175a53c6d3/i-got-tired-of-paying-99mo-for-options-data-so-i-built-my-own-api-tags-python-api-finance-40d2)
-- [React Folder Structures That Scale: A Practical Guide for Modern Frontend Teams](https://dev.to/ufomadu_nnaemeka_89/react-folder-structures-that-scale-a-practical-guide-for-modern-frontend-teams-49b2)
-- [𝗪𝗵𝗮𝘁 𝗶𝗳 𝐫𝐞𝐥𝐢𝐚𝐛𝐥𝐲 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝗱𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲 𝐭𝐚𝐬𝐤𝐬 𝘄𝗮𝘀 𝐟𝐢𝐧𝐚𝐥𝐥𝐲 𝘄𝗶𝘁𝗵𝗶𝗻 𝗿𝗲𝗮𝗰𝗵?!](https://dev.to/f4roukb/-55n5)
-- [&quot;Bro we should open a bar&quot;, don&#39;t be this guy](https://dev.to/erintomorri/bro-we-should-open-a-bar-dont-be-this-guy-3fmb)
-- [The App Store&#39;s silent giants: AI assistants reply to almost none of their reviewers](https://dev.to/neelagiri65/the-app-stores-silent-giants-ai-assistants-reply-to-almost-none-of-their-reviewers-hj9)
+- [Every agent passport layer is grading its own exam](https://dev.to/mspro3210/every-agent-passport-layer-is-grading-its-own-exam-20do)
+- [How to Pass AWS SAA-C03 in 30 Days: The Study Plan I Wish I Had](https://dev.to/glenmiracle18/how-to-pass-aws-saa-c03-in-30-days-the-study-plan-i-wish-i-had-4bb6)
+- [Every Framework Eventually Becomes a Language](https://dev.to/stinklewinks/every-framework-eventually-becomes-a-language-1b4h)
+- [The scrollHeight Lie: How I Finally Got Full-Page Screenshots Right with Playwright](https://dev.to/knallhartdev/the-scrollheight-lie-how-i-finally-got-full-page-screenshots-right-with-playwright-4emn)
+- [Audio Testing for AI Chatbots: Key QA Techniques and Best Practices](https://dev.to/irniaqa/audio-testing-for-ai-chatbots-key-qa-techniques-and-best-practices-14gh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
