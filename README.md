@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I localized my app store screenshots into 8 languages. Here&#39;s what actually moved installs](https://dev.to/rishbz/i-localized-my-app-store-screenshots-into-8-languages-heres-what-actually-moved-installs-3e4c)
-- [Solstice Turing Simulation: An Interactive 3D Imitation Game Powered by Google Gemini](https://dev.to/himanshuyeolecsejpg/solstice-turing-simulation-an-interactive-3d-imitation-game-powered-by-google-gemini-42d8)
-- [Coding Agents: Moving From &quot;Bash Mimics&quot; to &quot;AST Manipulators&quot;](https://dev.to/6e2baa41a8b2856/coding-agents-moving-from-bash-mimics-to-ast-manipulators-1fc6)
-- [How Graphify Stopped My Team from Burning Thousands of Tokens Per Query](https://dev.to/vikrantnegi/how-graphify-stopped-my-team-from-burning-through-cursors-context-window-2d32)
-- [Memory Drift: How I Gamified LLM Context Decay in Next.js](https://dev.to/pvishalkeerthan/memory-drift-how-i-gamified-llm-context-decay-in-nextjs-4ilf)
+- [Deploying a Single-Node Kubernetes Cluster on AWS EC2 with K3s](https://dev.to/prokshita_nagarajan_16a4d/deploying-a-single-node-kubernetes-cluster-on-aws-ec2-with-k3s-25ma)
+- [Build Games In Java: Sprites, Box2D Physics And Low-Latency Sound](https://dev.to/codenameone/build-games-in-java-sprites-box2d-physics-and-low-latency-sound-341i)
+- [RxJS in Angular — Chapter 7 | Combining Observables — `forkJoin`, `combineLatest`, `zip` &amp; More](https://dev.to/jps27cse/rxjs-in-angular-chapter-7-combining-observables-forkjoin-combinelatest-zip-more-25b)
+- [The Playwright Playbook — Bonus: Refactoring Schema Validation with Zod](https://dev.to/sshhfaiz/the-playwright-playbook-bonus-refactoring-schema-validation-with-zod-3400)
+- [Why I Switched from Cursor to Antigravity 🖥](https://dev.to/itzzsvr_tech74/why-i-switched-from-cursor-to-antigravity-400m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
