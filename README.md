@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Debugging AI Coding Agents: How to See Prompts, Tool Calls, Token Usage, and Cost](https://dev.to/houleixx/debugging-ai-coding-agents-how-to-see-prompts-tool-calls-token-usage-and-cost-4omm)
-- [How to Rewrite Your Software System Without Stopping Your Business](https://dev.to/spectredevxyz/how-to-rewrite-your-software-system-without-stopping-your-business-1afe)
-- [Collaboration Opportunity – Remote Partner &lpar;Entry-Level / Non-Technical Role&rpar;](https://dev.to/topstar_ai/collaboration-opportunity-remote-partner-entry-level-non-technical-role-3ine)
-- [Why &quot;is it fully fixed?&quot; has no honest answer — a small-server story](https://dev.to/justjinoit/why-is-it-fully-fixed-has-no-honest-answer-a-small-server-story-5g2)
-- [perso — a WebAssembly policy engine that decides what your MCP agent is allowed to do](https://dev.to/teknokeras/perso-a-webassembly-policy-engine-that-decides-what-your-mcp-agent-is-allowed-to-do-2i8a)
+- [I&#39;m 13. I built a software company. Here&#39;s everything I learned in 1 months.](https://dev.to/akhourianmolkumar/im-13-i-built-a-software-company-heres-everything-i-learned-in-2-months-22kf)
+- [The Code I Shared: Reflections on my best 29+ Merged Pull Requests in Open Source](https://dev.to/aniruddhaadak/the-code-i-shared-reflections-on-359-merged-pull-requests-in-open-source-gk2)
+- [Software Development Process: From Idea to Successful Product](https://dev.to/asif_foysal_682ed1f242ce4/software-development-process-from-idea-to-successful-product-bp2)
+- [Stop Wasting LLM Budgets: High-Performance Semantic Caching with Spring AI and pgvector](https://dev.to/machinecodingmaster/stop-wasting-llm-budgets-high-performance-semantic-caching-with-spring-ai-and-pgvector-2n1o)
+- [shared configuration in microservices](https://dev.to/amygo_homes_0dc672a85369f/shared-configuration-in-microservices-26ao)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
