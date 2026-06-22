@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [CVE &amp; CVSS Scores: Strategic Integration in Vulnerability Management](https://dev.to/nara_naghi/cve-cvss-scores-strategic-integration-in-vulnerability-management-45eo)
-- [I built a fully local AI assistant at 16 — no cloud, no API keys, runs on your GPU](https://dev.to/shriisoot/i-built-a-fully-local-ai-assistant-at-16-no-cloud-no-api-keys-runs-on-your-gpu-am4)
-- [Securing AI: Codex Operational Bugs, Claude Output Integrity, Copilot Context](https://dev.to/soytuber/securing-ai-codex-operational-bugs-claude-output-integrity-copilot-context-3g08)
-- [DuckDB 1.5.2, PostgreSQL Internal Stats, and SQLite Virtual Table xUpdate Deep Dive](https://dev.to/soytuber/duckdb-152-postgresql-internal-stats-and-sqlite-virtual-table-xupdate-deep-dive-ll1)
-- [Ever had a renamed column quietly break a CSV export? csv-pipe makes it a compile error, reads and writes both ways, and parses several times faster than papaparse. Live playground in the post to try your own data.](https://dev.to/myroslavmartsin/ever-had-a-renamed-column-quietly-break-a-csv-export-csv-pipe-makes-it-a-compile-error-reads-and-18oi)
+- [The Team Already Knows](https://dev.to/jonoherrington/the-team-already-knows-1cba)
+- [How to Prove Your AI Did What It Said: A Developer&#39;s Guide to Verifiable AI Outputs](https://dev.to/adeolaokunola/how-to-prove-your-ai-did-what-it-said-a-developers-guide-to-verifiable-ai-outputs-3ik3)
+- [When a Constructor Became a Security Boundary](https://dev.to/rabeh_arch/when-a-constructor-became-a-security-boundary-1caj)
+- [AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here&#39;s what changed for me.](https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na)
+- [The ADHD app launches in 22 hours. Here&#39;s what the AI marketing agent built overnight.](https://dev.to/nyx_software/the-adhd-app-launches-in-22-hours-heres-what-the-ai-marketing-agent-built-overnight-1j2k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
