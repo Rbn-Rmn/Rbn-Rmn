@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Image Upload Performance for Large Files: Lessons From Building an AI Image Platform](https://dev.to/makemyvisuals/optimizing-image-upload-performance-for-large-files-lessons-from-building-an-ai-image-platform-2a76)
-- [Day 01 — Azure CLI Basics](https://dev.to/highpee1991/day-01-azure-cli-basics-2fh4)
-- [From Symbol to Contract: Asset Resolution APIs for Multi-Chain Trading Bots](https://dev.to/walletguy/from-symbol-to-contract-asset-resolution-apis-for-multi-chain-trading-bots-28l5)
-- [How 2 Designers ditched Figma &lpar;sort of&rpar; to rebuild a marketing site](https://dev.to/kgowru/how-2-designers-ditched-figma-sort-of-to-rebuild-a-marketing-site-578p)
-- [LiteLLM vs Bifrost: I Tested Both in Production. Here&#39;s What Actually Matters.](https://dev.to/paultwist/litellm-vs-bifrost-i-tested-both-in-production-heres-what-actually-matters-c9b)
+- [Fake AI Agent Skill Slipped Past Every Scanner and Reached 26,000 Agents](https://dev.to/etairos/fake-ai-agent-skill-slipped-past-every-scanner-and-reached-26000-agents-1ef9)
+- [Dynamic OG Images for Next.js &amp; Vercel &lpar;3 Production Patterns&rpar;](https://dev.to/snapshotflow/dynamic-og-images-for-nextjs-vercel-3-production-patterns-1h3i)
+- [Haney GPT &amp; Haney CLI Coding Agent](https://dev.to/sakthi_vel_18af770a142dab/haney-gpt-haney-cli-coding-agent-461n)
+- [Ways Devs Are Plugging LLMs Into Anomaly Detection](https://dev.to/lovestaco/ways-devs-are-plugging-llms-into-anomaly-detection-1b3o)
+- [What a Fast LLM Taught Me About Assumptions](https://dev.to/g_correa/what-a-fast-llm-taught-me-about-assumptions-oe)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
