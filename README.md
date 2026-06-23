@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why IT Training Matters More Than Ever in Nepal](https://dev.to/skill-shikshya/why-it-training-matters-more-than-ever-in-nepal-34c0)
-- [The Myth of Specialized Integrations and Why Protocols Win](https://dev.to/renato_marinho/the-myth-of-specialized-integrations-and-why-protocols-win-1484)
-- [How to check whether AI recommends your site — the honest AEO audit I run for clients](https://dev.to/alex-isa/how-to-check-whether-ai-recommends-your-site-the-honest-aeo-audit-i-run-for-clients-1ok5)
-- [Introducing Kindle Share: a local Wi-Fi book drop for Kindle](https://dev.to/thanhphuchuynh/introducing-kindle-share-a-local-wi-fi-book-drop-for-kindle-1gg9)
-- [Day 71 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-71-of-learning-mern-stack-h2)
+- [Why I Left Postman — The Real Cost of a Cloud-First API Client](https://dev.to/flutwiz/why-i-left-postman-the-real-cost-of-a-cloud-first-api-client-3gfd)
+- [Cloud TTS Chirp3-HD with Caching: Fixing Voice Readout for Accessibility](https://dev.to/junhee916/cloud-tts-chirp3-hd-with-caching-fixing-voice-readout-for-accessibility-3paf)
+- [Como Números de Telefone Secundários Realmente Melhoram Sua Privacidade Digital](https://dev.to/kairox_940d8228041f8f941b/como-numeros-de-telefone-secundarios-realmente-melhoram-sua-privacidade-digital-eb)
+- [OpenMontage Review: Open-Source Agentic Video Production](https://dev.to/andrew-ooo/openmontage-review-open-source-agentic-video-production-296l)
+- [color-zone — A React Color Picker with Gradient Support, EyeDropper, and a Headless Hook](https://dev.to/devnax/color-zone-a-react-color-picker-with-gradient-support-eyedropper-and-a-headless-hook-ohl)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
