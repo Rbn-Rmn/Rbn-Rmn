@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The US contract you didn&#39;t get wasn&#39;t a skills problem. It was one missing line.](https://dev.to/czechdevusa/the-us-contract-you-didnt-get-wasnt-a-skills-problem-it-was-one-missing-line-3k11)
-- [I Made Our Attendance API 75% Faster By Fixing One Stupid Mistake](https://dev.to/imran_tech/i-made-our-attendance-api-75-faster-by-fixing-one-stupid-mistake-3e7i)
-- [Understanding Apache Airflow DAGs: Structure, Communication, and Deployment](https://dev.to/sudoruss/understanding-apache-airflow-dags-structure-communication-and-deployment-1cnj)
-- [[Boost]](https://dev.to/ndrone/-3c17)
-- [Why Your AI Agents Keep Stepping on Each Others Toes](https://dev.to/elenarevicheva/why-your-ai-agents-keep-stepping-on-each-others-toes-4g7d)
+- [Optimizing Image Upload Performance for Large Files: Lessons From Building an AI Image Platform](https://dev.to/makemyvisuals/optimizing-image-upload-performance-for-large-files-lessons-from-building-an-ai-image-platform-2a76)
+- [Day 01 — Azure CLI Basics](https://dev.to/highpee1991/day-01-azure-cli-basics-2fh4)
+- [From Symbol to Contract: Asset Resolution APIs for Multi-Chain Trading Bots](https://dev.to/walletguy/from-symbol-to-contract-asset-resolution-apis-for-multi-chain-trading-bots-28l5)
+- [How 2 Designers ditched Figma &lpar;sort of&rpar; to rebuild a marketing site](https://dev.to/kgowru/how-2-designers-ditched-figma-sort-of-to-rebuild-a-marketing-site-578p)
+- [LiteLLM vs Bifrost: I Tested Both in Production. Here&#39;s What Actually Matters.](https://dev.to/paultwist/litellm-vs-bifrost-i-tested-both-in-production-heres-what-actually-matters-c9b)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
