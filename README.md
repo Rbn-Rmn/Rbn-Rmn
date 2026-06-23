@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Team Already Knows](https://dev.to/jonoherrington/the-team-already-knows-1cba)
-- [How to Prove Your AI Did What It Said: A Developer&#39;s Guide to Verifiable AI Outputs](https://dev.to/adeolaokunola/how-to-prove-your-ai-did-what-it-said-a-developers-guide-to-verifiable-ai-outputs-3ik3)
-- [When a Constructor Became a Security Boundary](https://dev.to/rabeh_arch/when-a-constructor-became-a-security-boundary-1caj)
-- [AI found 300 WordPress plugin zero-days in 72 hours. I build plugins. Here&#39;s what changed for me.](https://dev.to/rapls/ai-found-300-wordpress-plugin-zero-days-in-72-hours-i-build-plugins-heres-what-changed-for-me-43na)
-- [The ADHD app launches in 22 hours. Here&#39;s what the AI marketing agent built overnight.](https://dev.to/nyx_software/the-adhd-app-launches-in-22-hours-heres-what-the-ai-marketing-agent-built-overnight-1j2k)
+- [I Built the First Purely Learned Frame-by-Frame Tetris AI: Then It Started Cheating](https://dev.to/stat_phantom/i-built-the-first-purely-learned-frame-by-frame-tetris-ai-then-it-started-cheating-322k)
+- [Organize email with folders and labels in Nylas](https://dev.to/mqasimca/organize-email-with-folders-and-labels-in-nylas-6n9)
+- [Building a Lightweight Unity Editor Bridge for AI Coding Agents](https://dev.to/notnull92/building-a-lightweight-unity-editor-bridge-for-ai-coding-agents-1jm2)
+- [Cross-border H5 &amp; Global Device Optimization](https://dev.to/taoify/mobile-h5-adaptation-overseas-device-compatibility-optimization-for-reverse-cross-border-shopping-5610)
+- [Your .env.example Is Lying to You, Here&#39;s How to Fix It](https://dev.to/ctrotech/your-envexample-is-lying-to-you-heres-how-to-fix-it-4n0p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
