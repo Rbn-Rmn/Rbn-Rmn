@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built the First Purely Learned Frame-by-Frame Tetris AI: Then It Started Cheating](https://dev.to/stat_phantom/i-built-the-first-purely-learned-frame-by-frame-tetris-ai-then-it-started-cheating-322k)
-- [Organize email with folders and labels in Nylas](https://dev.to/mqasimca/organize-email-with-folders-and-labels-in-nylas-6n9)
-- [Building a Lightweight Unity Editor Bridge for AI Coding Agents](https://dev.to/notnull92/building-a-lightweight-unity-editor-bridge-for-ai-coding-agents-1jm2)
-- [Cross-border H5 &amp; Global Device Optimization](https://dev.to/taoify/mobile-h5-adaptation-overseas-device-compatibility-optimization-for-reverse-cross-border-shopping-5610)
-- [Your .env.example Is Lying to You, Here&#39;s How to Fix It](https://dev.to/ctrotech/your-envexample-is-lying-to-you-heres-how-to-fix-it-4n0p)
+- [Why IT Training Matters More Than Ever in Nepal](https://dev.to/skill-shikshya/why-it-training-matters-more-than-ever-in-nepal-34c0)
+- [The Myth of Specialized Integrations and Why Protocols Win](https://dev.to/renato_marinho/the-myth-of-specialized-integrations-and-why-protocols-win-1484)
+- [How to check whether AI recommends your site — the honest AEO audit I run for clients](https://dev.to/alex-isa/how-to-check-whether-ai-recommends-your-site-the-honest-aeo-audit-i-run-for-clients-1ok5)
+- [Introducing Kindle Share: a local Wi-Fi book drop for Kindle](https://dev.to/thanhphuchuynh/introducing-kindle-share-a-local-wi-fi-book-drop-for-kindle-1gg9)
+- [Day 71 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-71-of-learning-mern-stack-h2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
