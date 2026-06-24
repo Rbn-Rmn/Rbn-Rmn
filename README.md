@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Running a LangGraph ReAct Agent in Production: OpenAI-Compatible API + Multi-Model Gateway + One-Line Tracing](https://dev.to/javaking1129/running-a-langgraph-react-agent-in-production-openai-compatible-api-multi-model-gateway--emi)
-- [The SaaS Churn Rate Formula: 3 Calculations That Expose Your Real Runway Risk](https://dev.to/saasdev11/the-saas-churn-rate-formula-3-calculations-that-expose-your-real-runway-risk-30bb)
-- [I built an open-source crypto trading bot that runs 4 exchanges from one server](https://dev.to/gainalgo/i-built-an-open-source-crypto-trading-bot-that-runs-4-exchanges-from-one-server-47c1)
-- [How LLM Tokens Work &lpar;And Why They Explain Your AI Bill&rpar;](https://dev.to/thestackunderflow_3b3b3b6/how-llm-tokens-work-and-why-they-explain-your-ai-bill-46b)
-- [GCodex — A Free G-Code Viewer &amp; Machine Simulator for 3D Printing and Bioprinting](https://dev.to/hafizmuhammadfawadshakil/gcodex-a-free-g-code-viewer-machine-simulator-for-3d-printing-and-bioprinting-5d96)
+- [Building High-Converting Product Pages for Niche Fashion E-Commerce: A Developer&#39;s Guide](https://dev.to/card_maniak_d8f4e0a4c92b5/building-high-converting-product-pages-for-niche-fashion-e-commerce-a-developers-guide-4m7o)
+- [Building High-Performance E-Commerce Sites for Niche Fashion: A Developer&#39;s Guide](https://dev.to/card_maniak_d8f4e0a4c92b5/building-high-performance-e-commerce-sites-for-niche-fashion-a-developers-guide-3el1)
+- [Building a High-Performance E-commerce Store for Niche Markets: A Developer&#39;s Guide](https://dev.to/z_p_14a197931d3be5e3b954f/building-a-high-performance-e-commerce-store-for-niche-markets-a-developers-guide-165l)
+- [How WhatsApp Accounts Really Get &quot;Hacked&quot; &lpar;and How to Lock Yours Down&rpar;](https://dev.to/adev3loper/how-whatsapp-accounts-really-get-hacked-and-how-to-lock-yours-down-2ioj)
+- [S3 Annotations: Three Practical Use Cases in Agent Scenarios](https://dev.to/maisie_oy/s3-annotations-three-practical-use-cases-in-agent-scenarios-ncg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
