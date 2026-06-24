@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your Agents Need a Security Boundary. Heres Why Its Become Non-Negotiable.](https://dev.to/paultwist/your-agents-need-a-security-boundary-heres-why-its-become-non-negotiable-5hkm)
-- [How I Built a Carbon Footprint Tracker with Django + NVIDIA NIM](https://dev.to/divyansh0208/how-i-built-a-carbon-footprint-tracker-with-django-nvidia-nim-4jp3)
-- [Protective Computing: Software Should Fail Safely Under Stress](https://dev.to/crisiscoresystems/protective-computing-software-should-fail-safely-under-stress-4egb)
-- [Why Prompt Injection Won&#39;t Be &quot;Fixed&quot;](https://dev.to/arthurpro/why-prompt-injection-wont-be-fixed-1n0h)
-- [Stratagems #1: Mark Johnson Walked Into an AI Audit. The Benchmark Had Everything Figured Out — Except the Truth.](https://dev.to/xulingfeng/stratagems-1-mark-johnson-walked-into-an-ai-audit-the-benchmark-had-everything-figured-out--adh)
+- [CDK Update - April/May 2026](https://dev.to/pahud/cdk-update-aprilmay-2026-1k8h)
+- [Why API Breaking Changes Still Reach Production Even With CI/CD](https://dev.to/deepaksatyam/why-api-breaking-changes-still-reach-production-even-with-cicd-4hmo)
+- [Omnia Ipsum: Unified placeholder content for Symfony](https://dev.to/serotoninja/omnia-ipsum-unified-placeholder-content-for-symfony-4oid)
+- [Font Manager: Multi-format Font export for Symfony](https://dev.to/serotoninja/font-manager-multi-format-font-export-for-symfony-41le)
+- [I built a tool that turns any GitHub repo URL into a shareable social card &lpar;free, no login&rpar;](https://dev.to/jarvis38dev/i-built-a-tool-that-turns-any-github-repo-url-into-a-shareable-social-card-free-no-login-49a7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
