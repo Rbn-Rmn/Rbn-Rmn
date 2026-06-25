@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI Is Too Good at Coding - So I Built Something to Keep the Why &lpar;and Make It Scale&rpar;](https://dev.to/karthickramachandran/ai-is-too-good-at-coding-so-i-built-something-to-keep-the-why-and-make-it-scale-1hmf)
-- [I Built a 131-Test Eval Harness Before Writing New Features. Here&#39;s the Silent Failure It Caught.](https://dev.to/elenarevicheva/i-built-a-131-test-eval-harness-before-writing-new-features-heres-the-silent-failure-it-caught-47cb)
-- [O-AI Development Update](https://dev.to/shriisoot/o-ai-development-update-5b83)
-- [7 Security Holes We Keep Finding in Vibecoded Apps: Audit Vibe Coding by Inithouse](https://dev.to/jakub_inithouse/7-security-holes-we-keep-finding-in-vibecoded-apps-audit-vibe-coding-by-inithouse-4gc0)
-- [How I Built a Premium Developer Tools Website Using Only a Local LLM &lpar;Gemma 4:12B + Ollama + VS Code&rpar;](https://dev.to/iprvn/how-i-built-a-premium-developer-tools-website-using-only-a-local-llm-gemma-412b-ollama-vs-40ni)
+- [OmniIDE 1.0.5 Released](https://dev.to/omninodeco/omniide-105-released-3h6n)
+- [Misdirection Proxy: cómo llevar el ASR de ataques a LLMs del 20% al mínimo](https://dev.to/magopredator/le-dije-a-un-atacante-de-ia-que-gano-perdio-aga)
+- [Next.js 16.3, WebSocket on Vercel, cnfast, Instant Navigations, React Libraries for 2026, What RSCs Can Do](https://dev.to/erfanebrahimnia/nextjs-163-websocket-on-vercel-cnfast-instant-navigations-react-libraries-for-2026-what-rscs-43c4)
+- [The People v. ASP.NET Core: A C#-Only HTTP Benchmark Trial](https://dev.to/fbio_reis_355b87b508598e/the-people-v-aspnet-core-a-c-only-http-benchmark-trial-b2)
+- [Building Hardware-Accelerated FFmpeg on NVIDIA Jetson AGX Orin 64GB](https://dev.to/vonusma/building-hardware-accelerated-ffmpeg-on-nvidia-jetson-agx-orin-64gb-3gg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
