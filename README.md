@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [System Design Interview Questions by Level: Junior, Mid-Level, Senior, and Staff](https://dev.to/arslan_ah/system-design-interview-questions-by-level-junior-mid-level-senior-and-staff-2m6h)
-- [AI Visibility Services: The New Front Door for Your Business](https://dev.to/notionmind/ai-visibility-services-the-new-front-door-for-your-business-1hak)
-- [PWM y Endpoints: Optimizando la Respuesta del Acelerador en Robótica RC](https://dev.to/techrcmotors/pwm-y-endpoints-optimizando-la-respuesta-del-acelerador-en-robotica-rc-1i44)
-- [Flexible density for all the UI](https://dev.to/dimonb19a/flexible-density-for-all-the-ui-4634)
-- [The Tech Industry by 2030 What No One Is Preparing For](https://dev.to/muhammadniazali/the-tech-industry-by-2030-what-no-one-is-preparing-for-598a)
+- [Building progress billing into a CRM: the UX and data challenges](https://dev.to/tcarter/building-progress-billing-into-a-crm-the-ux-and-data-challenges-1pd1)
+- [Knowing which model openrouter/auto actually ran &lpar;and what it cost&rpar;](https://dev.to/brianmello/knowing-which-model-openrouterauto-actually-ran-and-what-it-cost-3i1f)
+- [I Built 20+ Free Dev Tools and a Flip Clock That Turns Old Phones Into a Desk Companion](https://dev.to/jae_moon_4864941ecf7e394b/i-built-20-free-dev-tools-and-a-flip-clock-that-turns-old-phones-into-a-desk-companion-441h)
+- [How To Build Diy Smart Home Motion Sensor](https://dev.to/samchenreviews/how-to-build-diy-smart-home-motion-sensor-4po8)
+- [Only 17% of EU Crypto Firms Are MiCA-Ready. The Other 83% Are About to Vacate a $78 Billion Market.](https://dev.to/kavinkimcreator/only-17-of-eu-crypto-firms-are-mica-ready-the-other-83-are-about-to-vacate-a-78-billion-market-3g16)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
