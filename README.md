@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Programming Paradigms](https://dev.to/madhavan_g_77/programming-paradigms-3hl3)
-- [Passive Reconnaissance on google.com — What I Found Using Shodan, WHOIS, and DNS Tools](https://dev.to/almahmudkhalif/passive-reconnaissance-on-googlecom-what-i-found-using-shodan-whois-and-dns-tools-5hea)
-- [Why your reCAPTCHA v3 score is low — and how to actually raise it](https://dev.to/bshahin/why-your-recaptcha-v3-score-is-low-and-how-to-actually-raise-it-5554)
-- [Why I chose PM2 over Docker for most services - SolidNorth](https://dev.to/solidnorth/why-i-chose-pm2-over-docker-for-most-services-solidnorth-34p9)
-- [Building a Trading Bot Is Easy. Building One That Survives Overnight Isn&#39;t.](https://dev.to/casatrick/building-a-trading-bot-is-easy-building-one-that-survives-overnight-isnt-25j5)
+- [System Design Interview Questions by Level: Junior, Mid-Level, Senior, and Staff](https://dev.to/arslan_ah/system-design-interview-questions-by-level-junior-mid-level-senior-and-staff-2m6h)
+- [AI Visibility Services: The New Front Door for Your Business](https://dev.to/notionmind/ai-visibility-services-the-new-front-door-for-your-business-1hak)
+- [PWM y Endpoints: Optimizando la Respuesta del Acelerador en Robótica RC](https://dev.to/techrcmotors/pwm-y-endpoints-optimizando-la-respuesta-del-acelerador-en-robotica-rc-1i44)
+- [Flexible density for all the UI](https://dev.to/dimonb19a/flexible-density-for-all-the-ui-4634)
+- [The Tech Industry by 2030 What No One Is Preparing For](https://dev.to/muhammadniazali/the-tech-industry-by-2030-what-no-one-is-preparing-for-598a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
