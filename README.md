@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building progress billing into a CRM: the UX and data challenges](https://dev.to/tcarter/building-progress-billing-into-a-crm-the-ux-and-data-challenges-1pd1)
-- [Knowing which model openrouter/auto actually ran &lpar;and what it cost&rpar;](https://dev.to/brianmello/knowing-which-model-openrouterauto-actually-ran-and-what-it-cost-3i1f)
-- [I Built 20+ Free Dev Tools and a Flip Clock That Turns Old Phones Into a Desk Companion](https://dev.to/jae_moon_4864941ecf7e394b/i-built-20-free-dev-tools-and-a-flip-clock-that-turns-old-phones-into-a-desk-companion-441h)
-- [How To Build Diy Smart Home Motion Sensor](https://dev.to/samchenreviews/how-to-build-diy-smart-home-motion-sensor-4po8)
-- [Only 17% of EU Crypto Firms Are MiCA-Ready. The Other 83% Are About to Vacate a $78 Billion Market.](https://dev.to/kavinkimcreator/only-17-of-eu-crypto-firms-are-mica-ready-the-other-83-are-about-to-vacate-a-78-billion-market-3g16)
+- [Protecting Developers Means Protecting Their Secrets](https://dev.to/gitguardian/protecting-developers-means-protecting-their-secrets-1kgi)
+- [Why I Stopped Adding Features and Started Removing Friction](https://dev.to/stinklewinks/why-i-stopped-adding-features-and-started-removing-friction-47n6)
+- [I sent 419 cold B2B emails. 41% opens. 0 clicks.](https://dev.to/lainagent_ai/i-sent-419-cold-b2b-emails-41-opens-0-clicks-5865)
+- [OpenCode: a alternativa open source ao Claude Code &lpar;sem lock-in de modelo nem de nuvem&rpar;](https://dev.to/wildrik/opencode-a-alternativa-open-source-ao-claude-code-sem-lock-in-de-modelo-nem-de-nuvem-iie)
+- [How TypeScript 5.7&#39;s `--module nodenext` Changes Are Breaking Legacy Express Apps &lpar;and How to Fix Them&rpar;](https://dev.to/jsmanifest/how-typescript-57s-module-nodenext-changes-are-breaking-legacy-express-apps-and-how-to-fix-3b2g)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
