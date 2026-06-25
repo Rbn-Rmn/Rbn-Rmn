@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The skill I built for my product turned out to be sellable on its own](https://dev.to/harsha_kumar/the-skill-i-built-for-my-product-turned-out-to-be-sellable-on-its-own-2mkf)
-- [The Rise Of AI Systems Engineering](https://dev.to/uigerhana/the-rise-of-ai-systems-engineering-4a1f)
-- [Engineering Judgment Is Becoming The Scarcest Resource](https://dev.to/uigerhana/engineering-judgment-is-becoming-the-scarcest-resource-1a5l)
-- [Composability Is The Real Superpower](https://dev.to/amrishkhan05/composability-is-the-real-superpower-272o)
-- [Spatial Search Performance: How I Got 100x Faster Queries With PostGIS and Redis GEO](https://dev.to/kevinten10/spatial-search-performance-how-i-got-100x-faster-queries-with-postgis-and-redis-geo-2iep)
+- [Programming Paradigms](https://dev.to/madhavan_g_77/programming-paradigms-3hl3)
+- [Passive Reconnaissance on google.com — What I Found Using Shodan, WHOIS, and DNS Tools](https://dev.to/almahmudkhalif/passive-reconnaissance-on-googlecom-what-i-found-using-shodan-whois-and-dns-tools-5hea)
+- [Why your reCAPTCHA v3 score is low — and how to actually raise it](https://dev.to/bshahin/why-your-recaptcha-v3-score-is-low-and-how-to-actually-raise-it-5554)
+- [Why I chose PM2 over Docker for most services - SolidNorth](https://dev.to/solidnorth/why-i-chose-pm2-over-docker-for-most-services-solidnorth-34p9)
+- [Building a Trading Bot Is Easy. Building One That Survives Overnight Isn&#39;t.](https://dev.to/casatrick/building-a-trading-bot-is-easy-building-one-that-survives-overnight-isnt-25j5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
