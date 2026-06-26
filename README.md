@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Empire Strikes Back: Mastering Database Backups &amp; Disaster Recovery](https://dev.to/timevolt/the-empire-strikes-back-mastering-database-backups-disaster-recovery-fib)
-- [I Scanned 1,200 MCP Configs From GitHub. Here&#39;s What I Found.](https://dev.to/ad_0846/i-scanned-1200-mcp-configs-from-github-heres-what-i-found-45b3)
-- [How I built a YouTube performance classifier that adjusts tomorrow&#39;s video script bias](https://dev.to/morinaga/how-i-built-a-youtube-performance-classifier-that-adjusts-tomorrows-video-script-bias-19ba)
-- [Notable releases I&#39;m watching: Deno 2.8, Models.dev, DeepSeek V4 Pro permanent pricing](https://dev.to/morinaga/notable-releases-im-watching-deno-28-modelsdev-deepseek-v4-pro-permanent-pricing-2g26)
-- [Base64 Encoding Explained — JWT Tokens, Data URIs, and Kubernetes Secrets](https://dev.to/codewiztools/base64-encoding-explained-jwt-tokens-data-uris-and-kubernetes-secrets-2g7d)
+- [Your Webhook Tool Can&#39;t Tell You What Actually Happened](https://dev.to/zenmesh/your-webhook-tool-cant-tell-you-what-actually-happened-4g06)
+- [Creating a Small Helper Class to Safely Handle CancellationTokenSource Cancel and Dispose](https://dev.to/gamedevtoollab/creating-a-small-helper-class-to-safely-handle-cancellationtokensource-cancel-and-dispose-11ca)
+- [I lost months of Google indexing to a single missing UA pattern](https://dev.to/noctias/i-lost-months-of-google-indexing-to-a-single-missing-ua-pattern-9a9)
+- [Spring Boot MCP Server in 2026: The Transport Trap That Wastes Your Weekend](https://dev.to/anirbandashfxcommits/spring-boot-mcp-server-in-2026-the-transport-trap-that-wastes-your-afternoon-4962)
+- [Bizbox Q3 2026 Public Roadmap Update](https://dev.to/joincitro/bizbox-q3-2026-public-roadmap-update-137a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
