@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Mobile App Authentication: Best Practices for iOS and Android Developers &lpar;2026&rpar;](https://dev.to/securecodinghub/mobile-app-authentication-best-practices-for-ios-and-android-developers-2026-3aah)
-- [Malware on Your Machine: A Developer&#39;s Complete Incident Response Guide](https://dev.to/masilrg/malware-on-your-machine-a-developers-complete-incident-response-guide-4hph)
-- [Total System Dominance: Chaining RFID, Sub-GHz, and Infrared Exploits](https://dev.to/numbpill3d/total-system-dominance-chaining-rfid-sub-ghz-and-infrared-exploits-18f)
-- [How I Built a Personal AI Knowledge Base with Amazon Aurora pgvector and Next.js — AWS H0 Hackathon](https://dev.to/hamzanabdev/how-i-built-a-personal-ai-knowledge-base-with-amazon-aurora-pgvector-and-nextjs-aws-h0-hackathon-19jf)
-- [How We Built a P2P Crypto Wallet for Ethiopian Remittances — And Why We Started With Africa](https://dev.to/sem_wallet/how-we-built-a-p2p-crypto-wallet-for-ethiopian-remittances-and-why-we-started-with-africa-56pm)
+- [I Built 9 AI Agents to Run a Gym. Here&#39;s the Architecture.](https://dev.to/zwiserfit/i-built-9-ai-agents-to-run-a-gym-heres-the-architecture-daf)
+- [SEO Services for Developers: What Actually Matters in 2026](https://dev.to/aboah/seo-services-for-developers-what-actually-matters-in-2026-34bd)
+- [MAX20151R: The 40V, 500mA Ultra-Low-Noise LDO That Silences Power Rails](https://dev.to/hknova/max20151r-the-40v-500ma-ultra-low-noise-ldo-that-silences-power-rails-3nic)
+- [Building a Local-First Voice Copilot for the Shell with HoldSpeak and Ollama](https://dev.to/philgrayphilgray/building-a-local-first-voice-copilot-for-the-shell-with-holdspeak-and-ollama-57lm)
+- [Three Months with Java 26: My Thoughts After Using the Latest Release](https://dev.to/deividas-strole/three-months-with-java-26-my-thoughts-after-using-the-latest-release-61c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
