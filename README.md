@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [StoreKit 2 subscriptions + a screenshot mode that bypasses purchases](https://dev.to/netflowers/storekit-2-subscriptions-a-screenshot-mode-that-bypasses-purchases-105)
-- [Bun v1.3.14: The Update That Actually Speeds Up Development](https://dev.to/frank_signorini/bun-v1314-the-update-that-actually-speeds-up-development-5g98)
-- [Custom Automation for SMEs: 5 real cases, EUR 500 to 5000](https://dev.to/ohugonnot/custom-automation-for-smes-5-real-cases-eur-500-to-5000-3jf5)
-- [GUI or CLI? Why We Built Both](https://dev.to/ancer/gui-or-cli-why-we-built-both-5mn)
-- [I built a link shortener with a real API &lpar;and QR codes that don&#39;t look like 2009&rpar;](https://dev.to/chathrika/i-built-a-link-shortener-with-a-real-api-and-qr-codes-that-dont-look-like-2009-1p9n)
+- [From Source Control to Supplier Control: Building TPRM Through a Developer Lens](https://dev.to/max-b-grc/from-source-control-to-supplier-control-building-tprm-through-a-developer-lens-468i)
+- [Pet Imagination by Inithouse: our AI pet portrait pipeline, 9 styles under 60 seconds](https://dev.to/jakub_inithouse/pet-imagination-by-inithouse-our-ai-pet-portrait-pipeline-9-styles-under-60-seconds-2b1o)
+- [FacetLab: an open-source WebGL diamond 4Cs simulator](https://dev.to/facetlab/facetlab-an-open-source-webgl-diamond-4cs-simulator-4km)
+- [Elastic caching is just TTLs with an invoice attached](https://dev.to/komo/elastic-caching-is-just-ttls-with-an-invoice-attached-11dm)
+- [The Cloud Security Toolchain Every Engineer Should Know &lpar;2026&rpar;](https://dev.to/usman_sherdil_582e626a7db/the-cloud-security-toolchain-every-engineer-should-know-2026-jk9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
