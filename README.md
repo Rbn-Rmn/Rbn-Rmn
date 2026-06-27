@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Inside An AI Agent: Planning, Tool Use, Memory, Constraints, And Verification](https://dev.to/nazar_boyko/inside-an-ai-agent-planning-tool-use-memory-constraints-and-verification-2fcc)
-- [From &quot;I Can&#39;t click&quot; to a Full Testing Harness: How We Built Playwright for the Terminal](https://dev.to/eugenioenko/from-i-cant-click-to-a-full-testing-harness-how-we-built-playwright-for-the-terminal-1bf6)
-- [I Started Building a Premium Template Marketplace — Week 1 Progress, Stack &amp; What&#39;s Coming](https://dev.to/ifehdelight/i-started-building-a-premium-template-marketplace-week-1-progress-stack-whats-coming-5ddd)
-- [I Built an AI Agent That Gets Curious On Its Own](https://dev.to/shridhar_shah2297/i-built-an-ai-agent-that-gets-curious-on-its-own-4oe1)
-- [Can an AI Agent Pass the Test We Give 4-Year-Olds?](https://dev.to/shridhar_shah2297/can-an-ai-agent-pass-the-test-we-give-4-year-olds-5825)
+- [Dynamic pricing on Shopify is not a pricing problem. It is a blast-radius problem.](https://dev.to/macmcfall/dynamic-pricing-on-shopify-is-not-a-pricing-problem-it-is-a-blast-radius-problem-2phm)
+- [n8n Expressions: How to Use Dynamic Data in Your Workflows &lpar;Free Examples&rpar;](https://dev.to/pirateprentice/n8n-expressions-how-to-use-dynamic-data-in-your-workflows-free-examples-3f2j)
+- [A Rogue Registry in My Own Backyard: Anatomy of a Two-Line Supply Chain Attack](https://dev.to/sebs/a-rogue-registry-in-my-own-backyard-anatomy-of-a-two-line-supply-chain-attack-5b0h)
+- [Building an Artist Attribution Model with PyTorch and ResNet-50](https://dev.to/ghazy001/building-an-artist-attribution-model-with-pytorch-and-resnet-50-2pde)
+- [Building a RAG System from Scratch — Wrap-up and What Comes Next](https://dev.to/hiroki-kameyama/building-a-rag-system-from-scratch-wrap-up-and-what-comes-next-2821)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
