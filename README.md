@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Browser-Based Urdu Writing and Design Platform](https://dev.to/anilanawaz_7/i-built-a-free-browser-based-urdu-writing-and-design-platform-3169)
-- [How to build a production-ready app with Claude Code](https://dev.to/grepzero/how-to-build-a-production-ready-app-with-claude-code-me5)
-- [What I Learned About PDAs in a Week of Building on Solana](https://dev.to/lymah/what-i-learned-about-pdas-in-a-week-of-building-on-solana-4n51)
-- [7 AI-Native Shifts Beyond the Horseless Carriage](https://dev.to/turtleand/7-ai-native-shifts-beyond-the-horseless-carriage-4kbe)
-- [Monitoring Tools for React Apps — Which One Do You Actually Need?](https://dev.to/kushang_tailor/monitoring-tools-for-react-apps-which-one-do-you-actually-need-234e)
+- [Cursor Rules That Actually Improve AI Output &lpar;.mdc Project Rules&rpar;](https://dev.to/nongdyz_d9c3069b1acb2a08c/cursor-rules-that-actually-improve-ai-output-mdc-project-rules-50cg)
+- [I open-sourced DeltaPulse Bot — $500 Per Day Momentum-Driven Polymarket Trader](https://dev.to/soulcrancerdev/i-open-sourced-deltapulse-bot-500-per-day-momentum-driven-polymarket-trader-ppd)
+- [Building My Personal Website From Scratch: Tech Stack, Architecture, and Lessons Learned](https://dev.to/shubham399/building-my-personal-website-from-scratch-tech-stack-architecture-and-lessons-learned-544m)
+- [what room to breathe makes room for](https://dev.to/shrouwoods/what-room-to-breathe-makes-room-for-g1l)
+- [I Built a Browser-Only HTML Entity Encoder/Decoder — Named, Decimal &amp; Hex, 246 Tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-html-entity-encoderdecoder-named-decimal-hex-246-tests-132a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
