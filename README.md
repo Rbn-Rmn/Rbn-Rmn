@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The same number decides whether an epidemic spreads, a brain thinks, or a chemical soup makes itself](https://dev.to/poushwell/the-same-number-decides-whether-an-epidemic-spreads-a-brain-thinks-or-a-chemical-soup-makes-itself-281e)
-- [crookcrypto.xyz Scammed Me $2,890.35 — Malicious Interface Used](https://dev.to/sfetwt3/crookcryptoxyz-scammed-me-289035-malicious-interface-used-21i9)
-- [Optimizing Guitar Chord Tab Rendering: Simplifying Web and App Display with Efficient, Code-Light Solutions](https://dev.to/maxgeris/optimizing-guitar-chord-tab-rendering-simplifying-web-and-app-display-with-efficient-code-light-4oo4)
-- [Branch Agent: Git-Style Branching for LLM Conversations](https://dev.to/harishkotra/branch-agent-git-style-branching-for-llm-conversations-5c61)
-- [Frugal Architect for SIers: Reflections from AWS GameDay](https://dev.to/rbcn/frugal-architect-for-siers-reflections-from-aws-gameday-2lbe)
+- [RFC 1071 Checksum Explained: x64 Assembly Implementation](https://dev.to/jm00nj/rfc-1071-checksum-explained-x64-assembly-implementation-1ebj)
+- [How Long Does MVP Development Really Take?](https://dev.to/6sensehq/how-long-does-mvp-development-really-take-1hk6)
+- [Celebrity Problem](https://dev.to/jaspreet_singh_86ae1740ac/celebrity-problem-2kma)
+- [Building a Low-Level ICMP Sniffer in x64 Assembly &lpar;Raw Sockets&rpar;](https://dev.to/jm00nj/building-a-low-level-icmp-sniffer-in-x64-assembly-raw-sockets-5128)
+- [7 months building an open-source chess tool. Here&#39;s what actually happened.](https://dev.to/bilgegates/7-months-building-an-open-source-chess-tool-heres-what-actually-happened-1g60)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
