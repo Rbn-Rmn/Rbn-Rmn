@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Title: Building an Interactive &quot;X-Ray&quot; Pipeline for 3D Game Assets in Three.js](https://dev.to/thebyteomi/title-building-an-interactive-x-ray-pipeline-for-3d-game-assets-in-threejs-o5c)
-- [Rodando Classic ASP no Linux em 2026](https://dev.to/lucas_guimaraes/rodando-classic-asp-no-linux-em-2026-1dep)
-- [I added an in-app currency to my indie macOS screen-time app](https://dev.to/quietware/i-added-an-in-app-currency-to-my-indie-macos-screen-time-app-1i9i)
-- [A provider outage can expose how deeply application code depends on a single feature-flag SDK.](https://dev.to/krishan_sharma_561a52817e/founder-and-maintainer-of-flaglint-5adb)
-- [Hello World](https://dev.to/alberttocastro/hello-world-3i20)
+- [Two Years to Feel the Need. One Night to Fix It.](https://dev.to/robert_floyddugger_6f9a4/two-years-to-feel-the-need-one-night-to-fix-it-4bhb)
+- [how to build a CJK/IME regression suite for a terminal or editor app](https://dev.to/greymothjp/how-to-build-a-cjkime-regression-suite-for-a-terminal-or-editor-app-c9m)
+- [We Let Sci-Fi Authors Code AI For Us](https://dev.to/raphink/we-let-sci-fi-authors-code-ai-for-us-1j1e)
+- [Why your AI coding agent ships confident, slightly-wrong code &lpar;and why rewording the prompt never fixes it&rpar;](https://dev.to/anisa_agenticai/why-your-ai-coding-agent-ships-confident-slightly-wrong-code-and-why-rewording-the-prompt-never-4i9a)
+- [The stale context problem: why your AI doesn&#39;t know what time it is](https://dev.to/immanuel_gabriel_341393bf/the-stale-context-problem-why-your-ai-doesnt-know-what-time-it-is-525i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
