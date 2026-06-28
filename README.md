@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [RFC 1071 Checksum Explained: x64 Assembly Implementation](https://dev.to/jm00nj/rfc-1071-checksum-explained-x64-assembly-implementation-1ebj)
-- [How Long Does MVP Development Really Take?](https://dev.to/6sensehq/how-long-does-mvp-development-really-take-1hk6)
-- [Celebrity Problem](https://dev.to/jaspreet_singh_86ae1740ac/celebrity-problem-2kma)
-- [Building a Low-Level ICMP Sniffer in x64 Assembly &lpar;Raw Sockets&rpar;](https://dev.to/jm00nj/building-a-low-level-icmp-sniffer-in-x64-assembly-raw-sockets-5128)
-- [7 months building an open-source chess tool. Here&#39;s what actually happened.](https://dev.to/bilgegates/7-months-building-an-open-source-chess-tool-heres-what-actually-happened-1g60)
+- [Twitter Bookmark Organizer](https://dev.to/banh/how-i-built-a-secure-rest-api-to-organize-my-twitter-bookmarks-j96)
+- [Best Hosting Platforms for Next.js in 2026: Who Actually Handles ISR &amp; PPR Correctly?](https://dev.to/muhammadalisma/best-hosting-platforms-for-nextjs-in-2026-who-actually-handles-isr-ppr-correctly-534g)
+- [How Stylish Text Generators Work: Understanding Unicode Fonts](https://dev.to/fontedeletra_13ad9616eacf/how-stylish-text-generators-work-understanding-unicode-fonts-3e11)
+- [Why Semantic HTML is a Superpower for Your Website.](https://dev.to/gladwell_wathuti/why-semantic-html-is-a-superpower-for-your-website-1hoh)
+- [I Taught Claude Code to Speak Kiro](https://dev.to/coderhisham/i-taught-claude-code-to-speak-kiro-149i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
