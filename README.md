@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Ship a New Data Scraper Every Few Days. Here Is What I Have Learned](https://dev.to/scrapemint/i-ship-a-new-data-scraper-every-few-days-here-is-what-i-have-learned-49ph)
-- [A flat per-call endpoint for summarize / classify / extract in your n8n and Make automations](https://dev.to/chenxiao5580cmd/a-flat-per-call-endpoint-for-summarize-classify-extract-in-your-n8n-and-make-automations-548h)
-- [A homemade CI/CD pipeline with GitHub Actions](https://dev.to/riusmax/a-homemade-cicd-pipeline-with-github-actions-1bl5)
-- [How I Built GitPulse: A Cinematic Developer Storyteller &lpar;and why standard GitHub profiles are boring&rpar;](https://dev.to/rahul_agarwal18/how-i-built-gitpulse-a-cinematic-developer-storyteller-and-why-standard-github-profiles-are-1ano)
-- [I built a free UAE calculator platform that runs on live government data](https://dev.to/adadae/i-built-a-free-uae-calculator-platform-that-runs-on-live-government-data-573e)
+- [The same number decides whether an epidemic spreads, a brain thinks, or a chemical soup makes itself](https://dev.to/poushwell/the-same-number-decides-whether-an-epidemic-spreads-a-brain-thinks-or-a-chemical-soup-makes-itself-281e)
+- [crookcrypto.xyz Scammed Me $2,890.35 — Malicious Interface Used](https://dev.to/sfetwt3/crookcryptoxyz-scammed-me-289035-malicious-interface-used-21i9)
+- [Optimizing Guitar Chord Tab Rendering: Simplifying Web and App Display with Efficient, Code-Light Solutions](https://dev.to/maxgeris/optimizing-guitar-chord-tab-rendering-simplifying-web-and-app-display-with-efficient-code-light-4oo4)
+- [Branch Agent: Git-Style Branching for LLM Conversations](https://dev.to/harishkotra/branch-agent-git-style-branching-for-llm-conversations-5c61)
+- [Frugal Architect for SIers: Reflections from AWS GameDay](https://dev.to/rbcn/frugal-architect-for-siers-reflections-from-aws-gameday-2lbe)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
