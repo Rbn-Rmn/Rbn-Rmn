@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Clicking Through the AWS Pricing Calculator. Now I Just Describe the Architecture.](https://dev.to/amaanx86/i-stopped-clicking-through-the-aws-pricing-calculator-now-i-just-describe-the-architecture-2leg)
-- [How to grow in crypto in 2026](https://dev.to/famesellernet/how-to-grow-in-crypto-in-2026-m6e)
-- [Stop Copying shadcn Components Across Projects — Use This Turborepo Starter Instead](https://dev.to/sharathmohan007/stop-copying-shadcn-components-across-projects-use-this-turborepo-starter-instead-3ma1)
-- [PDF::Make - PDF Generation, Extraction and Modification.](https://dev.to/lnation/pdfmake-pdf-generation-extraction-and-modification-4696)
-- [FastAPI Crash Course: Build a CRUD REST API in ~40 Lines of Python](https://dev.to/mihirmohapatra/fastapi-crash-course-build-a-crud-rest-api-in-40-lines-of-python-2m0)
+- [Project AEGIS: Building India’s First AI Crisis Command System With Hindsight Memory](https://dev.to/zubair-03222006/project-aegis-building-indias-first-ai-crisis-command-system-with-hindsight-memory-33m5)
+- [Building a Countdown Timer CLI in Python — time, finally, mock, and Testing Exceptions](https://dev.to/uya0526design/building-a-countdown-timer-cli-in-python-time-finally-mock-and-testing-exceptions-da4)
+- [n8n Notion Node: Read, Create, Update, and Search Database Pages &lpar;+ Free JSON&rpar;](https://dev.to/pirateprentice/n8n-notion-node-read-create-update-and-search-database-pages-free-json-1ho3)
+- [Stable Screenshot Tests and Flow Benchmarks in KMP](https://dev.to/theaxcode/stable-screenshot-tests-and-flow-benchmarks-in-kmp-20pb)
+- [Qwen-AgentWorld Trains a Language Model as a World Model for RL Agents: World Model as a Decoupled RL Simulator](https://dev.to/pueding/qwen-agentworld-trains-a-language-model-as-a-world-model-for-rl-agents-world-model-as-a-decoupled-3ea2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
