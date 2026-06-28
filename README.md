@@ -133,15 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Run Reliable Local LLM Agents on an RTX 3090: A Benchmark &lpar;5 Models, Priced in Watts&rpar;](https://dev.to/sikamikanikobg/how-to-run-reliable-local-llm-agents-on-an-rtx-3090-a-benchmark-5-models-priced-in-watts-15d0)
-- [I built a free planting calendar with 365 daily pages using AI](https://dev.to/gavinbuilds/i-built-a-free-planting-calendar-with-365-daily-pages-using-ai-5881)
-- [I&#39;ve been thinking about building a vehicle rental platform, but I&#39;m hesitant because there are already so many established apps in the market.
-
-I&#39;m curious to hear from people who have actually rented bikes or cars.
-
-What do you dislike about the current](https://dev.to/krish_dhola_012f8a804c52c/ive-been-thinking-about-building-a-vehicle-rental-platform-but-im-hesitant-because-there-are-4iok)
-- [Absolute Revolution in Assistants, ChuroAI.](https://dev.to/mathobsession/absolute-revolution-in-assistants-churoai-p7b)
-- [Context Engineering Is the New Prompt Engineering](https://dev.to/yash_sonawane25/context-engineering-is-the-new-prompt-engineering-556h)
+- [I Stopped Clicking Through the AWS Pricing Calculator. Now I Just Describe the Architecture.](https://dev.to/amaanx86/i-stopped-clicking-through-the-aws-pricing-calculator-now-i-just-describe-the-architecture-2leg)
+- [How to grow in crypto in 2026](https://dev.to/famesellernet/how-to-grow-in-crypto-in-2026-m6e)
+- [Stop Copying shadcn Components Across Projects — Use This Turborepo Starter Instead](https://dev.to/sharathmohan007/stop-copying-shadcn-components-across-projects-use-this-turborepo-starter-instead-3ma1)
+- [PDF::Make - PDF Generation, Extraction and Modification.](https://dev.to/lnation/pdfmake-pdf-generation-extraction-and-modification-4696)
+- [FastAPI Crash Course: Build a CRUD REST API in ~40 Lines of Python](https://dev.to/mihirmohapatra/fastapi-crash-course-build-a-crud-rest-api-in-40-lines-of-python-2m0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
