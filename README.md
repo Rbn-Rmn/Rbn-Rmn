@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Twitter Bookmark Organizer](https://dev.to/banh/how-i-built-a-secure-rest-api-to-organize-my-twitter-bookmarks-j96)
-- [Best Hosting Platforms for Next.js in 2026: Who Actually Handles ISR &amp; PPR Correctly?](https://dev.to/muhammadalisma/best-hosting-platforms-for-nextjs-in-2026-who-actually-handles-isr-ppr-correctly-534g)
-- [How Stylish Text Generators Work: Understanding Unicode Fonts](https://dev.to/fontedeletra_13ad9616eacf/how-stylish-text-generators-work-understanding-unicode-fonts-3e11)
-- [Why Semantic HTML is a Superpower for Your Website.](https://dev.to/gladwell_wathuti/why-semantic-html-is-a-superpower-for-your-website-1hoh)
-- [I Taught Claude Code to Speak Kiro](https://dev.to/coderhisham/i-taught-claude-code-to-speak-kiro-149i)
+- [Title: Building an Interactive &quot;X-Ray&quot; Pipeline for 3D Game Assets in Three.js](https://dev.to/thebyteomi/title-building-an-interactive-x-ray-pipeline-for-3d-game-assets-in-threejs-o5c)
+- [Rodando Classic ASP no Linux em 2026](https://dev.to/lucas_guimaraes/rodando-classic-asp-no-linux-em-2026-1dep)
+- [I added an in-app currency to my indie macOS screen-time app](https://dev.to/quietware/i-added-an-in-app-currency-to-my-indie-macos-screen-time-app-1i9i)
+- [A provider outage can expose how deeply application code depends on a single feature-flag SDK.](https://dev.to/krishan_sharma_561a52817e/founder-and-maintainer-of-flaglint-5adb)
+- [Hello World](https://dev.to/alberttocastro/hello-world-3i20)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
