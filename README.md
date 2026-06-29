@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents](https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e)
-- [Ditch WebSockets: Real-Time React Data with SSE ⚡](https://dev.to/iprajapatiparesh/ditch-websockets-real-time-react-data-with-sse-26ek)
-- [Trade-off: The First Word I Was Told to Carry for Life](https://dev.to/chaesang/trade-off-the-first-word-i-was-told-to-carry-for-life-2mjk)
-- [Streamlining Gladly Task Creation with Apex Code](https://dev.to/sahil_khurana_486f374ecf2/streamlining-gladly-task-creation-with-apex-code-c79)
-- [Title](https://dev.to/binarywarrior365/title-4n2n)
+- [A Green Frontend Pipeline Is Not the Same as a Safe Release](https://dev.to/mellowthunder735/a-green-frontend-pipeline-is-not-the-same-as-a-safe-release-3i4g)
+- [File storage in Node.js without a framework — a cleaner approach](https://dev.to/ramiroestrellac/file-storage-in-nodejs-without-a-framework-a-cleaner-approach-l20)
+- [Build Your First MCP Server in 30 Minutes](https://dev.to/kalpesh_parihar/build-your-first-mcp-server-in-30-minutes-2o3o)
+- [The Browser Testing Problems That Appear After Your Test Suite Starts Growing](https://dev.to/sleepyfalcon247/the-browser-testing-problems-that-appear-after-your-test-suite-starts-growing-3864)
+- [Einrichten eines Kopia-SFTP-Repository und Erstellen des ersten Snapshot mit Kopia CLI](https://dev.to/jeromejanicot/einrichten-eines-kopia-sftp-repository-und-erstellen-des-ersten-snapshot-mit-kopia-cli-35c1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
