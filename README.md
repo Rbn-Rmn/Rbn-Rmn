@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built 9 Production-Ready Telegram Bots in Python — Full Open Source](https://dev.to/castanderness/i-built-9-production-ready-telegram-bots-in-python-full-open-source-1mco)
-- [Your Next.js Deploy Was Green. Did Signup Get Worse?](https://dev.to/jakexkim/your-nextjs-deploy-was-green-did-signup-get-worse-5hf6)
-- [How I Shipped an iOS App in One Weekend Using Only AI &lpar;2026&rpar;](https://dev.to/hirak8/how-i-shipped-an-ios-app-in-one-weekend-using-only-ai-2026-3of8)
-- [How I built a production mobile app boilerplate in two weeks without writing a line of frontend code](https://dev.to/dgit/how-i-built-a-production-mobile-app-boilerplate-in-two-weeks-without-writing-a-line-of-frontend-code-2moa)
-- [Open GitHub Markdown as a Structured Workspace](https://dev.to/deminds/open-github-markdown-as-a-structured-workspace-2a3n)
+- [AI took me somewhere new, and proved me wrong](https://dev.to/olliechurch/ai-took-me-somewhere-new-and-proved-me-wrong-169i)
+- [I Built My Personal Portfolio Website with GitHub Pages](https://dev.to/xdk0d3r/i-built-my-personal-portfolio-website-with-github-pages-95f)
+- [Affiliate Marketing for Developers](https://dev.to/alexmarker1231/affiliate-marketing-for-developers-1mj)
+- [Designing a strongly-consistent event exchange on Amazon Aurora DSQL](https://dev.to/saatwik_kumaryadav_8b656/designing-a-strongly-consistent-event-exchange-on-amazon-aurora-dsql-2bi)
+- [Is AI making us better developers, or is it just making us lazy reviewers? 🤖⚠️](https://dev.to/__rahul_singh__/is-ai-making-us-better-developers-or-is-it-just-making-us-lazy-reviewers-lc1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
