@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Cx Dev Log — 2026-06-28](https://dev.to/commenterthe9/cx-dev-log-2026-06-28-48oe)
-- [Circuit Breaker and Bulkhead Thresholds You Can Tune Live &lpar;Kiponos Java SDK&rpar;](https://dev.to/kiponos/circuit-breaker-and-bulkhead-thresholds-you-can-tune-live-kiponos-java-sdk-1hai)
-- [hermes-memory-installer: System Metrics, Auto-Archive, Token Rotation, Dead-Letter Replay, and Prof](https://dev.to/manoir_yantai_f22f01340f0/hermes-memory-installer-system-metrics-auto-archive-token-rotation-dead-letter-replay-and-prof-4igl)
-- [Agentic incident response is where autonomy meets the pager](https://dev.to/pvgomes/agentic-incident-response-is-where-autonomy-meets-the-pager-31h5)
-- [&quot;Claude Code &#39;400: no low surrogate in string&#39; on every turn: repairing a permanently broken session transcript&quot;](https://dev.to/hexisteme/claude-code-400-no-low-surrogate-in-string-on-every-turn-repairing-a-permanently-broken-dcp)
+- [Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents](https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e)
+- [Ditch WebSockets: Real-Time React Data with SSE ⚡](https://dev.to/iprajapatiparesh/ditch-websockets-real-time-react-data-with-sse-26ek)
+- [Trade-off: The First Word I Was Told to Carry for Life](https://dev.to/chaesang/trade-off-the-first-word-i-was-told-to-carry-for-life-2mjk)
+- [Streamlining Gladly Task Creation with Apex Code](https://dev.to/sahil_khurana_486f374ecf2/streamlining-gladly-task-creation-with-apex-code-c79)
+- [Title](https://dev.to/binarywarrior365/title-4n2n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
