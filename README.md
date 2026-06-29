@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [A Green Frontend Pipeline Is Not the Same as a Safe Release](https://dev.to/mellowthunder735/a-green-frontend-pipeline-is-not-the-same-as-a-safe-release-3i4g)
-- [File storage in Node.js without a framework — a cleaner approach](https://dev.to/ramiroestrellac/file-storage-in-nodejs-without-a-framework-a-cleaner-approach-l20)
-- [Build Your First MCP Server in 30 Minutes](https://dev.to/kalpesh_parihar/build-your-first-mcp-server-in-30-minutes-2o3o)
-- [The Browser Testing Problems That Appear After Your Test Suite Starts Growing](https://dev.to/sleepyfalcon247/the-browser-testing-problems-that-appear-after-your-test-suite-starts-growing-3864)
-- [Einrichten eines Kopia-SFTP-Repository und Erstellen des ersten Snapshot mit Kopia CLI](https://dev.to/jeromejanicot/einrichten-eines-kopia-sftp-repository-und-erstellen-des-ersten-snapshot-mit-kopia-cli-35c1)
+- [I Built 9 Production-Ready Telegram Bots in Python — Full Open Source](https://dev.to/castanderness/i-built-9-production-ready-telegram-bots-in-python-full-open-source-1mco)
+- [Your Next.js Deploy Was Green. Did Signup Get Worse?](https://dev.to/jakexkim/your-nextjs-deploy-was-green-did-signup-get-worse-5hf6)
+- [How I Shipped an iOS App in One Weekend Using Only AI &lpar;2026&rpar;](https://dev.to/hirak8/how-i-shipped-an-ios-app-in-one-weekend-using-only-ai-2026-3of8)
+- [How I built a production mobile app boilerplate in two weeks without writing a line of frontend code](https://dev.to/dgit/how-i-built-a-production-mobile-app-boilerplate-in-two-weeks-without-writing-a-line-of-frontend-code-2moa)
+- [Open GitHub Markdown as a Structured Workspace](https://dev.to/deminds/open-github-markdown-as-a-structured-workspace-2a3n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
