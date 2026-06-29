@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI took me somewhere new, and proved me wrong](https://dev.to/olliechurch/ai-took-me-somewhere-new-and-proved-me-wrong-169i)
-- [I Built My Personal Portfolio Website with GitHub Pages](https://dev.to/xdk0d3r/i-built-my-personal-portfolio-website-with-github-pages-95f)
-- [Affiliate Marketing for Developers](https://dev.to/alexmarker1231/affiliate-marketing-for-developers-1mj)
-- [Designing a strongly-consistent event exchange on Amazon Aurora DSQL](https://dev.to/saatwik_kumaryadav_8b656/designing-a-strongly-consistent-event-exchange-on-amazon-aurora-dsql-2bi)
-- [Is AI making us better developers, or is it just making us lazy reviewers? 🤖⚠️](https://dev.to/__rahul_singh__/is-ai-making-us-better-developers-or-is-it-just-making-us-lazy-reviewers-lc1)
+- [how do you divide big instruction into small data set for large projects?](https://dev.to/whmcsexpert/how-do-you-divide-big-instruction-into-small-data-set-for-large-projects-23ec)
+- [Your Meta CAPI events from a Telegram bot are losing attribution. Here&#39;s the fix.](https://dev.to/lamas51/your-meta-capi-events-from-a-telegram-bot-are-losing-attribution-heres-the-fix-5c07)
+- [AI Code Assistants: Creating Efficiency or Dependency?](https://dev.to/merbayerp/ai-code-assistants-creating-efficiency-or-dependency-4lba)
+- [I got tired of vibe investing, so I built an AI committee that shows its work](https://dev.to/campnoumiracle2022/i-got-tired-of-vibe-investing-so-i-built-an-ai-committee-that-shows-its-work-44md)
+- [Atlarix vs opencode on Terminal-Bench 2.0 — same model, only the harness changes &lpar;k=1, receipts included&rpar;](https://dev.to/amariahak/atlarix-vs-opencode-on-terminal-bench-20-same-model-only-the-harness-changes-k1-receipts-54nk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
