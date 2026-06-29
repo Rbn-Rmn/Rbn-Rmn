@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building CIS-Hardened, SBOM-Attested CentOS 9 Golden Images with Packer, QEMU and PingAccess - entirely on WSL2](https://dev.to/darkedges/uilding-cis-hardened-sbom-attested-centos-9-golden-images-with-packer-qemu-and-pingaccess--348n)
-- [How I Built a Visa Tracker with Django, Aurora PostgreSQL, and react](https://dev.to/elias_benfridja_41f2f87fe/how-i-built-a-visa-tracker-with-django-aurora-postgresql-and-react-3ijn)
-- [How I Built a Production Ready Microservice Notification System with NestJS, Redis, Bull Queues, and Docker](https://dev.to/peacemelodi/how-i-built-a-production-ready-microservice-notification-system-with-nestjs-redis-bull-queues-aa7)
-- [Stop Hardcoding Hex #d9d9d9 In Your CSS](https://dev.to/asds/stop-hardcoding-hex-d9d9d9-in-your-css-45ci)
-- [Every Dream Has a Limit](https://dev.to/landb/every-dream-has-a-limit-5718)
+- [Cx Dev Log — 2026-06-28](https://dev.to/commenterthe9/cx-dev-log-2026-06-28-48oe)
+- [Circuit Breaker and Bulkhead Thresholds You Can Tune Live &lpar;Kiponos Java SDK&rpar;](https://dev.to/kiponos/circuit-breaker-and-bulkhead-thresholds-you-can-tune-live-kiponos-java-sdk-1hai)
+- [hermes-memory-installer: System Metrics, Auto-Archive, Token Rotation, Dead-Letter Replay, and Prof](https://dev.to/manoir_yantai_f22f01340f0/hermes-memory-installer-system-metrics-auto-archive-token-rotation-dead-letter-replay-and-prof-4igl)
+- [Agentic incident response is where autonomy meets the pager](https://dev.to/pvgomes/agentic-incident-response-is-where-autonomy-meets-the-pager-31h5)
+- [&quot;Claude Code &#39;400: no low surrogate in string&#39; on every turn: repairing a permanently broken session transcript&quot;](https://dev.to/hexisteme/claude-code-400-no-low-surrogate-in-string-on-every-turn-repairing-a-permanently-broken-dcp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
