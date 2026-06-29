@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [how do you divide big instruction into small data set for large projects?](https://dev.to/whmcsexpert/how-do-you-divide-big-instruction-into-small-data-set-for-large-projects-23ec)
-- [Your Meta CAPI events from a Telegram bot are losing attribution. Here&#39;s the fix.](https://dev.to/lamas51/your-meta-capi-events-from-a-telegram-bot-are-losing-attribution-heres-the-fix-5c07)
-- [AI Code Assistants: Creating Efficiency or Dependency?](https://dev.to/merbayerp/ai-code-assistants-creating-efficiency-or-dependency-4lba)
-- [I got tired of vibe investing, so I built an AI committee that shows its work](https://dev.to/campnoumiracle2022/i-got-tired-of-vibe-investing-so-i-built-an-ai-committee-that-shows-its-work-44md)
-- [Atlarix vs opencode on Terminal-Bench 2.0 — same model, only the harness changes &lpar;k=1, receipts included&rpar;](https://dev.to/amariahak/atlarix-vs-opencode-on-terminal-bench-20-same-model-only-the-harness-changes-k1-receipts-54nk)
+- [Abandoning Abstractions: Manually Crafting EtherNet/IP Packets Almost Broke Me](https://dev.to/null_saint/abandoning-abstractions-manually-crafting-ethernetip-packets-almost-broke-me-1b2k)
+- [More Watts, Less Light](https://dev.to/vystartasv/more-watts-less-light-53ne)
+- [How Microsoft Excel Quietly Breaks Your JSON Imports &lpar;And How to Fix It&rpar;](https://dev.to/atqiyanabila01/how-microsoft-excel-quietly-breaks-your-json-imports-and-how-to-fix-it-1ci0)
+- [Modeling a Creator SaaS in a Single DynamoDB Table](https://dev.to/jwambui/exploring-single-h38)
+- [Common Security Vulnerabilities in Nigerian Web Apps — And How to Fix Them](https://dev.to/zikarelhub/common-security-vulnerabilities-in-nigerian-web-apps-and-how-to-fix-them-42m8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
