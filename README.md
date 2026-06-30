@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Linux Logs Explained Simply](https://dev.to/sreekanth_kuruba_91721e5d/linux-logs-explained-simply-3pjn)
-- [Testing Management Tools Compared: Real-World Developer Examples](https://dev.to/andrecarbajal/testing-management-tools-compared-real-world-developer-examples-4hk4)
-- [Two Kubernetes Decisions Nobody Writes About Honestly](https://dev.to/mrinal_narang_13a3d00eb37/two-kubernetes-decisions-nobody-writes-about-honestly-29fb)
-- [Customizing D365 Sales — For Our Own Sales Team &lpar;Customer Zero&rpar; Preparation](https://dev.to/tecturajpndx/customizing-d365-sales-for-our-own-sales-team-customer-zero-preparation-56f9)
-- [Why Your Favicon Generator Probably Uploads Your Logo to a Server](https://dev.to/jamiepark-design/why-your-favicon-generator-probably-uploads-your-logo-to-a-server-3e1o)
+- [WebRTC 홈캠 앱: WebSocket 시그널링 서버 구축 경험](https://dev.to/kys7442/webrtc-homkaem-aeb-websocket-sigeuneolring-seobeo-gucug-gyeongheom-1ah4)
+- [The Paywall That Wasn&#39;t: Debugging a 919-Video Leak on WordPress](https://dev.to/highcenburg/the-paywall-that-wasnt-debugging-a-919-video-leak-on-wordpress-4jae)
+- [Why Your Team Feels Slow &lpar;Even If Everyone Is Good&rpar;](https://dev.to/gavincettolo/why-your-team-feels-slow-even-if-everyone-is-good-570e)
+- [Beam Up: CLI to deploy static sites](https://dev.to/railsdesigner/beam-up-cli-to-deploy-static-sites-2gjo)
+- [Why Do AI Projects Struggle to Take Root in Enterprises?](https://dev.to/dufrence/why-do-ai-projects-struggle-to-take-root-in-enterprises-2f74)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
