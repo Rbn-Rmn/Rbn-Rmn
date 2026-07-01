@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Juice Generates CSS Instead of Owning It](https://dev.to/stinklewinks/why-juice-generates-css-instead-of-owning-it-gk)
-- [Your AI Isn&#39;t Racist, It Just Read a Lot of Bad History](https://dev.to/lovestaco/your-ai-isnt-racist-it-just-read-a-lot-of-bad-history-4l5b)
-- [Faster AI training by quietly cloning the model](https://dev.to/breachprotocol/faster-ai-training-by-quietly-cloning-the-model-1nb3)
-- [I Built an AI Security Scanner — Then Found a Bug in My Own Detector](https://dev.to/nar1frames/i-built-an-ai-security-scanner-then-found-a-bug-in-my-own-detector-4jeb)
-- [I Built an AI Security Scanner — Then Found a Bug in My Own Detector](https://dev.to/nar1frames/i-built-an-ai-security-scanner-then-found-a-bug-in-my-own-detector-140a)
+- [How I Built a Real-Time Multiplayer Prediction Game with Next.js, Node, and BigInt Suffix Scaling](https://dev.to/alexdegerman/how-i-built-a-real-time-multiplayer-prediction-game-with-nextjs-node-and-bigint-suffix-scaling-2pa3)
+- [Why Your Pages Aren&#39;t Showing Up on Google &lpar;And How I Fixed It&rpar;](https://dev.to/momen_abdelhafez_7bdf38eb/why-your-pages-arent-showing-up-on-google-and-how-i-fixed-it-4pii)
+- [Corvorum OS 1.0 - Sistema Operativo Tecnomántico](https://dev.to/technomantus_corvi/corvorum-os-10-sistema-operativo-tecnomantico-68h)
+- [Building Better Power BI Models; A Guide to Relationships, Fact Tables, Star Schema, and Joins](https://dev.to/mugendi_mungathia_ad20ca/building-better-power-bi-models-a-guide-to-relationships-fact-tables-star-schema-and-joins-12g5)
+- [Sprint 4 closed: GitHub Integration](https://dev.to/meronq/sprint-4-closed-github-integration-5be)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
