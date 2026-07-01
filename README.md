@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why I stopped trying to grow and started trying to help — and what happened to XEdge&#39;s traffic](https://dev.to/harsha_kumar/why-i-stopped-trying-to-grow-and-started-trying-to-help-and-what-happened-to-xedges-traffic-3ajb)
-- [The Google Merchant API migration has a silent mispricing trap &lpar;Content API shuts down Aug 18, 2026&rpar;](https://dev.to/flarecanary/the-google-merchant-api-migration-has-a-silent-mispricing-trap-content-api-shuts-down-aug-18-2026-2gkn)
-- [Modeling Supply Chain Evidence: Condition, Asset, and Custody Data Schemas for IoT Hardware](https://dev.to/applekoiot/modeling-supply-chain-evidence-condition-asset-and-custody-data-schemas-for-iot-hardware-25kj)
-- [The Python Dictionary Trick That Makes Interviewers Smile](https://dev.to/ameer_abdullah_68d48c8496/the-python-dictionary-trick-that-makes-interviewers-smile-22na)
-- [RL-driven data mixing boosts evaluation scores](https://dev.to/olaughter/rl-driven-data-mixing-boosts-evaluation-scores-3ckc)
+- [Building an Identity System for AI Agents: AgentCard and Work Records](https://dev.to/mininglamp/building-an-identity-system-for-ai-agents-agentcard-and-work-records-2i76)
+- [Sonnet 5 launches: Opus performance at lower cost](https://dev.to/devsignal/sonnet-5-launches-opus-performance-at-lower-cost-1fo9)
+- [I Made TS Compiler Graph MCP: 10x Fewer Tokens in Claude Code](https://dev.to/samchon/i-made-ts-compiler-graph-mcp-10x-fewer-tokens-in-claude-code-1aea)
+- [Bikin &quot;Otak&quot; AI Agent Bisa Diedit di Obsidian: Panduan Sinkronisasi Dua Arah untuk Pemula](https://dev.to/ardisaurus/bikin-otak-ai-agent-bisa-diedit-di-obsidian-panduan-sinkronisasi-dua-arah-untuk-pemula-4p05)
+- [AI Metrics Baseline: Prove Your Feature Works Before Scaling It](https://dev.to/jackm-singularity/ai-metrics-baseline-prove-your-feature-works-before-scaling-it-ilg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
