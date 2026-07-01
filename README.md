@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Play today’s game from Issue #2 of The Daily Context!](https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf)
-- [I Broke My SPA Fallback by Renaming a FastAPI Parameter to Satisfy a Linter](https://dev.to/arihantdeva/i-broke-my-spa-fallback-by-renaming-a-fastapi-parameter-to-satisfy-a-linter-47dh)
-- [3D-Print Your Own Fallout-Style Laser Tag Blaster on the Pico 2 W](https://dev.to/circuitrocks/3d-print-your-own-fallout-style-laser-tag-blaster-on-the-pico-2-w-53al)
-- [Claude Sonnet 5 Just Made Running Agents Cheap — What Builders Actually Need to Know](https://dev.to/galian/claude-sonnet-5-just-made-running-agents-cheap-what-builders-actually-need-to-know-11j7)
-- [Why your monitoring is missing the dumbest outages](https://dev.to/selllami/why-your-monitoring-is-missing-the-dumbest-outages-41hi)
+- [Stop re-flagging the same finding — without going silent](https://dev.to/muhammetsafak/stop-re-flagging-the-same-finding-without-going-silent-1llp)
+- [One Year](https://dev.to/brendandevenney/one-year-gbc)
+- [🦩OS June Recap: Reviewing PRs was my biggest milestone](https://dev.to/neithergalax/os-june-recap-reviewing-prs-was-my-biggest-milestone-3jh)
+- [The Hybrid Retrieval Pattern](https://dev.to/kenwalger/the-hybrid-retrieval-pattern-jno)
+- [GitOps for Homelab DNS &lpar;Dnsmasq&rpar;](https://dev.to/safesploit/gitops-for-homelab-dns-dnsmasq-5ep1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
