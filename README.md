@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [# MCP and A2A in Agentic BFSI Systems: The Complete Implementation Guide](https://dev.to/nikhil_ramank_152ca48266/-mcp-and-a2a-in-agentic-bfsi-systems-the-complete-implementation-guide-1egp)
-- [Z Function](https://dev.to/jaspreet_singh_86ae1740ac/z-function-1f5a)
-- [An AI agent design that refuses to act on what it merely assumes](https://dev.to/breachprotocol/an-ai-agent-design-that-refuses-to-act-on-what-it-merely-assumes-haa)
-- [Strict Types Won&#39;t Fix Your Lack of Understanding](https://dev.to/psypher1/strict-types-wont-fix-your-lack-of-understanding-533h)
-- [I built 3 free APIs for LLM developers — here&#39;s what I shipped and why](https://dev.to/kordhubdev/i-built-3-free-apis-for-llm-developers-heres-what-i-shipped-and-why-95c)
+- [Why Juice Generates CSS Instead of Owning It](https://dev.to/stinklewinks/why-juice-generates-css-instead-of-owning-it-gk)
+- [Your AI Isn&#39;t Racist, It Just Read a Lot of Bad History](https://dev.to/lovestaco/your-ai-isnt-racist-it-just-read-a-lot-of-bad-history-4l5b)
+- [Faster AI training by quietly cloning the model](https://dev.to/breachprotocol/faster-ai-training-by-quietly-cloning-the-model-1nb3)
+- [I Built an AI Security Scanner — Then Found a Bug in My Own Detector](https://dev.to/nar1frames/i-built-an-ai-security-scanner-then-found-a-bug-in-my-own-detector-4jeb)
+- [I Built an AI Security Scanner — Then Found a Bug in My Own Detector](https://dev.to/nar1frames/i-built-an-ai-security-scanner-then-found-a-bug-in-my-own-detector-140a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
