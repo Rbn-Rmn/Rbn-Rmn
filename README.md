@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Stop re-flagging the same finding — without going silent](https://dev.to/muhammetsafak/stop-re-flagging-the-same-finding-without-going-silent-1llp)
-- [One Year](https://dev.to/brendandevenney/one-year-gbc)
-- [🦩OS June Recap: Reviewing PRs was my biggest milestone](https://dev.to/neithergalax/os-june-recap-reviewing-prs-was-my-biggest-milestone-3jh)
-- [The Hybrid Retrieval Pattern](https://dev.to/kenwalger/the-hybrid-retrieval-pattern-jno)
-- [GitOps for Homelab DNS &lpar;Dnsmasq&rpar;](https://dev.to/safesploit/gitops-for-homelab-dns-dnsmasq-5ep1)
+- [Why I stopped trying to grow and started trying to help — and what happened to XEdge&#39;s traffic](https://dev.to/harsha_kumar/why-i-stopped-trying-to-grow-and-started-trying-to-help-and-what-happened-to-xedges-traffic-3ajb)
+- [The Google Merchant API migration has a silent mispricing trap &lpar;Content API shuts down Aug 18, 2026&rpar;](https://dev.to/flarecanary/the-google-merchant-api-migration-has-a-silent-mispricing-trap-content-api-shuts-down-aug-18-2026-2gkn)
+- [Modeling Supply Chain Evidence: Condition, Asset, and Custody Data Schemas for IoT Hardware](https://dev.to/applekoiot/modeling-supply-chain-evidence-condition-asset-and-custody-data-schemas-for-iot-hardware-25kj)
+- [The Python Dictionary Trick That Makes Interviewers Smile](https://dev.to/ameer_abdullah_68d48c8496/the-python-dictionary-trick-that-makes-interviewers-smile-22na)
+- [RL-driven data mixing boosts evaluation scores](https://dev.to/olaughter/rl-driven-data-mixing-boosts-evaluation-scores-3ckc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
