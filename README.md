@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Ambient vs Immersive XR: The Debate?](https://dev.to/gde/ambient-vs-immersive-xr-the-debate-3bh6)
-- [Understanding Rack #2 : Notes from Rebuilding Rails by Noah Gibbs](https://dev.to/shroukabozeid/understanding-rack-2-notes-from-rebuilding-rails-by-noah-gibbs-1p2b)
-- [How a 1787 Formula Picks the Next Word in ChatGPT](https://dev.to/ohmybyte/how-a-1787-formula-picks-the-next-word-in-chatgpt-37k)
-- [These Founders Skipped Graduation To Be Here](https://dev.to/dailycontext/these-founders-skipped-graduation-to-be-here-1o3d)
-- [Reading a Verified Contract You Didn&#39;t Write: A Systematic Approach](https://dev.to/pavelespitia/reading-a-verified-contract-you-didnt-write-a-systematic-approach-54d4)
+- [🚀 Introducing Prism Guard — An Open Source Frontend Architecture Intelligence Platform](https://dev.to/riturathin/introducing-prism-guard-an-open-source-frontend-architecture-intelligence-platform-5h66)
+- [compound engineering is the only AI coding idea that actually compounds](https://dev.to/jcamarate/compound-engineering-is-the-only-ai-coding-idea-that-actually-compounds-n66)
+- [Practical RAG, Part 1: The Simplest RAG That Actually Works](https://dev.to/sumanpro/practical-rag-part-1-the-simplest-rag-that-actually-works-4hm1)
+- [Your AI Agent Doesn&#39;t Need More Tools. It Needs Fewer Decisions.](https://dev.to/alaikrm/your-ai-agent-doesnt-need-more-tools-it-needs-fewer-decisions-18gf)
+- [Dockeriser une API Flask de zéro sur Ubuntu : le guide complet pour ingénieurs africains](https://dev.to/romeo_dossou_b9a9ace7ba7c/dockeriser-une-api-flask-de-zero-sur-ubuntu-le-guide-complet-pour-ingenieurs-africains-kgi)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
