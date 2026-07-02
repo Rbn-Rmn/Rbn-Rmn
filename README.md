@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How Much Autonomy Should Your AI Agent Have?](https://dev.to/rohith_kn/how-much-autonomy-should-your-ai-agent-have-4h4n)
-- [Here is a tutorial post designed for **dev.to**, focusing on a **Tool Discovery**.](https://dev.to/samchenreviews/here-is-a-tutorial-post-designed-for-devto-focusing-on-a-tool-discovery-fc3)
-- [Sniffnet: monitor your network without losing your mind to tcpdump](https://dev.to/jtorchia/sniffnet-monitor-your-network-without-losing-your-mind-to-tcpdump-3d6e)
-- [Sniffnet: monitoreá tu red sin volverte loco con tcpdump](https://dev.to/jtorchia/sniffnet-monitorea-tu-red-sin-volverte-loco-con-tcpdump-51a2)
-- [I built Injectus, a decorator-free DI container for Node, looking for early users/feedback](https://dev.to/hossam_hamdy_a981027811d6/i-built-injectus-a-decorator-free-di-container-for-node-looking-for-early-usersfeedback-1foc)
+- [Ambient vs Immersive XR: The Debate?](https://dev.to/gde/ambient-vs-immersive-xr-the-debate-3bh6)
+- [Understanding Rack #2 : Notes from Rebuilding Rails by Noah Gibbs](https://dev.to/shroukabozeid/understanding-rack-2-notes-from-rebuilding-rails-by-noah-gibbs-1p2b)
+- [How a 1787 Formula Picks the Next Word in ChatGPT](https://dev.to/ohmybyte/how-a-1787-formula-picks-the-next-word-in-chatgpt-37k)
+- [These Founders Skipped Graduation To Be Here](https://dev.to/dailycontext/these-founders-skipped-graduation-to-be-here-1o3d)
+- [Reading a Verified Contract You Didn&#39;t Write: A Systematic Approach](https://dev.to/pavelespitia/reading-a-verified-contract-you-didnt-write-a-systematic-approach-54d4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
