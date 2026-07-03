@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [PRH in practice: what Finland&#39;s registry exposes in 2026](https://dev.to/openregistry/prh-in-practice-what-finlands-registry-exposes-in-2026-4i9a)
-- [Angular performance optimization: change detection mistakes you should avoid](https://dev.to/alejandrodeveloper/angular-performance-optimization-change-detection-mistakes-you-should-avoid-3g8b)
-- [Building a Multi-Carrier Tracking API After USPS Tightened Tracking Data Access](https://dev.to/jiang_chen_d2a0bd96a51df7/building-a-multi-carrier-tracking-api-after-usps-tightened-tracking-data-access-2k4)
-- [Choosing the Right Tooling Layer for Your Agent](https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2)
-- [I Stopped Stitching Together Eventbrite, Webflow, Canva &amp; Google Forms for Every Event](https://dev.to/vikasparmar/i-stopped-stitching-together-eventbrite-webflow-canva-google-forms-for-every-event-12pf)
+- [NestJS Zero-Downtime Deployment on DigitalOcean with GitLab CI/CD and PM2](https://dev.to/fecoded/nestjs-zero-downtime-deployment-on-digitalocean-with-gitlab-cicd-and-pm2-fo7)
+- [Reading Your Data Layer at 2 AM: Glass Box vs. Black Box Queries](https://dev.to/maskdatabases/reading-your-data-layer-at-2-am-glass-box-vs-black-box-queries-57d1)
+- [I Pointed My AI Research Engine at Goldbach&#39;s Conjecture — It Found a Hidden Bias](https://dev.to/subhansh/i-pointed-my-ai-research-engine-at-goldbachs-conjecture-it-found-a-hidden-bias-44pn)
+- [I Built an AI Research Engine and It Found a Perfect Power Law in Twin Primes](https://dev.to/subhansh/i-built-an-ai-research-engine-and-it-found-a-perfect-power-law-in-twin-primes-12ba)
+- [Scarab Systems Field Lab: Same Patch, 96% Less Final Decision Context](https://dev.to/scarab-systems/scarab-systems-field-lab-same-patch-96-less-final-decision-context-16ee)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
