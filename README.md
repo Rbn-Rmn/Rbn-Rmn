@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [A Primitive Should Never Have an Opinion](https://dev.to/rabeh_arch/a-primitive-should-never-have-an-opinion-7ja)
-- [Building in Australia: An Ecosystem Deep Dive on Innovation, Investment and Competitiveness for Digital Economy Startups](https://dev.to/vmichael/building-in-australia-an-ecosystem-deep-dive-on-innovation-investment-and-competitiveness-for-429l)
-- [Designing a Reliable Wallet Engine: Event-Driven Architecture with Kafka and TypeScript](https://dev.to/tundeoladejo/designing-a-reliable-wallet-engine-event-driven-architecture-with-kafka-and-typescript-jjp)
-- [Three weeks before the enterprise contract, the voice agent wasnt operator-ready.](https://dev.to/realmarcuschen/three-weeks-before-the-enterprise-contract-the-voice-agent-wasnt-operator-ready-218c)
-- [How to Connect Claude to Your WordPress Site in 5 Minutes](https://dev.to/sid_verse/how-to-connect-claude-to-your-wordpress-site-in-5-minutes-35jl)
+- [LINQ and ZLinq in the Unity 6 Era: Avoiding GC Allocations in Large-Scale Projects](https://dev.to/gamedevtoollab/linq-and-zlinq-in-the-unity-6-era-avoiding-gc-allocations-in-large-scale-projects-36c2)
+- [Switching from Claude Code to Grok – Same Interface, Different Model](https://dev.to/dragos_roua/switching-from-claude-code-to-grok-same-interface-different-model-4kcn)
+- [5 things that surprised me building on HMRC&#39;s Making Tax Digital API](https://dev.to/taptax/5-things-that-surprised-me-building-on-hmrcs-making-tax-digital-api-4eja)
+- [Fail-open vs fail-closed: the security decision you make without realizing it](https://dev.to/khuepm/fail-open-vs-fail-closed-the-security-decision-you-make-without-realizing-it-15kl)
+- [Why Counterparty’s Fake-Pubkey Grinding Reveals the Real Boundary Between Bitcoin Consensus and…](https://dev.to/aaron_recompile/why-counterpartys-fake-pubkey-grinding-reveals-the-real-boundary-between-bitcoin-consensus-and-56gi)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
