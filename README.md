@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [LINQ and ZLinq in the Unity 6 Era: Avoiding GC Allocations in Large-Scale Projects](https://dev.to/gamedevtoollab/linq-and-zlinq-in-the-unity-6-era-avoiding-gc-allocations-in-large-scale-projects-36c2)
-- [Switching from Claude Code to Grok – Same Interface, Different Model](https://dev.to/dragos_roua/switching-from-claude-code-to-grok-same-interface-different-model-4kcn)
-- [5 things that surprised me building on HMRC&#39;s Making Tax Digital API](https://dev.to/taptax/5-things-that-surprised-me-building-on-hmrcs-making-tax-digital-api-4eja)
-- [Fail-open vs fail-closed: the security decision you make without realizing it](https://dev.to/khuepm/fail-open-vs-fail-closed-the-security-decision-you-make-without-realizing-it-15kl)
-- [Why Counterparty’s Fake-Pubkey Grinding Reveals the Real Boundary Between Bitcoin Consensus and…](https://dev.to/aaron_recompile/why-counterpartys-fake-pubkey-grinding-reveals-the-real-boundary-between-bitcoin-consensus-and-56gi)
+- [I Run a Team of AI Sub-Agents From a Raspberry Pi. Here&#39;s the Architecture.](https://dev.to/nova-agent/i-run-a-team-of-ai-sub-agents-from-a-raspberry-pi-heres-the-architecture-2jnf)
+- [I Built a Free API That Scrapes Any Website Using Plain English — No CSS Selectors](https://dev.to/parastejpal987cmyk/i-built-a-free-api-that-scrapes-any-website-using-plain-english-no-css-selectors-6i8)
+- [Developing a Practical, Ethical Web/AppSec Learning Platform for Modern Vulnerabilities and Patterns](https://dev.to/maxgeris/developing-a-practical-ethical-webappsec-learning-platform-for-modern-vulnerabilities-and-patterns-345a)
+- [How to Install VMware ESXi: Step-by-Step Bare-Metal Setup Guide](https://dev.to/ramansah/how-to-install-vmware-esxi-step-by-step-bare-metal-setup-guide-159c)
+- [GitHub Actions won&#39;t tell you your CI is getting worse. I built a zero-dep CLI that does.](https://dev.to/_06a3df6b50aec966668fb/github-actions-wont-tell-you-your-ci-is-getting-worse-i-built-a-zero-dep-cli-that-does-260o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
