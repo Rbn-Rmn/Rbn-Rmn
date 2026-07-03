@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Payment Gate That Never Sees Your Balance 🔐⚡](https://dev.to/cypriantinasheaarons/i-built-a-payment-gate-that-never-sees-your-balance-4egg)
-- [Mid-Year Backend Reset: My H2 Goals for Speed, Security, and Better Docs](https://dev.to/tahsin000/mid-year-backend-reset-my-h2-goals-for-speed-security-and-better-docs-14ap)
-- [I Built a Programming Language Where the Code is Plain English](https://dev.to/abneeshsingh21/i-built-a-programming-language-where-the-code-is-plain-english-57a2)
-- [Account Security on Solana, Made Simple](https://dev.to/100daysofsolana/account-security-on-solana-made-simple-154d)
-- [The Pragmatic Migration: Moving from AngularJS to Angular v22](https://dev.to/prestonwest/the-pragmatic-migration-moving-from-angularjs-to-angular-v22-1n0e)
+- [Not many know which part of the process needs AI!](https://dev.to/yadu989/ai-context-and-memory-management-chapter-2-3ihn)
+- [How We Vectorize 33.7M Ukrainian Court Decisions via Voyage AI](https://dev.to/overthelex/how-we-vectorize-337m-ukrainian-court-decisions-via-voyage-ai-3hlc)
+- [2 TB of Ukrainian Law + DeepSeek V3 860B on GCP: What We&#39;d Get](https://dev.to/overthelex/2-tb-of-ukrainian-law-deepseek-v3-860b-on-gcp-what-wed-get-2jj5)
+- [Local LLM Deployment, Agent Handbook, &amp; LLM Cost Reduction: Applied AI Workflows](https://dev.to/soytuber/local-llm-deployment-agent-handbook-llm-cost-reduction-applied-ai-workflows-24hf)
+- [The Best Free AI Generators in 2026: 9 Tools Actually Worth Using](https://dev.to/bachalorcoder/the-best-free-ai-generators-in-2026-9-tools-actually-worth-using-kig)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
