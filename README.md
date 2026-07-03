@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Two Megabytes for Four Lines](https://dev.to/mstrauch/two-megabytes-for-four-lines-131p)
-- [Zone 2 Cardio: Why Endurance Coaches Bring It Up Constantly &lpar;and What the Data Shows&rpar;](https://dev.to/jonas_prenissl_5eb6eaa63c/zone-2-cardio-why-endurance-coaches-bring-it-up-constantly-and-what-the-data-shows-1b69)
-- [Vulnerability Management is a Workaround for a Missing Call Graph](https://dev.to/bala_paranj_059d338e44e7e/vulnerability-management-is-a-workaround-for-a-missing-call-graph-3bp1)
-- [Launch Day!](https://dev.to/marcin_perlak_7878711509d/launch-day-17e9)
-- [Stop Writing Every Job Application Email from Scratch](https://dev.to/myogeshchavan97/stop-writing-every-job-application-email-from-scratch-2pla)
+- [PRH in practice: what Finland&#39;s registry exposes in 2026](https://dev.to/openregistry/prh-in-practice-what-finlands-registry-exposes-in-2026-4i9a)
+- [Angular performance optimization: change detection mistakes you should avoid](https://dev.to/alejandrodeveloper/angular-performance-optimization-change-detection-mistakes-you-should-avoid-3g8b)
+- [Building a Multi-Carrier Tracking API After USPS Tightened Tracking Data Access](https://dev.to/jiang_chen_d2a0bd96a51df7/building-a-multi-carrier-tracking-api-after-usps-tightened-tracking-data-access-2k4)
+- [Choosing the Right Tooling Layer for Your Agent](https://dev.to/dailycontext/choosing-the-right-tooling-layer-for-your-agent-1eg2)
+- [I Stopped Stitching Together Eventbrite, Webflow, Canva &amp; Google Forms for Every Event](https://dev.to/vikasparmar/i-stopped-stitching-together-eventbrite-webflow-canva-google-forms-for-every-event-12pf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
