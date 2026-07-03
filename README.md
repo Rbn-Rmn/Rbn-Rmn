@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building an Enterprise-Grade Real-Time Analytics Pipeline with FastAPI and TimescaleDB](https://dev.to/aman179102/building-an-enterprise-grade-real-time-analytics-pipeline-with-fastapi-and-timescaledb-57al)
-- [Open Knowledge Format &lpar;OKF&rpar;: The Markdown Standard Your AI Agents Have Been Waiting For 📚](https://dev.to/suhas_mallesh/open-knowledge-format-okf-the-markdown-standard-your-ai-agents-have-been-waiting-for-3mfb)
-- [개발 지식 없이도 외주 앱 개발 과정을 직접 점검하는 방법](https://dev.to/potenlab/gaebal-jisig-eobsido-oeju-aeb-gaebal-gwajeongeul-jigjeob-jeomgeomhaneun-bangbeob-po7)
-- [OpenAI Agents SDK 0.13 to 0.17: Three Breaking Changes You Will Hit](https://dev.to/peytongreen_dev/openai-agents-sdk-013-to-017-three-breaking-changes-you-will-hit-385e)
-- [The Right Way to Pair AI With Terraform Plans](https://dev.to/devopsaitoolkit/the-right-way-to-pair-ai-with-terraform-plans-3i1c)
+- [I Built a Payment Gate That Never Sees Your Balance 🔐⚡](https://dev.to/cypriantinasheaarons/i-built-a-payment-gate-that-never-sees-your-balance-4egg)
+- [Mid-Year Backend Reset: My H2 Goals for Speed, Security, and Better Docs](https://dev.to/tahsin000/mid-year-backend-reset-my-h2-goals-for-speed-security-and-better-docs-14ap)
+- [I Built a Programming Language Where the Code is Plain English](https://dev.to/abneeshsingh21/i-built-a-programming-language-where-the-code-is-plain-english-57a2)
+- [Account Security on Solana, Made Simple](https://dev.to/100daysofsolana/account-security-on-solana-made-simple-154d)
+- [The Pragmatic Migration: Moving from AngularJS to Angular v22](https://dev.to/prestonwest/the-pragmatic-migration-moving-from-angularjs-to-angular-v22-1n0e)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
