@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Day 56 – Mastering ClickHouse® AggregatingMergeTree: Build Faster Analytics with Pre-Aggregated Data](https://dev.to/kanishga_subramani_49ad73/day-56-mastering-clickhouser-aggregatingmergetree-build-faster-analytics-with-pre-aggregated-data-32cf)
-- [How Much Tax Do Developers Actually Pay? A 2026 Breakdown](https://dev.to/thetaxcalc/how-much-tax-do-developers-actually-pay-a-2026-breakdown-3pa7)
-- [Workflow Series &lpar;05&rpar;: Evaluation Framework — Three-Layer Testing and Trace Tracking](https://dev.to/wonderlab/workflow-series-05-evaluation-framework-three-layer-testing-and-trace-tracking-2857)
-- [The hard part of attacking an AI isn&#39;t breaking it. It&#39;s telling real harm from fake.](https://dev.to/sara_bezjak/the-hard-part-of-attacking-an-ai-isnt-breaking-it-its-telling-real-harm-from-fake-9ca)
-- [Model Context Protocol &lpar;MCP&rpar; is the Biggest AI Breakthrough Since ChatGPT](https://dev.to/rahul_agarwal18/model-context-protocol-mcp-is-the-biggest-ai-breakthrough-since-chatgpt-45ai)
+- [Two Megabytes for Four Lines](https://dev.to/mstrauch/two-megabytes-for-four-lines-131p)
+- [Zone 2 Cardio: Why Endurance Coaches Bring It Up Constantly &lpar;and What the Data Shows&rpar;](https://dev.to/jonas_prenissl_5eb6eaa63c/zone-2-cardio-why-endurance-coaches-bring-it-up-constantly-and-what-the-data-shows-1b69)
+- [Vulnerability Management is a Workaround for a Missing Call Graph](https://dev.to/bala_paranj_059d338e44e7e/vulnerability-management-is-a-workaround-for-a-missing-call-graph-3bp1)
+- [Launch Day!](https://dev.to/marcin_perlak_7878711509d/launch-day-17e9)
+- [Stop Writing Every Job Application Email from Scratch](https://dev.to/myogeshchavan97/stop-writing-every-job-application-email-from-scratch-2pla)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
