@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to make Telegram animated stickers from an SVG &lpar;no After Effects&rpar;](https://dev.to/miketogo/how-to-make-telegram-animated-stickers-from-an-svg-no-after-effects-17m1)
-- [Privacy Is Not a Feature — It&#39;s Architecture. How Swipe Cleaner Processes Everything On-Device](https://dev.to/ethanwalker89m/privacy-is-not-a-feature-its-architecture-how-swipe-cleaner-processes-everything-on-device-3e0m)
-- [HTTP finally shipped QUERY. I fired it at production and the edge called it a bot.](https://dev.to/arvavit/http-finally-shipped-query-i-fired-it-at-production-and-the-edge-called-it-a-bot-7cj)
-- [# AI Won’t Replace Developers — But Developers Who Use AI Will Replace Those Who Don’](https://dev.to/sifathossensuvo01/-ai-wont-replace-developers-but-developers-who-use-ai-will-replace-those-who-don-394l)
-- [How to give Claude or ChatGPT your entire codebase &lpar;the right way&rpar;](https://dev.to/cu_thinvreview_b2/how-to-give-claude-or-chatgpt-your-entire-codebase-the-right-way-4nbm)
+- [Why I Ditched Socket.IO for Raw WebSockets &lpar;And What I Learned&rpar;](https://dev.to/nikhilsharma6/why-i-ditched-socketio-for-raw-websockets-and-what-i-learned-55i6)
+- [I just published Postgres MCP Server in Go!](https://dev.to/akshay_gupta/i-just-published-postgres-mcp-server-in-go-10ab)
+- [Apple locked hearing assistance inside AirPods. So I built an open-source version for any earbuds.](https://dev.to/arun_kt_bb670b3a571f5efd8/apple-locked-hearing-assistance-inside-airpods-so-i-built-an-open-source-version-for-any-earbuds-2lkh)
+- [Subtraction &gt; Addition: Why the Best Meditation App Asks Nothing From You](https://dev.to/sophiacartvutw/subtraction-addition-why-the-best-meditation-app-asks-nothing-from-you-6bf)
+- [Your PDF tool is storing your files. Here&#39;s proof.](https://dev.to/muhammad_arbaz_9c42c67aef/your-pdf-tool-is-storing-your-files-heres-proof-4p9c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
