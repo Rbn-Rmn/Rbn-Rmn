@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [De x86 a ARM: la revolución silenciosa hacia una nube más verde en Microsoft Azure](https://dev.to/chainiz/de-x86-a-arm-la-revolucion-silenciosa-hacia-una-nube-mas-verde-en-microsoft-azure-5h39)
-- [SQLite Internals, Postgres 19 Checksums, &amp; PL/CBMBASIC Extension](https://dev.to/soytuber/sqlite-internals-postgres-19-checksums-plcbmbasic-extension-35ll)
-- [Building Evaluation, Cost Governance, and Observability for a Multi-Agent System in Microsoft Foundry](https://dev.to/jubinsoni/building-evaluation-cost-governance-and-observability-for-a-multi-agent-system-in-microsoft-44ha)
-- [Someone Built a Physical Gear Shifter for Claude — and It&#39;s a Better UX Lesson Than Most Software Ships](https://dev.to/xenocoregiger31/someone-built-a-physical-gear-shifter-for-claude-and-its-a-better-ux-lesson-than-most-software-m1h)
-- [From My Machine to the Cloud: Connecting Power BI to SQL Databases; PostgreSQL &lpar;Local vs Aiven&rpar;](https://dev.to/neema_kirui/from-my-machine-to-the-cloud-connecting-power-bi-to-sql-databases-postgresql-local-vs-aiven-5hc3)
+- [My Journey Into Data Analysis: From Basics to SQL](https://dev.to/nyandiatech/my-journey-into-data-analysis-from-basics-to-sql-57ip)
+- [AWS Lambda MicroVMs: El futuro del cómputo serverless explicado desde cero](https://dev.to/chainiz/aws-lambda-microvms-el-futuro-del-computo-serverless-explicado-desde-cero-1bf4)
+- [Una capa de prompts que se califica a sí misma por resultados, hace A/B testing de sus propias reescrituras, e intercambia al ganador casi sin despliegue](https://dev.to/aws-builders/una-capa-de-prompts-que-se-califica-a-si-misma-por-resultados-hace-ab-testing-de-sus-propias-131d)
+- [Run an enrollment agent from a school&#39;s admissions inbox](https://dev.to/mqasimca/run-an-enrollment-agent-from-a-schools-admissions-inbox-dia)
+- [JavaScript Object Constructor](https://dev.to/karthika_jasinska_443e83f/javascript-object-constructor-1oom)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
