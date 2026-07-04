@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Stratagems #6: Alex Walked Into an AI Compliance War Room. Every Director Watched the Dashboard. He Watched the Pipeline.](https://dev.to/xulingfeng/stratagems-6-alex-walked-into-an-ai-compliance-war-room-every-director-watched-the-dashboard-he-o99)
-- [Why 88% of Agent Pilots Die: The Infrastructure Readiness Gap Nobody Talks About](https://dev.to/paultwist/why-88-of-agent-pilots-die-the-infrastructure-readiness-gap-nobody-talks-about-mnk)
-- [Structuring a Senior Data Scientist Resume After a Chinese SOE Tenure](https://dev.to/prismresume/structuring-a-senior-data-scientist-resume-after-a-chinese-soe-tenure-596j)
-- [Hey Everyone!](https://dev.to/mujnuu/hey-everyone-1g99)
-- [The Hidden Danger in Your n8n RAG Pipeline: What Happens When You Send Internal Docs to ChatGPT?](https://dev.to/rifatkasikci/the-hidden-danger-in-your-n8n-rag-pipeline-what-happens-when-you-send-internal-docs-to-chatgpt-2b6b)
+- [Transformers — The Architecture That Changed AI &lpar;Part 1 of 3&rpar;](https://dev.to/vahid_aghajani_60ce9dbec9/transformers-the-architecture-that-changed-ai-part-1-of-3-29ac)
+- [pseudoroot, fakeroost, hakoniwa... How to deal with unpriviledge packaging?](https://dev.to/luzero/pseudoroot-fakeroost-hakoniwa-how-to-deal-with-unpriviledge-packaging-h)
+- [Integration with Lever public jobs API](https://dev.to/zsevic/integration-with-lever-public-jobs-api-2mnn)
+- [How LLM Function Calling Actually Works — From Tokens to Tool Orchestration](https://dev.to/vahid_aghajani_60ce9dbec9/how-llm-function-calling-actually-works-from-tokens-to-tool-orchestration-27fb)
+- [How to Configure DMARC Forensic Reports &lpar;RUF&rpar;: A Technical Step-by-Step Guide for Postmaster Debugging](https://dev.to/azeem_malik/how-to-configure-dmarc-forensic-reports-ruf-a-technical-step-by-step-guide-for-postmaster-li8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
