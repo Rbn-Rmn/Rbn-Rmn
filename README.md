@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My Journey Into Data Analysis: From Basics to SQL](https://dev.to/nyandiatech/my-journey-into-data-analysis-from-basics-to-sql-57ip)
-- [AWS Lambda MicroVMs: El futuro del cómputo serverless explicado desde cero](https://dev.to/chainiz/aws-lambda-microvms-el-futuro-del-computo-serverless-explicado-desde-cero-1bf4)
-- [Una capa de prompts que se califica a sí misma por resultados, hace A/B testing de sus propias reescrituras, e intercambia al ganador casi sin despliegue](https://dev.to/aws-builders/una-capa-de-prompts-que-se-califica-a-si-misma-por-resultados-hace-ab-testing-de-sus-propias-131d)
-- [Run an enrollment agent from a school&#39;s admissions inbox](https://dev.to/mqasimca/run-an-enrollment-agent-from-a-schools-admissions-inbox-dia)
-- [JavaScript Object Constructor](https://dev.to/karthika_jasinska_443e83f/javascript-object-constructor-1oom)
+- [The Safari MCP Server Could Change How Developers Debug Websites](https://dev.to/ksparth12/the-safari-mcp-server-could-change-how-developers-debug-websites-223g)
+- [Your Infrastructure Has Bugs Too: Scanning Terraform with Checkov &lpar;IaC SAST&rpar;](https://dev.to/dayan_elvisjahuirapilco/your-infrastructure-has-bugs-too-scanning-terraform-with-checkov-iac-sast-5fdk)
+- [Agentic Software Development Explained: A Frontend Developer&#39;s Learning Journey](https://dev.to/kalpick_sharma_d32ace423a/agentic-software-development-explained-a-frontend-developers-learning-journey-28a1)
+- [PaperQuire v0.3.0 — Your AI Agent&#39;s PDF Tool](https://dev.to/paperquire_e3fdb510bbe49c/paperquire-v030-your-ai-agents-pdf-tool-3c1n)
+- [Network service based on ZeroTier](https://dev.to/yumik0_chan/network-service-based-on-zerotier-4047)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
