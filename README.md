@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Wan Monitor - Tiny Failover Controller for OpenWrt](https://dev.to/ng256/wan-monitor-tiny-failover-controller-for-openwrt-4o8e)
-- [Modern Flutter Best Practices for 2026](https://dev.to/hamberluo/modern-flutter-best-practices-for-2026-56o3)
-- [Agentic AI Security: Risks, OWASP Agentic Top 10, and Defensive Patterns &lpar;2026&rpar;](https://dev.to/securecodinghub/agentic-ai-security-risks-owasp-agentic-top-10-and-defensive-patterns-2026-4a2a)
-- [Cloud-Native Security Practices for Developers: Containers, Kubernetes, and CI/CD &lpar;2026&rpar;](https://dev.to/securecodinghub/cloud-native-security-practices-for-developers-containers-kubernetes-and-cicd-2026-4lpm)
-- [Web Components vs. Iframes: A Hard Lesson in DOM Isolation Barriers](https://dev.to/bonzai2carn/web-components-vs-iframes-a-hard-lesson-in-dom-isolation-barriers-1icm)
+- [Stratagems #6: Alex Walked Into an AI Compliance War Room. Every Director Watched the Dashboard. He Watched the Pipeline.](https://dev.to/xulingfeng/stratagems-6-alex-walked-into-an-ai-compliance-war-room-every-director-watched-the-dashboard-he-o99)
+- [Why 88% of Agent Pilots Die: The Infrastructure Readiness Gap Nobody Talks About](https://dev.to/paultwist/why-88-of-agent-pilots-die-the-infrastructure-readiness-gap-nobody-talks-about-mnk)
+- [Structuring a Senior Data Scientist Resume After a Chinese SOE Tenure](https://dev.to/prismresume/structuring-a-senior-data-scientist-resume-after-a-chinese-soe-tenure-596j)
+- [Hey Everyone!](https://dev.to/mujnuu/hey-everyone-1g99)
+- [The Hidden Danger in Your n8n RAG Pipeline: What Happens When You Send Internal Docs to ChatGPT?](https://dev.to/rifatkasikci/the-hidden-danger-in-your-n8n-rag-pipeline-what-happens-when-you-send-internal-docs-to-chatgpt-2b6b)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
