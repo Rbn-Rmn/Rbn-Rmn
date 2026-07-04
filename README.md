@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Gemini Robotics-ER 1.6: Physical AI Developer Guide &lpar;2026&rpar;](https://dev.to/akaranjkar08/gemini-robotics-er-16-physical-ai-developer-guide-2026-o27)
-- [I Almost Gave Up... But One Console Log Changed Everything](https://dev.to/usama_dev/i-almost-gave-up-but-one-console-log-changed-everything-2l23)
-- [I analyzed 292 open Forward Deployed Engineer jobs. Here is the data.](https://dev.to/tech_t_e23de7b66d4559a055/i-analyzed-292-open-forward-deployed-engineer-jobs-here-is-the-data-5ekl)
-- [Stop Watching Tutorials. Start Building Projects: The Fastest Way to Learn Programming](https://dev.to/code_tocareer_5c69a8/stop-watching-tutorials-start-building-projects-the-fastest-way-to-learn-programming-3gkd)
-- [Adam: The Optimization Algorithm That Made LLMs Practical](https://dev.to/shrsv/adam-the-optimization-algorithm-that-made-llms-practical-k17)
+- [Catching AI Red-Handed in Financial Data](https://dev.to/alamshoaib134/catching-ai-red-handed-in-financial-data-346a)
+- [Why AI agents need three types of memory &lpar;and how I built all of them&rpar;](https://dev.to/pragadeesh_21/why-ai-agents-need-three-types-of-memory-and-how-i-built-all-of-them-59k3)
+- [Triage tenant maintenance requests with a property-management agent](https://dev.to/mqasimca/triage-tenant-maintenance-requests-with-a-property-management-agent-1jlm)
+- [I Built 4 FastAPI Projects in 2 Weeks — Here&#39;s What I Wish I Knew Before Starting](https://dev.to/ckepsilon/i-built-4-fastapi-projects-in-2-weeks-heres-what-i-wish-i-knew-before-starting-458k)
+- [Built an AI-Powered WAF for PHP/Laravel Apps in Africa — Here’s What It Catches](https://dev.to/kriosa/built-an-ai-powered-waf-for-phplaravel-apps-in-africa-heres-what-it-catches-4fgf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
