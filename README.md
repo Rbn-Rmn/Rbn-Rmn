@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Transformers — The Architecture That Changed AI &lpar;Part 1 of 3&rpar;](https://dev.to/vahid_aghajani_60ce9dbec9/transformers-the-architecture-that-changed-ai-part-1-of-3-29ac)
-- [pseudoroot, fakeroost, hakoniwa... How to deal with unpriviledge packaging?](https://dev.to/luzero/pseudoroot-fakeroost-hakoniwa-how-to-deal-with-unpriviledge-packaging-h)
-- [Integration with Lever public jobs API](https://dev.to/zsevic/integration-with-lever-public-jobs-api-2mnn)
-- [How LLM Function Calling Actually Works — From Tokens to Tool Orchestration](https://dev.to/vahid_aghajani_60ce9dbec9/how-llm-function-calling-actually-works-from-tokens-to-tool-orchestration-27fb)
-- [How to Configure DMARC Forensic Reports &lpar;RUF&rpar;: A Technical Step-by-Step Guide for Postmaster Debugging](https://dev.to/azeem_malik/how-to-configure-dmarc-forensic-reports-ruf-a-technical-step-by-step-guide-for-postmaster-li8)
+- [Gemini Robotics-ER 1.6: Physical AI Developer Guide &lpar;2026&rpar;](https://dev.to/akaranjkar08/gemini-robotics-er-16-physical-ai-developer-guide-2026-o27)
+- [I Almost Gave Up... But One Console Log Changed Everything](https://dev.to/usama_dev/i-almost-gave-up-but-one-console-log-changed-everything-2l23)
+- [I analyzed 292 open Forward Deployed Engineer jobs. Here is the data.](https://dev.to/tech_t_e23de7b66d4559a055/i-analyzed-292-open-forward-deployed-engineer-jobs-here-is-the-data-5ekl)
+- [Stop Watching Tutorials. Start Building Projects: The Fastest Way to Learn Programming](https://dev.to/code_tocareer_5c69a8/stop-watching-tutorials-start-building-projects-the-fastest-way-to-learn-programming-3gkd)
+- [Adam: The Optimization Algorithm That Made LLMs Practical](https://dev.to/shrsv/adam-the-optimization-algorithm-that-made-llms-practical-k17)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
