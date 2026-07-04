@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Catching AI Red-Handed in Financial Data](https://dev.to/alamshoaib134/catching-ai-red-handed-in-financial-data-346a)
-- [Why AI agents need three types of memory &lpar;and how I built all of them&rpar;](https://dev.to/pragadeesh_21/why-ai-agents-need-three-types-of-memory-and-how-i-built-all-of-them-59k3)
-- [Triage tenant maintenance requests with a property-management agent](https://dev.to/mqasimca/triage-tenant-maintenance-requests-with-a-property-management-agent-1jlm)
-- [I Built 4 FastAPI Projects in 2 Weeks — Here&#39;s What I Wish I Knew Before Starting](https://dev.to/ckepsilon/i-built-4-fastapi-projects-in-2-weeks-heres-what-i-wish-i-knew-before-starting-458k)
-- [Built an AI-Powered WAF for PHP/Laravel Apps in Africa — Here’s What It Catches](https://dev.to/kriosa/built-an-ai-powered-waf-for-phplaravel-apps-in-africa-heres-what-it-catches-4fgf)
+- [De x86 a ARM: la revolución silenciosa hacia una nube más verde en Microsoft Azure](https://dev.to/chainiz/de-x86-a-arm-la-revolucion-silenciosa-hacia-una-nube-mas-verde-en-microsoft-azure-5h39)
+- [SQLite Internals, Postgres 19 Checksums, &amp; PL/CBMBASIC Extension](https://dev.to/soytuber/sqlite-internals-postgres-19-checksums-plcbmbasic-extension-35ll)
+- [Building Evaluation, Cost Governance, and Observability for a Multi-Agent System in Microsoft Foundry](https://dev.to/jubinsoni/building-evaluation-cost-governance-and-observability-for-a-multi-agent-system-in-microsoft-44ha)
+- [Someone Built a Physical Gear Shifter for Claude — and It&#39;s a Better UX Lesson Than Most Software Ships](https://dev.to/xenocoregiger31/someone-built-a-physical-gear-shifter-for-claude-and-its-a-better-ux-lesson-than-most-software-m1h)
+- [From My Machine to the Cloud: Connecting Power BI to SQL Databases; PostgreSQL &lpar;Local vs Aiven&rpar;](https://dev.to/neema_kirui/from-my-machine-to-the-cloud-connecting-power-bi-to-sql-databases-postgresql-local-vs-aiven-5hc3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
