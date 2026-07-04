@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Vanna AI &lpar;El estándar de la industria para Text-to-SQL&rpar;](https://dev.to/julio_samuelcortezmaman/vanna-ai-el-estandar-de-la-industria-para-text-to-sql-6k2)
-- [Google Autocomplete Is a Free Keyword Research API](https://dev.to/scrapemint/google-autocomplete-is-a-free-keyword-research-api-5f7j)
-- [Big update on The Missing Manual](https://dev.to/luckyslevinkelevra/big-update-on-the-missing-manual-19g1)
-- [Injecting Version Info at Build Time in Go With -ldflags](https://dev.to/gabrielanhaia/injecting-version-info-at-build-time-in-go-with-ldflags-m9j)
-- [How I Built a 6,000-Game Web Portal with Next.js 14 &lpar;and Kept Hosting Nearly Free&rpar;](https://dev.to/anil34anil/how-i-built-a-6000-game-web-portal-with-nextjs-14-and-kept-hosting-nearly-free-2n3n)
+- [How to make Telegram animated stickers from an SVG &lpar;no After Effects&rpar;](https://dev.to/miketogo/how-to-make-telegram-animated-stickers-from-an-svg-no-after-effects-17m1)
+- [Privacy Is Not a Feature — It&#39;s Architecture. How Swipe Cleaner Processes Everything On-Device](https://dev.to/ethanwalker89m/privacy-is-not-a-feature-its-architecture-how-swipe-cleaner-processes-everything-on-device-3e0m)
+- [HTTP finally shipped QUERY. I fired it at production and the edge called it a bot.](https://dev.to/arvavit/http-finally-shipped-query-i-fired-it-at-production-and-the-edge-called-it-a-bot-7cj)
+- [# AI Won’t Replace Developers — But Developers Who Use AI Will Replace Those Who Don’](https://dev.to/sifathossensuvo01/-ai-wont-replace-developers-but-developers-who-use-ai-will-replace-those-who-don-394l)
+- [How to give Claude or ChatGPT your entire codebase &lpar;the right way&rpar;](https://dev.to/cu_thinvreview_b2/how-to-give-claude-or-chatgpt-your-entire-codebase-the-right-way-4nbm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
