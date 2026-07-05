@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AWS-native Observability for EC2 với CloudWatch Agent](https://dev.to/truong_an_cornduck/aws-native-observability-for-ec2-voi-cloudwatch-agent-275h)
-- [What Is Project Glasswing, Really? Inside Anthropic&#39;s Big Bet on AI-Powered Cyber Defense](https://dev.to/arashad_dodhiya_0e4bdba5a/what-is-project-glasswing-really-inside-anthropics-big-bet-on-ai-powered-cyber-defense-5e7k)
-- [Grouping Utterances by Speaker with ECAPA-TDNN and ONNX Runtime](https://dev.to/kiarina/grouping-utterances-by-speaker-with-ecapa-tdnn-and-onnx-runtime-411b)
-- [Self-Updating Crypto Infrastructure: Watchtower + GHCR for AI Agent Wallets](https://dev.to/walletguy/self-updating-crypto-infrastructure-watchtower-ghcr-for-ai-agent-wallets-5a4g)
-- [Unix Timestamp Cheat Sheet: Convert, Read, and Debug Like a Pro](https://dev.to/kingfujing/unix-timestamp-cheat-sheet-convert-read-and-debug-like-a-pro-1p3g)
+- [React 19 useCallback Dependencies in Multi-Tenant Dashboards: Why Your AI Feature Memoization Is Causing Stale Closures](https://dev.to/uaslimcreate/react-19-usecallback-dependencies-in-multi-tenant-dashboards-why-your-ai-feature-memoization-is-37a7)
+- [Episode 02: I Automated Before Testing. And Delayed the Delivery](https://dev.to/lflucasferreira/episode-02-i-automated-before-testing-and-delayed-the-delivery-52pa)
+- [How We Gave CLI Coding Agents Persistent Memory Using a Proxy and Cognee](https://dev.to/gowtham_adithyavurukuti_/how-we-gave-cli-coding-agents-persistent-memory-using-a-proxy-and-cognee-2063)
+- [Building BLT HackerHouse: An Open Source Journey!](https://dev.to/owaspblt/building-blt-hackerhouse-an-open-source-journey-4cdj)
+- [Build a Local Services App with Flutter and HosteDay — Part 1](https://dev.to/mustafa3max/build-a-local-services-app-with-flutter-and-hosteday-part-1-3e95)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
