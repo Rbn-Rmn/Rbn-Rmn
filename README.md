@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Is There a &quot;Library of Websites&quot; for the Entire Internet?📚](https://dev.to/manan_tandon_f6c40851cadb/is-there-a-library-of-websites-for-the-entire-internet-2lcn)
-- [Bundling a CLI Binary as a Tauri v2 Sidecar: Lessons from Building a Desktop App](https://dev.to/chenxxpro/bundling-a-cli-binary-as-a-tauri-v2-sidecar-lessons-from-building-a-desktop-app-5po)
-- [The Push Notification Bug That Took Three Layers to Find](https://dev.to/muhammadniazali/the-push-notification-bug-that-took-three-layers-to-find-24d)
-- [TypeScript 6.0 `isolatedDeclarations`: What It Actually Replaces and Why It Matters](https://dev.to/jsmanifest/typescript-60-isolateddeclarations-what-it-actually-replaces-and-why-it-matters-716)
-- [Core Concept: Leader Election via Consensus](https://dev.to/rishabh_pahwa_1a2b93e60b0/core-concept-leader-election-via-consensus-246l)
+- [Detecting Speaker Changes with Pyannote Segmentation 3.0 and ONNX Runtime](https://dev.to/kiarina/detecting-speaker-changes-with-pyannote-segmentation-30-and-onnx-runtime-1hh7)
+- [How I improved BMAD with one simple skill](https://dev.to/popiol/how-i-improved-bmad-with-one-simple-skill-1bl3)
+- [Your web app is invisible to AI search &lpar;and ranking on Google won&#39;t fix it&rpar;](https://dev.to/nata_dev/your-web-app-is-invisible-to-ai-search-and-ranking-on-google-wont-fix-it-2nfd)
+- [what&#39;s all this hype about &quot;loop engineering&quot;](https://dev.to/shravanjain/whats-all-this-hype-about-loop-engineering-3elh)
+- [5 mistakes I made building an AI Chrome extension — and the readers who caught them](https://dev.to/projekta2/i-built-a-chrome-extension-used-daily-for-pr-review-5-decisions-id-make-differently-4o64)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
