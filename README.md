@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Context Mode Review 2026 — The Missing Half of the AI Agent Context Problem](https://dev.to/yihui_zhang_d783406caddd7/context-mode-review-2026-the-missing-half-of-the-ai-agent-context-problem-9g3)
-- [Stop letting AI agents click the expensive buttons](https://dev.to/sphillips1337/stop-letting-ai-agents-click-the-expensive-buttons-247f)
-- [Solana&#39;s Throughput Advantage: What It Actually Means for AI Agent Development](https://dev.to/claudia-ve/solanas-throughput-advantage-what-it-actually-means-for-ai-agent-development-1if3)
-- [[AI in Action] Refining a macOS Meeting Translation App with Claude Code: Auto-reconnect, Floating Captions, and Meeting Minutes Export Evolution](https://dev.to/gde/ai-in-action-refining-a-macos-meeting-translation-app-with-claude-code-auto-reconnect-floating-2856)
-- [Stop Building Chatbots: Moving Toward Agentic Content Workflows](https://dev.to/ntty/stop-building-chatbots-moving-toward-agentic-content-workflows-48ie)
+- [MIT Technology Review&#39;s 10 Things That Matter in AI Right Now: A Developer&#39;s Breakdown &lpar;2026&rpar;](https://dev.to/akaranjkar08/mit-technology-reviews-10-things-that-matter-in-ai-right-now-a-developers-breakdown-2026-3he3)
+- [How to build a Bento portfolio using ReactJs + Typescript](https://dev.to/codewithsadee/how-to-build-a-bento-portfolio-using-reactjs-typescript-2khj)
+- [One command adds import, WhatsApp drip and campaigns to self-hosted Chatwoot](https://dev.to/achiya-automation/one-command-adds-import-whatsapp-drip-and-campaigns-to-self-hosted-chatwoot-mkh)
+- [Chrome Extension Volume Booster Adds Unconsented Affiliate Feature, Raising Privacy Concerns](https://dev.to/kserude/chrome-extension-volume-booster-adds-unconsented-affiliate-feature-raising-privacy-concerns-292c)
+- [Day 60: ClickHouse® Query Profiling – Finding Performance Bottlenecks](https://dev.to/kanishga_subramani_49ad73/day-60-clickhouser-query-profiling-finding-performance-bottlenecks-2hgi)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
