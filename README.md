@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [React 19 useCallback Dependencies in Multi-Tenant Dashboards: Why Your AI Feature Memoization Is Causing Stale Closures](https://dev.to/uaslimcreate/react-19-usecallback-dependencies-in-multi-tenant-dashboards-why-your-ai-feature-memoization-is-37a7)
-- [Episode 02: I Automated Before Testing. And Delayed the Delivery](https://dev.to/lflucasferreira/episode-02-i-automated-before-testing-and-delayed-the-delivery-52pa)
-- [How We Gave CLI Coding Agents Persistent Memory Using a Proxy and Cognee](https://dev.to/gowtham_adithyavurukuti_/how-we-gave-cli-coding-agents-persistent-memory-using-a-proxy-and-cognee-2063)
-- [Building BLT HackerHouse: An Open Source Journey!](https://dev.to/owaspblt/building-blt-hackerhouse-an-open-source-journey-4cdj)
-- [Build a Local Services App with Flutter and HosteDay — Part 1](https://dev.to/mustafa3max/build-a-local-services-app-with-flutter-and-hosteday-part-1-3e95)
+- [Retro Systems in 2024: Running Windows 2000 on a DEC Alpha with the New Es40 Fork – A Low-Level Developer Deep Dive](https://dev.to/tamizuddin/retro-systems-in-2024-running-windows-2000-on-a-dec-alpha-with-the-new-es40-fork-a-low-level-3maf)
+- [I Had Never Heard of Cognee. Then I Spent 5 Days Breaking It Wide Open.](https://dev.to/geetansh_vikram_836d7f761/i-had-never-heard-of-cognee-then-i-spent-5-days-breaking-it-wide-open-4j0j)
+- [Write-Intensive Systems: Key Challenges in Distributed Systems](https://dev.to/mquanit/write-intensive-systems-key-challenges-in-scalable-architecture-a3)
+- [Dead Man&#39;s Switch + USB Kill Switch for Linux - Open source defensive security project](https://dev.to/qxnode/dead-mans-switch-usb-kill-switch-for-linux-open-source-defensive-security-project-c8n)
+- [Agentes que se auto-corrigen: Text-to-SQL con smolagents &lpar;Hugging Face&rpar;](https://dev.to/mauchoquenachoque/agentes-que-se-auto-corrigen-text-to-sql-con-smolagents-hugging-face-4dig)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
