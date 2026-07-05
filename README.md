@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Using a Node.js Screenshot API to Capture Screenshots, PDFs, and Visual Diffs](https://dev.to/snapshotflow/using-a-nodejs-screenshot-api-to-capture-screenshots-pdfs-and-visual-diffs-3089)
-- [The Compass](https://dev.to/julius_ouko/the-compass-1h41)
-- [AI Coding Agents Gain Self-Learning Skills for Reusability](https://dev.to/dd8888/ai-coding-agents-gain-self-learning-skills-for-reusability-1dog)
-- [Bursora, a tool that blocks AI spend before the call, not after the bill](https://dev.to/vildanbina/i-built-a-tool-that-blocks-ai-spend-before-the-call-not-after-the-bill-2ll1)
-- [Seventy-Two Hours of Alice](https://dev.to/yuta_tu_df870be227e99357a/seventy-two-hours-of-alice-1i8m)
+- [Reverse Engineering is so cool](https://dev.to/sh4man/reverse-engineering-is-so-cool-22cl)
+- [The Second Brain They Can’t Subpoena: Local RAG on a Pi 5](https://dev.to/numbpill3d/the-second-brain-they-cant-subpoena-local-rag-on-a-pi-5-3374)
+- [What AGENTS.md Gives Coding Agents That README Files Do Not](https://dev.to/anilmuppalla/what-agentsmd-gives-coding-agents-that-readme-files-do-not-412k)
+- [Sakana Fugu: How Collaborative AI is Changing the Game](https://dev.to/terminalchai/sakana-fugu-how-collaborative-ai-is-changing-the-game-2ja6)
+- [Tokens](https://dev.to/tahaboussaden/tokens-27h4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
