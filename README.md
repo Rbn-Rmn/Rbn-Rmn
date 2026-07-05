@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [MIT Technology Review&#39;s 10 Things That Matter in AI Right Now: A Developer&#39;s Breakdown &lpar;2026&rpar;](https://dev.to/akaranjkar08/mit-technology-reviews-10-things-that-matter-in-ai-right-now-a-developers-breakdown-2026-3he3)
-- [How to build a Bento portfolio using ReactJs + Typescript](https://dev.to/codewithsadee/how-to-build-a-bento-portfolio-using-reactjs-typescript-2khj)
-- [One command adds import, WhatsApp drip and campaigns to self-hosted Chatwoot](https://dev.to/achiya-automation/one-command-adds-import-whatsapp-drip-and-campaigns-to-self-hosted-chatwoot-mkh)
-- [Chrome Extension Volume Booster Adds Unconsented Affiliate Feature, Raising Privacy Concerns](https://dev.to/kserude/chrome-extension-volume-booster-adds-unconsented-affiliate-feature-raising-privacy-concerns-292c)
-- [Day 60: ClickHouse® Query Profiling – Finding Performance Bottlenecks](https://dev.to/kanishga_subramani_49ad73/day-60-clickhouser-query-profiling-finding-performance-bottlenecks-2hgi)
+- [AWS-native Observability for EC2 với CloudWatch Agent](https://dev.to/truong_an_cornduck/aws-native-observability-for-ec2-voi-cloudwatch-agent-275h)
+- [What Is Project Glasswing, Really? Inside Anthropic&#39;s Big Bet on AI-Powered Cyber Defense](https://dev.to/arashad_dodhiya_0e4bdba5a/what-is-project-glasswing-really-inside-anthropics-big-bet-on-ai-powered-cyber-defense-5e7k)
+- [Grouping Utterances by Speaker with ECAPA-TDNN and ONNX Runtime](https://dev.to/kiarina/grouping-utterances-by-speaker-with-ecapa-tdnn-and-onnx-runtime-411b)
+- [Self-Updating Crypto Infrastructure: Watchtower + GHCR for AI Agent Wallets](https://dev.to/walletguy/self-updating-crypto-infrastructure-watchtower-ghcr-for-ai-agent-wallets-5a4g)
+- [Unix Timestamp Cheat Sheet: Convert, Read, and Debug Like a Pro](https://dev.to/kingfujing/unix-timestamp-cheat-sheet-convert-read-and-debug-like-a-pro-1p3g)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
