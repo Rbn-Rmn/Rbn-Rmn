@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Retro Systems in 2024: Running Windows 2000 on a DEC Alpha with the New Es40 Fork – A Low-Level Developer Deep Dive](https://dev.to/tamizuddin/retro-systems-in-2024-running-windows-2000-on-a-dec-alpha-with-the-new-es40-fork-a-low-level-3maf)
-- [I Had Never Heard of Cognee. Then I Spent 5 Days Breaking It Wide Open.](https://dev.to/geetansh_vikram_836d7f761/i-had-never-heard-of-cognee-then-i-spent-5-days-breaking-it-wide-open-4j0j)
-- [Write-Intensive Systems: Key Challenges in Distributed Systems](https://dev.to/mquanit/write-intensive-systems-key-challenges-in-scalable-architecture-a3)
-- [Dead Man&#39;s Switch + USB Kill Switch for Linux - Open source defensive security project](https://dev.to/qxnode/dead-mans-switch-usb-kill-switch-for-linux-open-source-defensive-security-project-c8n)
-- [Agentes que se auto-corrigen: Text-to-SQL con smolagents &lpar;Hugging Face&rpar;](https://dev.to/mauchoquenachoque/agentes-que-se-auto-corrigen-text-to-sql-con-smolagents-hugging-face-4dig)
+- [Using a Node.js Screenshot API to Capture Screenshots, PDFs, and Visual Diffs](https://dev.to/snapshotflow/using-a-nodejs-screenshot-api-to-capture-screenshots-pdfs-and-visual-diffs-3089)
+- [The Compass](https://dev.to/julius_ouko/the-compass-1h41)
+- [AI Coding Agents Gain Self-Learning Skills for Reusability](https://dev.to/dd8888/ai-coding-agents-gain-self-learning-skills-for-reusability-1dog)
+- [Bursora, a tool that blocks AI spend before the call, not after the bill](https://dev.to/vildanbina/i-built-a-tool-that-blocks-ai-spend-before-the-call-not-after-the-bill-2ll1)
+- [Seventy-Two Hours of Alice](https://dev.to/yuta_tu_df870be227e99357a/seventy-two-hours-of-alice-1i8m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
