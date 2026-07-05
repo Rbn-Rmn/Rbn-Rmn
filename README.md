@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Strategic Logging: The Debugging Skill Nobody Taught Me](https://dev.to/zikthemaker/strategic-logging-the-debugging-skill-nobody-taught-me-1de2)
-- [How I Built an MT5 Trading Bot with Python and Smart Money Concept](https://dev.to/nimnambui/how-i-built-an-mt5-trading-bot-with-python-and-smart-money-concept-2j5i)
-- [Ten Layers of AI Skill Construction: A Systematic Framework from Prompts to Business Closed Loops](https://dev.to/__b01666abd57fb7bb91f9/ten-layers-of-ai-skill-construction-a-systematic-framework-from-prompts-to-business-closed-loops-1k45)
-- [AI Guard Gateway v0.1.0: Mitigando el Secuestro de Endpoints de IA y la Inyección de Prompts](https://dev.to/magopredator/ai-guard-gateway-v010-mitigando-el-secuestro-de-endpoints-de-ia-y-la-inyeccion-de-prompts-o0a)
-- [Architecting a 100% Offline Geofencing Engine for Android](https://dev.to/haseebthedev0/architecting-a-100-offline-geofencing-engine-for-android-4mib)
+- [Is There a &quot;Library of Websites&quot; for the Entire Internet?📚](https://dev.to/manan_tandon_f6c40851cadb/is-there-a-library-of-websites-for-the-entire-internet-2lcn)
+- [Bundling a CLI Binary as a Tauri v2 Sidecar: Lessons from Building a Desktop App](https://dev.to/chenxxpro/bundling-a-cli-binary-as-a-tauri-v2-sidecar-lessons-from-building-a-desktop-app-5po)
+- [The Push Notification Bug That Took Three Layers to Find](https://dev.to/muhammadniazali/the-push-notification-bug-that-took-three-layers-to-find-24d)
+- [TypeScript 6.0 `isolatedDeclarations`: What It Actually Replaces and Why It Matters](https://dev.to/jsmanifest/typescript-60-isolateddeclarations-what-it-actually-replaces-and-why-it-matters-716)
+- [Core Concept: Leader Election via Consensus](https://dev.to/rishabh_pahwa_1a2b93e60b0/core-concept-leader-election-via-consensus-246l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
