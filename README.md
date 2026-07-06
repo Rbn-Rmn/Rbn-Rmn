@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [React Query: Managing Asynchronous Data Rendering Guide](https://dev.to/sahil_khurana_486f374ecf2/react-query-managing-asynchronous-data-rendering-guide-2gp2)
-- [Applying SAST to Infrastructure as Code: Unifying Cloud and Container Security with Trivy](https://dev.to/fabrizioperezperalta/applying-sast-to-infrastructure-as-code-unifying-cloud-and-container-security-with-trivy-2b3m)
-- [I Shipped 284k Lines of TypeScript Solo in Two Months. The Code Was the Easy Part.](https://dev.to/rajput_karsh/i-shipped-284k-lines-of-typescript-solo-in-two-months-the-code-was-the-easy-part-1eid)
-- [Sprint 9 closed: Desktop MVP](https://dev.to/meronq/sprint-9-closed-desktop-mvp-288a)
-- [My Reading Room](https://dev.to/lavkeshdwivedi/my-reading-room-2ki2)
+- [You Never Eliminate a Bottleneck — You Just Move It](https://dev.to/adamthedeveloper/you-never-eliminate-a-bottleneck-you-just-move-it-41ia)
+- [Your Mac is protecting you! &lpar;but is it worth it?&rpar;](https://dev.to/vvitovec/your-mac-is-protecting-you-but-is-it-worth-it-1g34)
+- [Chainlink Functions Is Serverless Compute With Oracle Guarantees. Here&#39;s the Full Request Lifecycle.](https://dev.to/0xramprasad/chainlink-functions-is-serverless-compute-with-oracle-guarantees-heres-the-full-request-lifecycle-56i0)
+- [Agentic payments: your AI agent can pay - but can it get paid?](https://dev.to/odedunipaas/agentic-payments-your-ai-agent-can-pay-but-can-it-get-paid-4hd4)
+- [How I made an AI Agent write in my voice](https://dev.to/swapnoneel123/how-i-made-an-ai-agent-write-in-my-voice-5dli)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
