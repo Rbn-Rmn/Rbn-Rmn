@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The deployment permission I deliberately withheld from my AI agents](https://dev.to/kimlike/the-deployment-permission-i-deliberately-withheld-from-my-ai-agents-5b54)
-- [I Spent Two Weeks Testing Chinese AI Models and Got Surprised](https://dev.to/purecast/i-spent-two-weeks-testing-chinese-ai-models-and-got-surprised-1lg8)
-- [Signal Protocol: A Technical Deep Dive into Modern Encrypted Messaging](https://dev.to/gladis_jenkins_109be90fec/signal-protocol-a-technical-deep-dive-into-modern-encrypted-messaging-22ln)
-- [How to Actually Get a Tech Job in 2026: Every Method That Works, Ranked](https://dev.to/avinash201199/how-to-actually-get-a-tech-job-in-2026-every-method-that-works-ranked-57nl)
-- [Migrating off the OpenAI Assistants API before it shuts off &lpar;Aug 26, 2026&rpar;](https://dev.to/fernforge/migrating-off-the-openai-assistants-api-before-it-shuts-off-aug-26-2026-mfn)
+- [React Query: Managing Asynchronous Data Rendering Guide](https://dev.to/sahil_khurana_486f374ecf2/react-query-managing-asynchronous-data-rendering-guide-2gp2)
+- [Applying SAST to Infrastructure as Code: Unifying Cloud and Container Security with Trivy](https://dev.to/fabrizioperezperalta/applying-sast-to-infrastructure-as-code-unifying-cloud-and-container-security-with-trivy-2b3m)
+- [I Shipped 284k Lines of TypeScript Solo in Two Months. The Code Was the Easy Part.](https://dev.to/rajput_karsh/i-shipped-284k-lines-of-typescript-solo-in-two-months-the-code-was-the-easy-part-1eid)
+- [Sprint 9 closed: Desktop MVP](https://dev.to/meronq/sprint-9-closed-desktop-mvp-288a)
+- [My Reading Room](https://dev.to/lavkeshdwivedi/my-reading-room-2ki2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
