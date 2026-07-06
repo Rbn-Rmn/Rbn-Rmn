@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [You Never Eliminate a Bottleneck — You Just Move It](https://dev.to/adamthedeveloper/you-never-eliminate-a-bottleneck-you-just-move-it-41ia)
-- [Your Mac is protecting you! &lpar;but is it worth it?&rpar;](https://dev.to/vvitovec/your-mac-is-protecting-you-but-is-it-worth-it-1g34)
-- [Chainlink Functions Is Serverless Compute With Oracle Guarantees. Here&#39;s the Full Request Lifecycle.](https://dev.to/0xramprasad/chainlink-functions-is-serverless-compute-with-oracle-guarantees-heres-the-full-request-lifecycle-56i0)
-- [Agentic payments: your AI agent can pay - but can it get paid?](https://dev.to/odedunipaas/agentic-payments-your-ai-agent-can-pay-but-can-it-get-paid-4hd4)
-- [How I made an AI Agent write in my voice](https://dev.to/swapnoneel123/how-i-made-an-ai-agent-write-in-my-voice-5dli)
+- [Understanding Kubernetes RBAC: Roles, RoleBindings, and and Client Certificates](https://dev.to/oyebobs/understanding-kubernetes-rbac-roles-rolebindings-and-and-client-certificates-d97)
+- [The AI Is Fast. The Decisions Are Mine.](https://dev.to/flipslidersand/the-ai-is-fast-the-decisions-are-mine-35p5)
+- [I Opened the APK to Find the 0.46 MiB PackedAssets Could Not Explain](https://dev.to/hano/i-opened-the-apk-to-find-the-046-mib-packedassets-could-not-explain-1f2i)
+- [AWS for Newbies — Episode 3: The Magic Helper Booth](https://dev.to/surajrkhonde/aws-for-newbies-episode-3-the-magic-helper-booth-1583)
+- [Max-Severity Adobe ColdFusion RCE &lpar;CVE-2026-48282&rpar; Is Now Under Active Attack](https://dev.to/etairos/max-severity-adobe-coldfusion-rce-cve-2026-48282-is-now-under-active-attack-3b4p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
