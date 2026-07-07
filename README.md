@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Tired of re-recording my README demo GIF by hand, I turned the whole demo environment into code](https://dev.to/shinagawa-web/tired-of-re-recording-my-readme-demo-gif-by-hand-i-turned-the-whole-demo-environment-into-code-29lc)
-- [The Compaction Plugin I Was Releasing Warned Me Mid-Release](https://dev.to/kenimo49/the-compaction-plugin-i-was-releasing-warned-me-mid-release-2f25)
-- [Why I Stopped Trusting &#39;Just Embed the Video&#39; and Built VidDefer Instead](https://dev.to/kushang_tailor/why-i-stopped-trusting-just-embed-the-video-and-built-viddefer-instead-1ag8)
-- [Why Per-Process Networking Still Doesn&#39;t Exist on Windows](https://dev.to/tu_tu_31597ec16f1d29e70da/why-per-process-networking-still-doesnt-exist-on-windows-27c2)
-- [Vibe Coding: Fast, Loose, and Headed for Trouble](https://dev.to/oninross/vibe-coding-fast-loose-and-headed-for-trouble-1dnd)
+- [Snapshot your terminal state, restore it after a crash — Claude Code sessions included](https://dev.to/daksh-gargas/snapshot-your-terminal-state-restore-it-after-a-crash-claude-code-sessions-included-32pj)
+- [How We Built a 2ms Real-Time AI Inference Pipeline in .NET &lpar;By Abandoning Generative AI&rpar;](https://dev.to/anton_po_dev/how-we-built-a-2ms-real-time-ai-inference-pipeline-in-net-by-abandoning-generative-ai-1k7)
+- [Google Skills Arcade Facilitator Program 2026: Why Every Google Cloud Learner Should Join](https://dev.to/arghamallick/google-skills-arcade-facilitator-program-2026-why-every-google-cloud-learner-should-join-1p4g)
+- [Claude for Developers: Code, Debugging, Documentation](https://dev.to/digital-abetka/claude-for-developers-code-debugging-documentation-4nhd)
+- [Day 2: Understanding MySQL Client-Server Communication, Protocols, and Pages](https://dev.to/kathir_2911/day-2-understanding-mysql-client-server-communication-protocols-and-pages-379j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
