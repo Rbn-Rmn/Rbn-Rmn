@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [15 browser-based dev tools I use daily — no login, nothing uploaded](https://dev.to/aassad/15-browser-based-dev-tools-i-use-daily-no-login-nothing-uploaded-3mle)
-- [How do you dedupe support tickets that don&#39;t share any words? Here&#39;s our messy attempt.](https://dev.to/kushagra-devs/how-do-you-dedupe-support-tickets-that-dont-share-any-words-heres-our-messy-attempt-d5g)
-- [State colocation is not a preference, it is an architecture](https://dev.to/ysndmr/state-colocation-is-not-a-preference-it-is-an-architecture-2p5k)
-- [Quando la “sicurezza” diventa un permission system: cosa cambia per chi sviluppa con i modelli chiusi](https://dev.to/frontendfacile/quando-la-sicurezza-diventa-un-permission-system-cosa-cambia-per-chi-sviluppa-con-i-modelli-40j5)
-- [agencykit v1.2.0 — brand voice support and a new proposal skill](https://dev.to/marcozorn/agencykit-v120-brand-voice-support-and-a-new-proposal-skill-bg6)
+- [Tired of re-recording my README demo GIF by hand, I turned the whole demo environment into code](https://dev.to/shinagawa-web/tired-of-re-recording-my-readme-demo-gif-by-hand-i-turned-the-whole-demo-environment-into-code-29lc)
+- [The Compaction Plugin I Was Releasing Warned Me Mid-Release](https://dev.to/kenimo49/the-compaction-plugin-i-was-releasing-warned-me-mid-release-2f25)
+- [Why I Stopped Trusting &#39;Just Embed the Video&#39; and Built VidDefer Instead](https://dev.to/kushang_tailor/why-i-stopped-trusting-just-embed-the-video-and-built-viddefer-instead-1ag8)
+- [Why Per-Process Networking Still Doesn&#39;t Exist on Windows](https://dev.to/tu_tu_31597ec16f1d29e70da/why-per-process-networking-still-doesnt-exist-on-windows-27c2)
+- [Vibe Coding: Fast, Loose, and Headed for Trouble](https://dev.to/oninross/vibe-coding-fast-loose-and-headed-for-trouble-1dnd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
