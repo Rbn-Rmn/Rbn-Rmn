@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Left of the Loop: The PO is Dead, Long Live the PO](https://dev.to/aepfli/the-po-is-dead-long-live-the-po-2p04)
-- [Stop Rebuilding Auth, Onboarding, and Dashboards: DesignFoundationPro](https://dev.to/nerd_snipe_dev/stop-rebuilding-auth-onboarding-and-dashboards-designfoundationpro-39oj)
-- [The Hidden Technical Problems That Break DAOs in Production](https://dev.to/antfarm-official/the-hidden-technical-problems-that-break-daos-in-production-cla)
-- [AI Coding Tools Are Getting Better — So Why Are We Still Spending So Much Time Managing Them?](https://dev.to/aatizaz/ai-coding-tools-are-getting-better-so-why-are-we-still-spending-so-much-time-managing-them-1pjd)
-- [AI Governance Without Compute: Why Policy Fails When Infrastructure Isn’t Part of the Conversation](https://dev.to/claireg/ai-governance-without-compute-why-policy-fails-when-infrastructure-isnt-part-of-the-conversation-4ino)
+- [15 browser-based dev tools I use daily — no login, nothing uploaded](https://dev.to/aassad/15-browser-based-dev-tools-i-use-daily-no-login-nothing-uploaded-3mle)
+- [How do you dedupe support tickets that don&#39;t share any words? Here&#39;s our messy attempt.](https://dev.to/kushagra-devs/how-do-you-dedupe-support-tickets-that-dont-share-any-words-heres-our-messy-attempt-d5g)
+- [State colocation is not a preference, it is an architecture](https://dev.to/ysndmr/state-colocation-is-not-a-preference-it-is-an-architecture-2p5k)
+- [Quando la “sicurezza” diventa un permission system: cosa cambia per chi sviluppa con i modelli chiusi](https://dev.to/frontendfacile/quando-la-sicurezza-diventa-un-permission-system-cosa-cambia-per-chi-sviluppa-con-i-modelli-40j5)
+- [agencykit v1.2.0 — brand voice support and a new proposal skill](https://dev.to/marcozorn/agencykit-v120-brand-voice-support-and-a-new-proposal-skill-bg6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
