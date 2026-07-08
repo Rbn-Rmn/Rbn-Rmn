@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Closure in JavaScript](https://dev.to/karthika_jasinska_443e83f/closure-in-javascript-41ok)
-- [OpenScience runs the whole research loop, not just the reading](https://dev.to/renolu/openscience-runs-the-whole-research-loop-not-just-the-reading-3kp)
-- [Nexthena 1.1.8 released](https://dev.to/blackstar/nexthena-118-released-11li)
-- [How to Send Webhooks to Google Sheets with FastHook](https://dev.to/andrew_lencmanis_12ca3b2b/google-sheet-destination-guidelines-3dah)
-- [I built PenDown — a live quiz app named after &#39;pens down!&#39; Come break it](https://dev.to/nullstring/i-built-pendown-a-live-quiz-app-named-after-pens-down-come-break-it-29cn)
+- [My VM state check reads one line of VBoxManage output, and it&#39;s one character from reading the wrong one](https://dev.to/tiltedlunar123/my-vm-state-check-reads-one-line-of-vboxmanage-output-and-its-one-character-from-reading-the-107g)
+- [CI/CD Pipelines That Actually Work: My Quest Like a DevOps Jedi](https://dev.to/timevolt/cicd-pipelines-that-actually-work-my-quest-like-a-devops-jedi-42le)
+- [AI Gateway Fees Compared: Who Marks Up Your Tokens?](https://dev.to/smakosh/ai-gateway-fees-compared-who-marks-up-your-tokens-19)
+- [Prompt Caching Explained: How to Cut LLM Costs by 30–99%](https://dev.to/smakosh/prompt-caching-explained-how-to-cut-llm-costs-by-30-99-1kad)
+- [LLM Guardrails Explained: Prompt Injection, PII Detection &amp; Content Moderation](https://dev.to/smakosh/llm-guardrails-explained-prompt-injection-pii-detection-content-moderation-1f7p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
