@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [怨念驱动工程：云安全与AI时代的系统设计新蓝图](https://dev.to/cognitalk/yuan-nian-qu-dong-gong-cheng-yun-an-quan-yu-aishi-dai-de-xi-tong-she-ji-xin-lan-tu-p12)
-- [The Hard Part of an Agent Loop Isn&#39;t the Loop](https://dev.to/yashasg/the-hard-part-of-an-agent-loop-isnt-the-loop-4j49)
-- [I Got Bored, So I Built Windows 98 on the Web](https://dev.to/madeburo/i-got-bored-so-i-built-windows-98-on-the-web-46ok)
-- [How an Unbounded fastmcp Version Constraint Took Down Production with 421 Misdirected Request](https://dev.to/toyama0919/how-an-unbounded-fastmcp-version-constraint-took-down-production-with-421-misdirected-request-1mh1)
-- [Execution Latency in My Polymarket Trading Bot - Sub-Second Trade Execution System Design](https://dev.to/lkto1m/execution-latency-in-my-polymarket-trading-bot-sub-second-trade-execution-system-design-277j)
+- [Catawiki Publishes Its Expert Estimates in the Page JSON. I Built a Deal Finder on Top](https://dev.to/jdpg23/catawiki-publishes-its-expert-estimates-in-the-page-json-i-built-a-deal-finder-on-top-2k5h)
+- [Local AI Pipeline: Why Certain Workloads Never Leave the Machine](https://dev.to/ben-witt/local-ai-pipeline-why-certain-workloads-never-leave-the-machine-1393)
+- [The bug wasn&#39;t in my AI agent](https://dev.to/mayank609/the-bug-wasnt-in-my-ai-agent-4mi)
+- [My GSoC 2026 Mid-Term: How Building Webpack&#39;s Blog Led Me to Patch Node.js Core Tools 👀](https://dev.to/moshams272/my-gsoc-2026-mid-term-how-building-webpacks-blog-led-me-to-patch-nodejs-core-tools-2bjk)
+- [My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast](https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
