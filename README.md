@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Best Railway Alternatives for AI Apps in 2026](https://dev.to/engineeringjournal/best-railway-alternatives-for-ai-apps-in-2026-4h)
-- [habit of small talks in the time of AI](https://dev.to/arenukvern/habit-of-small-talks-in-the-time-of-ai-29kb)
-- [Building Syllabix: An AI Lesson Plan Generator for Nigerian Teachers](https://dev.to/bukarr/building-syllabix-an-ai-lesson-plan-generator-for-nigerian-teachers-3n1p)
-- [Agent Slugs Are the Smallest Handoff Key Between APC and APX](https://dev.to/agentprojectcontext/agent-slugs-are-the-smallest-handoff-key-between-apc-and-apx-dom)
-- [Node.js: the runtime that changed how we think about backend](https://dev.to/jtorchia/nodejs-the-runtime-that-changed-how-we-think-about-backend-116o)
+- [Closure in JavaScript](https://dev.to/karthika_jasinska_443e83f/closure-in-javascript-41ok)
+- [OpenScience runs the whole research loop, not just the reading](https://dev.to/renolu/openscience-runs-the-whole-research-loop-not-just-the-reading-3kp)
+- [Nexthena 1.1.8 released](https://dev.to/blackstar/nexthena-118-released-11li)
+- [How to Send Webhooks to Google Sheets with FastHook](https://dev.to/andrew_lencmanis_12ca3b2b/google-sheet-destination-guidelines-3dah)
+- [I built PenDown — a live quiz app named after &#39;pens down!&#39; Come break it](https://dev.to/nullstring/i-built-pendown-a-live-quiz-app-named-after-pens-down-come-break-it-29cn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
