@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [microservice ต้องมี observability แค่ไหน ถึงจะคุ้ม](https://dev.to/gophernment/microservice-tngmii-observability-aekhaihn-thuengcchakhum-1m1g)
-- [Pare de escrever prompts. Comece a escrever especificações.](https://dev.to/devxbr/pare-de-escrever-prompts-comece-a-escrever-especificacoes-1mb9)
-- [Choosing a headless CMS](https://dev.to/agenyc/choosing-a-headless-cms-45pg)
-- [JVM Internals for Microservices: Classloading, Memory, and GC in Containers](https://dev.to/morpheus-vera/jvm-internals-for-microservices-classloading-memory-and-gc-in-containers-222h)
-- [Inbox Contracts for Scheduled Automation](https://dev.to/mrdapperx/inbox-contracts-for-scheduled-automation-1b5n)
+- [Why lightening a hex color in RGB gives you grey &lpar;and the HSL fix&rpar;](https://dev.to/sgbp/why-lightening-a-hex-color-in-rgb-gives-you-grey-and-the-hsl-fix-41p0)
+- [Your AI agent re-adds code you reverted last month](https://dev.to/alex_spinov/your-ai-agent-re-adds-code-you-reverted-last-month-3aa2)
+- [GPT-5.6 Is Here — Why MonkeyCode Thinks You Are Still Solving the Wrong Problem](https://dev.to/magickong/gpt-56-is-here-why-monkeycode-thinks-you-are-still-solving-the-wrong-problem-3cj2)
+- [Sol, Terra, Luna — Three New Models, and Why MonkeyCode Is Asking the Right Questions](https://dev.to/rivera123/sol-terra-luna-three-new-models-and-why-monkeycode-is-asking-the-right-questions-bjj)
+- [GPT-5.6 Dropped Three Models at Once — And MonkeyCode Might Be the Missing Piece](https://dev.to/jaryn_123/gpt-56-dropped-three-models-at-once-and-monkeycode-might-be-the-missing-piece-2oi2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
