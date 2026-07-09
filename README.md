@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How We Use MCP and CLI Together for Dynamic AI Agent Workflows](https://dev.to/ev3lynx727/how-we-use-mcp-and-cli-together-for-dynamic-ai-agent-workflows-2j7j)
-- [Hardening Kubernetes: How to Block `kubectl debug node` from Breaking Your Cluster Matrix](https://dev.to/andriesh/hardening-kubernetes-how-to-block-kubectl-debug-node-from-breaking-your-cluster-matrix-49kb)
-- [Why ISPs Block dig ANY](https://dev.to/ff02x9e/why-isps-block-dig-any-48o)
-- [YAML manifests for AI developer teams](https://dev.to/alexander_iwizard/yaml-manifests-for-ai-developer-teams-20h7)
-- [The &quot;AI avatar generator&quot; category is three rendering architectures wearing one label](https://dev.to/aialleyway/the-ai-avatar-generator-category-is-three-rendering-architectures-wearing-one-label-j8i)
+- [herdr 评测：一个终端里的 AI Agent 多路复用器，值不值得装？](https://dev.to/ferryman1980/herdr-ping-ce-ge-zhong-duan-li-de-ai-agent-duo-lu-fu-yong-qi-zhi-bu-zhi-de-zhuang--12bi)
+- [Logto 评测：开源身份认证方案，SaaS 和 AI 应用的“门神”](https://dev.to/ferryman1980/logto-ping-ce-kai-yuan-shen-fen-ren-zheng-fang-an-saas-he-ai-ying-yong-de-men-shen--jg3)
+- [Can ChatGPT read your WooCommerce store? Test it in 5 minutes](https://dev.to/kalicart-bridge/can-chatgpt-read-your-woocommerce-store-test-it-in-5-minutes-2lmi)
+- [I rebuilt the same SaaS backend five times. So I turned it into one SDK.](https://dev.to/dharmendra_jagodana/i-rebuilt-the-same-saas-backend-five-times-so-i-turned-it-into-one-sdk-bok)
+- [Why I&#39;m Simplifying My Side Project Instead of Adding More Features](https://dev.to/catnight_a_9f8d4f2f05a1b1/why-im-simplifying-my-side-project-instead-of-adding-more-features-138c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
