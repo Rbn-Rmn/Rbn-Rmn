@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [herdr 评测：一个终端里的 AI Agent 多路复用器，值不值得装？](https://dev.to/ferryman1980/herdr-ping-ce-ge-zhong-duan-li-de-ai-agent-duo-lu-fu-yong-qi-zhi-bu-zhi-de-zhuang--12bi)
-- [Logto 评测：开源身份认证方案，SaaS 和 AI 应用的“门神”](https://dev.to/ferryman1980/logto-ping-ce-kai-yuan-shen-fen-ren-zheng-fang-an-saas-he-ai-ying-yong-de-men-shen--jg3)
-- [Can ChatGPT read your WooCommerce store? Test it in 5 minutes](https://dev.to/kalicart-bridge/can-chatgpt-read-your-woocommerce-store-test-it-in-5-minutes-2lmi)
-- [I rebuilt the same SaaS backend five times. So I turned it into one SDK.](https://dev.to/dharmendra_jagodana/i-rebuilt-the-same-saas-backend-five-times-so-i-turned-it-into-one-sdk-bok)
-- [Why I&#39;m Simplifying My Side Project Instead of Adding More Features](https://dev.to/catnight_a_9f8d4f2f05a1b1/why-im-simplifying-my-side-project-instead-of-adding-more-features-138c)
+- [Managing AI in a Mixed Team](https://dev.to/noodle/managing-ai-in-a-mixed-team-2009)
+- [Governance and The Raku Foundation](https://dev.to/lizmat/governance-and-the-raku-foundation-1b6b)
+- [Agents Amplify Whatever Vocabulary They Find](https://dev.to/tmfrisinger/agents-amplify-whatever-vocabulary-they-find-5e3g)
+- [⚡ Supercharging .NET Development with GitHub Copilot and Testcontainers](https://dev.to/printo_tom/supercharging-net-development-with-github-copilot-and-testcontainers-4ml6)
+- [🚀 From Testcontainers to Trust: Building Reliable Integration Tests in .NET](https://dev.to/printo_tom/-from-testcontainers-to-trust-building-reliable-integration-tests-in-net-4k1g)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
