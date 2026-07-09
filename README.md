@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Did you ever face &quot;stale singleton httpx connection&quot; and &quot;cold-start connection problem&quot; problem, Well I did tonight.](https://dev.to/raqeeb_26/did-you-ever-face-stale-singleton-httpx-connection-and-cold-start-connection-problem-problem-8i3)
-- [My favourite zsh/bash shortcuts &lpar;functions and aliases&rpar;](https://dev.to/emmadscodes/my-favourite-zshbash-shortcuts-functions-and-aliases-35n8)
-- [I replaced the chat window for my local AI agent with a face](https://dev.to/ghostvessel/i-replaced-the-chat-window-for-my-local-ai-agent-with-a-face-3e1k)
-- [OpenBSD Privilege Escalation, GitHub AI Agent Leaks, &amp; CDN Supply Chain Risks](https://dev.to/soytuber/openbsd-privilege-escalation-github-ai-agent-leaks-cdn-supply-chain-risks-c16)
-- [Try out IsItCrashing.com](https://dev.to/mahmed74/try-out-isitcrashingcom-31e3)
+- [microservice ต้องมี observability แค่ไหน ถึงจะคุ้ม](https://dev.to/gophernment/microservice-tngmii-observability-aekhaihn-thuengcchakhum-1m1g)
+- [Pare de escrever prompts. Comece a escrever especificações.](https://dev.to/devxbr/pare-de-escrever-prompts-comece-a-escrever-especificacoes-1mb9)
+- [Choosing a headless CMS](https://dev.to/agenyc/choosing-a-headless-cms-45pg)
+- [JVM Internals for Microservices: Classloading, Memory, and GC in Containers](https://dev.to/morpheus-vera/jvm-internals-for-microservices-classloading-memory-and-gc-in-containers-222h)
+- [Inbox Contracts for Scheduled Automation](https://dev.to/mrdapperx/inbox-contracts-for-scheduled-automation-1b5n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
