@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Test Twilio Webhooks Locally](https://dev.to/anonymilyhq/how-to-test-twilio-webhooks-locally-3m46)
-- [How I Built a Cinematic AI Landing Page with GSAP, Canvas API and Next.js](https://dev.to/anas_sheikh_2/how-i-built-a-cinematic-ai-landing-page-with-gsap-canvas-api-and-nextjs-4cc3)
-- [Webhook Signature Mismatch: Root Causes &amp; Solutions](https://dev.to/anonymilyhq/webhook-signature-mismatch-root-causes-solutions-ji2)
-- [How to Black-Box Test MonkeyCode Task Reliability](https://dev.to/robinzzz/how-to-black-box-test-monkeycode-task-reliability-4681)
-- [Design the Moment an AI Agent Needs Human Input](https://dev.to/haaaaaley/design-the-moment-an-ai-agent-needs-human-input-4mni)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-50ea)
+- [Your Postgres Is Quietly Rotting — Here Are the Queries That Show It](https://dev.to/arthurpro/your-postgres-is-quietly-rotting-here-are-the-queries-that-show-it-3al8)
+- [I made my agent more capable and it got worse](https://dev.to/alan_scottencinas/i-made-my-agent-more-capable-and-it-got-worse-2djn)
+- [Why Your Application Needs Observability: Building a Self-Hosted Observability Pipeline with the LGTM Stack &lpar;Loki, Grafana, Tempo, Mimir&rpar;](https://dev.to/ashadulmridha/why-your-application-needs-observability-building-a-self-hosted-observability-pipeline-with-the-1pgm)
+- [Top 10 GEO Checker and AI Visibility Tools in 2026](https://dev.to/alifar/top-10-geo-checker-and-ai-visibility-tools-in-2026-hc0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
