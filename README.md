@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My best Redocly CLI alternative in 2026](https://dev.to/therealmrmumba/my-best-redocly-cli-alternative-in-2026-15ll)
-- [Two LangGraph Projects That Taught Me How to Design Multi-Agent Systems](https://dev.to/debashish_ghosal_2026/two-langgraph-projects-that-taught-me-how-to-design-multi-agent-systems-53n1)
-- [A Browser Extension for Researchers/Learners... - Part 1](https://dev.to/ashehxn/a-browser-extension-for-researcherslearners-part-1-2055)
-- [The Cloud Readiness Checklist: 6 checks before scale gets expensive](https://dev.to/ascentinnovate/the-cloud-readiness-checklist-6-checks-before-scale-gets-expensive-4b2d)
-- [I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.](https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl)
+- [How to Test Twilio Webhooks Locally](https://dev.to/anonymilyhq/how-to-test-twilio-webhooks-locally-3m46)
+- [How I Built a Cinematic AI Landing Page with GSAP, Canvas API and Next.js](https://dev.to/anas_sheikh_2/how-i-built-a-cinematic-ai-landing-page-with-gsap-canvas-api-and-nextjs-4cc3)
+- [Webhook Signature Mismatch: Root Causes &amp; Solutions](https://dev.to/anonymilyhq/webhook-signature-mismatch-root-causes-solutions-ji2)
+- [How to Black-Box Test MonkeyCode Task Reliability](https://dev.to/robinzzz/how-to-black-box-test-monkeycode-task-reliability-4681)
+- [Design the Moment an AI Agent Needs Human Input](https://dev.to/haaaaaley/design-the-moment-an-ai-agent-needs-human-input-4mni)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
