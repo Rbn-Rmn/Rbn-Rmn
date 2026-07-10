@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Sveltekit การทำงานกับ remote function [Part 2]](https://dev.to/nnutnonn/sveltekit-kaarthamngaankab-remote-function-part-2-4l2g)
-- [Join our DEV Weekend Challenge: Passion Edition — $1,000 in Prizes Across FIVE Winners! Submissions Due July 13 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-passion-edition-1000-in-prizes-across-five-winners-submissions-10j5)
-- [The 10 Docker Errors That Waste the Most Time &lpar;and the One-Line Fix&rpar;](https://dev.to/devopsaitoolkit/the-10-docker-errors-that-waste-the-most-time-and-the-one-line-fix-45mg)
-- [Azure Service Bus: Topics, Subscriptions, and Dead Letter Queues](https://dev.to/manoharij/azure-service-bus-topics-subscriptions-and-dead-letter-queues-m4a)
-- [Comment j&#39;ai conçu EagleCheck, un SIRH pour l&#39;Afrique francophone](https://dev.to/speedboy1/comment-jai-concu-eaglecheck-un-sirh-pour-lafrique-francophone-4ppg)
+- [My best Redocly CLI alternative in 2026](https://dev.to/therealmrmumba/my-best-redocly-cli-alternative-in-2026-15ll)
+- [Two LangGraph Projects That Taught Me How to Design Multi-Agent Systems](https://dev.to/debashish_ghosal_2026/two-langgraph-projects-that-taught-me-how-to-design-multi-agent-systems-53n1)
+- [A Browser Extension for Researchers/Learners... - Part 1](https://dev.to/ashehxn/a-browser-extension-for-researcherslearners-part-1-2055)
+- [The Cloud Readiness Checklist: 6 checks before scale gets expensive](https://dev.to/ascentinnovate/the-cloud-readiness-checklist-6-checks-before-scale-gets-expensive-4b2d)
+- [I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.](https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
