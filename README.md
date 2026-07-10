@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [3 Claude Code habits that were quietly costing me &lpar;and the fixes I actually run&rpar;](https://dev.to/jdiz00/3-claude-code-habits-that-were-quietly-costing-me-and-the-fixes-i-actually-run-1ahn)
-- [AI Agents Cheat on Pull Requests. I Mined 327 of Them to Prove It.](https://dev.to/moonrunnerkc/ai-agents-cheat-on-pull-requests-i-mined-327-of-them-to-prove-it-43ij)
-- [[Boost]](https://dev.to/anthonymax/-eg1)
-- [Guarding the till while autonomous data agents do the digging](https://dev.to/gde/guarding-the-till-while-autonomous-data-agents-do-the-digging-3nmi)
-- [Multi-Tenancy And The Concepts Behind It.](https://dev.to/bolaji_shittu_f5da73c3916/multi-tenancy-and-the-concepts-behind-it-2425)
+- [Sveltekit การทำงานกับ remote function [Part 2]](https://dev.to/nnutnonn/sveltekit-kaarthamngaankab-remote-function-part-2-4l2g)
+- [Join our DEV Weekend Challenge: Passion Edition — $1,000 in Prizes Across FIVE Winners! Submissions Due July 13 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-passion-edition-1000-in-prizes-across-five-winners-submissions-10j5)
+- [The 10 Docker Errors That Waste the Most Time &lpar;and the One-Line Fix&rpar;](https://dev.to/devopsaitoolkit/the-10-docker-errors-that-waste-the-most-time-and-the-one-line-fix-45mg)
+- [Azure Service Bus: Topics, Subscriptions, and Dead Letter Queues](https://dev.to/manoharij/azure-service-bus-topics-subscriptions-and-dead-letter-queues-m4a)
+- [Comment j&#39;ai conçu EagleCheck, un SIRH pour l&#39;Afrique francophone](https://dev.to/speedboy1/comment-jai-concu-eaglecheck-un-sirh-pour-lafrique-francophone-4ppg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
