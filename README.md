@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building a Local-Only Browser Extension That Translates GitHub&#39;s UI—Not Your Content](https://dev.to/miura/building-a-local-only-browser-extension-that-translates-githubs-ui-not-your-content-4i8m)
-- [Building an LLM System from Scratch in Pure Python &amp; NumPy: Architecture, Invariants, and Clean Code](https://dev.to/ducnguyen-creator/building-an-llm-system-from-scratch-in-pure-python-numpy-architecture-invariants-and-clean-code-5a8c)
-- [Franklin: a coffee-shop AI that treats neurodivergent customers as regulars](https://dev.to/brewhubphl/franklin-a-coffee-shop-ai-that-treats-neurodivergent-customers-as-regulars-58oe)
-- [The AI Senior Dev Dilemma: Am I Coding or Just Prompting?](https://dev.to/agentic_architect/the-ai-senior-dev-dilemma-am-i-coding-or-just-prompting-2j78)
-- [I couldn&#39;t find how much heat my PC puts in the room, so I built a widget](https://dev.to/arogorn993hue/i-couldnt-find-how-much-heat-my-pc-puts-in-the-room-so-i-built-a-widget-45n7)
+- [moteDB 0.5.1 Is Out: What 18 Months of Building an Embedded Database for Robots Taught Me](https://dev.to/motedb/motedb-051-is-out-what-18-months-of-building-an-embedded-database-for-robots-taught-me-hkj)
+- [Making a Bloated Claude Code Fast Again: Auditing Context Injection Down From 228KB to 48KB](https://dev.to/bokuwalily/making-a-bloated-claude-code-fast-again-auditing-context-injection-down-from-228kb-to-48kb-1644)
+- [Measure reply-rate analytics for your email agent](https://dev.to/mqasimca/measure-reply-rate-analytics-for-your-email-agent-1052)
+- [A/B test email subject lines with an agent — no ESP required](https://dev.to/mqasimca/ab-test-email-subject-lines-with-an-agent-no-esp-required-1ga9)
+- [How Modern Platforms Like PawfectNotes Help Veterinarians Spend More Time with Patients](https://dev.to/ranjancse/how-modern-platforms-like-pawfectnotes-help-veterinarians-spend-more-time-with-patients-23dm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
