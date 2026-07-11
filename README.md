@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Rust: a linguagem do futuro para blockchain — por André Dias Moreira Prol](https://dev.to/andr_diasmoreiraprol_b/rust-a-linguagem-do-futuro-para-blockchain-por-andre-dias-moreira-prol-3f6o)
-- [You&#39;re Not Paying for Compute. You&#39;re Paying for Memory Bandwidth](https://dev.to/aiexplore369zoho/youre-not-paying-for-compute-youre-paying-for-memory-bandwidth-3b5h)
-- [Good Software Feels Simple But Isn’t](https://dev.to/emekaugbanu/good-software-feels-simple-but-isnt-3kle)
-- [The Ultimate Claude Masterclass: 13 Power Features Changing the AI Game](https://dev.to/darshanraval/the-ultimate-claude-masterclass-13-power-features-changing-the-ai-game-17lf)
-- [How to Thrive &lpar;Not Just Survive&rpar; as a Developer in the Age of AI](https://dev.to/gaurav101/how-to-thrive-not-just-survive-as-a-developer-in-the-age-of-ai-3bdp)
+- [Therapy for AI agents: free consultation, 99-cent repair skills](https://dev.to/levelsofself/therapy-for-ai-agents-free-consultation-99-cent-repair-skills-33bh)
+- [Use Xcode MCP Instead of xcodebuild to Save Disk Space and Time in Agentic iOS Development](https://dev.to/isekai_kara_no_dev/-use-xcode-mcp-instead-of-xcodebuild-to-save-disk-space-and-time-in-agentic-ios-development-2m4j)
+- [CarPlay And Android Auto From One Codename One API](https://dev.to/codenameone/carplay-and-android-auto-from-one-codename-one-api-32b6)
+- [Series Week 25 of 52 : API Logging - The Infosec headache of maintaining the logs - The Oracle solution](https://dev.to/nabhaas/series-week-25-of-52-api-logging-the-infosec-headache-of-maintaining-the-logs-the-oracle-5093)
+- [Lessons from building a Multi-Horizon Crypto Prediction System with Transformers](https://dev.to/eventhorizon-ia/lessons-from-building-a-multi-horizon-crypto-prediction-system-with-transformers-1cio)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
