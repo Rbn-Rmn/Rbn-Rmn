@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your OpenAPI spec is already your documentation](https://dev.to/jkballa/your-openapi-spec-is-already-your-documentation-4bch)
-- [Co-Development vs Freelancers vs Full-Time Hires: Which Is Right for Your Studio?](https://dev.to/oceanviewgames/co-development-vs-freelancers-vs-full-time-hires-which-is-right-for-your-studio-3pjn)
-- [How I Built an Informational Android App Website for Bangladeshi Users](https://dev.to/gomezdrako/how-i-built-an-informational-android-app-website-for-bangladeshi-users-34od)
-- [Gaussian Process Classification](https://dev.to/davisethan/gaussian-process-classification-3291)
-- [I built a CLI toolkit](https://dev.to/nexusforg/i-built-a-cli-toolkit-11gk)
+- [The jailbreak your keyword filter can&#39;t see](https://dev.to/akavlabs_69/the-jailbreak-your-keyword-filter-cant-see-42io)
+- [Leetcode for the win!](https://dev.to/xbill/leetcode-for-the-win-3le8)
+- [Designing a Multi-Tenant Storefront With Wildcard Subdomains](https://dev.to/rahmannugar/designing-a-multi-tenant-storefront-with-wildcard-subdomains-4047)
+- [Designing an Async Image API Client That Does Not Lie About Completion](https://dev.to/hedging8563/designing-an-async-image-api-client-that-does-not-lie-about-completion-4blm)
+- [I Built a Browser From Scratch, and It Finally Renders the World&#39;s First Website Like Chrome Does](https://dev.to/nitinkumaryadav1307/i-built-a-browser-from-scratch-and-it-finally-renders-the-worlds-first-website-like-chrome-does-jef)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
