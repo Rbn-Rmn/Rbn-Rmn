@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The jailbreak your keyword filter can&#39;t see](https://dev.to/akavlabs_69/the-jailbreak-your-keyword-filter-cant-see-42io)
-- [Leetcode for the win!](https://dev.to/xbill/leetcode-for-the-win-3le8)
-- [Designing a Multi-Tenant Storefront With Wildcard Subdomains](https://dev.to/rahmannugar/designing-a-multi-tenant-storefront-with-wildcard-subdomains-4047)
-- [Designing an Async Image API Client That Does Not Lie About Completion](https://dev.to/hedging8563/designing-an-async-image-api-client-that-does-not-lie-about-completion-4blm)
-- [I Built a Browser From Scratch, and It Finally Renders the World&#39;s First Website Like Chrome Does](https://dev.to/nitinkumaryadav1307/i-built-a-browser-from-scratch-and-it-finally-renders-the-worlds-first-website-like-chrome-does-jef)
+- [No Baked-In Behavior: Why Your AI Agent&#39;s System Prompt Should Be Yours](https://dev.to/danielbilek/no-baked-in-behavior-why-your-ai-agents-system-prompt-should-be-yours-10o2)
+- [OpenScience Emerges as Open-Source AI Workbench for Researchers](https://dev.to/dd8888/openscience-emerges-as-open-source-ai-workbench-for-researchers-38l3)
+- [The VM Deletion Test: Why Enterprise AI Governance Is the Real Product in 2026 — 2026-07-11](https://dev.to/michael_kidd_255722160288/the-vm-deletion-test-why-enterprise-ai-governance-is-the-real-product-in-2026-2026-07-11-2oj1)
+- [Trove: Free Learning for Anyone Who Needs It Free](https://dev.to/isah_alamin_93d4e4d2ab01f/trove-free-learning-for-anyone-who-needs-it-free-1347)
+- [131 Tests, 4 Layers: Why My AI Agents Get an Eval Harness First](https://dev.to/elenarevicheva/131-tests-4-layers-why-my-ai-agents-get-an-eval-harness-first-i33)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
