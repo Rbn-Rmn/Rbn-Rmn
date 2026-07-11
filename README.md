@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built ckdn so coding agents never have to guess whether checks passed](https://dev.to/orenlab/i-built-ckdn-so-coding-agents-never-have-to-guess-whether-checks-passed-2ffa)
-- [OmniVoice Studio: Open-Source ElevenLabs Alternative for macOS](https://dev.to/sarantoon/omnivoice-studio-open-source-elevenlabs-alternative-for-macos-41m8)
-- [Extraterrestrial X](https://dev.to/extraterrestrialx/extraterrestrial-x-2jdd)
-- [I built a tiny permission-checking library because our backend&#39;s permission strings never matched what the UI expected](https://dev.to/alaa-samy/i-built-a-tiny-permission-checking-library-because-our-backends-permission-strings-never-matched-4p0f)
-- [Building a Telemetry Ingestion API for eVTOL Prototyping with FastAPI and Pydantic](https://dev.to/mohammedfayazahamed/building-a-telemetry-ingestion-api-for-evtol-prototyping-with-fastapi-and-pydantic-2l8)
+- [Rust: a linguagem do futuro para blockchain — por André Dias Moreira Prol](https://dev.to/andr_diasmoreiraprol_b/rust-a-linguagem-do-futuro-para-blockchain-por-andre-dias-moreira-prol-3f6o)
+- [You&#39;re Not Paying for Compute. You&#39;re Paying for Memory Bandwidth](https://dev.to/aiexplore369zoho/youre-not-paying-for-compute-youre-paying-for-memory-bandwidth-3b5h)
+- [Good Software Feels Simple But Isn’t](https://dev.to/emekaugbanu/good-software-feels-simple-but-isnt-3kle)
+- [The Ultimate Claude Masterclass: 13 Power Features Changing the AI Game](https://dev.to/darshanraval/the-ultimate-claude-masterclass-13-power-features-changing-the-ai-game-17lf)
+- [How to Thrive &lpar;Not Just Survive&rpar; as a Developer in the Age of AI](https://dev.to/gaurav101/how-to-thrive-not-just-survive-as-a-developer-in-the-age-of-ai-3bdp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
