@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Synapse Feature Demo: Deterministic Software Composition Analysis in Action](https://dev.to/aws-builders/synapse-feature-demo-deterministic-software-composition-analysis-in-action-el6)
-- [I counted every step it takes to convert an image on Windows. Then I built something better.](https://dev.to/akhourianmolkumar/i-counted-every-step-it-takes-to-convert-an-image-on-windows-then-i-built-something-better-2ngf)
-- [How I Turned Slack Into an AI Teammate That Opens Pull Requests](https://dev.to/marrouchi/how-i-turned-slack-into-an-ai-teammate-that-opens-pull-requests-b4p)
-- [Saca el estado de Terraform de la internet pública &lpar;sin montar una VPN&rpar;](https://dev.to/authagonal/saca-el-estado-de-terraform-de-la-internet-publica-sin-montar-una-vpn-1alj)
-- [fluent-ffmpeg vs FFmpeg Micro: Why Node.js Developers Switch to a Cloud API](https://dev.to/javidjamae/fluent-ffmpeg-vs-ffmpeg-micro-why-nodejs-developers-switch-to-a-cloud-api-5fp2)
+- [I built ckdn so coding agents never have to guess whether checks passed](https://dev.to/orenlab/i-built-ckdn-so-coding-agents-never-have-to-guess-whether-checks-passed-2ffa)
+- [OmniVoice Studio: Open-Source ElevenLabs Alternative for macOS](https://dev.to/sarantoon/omnivoice-studio-open-source-elevenlabs-alternative-for-macos-41m8)
+- [Extraterrestrial X](https://dev.to/extraterrestrialx/extraterrestrial-x-2jdd)
+- [I built a tiny permission-checking library because our backend&#39;s permission strings never matched what the UI expected](https://dev.to/alaa-samy/i-built-a-tiny-permission-checking-library-because-our-backends-permission-strings-never-matched-4p0f)
+- [Building a Telemetry Ingestion API for eVTOL Prototyping with FastAPI and Pydantic](https://dev.to/mohammedfayazahamed/building-a-telemetry-ingestion-api-for-evtol-prototyping-with-fastapi-and-pydantic-2l8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
