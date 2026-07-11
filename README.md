@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Therapy for AI agents: free consultation, 99-cent repair skills](https://dev.to/levelsofself/therapy-for-ai-agents-free-consultation-99-cent-repair-skills-33bh)
-- [Use Xcode MCP Instead of xcodebuild to Save Disk Space and Time in Agentic iOS Development](https://dev.to/isekai_kara_no_dev/-use-xcode-mcp-instead-of-xcodebuild-to-save-disk-space-and-time-in-agentic-ios-development-2m4j)
-- [CarPlay And Android Auto From One Codename One API](https://dev.to/codenameone/carplay-and-android-auto-from-one-codename-one-api-32b6)
-- [Series Week 25 of 52 : API Logging - The Infosec headache of maintaining the logs - The Oracle solution](https://dev.to/nabhaas/series-week-25-of-52-api-logging-the-infosec-headache-of-maintaining-the-logs-the-oracle-5093)
-- [Lessons from building a Multi-Horizon Crypto Prediction System with Transformers](https://dev.to/eventhorizon-ia/lessons-from-building-a-multi-horizon-crypto-prediction-system-with-transformers-1cio)
+- [How to Add Evals to an LLM Feature](https://dev.to/techpotions/how-to-add-evals-to-an-llm-feature-3c20)
+- [Memprediksi Peluang Klub Promosi Bertahan di Liga Top Eropa — Part 1: Kickoff &amp; Rencana](https://dev.to/daggermaster/memprediksi-peluang-klub-promosi-bertahan-di-liga-top-eropa-part-1-kickoff-rencana-256c)
+- [Open Knowledge Format: Google quiere estandarizar cómo le damos contexto a la IA &lpar;y varios dicen que reinventó la wiki&rpar;](https://dev.to/gustavo_theler_f6dc645659/open-knowledge-format-google-quiere-estandarizar-como-le-damos-contexto-a-la-ia-y-varios-dicen-4972)
+- [Conditional Statements in JavaScript](https://dev.to/pranay_7424/javascript-conditional-statements-2f1a)
+- [What a Refinery Taught Me About CI Pipelines](https://dev.to/ken_morgan_8bd73936169638/what-a-refinery-taught-me-about-ci-pipelines-baf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
