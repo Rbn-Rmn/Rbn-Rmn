@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built my first Robinhood Chain app as an index basket](https://dev.to/arbitrum/i-built-my-first-robinhood-chain-app-as-an-index-basket-20li)
-- [My Journey to Become a Better Backend Engineer](https://dev.to/hayanj/my-journey-to-become-a-better-backend-engineer-1-4lnk)
-- [skip에서 partition overwrite로: business_date 재처리를 Iceberg로 다시 표현하기](https://dev.to/junhyun-dev/skipeseo-partition-overwritero-businessdate-jaeceorireul-icebergro-dasi-pyohyeonhagi-194i)
-- [wide CSV 여러 개를 EAV로 모아 gold mart 만들기](https://dev.to/junhyun-dev/wide-csv-yeoreo-gaereul-eavro-moa-gold-mart-mandeulgi-4799)
-- [schema drift를 fail이 아니라 warn으로 둔 이유](https://dev.to/junhyun-dev/schema-driftreul-faili-anira-warneuro-dun-iyu-540h)
+- [BronocCTF : Proper Pwning Writeup](https://dev.to/exploitnotes/bronocctf-proper-pwning-writeup-1h8j)
+- [BronoCTF : Custom Cipher Writeup](https://dev.to/exploitnotes/bronoctf-custom-cipher-writeup-19po)
+- [Your embedding axes can move while cosine neighbours stay put](https://dev.to/billiem/your-embedding-axes-can-move-while-cosine-neighbours-stay-put-377f)
+- [Whether you&#39;re debugging, testing a new implementation, or temporarily disabling code, there are times when you need to comment out an entire file in Vim. While many developers rely on plugins, Vim already provides powerful built-in commands that make this incredibly fast.](https://dev.to/saint_vandora/-2jpi)
+- [Why Distributed Systems Become Essential Beyond 100K+ MAU](https://dev.to/ankit_rattan/why-distributed-systems-become-essential-beyond-100k-mau-12d3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
