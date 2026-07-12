@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [🤗 Find the Pokemon you are w. PokéAPI, your resume &amp; embeddings](https://dev.to/adriens/find-the-pokemon-you-are-w-pokeapi-your-resume-embeddings-3bb5)
-- [Part 2: Prompt Engineering for Growth: Creating Viral Wizarding Content](https://dev.to/amastr92/part-2-prompt-engineering-for-growth-creating-viral-wizarding-content-4bcm)
-- [The WCAG AA Checklist Every Angular Component Should Pass Before You Ship](https://dev.to/duncanfaulkner/the-wcag-aa-checklist-every-angular-component-should-pass-before-you-ship-3pdn)
-- [Cut your LLM bill by 30 to 70%: the levers that work](https://dev.to/guinat_ai/cut-your-llm-bill-by-30-to-70-the-levers-that-work-2nmo)
-- [Building PocketPilot and Archangel Security Suite: My Journey Into Practical Developer Tools](https://dev.to/nishrico0098/building-pocketpilot-and-archangel-security-suite-my-journey-into-practical-developer-tools-19b4)
+- [Failure Engineering Explained by Uncle to Nephew — Episode 3: Failure Detection](https://dev.to/surajrkhonde/failure-engineering-explained-by-uncle-to-nephew-episode-3-failure-detection-20ck)
+- [Compiling PHP DTOs: from reflection to 4.5M hydrations per second](https://dev.to/yuriizee/compiling-php-dtos-from-reflection-to-45m-hydrations-per-second-3jic)
+- [Solving Every CSES Problems in Rust - #1 Number Spiral](https://dev.to/shubh_agarwal_c1e90b67cb6/solving-every-cses-problems-in-rust-1-number-spiral-2j1k)
+- [Sample Equation: Ego–Emotion–Analytical–Holistic &lpar;EEAH&rpar; Cognitive Wave-Energy Model](https://dev.to/kungfufk/sample-equation-ego-emotion-analytical-holistic-eeah-cognitive-wave-energy-model-4ce3)
+- [How to Train and Use a Custom LoRA Without Setting Up a Local GPU](https://dev.to/defi_allin_87c8221187c486/how-to-train-and-use-a-custom-lora-without-setting-up-a-local-gpu-3j85)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
