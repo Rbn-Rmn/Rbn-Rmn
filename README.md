@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [One channel decided whether my multi-agent RL agents learned at all](https://dev.to/rakib-nyc/one-channel-decided-whether-my-multi-agent-rl-agents-learned-at-all-4051)
-- [FastAPI: emails aislados por branch](https://dev.to/silviutech/fastapi-emails-aislados-por-branch-l47)
-- [Beyond the Cloud: Engineering &quot;Micro-AI&quot; on Consumer Hardware](https://dev.to/lativm_lativm_ce3a80903fb/beyond-the-cloud-engineering-micro-ai-on-consumer-hardware-1kb6)
-- [The Citation Lied Without Lying: The Hard Limit of My Memory Gate](https://dev.to/kenielzep97/the-citation-lied-without-lying-the-hard-limit-of-my-memory-gate-2b8e)
-- [Why I built a mind-mapping tool where Markdown is the actual file format](https://dev.to/prasadpatil25/why-i-built-a-mind-mapping-tool-where-markdown-is-the-actual-file-format-3l2n)
+- [🤗 Find the Pokemon you are w. PokéAPI, your resume &amp; embeddings](https://dev.to/adriens/find-the-pokemon-you-are-w-pokeapi-your-resume-embeddings-3bb5)
+- [Part 2: Prompt Engineering for Growth: Creating Viral Wizarding Content](https://dev.to/amastr92/part-2-prompt-engineering-for-growth-creating-viral-wizarding-content-4bcm)
+- [The WCAG AA Checklist Every Angular Component Should Pass Before You Ship](https://dev.to/duncanfaulkner/the-wcag-aa-checklist-every-angular-component-should-pass-before-you-ship-3pdn)
+- [Cut your LLM bill by 30 to 70%: the levers that work](https://dev.to/guinat_ai/cut-your-llm-bill-by-30-to-70-the-levers-that-work-2nmo)
+- [Building PocketPilot and Archangel Security Suite: My Journey Into Practical Developer Tools](https://dev.to/nishrico0098/building-pocketpilot-and-archangel-security-suite-my-journey-into-practical-developer-tools-19b4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
