@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I scraped 60+ worker-owned co-op stores to build a searchable product directory](https://dev.to/sft_f56ae2093b46cc81b3ed8/i-scraped-60-worker-owned-co-op-stores-to-build-a-searchable-product-directory-n08)
-- [I Taught an AI to Measure Passion — Then Pointed It at the World Cup](https://dev.to/soham0047/i-taught-an-ai-to-measure-passion-then-pointed-it-at-the-world-cup-27b7)
-- [Scaffolding Business Domain Models with Dynamic Schemas](https://dev.to/homeless-coder/scaffolding-business-domain-models-with-dynamic-schemas-1ic0)
-- [Gnome GJS - ActiveRecord ORM](https://dev.to/softwareishappiness/gnome-gjs-activerecord-orm-234e)
-- [C# Async/Await Made Simple](https://dev.to/lovelacecoding/c-asyncawait-made-simple-2bo0)
+- [Kiponos Java SDK 5.0 What’s New — Developer Guide](https://dev.to/kiponos/kiponos-java-sdk-50-whats-new-developer-guide-533m)
+- [Buzzword Bingo: An Experiment in Spec-Driven AI Development](https://dev.to/ldrscke/buzzword-bingo-an-experiment-in-spec-driven-ai-development-1m88)
+- [I built Regdrift, a CLI and GitHub Action for detecting breaking CMSIS-SVD changes](https://dev.to/pranav-s79/i-built-regdrift-a-cli-and-github-action-for-detecting-breaking-cmsis-svd-changes-51j3)
+- [dev contest: Telecom RCA Automation System](https://dev.to/tony_dev/dev-contest-telecom-rca-automation-system-pk5)
+- [The monitoring agent that cannot be told what to do](https://dev.to/artem_meleshkin_0c4e0a675/the-monitoring-agent-that-cannot-be-told-what-to-do-33kd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
