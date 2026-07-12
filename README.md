@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built MCP servers so Claude can query official EU company registries directly](https://dev.to/agoraintelligence/i-built-mcp-servers-so-claude-can-query-official-eu-company-registries-directly-53a1)
-- [MuleSoft fundamentals: the Mule event and why everything is a flow](https://dev.to/sapotacorp/mulesoft-fundamentals-the-mule-event-and-why-everything-is-a-flow-4kog)
-- [PassionPulse: World Cup 2026 Live Dashboard powered by AI](https://dev.to/karthik_n/passionpulse-world-cup-2026-live-dashboard-powered-by-ai-591j)
-- [Flows, subflows, and private flows: orchestration in Mule 4](https://dev.to/sapotacorp/flows-subflows-and-private-flows-orchestration-in-mule-4-20h2)
-- [Case lifecycle and record types in Service Cloud](https://dev.to/sapotacorp/case-lifecycle-and-record-types-in-service-cloud-1m29)
+- [I Control My Mac with Voice — Say Hey Jarvis and It Does Everything](https://dev.to/amrendra_n_mishra/i-control-my-mac-with-voice-say-hey-jarvis-and-it-does-everything-dop)
+- [Every AI tool, agent, and site builder a developer should know in 2026](https://dev.to/aniruddhaadak/every-ai-tool-agent-and-builder-a-developer-should-know-in-2026-40i1)
+- [I built HostShift to migrate Linux servers](https://dev.to/oguzhankrcb/i-built-hostshift-to-migrate-linux-servers-1nje)
+- [AWS Just Made Claude Code Cloud-Native: The Official AWS MCP Server Plugin](https://dev.to/terminalblog/aws-just-made-claude-code-cloud-native-the-official-aws-mcp-server-plugin-3442)
+- [I Built a Graveyard for My Dead Side Projects - With AI Eulogies &amp; a 3D Cemetery](https://dev.to/varshithvhegde/i-built-a-graveyard-for-my-dead-side-projects-with-ai-eulogies-a-3d-cemetery-5g0e)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
