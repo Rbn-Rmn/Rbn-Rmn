@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [For the love of the game: a World Cup companion with on-chain betting and Snowflake-ready analytics](https://dev.to/piwe/for-the-love-of-the-game-a-world-cup-companion-with-on-chain-betting-and-snowflake-ready-analytics-2ohj)
-- [Rivalry Radio: a fake late-night call-in show where two AI superfans argue about anything.](https://dev.to/snipforge/rivalry-radio-a-fake-late-night-call-in-show-where-two-ai-superfans-argue-about-anything-59bn)
-- [The &quot;Just One More Prompt&quot; Loop: The Neurobiology of AI-Induced Burnout](https://dev.to/khalisollis/the-just-one-more-prompt-loop-the-neurobiology-of-ai-induced-burnout-2kan)
-- [Building Telemetry Tracker](https://dev.to/unjica/building-telemetry-tracker-3h2m)
-- [Hello, World! Launching my Developer YouTube Channel &lpar;@devkingov&rpar; 🚀](https://dev.to/karleeov/hello-world-launching-my-developer-youtube-channel-devkingov-cc6)
+- [One channel decided whether my multi-agent RL agents learned at all](https://dev.to/rakib-nyc/one-channel-decided-whether-my-multi-agent-rl-agents-learned-at-all-4051)
+- [FastAPI: emails aislados por branch](https://dev.to/silviutech/fastapi-emails-aislados-por-branch-l47)
+- [Beyond the Cloud: Engineering &quot;Micro-AI&quot; on Consumer Hardware](https://dev.to/lativm_lativm_ce3a80903fb/beyond-the-cloud-engineering-micro-ai-on-consumer-hardware-1kb6)
+- [The Citation Lied Without Lying: The Hard Limit of My Memory Gate](https://dev.to/kenielzep97/the-citation-lied-without-lying-the-hard-limit-of-my-memory-gate-2b8e)
+- [Why I built a mind-mapping tool where Markdown is the actual file format](https://dev.to/prasadpatil25/why-i-built-a-mind-mapping-tool-where-markdown-is-the-actual-file-format-3l2n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
