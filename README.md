@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your AGENTS.md Needs an Executable Contract, Not More Advice](https://dev.to/rivera123/your-agentsmd-needs-an-executable-contract-not-more-advice-3i5i)
-- [Python for Data Analysts: Getting Started](https://dev.to/sharonnyabuto/python-for-data-analysts-getting-started-29o6)
-- [Claude Shortcuts !](https://dev.to/hiteshchawla/claude-shortcuts--59n)
-- [Giving your agents access to the World Wide Web](https://dev.to/hithesh0215/giving-your-agents-access-to-the-world-wide-web-2456)
-- [5 Things Nobody Tells You About Deploying to AWS for the First Time](https://dev.to/aditi_e8f6d1764055c719a47/5-things-nobody-tells-you-about-deploying-to-aws-for-the-first-time-58h2)
+- [I built my first Robinhood Chain app as an index basket](https://dev.to/arbitrum/i-built-my-first-robinhood-chain-app-as-an-index-basket-20li)
+- [My Journey to Become a Better Backend Engineer](https://dev.to/hayanj/my-journey-to-become-a-better-backend-engineer-1-4lnk)
+- [skip에서 partition overwrite로: business_date 재처리를 Iceberg로 다시 표현하기](https://dev.to/junhyun-dev/skipeseo-partition-overwritero-businessdate-jaeceorireul-icebergro-dasi-pyohyeonhagi-194i)
+- [wide CSV 여러 개를 EAV로 모아 gold mart 만들기](https://dev.to/junhyun-dev/wide-csv-yeoreo-gaereul-eavro-moa-gold-mart-mandeulgi-4799)
+- [schema drift를 fail이 아니라 warn으로 둔 이유](https://dev.to/junhyun-dev/schema-driftreul-faili-anira-warneuro-dun-iyu-540h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
