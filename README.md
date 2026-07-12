@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Control My Mac with Voice — Say Hey Jarvis and It Does Everything](https://dev.to/amrendra_n_mishra/i-control-my-mac-with-voice-say-hey-jarvis-and-it-does-everything-dop)
-- [Every AI tool, agent, and site builder a developer should know in 2026](https://dev.to/aniruddhaadak/every-ai-tool-agent-and-builder-a-developer-should-know-in-2026-40i1)
-- [I built HostShift to migrate Linux servers](https://dev.to/oguzhankrcb/i-built-hostshift-to-migrate-linux-servers-1nje)
-- [AWS Just Made Claude Code Cloud-Native: The Official AWS MCP Server Plugin](https://dev.to/terminalblog/aws-just-made-claude-code-cloud-native-the-official-aws-mcp-server-plugin-3442)
-- [I Built a Graveyard for My Dead Side Projects - With AI Eulogies &amp; a 3D Cemetery](https://dev.to/varshithvhegde/i-built-a-graveyard-for-my-dead-side-projects-with-ai-eulogies-a-3d-cemetery-5g0e)
+- [Your AGENTS.md Needs an Executable Contract, Not More Advice](https://dev.to/rivera123/your-agentsmd-needs-an-executable-contract-not-more-advice-3i5i)
+- [Python for Data Analysts: Getting Started](https://dev.to/sharonnyabuto/python-for-data-analysts-getting-started-29o6)
+- [Claude Shortcuts !](https://dev.to/hiteshchawla/claude-shortcuts--59n)
+- [Giving your agents access to the World Wide Web](https://dev.to/hithesh0215/giving-your-agents-access-to-the-world-wide-web-2456)
+- [5 Things Nobody Tells You About Deploying to AWS for the First Time](https://dev.to/aditi_e8f6d1764055c719a47/5-things-nobody-tells-you-about-deploying-to-aws-for-the-first-time-58h2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
