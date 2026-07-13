@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Awaithuman: pagerduty cost](https://dev.to/dipbhi/awaithuman-pagerduty-cost-56g5)
-- [Building Role-Based Student, Teacher, and Admin Experiences in EchoEd](https://dev.to/mrwrite/building-role-based-student-teacher-and-admin-experiences-in-echoed-27f3)
-- [I Stopped Treating WordPress Like a CMS &lpar;And My Projects Improved&rpar;](https://dev.to/khezridev/i-stopped-treating-wordpress-like-a-cms-and-my-projects-improved-4nj7)
-- [Origin Part 19: The Number Was Wrong](https://dev.to/jtil4201/origin-part-19-the-number-was-wrong-79l)
-- [Python Redis: Caching and Fast Data Structures](https://dev.to/qingluan/python-redis-caching-and-fast-data-structures-5gn4)
+- [The Evaluation Debt You Don&#39;t Know You Have: Why Agent Evals Fail in Production](https://dev.to/paultwist/the-evaluation-debt-you-dont-know-you-have-why-agent-evals-fail-in-production-2md8)
+- [How to Deploy Python Apps with Docker Compose](https://dev.to/qingluan/how-to-deploy-python-apps-with-docker-compose-3pf1)
+- [Python Testing: Write Tests That Actually Catch Bugs](https://dev.to/qingluan/python-testing-write-tests-that-actually-catch-bugs-1of2)
+- [URL Encoding Decoded: A Developer&#39;s Guide to encodeURI vs encodeURIComponent](https://dev.to/kingfujing/url-encoding-decoded-a-developers-guide-to-encodeuri-vs-encodeuricomponent-59fb)
+- [🚀 Day 1 – Python Syntax &amp; Idioms](https://dev.to/rextora-labs/day-1-python-syntax-idioms-nck)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
