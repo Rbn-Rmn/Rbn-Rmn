@@ -133,19 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [😂 Developers, be honest...
-
-Which one describes you the best?
-A-It works. Don&#39;t touch it 😅
-B-I&#39;ll refactor it later &lpar;Never happens&rpar;
-C-One small change breaks the whole application.
-D-Spends 6 hours debugging
-
-only to find a missing semicolon or typo...](https://dev.to/darshanraval/developers-be-honest-which-one-describes-you-the-best-a-it-works-dont-touch-it-2gc9)
-- [The Secret to Always-On Audio AI: Why Your Android App Needs a DSP &lpar;and How to Implement It&rpar;](https://dev.to/programmingcentral/the-secret-to-always-on-audio-ai-why-your-android-app-needs-a-dsp-and-how-to-implement-it-5589)
-- [How to Build Your First AI Agent With Claude Code in 30 Minutes](https://dev.to/vexlow_4879b12325fb1a1db9/how-to-build-your-first-ai-agent-with-claude-code-in-30-minutes-67h)
-- [Docker für PHP, Apache und MariaDB – aus einem Container wird eine Entwicklungsumgebung](https://dev.to/webdevmentor/docker-fur-php-apache-und-mariadb-aus-einem-container-wird-eine-entwicklungsumgebung-4oic)
-- [Green CI working software](https://dev.to/nazarii-ahapevych/green-ci-working-software-5cim)
+- [Audit-log every email your AI agent sends](https://dev.to/mqasimca/audit-log-every-email-your-ai-agent-sends-57bl)
+- [How I export 1.2-gigapixel images on an iPhone without running out of memory](https://dev.to/toffy/how-i-export-12-gigapixel-images-on-an-iphone-without-running-out-of-memory-1hkk)
+- [One agent mailbox per tenant in a multi-tenant SaaS](https://dev.to/mqasimca/one-agent-mailbox-per-tenant-in-a-multi-tenant-saas-37ne)
+- [Spin up ephemeral test inboxes for email integration tests](https://dev.to/mqasimca/spin-up-ephemeral-test-inboxes-for-email-integration-tests-3bdg)
+- [Escalate an AI email agent&#39;s thread to a human](https://dev.to/mqasimca/escalate-an-ai-email-agents-thread-to-a-human-3akc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
