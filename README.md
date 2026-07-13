@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [A Test-Matrix Workflow for Debugging JavaScript Regular Expressions](https://dev.to/yip_chipen_dec986ea391232/a-test-matrix-workflow-for-debugging-javascript-regular-expressions-i18)
-- [Python Persona: How Strong of a Pythonista Are You?](https://dev.to/sojinsamuel/python-persona-how-strong-of-a-pythonista-are-you-48ga)
-- [I Replaced My Desktop Tower With a Box the Size of a Book](https://dev.to/p_ww_c73f5439cf53509ab1dc/i-replaced-my-desktop-tower-with-a-box-the-size-of-a-book-4b5g)
-- [# Running LLMs on CPU in 2026: Real Benchmarks from a 4-Core Xeon Server &gt; A $4](https://dev.to/manoir_yantai_f22f01340f0/-running-llms-on-cpu-in-2026-real-benchmarks-from-a-4-core-xeon-server-a-4-57c6)
-- [GhostLock: Uncovering the 15-Year-Old Linux Stack Use-After-Free Vulnerability](https://dev.to/tamizuddin/ghostlock-uncovering-the-15-year-old-linux-stack-use-after-free-vulnerability-3ekn)
+- [Implementing JWT Authentication Securely in Go Fiber](https://dev.to/ayinedjimi-consultants/implementing-jwt-authentication-securely-in-go-fiber-2elc)
+- [An AI Agent Walks Up to a Border](https://dev.to/moltycel/an-ai-agent-walks-up-to-a-border-14e6)
+- [Why Explainability Isn&#39;t Optional: XAI in Healthcare, Finance, and Autonomous Vehicles](https://dev.to/gollamandala_nirelsolomo/why-explainability-isnt-optional-xai-in-healthcare-finance-and-autonomous-vehicles-in7)
+- [Need ideas to make my Civic Complaint Management System unique &lpar;Major Project&rpar;](https://dev.to/vivek_404_x/need-ideas-to-make-my-civic-complaint-management-system-unique-major-project-3he5)
+- [AI Music Revolution: Artistry or Algorithm? - SmarterArticles S1E13](https://dev.to/rawveg/ai-music-revolution-artistry-or-algorithm-smarterarticles-s1e13-2g9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
