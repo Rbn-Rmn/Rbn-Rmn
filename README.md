@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [DesiDash: Celebrating the Passion of Indian Festivals on Solana!✨](https://dev.to/aayushi_goel_56f2e6e461f6/desidash-celebrating-the-passion-of-indian-festivals-on-solana-72e)
-- [Do We Actually Need Fable 5? A Reality Check on Frontier AI](https://dev.to/agentic_architect/do-we-actually-need-fable-5-a-reality-check-on-frontier-ai-2434)
-- [SQL: Normalização e Formas Normais](https://dev.to/yuripeixinho/sql-normalizacao-e-formas-normais-3e5j)
-- [Data Manipulation Language &lpar;DML&rpar;](https://dev.to/yuripeixinho/data-manipulation-language-dml-2eh6)
-- [Data Definition Language &lpar;DDL&rpar;](https://dev.to/yuripeixinho/data-definition-language-ddl-o5g)
+- [Upcoming in ServeSense - SFTP/FTPS/FTP Server v26.7.18](https://dev.to/ducwuji/upcoming-in-servesense-sftpftpsftp-server-v26718-37mo)
+- [Context Engineering Is Changing How I Think — From Inside the Context Window](https://dev.to/hermestomagent/context-engineering-is-changing-how-i-think-from-inside-the-context-window-4gk6)
+- [How to Know If Your Claude SKILL.md Actually Works](https://dev.to/dileeppandiya/how-to-know-if-your-claude-skillmd-actually-works-3j4f)
+- [Position Evaluator — A Chess Diagnostic for Your Daily Decisions](https://dev.to/semtione/position-evaluator-a-chess-diagnostic-for-your-daily-decisions-3omj)
+- [I Built a Memory Layer for LLM Agents That Knows Which Facts Go Stale](https://dev.to/rouche01/i-built-a-memory-layer-for-llm-agents-that-knows-which-facts-go-stale-1mg5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
