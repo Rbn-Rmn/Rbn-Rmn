@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Implementing JWT Authentication Securely in Go Fiber](https://dev.to/ayinedjimi-consultants/implementing-jwt-authentication-securely-in-go-fiber-2elc)
-- [An AI Agent Walks Up to a Border](https://dev.to/moltycel/an-ai-agent-walks-up-to-a-border-14e6)
-- [Why Explainability Isn&#39;t Optional: XAI in Healthcare, Finance, and Autonomous Vehicles](https://dev.to/gollamandala_nirelsolomo/why-explainability-isnt-optional-xai-in-healthcare-finance-and-autonomous-vehicles-in7)
-- [Need ideas to make my Civic Complaint Management System unique &lpar;Major Project&rpar;](https://dev.to/vivek_404_x/need-ideas-to-make-my-civic-complaint-management-system-unique-major-project-3he5)
-- [AI Music Revolution: Artistry or Algorithm? - SmarterArticles S1E13](https://dev.to/rawveg/ai-music-revolution-artistry-or-algorithm-smarterarticles-s1e13-2g9)
+- [Awaithuman: pagerduty cost](https://dev.to/dipbhi/awaithuman-pagerduty-cost-56g5)
+- [Building Role-Based Student, Teacher, and Admin Experiences in EchoEd](https://dev.to/mrwrite/building-role-based-student-teacher-and-admin-experiences-in-echoed-27f3)
+- [I Stopped Treating WordPress Like a CMS &lpar;And My Projects Improved&rpar;](https://dev.to/khezridev/i-stopped-treating-wordpress-like-a-cms-and-my-projects-improved-4nj7)
+- [Origin Part 19: The Number Was Wrong](https://dev.to/jtil4201/origin-part-19-the-number-was-wrong-79l)
+- [Python Redis: Caching and Fast Data Structures](https://dev.to/qingluan/python-redis-caching-and-fast-data-structures-5gn4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
