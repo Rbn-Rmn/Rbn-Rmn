@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Upcoming in ServeSense - SFTP/FTPS/FTP Server v26.7.18](https://dev.to/ducwuji/upcoming-in-servesense-sftpftpsftp-server-v26718-37mo)
-- [Context Engineering Is Changing How I Think — From Inside the Context Window](https://dev.to/hermestomagent/context-engineering-is-changing-how-i-think-from-inside-the-context-window-4gk6)
-- [How to Know If Your Claude SKILL.md Actually Works](https://dev.to/dileeppandiya/how-to-know-if-your-claude-skillmd-actually-works-3j4f)
-- [Position Evaluator — A Chess Diagnostic for Your Daily Decisions](https://dev.to/semtione/position-evaluator-a-chess-diagnostic-for-your-daily-decisions-3omj)
-- [I Built a Memory Layer for LLM Agents That Knows Which Facts Go Stale](https://dev.to/rouche01/i-built-a-memory-layer-for-llm-agents-that-knows-which-facts-go-stale-1mg5)
+- [A Test-Matrix Workflow for Debugging JavaScript Regular Expressions](https://dev.to/yip_chipen_dec986ea391232/a-test-matrix-workflow-for-debugging-javascript-regular-expressions-i18)
+- [Python Persona: How Strong of a Pythonista Are You?](https://dev.to/sojinsamuel/python-persona-how-strong-of-a-pythonista-are-you-48ga)
+- [I Replaced My Desktop Tower With a Box the Size of a Book](https://dev.to/p_ww_c73f5439cf53509ab1dc/i-replaced-my-desktop-tower-with-a-box-the-size-of-a-book-4b5g)
+- [# Running LLMs on CPU in 2026: Real Benchmarks from a 4-Core Xeon Server &gt; A $4](https://dev.to/manoir_yantai_f22f01340f0/-running-llms-on-cpu-in-2026-real-benchmarks-from-a-4-core-xeon-server-a-4-57c6)
+- [GhostLock: Uncovering the 15-Year-Old Linux Stack Use-After-Free Vulnerability](https://dev.to/tamizuddin/ghostlock-uncovering-the-15-year-old-linux-stack-use-after-free-vulnerability-3ekn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
