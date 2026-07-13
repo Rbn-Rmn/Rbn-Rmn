@@ -133,11 +133,19 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Architecture-first vs problem-first: what five months of over-engineering looks like](https://dev.to/ilmartotch/architecture-first-vs-problem-first-what-five-months-of-over-engineering-looks-like-4jbd)
-- [Yes-Brainer — A council of LLMs that debate in the browser](https://dev.to/trekhleb/yes-brainer-a-council-of-llms-that-debate-in-the-browser-33cd)
-- [PHP Speaks QUIC Now, and OpenSSL Did the Hard Part](https://dev.to/mikepultz/php-speaks-quic-now-and-openssl-did-the-hard-part-2329)
-- [How We Built DJ ROOTS: An AI-Powered Music Recommendation Platform](https://dev.to/ananyasharma_14/how-we-built-dj-roots-an-ai-powered-music-recommendation-platform-1o70)
-- [Are Today&#39;s Engineers Getting Soft?](https://dev.to/prabashanadev/are-todays-engineers-getting-soft-54dn)
+- [😂 Developers, be honest...
+
+Which one describes you the best?
+A-It works. Don&#39;t touch it 😅
+B-I&#39;ll refactor it later &lpar;Never happens&rpar;
+C-One small change breaks the whole application.
+D-Spends 6 hours debugging
+
+only to find a missing semicolon or typo...](https://dev.to/darshanraval/developers-be-honest-which-one-describes-you-the-best-a-it-works-dont-touch-it-2gc9)
+- [The Secret to Always-On Audio AI: Why Your Android App Needs a DSP &lpar;and How to Implement It&rpar;](https://dev.to/programmingcentral/the-secret-to-always-on-audio-ai-why-your-android-app-needs-a-dsp-and-how-to-implement-it-5589)
+- [How to Build Your First AI Agent With Claude Code in 30 Minutes](https://dev.to/vexlow_4879b12325fb1a1db9/how-to-build-your-first-ai-agent-with-claude-code-in-30-minutes-67h)
+- [Docker für PHP, Apache und MariaDB – aus einem Container wird eine Entwicklungsumgebung](https://dev.to/webdevmentor/docker-fur-php-apache-und-mariadb-aus-einem-container-wird-eine-entwicklungsumgebung-4oic)
+- [Green CI working software](https://dev.to/nazarii-ahapevych/green-ci-working-software-5cim)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
