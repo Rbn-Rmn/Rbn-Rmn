@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Chrome 146 Zero-Days: The Skia and V8 Attack Surface, 2026 Edition](https://dev.to/alejandxr/chrome-146-zero-days-the-skia-and-v8-attack-surface-2026-edition-494a)
-- [Build a Real-Time Notification System with Server-Sent Events](https://dev.to/qingluan/build-a-real-time-notification-system-with-server-sent-events-59ge)
-- [Seven Free Node.js Hosting Platforms Worth Trying in 2026](https://dev.to/sparrowhawk705/seven-free-nodejs-hosting-platforms-worth-trying-in-2026-25c1)
-- [I Asked in a Chainlink Discord: &quot;Is Chainlink Building Any AI?&quot; The Answer Sent Me Down a Rabbit Hole for Three Days.](https://dev.to/0xramprasad/i-asked-in-a-chainlink-discord-is-chainlink-building-any-ai-the-answer-sent-me-down-a-rabbit-5b7j)
-- [A lightweight workflow for keeping up with AI conference papers](https://dev.to/linqiao4173/a-lightweight-workflow-for-keeping-up-with-ai-conference-papers-31e3)
+- [Day 77 of #100DaysOfClickHouse: Resolving Replication Conflicts in ClickHouse®](https://dev.to/kanishga_subramani_49ad73/day-77-of-100daysofclickhouse-resolving-replication-conflicts-in-clickhouser-43o2)
+- [Six experiments on adversarial verification — and the 75% wall that didn&#39;t move](https://dev.to/zxpmail/six-experiments-on-adversarial-verification-and-the-75-wall-that-didnt-move-2d1m)
+- [I Built a Privacy-Focused Telegram Online Tracker That Actually Gives Exact Timestamps &lpar;and Supports Multiple Users&rpar;](https://dev.to/tima100faces/i-built-a-privacy-focused-telegram-online-tracker-that-actually-gives-exact-timestamps-and-4gn3)
+- [Let&#39;s talk about meditation.](https://dev.to/samuelfaure/lets-talk-about-meditation-1b4f)
+- [How Google&#39;s helpful content update actually treats AI articles: 6 months of data](https://dev.to/rahulseo/how-googles-helpful-content-update-actually-treats-ai-articles-6-months-of-data-4oi4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
