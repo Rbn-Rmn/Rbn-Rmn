@@ -133,13 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [A lesser used feature of template litrals in Js](https://dev.to/d32ssv/a-lesser-used-feature-of-template-litrals-in-js-1ki2)
-- [I Cut My Agent Token Bill by 60% — Here&#39;s the Exact Setup](https://dev.to/turacthethinker/i-cut-my-agent-token-bill-by-60-heres-the-exact-setup-4acg)
-- [This is remarkable
-
-https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehttpsbobdahackercomblogfifa-hack-3kb0)
-- [DiffusionGemma: 4x faster text generation](https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd)
-- [Meet Fiza Rashid: A Software Engineering Student Passionate About Web Development](https://dev.to/fiza_rashid_291926391f9cc/meet-fiza-rashid-a-software-engineering-student-passionate-about-web-development-3flh)
+- [Image SEO untuk Galeri Portofolio Proyek: Sitemap, Structured Data, dan Penamaan File](https://dev.to/mightyblue/image-seo-untuk-galeri-portofolio-proyek-sitemap-structured-data-dan-penamaan-file-p2c)
+- [How I Built a Distributed API Gateway with Rate Limiting, BullMQ Queues, and Real-Time Analytics — From Scratch](https://dev.to/sawastik_bhullar/how-i-built-a-distributed-api-gateway-with-rate-limiting-bullmq-queues-and-real-time-analytics--53dm)
+- [Chasing the Sentry prize for DEV&#39;s Summer Bug Smash? Let us know what questions you have.](https://dev.to/sentry/chasing-the-sentry-prize-for-devs-summer-bug-smash-let-us-know-what-questions-you-have-1506)
+- [Why Rust allows many readers but only One Writer](https://dev.to/0xlozi/why-rust-allows-many-readers-but-only-one-writer-4b6p)
+- [Navigating Intellectual Property in Kenya](https://dev.to/bwanachairman/navigating-intellectual-property-in-kenya-3iem)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
