@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [A Folder of Docs Is Not a Knowledge Base](https://dev.to/agentiknet/a-folder-of-docs-is-not-a-knowledge-base-55b9)
-- [An Agent That Can Spawn Agents Is a Fork Bomb With Good Intentions](https://dev.to/agentiknet/an-agent-that-can-spawn-agents-is-a-fork-bomb-with-good-intentions-2kjh)
-- [MoFlo: local-first agent orchestration for Claude Code](https://dev.to/ericcielo/moflo-local-first-agent-orchestration-for-claude-code-1ccj)
-- [&#39;Approve All&#39; Is How Your Agent Ships the Dangerous One](https://dev.to/agentiknet/approve-all-is-how-your-agent-ships-the-dangerous-one-2ma)
-- [You&#39;re Optimizing the Part of Your Agent You Don&#39;t Own](https://dev.to/agentiknet/youre-optimizing-the-part-of-your-agent-you-dont-own-b69)
+- [Docker, From Zero: What It Actually Solves, and How to Actually Use It](https://dev.to/surajrkhonde/docker-from-zero-what-it-actually-solves-and-how-to-actually-use-it-59a4)
+- [Quantum Information Scientist: $110K-$180K for Research That Actually Matters](https://dev.to/futureisnowtech/quantum-information-scientist-110k-180k-for-research-that-actually-matters-j6d)
+- [How To Actually Get Hired as a Quantum Software Engineer &lpar;The Real Paths&rpar;](https://dev.to/futureisnowtech/how-to-actually-get-hired-as-a-quantum-software-engineer-the-real-paths-44aa)
+- [Escaping the Stateless Trap: Building a Context-Aware Support Agent](https://dev.to/waqar_akhtar_f4a1df2340f1/escaping-the-stateless-trap-building-a-context-aware-support-agent-cp5)
+- [Before Adding Gemma 4 to MonkeyCode, Run a Model Capability Contract](https://dev.to/kongkong1/before-adding-gemma-4-to-monkeycode-run-a-model-capability-contract-4d07)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
