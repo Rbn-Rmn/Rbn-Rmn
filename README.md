@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Image SEO untuk Galeri Portofolio Proyek: Sitemap, Structured Data, dan Penamaan File](https://dev.to/mightyblue/image-seo-untuk-galeri-portofolio-proyek-sitemap-structured-data-dan-penamaan-file-p2c)
-- [How I Built a Distributed API Gateway with Rate Limiting, BullMQ Queues, and Real-Time Analytics — From Scratch](https://dev.to/sawastik_bhullar/how-i-built-a-distributed-api-gateway-with-rate-limiting-bullmq-queues-and-real-time-analytics--53dm)
-- [Chasing the Sentry prize for DEV&#39;s Summer Bug Smash? Let us know what questions you have.](https://dev.to/sentry/chasing-the-sentry-prize-for-devs-summer-bug-smash-let-us-know-what-questions-you-have-1506)
-- [Why Rust allows many readers but only One Writer](https://dev.to/0xlozi/why-rust-allows-many-readers-but-only-one-writer-4b6p)
-- [Navigating Intellectual Property in Kenya](https://dev.to/bwanachairman/navigating-intellectual-property-in-kenya-3iem)
+- [Production-Ready AI Agents in Node.js: Iteration Caps and Tracing](https://dev.to/swapnali_dashrath_8827f08/production-ready-ai-agents-in-nodejs-iteration-caps-and-tracing-3nh1)
+- [Backward Compatibility: A Practitioner&#39;s Guide to Evolving APIs Without Breaking Clients](https://dev.to/serifcolakel/backward-compatibility-a-practitioners-guide-to-evolving-apis-without-breaking-clients-4k66)
+- [Fine-Tuning Qwen2-VL for Blockchain Graph Classification on AMD MI300X: What the Docs Don&#39;t Tell You](https://dev.to/ericwoooo_kr/fine-tuning-qwen2-vl-for-blockchain-graph-classification-on-amd-mi300x-what-the-docs-dont-tell-you-4247)
+- [The Union‑Find Fellowship: Finding Your Tribe in Code](https://dev.to/timevolt/the-union-find-fellowship-finding-your-tribe-in-code-583d)
+- [Votre Agent IA est crédule : Pourquoi le &quot;Prompt Engineering&quot; ne vous protègera pas en production](https://dev.to/quentin_merle/votre-agent-ia-est-credule-pourquoi-le-prompt-engineering-ne-vous-protegera-pas-en-production-2kcp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
