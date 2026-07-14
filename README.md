@@ -133,11 +133,13 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Day 77 of #100DaysOfClickHouse: Resolving Replication Conflicts in ClickHouse®](https://dev.to/kanishga_subramani_49ad73/day-77-of-100daysofclickhouse-resolving-replication-conflicts-in-clickhouser-43o2)
-- [Six experiments on adversarial verification — and the 75% wall that didn&#39;t move](https://dev.to/zxpmail/six-experiments-on-adversarial-verification-and-the-75-wall-that-didnt-move-2d1m)
-- [I Built a Privacy-Focused Telegram Online Tracker That Actually Gives Exact Timestamps &lpar;and Supports Multiple Users&rpar;](https://dev.to/tima100faces/i-built-a-privacy-focused-telegram-online-tracker-that-actually-gives-exact-timestamps-and-4gn3)
-- [Let&#39;s talk about meditation.](https://dev.to/samuelfaure/lets-talk-about-meditation-1b4f)
-- [How Google&#39;s helpful content update actually treats AI articles: 6 months of data](https://dev.to/rahulseo/how-googles-helpful-content-update-actually-treats-ai-articles-6-months-of-data-4oi4)
+- [A lesser used feature of template litrals in Js](https://dev.to/d32ssv/a-lesser-used-feature-of-template-litrals-in-js-1ki2)
+- [I Cut My Agent Token Bill by 60% — Here&#39;s the Exact Setup](https://dev.to/turacthethinker/i-cut-my-agent-token-bill-by-60-heres-the-exact-setup-4acg)
+- [This is remarkable
+
+https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehttpsbobdahackercomblogfifa-hack-3kb0)
+- [DiffusionGemma: 4x faster text generation](https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd)
+- [Meet Fiza Rashid: A Software Engineering Student Passionate About Web Development](https://dev.to/fiza_rashid_291926391f9cc/meet-fiza-rashid-a-software-engineering-student-passionate-about-web-development-3flh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
