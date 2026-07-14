@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Four Eras of Cloud Security. Same Verb.](https://dev.to/bala_paranj_059d338e44e7e/four-eras-of-cloud-security-same-verb-3kdb)
-- [This Week in AI: GPT-5.6 Lands, Agent Infrastructure Matures, and the Model War Heats Up](https://dev.to/nerdhead_01/this-week-in-ai-gpt-56-lands-agent-infrastructure-matures-and-the-model-war-heats-up-17dg)
-- [How I Eliminated 19,494 Duplicate MongoDB Records &lpar;And What I&#39;d Do Differently Today&rpar;](https://dev.to/david_essien/how-i-eliminated-19494-duplicate-mongodb-records-and-what-id-do-differently-today-36bh)
-- [7 ways to drain an ERC-4626 vault &lpar;and how a good protocol closes each one&rpar;](https://dev.to/juan23z/7-ways-to-drain-an-erc-4626-vault-and-how-a-good-protocol-closes-each-one-2h48)
-- [Why Early MVPs Fail Before Launch](https://dev.to/kavitasystems/why-early-mvps-fail-before-launch-11ag)
+- [Chrome 146 Zero-Days: The Skia and V8 Attack Surface, 2026 Edition](https://dev.to/alejandxr/chrome-146-zero-days-the-skia-and-v8-attack-surface-2026-edition-494a)
+- [Build a Real-Time Notification System with Server-Sent Events](https://dev.to/qingluan/build-a-real-time-notification-system-with-server-sent-events-59ge)
+- [Seven Free Node.js Hosting Platforms Worth Trying in 2026](https://dev.to/sparrowhawk705/seven-free-nodejs-hosting-platforms-worth-trying-in-2026-25c1)
+- [I Asked in a Chainlink Discord: &quot;Is Chainlink Building Any AI?&quot; The Answer Sent Me Down a Rabbit Hole for Three Days.](https://dev.to/0xramprasad/i-asked-in-a-chainlink-discord-is-chainlink-building-any-ai-the-answer-sent-me-down-a-rabbit-5b7j)
+- [A lightweight workflow for keeping up with AI conference papers](https://dev.to/linqiao4173/a-lightweight-workflow-for-keeping-up-with-ai-conference-papers-31e3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
