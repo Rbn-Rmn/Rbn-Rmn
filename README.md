@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Docker, From Zero: What It Actually Solves, and How to Actually Use It](https://dev.to/surajrkhonde/docker-from-zero-what-it-actually-solves-and-how-to-actually-use-it-59a4)
-- [Quantum Information Scientist: $110K-$180K for Research That Actually Matters](https://dev.to/futureisnowtech/quantum-information-scientist-110k-180k-for-research-that-actually-matters-j6d)
-- [How To Actually Get Hired as a Quantum Software Engineer &lpar;The Real Paths&rpar;](https://dev.to/futureisnowtech/how-to-actually-get-hired-as-a-quantum-software-engineer-the-real-paths-44aa)
-- [Escaping the Stateless Trap: Building a Context-Aware Support Agent](https://dev.to/waqar_akhtar_f4a1df2340f1/escaping-the-stateless-trap-building-a-context-aware-support-agent-cp5)
-- [Before Adding Gemma 4 to MonkeyCode, Run a Model Capability Contract](https://dev.to/kongkong1/before-adding-gemma-4-to-monkeycode-run-a-model-capability-contract-4d07)
+- [I Wish I Ran the Numbers on Open Source AI APIs Sooner](https://dev.to/truelane/i-wish-i-ran-the-numbers-on-open-source-ai-apis-sooner-i63)
+- [--- title: Day 1: Starting My Web Dev Journey published: true description: Learning HTML from scratch ---](https://dev.to/nknexul_tech_45e05d43d440/-title-day-1-starting-my-web-dev-journey-published-true-description-learning-html-from-eg1)
+- [My MCP Server Kept Crashing. Here&#39;s the Error Recovery Pattern That Saved It.](https://dev.to/chenyuan20509/my-mcp-server-kept-crashing-heres-the-error-recovery-pattern-that-saved-it-nd5)
+- [Building an AI-Powered Lead Qualification API with Next.js 15 and Gemini 3.5 Flash](https://dev.to/shahdinsalman/building-an-ai-powered-lead-qualification-api-with-nextjs-15-and-gemini-35-flash-ag9)
+- [Business Automation Architect: Turn Your AI Agent Into an Automation Engine](https://dev.to/amrree/business-automation-architect-turn-your-ai-agent-into-an-automation-engine-2faj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
