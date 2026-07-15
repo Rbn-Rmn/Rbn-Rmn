@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Evaluation Order of Java Operands](https://dev.to/rajeshbhola1/evaluation-order-of-java-operands-1c7m)
-- [From Idea to Terminal: How I Built My First LLM-Powered CLI Tool &lpar;And What I&#39;d Do Differently&rpar;](https://dev.to/george_panos_607e125c9161/from-idea-to-terminal-how-i-built-my-first-llm-powered-cli-tool-and-what-id-do-differently-5efi)
-- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-4231)
-- [How I Built a Multi-Page AI Website Generator for Nigerian SMBs — Architecture, LLM Prompting, and Lessons Learned](https://dev.to/innocodes/how-i-built-a-multi-page-ai-website-generator-for-nigerian-smbs-architecture-llm-prompting-and-4pb5)
-- [AI Will Not Take Your Job](https://dev.to/rawveg/ai-will-not-take-your-job-58l3)
+- [Show DEV: Six Browser Tools, Six Different Product Constraints](https://dev.to/tao_li_a9489b720b5123f192/show-dev-six-browser-tools-six-different-product-constraints-383f)
+- [A Black Box Drawn Over a PDF Isn&#39;t Redaction — Here&#39;s How I Fixed It Client-Side](https://dev.to/androve2k/a-black-box-drawn-over-a-pdf-isnt-redaction-heres-how-i-fixed-it-client-side-10hd)
+- [Why Must AIOps Move from Processing Alerts to Understanding Business Service Relationships?](https://dev.to/da-li-at-pl/why-must-aiops-move-from-processing-alerts-to-understanding-business-service-relationships-48)
+- [Empty Is Not Clean: Five Fail-Open Bugs in an AI Agent](https://dev.to/jeremy_longshore/empty-is-not-clean-five-fail-open-bugs-in-an-ai-agent-5fd8)
+- [3 ways to add link previews to a React app &lpar;with and without a backend&rpar;](https://dev.to/daviscodesbugs/3-ways-to-add-link-previews-to-a-react-app-with-and-without-a-backend-35hb)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
