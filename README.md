@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m building a software company alone. No support. No mentor. No family backing. Here&#39;s what that actually feels like.](https://dev.to/akhourianmolkumar/im-building-a-software-company-alone-no-support-no-mentor-no-family-backing-heres-what-that-1nii)
-- [Codex subagents are almost great. So I finished the orchestration layer myself.](https://dev.to/vvitovec/codex-subagents-are-almost-great-so-i-finished-the-orchestration-layer-myself-1lkk)
-- [Terraform Cloudflare DNS Checklist Before Every Apply](https://dev.to/oleksandr_kuryzhev_42873f/terraform-cloudflare-dns-checklist-before-every-apply-3g9m)
-- [Your AI Agent Doesn&#39;t Have a Code Problem. It Has a Specs Problem.](https://dev.to/theodordiaconu/your-ai-agent-doesnt-have-a-code-problem-it-has-a-specs-problem-3hk)
-- [Microsoft said the patches would get bigger. I measured how much bigger.](https://dev.to/turva-dev/microsoft-said-the-patches-would-get-bigger-i-measured-how-much-bigger-2moa)
+- [PART 3 - STATISTICS](https://dev.to/sami21234/part-3-statistics-d53)
+- [The SSE Fragmentation Catastrophe That Took Down CareerPilot AI &lpar;Smash Stories&rpar;](https://dev.to/aashitanegii/the-sse-fragmentation-catastrophe-that-took-down-careerpilot-ai-smash-stories-16f2)
+- [Every Third-Party iOS Keyboard Is a Graveyard. So I Built a Voice Keyboard From Scratch in C++.](https://dev.to/omachala/every-third-party-ios-keyboard-is-a-graveyard-so-i-built-a-voice-keyboard-from-scratch-in-c-50oh)
+- [The Best Test Automation Tool Is the One Your Team Still Uses a Year Later](https://dev.to/mellowthunder735/the-best-test-automation-tool-is-the-one-your-team-still-uses-a-year-later-o22)
+- [AI Is Not Replacing Marketers. It Is Replacing Marketers With No Taste.](https://dev.to/paula_district11/ai-is-not-replacing-marketers-it-is-replacing-marketers-with-no-taste-35oe)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
