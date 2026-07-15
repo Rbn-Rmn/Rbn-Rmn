@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The 10-minute follow-up that makes freelance clients renew](https://dev.to/agentedeia/the-10-minute-follow-up-that-makes-freelance-clients-renew-dpf)
-- [AI Tools: Fundamentals of Optimizing Expenditures](https://dev.to/merbayerp/ai-tools-fundamentals-of-optimizing-expenditures-537l)
-- [I built a free set of subtitle tools that run entirely in your browser &lpar;no upload&rpar;](https://dev.to/ravinirban876/i-built-a-free-set-of-subtitle-tools-that-run-entirely-in-your-browser-no-upload-h5h)
-- [I built an n8n agent that reads a lead&#39;s website before writing the cold email — and refuses to write when it can&#39;t](https://dev.to/modeaicreator/i-built-an-n8n-agent-that-reads-a-leads-website-before-writing-the-cold-email-and-refuses-to-p02)
-- [Failure Engineering Explained by Uncle to Nephew — Episode 5: Recovery — How Systems Heal Themselves](https://dev.to/surajrkhonde/failure-engineering-explained-by-uncle-to-nephew-episode-5-recovery-how-systems-heal-themselves-26po)
+- [I&#39;m building a software company alone. No support. No mentor. No family backing. Here&#39;s what that actually feels like.](https://dev.to/akhourianmolkumar/im-building-a-software-company-alone-no-support-no-mentor-no-family-backing-heres-what-that-1nii)
+- [Codex subagents are almost great. So I finished the orchestration layer myself.](https://dev.to/vvitovec/codex-subagents-are-almost-great-so-i-finished-the-orchestration-layer-myself-1lkk)
+- [Terraform Cloudflare DNS Checklist Before Every Apply](https://dev.to/oleksandr_kuryzhev_42873f/terraform-cloudflare-dns-checklist-before-every-apply-3g9m)
+- [Your AI Agent Doesn&#39;t Have a Code Problem. It Has a Specs Problem.](https://dev.to/theodordiaconu/your-ai-agent-doesnt-have-a-code-problem-it-has-a-specs-problem-3hk)
+- [Microsoft said the patches would get bigger. I measured how much bigger.](https://dev.to/turva-dev/microsoft-said-the-patches-would-get-bigger-i-measured-how-much-bigger-2moa)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
