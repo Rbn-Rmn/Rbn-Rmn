@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why did my benchmark stop at N=22? A debugging story in nine bugs](https://dev.to/xbill/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l)
-- [My benchmark&#39;s Python column was N/A for a year — CPython&#39;s 4300-digit limit, and eight other bugs](https://dev.to/xbill/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk)
-- [I spent a week trying to intercept Slack push notifications from a Chrome extension. Here&#39;s why it&#39;s impossible.](https://dev.to/mbilalkhan192003/i-spent-a-week-trying-to-intercept-slack-push-notifications-from-a-chrome-extension-heres-why-9mc)
-- [I Built a Dashboard to Make Security Reports Easier to Read](https://dev.to/devfendforge/i-built-a-dashboard-to-make-security-reports-easier-to-read-33e9)
-- [Five Local-First Mac Apps I Built to Fix Everyday Workflow Problems](https://dev.to/quietware/five-local-first-mac-apps-i-built-to-fix-everyday-workflow-problems-4e8o)
+- [Ensamblando DotNet IL](https://dev.to/baltasarq/ensamblando-dotnet-il-4ion)
+- [Taotuner’s Informational-Processual Monism &lpar;IPM&rpar; explores how systems maintain coherence through change using computational models of Lack, coupling, integration, and persistence. Through Python simulations such as the Lack Kernel and related experiments.](https://dev.to/taotuner/taotuners-informational-processual-monism-ipm-explores-how-systems-maintain-coherence-through-1n6c)
+- [Is Multi-AZ Enough for Disaster Recovery? What DORA Actually Asks of Your Application](https://dev.to/upstood/is-multi-az-enough-for-disaster-recovery-what-dora-actually-asks-of-your-application-1fmi)
+- [The Commercial Veil &lpar;1992-1994&rpar;: Concealment in the New Economy](https://dev.to/bioshistory/the-commercial-veil-1992-1994-concealment-in-the-new-economy-5gf5)
+- [Stop Guessing Your AI Performance: The Professional Guide to Edge AI Benchmarking on Android](https://dev.to/programmingcentral/stop-guessing-your-ai-performance-the-professional-guide-to-edge-ai-benchmarking-on-android-2f3m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
