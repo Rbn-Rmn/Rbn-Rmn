@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [PART 3 - STATISTICS](https://dev.to/sami21234/part-3-statistics-d53)
-- [The SSE Fragmentation Catastrophe That Took Down CareerPilot AI &lpar;Smash Stories&rpar;](https://dev.to/aashitanegii/the-sse-fragmentation-catastrophe-that-took-down-careerpilot-ai-smash-stories-16f2)
-- [Every Third-Party iOS Keyboard Is a Graveyard. So I Built a Voice Keyboard From Scratch in C++.](https://dev.to/omachala/every-third-party-ios-keyboard-is-a-graveyard-so-i-built-a-voice-keyboard-from-scratch-in-c-50oh)
-- [The Best Test Automation Tool Is the One Your Team Still Uses a Year Later](https://dev.to/mellowthunder735/the-best-test-automation-tool-is-the-one-your-team-still-uses-a-year-later-o22)
-- [AI Is Not Replacing Marketers. It Is Replacing Marketers With No Taste.](https://dev.to/paula_district11/ai-is-not-replacing-marketers-it-is-replacing-marketers-with-no-taste-35oe)
+- [Evaluation Order of Java Operands](https://dev.to/rajeshbhola1/evaluation-order-of-java-operands-1c7m)
+- [From Idea to Terminal: How I Built My First LLM-Powered CLI Tool &lpar;And What I&#39;d Do Differently&rpar;](https://dev.to/george_panos_607e125c9161/from-idea-to-terminal-how-i-built-my-first-llm-powered-cli-tool-and-what-id-do-differently-5efi)
+- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-4231)
+- [How I Built a Multi-Page AI Website Generator for Nigerian SMBs — Architecture, LLM Prompting, and Lessons Learned](https://dev.to/innocodes/how-i-built-a-multi-page-ai-website-generator-for-nigerian-smbs-architecture-llm-prompting-and-4pb5)
+- [AI Will Not Take Your Job](https://dev.to/rawveg/ai-will-not-take-your-job-58l3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
