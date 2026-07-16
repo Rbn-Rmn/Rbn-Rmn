@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [We almost handed out AWS keys to every team. So I built an LLM gateway instead.](https://dev.to/nrejve/we-almost-handed-out-aws-keys-to-every-team-so-i-built-an-llm-gateway-instead-g7j)
-- [I kept losing the context behind my code, so I built Kote](https://dev.to/pedro_augustoalmeidadua/i-kept-losing-the-context-behind-my-code-so-i-built-kote-bm2)
-- [Orion Belt v1.0 — from Alpha bastion to a stable self-hosted SSH PAM](https://dev.to/zrouga/orion-belt-v10-from-alpha-bastion-to-a-stable-self-hosted-ssh-pam-3kn9)
-- [I thought fallback was a nice-to-have until OpenAI billing issues broke 3 agent runs in one week](https://dev.to/lars_winstand/i-thought-fallback-was-a-nice-to-have-until-openai-billing-issues-broke-3-agent-runs-in-one-week-pk7)
-- [Three scripts that kill freelance scope creep without losing the client](https://dev.to/agentedeia/three-scripts-that-kill-freelance-scope-creep-without-losing-the-client-bpe)
+- [Beware: Your Coding Agent Trips the Same EDR Rules Built to Catch Attackers](https://dev.to/terminalblog/beware-your-coding-agent-trips-the-same-edr-rules-built-to-catch-attackers-5055)
+- [The AI Tools I Use Every Day as a Developer &lpar;March 2026&rpar;](https://dev.to/akaranjkar08/the-ai-tools-i-use-every-day-as-a-developer-march-2026-32ge)
+- [MCP Servers Explained: How Claude Code Connects to Everything](https://dev.to/akaranjkar08/mcp-servers-explained-how-claude-code-connects-to-everything-2apo)
+- [Want to Volunteer with me as a Full-Stack Developer? Join me at CALEC!](https://dev.to/devengers/want-to-volunteer-with-me-as-a-full-stack-developer-join-me-at-calec-2hne)
+- [The Deploy Was Boring. That Was The Whole Point](https://dev.to/jeelvankhede/the-deploy-was-boring-that-was-the-whole-point-29if)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
