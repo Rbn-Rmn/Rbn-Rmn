@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Unused MCP Plugins Are Quietly Eating Your Context: A Weekly Auto-Disable Pipeline](https://dev.to/bokuwalily/unused-mcp-plugins-are-quietly-eating-your-context-a-weekly-auto-disable-pipeline-1gl7)
-- [Multi-Tab State Sync Made Easy: Introducing useSharedState in react-hook-lab!](https://dev.to/saurav_tb_pandey/multi-tab-state-sync-made-easy-introducing-usesharedstate-in-react-hook-lab-2422)
-- [Two Workers Both Held the &#39;Only One&#39; Lock. The Clock Was Never Synced.](https://dev.to/speed_engineer/two-workers-both-held-the-only-one-lock-the-clock-was-never-synced-h5k)
-- [Scope creep is a state machine, not a difficult-client problem](https://dev.to/scopeshieldops/scope-creep-is-a-state-machine-not-a-difficult-client-problem-54do)
-- [Email Verification Bots with Playwright](https://dev.to/francofuji/email-verification-bots-with-playwright-1dc7)
+- [Your AI agent should not have unrestricted power](https://dev.to/wildeconforce/your-ai-agent-should-not-have-unrestricted-power-4d7e)
+- [Streaming AI Responses in Laravel with Server-Sent Events](https://dev.to/adityakdevin/streaming-ai-responses-in-laravel-with-server-sent-events-3bob)
+- [BrowserAct vs Agent Browser: A Hands-On Stealth Execution Comparison](https://dev.to/hadil/browseract-vs-agent-browser-a-hands-on-stealth-execution-comparison-1m1k)
+- [Cursor Makes Me Faster—but Is It Making Me a Worse Developer?](https://dev.to/richardj46/cursor-makes-me-faster-but-is-it-making-me-a-worse-developer-p5c)
+- [Mobilerun vs DuoPlus: Which one to choose?](https://dev.to/priya_negi_9ffd29931ea408/mobilerun-vs-duoplus-which-one-to-choose-3eb6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
