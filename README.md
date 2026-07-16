@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building Lexi-9-Omega: Turning Sci-Fi Engineering Language into a Real AI System](https://dev.to/andrew_westrum/building-lexi-9-omega-turning-sci-fi-engineering-language-into-a-real-ai-system-5f06)
-- [Run Qwen Coder &amp; DeepSeek Locally: The 2026 Free AI Pair-Programmer Setup](https://dev.to/pavelespitia/run-qwen-coder-deepseek-locally-the-2026-free-ai-pair-programmer-setup-jo4)
-- [Building AquaStat: Why We Started Tracking Data Center Water Usage](https://dev.to/magnexis/building-aquastat-why-we-started-tracking-data-center-water-usage-d43)
-- [#04 – Modules &amp; Modern Python Project Structure](https://dev.to/thirusakthi-dev/04-modules-modern-project-structure-1k3o)
-- [Your Test Data May Be More Dangerous Than Your Production Database](https://dev.to/da-li-at-pl/your-test-data-may-be-more-dangerous-than-your-production-database-492a)
+- [We almost handed out AWS keys to every team. So I built an LLM gateway instead.](https://dev.to/nrejve/we-almost-handed-out-aws-keys-to-every-team-so-i-built-an-llm-gateway-instead-g7j)
+- [I kept losing the context behind my code, so I built Kote](https://dev.to/pedro_augustoalmeidadua/i-kept-losing-the-context-behind-my-code-so-i-built-kote-bm2)
+- [Orion Belt v1.0 — from Alpha bastion to a stable self-hosted SSH PAM](https://dev.to/zrouga/orion-belt-v10-from-alpha-bastion-to-a-stable-self-hosted-ssh-pam-3kn9)
+- [I thought fallback was a nice-to-have until OpenAI billing issues broke 3 agent runs in one week](https://dev.to/lars_winstand/i-thought-fallback-was-a-nice-to-have-until-openai-billing-issues-broke-3-agent-runs-in-one-week-pk7)
+- [Three scripts that kill freelance scope creep without losing the client](https://dev.to/agentedeia/three-scripts-that-kill-freelance-scope-creep-without-losing-the-client-bpe)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
