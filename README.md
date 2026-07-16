@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [LLM Evals For Developer Tools: Useful, Correct, Safe](https://dev.to/nazar-boyko/llm-evals-for-developer-tools-useful-correct-safe-33jg)
-- [In an AI Builder + AI Reviewer World, What Should Developers Actually Review?](https://dev.to/tom-takeru/in-an-ai-builder-ai-reviewer-world-what-should-developers-actually-review-34oa)
-- [The first API top-up should lead to one verified billable request](https://dev.to/edward_li_71f26791eac62b8/the-first-api-top-up-should-lead-to-one-verified-billable-request-22k9)
-- [agent-workspace-linux Is Not Computer Use: Verify the Workspace Boundary First](https://dev.to/doramagic/agent-workspace-linux-is-not-computer-use-verify-the-workspace-boundary-first-4mbp)
-- [SHA-1 Bug smash Cracker](https://dev.to/dan52242644dan/sha-1-bug-smash-cracker-7p8)
+- [Unused MCP Plugins Are Quietly Eating Your Context: A Weekly Auto-Disable Pipeline](https://dev.to/bokuwalily/unused-mcp-plugins-are-quietly-eating-your-context-a-weekly-auto-disable-pipeline-1gl7)
+- [Multi-Tab State Sync Made Easy: Introducing useSharedState in react-hook-lab!](https://dev.to/saurav_tb_pandey/multi-tab-state-sync-made-easy-introducing-usesharedstate-in-react-hook-lab-2422)
+- [Two Workers Both Held the &#39;Only One&#39; Lock. The Clock Was Never Synced.](https://dev.to/speed_engineer/two-workers-both-held-the-only-one-lock-the-clock-was-never-synced-h5k)
+- [Scope creep is a state machine, not a difficult-client problem](https://dev.to/scopeshieldops/scope-creep-is-a-state-machine-not-a-difficult-client-problem-54do)
+- [Email Verification Bots with Playwright](https://dev.to/francofuji/email-verification-bots-with-playwright-1dc7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
