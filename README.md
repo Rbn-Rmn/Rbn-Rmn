@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Top AI Papers on Hugging Face - 2026-07-16](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-16-2711)
-- [Integrating Open-Weight LLMs via API: A Practical Guide for Developers](https://dev.to/sbt112321321/integrating-open-weight-llms-via-api-a-practical-guide-for-developers-3a74)
-- [Knowledge-and-Memory-Management v0.0.2: Portable Knowledge Collection and Memory Management](https://dev.to/mage0535/knowledge-and-memory-management-v002-portable-knowledge-collection-and-memory-management-2356)
-- [Mastering Advanced Server-Side Caching Patterns in Next.js 13+](https://dev.to/tamizuddin/mastering-advanced-server-side-caching-patterns-in-nextjs-13-43bl)
-- [Akuna Capital OA Checks Whether You Used AI — Even Analyzing Your Syntax Tree](https://dev.to/interviewshow-cs/akuna-capital-oa-checks-whether-you-used-ai-even-analyzing-your-syntax-tree-10a2)
+- [How we built our FinOps MCP server: lessons learned](https://dev.to/tanguy_compagnon/how-we-built-our-finops-mcp-server-lessons-learned-50lf)
+- [Kiro CLI Gets Worse After an Hour. Here&#39;s How I Fixed It.](https://dev.to/aws-builders/kiro-cli-gets-worse-after-an-hour-heres-how-i-fixed-it-1l7g)
+- [Why AI audit logs break when the facts change](https://dev.to/ethanbeirne/why-ai-audit-logs-break-when-the-facts-change-1nd8)
+- [Founding Lead Playbook: Running Product, Architect &amp; Engineering with AI Agents + 2 Humans](https://dev.to/kheai/founding-lead-playbook-running-product-architect-engineering-with-ai-agents-2-humans-295d)
+- [How I Built My Site With Claude Code](https://dev.to/imisic/how-i-built-my-site-with-claude-code-2ojh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
