@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your AI agent should not have unrestricted power](https://dev.to/wildeconforce/your-ai-agent-should-not-have-unrestricted-power-4d7e)
-- [Streaming AI Responses in Laravel with Server-Sent Events](https://dev.to/adityakdevin/streaming-ai-responses-in-laravel-with-server-sent-events-3bob)
-- [BrowserAct vs Agent Browser: A Hands-On Stealth Execution Comparison](https://dev.to/hadil/browseract-vs-agent-browser-a-hands-on-stealth-execution-comparison-1m1k)
-- [Cursor Makes Me Faster—but Is It Making Me a Worse Developer?](https://dev.to/richardj46/cursor-makes-me-faster-but-is-it-making-me-a-worse-developer-p5c)
-- [Mobilerun vs DuoPlus: Which one to choose?](https://dev.to/priya_negi_9ffd29931ea408/mobilerun-vs-duoplus-which-one-to-choose-3eb6)
+- [Most Embedded CI Stops One Step Too Early](https://dev.to/tech_benchci/most-embedded-ci-stops-one-step-too-early-5dl5)
+- [Why I built a page with no immediate growth upside, and shipped it anyway](https://dev.to/harsha_kumar/why-i-built-a-page-with-no-immediate-growth-upside-and-shipped-it-anyway-5ab6)
+- [The New Way to Showcase Software Skills](https://dev.to/nicanor_korir/the-new-way-to-showcase-software-skills-in7)
+- [My Checklist for Reviewing AI-Generated Code](https://dev.to/iurii_rogulia/my-checklist-for-reviewing-ai-generated-code-2iop)
+- [RoomCraft AI: optimizar la distribución de una habitación con Simulated Annealing](https://dev.to/adrian_368e1d3e691afab697/roomcraft-ai-optimizar-la-distribucion-de-una-habitacion-con-simulated-annealing-bj7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
