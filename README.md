@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Beware: Your Coding Agent Trips the Same EDR Rules Built to Catch Attackers](https://dev.to/terminalblog/beware-your-coding-agent-trips-the-same-edr-rules-built-to-catch-attackers-5055)
-- [The AI Tools I Use Every Day as a Developer &lpar;March 2026&rpar;](https://dev.to/akaranjkar08/the-ai-tools-i-use-every-day-as-a-developer-march-2026-32ge)
-- [MCP Servers Explained: How Claude Code Connects to Everything](https://dev.to/akaranjkar08/mcp-servers-explained-how-claude-code-connects-to-everything-2apo)
-- [Want to Volunteer with me as a Full-Stack Developer? Join me at CALEC!](https://dev.to/devengers/want-to-volunteer-with-me-as-a-full-stack-developer-join-me-at-calec-2hne)
-- [The Deploy Was Boring. That Was The Whole Point](https://dev.to/jeelvankhede/the-deploy-was-boring-that-was-the-whole-point-29if)
+- [OPNsense on bare metal — 18 months as the only perimeter](https://dev.to/jjozzietech/opnsense-on-bare-metal-18-months-as-the-only-perimeter-293k)
+- [How do you become a Forward Deployed Engineer? &lpar;2026&rpar;](https://dev.to/manduks/how-do-you-become-a-forward-deployed-engineer-2026-2l8p)
+- [I built a free, open-source AI B2B outreach system on N8N — here&#39;s how it works](https://dev.to/hitb1099/i-built-a-free-open-source-ai-b2b-outreach-system-on-n8n-heres-how-it-works-2385)
+- [Create Logos and Full Brand Kits Inside Claude: A Practical Guide to the Zoviz MCP Server](https://dev.to/zovizapp/create-logos-and-full-brand-kits-inside-claude-a-practical-guide-to-the-zoviz-mcp-server-1b5n)
+- [AppTweak Alternatives: Pay-As-You-Go ASO Data](https://dev.to/datawhard/apptweak-alternatives-pay-as-you-go-aso-data-j2j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
