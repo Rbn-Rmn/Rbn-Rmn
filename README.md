@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Most Embedded CI Stops One Step Too Early](https://dev.to/tech_benchci/most-embedded-ci-stops-one-step-too-early-5dl5)
-- [Why I built a page with no immediate growth upside, and shipped it anyway](https://dev.to/harsha_kumar/why-i-built-a-page-with-no-immediate-growth-upside-and-shipped-it-anyway-5ab6)
-- [The New Way to Showcase Software Skills](https://dev.to/nicanor_korir/the-new-way-to-showcase-software-skills-in7)
-- [My Checklist for Reviewing AI-Generated Code](https://dev.to/iurii_rogulia/my-checklist-for-reviewing-ai-generated-code-2iop)
-- [RoomCraft AI: optimizar la distribución de una habitación con Simulated Annealing](https://dev.to/adrian_368e1d3e691afab697/roomcraft-ai-optimizar-la-distribucion-de-una-habitacion-con-simulated-annealing-bj7)
+- [Top AI Papers on Hugging Face - 2026-07-16](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-16-2711)
+- [Integrating Open-Weight LLMs via API: A Practical Guide for Developers](https://dev.to/sbt112321321/integrating-open-weight-llms-via-api-a-practical-guide-for-developers-3a74)
+- [Knowledge-and-Memory-Management v0.0.2: Portable Knowledge Collection and Memory Management](https://dev.to/mage0535/knowledge-and-memory-management-v002-portable-knowledge-collection-and-memory-management-2356)
+- [Mastering Advanced Server-Side Caching Patterns in Next.js 13+](https://dev.to/tamizuddin/mastering-advanced-server-side-caching-patterns-in-nextjs-13-43bl)
+- [Akuna Capital OA Checks Whether You Used AI — Even Analyzing Your Syntax Tree](https://dev.to/interviewshow-cs/akuna-capital-oa-checks-whether-you-used-ai-even-analyzing-your-syntax-tree-10a2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
