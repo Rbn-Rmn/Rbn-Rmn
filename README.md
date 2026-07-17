@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your Dev Tool Won&#39;t Fail in Korea Because It&#39;s Bad — It&#39;ll Fail at First-Run](https://dev.to/johong/your-dev-tool-wont-fail-in-korea-because-its-bad-itll-fail-at-first-run-5bhl)
-- [Five failure patterns from past WordPress major upgrades — what 5.0 Gutenberg through 6.0 FSE taught maintenance teams](https://dev.to/susumun/five-failure-patterns-from-past-wordpress-major-upgrades-what-50-gutenberg-through-60-fse-ocb)
-- [Ask HN: What process should I use to find SMB prospects for a B2B SaaS product?](https://dev.to/brino666/ask-hn-what-process-should-i-use-to-find-smb-prospects-for-a-b2b-saas-product-1fg6)
-- [Simple Email SaaS? Here&#39;s What Actually Works in 2024](https://dev.to/brino666/simple-email-saas-heres-what-actually-works-in-2024-3j3b)
-- [Why There&#39;s No Example Code for B2B SaaS Apps &lpar;And What to Do About It&rpar;](https://dev.to/brino666/why-theres-no-example-code-for-b2b-saas-apps-and-what-to-do-about-it-2oma)
+- [My AI QA agent said &quot;all features working.&quot; The canvas was blank. Here&#39;s what it was actually seeing.](https://dev.to/mxhlix/my-ai-qa-agent-said-all-features-working-the-canvas-was-blank-heres-what-it-was-actually-1pl5)
+- [Solid Queue has no alerting, so I built QueuePulse](https://dev.to/michiya59/solid-queue-has-no-alerting-so-i-built-queuepulse-1lfm)
+- [Sveltekit การทำงานกับ remote function [Part 3]](https://dev.to/nnutnonn/sveltekit-kaarthamngaankab-remote-function-part-3-5218)
+- [You Almost Never Think. That&#39;s Why Your Brain Doesn&#39;t Crash.](https://dev.to/synthaicode_commander/you-almost-never-think-thats-why-your-brain-doesnt-crash-218a)
+- [Owning your AI: why I self-host a personal assistant with long-term memory](https://dev.to/samadhi_tattoo_7ed1c0d05b/owning-your-ai-why-i-self-host-a-personal-assistant-with-long-term-memory-3488)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
