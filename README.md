@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 17th July 2026](https://dev.to/ziizium/security-news-weekly-round-up-17th-july-2026-2a1l)
-- [Anxious About the Tech Market? Try Digging a New Hole](https://dev.to/theoriginalbpc/anxious-about-the-tech-market-try-digging-a-new-hole-1c5)
-- [I Built an AI Face-Analysis Suite From Scratch — Here&#39;s What I Learned](https://dev.to/star_doppel_b782d4e097c70/i-built-an-ai-face-analysis-suite-from-scratch-heres-what-i-learned-35mk)
-- [Docker Compose verstehen: Services, Volumes, Netzwerke](https://dev.to/serverkueche/docker-compose-verstehen-services-volumes-netzwerke-11je)
-- [How are hashed passwords not the same even if the original passwords are.](https://dev.to/shiwani08/how-are-hashed-passwords-not-the-same-even-if-the-original-passwords-are-4eom)
+- [How to Display a PDF Inside Your Adalo App &lpar;iOS, Android &amp; Web&rpar;](https://dev.to/shinnawy/how-to-display-a-pdf-inside-your-adalo-app-ios-android-web-31l)
+- [Someone said &quot;let&#39;s make a new internet&quot; — sarcastically.](https://dev.to/thomas_verhave_8976b2c977/someone-said-lets-make-a-new-internet-sarcastically-ljc)
+- [Show HN: Weft](https://dev.to/thomas_verhave_8976b2c977/show-hn-weft-mo7)
+- [The OpenTofu Errors You&#39;ll Actually Hit &lpar;and How to Fix Them Fast&rpar;](https://dev.to/jjoyneriv/the-opentofu-errors-youll-actually-hit-and-how-to-fix-them-fast-3f9e)
+- [Four things I would check first with NestJS if a bank&#39;s API kept leaking sensitive data](https://dev.to/peacemelodi/four-things-i-would-check-first-with-nestjs-if-a-banks-api-kept-leaking-sensitive-data-p8o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
