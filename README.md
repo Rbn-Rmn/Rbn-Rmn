@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built 50+ free browser tools that run without uploads, servers, or accounts](https://dev.to/pream_ruthishr_472bd39ed/i-built-50-free-browser-tools-that-run-without-uploads-servers-or-accounts-369h)
-- [Structured Output Gives You Syntax. It Doesn&#39;t Give You Semantics](https://dev.to/aiexplore369zoho/structured-output-gives-you-syntax-it-doesnt-give-you-semantics-3c13)
-- [Data Consistency in Real-Time Systems: Notes From a Trading Infrastructure Article](https://dev.to/mehmet_yildiz/data-consistency-in-real-time-systems-notes-from-a-trading-infrastructure-article-3co5)
-- [Open Source Free GitHub-Hosted BI Tools Comparison &lpar;2026&rpar;: Helical Insight vs Apache Superset vs Metabase vs Lightdash vs Redash](https://dev.to/nikitiwari/open-source-free-github-hosted-bi-tools-comparison-2026-helical-insight-vs-apache-superset-vs-j1j)
-- [How to Compare JSON Files the Easy Way &lpar;Without False Positives&rpar;](https://dev.to/digitechgenai/how-to-compare-json-files-the-easy-way-without-false-positives-23g1)
+- [Archetype: The Bear Killer](https://dev.to/druid628/archetype-the-bear-killer-3e9o)
+- [&quot;My AI engineer has a second AI that tells it NO. Three times, it was right.&quot;](https://dev.to/nunc/my-ai-engineer-has-a-second-ai-that-tells-it-no-three-times-it-was-right-162l)
+- [Why a password is not a security architecture for connected building devices](https://dev.to/zoranstankovic/why-a-password-is-not-a-security-architecture-for-connected-building-devices-5241)
+- [How to run Codex with GPT-5.6 on Amazon Bedrock](https://dev.to/aws/how-to-run-codex-with-gpt-56-on-amazon-bedrock-12f4)
+- [Ship Your Own Social Listening Agent in ~200 Lines of TypeScript](https://dev.to/tmoreton/ship-your-own-social-listening-agent-in-200-lines-of-typescript-49a6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
