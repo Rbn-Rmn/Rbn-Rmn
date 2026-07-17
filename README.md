@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI Memory OSS를 프롬프트가 아니라 백엔드 시스템으로 읽는 10가지 질문](https://dev.to/junhyun-dev/ai-memory-ossreul-peurompeuteuga-anira-baegendeu-siseutemeuro-ilgneun-10gaji-jilmun-1h9h)
-- [Full Stack Developer. I build fast, responsive, SEO-friendly websites and modern SaaS products.](https://dev.to/krishnan_p/full-stack-developer-i-build-fast-responsive-seo-friendly-websites-and-modern-saas-products-4ik8)
-- [H5 or Native App for QR-Based Device Rentals? A Decision Framework](https://dev.to/_2e753170f7cbf17032d37/h5-or-native-app-for-qr-based-device-rentals-a-decision-framework-1924)
-- [Lessons Learned Building and Launching FugoFresh, a Calorie Counter Mobile App in 2026](https://dev.to/fugofresh/lessons-learned-building-and-launching-fugofresh-a-calorie-counter-mobile-app-in-2026-1gpn)
-- [SVD y PCA: cómo el álgebra lineal comprime miles de dimensiones](https://dev.to/lu1tr0n/svd-y-pca-como-el-algebra-lineal-comprime-miles-de-dimensiones-l9p)
+- [Attention Sinks: Why Streaming LLMs Break When You Evict Token 0](https://dev.to/ji_ai/attention-sinks-why-streaming-llms-break-when-you-evict-token-0-5a1b)
+- [QUIC-Based NAT Traversal: How PUNCH_ME_NOW Frames Are Standardizing Hole Punching](https://dev.to/mannansaood_83/quic-based-nat-traversal-how-punchmenow-frames-are-standardizing-hole-punching-2969)
+- [I am Building an AI Court with AI Judges, AI Lawyers.](https://dev.to/priyanshu_maity_df65ee34f/i-am-building-an-ai-court-with-ai-judges-ai-lawyers-40k0)
+- [ATLOCK v4 vs. Typical Third-Party Security Software: What You&#39;re Actually Trading Off](https://dev.to/akhourianmolkumar/atlock-v4-vs-typical-third-party-security-software-what-youre-actually-trading-off-52c7)
+- [Voice-First UX: Building the React Frontend and Web Speech Integration for BizBoost AI](https://dev.to/sufiya_shariff/voice-first-ux-building-the-react-frontend-and-web-speech-integration-for-bizboost-ai-5apg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
