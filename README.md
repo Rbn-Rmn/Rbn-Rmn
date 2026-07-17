@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My AI QA agent said &quot;all features working.&quot; The canvas was blank. Here&#39;s what it was actually seeing.](https://dev.to/mxhlix/my-ai-qa-agent-said-all-features-working-the-canvas-was-blank-heres-what-it-was-actually-1pl5)
-- [Solid Queue has no alerting, so I built QueuePulse](https://dev.to/michiya59/solid-queue-has-no-alerting-so-i-built-queuepulse-1lfm)
-- [Sveltekit การทำงานกับ remote function [Part 3]](https://dev.to/nnutnonn/sveltekit-kaarthamngaankab-remote-function-part-3-5218)
-- [You Almost Never Think. That&#39;s Why Your Brain Doesn&#39;t Crash.](https://dev.to/synthaicode_commander/you-almost-never-think-thats-why-your-brain-doesnt-crash-218a)
-- [Owning your AI: why I self-host a personal assistant with long-term memory](https://dev.to/samadhi_tattoo_7ed1c0d05b/owning-your-ai-why-i-self-host-a-personal-assistant-with-long-term-memory-3488)
+- [AI Memory OSS를 프롬프트가 아니라 백엔드 시스템으로 읽는 10가지 질문](https://dev.to/junhyun-dev/ai-memory-ossreul-peurompeuteuga-anira-baegendeu-siseutemeuro-ilgneun-10gaji-jilmun-1h9h)
+- [Full Stack Developer. I build fast, responsive, SEO-friendly websites and modern SaaS products.](https://dev.to/krishnan_p/full-stack-developer-i-build-fast-responsive-seo-friendly-websites-and-modern-saas-products-4ik8)
+- [H5 or Native App for QR-Based Device Rentals? A Decision Framework](https://dev.to/_2e753170f7cbf17032d37/h5-or-native-app-for-qr-based-device-rentals-a-decision-framework-1924)
+- [Lessons Learned Building and Launching FugoFresh, a Calorie Counter Mobile App in 2026](https://dev.to/fugofresh/lessons-learned-building-and-launching-fugofresh-a-calorie-counter-mobile-app-in-2026-1gpn)
+- [SVD y PCA: cómo el álgebra lineal comprime miles de dimensiones](https://dev.to/lu1tr0n/svd-y-pca-como-el-algebra-lineal-comprime-miles-de-dimensiones-l9p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
