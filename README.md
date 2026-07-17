@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Signal Nobody Heard, Fixing a Silent AbortSignal Bug in OpenClaw](https://dev.to/aniruddhaadak/the-signal-nobody-heard-fixing-a-silent-abortsignal-bug-in-openclaw-3ko7)
-- [🚀 I Combined 3 AI Models Using Hermes Agent’s Mixture of Agents! Here’s What Happened](https://dev.to/vivek_shetye/i-combined-3-ai-models-using-hermes-agents-mixture-of-agents-heres-what-happened-14c1)
-- [Wardrobe: Revolutionizing Fashion Management with AI-Powered Image Extraction](https://dev.to/dd8888/wardrobe-revolutionizing-fashion-management-with-ai-powered-image-extraction-4794)
-- [Building AI Agents in PHP: Tool Calling with Laravel](https://dev.to/adityakdevin/building-ai-agents-in-php-tool-calling-with-laravel-4fji)
-- [Keep Your AI Agent Traces on Your Machine: A Local-First Approach](https://dev.to/raju_dandigam/keep-your-ai-agent-traces-on-your-machine-a-local-first-approach-5b9l)
+- [When Green Browser Tests Lie: Environment Drift, CI Noise, and Hidden Runtime Failures](https://dev.to/orbitpickle307/when-green-browser-tests-lie-environment-drift-ci-noise-and-hidden-runtime-failures-1p69)
+- [Modern Frontend Testing Is Mostly About State, Timing, and Geometry](https://dev.to/mellowthunder735/modern-frontend-testing-is-mostly-about-state-timing-and-geometry-4f7g)
+- [What a One-Line CSS Fix Taught Me About Code Review &lpar;My First Firefox Patch Feedback Loop&rpar;](https://dev.to/chukwukarosemary23/what-a-one-line-css-fix-taught-me-about-code-review-my-first-firefox-patch-feedback-loop-848)
+- [Give your voice agent an email address for follow-ups](https://dev.to/mqasimca/give-your-voice-agent-an-email-address-for-follow-ups-30bm)
+- [Build a webhook-driven email pipeline for your AI agent](https://dev.to/mqasimca/build-a-webhook-driven-email-pipeline-for-your-ai-agent-211m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
