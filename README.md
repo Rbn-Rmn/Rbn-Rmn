@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Attention Sinks: Why Streaming LLMs Break When You Evict Token 0](https://dev.to/ji_ai/attention-sinks-why-streaming-llms-break-when-you-evict-token-0-5a1b)
-- [QUIC-Based NAT Traversal: How PUNCH_ME_NOW Frames Are Standardizing Hole Punching](https://dev.to/mannansaood_83/quic-based-nat-traversal-how-punchmenow-frames-are-standardizing-hole-punching-2969)
-- [I am Building an AI Court with AI Judges, AI Lawyers.](https://dev.to/priyanshu_maity_df65ee34f/i-am-building-an-ai-court-with-ai-judges-ai-lawyers-40k0)
-- [ATLOCK v4 vs. Typical Third-Party Security Software: What You&#39;re Actually Trading Off](https://dev.to/akhourianmolkumar/atlock-v4-vs-typical-third-party-security-software-what-youre-actually-trading-off-52c7)
-- [Voice-First UX: Building the React Frontend and Web Speech Integration for BizBoost AI](https://dev.to/sufiya_shariff/voice-first-ux-building-the-react-frontend-and-web-speech-integration-for-bizboost-ai-5apg)
+- [MAD-SHOW Lighting Control Software: A Comprehensive Guide from Beginner to Advanced Features](https://dev.to/madshow/mad-show-lighting-control-software-a-comprehensive-guide-from-beginner-to-advanced-features-31hj)
+- [My Personal AI Stack in 2026](https://dev.to/jaideepparashar/my-personal-ai-stack-in-2026-2epn)
+- [The AI Blind Spot: Why &quot;It Works&quot; Isn&#39;t the Same as &quot;It&#39;s Safe to Launch&quot;](https://dev.to/nokazehayato/the-ai-blind-spot-why-it-works-isnt-the-same-as-its-safe-to-launch-37h2)
+- [Introduction to Probo-ui — Write HTML Entirely in Python series](https://dev.to/mojahid0youness/introduction-to-probo-ui-write-html-entirely-in-python-series-5185)
+- [Why Static Accessibility Scanners Miss What AI Agents Hit](https://dev.to/a11ysolutions/why-static-accessibility-scanners-miss-what-ai-agents-hit-2bg0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
