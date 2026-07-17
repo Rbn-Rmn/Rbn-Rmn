@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [When Green Browser Tests Lie: Environment Drift, CI Noise, and Hidden Runtime Failures](https://dev.to/orbitpickle307/when-green-browser-tests-lie-environment-drift-ci-noise-and-hidden-runtime-failures-1p69)
-- [Modern Frontend Testing Is Mostly About State, Timing, and Geometry](https://dev.to/mellowthunder735/modern-frontend-testing-is-mostly-about-state-timing-and-geometry-4f7g)
-- [What a One-Line CSS Fix Taught Me About Code Review &lpar;My First Firefox Patch Feedback Loop&rpar;](https://dev.to/chukwukarosemary23/what-a-one-line-css-fix-taught-me-about-code-review-my-first-firefox-patch-feedback-loop-848)
-- [Give your voice agent an email address for follow-ups](https://dev.to/mqasimca/give-your-voice-agent-an-email-address-for-follow-ups-30bm)
-- [Build a webhook-driven email pipeline for your AI agent](https://dev.to/mqasimca/build-a-webhook-driven-email-pipeline-for-your-ai-agent-211m)
+- [Security news weekly round-up - 17th July 2026](https://dev.to/ziizium/security-news-weekly-round-up-17th-july-2026-2a1l)
+- [Anxious About the Tech Market? Try Digging a New Hole](https://dev.to/theoriginalbpc/anxious-about-the-tech-market-try-digging-a-new-hole-1c5)
+- [I Built an AI Face-Analysis Suite From Scratch — Here&#39;s What I Learned](https://dev.to/star_doppel_b782d4e097c70/i-built-an-ai-face-analysis-suite-from-scratch-heres-what-i-learned-35mk)
+- [Docker Compose verstehen: Services, Volumes, Netzwerke](https://dev.to/serverkueche/docker-compose-verstehen-services-volumes-netzwerke-11je)
+- [How are hashed passwords not the same even if the original passwords are.](https://dev.to/shiwani08/how-are-hashed-passwords-not-the-same-even-if-the-original-passwords-are-4eom)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
