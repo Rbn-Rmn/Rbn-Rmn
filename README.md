@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [MAD-SHOW Lighting Control Software: A Comprehensive Guide from Beginner to Advanced Features](https://dev.to/madshow/mad-show-lighting-control-software-a-comprehensive-guide-from-beginner-to-advanced-features-31hj)
-- [My Personal AI Stack in 2026](https://dev.to/jaideepparashar/my-personal-ai-stack-in-2026-2epn)
-- [The AI Blind Spot: Why &quot;It Works&quot; Isn&#39;t the Same as &quot;It&#39;s Safe to Launch&quot;](https://dev.to/nokazehayato/the-ai-blind-spot-why-it-works-isnt-the-same-as-its-safe-to-launch-37h2)
-- [Introduction to Probo-ui — Write HTML Entirely in Python series](https://dev.to/mojahid0youness/introduction-to-probo-ui-write-html-entirely-in-python-series-5185)
-- [Why Static Accessibility Scanners Miss What AI Agents Hit](https://dev.to/a11ysolutions/why-static-accessibility-scanners-miss-what-ai-agents-hit-2bg0)
+- [Node.js Internals — An Uncle-Nephew Conversation &lpar;Hindi&rpar;🍵](https://dev.to/surajrkhonde/nodejs-internals-an-uncle-nephew-conversation-hindi-7n0)
+- [Under the hood of, JavaScript&#39;s Type Conversion](https://dev.to/d32ssv/under-the-hood-of-javascripts-type-conversion-2epc)
+- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-706)
+- [Catch the 5-Hour Cap Before You Hit It: token-budget-advisor and Status-Line Integration](https://dev.to/bokuwalily/catch-the-5-hour-cap-before-you-hit-it-token-budget-advisor-and-status-line-integration-14ab)
+- [The Quiet Surrender](https://dev.to/rawveg/the-quiet-surrender-2429)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
