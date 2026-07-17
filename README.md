@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Archetype: The Bear Killer](https://dev.to/druid628/archetype-the-bear-killer-3e9o)
-- [&quot;My AI engineer has a second AI that tells it NO. Three times, it was right.&quot;](https://dev.to/nunc/my-ai-engineer-has-a-second-ai-that-tells-it-no-three-times-it-was-right-162l)
-- [Why a password is not a security architecture for connected building devices](https://dev.to/zoranstankovic/why-a-password-is-not-a-security-architecture-for-connected-building-devices-5241)
-- [How to run Codex with GPT-5.6 on Amazon Bedrock](https://dev.to/aws/how-to-run-codex-with-gpt-56-on-amazon-bedrock-12f4)
-- [Ship Your Own Social Listening Agent in ~200 Lines of TypeScript](https://dev.to/tmoreton/ship-your-own-social-listening-agent-in-200-lines-of-typescript-49a6)
+- [Linux Foundation x402 protocol enables native AI payments](https://dev.to/vpodk/linux-foundation-x402-protocol-enables-native-ai-payments-4pgo)
+- [Modern Compute Strategies for Agentic Workloads](https://dev.to/vpodk/modern-compute-strategies-for-agentic-workloads-58cm)
+- [ISO Standardizes Classic McEliece for Post-Quantum Security](https://dev.to/vpodk/iso-standardizes-classic-mceliece-for-post-quantum-security-3m4j)
+- [I built Header Relay: a Chrome extension that captures response headers and replays them on later requests](https://dev.to/hsb/i-built-header-relay-a-chrome-extension-that-captures-response-headers-and-replays-them-on-later-6h5)
+- [Build a Real-Time Inventory Dashboard in Google Sheets &lpar;Reorder Points + Low-Stock Alerts&rpar;](https://dev.to/hayrullahkar/build-a-real-time-inventory-dashboard-in-google-sheets-reorder-points-low-stock-alerts-30ef)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
