@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The evolution of how we use CSS](https://dev.to/hdzilyes/the-evolution-of-how-we-use-css-3ojo)
-- [A tiny engine for generating file trees](https://dev.to/hdzilyes/a-tiny-engine-for-generating-file-trees-4m)
-- [$20/Month: The Price Ceiling Every AI Company Copied](https://dev.to/qainsights/20month-the-price-ceiling-every-ai-company-copied-1jej)
-- [Customizable workout app](https://dev.to/pawlee/customizable-workout-app-184l)
-- [Stop Rebasing Every Time: A Safer Way to Keep Your Git Branch Updated with `master`](https://dev.to/mrajaeim/stop-rebasing-every-time-a-safer-way-to-keep-your-git-branch-updated-with-master-4ojh)
+- [The Dot-Com Deception &lpar;1998-2000&rpar;: Infrastructure of the Hidden Market](https://dev.to/bioshistory/the-dot-com-deception-1998-2000-infrastructure-of-the-hidden-market-4580)
+- [Beyond FP32: The Android Developer&#39;s Guide to High-Performance Custom Quantized Model Integration](https://dev.to/programmingcentral/beyond-fp32-the-android-developers-guide-to-high-performance-custom-quantized-model-integration-j12)
+- [Nobody Agrees When AGI Arrives. Build for the Shift Instead.](https://dev.to/studiomeyer_io/nobody-agrees-when-agi-arrives-build-for-the-shift-instead-elf)
+- [AL-MUNAA: a collective immune system for AI agents](https://dev.to/farhanward/al-munaa-a-collective-immune-system-for-ai-agents-37fb)
+- [9 checks before you launch an AI-built web app](https://dev.to/eric-evidence-gate/9-checks-before-you-launch-an-ai-built-web-app-1852)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
