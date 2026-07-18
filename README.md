@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Dot-Com Deception &lpar;1998-2000&rpar;: Infrastructure of the Hidden Market](https://dev.to/bioshistory/the-dot-com-deception-1998-2000-infrastructure-of-the-hidden-market-4580)
-- [Beyond FP32: The Android Developer&#39;s Guide to High-Performance Custom Quantized Model Integration](https://dev.to/programmingcentral/beyond-fp32-the-android-developers-guide-to-high-performance-custom-quantized-model-integration-j12)
-- [Nobody Agrees When AGI Arrives. Build for the Shift Instead.](https://dev.to/studiomeyer_io/nobody-agrees-when-agi-arrives-build-for-the-shift-instead-elf)
-- [AL-MUNAA: a collective immune system for AI agents](https://dev.to/farhanward/al-munaa-a-collective-immune-system-for-ai-agents-37fb)
-- [9 checks before you launch an AI-built web app](https://dev.to/eric-evidence-gate/9-checks-before-you-launch-an-ai-built-web-app-1852)
+- [Building Predictive Maintenance Systems for Aircraft Using Machine Learning](https://dev.to/samsuseelan/building-predictive-maintenance-systems-for-aircraft-using-machine-learning-5dcb)
+- [What is Django? A Complete Guide to the Django Framework, Benefits, Use Cases &amp; Getting Started](https://dev.to/amkarimi/what-is-django-a-complete-guide-to-the-django-framework-benefits-use-cases-getting-started-oh0)
+- [Trust the Calculator](https://dev.to/nabbilkhan/trust-the-calculator-3aef)
+- [Tesla Built the First Wireless Remote Control](https://dev.to/fluidwire/tesla-built-the-first-wireless-remote-control-5fbn)
+- [LOD &lpar;Law of Demeter&rpar;](https://dev.to/yuripeixinho/lod-law-of-demeter-8bi)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
