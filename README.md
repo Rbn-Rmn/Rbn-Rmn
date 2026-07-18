@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Password Strength Checker That Actually Works &lpar;Here&#39;s Why Most Fail&rpar;](https://dev.to/swift242/i-built-a-password-strength-checker-that-actually-works-heres-why-most-fail-25kj)
-- [Apache Data Lakehouse Weekly: July 11 to July 18, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-july-11-to-july-18-2026-3f1p)
-- [geomap-engine: fusing AR pose + object detections into a 2D map, in Rust](https://dev.to/bibek_ghimire_aa80c2f89f9/geomap-engine-fusing-ar-pose-object-detections-into-a-2d-map-in-rust-47nb)
-- [HI !! Let&#39;s start OOP simply.](https://dev.to/roqia_ibahim_d3c8be9de97a/hi-lets-start-oop-simply-5ej)
-- [Integrating Playwright with Other Tools &lpar;Allure, Postman, etc.&rpar;](https://dev.to/aswani25/integrating-playwright-with-other-tools-allure-postman-etc-72h)
+- [[Boost]](https://dev.to/copyleftdev/-3c00)
+- [[Boost]](https://dev.to/renolu/-1h7c)
+- [Just use Deno](https://dev.to/hdzilyes/just-use-deno-2ai9)
+- [A* Search Algorithm: Game Pathfinding Explained](https://dev.to/doogal/a-search-algorithm-game-pathfinding-explained-4jmj)
+- [LLD Domain Modeling: Final Anti-Pattern Guide &lpar;How Good Designs Slowly Turn Bad&rpar;](https://dev.to/saras_growth_space/lld-domain-modeling-final-anti-pattern-guide-how-good-designs-slowly-turn-bad-2fg9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
