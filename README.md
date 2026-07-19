@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Resolviendo los 404 de Google Search Console](https://dev.to/aws-builders/resolviendo-los-404-de-google-search-console-3bc3)
-- [Are AI Agent Engrams Open Source or Proprietary?](https://dev.to/plur9/are-ai-agent-engrams-open-source-or-proprietary-58kh)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-3o1k)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-285f)
-- [The agent proposes, the human disposes: building a food-safety autopilot on Qwen](https://dev.to/mark124/the-agent-proposes-the-human-disposes-building-a-food-safety-autopilot-on-qwen-3k4d)
+- [Detecting AI Agent Behavioral Drift with OpenTelemetry and SigNoz](https://dev.to/codewithveek/detecting-ai-agent-behavioral-drift-with-opentelemetry-and-signoz-3d98)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-4mm)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-26h3)
+- [Running Local LLMs in Java: Introducing jllm – A Minimalist Ollama Alternative](https://dev.to/hpscript/running-local-llms-in-java-introducing-jllm-a-minimalist-ollama-alternative-3ic6)
+- [One API key, three terminals: driving many models from the shell with llm, mods and aichat](https://dev.to/seven7763/one-api-key-three-terminals-driving-many-models-from-the-shell-with-llm-mods-and-aichat-c0b)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
