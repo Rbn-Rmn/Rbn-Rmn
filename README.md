@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Pin Metric Revisions Before Repository Usage Backfills Rewrite History](https://dev.to/robinzzz/pin-metric-revisions-before-repository-usage-backfills-rewrite-history-1jnh)
-- [Test the Copilot Desktop App With a 20-Minute BYOK Exit Drill](https://dev.to/rivera123/test-the-copilot-desktop-app-with-a-20-minute-byok-exit-drill-1b16)
-- [Repository-Level Copilot Metrics Need a Cardinality Budget Before Export](https://dev.to/odd_background_328/repository-level-copilot-metrics-need-a-cardinality-budget-before-export-2450)
-- [Make Copilot Review Configuration Observable From Pull Request to Finding](https://dev.to/kongkong1/make-copilot-review-configuration-observable-from-pull-request-to-finding-3p0n)
-- [Treat Copilot Code-Review Instructions as Untrusted Policy Input](https://dev.to/jaryn_123/treat-copilot-code-review-instructions-as-untrusted-policy-input-1if7)
+- [The Archive Multiplier: Why eth_call at a Historical Block](https://dev.to/openchainbench/the-archive-multiplier-why-ethcall-at-a-historical-block-4c7g)
+- [TypeScript Generic Constraints in Depth: `extends`, `keyof`, and the Patterns That Prevent Runtime Errors](https://dev.to/jsmanifest/typescript-generic-constraints-in-depth-extends-keyof-and-the-patterns-that-prevent-runtime-40cb)
+- [Deploying MySQL on RDS and Joining Tables Like It&#39;s Production](https://dev.to/hashirsaudkhan/deploying-mysql-on-rds-and-joining-tables-like-its-production-ck)
+- [Building SmartStock AI: An AI-Powered Inventory Management Platform with Django, LangChain &amp; Multi-Agent Workflows](https://dev.to/ayman_kasim/building-smartstock-ai-an-ai-powered-inventory-management-platform-with-django-langchain--mhk)
+- [How I Let an AI Agent Save a Draft on DEV](https://dev.to/protostatis/how-i-let-an-ai-agent-save-a-draft-on-dev-am5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
