@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Fully Autonomous AI Reverse-Engineering Agent in Go](https://dev.to/abdulm/i-built-a-fully-autonomous-ai-reverse-engineering-agent-in-go-257k)
-- [Python quickstart: nutrition data in 10 lines](https://dev.to/dietly/python-quickstart-nutrition-data-in-10-lines-5ff4)
-- [Linux File Permissions &amp; Ownership Explained for SOC Analysts &lpar;Day 10— Linux Phase&rpar;](https://dev.to/faizan-nazir/day-9-linux-file-system-hierarchy-2ac2)
-- [The AI hype is a mass psychosis echo chamber of incompetent individuals](https://dev.to/aob2f/the-ai-hype-is-a-mass-psychosis-echo-chamber-of-incompetent-individuals-450o)
-- [I Fixed Unbounded Shell Output in an Open Source Agent. My First Draft Would Have Corrupted Text.](https://dev.to/enjoy_kumawat/i-fixed-unbounded-shell-output-in-an-open-source-agent-my-first-draft-would-have-corrupted-text-3egp)
+- [Pin Metric Revisions Before Repository Usage Backfills Rewrite History](https://dev.to/robinzzz/pin-metric-revisions-before-repository-usage-backfills-rewrite-history-1jnh)
+- [Test the Copilot Desktop App With a 20-Minute BYOK Exit Drill](https://dev.to/rivera123/test-the-copilot-desktop-app-with-a-20-minute-byok-exit-drill-1b16)
+- [Repository-Level Copilot Metrics Need a Cardinality Budget Before Export](https://dev.to/odd_background_328/repository-level-copilot-metrics-need-a-cardinality-budget-before-export-2450)
+- [Make Copilot Review Configuration Observable From Pull Request to Finding](https://dev.to/kongkong1/make-copilot-review-configuration-observable-from-pull-request-to-finding-3p0n)
+- [Treat Copilot Code-Review Instructions as Untrusted Policy Input](https://dev.to/jaryn_123/treat-copilot-code-review-instructions-as-untrusted-policy-input-1if7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
