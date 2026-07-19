@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Filling the PASETO gap in JavaScript: paseto-kit &lpar;v3/v4 + full PASERK&rpar;](https://dev.to/elalitareq/filling-the-paseto-gap-in-javascript-paseto-kit-v3v4-full-paserk-be5)
-- [Stratagems #18: Leo Tracked an AI Signal to Derek. Both Were Looking for the Same Enemy.](https://dev.to/xulingfeng/stratagems-18-leo-tracked-an-ai-signal-to-derek-both-were-looking-for-the-same-enemy-51g4)
-- [# Colibri Made Me Rethink How We Run LLMs — And There Might Be a Next Step](https://dev.to/lhabacuc/-colibri-made-me-rethink-how-we-run-llms-and-there-might-be-a-next-step-52bj)
-- [Why Python is the Uncontested King of AI Development in 2026](https://dev.to/oviawe_nosa_78bf57cb51e41/why-python-is-the-uncontested-king-of-ai-development-in-2026-5h4h)
-- [Building Your First AI Agent with Python: A Beginner&#39;s Guide](https://dev.to/oviawe_nosa_78bf57cb51e41/building-your-first-ai-agent-with-python-a-beginners-guide-fe9)
+- [J&#39;ai automatisé la production d&#39;articles SEO avec Claude Code — et le plus important, c&#39;est le garde-fou](https://dev.to/hernanz/jai-automatise-la-production-darticles-seo-avec-claude-code-et-le-plus-important-cest-le-421f)
+- [Test Saga Compensation When Payment Succeeds but Inventory Times Out](https://dev.to/robinzzz/test-saga-compensation-when-payment-succeeds-but-inventory-times-out-2li4)
+- [A Bulk Delete Confirmation Must Show the Set That Will Actually Disappear](https://dev.to/haaaaaley/a-bulk-delete-confirmation-must-show-the-set-that-will-actually-disappear-5a3k)
+- [Prove Your Mobile Upload Removed EXIF GPS Before the Retry Queue Keeps a Copy](https://dev.to/roronoa_/prove-your-mobile-upload-removed-exif-gps-before-the-retry-queue-keeps-a-copy-512p)
+- [Fill a WAL Volume on Purpose Before ENOSPC Turns Your Health Check Green](https://dev.to/odd_background_328/fill-a-wal-volume-on-purpose-before-enospc-turns-your-health-check-green-1fkp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
