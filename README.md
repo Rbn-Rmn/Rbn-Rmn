@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Model Context Protocol &lpar;MCP&rpar;, Explained](https://dev.to/sudo_anuj/model-context-protocol-mcp-explained-3n5m)
-- [Browser-use&#39;s Real Risk Surface Is the Browser Session](https://dev.to/doramagic/browser-uses-real-risk-surface-is-the-browser-session-5181)
-- [Deploy a New Version of the Application &lpar;v2&rpar;](https://dev.to/jumptotech/deploy-a-new-version-of-the-application-v2-1kg0)
-- [Black-Scholes Explained Simply - With Python Code](https://dev.to/amit_kumarjha/black-scholes-explained-simply-with-python-code-5d0d)
-- [Dev Log: 2026-07-19](https://dev.to/nasrulhazim/dev-log-2026-07-19-2n7m)
+- [Ready for your website to dominate search? Let&#39;s break down On-Page SEO 2024 now!](https://dev.to/javapixastudio/ready-for-your-website-to-dominate-search-lets-break-down-on-page-seo-2024-now-43h5)
+- [How to Build a Subscription Billing System in India &lpar;2026&rpar;: Mandates, Proration, Dunning, GST Invoices, and Build vs Buy](https://dev.to/buildbyravirai/how-to-build-a-subscription-billing-system-in-india-2026-mandates-proration-dunning-gst-j3)
+- [I built a zero-dependency static site generator for calculator sites, then used it to launch two live sites](https://dev.to/fedevb30/i-built-a-zero-dependency-static-site-generator-for-calculator-sites-then-used-it-to-launch-two-4eol)
+- [I built AutoML for quantum machine learning — here&#39;s the architecture](https://dev.to/edwinjosechittilappi/i-built-automl-for-quantum-machine-learning-heres-the-architecture-454b)
+- [Building Resilient Real-Time Systems: WebSockets, Redis, and High Availability](https://dev.to/tamizuddin/building-resilient-real-time-systems-websockets-redis-and-high-availability-2gb0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
