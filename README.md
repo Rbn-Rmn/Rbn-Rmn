@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Resolving color contrast over CSS gradients](https://dev.to/chris_morris/resolving-color-contrast-over-css-gradients-3ke9)
-- [My embedding server died and I didn&#39;t notice for two weeks](https://dev.to/hellmaca/my-embedding-server-died-and-i-didnt-notice-for-two-weeks-1hol)
-- [I am currently building an open-source IT Dashboard](https://dev.to/austincabler13/i-am-currently-building-an-open-source-it-dashboard-4nkm)
-- [Need a different partition key in Azure Cosmos DB? Pick the right approach](https://dev.to/abhirockzz/need-a-different-partition-key-in-azure-cosmos-db-pick-the-right-approach-gji)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-4n7p)
+- [Password Strength Checker and the case for browser-side cryptography](https://dev.to/mryesiller/password-strength-checker-and-the-case-for-browser-side-cryptography-3kkm)
+- [A Smaller Foundation for JavaScript Reactivity](https://dev.to/doeixd/a-smaller-foundation-for-javascript-reactivity-2fad)
+- [MathWorks lets AI Agents to Execute and Validate MATLAB Engineering Workflows](https://dev.to/davekurian/mathworks-lets-ai-agents-to-execute-and-validate-matlab-engineering-workflows-4gmj)
+- [Killing N+1 Queries: From Per-Row Lookups to Flat, Batched Reads](https://dev.to/daniel_akudbilla_999ccff6/killing-n1-queries-from-per-row-lookups-to-flat-batched-reads-32f7)
+- [MCP Explained for Beginners: The Easiest Way to Understand Model Context Protocol](https://dev.to/darshanraval/mcp-explained-for-beginners-the-easiest-way-to-understand-model-context-protocol-512h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
