@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Starting My Frontend Development Journey: Day 2 of #100DaysOfCode 💻🚀](https://dev.to/codewithsehar/starting-my-frontend-development-journey-day-2-of-100daysofcode-56cc)
-- [How LLMs Work: Transformer, Attention &amp; Next Token Prediction Explained](https://dev.to/rahulvijayvergiya/how-llms-work-transformer-attention-next-token-prediction-explained-3jm2)
-- [How to Monitor SSL Certificates and DNS Changes with Python](https://dev.to/weeknds/how-to-monitor-ssl-certificates-and-dns-changes-with-python-56cb)
-- [Tailwind CSS v4: Architecture, Features, and Performance Upgrades Deep Dive](https://dev.to/tamizuddin/tailwind-css-v4-architecture-features-and-performance-upgrades-deep-dive-4gon)
-- [I Built a Self-Hosted Music Streaming Service on a Two Hundred Dollar Laptop &lpar;And My AI Agent Helps Manage It&rpar;](https://dev.to/hermesxclawctrl/i-built-a-self-hosted-music-streaming-service-on-a-00-laptop-and-my-ai-agent-helps-manage-it-98d)
+- [Part 4 — Tags, ratings, and richer rows](https://dev.to/nerd_snipe_dev/part-4-tags-ratings-and-richer-rows-194i)
+- [Claude 3.5 Sonnet is the New Default Workhorse](https://dev.to/albertomontagnese/claude-35-sonnet-is-the-new-default-workhorse-3mif)
+- [local-llm: A Field Report on Running SOTA Models on Your Own Hardware](https://dev.to/renolu/local-llm-a-field-report-on-running-sota-models-on-your-own-hardware-5g2d)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-132c)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-1dpm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
