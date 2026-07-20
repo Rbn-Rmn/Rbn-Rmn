@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-a11)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-51id)
-- [Gateway Talents in Solon AI: OpenAPI, Tool, and MCP Surfaces That Scale Without Context Blow-Up](https://dev.to/solonjava/gateway-talents-in-solon-ai-openapi-tool-and-mcp-surfaces-that-scale-without-context-blow-up-36ca)
-- [I built a site with 150+ browser-only dev tools &lpar;Astro + Vue 3 + TypeScript&rpar; — here&#39;s how it&#39;s put together](https://dev.to/mi8bi/i-built-a-site-with-150-browser-only-dev-tools-astro-vue-3-typescript-heres-how-its-put-52l2)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-3hg1)
+- [Model Context Protocol &lpar;MCP&rpar;, Explained](https://dev.to/sudo_anuj/model-context-protocol-mcp-explained-3n5m)
+- [Browser-use&#39;s Real Risk Surface Is the Browser Session](https://dev.to/doramagic/browser-uses-real-risk-surface-is-the-browser-session-5181)
+- [Deploy a New Version of the Application &lpar;v2&rpar;](https://dev.to/jumptotech/deploy-a-new-version-of-the-application-v2-1kg0)
+- [Black-Scholes Explained Simply - With Python Code](https://dev.to/amit_kumarjha/black-scholes-explained-simply-with-python-code-5d0d)
+- [Dev Log: 2026-07-19](https://dev.to/nasrulhazim/dev-log-2026-07-19-2n7m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
