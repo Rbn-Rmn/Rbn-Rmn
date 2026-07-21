@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [LongCat-Video-Avatar 1.5 cuts inference to 8 steps — here&#39;s](https://dev.to/creeta/longcat-video-avatar-15-cuts-inference-to-8-steps-heres-152b)
-- [AI Didn&#39;t Kill Software Engineering. It Made It More Valuable Than Ever.](https://dev.to/jlio_csarkdel_6c306c2/ai-didnt-kill-software-engineering-it-made-it-more-valuable-than-ever-4o9n)
-- [A IA não matou a Engenharia de Software. Ela a tornou mais importante do que nunca.](https://dev.to/jlio_csarkdel_6c306c2/a-ia-nao-matou-a-engenharia-de-software-ela-a-tornou-mais-importante-do-que-nunca-295p)
-- [Getting Started with Sinch Functions](https://dev.to/gunnargrosch/getting-started-with-sinch-functions-3eeo)
-- [TraceTree: Feature Update!!!](https://dev.to/tejas_yaml/tracetree-feature-update-h4h)
+- [How I stopped fighting print lines and started covering them instead](https://dev.to/josh_green_dev/how-i-stopped-fighting-print-lines-and-started-covering-them-instead-2ljf)
+- [I Shipped My First Rust Release, and CI Turned Red Twice in 20 Minutes](https://dev.to/wahib_el_khadiri_0/i-shipped-my-first-rust-release-and-ci-turned-red-twice-in-20-minutes-31hp)
+- [Kimi K3 vs Claude Fable 5 and Opus 4.8: a benchmark you can run yourself](https://dev.to/dsplce-co/kimi-k3-vs-claude-fable-5-and-opus-48-a-benchmark-you-can-run-yourself-4b15)
+- [Kdrant: an idiomatic, coroutine-first Kotlin client for Qdrant](https://dev.to/tonytonycoder11/kdrant-an-idiomatic-coroutine-first-kotlin-client-for-qdrant-4i49)
+- [The circular_buffer trap: how a &#39;faster&#39; data structure spiked my CPU from 2% to 25%](https://dev.to/madenvel/the-circularbuffer-trap-how-a-faster-data-structure-spiked-my-cpu-from-2-to-25-1h2n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
