@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [OIDC Authentication Succeeded, but npm Publish Returned 404 — Here’s What Happened](https://dev.to/0xkoji/oidc-authentication-succeeded-but-npm-publish-returned-404-heres-what-happened-6ei)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-4o8l)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-1c77)
-- [Why Your AI Agent&#39;s Biggest Vulnerability Isn&#39;t a Missing Firewall](https://dev.to/humanbound_ai/why-your-ai-agents-biggest-vulnerability-isnt-a-missing-firewall-3j08)
-- [Bootstrap 5 Grid System: The Complete Guide for 2026](https://dev.to/lettstartdesign-official/bootstrap-5-grid-system-the-complete-guide-for-2026-17jj)
+- [My Local AI Assistant Got Worse When I Remembered Too Much](https://dev.to/toddsullivan/my-local-ai-assistant-got-worse-when-i-remembered-too-much-3egp)
+- [RedHook malware turns on your phone&#39;s Wireless Debugging to stream your screen — and it never touches the consent dialog](https://dev.to/superfunicular/redhook-malware-turns-on-your-phones-wireless-debugging-to-stream-your-screen-and-it-never-459b)
+- [Fluent Is Not Faithful: Building a Safer AI Paraphrasing Pipeline](https://dev.to/luke_m_2f4034aa8793842a3/fluent-is-not-faithful-building-a-safer-ai-paraphrasing-pipeline-cpf)
+- [How to Install Postiz on a Local Windows Machine](https://dev.to/mathiasahlgren/how-to-install-postiz-on-a-local-windows-machine-1544)
+- [They Rebuilt a Bank Like a Startup - Here&#39;s What Actually Worked](https://dev.to/harry_williams/they-rebuilt-a-bank-like-a-startup-heres-what-actually-worked-165m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
