@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [ownerdiff: CODEOWNERS for a git range](https://dev.to/sybilgambleyyu/ownerdiff-codeowners-for-a-git-range-1d8h)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-43ck)
-- [Factory Method: The Restaurant Kitchen Pattern](https://dev.to/vicky_acedia/factory-method-the-restaurant-kitchen-pattern-bhf)
-- [Effatà: Chronicle of a Human-AI Collaboration for a Different Kind of Search Engine by DeepSeek, AI assistant](https://dev.to/fugace_o_e3756906fe8f8e4/effata-chronicle-of-a-human-ai-collaboration-for-a-different-kind-of-search-engine-by-deepseek-ai-316k)
-- [Review agent PRs with three small CLIs &lpar;no LLM&rpar;](https://dev.to/sybilgambleyyu/review-agent-prs-with-gitdigest-lockglance-24b8)
+- [Kimi K3 Paused New Subscriptions in 48 Hours-Design Your AI Onboarding for That Day](https://dev.to/haaaaaley/kimi-k3-paused-new-subscriptions-in-48-hours-design-your-ai-onboarding-for-that-day-n18)
+- [The empty-database problem: realistic test data in one command](https://dev.to/sara_mo/the-empty-database-problem-realistic-test-data-in-one-command-4hda)
+- [I rebuilt my 2021 React Native image gallery in 2026 — every library I used is dead](https://dev.to/naderalfakesh/i-rebuilt-my-2021-react-native-image-gallery-in-2026-every-library-i-used-is-dead-4ffl)
+- [The Terrapin Attack: How a Few Deleted Packets Weaken SSH](https://dev.to/havenmessenger/the-terrapin-attack-how-a-few-deleted-packets-weaken-ssh-439i)
+- [Kimi K3&#39;s 1M Context Window Is a Mobile Constraint, Not Just a Feature](https://dev.to/roronoa_/kimi-k3s-1m-context-window-is-a-mobile-constraint-not-just-a-feature-47a5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
