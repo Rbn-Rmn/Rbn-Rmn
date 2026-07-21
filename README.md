@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [From &quot;You Have a Bug&quot; to &quot;Here&#39;s the Root Cause&quot; - Adding AI Code Analysis to My App Review Pipeline](https://dev.to/ashish_mishra_8491c3b9912/from-you-have-a-bug-to-heres-the-root-cause-adding-ai-code-analysis-to-my-app-review-pipeline-51f1)
-- [[Boost]](https://dev.to/atrandafir/-5b8m)
-- [Spec-Driven Development: quando a especificação vira a fonte da verdade &lpar;não o código&rpar;](https://dev.to/wildrik/spec-driven-development-quando-a-especificacao-vira-a-fonte-da-verdade-nao-o-codigo-f7d)
-- [Your hallucination checker only sees the final paragraph](https://dev.to/amin_parva_ab01ff398fd341/your-hallucination-checker-only-sees-the-final-paragraph-416m)
-- [Every AWS project starts with copy-pasting last repo&#39;s Terraform. I built a generator instead.](https://dev.to/framz/every-aws-project-starts-with-copy-pasting-last-repos-terraform-i-built-a-generator-instead-2fpg)
+- [OIDC Authentication Succeeded, but npm Publish Returned 404 — Here’s What Happened](https://dev.to/0xkoji/oidc-authentication-succeeded-but-npm-publish-returned-404-heres-what-happened-6ei)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-4o8l)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-1c77)
+- [Why Your AI Agent&#39;s Biggest Vulnerability Isn&#39;t a Missing Firewall](https://dev.to/humanbound_ai/why-your-ai-agents-biggest-vulnerability-isnt-a-missing-firewall-3j08)
+- [Bootstrap 5 Grid System: The Complete Guide for 2026](https://dev.to/lettstartdesign-official/bootstrap-5-grid-system-the-complete-guide-for-2026-17jj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
