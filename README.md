@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My Local AI Assistant Got Worse When I Remembered Too Much](https://dev.to/toddsullivan/my-local-ai-assistant-got-worse-when-i-remembered-too-much-3egp)
-- [RedHook malware turns on your phone&#39;s Wireless Debugging to stream your screen — and it never touches the consent dialog](https://dev.to/superfunicular/redhook-malware-turns-on-your-phones-wireless-debugging-to-stream-your-screen-and-it-never-459b)
-- [Fluent Is Not Faithful: Building a Safer AI Paraphrasing Pipeline](https://dev.to/luke_m_2f4034aa8793842a3/fluent-is-not-faithful-building-a-safer-ai-paraphrasing-pipeline-cpf)
-- [How to Install Postiz on a Local Windows Machine](https://dev.to/mathiasahlgren/how-to-install-postiz-on-a-local-windows-machine-1544)
-- [They Rebuilt a Bank Like a Startup - Here&#39;s What Actually Worked](https://dev.to/harry_williams/they-rebuilt-a-bank-like-a-startup-heres-what-actually-worked-165m)
+- [ownerdiff: CODEOWNERS for a git range](https://dev.to/sybilgambleyyu/ownerdiff-codeowners-for-a-git-range-1d8h)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-43ck)
+- [Factory Method: The Restaurant Kitchen Pattern](https://dev.to/vicky_acedia/factory-method-the-restaurant-kitchen-pattern-bhf)
+- [Effatà: Chronicle of a Human-AI Collaboration for a Different Kind of Search Engine by DeepSeek, AI assistant](https://dev.to/fugace_o_e3756906fe8f8e4/effata-chronicle-of-a-human-ai-collaboration-for-a-different-kind-of-search-engine-by-deepseek-ai-316k)
+- [Review agent PRs with three small CLIs &lpar;no LLM&rpar;](https://dev.to/sybilgambleyyu/review-agent-prs-with-gitdigest-lockglance-24b8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
