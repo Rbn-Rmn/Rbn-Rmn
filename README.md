@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [FutureX · Physical AI Daily — Issue 65 &lpar;07/22&rpar;](https://dev.to/future_x/futurex-physical-ai-daily-issue-65-0722-4664)
-- [I Ran From EJB2 to Spring. Then I Went Back. Here&#39;s What I Found.](https://dev.to/ykpraveen/i-ran-from-ejb2-to-spring-then-i-went-back-heres-what-i-found-3n7f)
-- [StockPulse: 100% Local-First Sales Analytics &amp; Niche Radar Extension for Adobe Stock &amp; Shutterstock](https://dev.to/stockpulse/stockpulse-100-local-first-sales-analytics-niche-radar-extension-for-adobe-stock-shutterstock-1p0l)
-- [Argus: Reviewing Defense Contracts in Hours, With Every Verdict Backed by Evidence](https://dev.to/avirabino/argus-reviewing-defense-contracts-in-hours-with-every-verdict-backed-by-evidence-2i2p)
-- [The Door I Forgot to Lock, How One Missing Check Nearly Exposed Every Resume in My App](https://dev.to/aniruddhaadak/the-door-i-forgot-to-lock-how-one-missing-check-nearly-exposed-every-resume-in-my-app-mlf)
+- [DrawBook: progress pay apps without the spreadsheet tax](https://dev.to/sybilgambleyyu/drawbook-progress-pay-apps-without-the-spreadsheet-tax-2phe)
+- [Building Enterprise Brain OS: Creating an AI Operating System for Modern Enterprises](https://dev.to/dilip_chendra/building-enterprise-brain-os-creating-an-ai-operating-system-for-modern-enterprises-25np)
+- [Don&#39;t Trust the Marketing Page: Score Your Proxy Provider&#39;s IP Quality in ~60 Lines of Python](https://dev.to/proxyuniverse/dont-trust-the-marketing-page-score-your-proxy-providers-ip-quality-in-60-lines-of-python-1k7n)
+- [How an Autonomous Agent Breached Hugging Face — And What a RAG Poisoning Filter Would Have Stopped](https://dev.to/coridev/how-an-autonomous-agent-breached-hugging-face-and-what-a-rag-poisoning-filter-would-have-stopped-2361)
+- [Gemini 3.6 Flash &amp; 3.5 Flash-Lite: Developer guide](https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-i17)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
