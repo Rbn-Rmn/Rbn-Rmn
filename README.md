@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [DrawBook: progress pay apps without the spreadsheet tax](https://dev.to/sybilgambleyyu/drawbook-progress-pay-apps-without-the-spreadsheet-tax-2phe)
-- [Building Enterprise Brain OS: Creating an AI Operating System for Modern Enterprises](https://dev.to/dilip_chendra/building-enterprise-brain-os-creating-an-ai-operating-system-for-modern-enterprises-25np)
-- [Don&#39;t Trust the Marketing Page: Score Your Proxy Provider&#39;s IP Quality in ~60 Lines of Python](https://dev.to/proxyuniverse/dont-trust-the-marketing-page-score-your-proxy-providers-ip-quality-in-60-lines-of-python-1k7n)
-- [How an Autonomous Agent Breached Hugging Face — And What a RAG Poisoning Filter Would Have Stopped](https://dev.to/coridev/how-an-autonomous-agent-breached-hugging-face-and-what-a-rag-poisoning-filter-would-have-stopped-2361)
-- [Gemini 3.6 Flash &amp; 3.5 Flash-Lite: Developer guide](https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-i17)
+- [Technologies And Concepts: Cheat Sheet for Developer Associate &lpar;DVA-C02&rpar;](https://dev.to/aws-builders/technologies-and-concepts-cheat-sheet-for-developer-associate-dva-c02-2jbp)
+- [How We Built an AI-Native Real Estate Platform for Northern Cyprus](https://dev.to/onur_dokuzolu_ae3db85aa9/how-we-built-an-ai-native-real-estate-platform-for-northern-cyprus-31h0)
+- [WeasyPrint Alternative: HTML to PDF in Python &lpar;When You Need JavaScript&rpar;](https://dev.to/accreditly/weasyprint-alternative-html-to-pdf-in-python-when-you-need-javascript-1965)
+- [*This is a submission for [DEV&#39;s Summer Bug Smash: Smash Stories]&lpar;https://dev.to/bugsmash&rpar; powered by [Sentry]&lpar;https://sentry.io/&rpar;.*](https://dev.to/sachittav/this-is-a-submission-for-devs-summer-bug-smash-smash-storieshttpsdevtobugsmash-powered-473m)
+- [Dominando Transações de Banco de Dados: Do Conceito à Prática com Laravel](https://dev.to/moreiraandre/dominando-transacoes-de-banco-de-dados-do-conceito-a-pratica-com-laravel-k26)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
