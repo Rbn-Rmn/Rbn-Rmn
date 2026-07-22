@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Incident Retrospectives Without Blame](https://dev.to/samson_tanimawo/incident-retrospectives-without-blame-29e)
-- [I built a coding agent in ~970 lines of Python and benchmarked it honestly](https://dev.to/troyjl_/i-built-a-coding-agent-in-970-lines-of-python-and-benchmarked-it-honestly-3jjf)
-- [Your coding agent runs a shell on your machine. I audited mine.](https://dev.to/agentiknet/your-coding-agent-runs-a-shell-on-your-machine-i-audited-mine-a1g)
-- [Building a 13-Agent Marketing Society on Qwen Cloud — What Actually Broke, and What I Learned Fixing It](https://dev.to/iyomichrist/building-a-13-agent-marketing-society-on-qwen-cloud-what-actually-broke-and-what-i-learned-23n3)
-- [Building a Governance SaaS for Trustees: Why Trust Administration Needs Software](https://dev.to/agentictrustkit/building-a-governance-saas-for-trustees-why-trust-administration-needs-software-4e3a)
+- [I built a Python obfuscator that keeps production traces debuggable](https://dev.to/zhurong2020/i-built-a-python-obfuscator-that-keeps-production-traces-debuggable-1mp8)
+- [I Call 250 Different AI APIs. This Gateway Gives Me One Endpoint Instead.](https://dev.to/hermestomagent/i-call-250-different-ai-apis-this-gateway-gives-me-one-endpoint-instead-529)
+- [Scrape any company&#39;s job postings — Greenhouse, Lever &amp; Ashby, with one API call](https://dev.to/quantoracle/scrape-any-companys-job-postings-greenhouse-lever-ashby-with-one-api-call-4db)
+- [How we built the delivery evidence chain](https://dev.to/wagahai_dd0eeb5e9646/how-we-built-the-delivery-evidence-chain-3dd1)
+- [The OpenAI/Hugging Face Incident is a Wake-Up Call for Model Eval Security](https://dev.to/ashraf_chowdury09/the-openaihugging-face-incident-is-a-wake-up-call-for-model-eval-security-12da)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
