@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Job-Scraping Bot to Escape Cloud Consulting &lpar;And It&#39;s Open Source&rpar;](https://dev.to/le_beltagy/i-built-a-job-scraping-bot-to-escape-cloud-consulting-and-its-open-source-1m8a)
-- [I Made Claude Code and Codex Argue About My Code Until They Agreed](https://dev.to/nunc/i-made-claude-code-and-codex-argue-about-my-code-until-they-agreed-1pkd)
-- [AI-Driven CSS Refactoring: When Generated Styles Surprise You](https://dev.to/mspk97/ai-driven-css-refactoring-when-generated-styles-surprise-you-2cle)
-- [Postman vs Insomnia: Which API Testing Tool Wins in 2026](https://dev.to/codewithamrendra/postman-vs-insomnia-which-api-testing-tool-wins-in-2026-m9h)
-- [Your Site Audit Found 400 Issues. You&#39;ll Fix Four.](https://dev.to/david_hamilton/your-site-audit-found-400-issues-youll-fix-four-3p7j)
+- [Claude Code Subagents Can Now Spawn Subagents](https://dev.to/ucjung/claude-code-subagents-can-now-spawn-subagents-4h2a)
+- [I Built a Real-Time News Aggregator for Citizen Journalists](https://dev.to/jogadiyadipak28art/i-built-a-real-time-news-aggregator-for-citizen-journalists-using-react-vite-5162)
+- [Automating Linux Tasks with Bash](https://dev.to/rubi_cloud/automating-linux-tasks-with-bash-192l)
+- [Validating HTML Structure Beyond Syntax: Exploring Tools and Methodologies for Enforcing Specific Element Arrangements](https://dev.to/serbyte/validating-html-structure-beyond-syntax-exploring-tools-and-methodologies-for-enforcing-specific-3pgl)
+- [Finishing the optional commerce checks](https://dev.to/turva-dev/finishing-the-optional-commerce-checks-521n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
