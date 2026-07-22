@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Subagents Can Now Spawn Subagents](https://dev.to/ucjung/claude-code-subagents-can-now-spawn-subagents-4h2a)
-- [I Built a Real-Time News Aggregator for Citizen Journalists](https://dev.to/jogadiyadipak28art/i-built-a-real-time-news-aggregator-for-citizen-journalists-using-react-vite-5162)
-- [Automating Linux Tasks with Bash](https://dev.to/rubi_cloud/automating-linux-tasks-with-bash-192l)
-- [Validating HTML Structure Beyond Syntax: Exploring Tools and Methodologies for Enforcing Specific Element Arrangements](https://dev.to/serbyte/validating-html-structure-beyond-syntax-exploring-tools-and-methodologies-for-enforcing-specific-3pgl)
-- [Finishing the optional commerce checks](https://dev.to/turva-dev/finishing-the-optional-commerce-checks-521n)
+- [Stop Screenshotting Architecture Diagrams: Build Them as Single-File HTML](https://dev.to/nasrulhazim/stop-screenshotting-architecture-diagrams-build-them-as-single-file-html-50df)
+- [I&#39;m Starting a YouTube Series Where I Code With Zero AI. Here&#39;s Why That Feels Radical in 2026.](https://dev.to/alexcloudstar/im-starting-a-youtube-series-where-i-code-with-zero-ai-heres-why-that-feels-radical-in-2026-2c8f)
+- [Stop Thinking of Kafka as a Queue. It&#39;s a Log, and That Changes Everything.](https://dev.to/turboline_ai_/stop-thinking-of-kafka-as-a-queue-its-a-log-and-that-changes-everything-2h3p)
+- [Building a Dev Content Strategy that survives Monday](https://dev.to/anishamalde/building-a-dev-content-strategy-that-survives-monday-18o5)
+- [The AI writes the tests. It doesn&#39;t get to grade them.](https://dev.to/dubcrab/the-ai-writes-the-tests-it-doesnt-get-to-grade-them-45c1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
