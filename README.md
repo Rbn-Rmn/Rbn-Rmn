@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Is That API Really Serving the Model It Claims? A Reproducible Fingerprint Test](https://dev.to/zephyrelabs369/is-that-api-really-serving-the-model-it-claims-a-reproducible-fingerprint-test-5d0f)
-- [Automate Spotify and YouTube Playlists - Chapter 3: Setting Up YouTube](https://dev.to/towernter/automate-spotify-and-youtube-playlists-chapter-3-setting-up-youtube-1mfb)
-- [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://dev.to/mark0_617b45cda9782a/denying-the-worm-detecting-sandwormmode-and-the-emerging-class-of-ai-toolchain-supply-chain-39hn)
-- [Your Claude Code Setup Gets Bloated If You Ignore It — Weekly Auto-Slimming by Watching Injected Bytes, Agent Count, and Frustration Words](https://dev.to/bokuwalily/your-claude-code-setup-gets-bloated-if-you-ignore-it-weekly-auto-slimming-by-watching-injected-3jki)
-- [The Complete Guide to Regression Testing](https://dev.to/sahil_khurana_486f374ecf2/the-complete-guide-to-regression-testing-252c)
+- [Free Self-Hosted Alternatives to Datadog: What Actually Works on Your Own Hardware](https://dev.to/ericwoooo_kr/free-self-hosted-alternatives-to-datadog-what-actually-works-on-your-own-hardware-16m4)
+- [I Understood the Problem. I Still Built the Wrong Product.](https://dev.to/giftysoftdev/i-understood-the-problem-i-still-built-the-wrong-product-5h1i)
+- [How a frozenset guard ended a YouTube directive self-contradiction](https://dev.to/morinaga/how-a-frozenset-guard-ended-a-youtube-directive-self-contradiction-52e2)
+- [How I coordinate Claude and Codex sessions with a pull-based JSON handoff ledger](https://dev.to/morinaga/how-i-coordinate-claude-and-codex-sessions-with-a-pull-based-json-handoff-ledger-5h93)
+- [Bringing Convention over Configuration to Fastify with @syora/fastify](https://dev.to/domutala/bringing-convention-over-configuration-to-fastify-with-syorafastify-5bp0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
