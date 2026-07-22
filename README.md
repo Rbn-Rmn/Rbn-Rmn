@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built a Python obfuscator that keeps production traces debuggable](https://dev.to/zhurong2020/i-built-a-python-obfuscator-that-keeps-production-traces-debuggable-1mp8)
-- [I Call 250 Different AI APIs. This Gateway Gives Me One Endpoint Instead.](https://dev.to/hermestomagent/i-call-250-different-ai-apis-this-gateway-gives-me-one-endpoint-instead-529)
-- [Scrape any company&#39;s job postings — Greenhouse, Lever &amp; Ashby, with one API call](https://dev.to/quantoracle/scrape-any-companys-job-postings-greenhouse-lever-ashby-with-one-api-call-4db)
-- [How we built the delivery evidence chain](https://dev.to/wagahai_dd0eeb5e9646/how-we-built-the-delivery-evidence-chain-3dd1)
-- [The OpenAI/Hugging Face Incident is a Wake-Up Call for Model Eval Security](https://dev.to/ashraf_chowdury09/the-openaihugging-face-incident-is-a-wake-up-call-for-model-eval-security-12da)
+- [Is That API Really Serving the Model It Claims? A Reproducible Fingerprint Test](https://dev.to/zephyrelabs369/is-that-api-really-serving-the-model-it-claims-a-reproducible-fingerprint-test-5d0f)
+- [Automate Spotify and YouTube Playlists - Chapter 3: Setting Up YouTube](https://dev.to/towernter/automate-spotify-and-youtube-playlists-chapter-3-setting-up-youtube-1mfb)
+- [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://dev.to/mark0_617b45cda9782a/denying-the-worm-detecting-sandwormmode-and-the-emerging-class-of-ai-toolchain-supply-chain-39hn)
+- [Your Claude Code Setup Gets Bloated If You Ignore It — Weekly Auto-Slimming by Watching Injected Bytes, Agent Count, and Frustration Words](https://dev.to/bokuwalily/your-claude-code-setup-gets-bloated-if-you-ignore-it-weekly-auto-slimming-by-watching-injected-3jki)
+- [The Complete Guide to Regression Testing](https://dev.to/sahil_khurana_486f374ecf2/the-complete-guide-to-regression-testing-252c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
