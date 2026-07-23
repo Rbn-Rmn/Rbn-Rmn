@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Protect Your Margin When the Client Changes the Project After Approval](https://dev.to/janusz_kozio_747fc7a9543/how-to-protect-your-margin-when-the-client-changes-the-project-after-approval-3b34)
-- [Where Does RAG Actually Cost You Money? I Decided to Stop Guessing.](https://dev.to/surajrkhonde/where-does-rag-actually-cost-you-money-i-decided-to-stop-guessing-36jm)
-- [Farmer Rank AI: Using Generative AI to Connect Farmers with the Right Buyers](https://dev.to/shaik_inzamam_7/farmer-rank-ai-using-generative-ai-to-connect-farmers-with-the-right-buyers-1ege)
-- [[Boost]](https://dev.to/jcmartinezdev/-2hg8)
-- [[Book Sharing] Tsaisang’s Tales of the Strange: Japanese Mythology, Ghost Stories, and Sometimes Taiwan](https://dev.to/evanlin/book-sharing-tsaisangs-tales-of-the-strange-japanese-mythology-ghost-stories-and-sometimes-2g0i)
+- [Slices Beyond the Basics](https://dev.to/bernadetteakinyi/slices-beyond-the-basics-4ohd)
+- [HELIX-Artificial Intelligence Isn&#39;t Separate from Enterprise Architecture](https://dev.to/santhosh_gk_2902/helix-artificial-intelligence-isnt-separate-from-enterprise-architecture-5f84)
+- [Introducing Angular support for CopilotKit: bring any Agent into your app](https://dev.to/copilotkit/introducing-angular-support-for-copilotkit-bring-any-agent-into-your-app-2f3e)
+- [Why Most Web Change Monitors Fail: Solving DOM Mutations and False Positives](https://dev.to/codebass/why-most-web-change-monitors-fail-solving-dom-mutations-and-false-positives-41pc)
+- [Deep Learning &amp; Computer Vision in Web Diffing: Solving Layout Shifts with Neural Embeddings and SSIM](https://dev.to/codebass/deep-learning-computer-vision-in-web-diffing-solving-layout-shifts-with-neural-embeddings-and-4kai)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
