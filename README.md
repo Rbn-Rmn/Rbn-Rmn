@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Slices Beyond the Basics](https://dev.to/bernadetteakinyi/slices-beyond-the-basics-4ohd)
-- [HELIX-Artificial Intelligence Isn&#39;t Separate from Enterprise Architecture](https://dev.to/santhosh_gk_2902/helix-artificial-intelligence-isnt-separate-from-enterprise-architecture-5f84)
-- [Introducing Angular support for CopilotKit: bring any Agent into your app](https://dev.to/copilotkit/introducing-angular-support-for-copilotkit-bring-any-agent-into-your-app-2f3e)
-- [Why Most Web Change Monitors Fail: Solving DOM Mutations and False Positives](https://dev.to/codebass/why-most-web-change-monitors-fail-solving-dom-mutations-and-false-positives-41pc)
-- [Deep Learning &amp; Computer Vision in Web Diffing: Solving Layout Shifts with Neural Embeddings and SSIM](https://dev.to/codebass/deep-learning-computer-vision-in-web-diffing-solving-layout-shifts-with-neural-embeddings-and-4kai)
+- [AKS and Near-Bare-Metal Workloads: What Platform Teams Can Responsibly Plan For](https://dev.to/sathpal_singh/aks-and-near-bare-metal-workloads-what-platform-teams-can-responsibly-plan-for-5927)
+- [I Built CodeComplex: A Real-Time Competitive Coding Platform with AI Rivals and Bug-Fix Arenas](https://dev.to/umangsisodia/i-built-codecomplex-a-real-time-competitive-coding-platform-with-ai-rivals-and-bug-fix-arenas-4j3p)
+- [I built an AI-first bank statement converter. The one rule that stopped it lying to me.](https://dev.to/statementdecoder/i-built-an-ai-first-bank-statement-converter-the-one-rule-that-stopped-it-lying-to-me-24ik)
+- [O dia em que coloquei um agente de IA pra fiscalizar débito técnico no maior banco da América Latina](https://dev.to/lincoln_romais/-o-dia-em-que-coloquei-um-agente-de-ia-pra-fiscalizar-debito-tecnico-no-maior-banco-da-america-2734)
+- [Beyond the Form Tester: Building a Skill Pack for Your Whole Playwright Suite](https://dev.to/aswani25/beyond-the-form-tester-building-a-skill-pack-for-your-whole-playwright-suite-gk5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
