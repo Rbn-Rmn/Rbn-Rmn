@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Audit Website Links Before Deployment: A Developer Checklist](https://dev.to/talad/how-to-audit-website-links-before-deployment-a-developer-checklist-4nk8)
-- [A CORS Mismatch That Broke DocMind AI on a Fresh Netlify Deploy](https://dev.to/codewithurooj/a-cors-mismatch-that-broke-docmind-ai-on-a-fresh-netlify-deploy-published-79c)
-- [Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat](https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09)
-- [MCP Just Killed the Handshake &lpar;Your Server Is Next&rpar;](https://dev.to/temrel/mcp-just-killed-the-handshake-your-server-is-next-47gj)
-- [An AI &quot;Escaped Its Sandbox&quot; — Or We Just Built a Bad Sandbox](https://dev.to/coridev/an-ai-escaped-its-sandbox-or-we-just-built-a-bad-sandbox-352)
+- [How to Protect Your Margin When the Client Changes the Project After Approval](https://dev.to/janusz_kozio_747fc7a9543/how-to-protect-your-margin-when-the-client-changes-the-project-after-approval-3b34)
+- [Where Does RAG Actually Cost You Money? I Decided to Stop Guessing.](https://dev.to/surajrkhonde/where-does-rag-actually-cost-you-money-i-decided-to-stop-guessing-36jm)
+- [Farmer Rank AI: Using Generative AI to Connect Farmers with the Right Buyers](https://dev.to/shaik_inzamam_7/farmer-rank-ai-using-generative-ai-to-connect-farmers-with-the-right-buyers-1ege)
+- [[Boost]](https://dev.to/jcmartinezdev/-2hg8)
+- [[Book Sharing] Tsaisang’s Tales of the Strange: Japanese Mythology, Ghost Stories, and Sometimes Taiwan](https://dev.to/evanlin/book-sharing-tsaisangs-tales-of-the-strange-japanese-mythology-ghost-stories-and-sometimes-2g0i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
