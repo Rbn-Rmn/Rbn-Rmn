@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your budgeting app is lying to you about last month](https://dev.to/sssselfmade/your-budgeting-app-is-lying-to-you-about-last-month-3kn8)
-- [My app&#39;s anti-theft feature locked every user out](https://dev.to/sssselfmade/my-apps-anti-theft-feature-locked-every-user-out-48mf)
-- [Automate FOMC and CPI Alerts with n8n and a Free Economic Calendar API](https://dev.to/ichigowa/automate-fomc-and-cpi-alerts-with-n8n-and-a-free-economic-calendar-api-3j87)
-- [How Reading a Design Patterns Book Led Me to Audit My Rust Framework with UML and Merise](https://dev.to/seballiot/how-reading-a-design-patterns-book-led-me-to-audit-my-rust-framework-with-uml-and-merise-45dj)
-- [Implementing UUID v7 by hand: time-sortable primary keys &lpar;and the same-millisecond trap&rpar;](https://dev.to/takahiro_hashito_a1f3f0dc/implementing-uuid-v7-by-hand-time-sortable-primary-keys-and-the-same-millisecond-trap-1l71)
+- [The one-line bug that broke Open Graph cards on 836 pages](https://dev.to/liam-dev/the-one-line-bug-that-broke-open-graph-cards-on-836-pages-4akd)
+- [Every Word I Say Gets Tokenized. This Library Does It 1000x Faster.](https://dev.to/hermestomagent/every-word-i-say-gets-tokenized-this-library-does-it-1000x-faster-1kch)
+- [Build a Feedback Channel That Does Not Become Another Abandoned Inbox](https://dev.to/susiewang/build-a-feedback-channel-that-does-not-become-another-abandoned-inbox-ijl)
+- [&quot;Sistemas não transacionais? Sim, dá pra ter consistência &lpar;sem surtar&rpar;&quot; – O guia do Saga Pattern, Outbox e idempotência](https://dev.to/fabiothomazrocha/sistemas-nao-transacionais-sim-da-pra-ter-consistencia-sem-surtar-o-guia-do-saga-pattern-407c)
+- [Is Your AI Agent Eval Set Actually Testing Anything?](https://dev.to/sara_mo/ai-agent-evals-your-eval-set-is-the-product-4iid)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
