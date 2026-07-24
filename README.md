@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I use Claude Code without becoming its passenger](https://dev.to/jeremiafourie/how-i-use-claude-code-without-becoming-its-passenger-63d)
-- [Detect in the Application, Block at the Edge: A Feedback Loop with AWS WAF and CloudFront KVS](https://dev.to/aws-builders/detect-in-the-application-block-at-the-edge-a-feedback-loop-with-aws-waf-and-cloudfront-kvs-5ck3)
-- [One Copy, Two Engines: Architecting a Governed Lakehouse Across Fabric and Azure Databricks](https://dev.to/gabrielhca/one-copy-two-engines-architecting-a-governed-lakehouse-across-fabric-and-azure-databricks-351f)
-- [How TDS Classic Decides What to Deploy, Update, and Delete](https://dev.to/alden_menzalji/how-tds-classic-decides-what-to-deploy-update-and-delete-242g)
-- [Migrating Storage Gateways from Amazon Linux 2 to AL2023 After the EOL Deadline](https://dev.to/aws-builders/migrating-storage-gateways-from-amazon-linux-2-to-al2023-after-the-eol-deadline-24fb)
+- [How Upgrading Door Handles Can Transform Your Home&#39;s Style and Function](https://dev.to/micheljee/how-upgrading-door-handles-can-transform-your-homes-style-and-function-5hl8)
+- [Don&#39;t Fragment My AI Stack: Why Shutting Off Chinese Open-Weight Models Is a Bad Idea](https://dev.to/hanzla/dont-fragment-my-ai-stack-why-shutting-off-chinese-open-weight-models-is-a-bad-idea-3c08)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-5ak2)
+- [Compilable and Executable Pseudocode &lpar;spec&rpar; Solves AI Coding Hallucinations](https://dev.to/esproc_spl/compilable-and-executable-pseudocode-spec-solves-ai-coding-hallucinations-160f)
+- [How Do You Measure AI Agent Reliability?](https://dev.to/sara_mo/how-do-you-measure-ai-agent-reliability-1gik)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
