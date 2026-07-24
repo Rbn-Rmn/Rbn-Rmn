@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I shipped three AI tools that run entirely in the browser — here&#39;s everything that broke](https://dev.to/dodly-jr/i-shipped-three-ai-tools-that-run-entirely-in-the-browser-heres-everything-that-broke-1o0e)
-- [Building Your First Model Context Protocol &lpar;MCP&rpar; Server with TypeScript and Zod](https://dev.to/programmingcentral/building-your-first-model-context-protocol-mcp-server-with-typescript-and-zod-2non)
-- [Parse AI Coding JSONL Safely Before You Infer Completion](https://dev.to/agentis/parse-ai-coding-jsonl-safely-before-you-infer-completion-8j8)
-- [Designing for the Surge: The Real-World Cost of Separating Reads and Writes](https://dev.to/shubham_shaw_63d2b4bec156/designing-for-the-surge-the-real-world-cost-of-separating-reads-and-writes-5a8d)
-- [Cara Print Langsung dari Browser ke Printer Thermal Tanpa Dialog Windows](https://dev.to/ajis_dzalparo/cara-print-langsung-dari-browser-ke-printer-thermal-tanpa-dialog-windows-k83)
+- [Pytest pt4 - Production test Coverage](https://dev.to/felipe_de_godoy/pytest-pt4-production-test-coverage-6hn)
+- [How to Check SPF, DKIM, and DMARC Records in Python](https://dev.to/devyjones/how-to-check-spf-dkim-and-dmarc-records-in-python-143)
+- [Rotating Residential Proxies in Python: requests, Scrapy &amp; Sticky Sessions](https://dev.to/devyjones/rotating-residential-proxies-in-python-requests-scrapy-sticky-sessions-2obp)
+- [Integrating AI and WordPress: From Idea to Execution, Real-World Challenges, and Practical Workflows](https://dev.to/faridkhoshdel/integrating-ai-and-wordpress-from-idea-to-execution-real-world-challenges-and-practical-workflows-2oj6)
+- [OpenAI&#39;s AI Models Escaped Their Sandbox and Hacked Hugging Face on Their Own](https://dev.to/jamilxt/openais-ai-models-escaped-their-sandbox-and-hacked-hugging-face-on-their-own-2nao)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
