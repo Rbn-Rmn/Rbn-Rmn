@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Azure Management Tasks Part 2: How to configure the Virtual Network &lpar;VNET&rpar;](https://dev.to/smayowa10/azure-management-tasks-part-2-how-to-configure-the-virtual-network-vnet-e7i)
-- [Lịch Việt &amp; Phong Thủy - Tiện Ích Chrome Xem Lịch Âm, Ngày Tốt Xấu, Giờ Hoàng Đạo Ngay Trên Trình Duyệt](https://dev.to/ngtduc693/lich-viet-phong-thuy-tien-ich-chrome-xem-lich-am-ngay-tot-xau-gio-hoang-dao-ngay-tren-trinh-18o2)
-- [Structured Logging for Node.js](https://dev.to/moose978/structured-logging-for-nodejs-1b8p)
-- [Audit Logs You Can Trust](https://dev.to/moose978/audit-logs-you-can-trust-823)
-- [Feature Flags and Safe Rollouts](https://dev.to/moose978/feature-flags-and-safe-rollouts-39d0)
+- [Ich habe einen echten Speedtest in Vanilla JS gebaut &lpar;mit Cloudflare API&rpar;](https://dev.to/nevik_schmidt_3635afa2b85/ich-habe-einen-echten-speedtest-in-vanilla-js-gebaut-mit-cloudflare-api-4n37)
+- [Building an Operating System In Rust Part 1](https://dev.to/benkaythe1st/building-an-operating-system-in-rust-part-1-1ol)
+- [I Asked My AI &quot;Who Are You&quot; — It Cost 42,000 Tokens to Answer](https://dev.to/therabbithole/-i-asked-my-ai-who-are-you-it-cost-42000-tokens-to-answer-44jp)
+- [Stop Letting Your Slack Bot Ghost You: Turning Slack Into a Local Terminal for Claude](https://dev.to/tomeraitz/stop-letting-your-slack-bot-ghost-you-turning-slack-into-a-local-terminal-for-claude-cjc)
+- [A CSV Viewer That Never Uploads Your Data](https://dev.to/kaylee8520/a-csv-viewer-that-never-uploads-your-data-bkf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
