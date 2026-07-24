@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Ich habe einen echten Speedtest in Vanilla JS gebaut &lpar;mit Cloudflare API&rpar;](https://dev.to/nevik_schmidt_3635afa2b85/ich-habe-einen-echten-speedtest-in-vanilla-js-gebaut-mit-cloudflare-api-4n37)
-- [Building an Operating System In Rust Part 1](https://dev.to/benkaythe1st/building-an-operating-system-in-rust-part-1-1ol)
-- [I Asked My AI &quot;Who Are You&quot; — It Cost 42,000 Tokens to Answer](https://dev.to/therabbithole/-i-asked-my-ai-who-are-you-it-cost-42000-tokens-to-answer-44jp)
-- [Stop Letting Your Slack Bot Ghost You: Turning Slack Into a Local Terminal for Claude](https://dev.to/tomeraitz/stop-letting-your-slack-bot-ghost-you-turning-slack-into-a-local-terminal-for-claude-cjc)
-- [A CSV Viewer That Never Uploads Your Data](https://dev.to/kaylee8520/a-csv-viewer-that-never-uploads-your-data-bkf)
+- [The AI Wasn&#39;t Hallucinating. Our Architecture Was.](https://dev.to/imhardikmehta/the-ai-wasnt-hallucinating-our-architecture-was-1f14)
+- [I built foku — a minimal pomodoro timer with no ads, no account, no clutter](https://dev.to/baransel/i-built-foku-a-minimal-pomodoro-timer-with-no-ads-no-account-no-clutter-3fc)
+- [&#39;World Models&#39; Will Be the Next Buzzword. The Man Saying That Just Raised $1B to Build One.](https://dev.to/p0rt/world-models-will-be-the-next-buzzword-the-man-saying-that-just-raised-1b-to-build-one-4oih)
+- [Arrays Explained from Memory to Big O &lpar;With Real Benchmarks&rpar;](https://dev.to/arpan_singh_121/arrays-explained-from-memory-to-big-o-with-real-benchmarks-4g8)
+- [Why Some Next.js Sites Show Empty HTML in Page Source &lpar;It&#39;s Not a Bug&rpar;](https://dev.to/joodi/why-some-nextjs-sites-show-empty-html-in-page-source-its-not-a-bug-gjb)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
