@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Model Context Protocol Adopts Stateless Architecture](https://dev.to/vpodk/model-context-protocol-adopts-stateless-architecture-4n0n)
-- [Microsoft Agent Framework Consolidation Impacts Enterprise AI](https://dev.to/vpodk/microsoft-agent-framework-consolidation-impacts-enterprise-ai-1ikf)
-- [Google reengineers data center hardware for AI agents](https://dev.to/vpodk/google-reengineers-data-center-hardware-for-ai-agents-ba8)
-- [Quantum AI Memory Enhancement](https://dev.to/vpodk/quantum-ai-memory-enhancement-3ln7)
-- [AI wrote my compiler. A mathematical proof checks its work on every build.](https://dev.to/o6lvl4/ai-wrote-my-compiler-a-mathematical-proof-checks-its-work-on-every-build-3m8d)
+- [TypeScript Recursive Types in 2026: Modeling JSON, Trees, and Deep Partial Without Hitting the Limit](https://dev.to/jsmanifest/typescript-recursive-types-in-2026-modeling-json-trees-and-deep-partial-without-hitting-the-limit-8b3)
+- [Preparing Your Enterprise APIs for Post-Quantum Cryptography: A Practical Migration Blueprint](https://dev.to/dpande01/preparing-your-enterprise-apis-for-post-quantum-cryptography-a-practical-migration-blueprint-1lg9)
+- [Point-in-Time Recovery Without the Enterprise Price Tag](https://dev.to/coldstorage/point-in-time-recovery-without-the-enterprise-price-tag-obm)
+- [Part 4 - Tightly Encapsulated Class in Java](https://dev.to/rajeshbhola1/part-4-tightly-encapsulated-class-in-java-5f1f)
+- [🐳 MyZubster Ecosystem: Docker Integration, Monero Mainnet, and NFT Expansion](https://dev.to/danielioni/myzubster-ecosystem-docker-integration-monero-mainnet-and-nft-expansion-1d30)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
