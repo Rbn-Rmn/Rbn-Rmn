@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [7 Pivots That Take You From a Username to a Home Address in 3 Clicks](https://dev.to/numbpill3d/7-pivots-that-take-you-from-a-username-to-a-home-address-in-3-clicks-241f)
-- [🐈‍⬛Check Out Catbot&#39;s New Leg!](https://dev.to/annavi11arrea1/check-out-catbots-new-leg-3cfg)
-- [Stop hand-juggling JAVA_HOME: automatic per-project JDK switching with Jolta](https://dev.to/pdxgeek/stop-hand-juggling-javahome-automatic-per-project-jdk-switching-with-jolta-5bja)
-- [India&#39;s First Private Rocket Reaches Orbit in Historic Launch](https://dev.to/onsen/indias-first-private-rocket-reaches-orbit-in-historic-launch-5i7)
-- [Composing micro-frontends with import maps and native ES modules](https://dev.to/vageez/composing-micro-frontends-with-import-maps-and-native-es-modules-397o)
+- [Model Context Protocol Adopts Stateless Architecture](https://dev.to/vpodk/model-context-protocol-adopts-stateless-architecture-4n0n)
+- [Microsoft Agent Framework Consolidation Impacts Enterprise AI](https://dev.to/vpodk/microsoft-agent-framework-consolidation-impacts-enterprise-ai-1ikf)
+- [Google reengineers data center hardware for AI agents](https://dev.to/vpodk/google-reengineers-data-center-hardware-for-ai-agents-ba8)
+- [Quantum AI Memory Enhancement](https://dev.to/vpodk/quantum-ai-memory-enhancement-3ln7)
+- [AI wrote my compiler. A mathematical proof checks its work on every build.](https://dev.to/o6lvl4/ai-wrote-my-compiler-a-mathematical-proof-checks-its-work-on-every-build-3m8d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
