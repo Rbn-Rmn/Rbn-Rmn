@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Recursive Types in 2026: Modeling JSON, Trees, and Deep Partial Without Hitting the Limit](https://dev.to/jsmanifest/typescript-recursive-types-in-2026-modeling-json-trees-and-deep-partial-without-hitting-the-limit-8b3)
-- [Preparing Your Enterprise APIs for Post-Quantum Cryptography: A Practical Migration Blueprint](https://dev.to/dpande01/preparing-your-enterprise-apis-for-post-quantum-cryptography-a-practical-migration-blueprint-1lg9)
-- [Point-in-Time Recovery Without the Enterprise Price Tag](https://dev.to/coldstorage/point-in-time-recovery-without-the-enterprise-price-tag-obm)
-- [Part 4 - Tightly Encapsulated Class in Java](https://dev.to/rajeshbhola1/part-4-tightly-encapsulated-class-in-java-5f1f)
-- [🐳 MyZubster Ecosystem: Docker Integration, Monero Mainnet, and NFT Expansion](https://dev.to/danielioni/myzubster-ecosystem-docker-integration-monero-mainnet-and-nft-expansion-1d30)
+- [Terraform e YAML - Padrões Avançados e Escalabilidade](https://dev.to/apsis-cc/terraform-e-yaml-padroes-avancados-e-escalabilidade-28aa)
+- [Why I built Sanctuary: A local-first, zero-tracking reflection app](https://dev.to/hrishikesh_jadhav_bbd2b40/why-i-built-sanctuary-a-local-first-zero-tracking-reflection-app-2lfh)
+- [Your OpenAPI spec is already a test plan — here&#39;s how to turn it into Playwright tests automatically](https://dev.to/j0ny3nglish/your-openapi-spec-is-already-a-test-plan-heres-how-to-turn-it-into-playwright-tests-automatically-1mp6)
+- [Samba File Sharing on Linux: Setting Up Shares With and Without Authentication](https://dev.to/sara_xd_60faa231e7be/samba-file-sharing-on-linux-setting-up-shares-with-and-without-authentication-ld2)
+- [I Found the LeetCode for System Design Interview, and It&#39;s Awesome](https://dev.to/somadevtoo/i-found-the-leetcode-for-system-design-interview-and-its-awesome-10l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
