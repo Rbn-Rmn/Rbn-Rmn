@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Pass the Technical Interview: A Practical Guide for Arab Developers](https://dev.to/anasmallouh/how-to-pass-the-technical-interview-a-practical-guide-for-arab-developers-2017)
-- [ACP vs UCP: two agentic commerce protocols, and why &#39;which one&#39; is the wrong question](https://dev.to/angeo/acp-vs-ucp-two-agentic-commerce-protocols-and-why-which-one-is-the-wrong-question-13ba)
-- [Creating a 2D game with my wife - The beginning](https://dev.to/julio_fraga/creating-a-2d-game-with-my-wife-the-beginning-28k)
-- [WeTask v0.1.0-rc.1 vs Redis benchmark report](https://dev.to/tosiiko/wetask-v010-rc1-vs-redis-benchmark-report-5bmg)
-- [You don&#39;t need a backend to store form submissions. You need a place to ask &quot;how many.&quot;](https://dev.to/omer_hochman/you-dont-need-a-backend-to-store-form-submissions-you-need-a-place-to-ask-how-many-3kec)
+- [7 Pivots That Take You From a Username to a Home Address in 3 Clicks](https://dev.to/numbpill3d/7-pivots-that-take-you-from-a-username-to-a-home-address-in-3-clicks-241f)
+- [🐈‍⬛Check Out Catbot&#39;s New Leg!](https://dev.to/annavi11arrea1/check-out-catbots-new-leg-3cfg)
+- [Stop hand-juggling JAVA_HOME: automatic per-project JDK switching with Jolta](https://dev.to/pdxgeek/stop-hand-juggling-javahome-automatic-per-project-jdk-switching-with-jolta-5bja)
+- [India&#39;s First Private Rocket Reaches Orbit in Historic Launch](https://dev.to/onsen/indias-first-private-rocket-reaches-orbit-in-historic-launch-5i7)
+- [Composing micro-frontends with import maps and native ES modules](https://dev.to/vageez/composing-micro-frontends-with-import-maps-and-native-es-modules-397o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
