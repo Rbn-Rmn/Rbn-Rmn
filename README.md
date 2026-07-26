@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I never ran ESXi in production](https://dev.to/captkay/i-never-ran-esxi-in-production-22e4)
-- [Widgets, Live Activities, and Dynamic Island From One Java API](https://dev.to/codenameone/widgets-live-activities-and-dynamic-island-from-one-java-api-5166)
-- [A Codex Skill That Generates Editable Draw.io Diagrams Instead of Screenshots](https://dev.to/codecow/a-codex-skill-that-generates-editable-drawio-diagrams-instead-of-screenshots-41oa)
-- [The 50KB Problem: Why Government Forms Keep Rejecting Your Photo](https://dev.to/vijay_kanna_56/the-50kb-problem-why-government-forms-keep-rejecting-your-photo-1hfa)
-- [How to Build an LLM Eval Pipeline for Your AI App in 2026](https://dev.to/moksh/how-to-build-an-llm-eval-pipeline-for-your-ai-app-in-2026-4f2b)
+- [Building AI Agents with the GO Agent Development Kit &lpar;ADK&rpar; — 2026 Edition &lpar;v2&rpar;](https://dev.to/xbill/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55)
+- [Claude Opus 5 vs Opus 4.8, Measured: Same Price, 3x Apart](https://dev.to/synthorai/claude-opus-5-vs-opus-48-measured-same-price-3x-apart-3354)
+- [Tracing a multi-agent LLM system: otel-swarm and a SigNoz dashboard pack](https://dev.to/himanshu_748/tracing-a-multi-agent-llm-system-otel-swarm-and-a-signoz-dashboard-pack-4m85)
+- [Andrej Karpathy&#39;s &quot;Deep Dive into LLMs like ChatGPT&quot;](https://dev.to/absterellio/andrej-karpathys-deep-dive-into-llms-like-chatgpt-576o)
+- [Mastering GA4 for Mobile Apps — From Events to Business Insights](https://dev.to/dainyjose/mastering-ga4-for-mobile-apps-from-events-to-business-insights-3n5l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
