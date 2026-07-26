@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Left of the Loop: The Phoenix](https://dev.to/aepfli/left-of-the-loop-the-phoenix-17f9)
-- [How Much of Your CI Pipeline Is Just Cucumber Scenarios You&#39;re Too Afraid to Delete](https://dev.to/qawalah/how-much-of-your-ci-pipeline-is-just-cucumber-scenarios-youre-too-afraid-to-delete-m6h)
-- [3 Portfolio Mistakes Hiring Managers Spot Instantly](https://dev.to/qawalah/3-portfolio-mistakes-hiring-managers-spot-instantly-32ma)
-- [The Manual Tester Who Can Write a SQL Join Will Always Beat the SDET Who Can&#39;t](https://dev.to/qawalah/the-manual-tester-who-can-write-a-sql-join-will-always-beat-the-sdet-who-cant-4h5p)
-- [SigNoz Hackathon](https://dev.to/aswa2212/signoz-hackathon-nld)
+- [Building Abridged Shelf - Free shorter classic stories](https://dev.to/emmadscodes/building-abridged-shelf-free-shorter-classic-stories-35hb)
+- [Building a Bounty Agent for Verdikta on Base L2 published](https://dev.to/kurumi_82661ed12516efd1f7/building-a-bounty-agent-for-verdikta-on-base-l2published-3643)
+- [You&#39;re Not Blocked. Your Work Is.](https://dev.to/richarddillman/youre-not-blocked-your-work-is-1f77)
+- [How to Monitor a YouTube Playlist Without Scraping the Page](https://dev.to/trackrescue/how-to-monitor-a-youtube-playlist-without-scraping-the-page-1nn1)
+- [JWT vs Session Tokens | What’s the Difference and Which Should You Use?](https://dev.to/auth_parse_/jwt-vs-session-tokens-whats-the-difference-and-which-should-you-use-5h8m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
