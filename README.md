@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I shipped an npm package that fails your build when an LLM leaks PHI](https://dev.to/selvakg/i-shipped-an-npm-package-that-fails-your-build-when-an-llm-leaks-phi-1a65)
-- [Amazon S3 Alternatives in 2026: A Self-Hosted, S3-Compatible Shortlist](https://dev.to/ethan-carter/amazon-s3-alternatives-in-2026-a-self-hosted-s3-compatible-shortlist-3nmk)
-- [Stop staring at dashboards: Let your Go API diagnose itself](https://dev.to/arhuman/stop-staring-at-dashboards-let-your-go-api-diagnose-itself-1m9e)
-- [SonicJS Auth Gotchas on Cloudflare: Signup, Credentials, and RBAC - Part 3](https://dev.to/infinitezone/sonicjs-auth-gotchas-on-cloudflare-signup-credentials-and-rbac-10ki)
-- [The Frame Keeps Snapping Back to One-Way Control](https://dev.to/davidvk89/the-frame-keeps-snapping-back-to-one-way-control-41l0)
+- [Base64 Decoded: What Actually Happens When You Hit &#39;Encode&#39;](https://dev.to/zhihu_wu_dea1d82af01a04d7/base64-decoded-what-actually-happens-when-you-hit-encode-1h06)
+- [The Frame Keeps Snapping Back — Part 2: What the Snapback Revealed](https://dev.to/davidvk89/the-frame-keeps-snapping-back-part-2-what-the-snapback-revealed-278e)
+- [Why I Built a Free SSMS Extension to Stop Destructive Queries](https://dev.to/manuelenzo/why-i-built-a-free-ssms-extension-to-stop-destructive-queries-npo)
+- [Explain the concept of auto-configuration in Spring Boot.](https://dev.to/realnamehidden1_61/explain-the-concept-of-auto-configuration-in-spring-boot-5amf)
+- [I built TraceGate because my AI agent demo passed, but the traces told a different story](https://dev.to/codeswithroh/i-built-tracegate-because-my-ai-agent-demo-passed-but-the-traces-told-a-different-story-36c2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
