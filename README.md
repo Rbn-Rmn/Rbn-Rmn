@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Moment the Server Room Goes Dark](https://dev.to/nonasking/the-moment-the-server-room-goes-dark-mn3)
-- [Почему Rust завоевывает сердца разработчиков](https://dev.to/onizuka/pochiemu-rust-zavoievyvaiet-sierdtsa-razrabotchikov-1oke)
-- [The Most Useful Support Agent Is the One That Cannot Send](https://dev.to/susiewang/the-most-useful-support-agent-is-the-one-that-cannot-send-4bdn)
-- [Specs rot. Running code doesn&#39;t. How I restructured my AI agent skills around live references](https://dev.to/mxhlix/specs-rot-running-code-doesnt-how-i-restructured-my-ai-agent-skills-around-live-references-2eae)
-- [Tired of Refreshing? Building a Smart Medical Appointment Agent with Playwright and LLM Function Calling 🏥🤖](https://dev.to/wellallytech/tired-of-refreshing-building-a-smart-medical-appointment-agent-with-playwright-and-llm-function-69j)
+- [Building an Autonomy Error Budget Gateway with SigNoz and OpenTelemetry](https://dev.to/vaibhav_shukla_20/building-an-autonomy-error-budget-gateway-with-signoz-and-opentelemetry-4ia3)
+- [X-MaP &lpar;Cross-Mapped Programming&rpar;: Treating the Header Row as a Schema, Rows as Instances, and Columns as Lazy Properties](https://dev.to/mayakashi/x-map-cross-mapped-programming-treating-the-header-row-as-a-schema-rows-as-instances-and-3524)
+- [A changed payTo address is not a honeypot: 272 payTo changes, 13 lookalikes, zero proof](https://dev.to/jiangw2718i/a-changed-payto-address-is-not-a-honeypot-272-payto-changes-13-lookalikes-zero-proof-1jb)
+- [I Built a Security App. Then I Tried to Break It Myself.](https://dev.to/akhourianmolkumar/i-built-a-security-app-then-i-tried-to-break-it-myself-59he)
+- [Empire LLM for Codex: AI Code Review Without the Chaos](https://dev.to/davekurian/empire-llm-for-codex-ai-code-review-without-the-chaos-838)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
