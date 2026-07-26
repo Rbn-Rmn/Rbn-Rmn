@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Base64 Decoded: What Actually Happens When You Hit &#39;Encode&#39;](https://dev.to/zhihu_wu_dea1d82af01a04d7/base64-decoded-what-actually-happens-when-you-hit-encode-1h06)
-- [The Frame Keeps Snapping Back — Part 2: What the Snapback Revealed](https://dev.to/davidvk89/the-frame-keeps-snapping-back-part-2-what-the-snapback-revealed-278e)
-- [Why I Built a Free SSMS Extension to Stop Destructive Queries](https://dev.to/manuelenzo/why-i-built-a-free-ssms-extension-to-stop-destructive-queries-npo)
-- [Explain the concept of auto-configuration in Spring Boot.](https://dev.to/realnamehidden1_61/explain-the-concept-of-auto-configuration-in-spring-boot-5amf)
-- [I built TraceGate because my AI agent demo passed, but the traces told a different story](https://dev.to/codeswithroh/i-built-tracegate-because-my-ai-agent-demo-passed-but-the-traces-told-a-different-story-36c2)
+- [I Built an Autonomous On-Chain Agent on Solana: Here&#39;s the Documentation I Wish I Had Earlier](https://dev.to/lymah/i-built-an-autonomous-on-chain-agent-on-solana-heres-the-documentation-i-wish-i-had-earlier-2hge)
+- [Episode 1: Understanding Requirements](https://dev.to/surajrkhonde/episode-1-understanding-requirements-415h)
+- [How I Built an Auditable Palworld 1.0 Breeding Calculator Without Shipping Game Files](https://dev.to/joshua9919/how-i-built-an-auditable-palworld-10-breeding-calculator-without-shipping-game-files-1jde)
+- [I made LLM context editable: a graph where the wires are the prompt](https://dev.to/chenxiachan/i-made-llm-context-editable-a-graph-where-the-wires-are-the-prompt-2afl)
+- [Terax packs a terminal, editor, git graph, and an AI agent into an 8 MB binary](https://dev.to/renolu/terax-packs-a-terminal-editor-git-graph-and-an-ai-agent-into-an-8-mb-binary-40ih)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
