@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How well is your company actually adopting AI right now?](https://dev.to/mjmirza/shredding-libraries-to-train-ai-is-your-companys-ai-rollout-sped-up-2ko2)
-- [What MCP Is Actually For, Explained With 200 Bottles of Wine](https://dev.to/jagduvi1/what-mcp-is-actually-for-explained-with-200-bottles-of-wine-4i81)
-- [Vibe coding gets you 80% of the way. Nobody prepares you for the remaining 20%](https://dev.to/mahmoudz/vibe-coding-gets-you-80-of-the-way-nobody-prepares-you-for-the-remaining-20-4f9l)
-- [Building Custom MCP Clients in Next.js &amp; Serverless Engines: The Ultimate Engineering Guide](https://dev.to/programmingcentral/building-custom-mcp-clients-in-nextjs-serverless-engines-the-ultimate-engineering-guide-63d)
-- [When to refactor vs rewrite](https://dev.to/nahamaalochi/when-to-refactor-vs-rewrite-16j1)
+- [How FaultBox helped me solve a storage corruption bug I couldn&#39;t reproduce](https://dev.to/nodedb/how-faultbox-helped-me-solve-a-storage-corruption-bug-i-couldnt-reproduce-1nf9)
+- [Agentic Ledger: an open source flight recorder for AI agents &lpar;looking for testers and contributors&rpar;](https://dev.to/shek_bake_1eda6ed9b79f7a1/agentic-ledger-an-open-source-flight-recorder-for-ai-agents-looking-for-testers-and-contributors-4go0)
+- [The Test Framework Is Not the Product](https://dev.to/mellowthunder735/the-test-framework-is-not-the-product-h90)
+- [Nine Months of Nagging, Zero Reading](https://dev.to/anchildress1/nine-months-of-nagging-zero-reading-2fgc)
+- [AI Coding Agents Don&#39;t Understand APIs. They Memorize Them.](https://dev.to/prabhuavula7/ai-coding-agents-dont-understand-apis-they-memorize-them-288h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
