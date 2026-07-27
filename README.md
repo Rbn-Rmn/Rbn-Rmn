@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [[Ruby] How to Truly Understand unless and until](https://dev.to/midpolarnight/ruby-how-to-truly-understand-unless-and-until-3kn1)
-- [Your Lambda Passes Tests Then Throws AccessDeniedException in Production](https://dev.to/siddharth_pandey_27/your-lambda-passes-tests-then-throws-accessdeniedexception-in-production-28bc)
-- [Why AI Needs a “Genie Coefficient”](https://dev.to/mark0_617b45cda9782a/why-ai-needs-a-genie-coefficient-ofp)
-- [Microservices with Python: Build Scalable Applications](https://dev.to/qingluan/microservices-with-python-build-scalable-applications-4mb1)
-- [Measuring Real EC2 Idle Time: A CloudWatch Script Walkthrough](https://dev.to/trigops/measuring-real-ec2-idle-time-a-cloudwatch-script-walkthrough-54ik)
+- [I tried to build an Apple Shortcut from code. Apple said no, four times.](https://dev.to/eugeniya_ivanova_4a58eadc/i-tried-to-build-an-apple-shortcut-from-code-apple-said-no-four-times-4l5d)
+- [I Used to Hate App Updates. Then I Saw What Happens Behind the Screen](https://dev.to/qapilot/i-used-to-hate-app-updates-then-i-saw-what-happens-behind-the-screen-339b)
+- [5 Docker Security Mistakes I Learned the Hard Way](https://dev.to/_eb0609572b9efcf27472066/5-docker-security-mistakes-i-learned-the-hard-way-cj7)
+- [Connecting an LLM Agent to a Real Browser With Playwright MCP](https://dev.to/basavaraj_sh_1ea7d95f0f2e/connecting-an-llm-agent-to-a-real-browser-with-playwright-mcp-4onj)
+- [Automatic Prisma Error Handling in Express with ds-express-errors v1.9.0](https://dev.to/nse569h/automatic-prisma-error-handling-in-express-with-ds-express-errors-190-1go9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
