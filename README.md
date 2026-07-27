@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How FaultBox helped me solve a storage corruption bug I couldn&#39;t reproduce](https://dev.to/nodedb/how-faultbox-helped-me-solve-a-storage-corruption-bug-i-couldnt-reproduce-1nf9)
-- [Agentic Ledger: an open source flight recorder for AI agents &lpar;looking for testers and contributors&rpar;](https://dev.to/shek_bake_1eda6ed9b79f7a1/agentic-ledger-an-open-source-flight-recorder-for-ai-agents-looking-for-testers-and-contributors-4go0)
-- [The Test Framework Is Not the Product](https://dev.to/mellowthunder735/the-test-framework-is-not-the-product-h90)
-- [Nine Months of Nagging, Zero Reading](https://dev.to/anchildress1/nine-months-of-nagging-zero-reading-2fgc)
-- [AI Coding Agents Don&#39;t Understand APIs. They Memorize Them.](https://dev.to/prabhuavula7/ai-coding-agents-dont-understand-apis-they-memorize-them-288h)
+- [Seamless Flutter Hooks Integration with BlocSignal via signals_hooks](https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e)
+- [I once found a silicon bug in a protocol spec — not in the RTL.](https://dev.to/mritunjay_biharisingh/i-once-found-a-silicon-bug-in-a-protocol-spec-not-in-the-rtl-1aid)
+- [Most UVM testbenches fail coverage closure for one reason nobody talks about — and it&#39;s not your constraints.](https://dev.to/mritunjay_biharisingh/most-uvm-testbenches-fail-coverage-closure-for-one-reason-nobody-talks-about-and-its-not-your-png)
+- [The cleanup that could never run: a silent Web Push leak in Go](https://dev.to/tonytonycoder11/the-cleanup-that-could-never-run-a-silent-web-push-leak-in-go-1kaj)
+- [I Burned My £20 Cursor Budget on Opus 5 &lpar;And All I Got Was 44 Files of Absolute Garbage&rpar;](https://dev.to/agentic_architect/i-burned-my-ps20-cursor-budget-on-opus-5-and-all-i-got-was-44-files-of-absolute-garbage-je2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
