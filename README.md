@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How the Amazon ECS deployment circuit breaker detects failures](https://dev.to/aws-builders/how-the-amazon-ecs-deployment-circuit-breaker-detects-failures-3onl)
-- [4 Best LinkedIn NFC Keychains for Professional Networking in 2026](https://dev.to/nigelsilonero/4-best-linkedin-nfc-keychains-for-professional-networking-in-2026-57do)
-- [Building a Dice Roller That Teaches Probability: Batches, Histograms, and CSV](https://dev.to/dngzihng114379/building-a-dice-roller-that-teaches-probability-batches-histograms-and-csv-4jpa)
-- [Lemonade Second Squeeze: Model Archeology on 2019&#39;s GPT-2XL](https://dev.to/earlgreyhot1701d/lemonade-second-squeeze-model-archeology-on-2019s-gpt-2xl-32jm)
-- [Why Your AI Agent Drowns in 50,000 Tokens of Tool Definitions](https://dev.to/hypernexus/why-your-ai-agent-drowns-in-50000-tokens-of-tool-definitions-52d4)
+- [[Ruby] How to Truly Understand unless and until](https://dev.to/midpolarnight/ruby-how-to-truly-understand-unless-and-until-3kn1)
+- [Your Lambda Passes Tests Then Throws AccessDeniedException in Production](https://dev.to/siddharth_pandey_27/your-lambda-passes-tests-then-throws-accessdeniedexception-in-production-28bc)
+- [Why AI Needs a “Genie Coefficient”](https://dev.to/mark0_617b45cda9782a/why-ai-needs-a-genie-coefficient-ofp)
+- [Microservices with Python: Build Scalable Applications](https://dev.to/qingluan/microservices-with-python-build-scalable-applications-4mb1)
+- [Measuring Real EC2 Idle Time: A CloudWatch Script Walkthrough](https://dev.to/trigops/measuring-real-ec2-idle-time-a-cloudwatch-script-walkthrough-54ik)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
