@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built a CLI to stop myself from committing API keys &lpar;and broken .env files&rpar;](https://dev.to/amitfeldman/i-built-a-cli-to-stop-myself-from-committing-api-keys-and-broken-env-filesi-built-a-cli-to-stop-5eg8)
-- [When your name is also a thing: entity SEO for an ambiguous name](https://dev.to/claytoncamera/when-your-name-is-also-a-thing-entity-seo-for-an-ambiguous-name-3f2g)
-- [Local Kubernetes Dev — Part 3: Tooling overview — who does what](https://dev.to/gaberialsofie/local-kubernetes-dev-part-3-tooling-overview-who-does-what-3an1)
-- [Industrial Heater Sizing Calculator with JavaScript](https://dev.to/ashkan_hoseinpoor/industrial-heater-sizing-calculator-with-javascript-e3o)
-- [Common Solana Program Vulnerabilities and How to Catch Them](https://dev.to/vandriichuk/common-solana-program-vulnerabilities-and-how-to-catch-them-2fc7)
+- [Build a Basic AI Agent From Scratch: Security III](https://dev.to/rogiia/build-a-basic-ai-agent-from-scratch-security-iii-4k5n)
+- [CDK update - June 2026](https://dev.to/pahud/cdk-update-june-2026-49hf)
+- [I built Loop – a social media platform with Co-Loops, Circles &amp; Rewards. Looking for testers &amp; feedback](https://dev.to/jammyvibez/i-built-loop-a-social-media-platform-with-co-loops-circles-rewards-looking-for-testers--2p53)
+- [Turn JSON logs into a chart in two minutes, no observability stack required](https://dev.to/instacharts/turn-json-logs-into-a-chart-in-two-minutes-no-observability-stack-required-3g6f)
+- [AgentENV: Distributed Runtime for AI Agents at Scale &lpar;Open Source, Rust&rpar;](https://dev.to/manoir_yantai_f22f01340f0/agentenv-distributed-runtime-for-ai-agents-at-scale-open-source-rust-457d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
