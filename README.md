@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built a UK data API platform with 37 endpoints. Here&#39;s how it works](https://dev.to/staticcreation/i-built-a-uk-data-api-platform-with-37-endpoints-heres-how-it-works-1c28)
-- [OpenRouter solved one problem. I still had four more](https://dev.to/manolito99/openrouter-solved-one-problem-i-still-had-four-more-2c89)
-- [Debug Your PHP App From Your Phone, Through Your AI Assistant](https://dev.to/inspector/debug-your-php-app-from-your-phone-through-your-ai-assistant-3mhb)
-- [In case you missed it:](https://dev.to/canro91/in-case-you-missed-it-3flg)
-- [Hunting the #1 API Vulnerability &lpar;BOLA&rpar; in Your Own REST API](https://dev.to/jigar_online/hunting-the-1-api-vulnerability-bola-in-your-own-rest-api-8ob)
+- [How I Built a Sourdough Hydration Calculator with Next.js 14 &lpar;Free Tool&rpar;](https://dev.to/yx-studio/how-i-built-a-sourdough-hydration-calculator-with-nextjs-14-free-tool-pg9)
+- [Google Play Requires Android 16 &lpar;API Level 36&rpar; by August 31, 2026 — React Native Migration Guide](https://dev.to/dainyjose/google-play-requires-android-16-api-level-36-by-august-31-2026-react-native-migration-guide-1d51)
+- [VS Code &amp; Codespaces iPadOS](https://dev.to/pierreperrin/vs-code-codespaces-ipados-3omo)
+- [I Had Zero Programming Experience. Two Months Later, I Built My First Real-World Solution.](https://dev.to/hanayo/i-had-zero-programming-experience-two-months-later-i-built-my-first-real-world-solution-4840)
+- [One Repo Became Three — Quietly, Then Publicl](https://dev.to/yujisuzuki/one-repo-became-three-quietly-then-publicl-4ofd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
