@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Seamless Flutter Hooks Integration with BlocSignal via signals_hooks](https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e)
-- [I once found a silicon bug in a protocol spec — not in the RTL.](https://dev.to/mritunjay_biharisingh/i-once-found-a-silicon-bug-in-a-protocol-spec-not-in-the-rtl-1aid)
-- [Most UVM testbenches fail coverage closure for one reason nobody talks about — and it&#39;s not your constraints.](https://dev.to/mritunjay_biharisingh/most-uvm-testbenches-fail-coverage-closure-for-one-reason-nobody-talks-about-and-its-not-your-png)
-- [The cleanup that could never run: a silent Web Push leak in Go](https://dev.to/tonytonycoder11/the-cleanup-that-could-never-run-a-silent-web-push-leak-in-go-1kaj)
-- [I Burned My £20 Cursor Budget on Opus 5 &lpar;And All I Got Was 44 Files of Absolute Garbage&rpar;](https://dev.to/agentic_architect/i-burned-my-ps20-cursor-budget-on-opus-5-and-all-i-got-was-44-files-of-absolute-garbage-je2)
+- [Shared-Database Multi-Tenancy in Laravel: The Foundation Layer](https://dev.to/nasrulhazim/shared-database-multi-tenancy-in-laravel-the-foundation-layer-4oej)
+- [Dev Log: 2026-07-23 — a portfolio-wide SEO pass](https://dev.to/nasrulhazim/dev-log-2026-07-23-a-portfolio-wide-seo-pass-51b0)
+- [Admin-editable SEO &amp; analytics without touching .env](https://dev.to/nasrulhazim/admin-editable-seo-analytics-without-touching-env-37m0)
+- [The Warning That Took My Site Down Was in the Log the Whole Time](https://dev.to/pixel-wraith/the-warning-that-took-my-site-down-was-in-the-log-the-whole-time-mi2)
+- [The AI Summary Said &quot;It&#39;s Not a Scam.&quot; The Springboard Was Your Site&#39;s Search Box](https://dev.to/kenimo49/the-ai-summary-said-its-not-a-scam-the-springboard-was-your-sites-search-box-3iao)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
