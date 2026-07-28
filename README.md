@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Series Week 27/52 — Zero Trust for Databases: Rethinking Access in OCI](https://dev.to/nabhaas/series-week-2752-zero-trust-for-databases-rethinking-access-in-oci-34hg)
-- [Building a Landing Page in Neleto: A Real Walkthrough &lpar;Mouse and Prompt&rpar;](https://dev.to/neletomartin/building-a-landing-page-in-neleto-a-real-walkthrough-mouse-and-prompt-1k9h)
-- [What is an &#39;agent&#39;? A class/instance definition, stress-tested against the 2026-07-28 MCP spec](https://dev.to/langensjonathan/what-is-an-agent-a-classinstance-definition-stress-tested-against-the-2026-07-28-mcp-spec-5akp)
-- [JavaScript Interview Questions Every Dev Should Know — Part 1: Fundamentals &amp; Data Types](https://dev.to/keyurgohil13/10-javascript-interview-questions-every-dev-should-know-part-1-fundamentals-data-types-ic8)
-- [Catch-all email aliasing: a different address for every service &lpar;Haraka + SRS + DKIM&rpar;](https://dev.to/eric-houz/catch-all-email-aliasing-a-different-address-for-every-service-haraka-srs-dkim-545a)
+- [Episode 4: Low-Level Design](https://dev.to/surajrkhonde/episode-4-low-level-design-4g27)
+- [One bounded context per microservice is how you build a distributed monolith](https://dev.to/adioof/one-bounded-context-per-microservice-is-how-you-build-a-distributed-monolith-2jcd)
+- [Modeling Product Feedback as a State Machine in TypeScript](https://dev.to/noahchenbuilds/modeling-product-feedback-as-a-state-machine-in-typescript-5355)
+- [Core Components of OpenClaw](https://dev.to/saurabhkurve/core-components-of-openclaw-1idf)
+- [What If AI Breaks Loose? A Developer&#39;s Thought Experiment](https://dev.to/john_kagunda_85b6493a9200/what-if-ai-breaks-loose-a-developers-thought-experiment-5ag9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
