@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building an Automated Token Allowance Scanner: Detect and Revoke Risky ERC-20 Approvals with Python](https://dev.to/byaigo/building-an-automated-token-allowance-scanner-detect-and-revoke-risky-erc-20-approvals-with-python-mf9)
-- [DEV WEEKEND with AWS Student Builder Group, QAU Islamabad](https://dev.to/zilleali12/dev-weekend-with-aws-student-builder-group-qau-islamabad-3pp1)
-- [Stop the Blank Screen: Next.js Streaming &amp; Suspense ⏳](https://dev.to/iprajapatiparesh/stop-the-blank-screen-nextjs-streaming-suspense-35f0)
-- [Separate Reads from Writes: CQRS in Laravel 🔀](https://dev.to/iprajapatiparesh/separate-reads-from-writes-cqrs-in-laravel-5kj)
-- [The Security Audit That Found 4 Issues in One Weekend](https://dev.to/anand_rathnas_d5b608cc3de/the-security-audit-that-found-4-issues-in-one-weekend-1928)
+- [Series Week 27/52 — Zero Trust for Databases: Rethinking Access in OCI](https://dev.to/nabhaas/series-week-2752-zero-trust-for-databases-rethinking-access-in-oci-34hg)
+- [Building a Landing Page in Neleto: A Real Walkthrough &lpar;Mouse and Prompt&rpar;](https://dev.to/neletomartin/building-a-landing-page-in-neleto-a-real-walkthrough-mouse-and-prompt-1k9h)
+- [What is an &#39;agent&#39;? A class/instance definition, stress-tested against the 2026-07-28 MCP spec](https://dev.to/langensjonathan/what-is-an-agent-a-classinstance-definition-stress-tested-against-the-2026-07-28-mcp-spec-5akp)
+- [JavaScript Interview Questions Every Dev Should Know — Part 1: Fundamentals &amp; Data Types](https://dev.to/keyurgohil13/10-javascript-interview-questions-every-dev-should-know-part-1-fundamentals-data-types-ic8)
+- [Catch-all email aliasing: a different address for every service &lpar;Haraka + SRS + DKIM&rpar;](https://dev.to/eric-houz/catch-all-email-aliasing-a-different-address-for-every-service-haraka-srs-dkim-545a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
