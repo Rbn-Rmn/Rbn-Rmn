@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Build a Basic AI Agent From Scratch: Security III](https://dev.to/rogiia/build-a-basic-ai-agent-from-scratch-security-iii-4k5n)
-- [CDK update - June 2026](https://dev.to/pahud/cdk-update-june-2026-49hf)
-- [I built Loop – a social media platform with Co-Loops, Circles &amp; Rewards. Looking for testers &amp; feedback](https://dev.to/jammyvibez/i-built-loop-a-social-media-platform-with-co-loops-circles-rewards-looking-for-testers--2p53)
-- [Turn JSON logs into a chart in two minutes, no observability stack required](https://dev.to/instacharts/turn-json-logs-into-a-chart-in-two-minutes-no-observability-stack-required-3g6f)
-- [AgentENV: Distributed Runtime for AI Agents at Scale &lpar;Open Source, Rust&rpar;](https://dev.to/manoir_yantai_f22f01340f0/agentenv-distributed-runtime-for-ai-agents-at-scale-open-source-rust-457d)
+- [Your AI Agents Need Finite State Machines &lpar;FSMs&rpar;](https://dev.to/remojansen/your-ai-agents-need-finite-state-machines-fsms-2i9j)
+- [I built a free full-stack auth starter so you can skip &quot;auth week&quot; &lpar;Flutter + FastAPI&rpar;](https://dev.to/yusuf_kzlkan_bec8219b13/i-built-a-free-full-stack-auth-starter-so-you-can-skip-auth-week-flutter-fastapi-4e51)
+- [Your AI Agent Can Call Every API — Except Your Bank. Here&#39;s Why.](https://dev.to/johnfrandsen/your-ai-agent-can-call-every-api-except-your-bank-heres-why-46gi)
+- [The Silent Outage: Monitoring What You Can&#39;t See](https://dev.to/samson_tanimawo/the-silent-outage-monitoring-what-you-cant-see-323n)
+- [𝗪𝗵𝘆 𝘁𝗵𝗲 𝗣𝗿𝗲𝗽𝗮𝗿𝗮𝘁𝗶𝗼𝗻 𝗠𝗮𝘁𝘁𝗲𝗿𝘀 𝗠𝗼𝗿𝗲 𝗧𝗵𝗮𝗻 𝘁𝗵𝗲 𝗥𝗲𝘀𝘂𝗹𝘁](https://dev.to/yoditdevn8n/-9ce)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
