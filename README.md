@@ -133,11 +133,13 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Sourdough Hydration Calculator with Next.js 14 &lpar;Free Tool&rpar;](https://dev.to/yx-studio/how-i-built-a-sourdough-hydration-calculator-with-nextjs-14-free-tool-pg9)
-- [Google Play Requires Android 16 &lpar;API Level 36&rpar; by August 31, 2026 — React Native Migration Guide](https://dev.to/dainyjose/google-play-requires-android-16-api-level-36-by-august-31-2026-react-native-migration-guide-1d51)
-- [VS Code &amp; Codespaces iPadOS](https://dev.to/pierreperrin/vs-code-codespaces-ipados-3omo)
-- [I Had Zero Programming Experience. Two Months Later, I Built My First Real-World Solution.](https://dev.to/hanayo/i-had-zero-programming-experience-two-months-later-i-built-my-first-real-world-solution-4840)
-- [One Repo Became Three — Quietly, Then Publicl](https://dev.to/yujisuzuki/one-repo-became-three-quietly-then-publicl-4ofd)
+- [Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark](https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l)
+- [Foreman 101: agentic coding as Kubernetes resources](https://dev.to/defilan/foreman-101-agentic-coding-as-kubernetes-resources-4k33)
+- [Building an MCP Server on 31 Million Rows of Financial Data](https://dev.to/crichter/building-an-mcp-server-on-31-million-rows-of-financial-data-1p8f)
+- [Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark](https://dev.to/aws-builders/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-53cp)
+- [Are AI agents going to kill dashboards?
+
+Let me know what you think.](https://dev.to/nadaverell/are-ai-agents-going-to-kill-dashboardslet-me-know-what-you-think-2pi7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
