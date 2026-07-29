@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Even Advanced AI Breaks Stock Registers: 12 Years of Snapshot Log Evolution and RDBMS Physics](https://dev.to/alexcrazy74/why-even-advanced-ai-breaks-stock-registers-12-years-of-snapshot-log-evolution-and-rdbms-physics-17j7)
-- [Building a Production-Safe AI Remediation Firewall for Amazon EKS](https://dev.to/pradeep_kandepaneni/building-a-production-safe-ai-remediation-firewall-for-amazon-eks-2pen)
-- [Run Hermes Fully Locally with QVAC](https://dev.to/_862f933aa9477a9d2d/run-hermes-fully-locally-with-qvac-125h)
-- [What If Your Business Had an Immune System?](https://dev.to/alirezaai/what-if-your-business-had-an-immune-system-3lod)
-- [The 4 Notification Categories Users Actually Whitelist &lpar;Based on 60 App Interviews&rpar;](https://dev.to/hugo_rus_630dd942fcf7cc62/the-4-notification-categories-users-actually-whitelist-based-on-60-app-interviews-3ao4)
+- [Facebook Signup APIs Need Inbox Isolation](https://dev.to/kevindev27/facebook-signup-apis-need-inbox-isolation-1468)
+- [Workflows Come to the Cloud: Running Multi-Agent Pipelines from the Browser](https://dev.to/donk8r/workflows-come-to-the-cloud-running-multi-agent-pipelines-from-the-browser-4lg)
+- [How to Build Reliable n8n Workflows: Logic, Data Handling, and Error Recovery](https://dev.to/emma_watson_0022f7f6e6406/how-to-build-reliable-n8n-workflows-logic-data-handling-and-error-recovery-3o93)
+- [Why Recursive Superintelligence Just Bet $410M on Compute Instead of Engineers](https://dev.to/axonova/why-recursive-superintelligence-just-bet-410m-on-compute-instead-of-engineers-3k60)
+- [Kimi K3: A New Benchmark for Open-Weights Mixture-of-Experts](https://dev.to/pneumetron/kimi-k3-a-new-benchmark-for-open-weights-mixture-of-experts-3fla)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
