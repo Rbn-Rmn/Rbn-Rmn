@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Beginner&#39;s Guide: Connect React with Supabase &lpar;Build a Simple To-Do App&rpar; published: true tags: react, supabase, beginners, webdev](https://dev.to/mahbub__404/beginners-guide-connect-react-with-supabase-build-a-simple-to-do-app-published-true-tags-5ag9)
-- [Build a Typed Training Data Client in TypeScript with intervals-icu](https://dev.to/paladini/build-a-typed-training-data-client-in-typescript-with-intervals-icu-8fc)
-- [Legacy Modernization With AI: What Can Be Automated and What Still Needs Engineering Judgment](https://dev.to/techbarsw/legacy-modernization-with-ai-what-can-be-automated-and-what-still-needs-engineering-judgment-38md)
-- [Unknown Time Is Not Noon: Modeling Missing Temporal Data Without Inventing Facts](https://dev.to/baziclarity/unknown-time-is-not-noon-modeling-missing-temporal-data-without-inventing-facts-198d)
-- [LLD Data Structures in Design Context: Why Great Software Starts with Behaviours, Not Data Structures](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-great-software-starts-with-behaviours-not-data-1hig)
+- [How I fixed Cyrillic support in jsPDF &lpar;the clean way&rpar;](https://dev.to/aleksandrov_todor_bff7f67/how-i-fixed-cyrillic-support-in-jspdf-the-clean-way-58hh)
+- [OpenAI’s Frontier Governance Framework Raises the Question of How AI Progress Should Be Paced](https://dev.to/alifar/openais-frontier-governance-framework-raises-the-question-of-how-ai-progress-should-be-paced-4al4)
+- [The Silent iOS 17 Crash Hiding in `@Dependency` and `withTaskGroup`](https://dev.to/emadbeyrami/the-silent-ios-17-crash-hiding-in-dependency-and-withtaskgroup-g8c)
+- [I built a macOS app on a 9 hour flight which renames your Downloads folder full of junk](https://dev.to/__manucodes/i-built-a-macos-app-on-a-912-hour-flight-which-renames-your-downloads-folder-full-of-junk-3afm)
+- [That&#39;s a Great Idea!](https://dev.to/thebraindonor/thats-a-great-idea-1i83)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
