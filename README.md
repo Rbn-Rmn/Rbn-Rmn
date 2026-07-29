@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [React usePrevious Hook: Track Previous State &amp; Props &lpar;2026&rpar;](https://dev.to/childrentime/react-useprevious-hook-track-previous-state-props-2026-40a7)
-- [Engineering Reliable Pagination for Public TikTok Data](https://dev.to/mian_po_0ae30e900c601c8f5/engineering-reliable-pagination-for-public-tiktok-data-1131)
-- [Claude Desktop and Claude Code Are Different Windows States](https://dev.to/agentis/claude-desktop-and-claude-code-are-different-windows-states-228g)
-- [x402 Signs the Money, Not the URL. I Checked 18 Fields.](https://dev.to/alex_spinov/x402-signs-the-money-not-the-url-i-checked-18-fields-429a)
-- [Stop Rescanning Every Claude Code Transcript](https://dev.to/agentis/stop-rescanning-every-claude-code-transcript-1j6j)
+- [Why Even Advanced AI Breaks Stock Registers: 12 Years of Snapshot Log Evolution and RDBMS Physics](https://dev.to/alexcrazy74/why-even-advanced-ai-breaks-stock-registers-12-years-of-snapshot-log-evolution-and-rdbms-physics-17j7)
+- [Building a Production-Safe AI Remediation Firewall for Amazon EKS](https://dev.to/pradeep_kandepaneni/building-a-production-safe-ai-remediation-firewall-for-amazon-eks-2pen)
+- [Run Hermes Fully Locally with QVAC](https://dev.to/_862f933aa9477a9d2d/run-hermes-fully-locally-with-qvac-125h)
+- [What If Your Business Had an Immune System?](https://dev.to/alirezaai/what-if-your-business-had-an-immune-system-3lod)
+- [The 4 Notification Categories Users Actually Whitelist &lpar;Based on 60 App Interviews&rpar;](https://dev.to/hugo_rus_630dd942fcf7cc62/the-4-notification-categories-users-actually-whitelist-based-on-60-app-interviews-3ao4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
