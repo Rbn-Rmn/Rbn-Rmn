@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Scalable Multi-Store Retail Platform: Architecture Challenges and Solutions](https://dev.to/mercyantony/designing-a-scalable-multi-store-retail-platform-architecture-challenges-and-solutions-4m24)
-- [Apache Data Lakehouse Weekly: July 21 to July 29, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-july-21-to-july-29-2026-p73)
-- [Every Session Starts From Zero. I Kept Forgetting That.](https://dev.to/jeelvankhede/every-session-starts-from-zero-i-kept-forgetting-that-1gj6)
-- [Block AI Crawlers: The 15 Bots That Matter](https://dev.to/techpotions/block-ai-crawlers-the-15-bots-that-matter-3nb4)
-- [Internet &amp; Networking Explained, The Foundation Every DevOps Engineer Should Know.](https://dev.to/promzy/internet-networking-explained-the-foundation-every-devops-engineer-should-know-b51)
+- [Send your events later](https://dev.to/aws-heroes/send-your-events-later-25ha)
+- [From Logs to Insights: My First SIEM Deployment with Wazuh](https://dev.to/michael_cooke_c28c76da3c9/from-logs-to-insights-my-first-siem-deployment-with-wazuh-2nda)
+- [The Dashboard Was Green. The Customers Were Angry.](https://dev.to/omieee_24/the-dashboard-was-green-the-customers-were-angry-279o)
+- [Google Product Visibility: When to Use GBP, Local Inventory, and Merchant Center](https://dev.to/alifar/google-product-visibility-when-to-use-gbp-local-inventory-and-merchant-center-4e8m)
+- [I built Lucius to make coding-agent sessions easier to understand](https://dev.to/berkantay/i-built-lucius-to-make-coding-agent-sessions-easier-to-understand-4677)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
