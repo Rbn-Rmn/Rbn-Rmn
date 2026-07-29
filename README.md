@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agents Need Finite State Machines &lpar;FSMs&rpar;](https://dev.to/remojansen/your-ai-agents-need-finite-state-machines-fsms-2i9j)
-- [I built a free full-stack auth starter so you can skip &quot;auth week&quot; &lpar;Flutter + FastAPI&rpar;](https://dev.to/yusuf_kzlkan_bec8219b13/i-built-a-free-full-stack-auth-starter-so-you-can-skip-auth-week-flutter-fastapi-4e51)
-- [Your AI Agent Can Call Every API — Except Your Bank. Here&#39;s Why.](https://dev.to/johnfrandsen/your-ai-agent-can-call-every-api-except-your-bank-heres-why-46gi)
-- [The Silent Outage: Monitoring What You Can&#39;t See](https://dev.to/samson_tanimawo/the-silent-outage-monitoring-what-you-cant-see-323n)
-- [𝗪𝗵𝘆 𝘁𝗵𝗲 𝗣𝗿𝗲𝗽𝗮𝗿𝗮𝘁𝗶𝗼𝗻 𝗠𝗮𝘁𝘁𝗲𝗿𝘀 𝗠𝗼𝗿𝗲 𝗧𝗵𝗮𝗻 𝘁𝗵𝗲 𝗥𝗲𝘀𝘂𝗹𝘁](https://dev.to/yoditdevn8n/-9ce)
+- [React usePrevious Hook: Track Previous State &amp; Props &lpar;2026&rpar;](https://dev.to/childrentime/react-useprevious-hook-track-previous-state-props-2026-40a7)
+- [Engineering Reliable Pagination for Public TikTok Data](https://dev.to/mian_po_0ae30e900c601c8f5/engineering-reliable-pagination-for-public-tiktok-data-1131)
+- [Claude Desktop and Claude Code Are Different Windows States](https://dev.to/agentis/claude-desktop-and-claude-code-are-different-windows-states-228g)
+- [x402 Signs the Money, Not the URL. I Checked 18 Fields.](https://dev.to/alex_spinov/x402-signs-the-money-not-the-url-i-checked-18-fields-429a)
+- [Stop Rescanning Every Claude Code Transcript](https://dev.to/agentis/stop-rescanning-every-claude-code-transcript-1j6j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
