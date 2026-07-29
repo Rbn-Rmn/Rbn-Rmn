@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I fixed Cyrillic support in jsPDF &lpar;the clean way&rpar;](https://dev.to/aleksandrov_todor_bff7f67/how-i-fixed-cyrillic-support-in-jspdf-the-clean-way-58hh)
-- [OpenAI’s Frontier Governance Framework Raises the Question of How AI Progress Should Be Paced](https://dev.to/alifar/openais-frontier-governance-framework-raises-the-question-of-how-ai-progress-should-be-paced-4al4)
-- [The Silent iOS 17 Crash Hiding in `@Dependency` and `withTaskGroup`](https://dev.to/emadbeyrami/the-silent-ios-17-crash-hiding-in-dependency-and-withtaskgroup-g8c)
-- [I built a macOS app on a 9 hour flight which renames your Downloads folder full of junk](https://dev.to/__manucodes/i-built-a-macos-app-on-a-912-hour-flight-which-renames-your-downloads-folder-full-of-junk-3afm)
-- [That&#39;s a Great Idea!](https://dev.to/thebraindonor/thats-a-great-idea-1i83)
+- [Designing a Scalable Multi-Store Retail Platform: Architecture Challenges and Solutions](https://dev.to/mercyantony/designing-a-scalable-multi-store-retail-platform-architecture-challenges-and-solutions-4m24)
+- [Apache Data Lakehouse Weekly: July 21 to July 29, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-july-21-to-july-29-2026-p73)
+- [Every Session Starts From Zero. I Kept Forgetting That.](https://dev.to/jeelvankhede/every-session-starts-from-zero-i-kept-forgetting-that-1gj6)
+- [Block AI Crawlers: The 15 Bots That Matter](https://dev.to/techpotions/block-ai-crawlers-the-15-bots-that-matter-3nb4)
+- [Internet &amp; Networking Explained, The Foundation Every DevOps Engineer Should Know.](https://dev.to/promzy/internet-networking-explained-the-foundation-every-devops-engineer-should-know-b51)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
