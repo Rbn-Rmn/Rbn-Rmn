@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Productized Service Pivot](https://dev.to/insightlab/the-productized-service-pivot-5ff4)
-- [How to Get Startup Ideas in 2026 &lpar;Paul Graham Was Right, and Here&#39;s the Update&rpar;](https://dev.to/moeed_ul_hassan/how-to-get-startup-ideas-in-2025-paul-graham-was-right-and-heres-the-update-3l3k)
-- [What Fable 5&#39;s Chaotic Rollout Means for Your Wallet](https://dev.to/rameshkumarramu/what-fable-5s-chaotic-rollout-means-for-your-wallet-55h1)
-- [How to Build an E-commerce Platform Using Python?](https://dev.to/sahil_khurana_486f374ecf2/how-to-build-an-e-commerce-platform-using-python-1581)
-- [How to Run Async Standups From Your GitHub Activity](https://dev.to/oskarreyesdev/how-to-run-async-standups-from-your-github-activity-4o3k)
+- [Loop Engineering Is Mostly Papering Over a Model That Won&#39;t Converge](https://dev.to/lynkr/loop-engineering-is-mostly-papering-over-a-model-that-wont-converge-4kh2)
+- [Claude Code Team Memory: CLAUDE.md, Git, or MCP?](https://dev.to/_3ffb5be7950c3a975b5d/claude-code-team-memory-claudemd-git-or-mcp-5and)
+- [Agentic Workflows That Survive Real Inputs](https://dev.to/lamingsrb/agentic-workflows-that-survive-real-inputs-4emd)
+- [AI Agent Stack in 2026: LangGraph vs Custom vs DIY](https://dev.to/lamingsrb/ai-agent-stack-in-2026-langgraph-vs-custom-vs-diy-39gg)
+- [Implementing EN 16931 national rules in PHP — and the trap that faked a bug on every credit note](https://dev.to/boris-stiner/implementing-en-16931-national-rules-in-php-and-the-trap-that-faked-a-bug-on-every-credit-note-4c76)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
