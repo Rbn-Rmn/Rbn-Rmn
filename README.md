@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [From Software Engineer to AI Engineer - Part 1: A whole new world](https://dev.to/bjornvdlaan/from-software-engineer-to-ai-engineer-part-1-a-whole-new-world-3ebk)
-- [Use Google Sheets as a Translation Database for Your Web App &lpar;Apps Script + Next.js&rpar;](https://dev.to/hayrullahkar/use-google-sheets-as-a-translation-database-for-your-web-app-apps-script-nextjs-406i)
-- [AI coding agents in a German company: the layer everyone forgets](https://dev.to/dominik_ddd/ai-coding-agents-in-a-german-company-the-layer-everyone-forgets-2kpc)
-- [OpenAI’s National Science Initiative Brings Frontier AI Into Research Workflows](https://dev.to/alifar/openais-national-science-initiative-brings-frontier-ai-into-research-workflows-2g1m)
-- [Designing a Community Skill for AWS Transform Custom: AWS Glue 5.0 Upgrade Readiness](https://dev.to/dipayan_das/designing-a-community-skill-for-aws-transform-custom-aws-glue-50-upgrade-readiness-4m5n)
+- [Presigned URLs vs proxying file uploads through your backend: cost, latency, security](https://dev.to/yukikobayashi880/presigned-urls-vs-proxying-file-uploads-through-your-backend-cost-latency-security-4pi0)
+- [Wetask Is Opening Its Task Runtime to External Workers](https://dev.to/tosiiko/wetask-is-opening-its-task-runtime-to-external-workers-1p2a)
+- [Why I don&#39;t use an LLM to secure my LLM](https://dev.to/wesellistools/why-i-dont-use-an-llm-to-secure-my-llm-1m2k)
+- [Termux-Sync: Don&#39;t Rebuild Termux. Restore It](https://dev.to/wsoe/termux-sync-dont-rebuild-termux-restore-it-4f9k)
+- [The Astro Image Gotcha That Broke Our Production Build and How We Fixed It](https://dev.to/rachido_sama/the-astro-image-gotcha-that-broke-our-production-build-and-how-we-fixed-it-566d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
