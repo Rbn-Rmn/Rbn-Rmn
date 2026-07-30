@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [# Beyond Chatbots: Why Developers Should Start Building AI + IoT Applications](https://dev.to/rohit124/-beyond-chatbots-why-developers-should-start-building-ai-iot-applications-k08)
-- [Windows Said No: The Long Path Bug That Broke Vector Storage in Cognee](https://dev.to/aniruddha_adak/windows-said-no-the-long-path-bug-that-broke-vector-storage-in-cognee-4oeb)
-- [Copilot for Word Will Copy Its Own Poison Into Every Document It Touches](https://dev.to/coridev/copilot-for-word-will-copy-its-own-poison-into-every-document-it-touches-509e)
-- [You Know What Happens When There&#39;s a Bug in Authentication? Absolutely Nothing.](https://dev.to/ujja/you-know-what-happens-when-theres-a-bug-in-authentication-absolutely-nothing-g0m)
-- [How to pick object storage for browser direct uploads with presigned URLs in Node.js](https://dev.to/milohastings5316/how-to-pick-object-storage-for-browser-direct-uploads-with-presigned-urls-in-nodejs-2894)
+- [set -e Will Kill Your Script For No Good Reason](https://dev.to/schiff_heimlich/set-e-will-kill-your-script-for-no-good-reason-175h)
+- [Solon WebSocket: Listener Interface Over Annotation Maze](https://dev.to/solonjava/solon-websocket-listener-interface-over-annotation-maze-3eja)
+- [Disabling a Vercel Cron to Stop “Compute Quota Exceeded” on Neon](https://dev.to/zaerohell/disabling-a-vercel-cron-to-stop-compute-quota-exceeded-on-neon-dl9)
+- [NixOS on Servers: What Changes When Your OS Becomes Code](https://dev.to/pedroltz/nixos-on-servers-what-changes-when-your-os-becomes-code-4a99)
+- [Corrective RAG for billing: the bug is not retrieval, it&#39;s the model narrating correct numbers wrong](https://dev.to/softronic/corrective-rag-for-billing-the-bug-is-not-retrieval-its-the-model-narrating-correct-numbers-wrong-4938)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
