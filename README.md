@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Loop Engineering Is Mostly Papering Over a Model That Won&#39;t Converge](https://dev.to/lynkr/loop-engineering-is-mostly-papering-over-a-model-that-wont-converge-4kh2)
-- [Claude Code Team Memory: CLAUDE.md, Git, or MCP?](https://dev.to/_3ffb5be7950c3a975b5d/claude-code-team-memory-claudemd-git-or-mcp-5and)
-- [Agentic Workflows That Survive Real Inputs](https://dev.to/lamingsrb/agentic-workflows-that-survive-real-inputs-4emd)
-- [AI Agent Stack in 2026: LangGraph vs Custom vs DIY](https://dev.to/lamingsrb/ai-agent-stack-in-2026-langgraph-vs-custom-vs-diy-39gg)
-- [Implementing EN 16931 national rules in PHP — and the trap that faked a bug on every credit note](https://dev.to/boris-stiner/implementing-en-16931-national-rules-in-php-and-the-trap-that-faked-a-bug-on-every-credit-note-4c76)
+- [Translating a product catalog with an LLM: cache keys and guard rails](https://dev.to/polycratia/translating-a-product-catalog-with-an-llm-cache-keys-and-guard-rails-263m)
+- [Bypass WordPress Database: How to Fetch Static JSON with Zero-Config CORS](https://dev.to/aritrhk/bypass-wordpress-database-how-to-fetch-static-json-with-zero-config-cors-4354)
+- [Entry-Level Data Engineering Is Gone. Here&#39;s the Proof.](https://dev.to/datadriven/entry-level-data-engineering-is-gone-heres-the-proof-4d3n)
+- [Debugging LLM Calls: How to Trace What Your AI Agent Actually Did](https://dev.to/john_10/debugging-llm-calls-how-to-trace-what-your-ai-agent-actually-did-43j2)
+- [2026 Fields Medal Deep Dive: What Four Mathematicians&#39; Papers Actually Say, and Why AI Needs Math](https://dev.to/cdragon123code/2026-fields-medal-deep-dive-what-four-mathematicians-papers-actually-say-and-why-ai-needs-math-5c9j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
