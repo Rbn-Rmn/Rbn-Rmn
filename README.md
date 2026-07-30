@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Translating a product catalog with an LLM: cache keys and guard rails](https://dev.to/polycratia/translating-a-product-catalog-with-an-llm-cache-keys-and-guard-rails-263m)
-- [Bypass WordPress Database: How to Fetch Static JSON with Zero-Config CORS](https://dev.to/aritrhk/bypass-wordpress-database-how-to-fetch-static-json-with-zero-config-cors-4354)
-- [Entry-Level Data Engineering Is Gone. Here&#39;s the Proof.](https://dev.to/datadriven/entry-level-data-engineering-is-gone-heres-the-proof-4d3n)
-- [Debugging LLM Calls: How to Trace What Your AI Agent Actually Did](https://dev.to/john_10/debugging-llm-calls-how-to-trace-what-your-ai-agent-actually-did-43j2)
-- [2026 Fields Medal Deep Dive: What Four Mathematicians&#39; Papers Actually Say, and Why AI Needs Math](https://dev.to/cdragon123code/2026-fields-medal-deep-dive-what-four-mathematicians-papers-actually-say-and-why-ai-needs-math-5c9j)
+- [DSCI series / Rakulang CI, part2. Cro Application](https://dev.to/sp1983/dsci-series-rakulang-ci-part2-cro-application-4ini)
+- [The 300px Canvas Bug That Shrunk My React Image Editor](https://dev.to/brian_liu_85cead238ea16be/the-300px-canvas-bug-that-shrunk-my-react-image-editor-508k)
+- [Emergent Design &amp; Gall&#39;s Law: When Complex Coding Problems Dissolve Instead of Being Solved](https://dev.to/remojansen/emergent-design-galls-law-when-complex-coding-problems-dissolve-instead-of-being-solved-3lok)
+- [How to store AI-generated images per user in object storage and delete the old ones](https://dev.to/dawnli2026/how-to-store-ai-generated-images-per-user-in-object-storage-and-delete-the-old-ones-3cgo)
+- [How to Catch AI Hallucinations: A Copy-Paste Hallucination Checker Prompt &lpar;Tested&rpar;](https://dev.to/yvoolab/how-to-catch-ai-hallucinations-a-copy-paste-hallucination-checker-prompt-tested-3bh1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
