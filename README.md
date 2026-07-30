@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Your RAG Pipeline is Lying to You](https://dev.to/ts0711/why-your-rag-pipeline-is-lying-to-you-2662)
-- [GitHub Actions Getting Expensive? We Cut CI Costs to a Quarter With a One-Line Change](https://dev.to/ryantsuji/github-actions-getting-expensive-we-cut-ci-costs-to-a-quarter-with-a-one-line-change-31a4)
-- [El Despertar de NERA como infraestructura: Por qué el Negrooverso es más una necesidad técnica que un sueño](https://dev.to/viistorrr/el-despertar-de-nera-como-infraestructura-por-que-el-negrooverso-es-mas-una-necesidad-tecnica-que-5c4a)
-- [LLM TRADER BOT](https://dev.to/qrak/llm-trader-bot-3625)
-- [Your AI Subagents Are Lying to You: 4 Silent Failure Modes](https://dev.to/__declspec/your-ai-subagents-are-lying-to-you-4-silent-failure-modes-oc4)
+- [My theme build fails if any color misses WCAG contrast — here&#39;s the pipeline](https://dev.to/shadowbox/my-theme-build-fails-if-any-color-misses-wcag-contrast-heres-the-pipelinepublished-true-1c89)
+- [Seven government recall feeds, and what it takes to make them agree](https://dev.to/nate_b_76a98ee76221cdb5bb/seven-government-recall-feeds-and-what-it-takes-to-make-them-agree-1faf)
+- [Why I Believe Vibe Coding Is Becoming a Real Engineering skills](https://dev.to/sabeer/why-i-believe-vibe-coding-is-becoming-a-real-engineering-skills-4a6d)
+- [`finish_reason=length` Returned Empty Content — and the Error Message Lied to Me](https://dev.to/emmalane/finishreasonlength-returned-empty-content-and-the-error-message-lied-to-me-168n)
+- [# I Fixed a Shutdown Race Condition That Could Leave Bot Processes Running Forever 🐞](https://dev.to/john_wick_47/-i-fixed-a-shutdown-race-condition-that-could-leave-bot-processes-running-forever-1ojg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
