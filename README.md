@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My theme build fails if any color misses WCAG contrast — here&#39;s the pipeline](https://dev.to/shadowbox/my-theme-build-fails-if-any-color-misses-wcag-contrast-heres-the-pipelinepublished-true-1c89)
-- [Seven government recall feeds, and what it takes to make them agree](https://dev.to/nate_b_76a98ee76221cdb5bb/seven-government-recall-feeds-and-what-it-takes-to-make-them-agree-1faf)
-- [Why I Believe Vibe Coding Is Becoming a Real Engineering skills](https://dev.to/sabeer/why-i-believe-vibe-coding-is-becoming-a-real-engineering-skills-4a6d)
-- [`finish_reason=length` Returned Empty Content — and the Error Message Lied to Me](https://dev.to/emmalane/finishreasonlength-returned-empty-content-and-the-error-message-lied-to-me-168n)
-- [# I Fixed a Shutdown Race Condition That Could Leave Bot Processes Running Forever 🐞](https://dev.to/john_wick_47/-i-fixed-a-shutdown-race-condition-that-could-leave-bot-processes-running-forever-1ojg)
+- [The Productized Service Pivot](https://dev.to/insightlab/the-productized-service-pivot-5ff4)
+- [How to Get Startup Ideas in 2026 &lpar;Paul Graham Was Right, and Here&#39;s the Update&rpar;](https://dev.to/moeed_ul_hassan/how-to-get-startup-ideas-in-2025-paul-graham-was-right-and-heres-the-update-3l3k)
+- [What Fable 5&#39;s Chaotic Rollout Means for Your Wallet](https://dev.to/rameshkumarramu/what-fable-5s-chaotic-rollout-means-for-your-wallet-55h1)
+- [How to Build an E-commerce Platform Using Python?](https://dev.to/sahil_khurana_486f374ecf2/how-to-build-an-e-commerce-platform-using-python-1581)
+- [How to Run Async Standups From Your GitHub Activity](https://dev.to/oskarreyesdev/how-to-run-async-standups-from-your-github-activity-4o3k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
