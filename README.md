@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Upgrades Auto-review to GPT-5.6 Luna as It Pushes Lower-Cost AI Workflows](https://dev.to/alifar/openai-upgrades-auto-review-to-gpt-56-luna-as-it-pushes-lower-cost-ai-workflows-3fh5)
-- [Building a Linux Kernel Module in Pure x86](https://dev.to/danielpetrovic/building-a-linux-kernel-module-in-pure-x86-i7l)
-- [Nova: Your friendly and not-so-average extraterrestrial life coach.](https://dev.to/tanay_dwivedi9098/nova-your-friendly-and-not-so-average-extraterrestrial-life-coach-1jc8)
-- [Your AI Agent Shouldn’t Have to Read an Entire Website Just to Click a Button](https://dev.to/gr3p1p3/your-ai-agent-shouldnt-have-to-read-an-entire-website-just-to-click-a-button-50l0)
-- [Intuit OA 2026 Guide: Code, SQL &amp; Bash Questions Explained](https://dev.to/interviewshow-cs/intuit-oa-2026-guide-code-sql-bash-questions-explained-3leg)
+- [100 Days of Solana: What I Actually Learned &lpar;Not What I Expected to Learn&rpar;](https://dev.to/lymah/100-days-of-solana-what-i-actually-learned-not-what-i-expected-to-learn-i8h)
+- [**Soul &amp; Spoon — Comfort Food Landing Page**](https://dev.to/dan52242644dan/soul-spoon-comfort-food-landing-page-4njp)
+- [# Backend Engineers Learning AI: The Fundamentals Still Matter](https://dev.to/codewithishwar/-backend-engineers-learning-ai-the-fundamentals-still-matter-15a7)
+- [My Similarity Check Let the Same Story Through 3 Times. Here&#39;s How I Killed It.](https://dev.to/chenyuan20509/my-similarity-check-let-the-same-story-through-3-times-heres-how-i-killed-it-3ge6)
+- [Astro Is Built for Thousands of Static Pages. So Why Does Nobody Talk About It That Way?](https://dev.to/rachido_sama/astro-is-built-for-thousands-of-static-pages-so-why-does-nobody-talk-about-it-that-way-2pc4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
