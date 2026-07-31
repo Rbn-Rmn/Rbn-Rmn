@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The first cloud agent felt less like pair programming and more like hiring an engineer](https://dev.to/michaeltruong/the-first-cloud-agent-felt-less-like-pair-programming-and-more-like-hiring-an-engineer-18j4)
-- [Java Concurrency: Mastering ConcurrentSkipListMap for Machine Coding](https://dev.to/machinecodingmaster/java-concurrency-mastering-concurrentskiplistmap-for-machine-coding-2lgc)
-- [Event-Driven Architecture in Practice](https://dev.to/amitesh0512/event-driven-architecture-in-practice-4h8f)
-- [Why I Think Workflows Matter More Than Agents](https://dev.to/jaideepparashar/why-i-think-workflows-matter-more-than-agents-3p82)
-- [Building Fail-Closed Autonomous Agent Networks: Engineering a 10-Tuple WORM Architecture](https://dev.to/marius0of1/building-fail-closed-autonomous-agent-networks-engineering-a-10-tuple-worm-architecture-c8h)
+- [Fixing a False “TypeScript Types Removed” Event in npmx](https://dev.to/anilloutombam/fixing-a-false-typescript-types-removed-event-in-npmx-5bj6)
+- [Migrating a Next.js app from node:sqlite to Cloudflare D1](https://dev.to/hirodeath/migrating-a-nextjs-app-from-nodesqlite-to-cloudflare-d1-225i)
+- [Your AI Coding Agent Is LYING When It Says &quot;Done&quot;](https://dev.to/gemyago/your-ai-coding-agent-is-lying-when-it-says-done-2a85)
+- [How I Crashed My TCS Prime Interview and Talked My Way Out of Hell Mode](https://dev.to/ayushwrite63/how-i-crashed-my-tcs-prime-interview-and-talked-my-way-out-of-hell-mode-499j)
+- [Spring AI: Bringing Generative AI into Spring Boot Applications](https://dev.to/abhay_srivastava_22/spring-ai-bringing-generative-ai-into-spring-boot-applications-2ah3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
