@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Presigned URLs vs proxying file uploads through your backend: cost, latency, security](https://dev.to/yukikobayashi880/presigned-urls-vs-proxying-file-uploads-through-your-backend-cost-latency-security-4pi0)
-- [Wetask Is Opening Its Task Runtime to External Workers](https://dev.to/tosiiko/wetask-is-opening-its-task-runtime-to-external-workers-1p2a)
-- [Why I don&#39;t use an LLM to secure my LLM](https://dev.to/wesellistools/why-i-dont-use-an-llm-to-secure-my-llm-1m2k)
-- [Termux-Sync: Don&#39;t Rebuild Termux. Restore It](https://dev.to/wsoe/termux-sync-dont-rebuild-termux-restore-it-4f9k)
-- [The Astro Image Gotcha That Broke Our Production Build and How We Fixed It](https://dev.to/rachido_sama/the-astro-image-gotcha-that-broke-our-production-build-and-how-we-fixed-it-566d)
+- [Building a Browser-Based Sentence Counter with Local-First Text Processing](https://dev.to/xiu_kuang_f0402a0d68ab4e6/building-a-browser-based-sentence-counter-with-local-first-text-processing-2b05)
+- [Browser-based updates getting stuck on the &quot;Confirm your admin email&quot; screen — why Playwright stalls in wp-admin](https://dev.to/susumun/browser-based-updates-getting-stuck-on-the-confirm-your-admin-email-screen-why-playwright-6io)
+- [Solon Validation: @Valid, 20+ Annotations, and Custom Validators Without the JSR 380 Baggage](https://dev.to/solonjava/solon-validation-valid-20-annotations-and-custom-validators-without-the-jsr-380-baggage-15e0)
+- [I built a tool that auto-drafts my overdue-invoice reminders &lpar;looking for 10 freelancers to test it free&rpar;](https://dev.to/_6bf335792ab694de6466c/i-built-a-tool-that-auto-drafts-my-overdue-invoice-reminders-looking-for-10-freelancers-to-test-it-3o9h)
+- [I Built an AI Assistant That Turns Natural-Language Ideas Into Stock Searches](https://dev.to/_706233644661232c26771/i-built-an-ai-assistant-that-turns-natural-language-ideas-into-stock-searches-2fg7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
