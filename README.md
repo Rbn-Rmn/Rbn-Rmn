@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building a Browser-Based Sentence Counter with Local-First Text Processing](https://dev.to/xiu_kuang_f0402a0d68ab4e6/building-a-browser-based-sentence-counter-with-local-first-text-processing-2b05)
-- [Browser-based updates getting stuck on the &quot;Confirm your admin email&quot; screen — why Playwright stalls in wp-admin](https://dev.to/susumun/browser-based-updates-getting-stuck-on-the-confirm-your-admin-email-screen-why-playwright-6io)
-- [Solon Validation: @Valid, 20+ Annotations, and Custom Validators Without the JSR 380 Baggage](https://dev.to/solonjava/solon-validation-valid-20-annotations-and-custom-validators-without-the-jsr-380-baggage-15e0)
-- [I built a tool that auto-drafts my overdue-invoice reminders &lpar;looking for 10 freelancers to test it free&rpar;](https://dev.to/_6bf335792ab694de6466c/i-built-a-tool-that-auto-drafts-my-overdue-invoice-reminders-looking-for-10-freelancers-to-test-it-3o9h)
-- [I Built an AI Assistant That Turns Natural-Language Ideas Into Stock Searches](https://dev.to/_706233644661232c26771/i-built-an-ai-assistant-that-turns-natural-language-ideas-into-stock-searches-2fg7)
+- [The first cloud agent felt less like pair programming and more like hiring an engineer](https://dev.to/michaeltruong/the-first-cloud-agent-felt-less-like-pair-programming-and-more-like-hiring-an-engineer-18j4)
+- [Java Concurrency: Mastering ConcurrentSkipListMap for Machine Coding](https://dev.to/machinecodingmaster/java-concurrency-mastering-concurrentskiplistmap-for-machine-coding-2lgc)
+- [Event-Driven Architecture in Practice](https://dev.to/amitesh0512/event-driven-architecture-in-practice-4h8f)
+- [Why I Think Workflows Matter More Than Agents](https://dev.to/jaideepparashar/why-i-think-workflows-matter-more-than-agents-3p82)
+- [Building Fail-Closed Autonomous Agent Networks: Engineering a 10-Tuple WORM Architecture](https://dev.to/marius0of1/building-fail-closed-autonomous-agent-networks-engineering-a-10-tuple-worm-architecture-c8h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
