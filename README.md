@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Spec-driven development with AI agents: constitutions, checkpoints, and handoffs](https://dev.to/hannody/spec-driven-development-with-ai-agents-constitutions-checkpoints-and-handoffs-2o8l)
-- [Software EcoAudit](https://dev.to/btece_08/software-ecoaudit-1ge2)
-- [ChatGPT Calendar Integrations Point to Personalized Daily Briefings, Not a New Family Feature](https://dev.to/alifar/chatgpt-calendar-integrations-point-to-personalized-daily-briefings-not-a-new-family-feature-3241)
-- [Beyond GET and POST: Why the New HTTP QUERY Method &lpar;RFC 10008&rpar; Matters for Modern APIs](https://dev.to/kamalsoft/beyond-get-and-post-why-the-new-http-query-method-rfc-10008-matters-for-modern-apis-2nh6)
-- [A Practical MCP Server Health Check: 6 Signals Before You Install](https://dev.to/wwqking/a-practical-mcp-server-health-check-6-signals-before-you-install-nig)
+- [React Mastery Series – Day 6: Props in React – Passing Data Between Components](https://dev.to/siva_samanthapudi/-react-mastery-series-day-6-props-in-react-passing-data-between-components-3fg8)
+- [Learning to Code When AI Writes the Code](https://dev.to/andrelmarinho/learning-to-code-when-ai-writes-the-code-16b2)
+- [Google Gemini Avatars Bring Nano Banana Image Creation Into Personalized Workflows](https://dev.to/alifar/google-gemini-avatars-bring-nano-banana-image-creation-into-personalized-workflows-4ben)
+- [Most Developer Profiles Break the Moment You Ask for Proof](https://dev.to/antfarm-official/most-developer-profiles-break-the-moment-you-ask-for-proof-1dd5)
+- [Brownfield System Design Interviews: How to Answer Migration and Legacy Questions](https://dev.to/atlantean_2491f7a3c49cea7/brownfield-system-design-interviews-how-to-answer-migration-and-legacy-questions-3k8c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
