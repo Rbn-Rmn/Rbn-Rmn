@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s new in our latest Android dependency bumps — ConstraintLayout, Firebase, Intercom, Auth0](https://dev.to/rajen_trivedi/whats-new-in-our-latest-android-dependency-bumps-constraintlayout-firebase-intercom-auth0-3e2e)
-- [Three bugs we found and fixed in our own pipeline this week](https://dev.to/journeymen/three-bugs-we-found-and-fixed-in-our-own-pipeline-this-week-47b6)
-- [React Mastery Series – Day 14: React Hooks Deep Dive – Understanding useRef and useMemo](https://dev.to/siva_samanthapudi/react-mastery-series-day-14-react-hooks-deep-dive-understanding-useref-and-usememo-4f42)
-- [Your DEX tool is probably overstating Uniswap v3 TVL by 25x](https://dev.to/donnyautomation/your-dex-tool-is-probably-overstating-uniswap-v3-tvl-by-25x-og6)
-- [Where the guardrail lives](https://dev.to/to21as/where-the-guardrail-lives-329p)
+- [AI-Forward Marketing Teams Are Hiring More, Not Less, Survey Data Shows](https://dev.to/alifar/ai-forward-marketing-teams-are-hiring-more-not-less-survey-data-shows-129a)
+- [Why Your Web Scrapers Keep Breaking &lpar;And How to Build Self-Healing TypeScript Agents Using LLMs and Playwright&rpar;](https://dev.to/programmingcentral/why-your-web-scrapers-keep-breaking-and-how-to-build-self-healing-typescript-agents-using-llms-and-4of2)
+- [The 8 Performance Fixes That Finally Got My Astro Site to 100 on Mobile PageSpeed](https://dev.to/rachido_sama/the-8-performance-fixes-that-finally-got-my-astro-site-to-100-on-mobile-pagespeed-36fj)
+- [What it took to ship a production remote MCP server with OAuth 2.1](https://dev.to/getminds/what-it-took-to-ship-a-production-remote-mcp-server-with-oauth-21-364c)
+- [⚡ Why Integer no longer stores its value as a String](https://dev.to/kotools/kotools-types-520-why-integer-no-longer-stores-its-value-as-a-string-nd3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
