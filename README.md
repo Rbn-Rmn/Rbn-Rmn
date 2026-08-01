@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Data Consistency in Microservices — Saga Pattern](https://dev.to/gouranga-das-khulna/data-consistency-in-microservices-saga-pattern-4b4d)
-- [Is Every SaaS Company Going to Need an MCP Server?](https://dev.to/bhavyshekhaliya/is-every-saas-company-going-to-need-an-mcp-server-1l79)
-- [Why Agent Evaluation Is Harder Than Model Evaluation](https://dev.to/debashish_ghosal/why-agent-evaluation-is-harder-than-model-evaluation-poe)
-- [Chess Doesn’t Need Another Engine. It Needs Eye Contact](https://dev.to/siyahtonu/chess-doesnt-need-another-engine-it-needs-eye-contact-4oo9)
-- [You warmed the domain up right and reputation held. Six months on it started sliding again. It was the list.](https://dev.to/basictechnology/you-warmed-the-domain-up-right-and-reputation-held-six-months-on-it-started-sliding-again-it-was-hj5)
+- [The Ghost in the Machine: Why AI Can Write Code, But Fails Miserably at Documenting ‘Institutional Debt’](https://dev.to/bhavnish_e35294bf0fd0b2df/the-ghost-in-the-machine-why-ai-can-write-code-but-fails-miserably-at-documenting-institutional-1ofj)
+- [AI Coding Agent Cost Ledger: Find Expensive Sessions Before They Become Normal](https://dev.to/jackm-singularity/ai-coding-agent-cost-ledger-find-expensive-sessions-before-they-become-normal-2em1)
+- [[Advanced Rust] 1.17. Orphan Rules, Coherence, and Consistency - Blanket and Covered Implementations](https://dev.to/someb1oody/advanced-rust-117-orphan-rules-coherence-and-consistency-blanket-and-covered-implementations-3n9l)
+- [How Frontend Developers Can Easily Deploy a Project on VPS &lpar;Beginner Friendly&rpar;](https://dev.to/rakibul_islam_911a0f4810b/how-frontend-developers-can-easily-deploy-a-project-on-vps-beginner-friendly-32ki)
+- [[Advanced Rust] 1.16. Generic Traits - Generic &lpar;Type-Parameter&rpar; Traits and Associated-Type Traits](https://dev.to/someb1oody/advanced-rust-116-generic-traits-generic-type-parameter-traits-and-associated-type-traits-4p45)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
