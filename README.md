@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [ratatop: the network box, and why your ISP lies with units](https://dev.to/lovestaco/ratatop-the-network-box-and-why-your-isp-lies-with-units-4lpo)
-- [Localized routes in Laravel with Laralang](https://dev.to/edulazaro/localized-routes-un-laravel-with-laralang-4g0o)
-- [Clean Architecture Project Setup From Scratch With .NET 10](https://dev.to/muhammad_waqasanwar_ddbf/clean-architecture-project-setup-from-scratch-with-net-10-434n)
-- [How Much Does AI Actually Cost? The Field Guide to 12 AI Economics Calculators](https://dev.to/pich/how-much-does-ai-actually-cost-the-field-guide-to-12-ai-economics-calculators-17bp)
-- [Uploading and Storing Multipart/Form-Data Using Multer and Cloudinary](https://dev.to/jat97/uploading-and-storing-multipartform-data-using-multer-and-cloudinary-k4f)
+- [Mastering the Two Pointers Pattern: A Complete Algorithmic Blueprint](https://dev.to/architect_bytes/mastering-the-two-pointers-pattern-a-complete-algorithmic-blueprint-3eb2)
+- [Building create-next-mui: Small Improvements That Made a Big Difference](https://dev.to/thatonevikash/building-create-next-mui-small-improvements-that-made-a-big-difference-4k8f)
+- [Minimal Homelab Server with Alpine Linux](https://dev.to/pizidavi/minimal-alpine-linux-homelab-server-n7i)
+- [Release notes answer the wrong question](https://dev.to/deployconfidence/release-notes-answer-the-wrong-question-5afa)
+- [Benchmarking AI Coding Agents on Real Pull Requests](https://dev.to/donk8r/benchmarking-ai-coding-agents-on-real-pull-requests-22k9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
