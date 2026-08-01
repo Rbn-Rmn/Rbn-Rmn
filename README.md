@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your AI agent framework probably isn&#39;t your security problem &lpar;7,020 trials say so&rpar;](https://dev.to/iamwaqarjaved/your-ai-agent-framework-probably-isnt-your-security-problem-7020-trials-say-so-456f)
-- [A Review Checklist Before You Import External AI Agent Definitions](https://dev.to/nomurasan/a-review-checklist-before-you-import-external-ai-agent-definitions-i6o)
-- [Poutine: the true food of the gods](https://dev.to/xbill/poutine-the-true-food-of-the-gods-5fep)
-- [Gravy Boat — a landing page with a CSS poutine you can drown in!](https://dev.to/xbill/gravy-boat-a-landing-page-with-a-css-poutine-you-can-drown-i12)
-- [Memory Leak &amp; 8-Second Diagnostic Crush](https://dev.to/zenieverse/memory-leak-8-second-diagnostic-crush-4nlc)
+- [Data Consistency in Microservices — Saga Pattern](https://dev.to/gouranga-das-khulna/data-consistency-in-microservices-saga-pattern-4b4d)
+- [Is Every SaaS Company Going to Need an MCP Server?](https://dev.to/bhavyshekhaliya/is-every-saas-company-going-to-need-an-mcp-server-1l79)
+- [Why Agent Evaluation Is Harder Than Model Evaluation](https://dev.to/debashish_ghosal/why-agent-evaluation-is-harder-than-model-evaluation-poe)
+- [Chess Doesn’t Need Another Engine. It Needs Eye Contact](https://dev.to/siyahtonu/chess-doesnt-need-another-engine-it-needs-eye-contact-4oo9)
+- [You warmed the domain up right and reputation held. Six months on it started sliding again. It was the list.](https://dev.to/basictechnology/you-warmed-the-domain-up-right-and-reputation-held-six-months-on-it-started-sliding-again-it-was-hj5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
