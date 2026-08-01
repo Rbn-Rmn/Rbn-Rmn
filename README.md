@@ -133,11 +133,15 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [React Mastery Series – Day 6: Props in React – Passing Data Between Components](https://dev.to/siva_samanthapudi/-react-mastery-series-day-6-props-in-react-passing-data-between-components-3fg8)
-- [Learning to Code When AI Writes the Code](https://dev.to/andrelmarinho/learning-to-code-when-ai-writes-the-code-16b2)
-- [Google Gemini Avatars Bring Nano Banana Image Creation Into Personalized Workflows](https://dev.to/alifar/google-gemini-avatars-bring-nano-banana-image-creation-into-personalized-workflows-4ben)
-- [Most Developer Profiles Break the Moment You Ask for Proof](https://dev.to/antfarm-official/most-developer-profiles-break-the-moment-you-ask-for-proof-1dd5)
-- [Brownfield System Design Interviews: How to Answer Migration and Legacy Questions](https://dev.to/atlantean_2491f7a3c49cea7/brownfield-system-design-interviews-how-to-answer-migration-and-legacy-questions-3k8c)
+- [The Unbuffered Channels In Go Lesson I Think Has Finally Clicked for Me 🤷🏽‍♂️](https://dev.to/orashus/the-unbuffered-channels-in-go-lesson-i-think-has-finally-clicked-for-me-1jmi)
+- [LLD Data Structures in Design Context: Heap — A Data Structure Built for Continuous Decision Making](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-heap-the-mental-model-every-software-engineer-should-know-372e)
+- [LLD Data Structures in Design Context: Why Some Problems Need the &quot;Best&quot; Result Instead of Any Result](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-some-problems-need-the-best-result-instead-of-any-4afd)
+- [¡Hola a todos! 👋
+
+Si están cansados de las típicas herramientas pesadas o llenas de publicidad para manejar JSON, les comparto un proyecto en el que he estado trabajando: My JSON Studio &lpar;https://myjsonstudio.online/&rpar;.
+
+Es una utilidad web súper ligera y d](https://dev.to/franc_zorh_703c720567fad7/hola-a-todos-si-estan-cansados-de-las-tipicas-herramientas-pesadas-o-llenas-de-publicidad-1l36)
+- [My determinism test passed for months while the two builds played different games](https://dev.to/agentdev9/my-determinism-test-passed-for-months-while-the-two-builds-played-different-games-1if4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
