@@ -133,15 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Unbuffered Channels In Go Lesson I Think Has Finally Clicked for Me 🤷🏽‍♂️](https://dev.to/orashus/the-unbuffered-channels-in-go-lesson-i-think-has-finally-clicked-for-me-1jmi)
-- [LLD Data Structures in Design Context: Heap — A Data Structure Built for Continuous Decision Making](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-heap-the-mental-model-every-software-engineer-should-know-372e)
-- [LLD Data Structures in Design Context: Why Some Problems Need the &quot;Best&quot; Result Instead of Any Result](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-some-problems-need-the-best-result-instead-of-any-4afd)
-- [¡Hola a todos! 👋
-
-Si están cansados de las típicas herramientas pesadas o llenas de publicidad para manejar JSON, les comparto un proyecto en el que he estado trabajando: My JSON Studio &lpar;https://myjsonstudio.online/&rpar;.
-
-Es una utilidad web súper ligera y d](https://dev.to/franc_zorh_703c720567fad7/hola-a-todos-si-estan-cansados-de-las-tipicas-herramientas-pesadas-o-llenas-de-publicidad-1l36)
-- [My determinism test passed for months while the two builds played different games](https://dev.to/agentdev9/my-determinism-test-passed-for-months-while-the-two-builds-played-different-games-1if4)
+- [ratatop: the network box, and why your ISP lies with units](https://dev.to/lovestaco/ratatop-the-network-box-and-why-your-isp-lies-with-units-4lpo)
+- [Localized routes in Laravel with Laralang](https://dev.to/edulazaro/localized-routes-un-laravel-with-laralang-4g0o)
+- [Clean Architecture Project Setup From Scratch With .NET 10](https://dev.to/muhammad_waqasanwar_ddbf/clean-architecture-project-setup-from-scratch-with-net-10-434n)
+- [How Much Does AI Actually Cost? The Field Guide to 12 AI Economics Calculators](https://dev.to/pich/how-much-does-ai-actually-cost-the-field-guide-to-12-ai-economics-calculators-17bp)
+- [Uploading and Storing Multipart/Form-Data Using Multer and Cloudinary](https://dev.to/jat97/uploading-and-storing-multipartform-data-using-multer-and-cloudinary-k4f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
