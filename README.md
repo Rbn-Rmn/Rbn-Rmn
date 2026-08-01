@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Which job schedulers fire on time? We tested ten.](https://dev.to/smplkit/which-job-schedulers-fire-on-time-we-tested-ten-e42)
-- [AI Code Generation Tools 2025: Which One Actually Saves Time?](https://dev.to/the-tisa/ai-code-generation-tools-2025-which-one-actually-saves-time-4f1j)
-- [SQL vs NoSQL: A Simple Guide to Picking the Right Database](https://dev.to/danishrazabangash/sql-vs-nosql-a-simple-guide-to-picking-the-right-database-5e6b)
-- [Kmemo 2.0 is out, and the two gaps I admitted to in the first post are closed](https://dev.to/tonytonycoder11/kmemo-20-is-out-and-the-two-gaps-i-admitted-to-in-the-first-post-are-closed-4hbg)
-- [5 Best Free AI Courses in 2026 &lpar;With Certificates&rpar;](https://dev.to/kevin_menesesgonzlez/5-best-free-ai-courses-in-2026-with-certificates-igp)
+- [Spec-driven development with AI agents: constitutions, checkpoints, and handoffs](https://dev.to/hannody/spec-driven-development-with-ai-agents-constitutions-checkpoints-and-handoffs-2o8l)
+- [Software EcoAudit](https://dev.to/btece_08/software-ecoaudit-1ge2)
+- [ChatGPT Calendar Integrations Point to Personalized Daily Briefings, Not a New Family Feature](https://dev.to/alifar/chatgpt-calendar-integrations-point-to-personalized-daily-briefings-not-a-new-family-feature-3241)
+- [Beyond GET and POST: Why the New HTTP QUERY Method &lpar;RFC 10008&rpar; Matters for Modern APIs](https://dev.to/kamalsoft/beyond-get-and-post-why-the-new-http-query-method-rfc-10008-matters-for-modern-apis-2nh6)
+- [A Practical MCP Server Health Check: 6 Signals Before You Install](https://dev.to/wwqking/a-practical-mcp-server-health-check-6-signals-before-you-install-nig)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
