@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Two Pointers Pattern: A Complete Algorithmic Blueprint](https://dev.to/architect_bytes/mastering-the-two-pointers-pattern-a-complete-algorithmic-blueprint-3eb2)
-- [Building create-next-mui: Small Improvements That Made a Big Difference](https://dev.to/thatonevikash/building-create-next-mui-small-improvements-that-made-a-big-difference-4k8f)
-- [Minimal Homelab Server with Alpine Linux](https://dev.to/pizidavi/minimal-alpine-linux-homelab-server-n7i)
-- [Release notes answer the wrong question](https://dev.to/deployconfidence/release-notes-answer-the-wrong-question-5afa)
-- [Benchmarking AI Coding Agents on Real Pull Requests](https://dev.to/donk8r/benchmarking-ai-coding-agents-on-real-pull-requests-22k9)
+- [What&#39;s new in our latest Android dependency bumps — ConstraintLayout, Firebase, Intercom, Auth0](https://dev.to/rajen_trivedi/whats-new-in-our-latest-android-dependency-bumps-constraintlayout-firebase-intercom-auth0-3e2e)
+- [Three bugs we found and fixed in our own pipeline this week](https://dev.to/journeymen/three-bugs-we-found-and-fixed-in-our-own-pipeline-this-week-47b6)
+- [React Mastery Series – Day 14: React Hooks Deep Dive – Understanding useRef and useMemo](https://dev.to/siva_samanthapudi/react-mastery-series-day-14-react-hooks-deep-dive-understanding-useref-and-usememo-4f42)
+- [Your DEX tool is probably overstating Uniswap v3 TVL by 25x](https://dev.to/donnyautomation/your-dex-tool-is-probably-overstating-uniswap-v3-tvl-by-25x-og6)
+- [Where the guardrail lives](https://dev.to/to21as/where-the-guardrail-lives-329p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
