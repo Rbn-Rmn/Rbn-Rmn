@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Taste of Punjab - A CSS Love Letter to Comfort Food](https://dev.to/komal290106/taste-of-punjab-a-css-love-letter-to-comfort-food-1bk2)
-- [Offset vs Cursor Pagination: The Mistake Most Backend Engineers Make](https://dev.to/engrmark/offset-vs-cursor-pagination-the-mistake-most-backend-engineers-make-2gme)
-- [[Advanced Rust] 2.3. API Design Principles of Unsurprising Pt.3 - Implementing serde Serialize and Deserialize Traits, and Why…](https://dev.to/someb1oody/advanced-rust-23-api-design-principles-of-unsurprising-pt3-implementing-serde-serialize-and-2i18)
-- [[Advanced Rust] 2.2. API Design Principles of Unsurprising Pt.2 - Implementing Clone, Default, PartialEq, PartialOrd, Hash, Eq…](https://dev.to/someb1oody/advanced-rust-22-api-design-principles-of-unsurprising-pt2-implementing-clone-default-4i9o)
-- [I Let an AI Re-Platform My CI Pipeline. Here&#39;s What Broke.](https://dev.to/tomaszwostal/i-let-an-ai-re-platform-my-ci-pipeline-heres-what-broke-26i8)
+- [Your cron job did not fail. It never ran.](https://dev.to/dcwiklik/your-cron-job-did-not-fail-it-never-ran-31o)
+- [Your Cognito Login Code Fails Because the App Client Never Allowed That Auth Flow](https://dev.to/siddharth_pandey_27/your-cognito-login-code-fails-because-the-app-client-never-allowed-that-auth-flow-1hmf)
+- [I Built an Agent Eval Harness. Real Agents Broke the Clean Version of the Story](https://dev.to/debashish_ghosal/i-built-an-agent-eval-harness-real-agents-broke-the-clean-version-of-the-story-53dj)
+- [Building an LLM API Gateway in Node.js](https://dev.to/mudassirworks/building-an-llm-api-gateway-in-nodejs-35g7)
+- [Week 7 of #100DaysOfCode: Back to the Fundamentals](https://dev.to/onatade_abdulmajeed/week-7-of-100daysofcode-back-to-the-fundamentals-3b73)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
