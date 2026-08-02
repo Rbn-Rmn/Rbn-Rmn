@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your cron job did not fail. It never ran.](https://dev.to/dcwiklik/your-cron-job-did-not-fail-it-never-ran-31o)
-- [Your Cognito Login Code Fails Because the App Client Never Allowed That Auth Flow](https://dev.to/siddharth_pandey_27/your-cognito-login-code-fails-because-the-app-client-never-allowed-that-auth-flow-1hmf)
-- [I Built an Agent Eval Harness. Real Agents Broke the Clean Version of the Story](https://dev.to/debashish_ghosal/i-built-an-agent-eval-harness-real-agents-broke-the-clean-version-of-the-story-53dj)
-- [Building an LLM API Gateway in Node.js](https://dev.to/mudassirworks/building-an-llm-api-gateway-in-nodejs-35g7)
-- [Week 7 of #100DaysOfCode: Back to the Fundamentals](https://dev.to/onatade_abdulmajeed/week-7-of-100daysofcode-back-to-the-fundamentals-3b73)
+- [AI Makes Developers Faster. Why Can It Make Teams Slower?](https://dev.to/_3ffb5be7950c3a975b5d/ai-makes-developers-faster-why-can-it-make-teams-slower-13kl)
+- [Treat prompts like code: skills, evals, and ship-gate CI for Cursor slash commands](https://dev.to/emaraschio/treat-prompts-like-code-skills-evals-and-ship-gate-ci-for-cursor-slash-commands-1o03)
+- [Crypto-Agility Without a Redesign: The &quot;Soft-Fade-Out&quot; Pattern for Legacy IoT Silicon](https://dev.to/artkeller/crypto-agility-without-a-redesign-the-soft-fade-out-pattern-for-legacy-iot-silicon-2oc6)
+- [How Much Should Live Together? Learning to Isolate Services the Hard Way](https://dev.to/tehrfurth/how-much-should-live-together-learning-to-isolate-services-the-hard-way-4b8m)
+- [GitLab 2FA Lockout: How My Local SSH Key Saved the Day](https://dev.to/letstalkoss/gitlab-2fa-lockout-how-my-local-ssh-key-saved-the-day-5g4d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
