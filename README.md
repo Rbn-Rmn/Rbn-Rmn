@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [10 Cool CodePen Demos &lpar;July 2026&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2026-bg)
-- [📝 Ending Product Sales Without Breaking Sales History — Implementing Soft Deletes and Reducing Gemini API Usage in Flask](https://dev.to/tosane932/ending-product-sales-without-breaking-sales-history-implementing-soft-deletes-and-reducing-11n5)
-- [Audio Plays on Desktop but Not on iPhone / iPad — The Culprit Is the MP4 moov Atom](https://dev.to/dexterlung/audio-plays-on-desktop-but-not-on-iphone-ipad-the-culprit-is-the-mp4-moov-atom-1j01)
-- [I built an open-source OSINT tool that runs 55 modules with zero API keys](https://dev.to/flowthingy/i-built-an-open-source-osint-tool-that-runs-55-modules-with-zero-api-keys-1614)
-- [Great article for security concepts](https://dev.to/le_beltagy/great-article-for-security-concepts-3l7o)
+- [🌱 OpenSpec Is Built for Brownfield. I Used It to Build From Nothing.](https://dev.to/shyamala_u/openspec-is-built-for-brownfield-i-used-it-to-build-from-nothing-18jm)
+- [Cloudflare Cache Hit Rate: 7% to 90%](https://dev.to/utlkit/cloudflare-cache-hit-rate-7-90-4nm2)
+- [Delta – Language learning built on cognitive science, not gamification](https://dev.to/shadowrock007/delta-language-learning-built-on-cognitive-science-not-gamification-2cjh)
+- [เมื่อ AI หนีออกจากห้องแล็บ — วิเคราะห์เหตุการณ์ OpenAI โมเดลหลุดการควบคุม แฮก Hugging Face](https://dev.to/sarantoon/emuue-ai-hniikcchaakhngaelb-wiekhraaahehtukaarn-openai-omedlhludkaarkhwbkhum-aehk-hugging-face-2p3j)
+- [Bluetooth Support Across Every Codename One Target](https://dev.to/codenameone/bluetooth-support-across-every-codename-one-target-4om5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
