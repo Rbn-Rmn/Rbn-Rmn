@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built a Skill and checker for MCP&#39;s breaking change 2026-08-26. Then the checker was wrong about it.](https://dev.to/vertigo91/i-built-a-skill-and-checker-for-mcps-breaking-change-2026-08-26-then-the-checker-was-wrong-about-1kb4)
-- [Solving Riverpod’s Family Provider Cache Dilemma with Signals &amp; mapSignal](https://dev.to/gde/solving-riverpods-family-provider-cache-dilemma-with-signals-mapsignal-474)
-- [The Golden Rule of Payout Systems: Why &quot;Pending&quot; is Never a Failure](https://dev.to/shubham399/the-golden-rule-of-payout-systems-why-pending-is-never-a-failure-3n6)
-- [What an AI Engineer job actually tests](https://dev.to/kayashaolu/what-an-ai-engineer-job-actually-tests-4mch)
-- [Designing Edit Operations for AI Agents](https://dev.to/gimalay/designing-edit-operations-for-ai-agents-16e8)
+- [Your Agent Pays a Tax on Every Tool It Never Calls](https://dev.to/jubinsoni/your-agent-pays-a-tax-on-every-tool-it-never-calls-960)
+- [How dotdotgod Query Finds Relevant Documents from a Natural-Language Question](https://dev.to/dotdotgod/how-dotdotgod-query-finds-relevant-documents-from-a-natural-language-question-43do)
+- [Building a Better Erhu Tuner: Why Auto correlation Beats Standard Pitch Detection in the Browser](https://dev.to/amila_100255eb03f63860e2d/building-a-better-erhu-tuner-why-auto-correlation-beats-standard-pitch-detection-in-the-browser-44h2)
+- [Observer: The YouTube Subscribe Pattern](https://dev.to/vicky_acedia/observer-the-youtube-subscribe-pattern-npd)
+- [I Let an AI Write My Tests for 30 Days: Coverage Went 38% to 71%](https://dev.to/mage0535/i-let-an-ai-write-my-tests-for-30-days-coverage-went-38-to-71-1ka3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
