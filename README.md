@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What Is a Status Page? Complete Guide for 2026](https://dev.to/jensonhirst/what-is-a-status-page-complete-guide-for-2026-dll)
-- [What Is Uptime Monitoring? Complete Guide for 2026](https://dev.to/jensonhirst/what-is-uptime-monitoring-complete-guide-for-2026-3ikl)
-- [How to Monitor Third-Party Dependencies in 2026](https://dev.to/jensonhirst/how-to-monitor-third-party-dependencies-in-2026-5e12)
-- [Incident Communication Best Practices in 2026](https://dev.to/jensonhirst/incident-communication-best-practices-in-2026-ipl)
-- [On-Call Schedules and Escalation Policies Explained &lpar;2026&rpar;](https://dev.to/jensonhirst/on-call-schedules-and-escalation-policies-explained-2026-5aha)
+- [Taste of Punjab - A CSS Love Letter to Comfort Food](https://dev.to/komal290106/taste-of-punjab-a-css-love-letter-to-comfort-food-1bk2)
+- [Offset vs Cursor Pagination: The Mistake Most Backend Engineers Make](https://dev.to/engrmark/offset-vs-cursor-pagination-the-mistake-most-backend-engineers-make-2gme)
+- [[Advanced Rust] 2.3. API Design Principles of Unsurprising Pt.3 - Implementing serde Serialize and Deserialize Traits, and Why…](https://dev.to/someb1oody/advanced-rust-23-api-design-principles-of-unsurprising-pt3-implementing-serde-serialize-and-2i18)
+- [[Advanced Rust] 2.2. API Design Principles of Unsurprising Pt.2 - Implementing Clone, Default, PartialEq, PartialOrd, Hash, Eq…](https://dev.to/someb1oody/advanced-rust-22-api-design-principles-of-unsurprising-pt2-implementing-clone-default-4i9o)
+- [I Let an AI Re-Platform My CI Pipeline. Here&#39;s What Broke.](https://dev.to/tomaszwostal/i-let-an-ai-re-platform-my-ci-pipeline-heres-what-broke-26i8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
