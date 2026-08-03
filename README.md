@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [React Mastery Series – Day 22: State Management with Redux Toolkit – Building Enterprise React Applications](https://dev.to/siva_samanthapudi/react-mastery-series-day-22-state-management-with-redux-toolkit-building-enterprise-react-31eh)
-- [Building a Micro AI Code Reviewer in Rust: Lessons from &#39;ratatop&#39; with Unsafe and System Metrics](https://dev.to/tamizuddin/building-a-micro-ai-code-reviewer-in-rust-lessons-from-ratatop-with-unsafe-and-system-metrics-2o7f)
-- [Your Ops Agent’s Chat History Is an Attack Surface: Prompt Injection Just Became an Infrastructure Problem](https://dev.to/muskan_bandta/your-ops-agents-chat-history-is-an-attack-surface-prompt-injection-just-became-an-infrastructure-2pee)
-- [GPT-5.6 Luna Just Cut Prices 80% Your AI Bill Is Still Going Up, and Here’s the Math](https://dev.to/muskan_bandta/gpt-56-luna-just-cut-prices-80-your-ai-bill-is-still-going-up-and-heres-the-math-284n)
-- [Gemini Robotics 2 place le cerveau des humanoïdes chez Google](https://dev.to/thibault_monteiro/gemini-robotics-2-place-le-cerveau-des-humanoides-chez-google-5k4)
+- [I Built a Bridge for Google&#39;s New WebMCP Draft Spec — Here&#39;s What Broke](https://dev.to/tanahiro2010/i-built-a-bridge-for-googles-new-webmcp-draft-spec-heres-what-broke-1691)
+- [How To Be A Hero](https://dev.to/bibimbop123/how-to-be-a-hero-5c6i)
+- [Getting Started with Snowflake Per-User Quotas for User-Level Cost Management of Warehouses and AI Features](https://dev.to/xtatsux/getting-started-with-snowflake-per-user-quotas-for-user-level-cost-management-of-warehouses-and-ai-566e)
+- [Build a Modern Chat UI with Just CSS and JavaScript](https://dev.to/_artclick/build-a-modern-chat-ui-with-just-css-and-javascript-34ah)
+- [Implementing Content Security Policy &lpar;CSP&rpar; Generation with Go](https://dev.to/ayinedjimi-consultants/implementing-content-security-policy-csp-generation-with-go-1el4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
