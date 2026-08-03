@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Llamar a un teléfono real desde el navegador: WebRTC, SIP y lo que nadie te cuenta de la facturación](https://dev.to/ivanindiv/llamar-a-un-telefono-real-desde-el-navegador-webrtc-sip-y-lo-que-nadie-te-cuenta-de-la-facturacion-3nmp)
-- [Your AI Agent&#39;s Chat History Is User Input](https://dev.to/y11t0/your-ai-agents-chat-history-is-user-input-fl6)
-- [Jollof, Sunday Special — A Bowl of Jollof Rice in Pure CSS](https://dev.to/charleseze322/jollof-sunday-special-a-bowl-of-jollof-rice-in-pure-css-540)
-- [5 New Dev Tools You Should Learn This Week](https://dev.to/karleeov/5-new-dev-tools-you-should-learn-this-week-12in)
-- [PITCH: 2 em 1](https://dev.to/iamthiago/pitch-2-em-1-35n0)
+- [Episode 2 — Who Actually Runs My Pipeline?](https://dev.to/surajrkhonde/episode-2-who-actually-runs-my-pipeline-aji)
+- [How to run a team of AI marketing agents from Slack](https://dev.to/bensabic/how-to-run-a-team-of-ai-marketing-agents-from-slack-plm)
+- [React useInfiniteScroll Hook: Infinite Scrolling Made Simple &lpar;2026&rpar;](https://dev.to/childrentime/react-useinfinitescroll-hook-infinite-scrolling-made-simple-2026-15c4)
+- [You don&#39;t have to choose between Shopify updates and accessibility fixes](https://dev.to/praiztech/you-dont-have-to-choose-between-shopify-updates-and-accessibility-fixes-fm8)
+- [You Won’t Know How Much to Delegate to AI Until You Use It Extensively](https://dev.to/tom-takeru/you-wont-know-how-much-to-delegate-to-ai-until-you-use-it-extensively-30dh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
