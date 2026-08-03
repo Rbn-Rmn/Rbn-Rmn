@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Episode 2 — Who Actually Runs My Pipeline?](https://dev.to/surajrkhonde/episode-2-who-actually-runs-my-pipeline-aji)
-- [How to run a team of AI marketing agents from Slack](https://dev.to/bensabic/how-to-run-a-team-of-ai-marketing-agents-from-slack-plm)
-- [React useInfiniteScroll Hook: Infinite Scrolling Made Simple &lpar;2026&rpar;](https://dev.to/childrentime/react-useinfinitescroll-hook-infinite-scrolling-made-simple-2026-15c4)
-- [You don&#39;t have to choose between Shopify updates and accessibility fixes](https://dev.to/praiztech/you-dont-have-to-choose-between-shopify-updates-and-accessibility-fixes-fm8)
-- [You Won’t Know How Much to Delegate to AI Until You Use It Extensively](https://dev.to/tom-takeru/you-wont-know-how-much-to-delegate-to-ai-until-you-use-it-extensively-30dh)
+- [React Mastery Series – Day 22: State Management with Redux Toolkit – Building Enterprise React Applications](https://dev.to/siva_samanthapudi/react-mastery-series-day-22-state-management-with-redux-toolkit-building-enterprise-react-31eh)
+- [Building a Micro AI Code Reviewer in Rust: Lessons from &#39;ratatop&#39; with Unsafe and System Metrics](https://dev.to/tamizuddin/building-a-micro-ai-code-reviewer-in-rust-lessons-from-ratatop-with-unsafe-and-system-metrics-2o7f)
+- [Your Ops Agent’s Chat History Is an Attack Surface: Prompt Injection Just Became an Infrastructure Problem](https://dev.to/muskan_bandta/your-ops-agents-chat-history-is-an-attack-surface-prompt-injection-just-became-an-infrastructure-2pee)
+- [GPT-5.6 Luna Just Cut Prices 80% Your AI Bill Is Still Going Up, and Here’s the Math](https://dev.to/muskan_bandta/gpt-56-luna-just-cut-prices-80-your-ai-bill-is-still-going-up-and-heres-the-math-284n)
+- [Gemini Robotics 2 place le cerveau des humanoïdes chez Google](https://dev.to/thibault_monteiro/gemini-robotics-2-place-le-cerveau-des-humanoides-chez-google-5k4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
