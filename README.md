@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Render invoices to PDF with a GET request instead of shipping Chromium](https://dev.to/clausenetizen/render-invoices-to-pdf-with-a-get-request-instead-of-shipping-chromium-39o7)
-- [An MCP server on Cloudflare&#39;s free plan, measured against the 10 ms CPU limit](https://dev.to/301st/an-mcp-server-on-cloudflares-free-plan-measured-against-the-10-ms-cpu-limit-468b)
-- [I Was in 340 Telegram Groups, So I Built a Cleanup Tool](https://dev.to/aftersnow/i-was-in-340-telegram-groups-so-i-built-a-cleanup-tool-2kfl)
-- [🤖 AI Agents vs AI Chatbots: What&#39;s the Difference?](https://dev.to/codexlancers/ai-agents-vs-ai-chatbots-whats-the-difference-4lf8)
-- [I wrote down 61 rules, then failed my own repos](https://dev.to/svyatov/i-wrote-down-61-rules-then-failed-my-own-repos-5351)
+- [DiffusionGemma Is Fast Because It Stops Pretending Text Has to Be Written Left to Right](https://dev.to/komo/diffusiongemma-is-fast-because-it-stops-pretending-text-has-to-be-written-left-to-right-2h2n)
+- [How I Built a Self-Employment Tax Calculator with Zero Dependencies](https://dev.to/leo_chang_4c726afdf3a87eb/how-i-built-a-self-employment-tax-calculator-with-zero-dependencies-5d6g)
+- [I Got Tired of Rebuilding FastAPI Projects, So I Built FastStrapy](https://dev.to/anoop_george/i-got-tired-of-rebuilding-fastapi-projects-so-i-built-faststrapy-18ml)
+- [.env vs .env.example: What&#39;s the Difference and Why You Need Both](https://dev.to/ujwala_dev/-env-vs-envexample-whats-the-difference-4gh7)
+- [React 19&#39;s useOptimistic Fixed My Instant UI. Then Combining It With useActionState Broke My Reset Button](https://dev.to/shubhradev/react-19s-useoptimistic-fixed-my-instant-ui-then-combining-it-with-useactionstate-broke-my-reset-41km)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
