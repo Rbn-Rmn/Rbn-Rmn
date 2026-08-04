@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s AI tools for developers and enterprise, and when to actually reach for each](https://dev.to/gde/googles-ai-tools-for-developers-and-enterprise-and-when-to-actually-reach-for-each-5816)
-- [Prompt Injection Is an Authorization Problem](https://dev.to/y11t0/prompt-injection-is-an-authorization-problem-1ojh)
-- [Introduction to Python Module Four Part Three: Slicing](https://dev.to/theoriginalbpc/introduction-to-python-module-four-part-three-slicing-477g)
-- [Provenance Belongs in the Image Table](https://dev.to/romiteld/provenance-belongs-in-the-image-table-4d30)
-- [I used Spring Boot daily but never really understood what happened after pressing Enter in Postman.](https://dev.to/curious_niloufer/i-used-spring-boot-daily-but-never-really-understood-what-happened-after-pressing-enter-in-postman-5cej)
+- [How to Add PDF Annotations in Vue.js: PDF.js, vue-pdf-embed, @tato30/vue-pdf, and Vue PDF Viewer &lpar;2026&rpar;](https://dev.to/9haroon/how-to-add-pdf-annotations-in-vuejs-pdfjs-vue-pdf-embed-tato30vue-pdf-and-vue-pdf-viewer-5b40)
+- [Building a company in 2026: What I’m learning along the way](https://dev.to/neilton_rocha_dev/building-a-company-in-2026-what-im-learning-along-the-way-15n5)
+- [Episode 5 — Who Gets to Flip the Switch](https://dev.to/surajrkhonde/episode-5-who-gets-to-flip-the-switch-2d9g)
+- [Designing a Backend System That Handles 100K Requests/Second &lpar;Without Melting Your Database&rpar;](https://dev.to/ghrabla/designing-a-backend-system-that-handles-100k-requestssecond-without-melting-your-database-2dpo)
+- [Building Reliable UDP](https://dev.to/derekmwale/building-reliable-udp-51ei)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
