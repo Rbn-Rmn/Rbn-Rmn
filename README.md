@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Voice Emotion Control Moves From SSML to Prompts](https://dev.to/lukeocodes/voice-emotion-control-moves-from-ssml-to-prompts-506b)
-- [Taming 70 Flutter Flavors: flavorizr + Batch CI for White-Label Releases](https://dev.to/kamero/taming-70-flutter-flavors-flavorizr-batch-ci-for-white-label-releases-54fl)
-- [Qwen3.8-Max Beat Claude on Three Benchmarks. The Full Story Is Less Convenient](https://dev.to/aditi_gupta_8d81622a592aa/qwen38-max-vs-claude-what-the-16-day-coding-run-and-benchmarks-really-show-3bje)
-- [&quot;5 Python mistakes I keep making as a beginner &lpar;and how I fixed them&rpar;&quot;](https://dev.to/asma_dua_34/5-python-mistakes-i-keep-making-as-a-beginner-and-how-i-fixed-them-2mnc)
-- [LinkedIn gave everyone a &#39;this looks like AI&#39; button. I won&#39;t press it.](https://dev.to/eugeniya_ivanova_4a58eadc/linkedin-gave-everyone-a-this-looks-like-ai-button-i-wont-press-it-114m)
+- [Render invoices to PDF with a GET request instead of shipping Chromium](https://dev.to/clausenetizen/render-invoices-to-pdf-with-a-get-request-instead-of-shipping-chromium-39o7)
+- [An MCP server on Cloudflare&#39;s free plan, measured against the 10 ms CPU limit](https://dev.to/301st/an-mcp-server-on-cloudflares-free-plan-measured-against-the-10-ms-cpu-limit-468b)
+- [I Was in 340 Telegram Groups, So I Built a Cleanup Tool](https://dev.to/aftersnow/i-was-in-340-telegram-groups-so-i-built-a-cleanup-tool-2kfl)
+- [🤖 AI Agents vs AI Chatbots: What&#39;s the Difference?](https://dev.to/codexlancers/ai-agents-vs-ai-chatbots-whats-the-difference-4lf8)
+- [I wrote down 61 rules, then failed my own repos](https://dev.to/svyatov/i-wrote-down-61-rules-then-failed-my-own-repos-5351)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
