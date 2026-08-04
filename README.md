@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My Agent Said the Page Was Live. The Page Said &#39;We Are Closed.&#39;](https://dev.to/onurkesim/my-agent-said-the-page-was-live-the-page-said-we-are-closed-f75)
-- [Bridging the FE/BE Divide: Why I Built a Zero-Dependency Component Engine for Vanilla HTML](https://dev.to/mtz1406/bridging-the-febe-divide-why-i-built-a-zero-dependency-component-engine-for-vanilla-html-3h8h)
-- [The LLM in my app is not allowed to decide anything](https://dev.to/shanni/the-llm-in-my-app-is-not-allowed-to-decide-anything-39n0)
-- [I spent a month doing AEO for a tiny niche site. Most of the advice was wrong.](https://dev.to/shanni/i-spent-a-month-doing-aeo-for-a-tiny-niche-site-most-of-the-advice-was-wrong-20ad)
-- [How Much Does It Cost to Self-Host Open Models on AWS?](https://dev.to/aws/how-much-does-it-cost-to-self-host-open-models-on-aws-2n7o)
+- [Snowflake to Databricks: what the migration actually costs you](https://dev.to/zephico/snowflake-to-databricks-what-the-migration-actually-costs-you-5e09)
+- [Keep Docker Engine as Your Kubernetes Runtime on Ubuntu with cri-dockerd](https://dev.to/jjoyneriv/keep-docker-engine-as-your-kubernetes-runtime-on-ubuntu-with-cri-dockerd-18de)
+- [Construí un sistema de cotizaciones real con .NET 10 y Blazor Server — y esto fue lo que aprendí](https://dev.to/kiddtobal/construi-un-sistema-de-cotizaciones-real-con-net-10-y-blazor-server-y-esto-fue-lo-que-aprendi-4il3)
+- [Escaping the Event Loop — A Deep Dive into worker_threads &lpar;Part 3/3&rpar;](https://dev.to/aniket_misra_e47d1564ab7b/escaping-the-event-loop-a-deep-dive-into-workerthreads-part-33-11oj)
+- [ROI of my 100$ Claude Code Subscription](https://dev.to/nenadmit/roi-of-my-100-claude-code-subscription-1iin)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
