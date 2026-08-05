@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Know When a Claude Code Agent Needs Your Approval &lpar;Without Watching the Terminal&rpar;](https://dev.to/pederaa/how-to-know-when-a-claude-code-agent-needs-your-approval-without-watching-the-terminal-5ekf)
-- [How to Sync Cursor Rules, CLAUDE.md, and AGENTS.md Across Projects Without Config Drift](https://dev.to/pederaa/how-to-sync-cursor-rules-claudemd-and-agentsmd-across-projects-without-config-drift-23f8)
-- [AGENTS.md vs CLAUDE.md: Which Context File Should Your Coding Agents Use in 2026?](https://dev.to/pederaa/agentsmd-vs-claudemd-which-context-file-should-your-coding-agents-use-in-2026-2ngb)
-- [How to Track Claude Code Usage in 2026: Built-in Commands, ccusage, and Desktop Dashboards Compared](https://dev.to/pederaa/how-to-track-claude-code-usage-in-2026-built-in-commands-ccusage-and-desktop-dashboards-compared-1kk1)
-- [LeetCode #345 in Go: reverse vowels of a string, and how strings, bytes, and runes work in Go](https://dev.to/ferztyle/leetcode-345-in-go-reverse-vowels-of-a-string-and-how-strings-bytes-and-runes-work-in-go-5dng)
+- [The proxy industry needs you to never open the network tab](https://dev.to/the_aientrepreneur_7ae85/the-proxy-industry-needs-you-to-never-open-the-network-tab-4b46)
+- [OpenAI Details Hugging Face Evaluation Incident and Tightens Third-Party Testing Safeguards](https://dev.to/alifar/openai-details-hugging-face-evaluation-incident-and-tightens-third-party-testing-safeguards-3mgj)
+- [I built skill.md file to stop AI from Generic UI SLOP](https://dev.to/yu-369/i-built-skillmd-file-to-stop-ai-from-generic-ui-slop-599o)
+- [I built a tiny CLI so my AI coding tools stop forgetting everything](https://dev.to/jeffrin-dev/i-built-a-tiny-cli-so-my-ai-coding-tools-stop-forgetting-everything-1hdd)
+- [SQL to Cypher - 10 Queries You Already Know](https://dev.to/jeremycmorgan/sql-to-cypher-10-queries-you-already-know-4m97)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
