@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Prompt engineering couldn&#39;t fix this LLM bug. 20 lines of binary parsing did.](https://dev.to/socialfuel/prompt-engineering-couldnt-fix-this-llm-bug-20-lines-of-binary-parsing-did-3n37)
-- [The Evolution Of Software Engineering](https://dev.to/bretbernhoft/the-evolution-of-software-engineering-g21)
-- [Cron&#39;d Claude Agents: A Maintenance Log](https://dev.to/labyrinthanalytics/crond-claude-agents-a-maintenance-log-3hlc)
-- [I Built a VS Code Extension, I would like your feedback!](https://dev.to/abdvlla/i-built-a-vs-code-extension-i-would-like-your-feedback-2jg4)
-- [Building Smart Meal Planner: An AI-Powered Meal Planning Tool with ASP.NET Core and .NET 10](https://dev.to/saddamhossaindotnet/building-smart-meal-planner-an-ai-powered-meal-planning-tool-with-aspnet-core-and-net-10-2nm7)
+- [Self-Hosting a Terminal AI Coding Assistant &lpar;Ollama + Tailscale + Qwen Code&rpar;](https://dev.to/abhishek_raghuwanshi_2ae7/self-hosting-a-terminal-ai-coding-assistant-ollama-tailscale-qwen-code-a13)
+- [Preparing Enterprise Systems for the Post-Quantum Encryption Shift](https://dev.to/shubham_shaw_63d2b4bec156/preparing-enterprise-systems-for-the-post-quantum-encryption-shift-8n0)
+- [I built a free tool to translate Android, iOS, and Flutter string files &lpar;and here&#39;s how the translation actually works under the hood&rpar;](https://dev.to/kamrandevstar/i-built-a-free-tool-to-translate-android-ios-and-flutter-string-files-and-heres-how-the-3dc)
+- [The Hourly Rate Math Most Freelancers Get Wrong](https://dev.to/kuroha/the-hourly-rate-math-most-freelancers-get-wrong-4g8b)
+- [RAG vs. Fine-Tuning: Which Is Better for Adding New Information?](https://dev.to/velocityai/rag-vs-fine-tuning-which-is-better-for-adding-new-information-4kem)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
