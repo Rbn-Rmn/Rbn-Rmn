@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [SNS vs SQS vs Kinesis vs MSK vs EventBridge vs RabbitMQ: An Architect&#39;s Decision Matrix](https://dev.to/swethagolla/sns-vs-sqs-vs-kinesis-vs-msk-vs-eventbridge-vs-rabbitmq-an-architects-decision-matrix-510p)
-- [Mecha, my first AI agent](https://dev.to/kuyawa/mecha-my-firt-ai-agent-cii)
-- [🥈 React Performance Tips: 12 Ways to Make Your App Faster](https://dev.to/joodi/react-performance-tips-12-ways-to-make-your-app-faster-5bop)
-- [Breaking the Browser Sandbox: How to Build Native Desktop Automation Agents with Node.js and C++](https://dev.to/programmingcentral/breaking-the-browser-sandbox-how-to-build-native-desktop-automation-agents-with-nodejs-and-c-3h81)
-- [Keyv and Cacheable npm Supply Chain Compromise](https://dev.to/informertech/keyv-and-cacheable-npm-supply-chain-compromise-4n6e)
+- [Github Stacked PR](https://dev.to/dixitgurv/github-stacked-pr-l26)
+- [A Faster Model Will Not Fix Your Slow Voice Agent](https://dev.to/nabeelbaghoor/a-faster-model-will-not-fix-your-slow-voice-agent-chf)
+- [[Boost]](https://dev.to/anthonymax/-28h6)
+- [borrowed certainty](https://dev.to/logios/borrowed-certainty-248o)
+- [Lanzaste tu MVP: El Plan Post-Lanzamiento que el 90% No Tiene](https://dev.to/pivelcode/lanzaste-tu-mvp-el-plan-post-lanzamiento-que-el-90-no-tiene-1mmd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
