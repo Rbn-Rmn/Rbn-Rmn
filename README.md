@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Self-Hosting a Terminal AI Coding Assistant &lpar;Ollama + Tailscale + Qwen Code&rpar;](https://dev.to/abhishek_raghuwanshi_2ae7/self-hosting-a-terminal-ai-coding-assistant-ollama-tailscale-qwen-code-a13)
-- [Preparing Enterprise Systems for the Post-Quantum Encryption Shift](https://dev.to/shubham_shaw_63d2b4bec156/preparing-enterprise-systems-for-the-post-quantum-encryption-shift-8n0)
-- [I built a free tool to translate Android, iOS, and Flutter string files &lpar;and here&#39;s how the translation actually works under the hood&rpar;](https://dev.to/kamrandevstar/i-built-a-free-tool-to-translate-android-ios-and-flutter-string-files-and-heres-how-the-3dc)
-- [The Hourly Rate Math Most Freelancers Get Wrong](https://dev.to/kuroha/the-hourly-rate-math-most-freelancers-get-wrong-4g8b)
-- [RAG vs. Fine-Tuning: Which Is Better for Adding New Information?](https://dev.to/velocityai/rag-vs-fine-tuning-which-is-better-for-adding-new-information-4kem)
+- [7 Docker Compose Patterns Every Devops Engineer Should Know](https://dev.to/morizal/7-docker-compose-patterns-every-devops-engineer-should-know-2hf7)
+- [The 10 JS Topics Every Frontend Engineer Should Know](https://dev.to/ale3oula/the-10-js-topics-every-frontend-engineer-should-know-1blj)
+- [Stop babysitting your AI agents in the terminal — NockIt sends push alerts straight to your phone &lpar;Nockit&rpar;](https://dev.to/codecrack01/stop-babysitting-your-ai-agents-in-the-terminal-nockit-sends-push-alerts-straight-to-your-phone-3406)
+- [Three AT Protocol behaviors that shaped my Bluesky post queue design](https://dev.to/morinaga/three-at-protocol-behaviors-that-shaped-my-bluesky-post-queue-design-3h30)
+- [Why I&#39;m betting article cross-publishing beats social-first for AI directory distribution](https://dev.to/morinaga/why-im-betting-article-cross-publishing-beats-social-first-for-ai-directory-distribution-4k7d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
