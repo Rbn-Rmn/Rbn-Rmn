@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Snowflake to Databricks: what the migration actually costs you](https://dev.to/zephico/snowflake-to-databricks-what-the-migration-actually-costs-you-5e09)
-- [Keep Docker Engine as Your Kubernetes Runtime on Ubuntu with cri-dockerd](https://dev.to/jjoyneriv/keep-docker-engine-as-your-kubernetes-runtime-on-ubuntu-with-cri-dockerd-18de)
-- [Construí un sistema de cotizaciones real con .NET 10 y Blazor Server — y esto fue lo que aprendí](https://dev.to/kiddtobal/construi-un-sistema-de-cotizaciones-real-con-net-10-y-blazor-server-y-esto-fue-lo-que-aprendi-4il3)
-- [Escaping the Event Loop — A Deep Dive into worker_threads &lpar;Part 3/3&rpar;](https://dev.to/aniket_misra_e47d1564ab7b/escaping-the-event-loop-a-deep-dive-into-workerthreads-part-33-11oj)
-- [ROI of my 100$ Claude Code Subscription](https://dev.to/nenadmit/roi-of-my-100-claude-code-subscription-1iin)
+- [Prompt engineering couldn&#39;t fix this LLM bug. 20 lines of binary parsing did.](https://dev.to/socialfuel/prompt-engineering-couldnt-fix-this-llm-bug-20-lines-of-binary-parsing-did-3n37)
+- [The Evolution Of Software Engineering](https://dev.to/bretbernhoft/the-evolution-of-software-engineering-g21)
+- [Cron&#39;d Claude Agents: A Maintenance Log](https://dev.to/labyrinthanalytics/crond-claude-agents-a-maintenance-log-3hlc)
+- [I Built a VS Code Extension, I would like your feedback!](https://dev.to/abdvlla/i-built-a-vs-code-extension-i-would-like-your-feedback-2jg4)
+- [Building Smart Meal Planner: An AI-Powered Meal Planning Tool with ASP.NET Core and .NET 10](https://dev.to/saddamhossaindotnet/building-smart-meal-planner-an-ai-powered-meal-planning-tool-with-aspnet-core-and-net-10-2nm7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
