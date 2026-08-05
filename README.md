@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Github Stacked PR](https://dev.to/dixitgurv/github-stacked-pr-l26)
-- [A Faster Model Will Not Fix Your Slow Voice Agent](https://dev.to/nabeelbaghoor/a-faster-model-will-not-fix-your-slow-voice-agent-chf)
-- [[Boost]](https://dev.to/anthonymax/-28h6)
-- [borrowed certainty](https://dev.to/logios/borrowed-certainty-248o)
-- [Lanzaste tu MVP: El Plan Post-Lanzamiento que el 90% No Tiene](https://dev.to/pivelcode/lanzaste-tu-mvp-el-plan-post-lanzamiento-que-el-90-no-tiene-1mmd)
+- [AI Memory Is Not a Trust Model for Team Knowledge](https://dev.to/xtsoftwarelabs/ai-memory-is-not-a-trust-model-for-team-knowledge-4j5j)
+- [What I Learned Trying to Make AI-Agent Decisions Testable](https://dev.to/kikashy/what-i-learned-trying-to-make-ai-agent-decisions-testable-5h6h)
+- [My X &lpar;Twitter&rpar; Weekly Report Bot Showed &#39;0 Followers&#39; for Two Months—The Culprit Was a Non-Existent Account Name in My .env File](https://dev.to/masaoshimadaopen/my-x-twitter-weekly-report-bot-showed-0-followers-for-two-months-the-culprit-was-a-non-existent-1edl)
+- [Notion vs Obsidian for Engineering Docs: What Breaks at Team Scale](https://dev.to/libme/notion-vs-obsidian-for-engineering-docs-what-breaks-at-team-scale-4aa0)
+- [Yt-watch-party](https://dev.to/arhamkabir/yt-watch-party-kca)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
