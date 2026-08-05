@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents vs Chatbots: They&#39;re Not the Same Thing](https://dev.to/sanjay_batthula_38d8e913e/ai-agents-vs-chatbots-theyre-not-the-same-thing-1l5)
-- [Cloudflare Worker redirect never runs, because static assets are served first](https://dev.to/lucian_tudor_303e1e12b9e5/cloudflare-worker-redirect-never-runs-because-static-assets-are-served-first-30jn)
-- [Critical One-Click RCE Flaw Exposes VS Code and Cursor Users to Remote Code Execution](https://dev.to/davekurian/critical-one-click-rce-flaw-exposes-vs-code-and-cursor-users-to-remote-code-execution-4o5b)
-- [How to secure AI generated code from prompt to pentest](https://dev.to/codacy/how-to-secure-ai-generated-code-from-prompt-to-pentest-30b2)
-- [Cloudflare R2 custom domain returns 404 — a Worker wildcard route was eating it](https://dev.to/lucian_tudor_303e1e12b9e5/cloudflare-r2-custom-domain-returns-404-a-worker-wildcard-route-was-eating-it-1g35)
+- [How to Know When a Claude Code Agent Needs Your Approval &lpar;Without Watching the Terminal&rpar;](https://dev.to/pederaa/how-to-know-when-a-claude-code-agent-needs-your-approval-without-watching-the-terminal-5ekf)
+- [How to Sync Cursor Rules, CLAUDE.md, and AGENTS.md Across Projects Without Config Drift](https://dev.to/pederaa/how-to-sync-cursor-rules-claudemd-and-agentsmd-across-projects-without-config-drift-23f8)
+- [AGENTS.md vs CLAUDE.md: Which Context File Should Your Coding Agents Use in 2026?](https://dev.to/pederaa/agentsmd-vs-claudemd-which-context-file-should-your-coding-agents-use-in-2026-2ngb)
+- [How to Track Claude Code Usage in 2026: Built-in Commands, ccusage, and Desktop Dashboards Compared](https://dev.to/pederaa/how-to-track-claude-code-usage-in-2026-built-in-commands-ccusage-and-desktop-dashboards-compared-1kk1)
+- [LeetCode #345 in Go: reverse vowels of a string, and how strings, bytes, and runes work in Go](https://dev.to/ferztyle/leetcode-345-in-go-reverse-vowels-of-a-string-and-how-strings-bytes-and-runes-work-in-go-5dng)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
