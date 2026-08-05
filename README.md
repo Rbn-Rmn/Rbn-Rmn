@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [7 Docker Compose Patterns Every Devops Engineer Should Know](https://dev.to/morizal/7-docker-compose-patterns-every-devops-engineer-should-know-2hf7)
-- [The 10 JS Topics Every Frontend Engineer Should Know](https://dev.to/ale3oula/the-10-js-topics-every-frontend-engineer-should-know-1blj)
-- [Stop babysitting your AI agents in the terminal — NockIt sends push alerts straight to your phone &lpar;Nockit&rpar;](https://dev.to/codecrack01/stop-babysitting-your-ai-agents-in-the-terminal-nockit-sends-push-alerts-straight-to-your-phone-3406)
-- [Three AT Protocol behaviors that shaped my Bluesky post queue design](https://dev.to/morinaga/three-at-protocol-behaviors-that-shaped-my-bluesky-post-queue-design-3h30)
-- [Why I&#39;m betting article cross-publishing beats social-first for AI directory distribution](https://dev.to/morinaga/why-im-betting-article-cross-publishing-beats-social-first-for-ai-directory-distribution-4k7d)
+- [AI Agents vs Chatbots: They&#39;re Not the Same Thing](https://dev.to/sanjay_batthula_38d8e913e/ai-agents-vs-chatbots-theyre-not-the-same-thing-1l5)
+- [Cloudflare Worker redirect never runs, because static assets are served first](https://dev.to/lucian_tudor_303e1e12b9e5/cloudflare-worker-redirect-never-runs-because-static-assets-are-served-first-30jn)
+- [Critical One-Click RCE Flaw Exposes VS Code and Cursor Users to Remote Code Execution](https://dev.to/davekurian/critical-one-click-rce-flaw-exposes-vs-code-and-cursor-users-to-remote-code-execution-4o5b)
+- [How to secure AI generated code from prompt to pentest](https://dev.to/codacy/how-to-secure-ai-generated-code-from-prompt-to-pentest-30b2)
+- [Cloudflare R2 custom domain returns 404 — a Worker wildcard route was eating it](https://dev.to/lucian_tudor_303e1e12b9e5/cloudflare-r2-custom-domain-returns-404-a-worker-wildcard-route-was-eating-it-1g35)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
