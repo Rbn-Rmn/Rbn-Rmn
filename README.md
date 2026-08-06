@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [When You Should Not Run Kubernetes, and What a Single Docker Compose Host Really Costs You](https://dev.to/jachin_ocacio_e8de2a25158/when-you-should-not-run-kubernetes-and-what-a-single-docker-compose-host-really-costs-you-526i)
-- [低遅延の打鍵音をAVAudioPlayerNodeプールで重ねる設計](https://dev.to/klakkapp/di-chi-yan-noda-jian-yin-woavaudioplayernodepurudezhong-nerushe-ji-2hc1)
-- [Best 5 Browser Automation API for AI Agents in 2026](https://dev.to/kevin_menesesgonzlez/best-5-browser-automation-api-for-ai-agents-in-2026-5hcg)
-- [The End of the Testing Pyramid: What Replaces It in the AI Era](https://dev.to/qapilot/the-end-of-the-testing-pyramid-what-replaces-it-in-the-ai-era-3b46)
-- [Restate or Diagrid Catalyst for Durable Tool Calls?](https://dev.to/diagrid/restate-or-diagrid-catalyst-for-durable-tool-calls-36b8)
+- [Let the Agent Propose, Let the Pipeline Commit: A Staged Gate for AI-Assisted Changes](https://dev.to/kongkong1/let-the-agent-propose-let-the-pipeline-commit-a-staged-gate-for-ai-assisted-changes-4pd5)
+- [Canary an LLM Evaluation Harness With Queue Overload and a Concurrency Gate](https://dev.to/robinzzz/canary-an-llm-evaluation-harness-with-queue-overload-and-a-concurrency-gate-1a86)
+- [Fixing Shopify Google Ads Conversion Tracking: Server-Side Setup Without GTM](https://dev.to/stack_c285afb2fa0bef/fixing-shopify-google-ads-conversion-tracking-server-side-setup-without-gtm-1ld1)
+- [Stop Over-Engineering Your State Management](https://dev.to/ntty/stop-over-engineering-your-state-management-28d)
+- [Nashville uses eminent domain to block data center near zoo!](https://dev.to/mgobea/nashville-uses-eminent-domain-to-block-data-center-near-zoo-1k28)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
