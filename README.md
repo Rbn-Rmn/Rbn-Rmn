@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Rotate AWS IAM Access Keys by script](https://dev.to/gerardo_leon/rotate-aws-iam-access-keys-by-script-4g8g)
-- [EU AI Act Article 50 Transparency Rules Take Effect for Chatbots and Deepfakes](https://dev.to/alifar/eu-ai-act-article-50-transparency-rules-take-effect-for-chatbots-and-deepfakes-58if)
-- [Saving a tweet as a PDF is harder than it looks &lpar;CORS, tokens, and Unicode&rpar;](https://dev.to/simran_kaur_9eda1e242c31f/saving-a-tweet-as-a-pdf-is-harder-than-it-looks-cors-tokens-and-unicode-10hf)
-- [Agentic, But Only Semi-Autonomous: Designing an EDA Pipeline You Can Trust](https://dev.to/sraveend/agentic-but-only-semi-autonomous-designing-an-eda-pipeline-you-can-trust-4ha9)
-- [What Developer Experience Actually Means](https://dev.to/robat_das_3c6e956212f6408/what-developer-experience-actually-means-339j)
+- [When You Should Not Run Kubernetes, and What a Single Docker Compose Host Really Costs You](https://dev.to/jachin_ocacio_e8de2a25158/when-you-should-not-run-kubernetes-and-what-a-single-docker-compose-host-really-costs-you-526i)
+- [低遅延の打鍵音をAVAudioPlayerNodeプールで重ねる設計](https://dev.to/klakkapp/di-chi-yan-noda-jian-yin-woavaudioplayernodepurudezhong-nerushe-ji-2hc1)
+- [Best 5 Browser Automation API for AI Agents in 2026](https://dev.to/kevin_menesesgonzlez/best-5-browser-automation-api-for-ai-agents-in-2026-5hcg)
+- [The End of the Testing Pyramid: What Replaces It in the AI Era](https://dev.to/qapilot/the-end-of-the-testing-pyramid-what-replaces-it-in-the-ai-era-3b46)
+- [Restate or Diagrid Catalyst for Durable Tool Calls?](https://dev.to/diagrid/restate-or-diagrid-catalyst-for-durable-tool-calls-36b8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
