@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Let the Agent Propose, Let the Pipeline Commit: A Staged Gate for AI-Assisted Changes](https://dev.to/kongkong1/let-the-agent-propose-let-the-pipeline-commit-a-staged-gate-for-ai-assisted-changes-4pd5)
-- [Canary an LLM Evaluation Harness With Queue Overload and a Concurrency Gate](https://dev.to/robinzzz/canary-an-llm-evaluation-harness-with-queue-overload-and-a-concurrency-gate-1a86)
-- [Fixing Shopify Google Ads Conversion Tracking: Server-Side Setup Without GTM](https://dev.to/stack_c285afb2fa0bef/fixing-shopify-google-ads-conversion-tracking-server-side-setup-without-gtm-1ld1)
-- [Stop Over-Engineering Your State Management](https://dev.to/ntty/stop-over-engineering-your-state-management-28d)
-- [Nashville uses eminent domain to block data center near zoo!](https://dev.to/mgobea/nashville-uses-eminent-domain-to-block-data-center-near-zoo-1k28)
+- [Why you cannot copy a Claude Code session to another machine](https://dev.to/gowtham-sai-yadav/why-you-cannot-copy-a-claude-code-session-to-another-machine-2008)
+- [The npm Worm That Learned to Trust Your AI Agent](https://dev.to/coridev/the-npm-worm-that-learned-to-trust-your-ai-agent-3oc)
+- [Debugging a Markdown Quick Look extension: signing, file changes, and WKWebView](https://dev.to/nguyendinhdoan/debugging-a-markdown-quick-look-extension-signing-file-changes-and-wkwebview-2429)
+- [How Node.js Actually Works &lpar;A Beginner&#39;s Mental Model&rpar;](https://dev.to/shoytanbaba99/how-nodejs-actually-works-a-beginners-mental-model-682)
+- [The CLAUDE.md That Actually Works](https://dev.to/diyaburman/the-claudemd-that-actually-works-1n7p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
