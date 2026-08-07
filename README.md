@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your API is being enumerated by a client with a perfectly valid token](https://dev.to/darkedges/your-api-is-being-enumerated-by-a-client-with-a-perfectly-valid-token-fk1)
-- [How to Capture Consent-Timing Evidence in Browser Network Logs](https://dev.to/auditzo/how-to-capture-consent-timing-evidence-in-browser-network-logs-59l1)
-- [The One-Person Company: When Hiring Becomes Renting](https://dev.to/johnonlee/the-one-person-company-when-hiring-becomes-renting-4l9m)
-- [What Reddit&#39;s 23% Drop Says About AI Search: Content Gets Read, Visitors Don&#39;t Come](https://dev.to/johnonlee/what-reddits-23-drop-says-about-ai-search-content-gets-read-visitors-dont-come-4j5d)
-- [n8n’s Framework for Detecting and Reducing Silent AI Pipeline Errors](https://dev.to/alifar/n8ns-framework-for-detecting-and-reducing-silent-ai-pipeline-errors-221m)
+- [OpenAI GPT-5.6 Expands Reasoning Controls While Free and Go Default to Terra](https://dev.to/alifar/openai-gpt-56-expands-reasoning-controls-while-free-and-go-default-to-terra-4mfa)
+- [Interactive Algorithm Playground](https://dev.to/owaisnoor/interactive-algorithm-playground-5gaj)
+- [Claude Code 2.1.224 Self-Hosted Environments Checklist](https://dev.to/ahab_indieseek/claude-code-21224-self-hosted-environments-checklist-2ck9)
+- [Offline-First, Encrypted, Audit-Ready: Building CalibKeep with .NET 8 + Avalonia](https://dev.to/remrah/offline-first-encrypted-audit-ready-building-calibkeep-with-net-8-avalonia-9ka)
+- [The Staff engineer with 4 years of experience is a hiring problem we made](https://dev.to/adioof/the-staff-engineer-with-4-years-of-experience-is-a-hiring-problem-we-made-52pa)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
