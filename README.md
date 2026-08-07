@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Meta releases Muse Code for persistent AI software engineering](https://dev.to/vpodk/meta-releases-muse-code-for-persistent-ai-software-engineering-4pkp)
-- [I Audited My VS Code Setup for 2026. Here&#39;s What I Deleted, Added, and Why.](https://dev.to/jubril/i-audited-my-vs-code-setup-for-2026-heres-what-i-deleted-added-and-why-4l9l)
-- [The Year I Started Leaving Breadcrumbs Instead of Notes](https://dev.to/cseeman/the-year-i-started-leaving-breadcrumbs-instead-of-notes-fe0)
-- [Durable approval is not the same as valid approval](https://dev.to/jacksonxly/durable-approval-is-not-the-same-as-valid-approval-3p1h)
-- [OpenAI Treats Astra as Its First Critical Cybersecurity Model Under Preparedness Rules](https://dev.to/alifar/openai-treats-astra-as-its-first-critical-cybersecurity-model-under-preparedness-rules-3e57)
+- [LLD Design Patterns: What Problems Does SOLID Actually Solve?](https://dev.to/saras_growth_space/lld-design-patterns-what-problems-does-solid-actually-solve-3ol8)
+- [Why I Changed My Portfolio Domain from &quot;Kami Presents&quot; to &quot;Kamran Mushtaq&quot;](https://dev.to/kaamipresents/why-i-changed-my-portfolio-domain-from-kami-presents-to-kamran-mushtaq-5bll)
+- [AI Search Measurement Gap: Why Brand Influence Can Matter More Than Clicks](https://dev.to/alifar/ai-search-measurement-gap-why-brand-influence-can-matter-more-than-clicks-2imc)
+- [Two access-control hacks drained $1.4M this month - the one-line bug, and the check that catches it](https://dev.to/juan23z/two-access-control-hacks-drained-14m-this-month-the-one-line-bug-and-the-check-that-catches-it-22lp)
+- [AI Search Makes Localization More Than Translation for Global Websites](https://dev.to/alifar/ai-search-makes-localization-more-than-translation-for-global-websites-55ik)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
