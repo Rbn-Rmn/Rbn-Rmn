@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Audio Input: Speech-to-Text vs Native Audio Models](https://dev.to/multigrid/audio-input-speech-to-text-vs-native-audio-models-51he)
-- [Audio Fingerprinting and Deduplicating a Media Library](https://dev.to/multigrid/audio-fingerprinting-and-deduplicating-a-media-library-3a2)
-- [Attention Is All You Need, Explained Section by Section](https://dev.to/multigrid/attention-is-all-you-need-explained-section-by-section-ih7)
-- [Attention Maps: What They Show and What They Do Not](https://dev.to/multigrid/attention-maps-what-they-show-and-what-they-do-not-31gp)
-- [Your Supabase service_role key is probably in your browser bundle](https://dev.to/cekuu35/your-supabase-servicerole-key-is-probably-in-your-browser-bundle-4j49)
+- [Speech-to-Text Plus Multi-Model Transcript Summaries: One API Key or Two?](https://dev.to/jasperflint6947/speech-to-text-plus-multi-model-transcript-summaries-one-api-key-or-two-1ei5)
+- [Demand Forecasting for Inventory: The Loss Is Not Symmetric](https://dev.to/multigrid/demand-forecasting-for-inventory-the-loss-is-not-symmetric-2p2b)
+- [Deletion That Reaches the Vector Index](https://dev.to/multigrid/deletion-that-reaches-the-vector-index-5bf1)
+- [Synthetic Media, Deepfakes and Provenance](https://dev.to/multigrid/synthetic-media-deepfakes-and-provenance-27bg)
+- [Deep Blue and What Beating Kasparov Proved](https://dev.to/multigrid/deep-blue-and-what-beating-kasparov-proved-3bo)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
