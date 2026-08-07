@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [QA-Testing Audio Trimming Workflows Before You Ship a Web Editor](https://dev.to/lizely/qa-testing-audio-trimming-workflows-before-you-ship-a-web-editor-5fio)
-- [Simple, Elegant, Reliable - 90+ ready-to-use validators for Chinese business scenarios](https://dev.to/vipxieliang/simple-elegant-reliable-90-ready-to-use-validators-for-chinese-business-scenarios-59g7)
-- [Canaries, Not Faith: Auditing Where Your Coding Agent Actually Writes](https://dev.to/devio_3007/canaries-not-faith-auditing-where-your-coding-agent-actually-writes-3li5)
-- [The Model Passed Your Benchmark. Now Stop Merging Its Code Blindly](https://dev.to/devpro_9167/the-model-passed-your-benchmark-now-stop-merging-its-code-blindly-3ae2)
-- [Sobremesa: Six meals in Mexico, heritage without an address.](https://dev.to/earlgreyhot1701d/sobremesa-six-meals-in-mexico-heritage-without-an-address-24n3)
+- [Do you assume or confirm?](https://dev.to/gerardo_leon/do-you-assume-or-confirm-57m3)
+- [Why Context Engineering Is More Important Than Prompt Engineering](https://dev.to/jaideepparashar/why-context-engineering-is-more-important-than-prompt-engineering-3d64)
+- [Why Upscaling the Wrong Video File Makes Quality Worse: A Source-First Diagnostic Workflow](https://dev.to/tover0314/why-upscaling-the-wrong-video-file-makes-quality-worse-a-source-first-diagnostic-workflow-2h8a)
+- [Accessibility Audit: A Practical WordPress Plugin for Finding WCAG Issues Before Your Visitors Do](https://dev.to/grounded/accessibility-audit-a-practical-wordpress-plugin-for-finding-wcag-issues-before-your-visitors-do-4629)
+- [Stop Using Live Whiteboard Interviews to Hire Remote Developers](https://dev.to/techhub_asia/stop-using-live-whiteboard-interviews-to-hire-remote-developers-1dgg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
