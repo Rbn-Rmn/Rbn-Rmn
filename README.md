@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Teaching an Audio Model More About Barbados](https://dev.to/hammertoe/teaching-an-audio-model-more-about-barbados-32o2)
-- [GitHub pauses the Kimi K3 rollout in Copilot while it works a GitHub Actions incident](https://dev.to/leobaniak/github-pauses-the-kimi-k3-rollout-in-copilot-while-it-works-a-github-actions-incident-3o9l)
-- [How to Set Up Rate Limiting in Nuxt](https://dev.to/sadegh_shaikhi_0549a5c17f/how-to-set-up-rate-limiting-in-nuxt-3lcb)
-- [Three Ways Your Training Data Lies to You &lpar;And None of Them Throw an Error&rpar;](https://dev.to/rickeshtn/three-ways-your-training-data-lies-to-you-and-none-of-them-throw-an-error-4044)
-- [Deploying Qwen3.8 Max as a Task‑Oriented Agent in Python](https://dev.to/robust_true_try/deploying-qwen38-max-as-a-task-oriented-agent-in-python-1c03)
+- [QA-Testing Audio Trimming Workflows Before You Ship a Web Editor](https://dev.to/lizely/qa-testing-audio-trimming-workflows-before-you-ship-a-web-editor-5fio)
+- [Simple, Elegant, Reliable - 90+ ready-to-use validators for Chinese business scenarios](https://dev.to/vipxieliang/simple-elegant-reliable-90-ready-to-use-validators-for-chinese-business-scenarios-59g7)
+- [Canaries, Not Faith: Auditing Where Your Coding Agent Actually Writes](https://dev.to/devio_3007/canaries-not-faith-auditing-where-your-coding-agent-actually-writes-3li5)
+- [The Model Passed Your Benchmark. Now Stop Merging Its Code Blindly](https://dev.to/devpro_9167/the-model-passed-your-benchmark-now-stop-merging-its-code-blindly-3ae2)
+- [Sobremesa: Six meals in Mexico, heritage without an address.](https://dev.to/earlgreyhot1701d/sobremesa-six-meals-in-mexico-heritage-without-an-address-24n3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
