@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [NeoDark Pro: adding Freemius licensing to a WordPress theme without touching the original codebase](https://dev.to/techygeeks1/neodark-pro-adding-freemius-licensing-to-a-wordpress-theme-without-touching-the-original-codebase-253p)
-- [NeoDark: a free, fast dark-mode WordPress theme for tech guides and reviews](https://dev.to/techygeeks1/neodark-a-free-fast-dark-mode-wordpress-theme-for-tech-guides-and-reviews-1015)
-- [The Ghost in the View Transitions API: A Bizarre Debugging Saga with Google AI 👻](https://dev.to/omarafifi/the-ghost-in-the-view-transitions-api-a-bizarre-debugging-saga-with-google-ai-5aph)
-- [ASDF ou Mise em 2026? Gerenciando PHP, Node.js e Python no Linux e macOS](https://dev.to/jeanmfdias/asdf-ou-mise-em-2026-gerenciando-php-nodejs-e-python-no-linux-e-macos-20ji)
-- [DiskGeek: a free, no-bloat disk space analyzer for Windows](https://dev.to/techygeeks1/diskgeek-a-free-no-bloat-disk-space-analyzer-for-windows-abn)
+- [Dos formas en que un backtest te miente &lpar;y cómo evitarlas&rpar;](https://dev.to/isazajuancarlos/dos-formas-en-que-un-backtest-te-miente-y-como-evitarlas-4c63)
+- [ratatop: the process table, and the parentheses that ruin everything](https://dev.to/lovestaco/ratatop-the-process-table-and-the-parentheses-that-ruin-everything-13fn)
+- [DBNavigator – An DataGrip-inspired Database IDE Built with JavaFX](https://dev.to/firoze/dbnavigator-an-datagrip-inspired-database-ide-built-with-javafx-bl0)
+- [The SVG Color Cascade Nobody Explains &lpar;fill, stroke, currentColor, and why img src breaks it&rpar;](https://dev.to/usman_basheers/the-svg-color-cascade-nobody-explains-fill-stroke-currentcolor-and-why-img-src-breaks-it-4a)
+- [The SVG Path Data Format, Explained &lpar;M, L, C, Q, A, Z&rpar;](https://dev.to/usman_basheers/the-svg-path-data-format-explained-m-l-c-q-a-z-52k1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
