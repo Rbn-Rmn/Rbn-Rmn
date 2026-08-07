@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [A BMAD workflow, end to end: shipping a feature the spec-driven way](https://dev.to/basteez/a-bmad-workflow-end-to-end-shipping-a-feature-the-spec-driven-way-1dm4)
-- [Why Hypothesis Testing is the Backbone of Data Science](https://dev.to/jonathan_kip/why-hypothesis-testing-is-the-backbone-of-data-science-52io)
-- [Claude Code: CLAUDE.md vs Projects vs Memory — Which Persists What?](https://dev.to/stacknotice/claude-code-claudemd-vs-projects-vs-memory-which-persists-what-23d4)
-- [Understanding Statistical Distributions and Their Impact on Data Science](https://dev.to/jonathan_kip/understanding-statistical-distributions-and-their-impact-on-data-science-nh1)
-- [I built an open source library of animated icons for React, all using motion and Phosphor icons](https://dev.to/smammar14/i-built-an-open-source-library-of-animated-icons-for-react-all-using-motion-and-phosphor-icons-325p)
+- [I give up - and here&#39;s what building an app for elderly parents actually taught me](https://dev.to/stoyan_minchev/i-give-up-and-heres-what-building-an-app-for-elderly-parents-actually-taught-me-4af9)
+- [I benchmarked my language against Rust and Zig, and deleted my best number](https://dev.to/javimosch/i-benchmarked-my-language-against-rust-and-zig-and-deleted-my-best-number-a9h)
+- [Why Your ZATCA Phase 2 Invoice Passes Compliance and Fails Reporting](https://dev.to/mousah20/why-your-zatca-phase-2-invoice-passes-compliance-and-fails-reporting-16fc)
+- [Excited to finally join DEV!](https://dev.to/rajeev_bagra_a0abe5b6fde7/excited-to-finally-join-dev-4pl8)
+- [A batch manifest must not double-count its sources](https://dev.to/sybilgambleyyu/a-batch-manifest-must-not-double-count-its-sources-d4p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
