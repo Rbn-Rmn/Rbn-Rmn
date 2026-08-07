@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why agentic systems should care about cache-hit pricing](https://dev.to/tokenlat/why-agentic-systems-should-care-about-cache-hit-pricing-9j9)
-- [Train your AI to engineer with empathy, not just efficiency](https://dev.to/ranjancse/train-your-ai-to-engineer-with-empathy-not-just-efficiency-16f5)
-- [Why Every Claude Code User Should Know About Hooks &lpar;Before Something Breaks&rpar;](https://dev.to/adrianjiga/why-every-claude-code-user-should-know-about-hooks-before-something-breaks-5a35)
-- [# My First Docker Container: Installation and Essential Commands](https://dev.to/prash_1_9a3a6266c93cd7276/-my-first-docker-container-installation-and-essential-commands-43ol)
-- [What working with a national airline taught me about operations](https://dev.to/issam_fathi/what-working-with-a-national-airline-taught-me-about-operations-4a35)
+- [Your API is being enumerated by a client with a perfectly valid token](https://dev.to/darkedges/your-api-is-being-enumerated-by-a-client-with-a-perfectly-valid-token-fk1)
+- [How to Capture Consent-Timing Evidence in Browser Network Logs](https://dev.to/auditzo/how-to-capture-consent-timing-evidence-in-browser-network-logs-59l1)
+- [The One-Person Company: When Hiring Becomes Renting](https://dev.to/johnonlee/the-one-person-company-when-hiring-becomes-renting-4l9m)
+- [What Reddit&#39;s 23% Drop Says About AI Search: Content Gets Read, Visitors Don&#39;t Come](https://dev.to/johnonlee/what-reddits-23-drop-says-about-ai-search-content-gets-read-visitors-dont-come-4j5d)
+- [n8n’s Framework for Detecting and Reducing Silent AI Pipeline Errors](https://dev.to/alifar/n8ns-framework-for-detecting-and-reducing-silent-ai-pipeline-errors-221m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
