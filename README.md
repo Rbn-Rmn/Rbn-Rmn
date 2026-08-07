@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why you cannot copy a Claude Code session to another machine](https://dev.to/gowtham-sai-yadav/why-you-cannot-copy-a-claude-code-session-to-another-machine-2008)
-- [The npm Worm That Learned to Trust Your AI Agent](https://dev.to/coridev/the-npm-worm-that-learned-to-trust-your-ai-agent-3oc)
-- [Debugging a Markdown Quick Look extension: signing, file changes, and WKWebView](https://dev.to/nguyendinhdoan/debugging-a-markdown-quick-look-extension-signing-file-changes-and-wkwebview-2429)
-- [How Node.js Actually Works &lpar;A Beginner&#39;s Mental Model&rpar;](https://dev.to/shoytanbaba99/how-nodejs-actually-works-a-beginners-mental-model-682)
-- [The CLAUDE.md That Actually Works](https://dev.to/diyaburman/the-claudemd-that-actually-works-1n7p)
+- [Teaching an Audio Model More About Barbados](https://dev.to/hammertoe/teaching-an-audio-model-more-about-barbados-32o2)
+- [GitHub pauses the Kimi K3 rollout in Copilot while it works a GitHub Actions incident](https://dev.to/leobaniak/github-pauses-the-kimi-k3-rollout-in-copilot-while-it-works-a-github-actions-incident-3o9l)
+- [How to Set Up Rate Limiting in Nuxt](https://dev.to/sadegh_shaikhi_0549a5c17f/how-to-set-up-rate-limiting-in-nuxt-3lcb)
+- [Three Ways Your Training Data Lies to You &lpar;And None of Them Throw an Error&rpar;](https://dev.to/rickeshtn/three-ways-your-training-data-lies-to-you-and-none-of-them-throw-an-error-4044)
+- [Deploying Qwen3.8 Max as a Task‑Oriented Agent in Python](https://dev.to/robust_true_try/deploying-qwen38-max-as-a-task-oriented-agent-in-python-1c03)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
