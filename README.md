@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Do you assume or confirm?](https://dev.to/gerardo_leon/do-you-assume-or-confirm-57m3)
-- [Why Context Engineering Is More Important Than Prompt Engineering](https://dev.to/jaideepparashar/why-context-engineering-is-more-important-than-prompt-engineering-3d64)
-- [Why Upscaling the Wrong Video File Makes Quality Worse: A Source-First Diagnostic Workflow](https://dev.to/tover0314/why-upscaling-the-wrong-video-file-makes-quality-worse-a-source-first-diagnostic-workflow-2h8a)
-- [Accessibility Audit: A Practical WordPress Plugin for Finding WCAG Issues Before Your Visitors Do](https://dev.to/grounded/accessibility-audit-a-practical-wordpress-plugin-for-finding-wcag-issues-before-your-visitors-do-4629)
-- [Stop Using Live Whiteboard Interviews to Hire Remote Developers](https://dev.to/techhub_asia/stop-using-live-whiteboard-interviews-to-hire-remote-developers-1dgg)
+- [Using JooqTemplate implement UserService Demo](https://dev.to/javaer/using-jooqtemplate-implement-userservice-demo-3p8a)
+- [Why Plumeria?](https://dev.to/refirst11/my-article-40o4)
+- [TypeScript Enums Are Still Controversial in 2026: Here Is When to Use Them and When to Reach for `const` Objects](https://dev.to/jsmanifest/typescript-enums-are-still-controversial-in-2026-here-is-when-to-use-them-and-when-to-reach-for-4fee)
+- [Tapo H100: Cellar Humidity Monitoring in Home Assistant](https://dev.to/cloudapp_dev/tapo-h100-cellar-humidity-monitoring-in-home-assistant-i39)
+- [« J&#39;ai fini le tuto Node, et là je suis bloqué » — le mur dont personne ne parle](https://dev.to/_notbu7ch/-jai-fini-le-tuto-node-et-la-je-suis-bloque-le-mur-dont-personne-ne-parle-3go4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
