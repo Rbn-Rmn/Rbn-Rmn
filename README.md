@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Using JooqTemplate implement UserService Demo](https://dev.to/javaer/using-jooqtemplate-implement-userservice-demo-3p8a)
-- [Why Plumeria?](https://dev.to/refirst11/my-article-40o4)
-- [TypeScript Enums Are Still Controversial in 2026: Here Is When to Use Them and When to Reach for `const` Objects](https://dev.to/jsmanifest/typescript-enums-are-still-controversial-in-2026-here-is-when-to-use-them-and-when-to-reach-for-4fee)
-- [Tapo H100: Cellar Humidity Monitoring in Home Assistant](https://dev.to/cloudapp_dev/tapo-h100-cellar-humidity-monitoring-in-home-assistant-i39)
-- [« J&#39;ai fini le tuto Node, et là je suis bloqué » — le mur dont personne ne parle](https://dev.to/_notbu7ch/-jai-fini-le-tuto-node-et-la-je-suis-bloque-le-mur-dont-personne-ne-parle-3go4)
+- [Why agentic systems should care about cache-hit pricing](https://dev.to/tokenlat/why-agentic-systems-should-care-about-cache-hit-pricing-9j9)
+- [Train your AI to engineer with empathy, not just efficiency](https://dev.to/ranjancse/train-your-ai-to-engineer-with-empathy-not-just-efficiency-16f5)
+- [Why Every Claude Code User Should Know About Hooks &lpar;Before Something Breaks&rpar;](https://dev.to/adrianjiga/why-every-claude-code-user-should-know-about-hooks-before-something-breaks-5a35)
+- [# My First Docker Container: Installation and Essential Commands](https://dev.to/prash_1_9a3a6266c93cd7276/-my-first-docker-container-installation-and-essential-commands-43ol)
+- [What working with a national airline taught me about operations](https://dev.to/issam_fathi/what-working-with-a-national-airline-taught-me-about-operations-4a35)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
