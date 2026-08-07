@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I give up - and here&#39;s what building an app for elderly parents actually taught me](https://dev.to/stoyan_minchev/i-give-up-and-heres-what-building-an-app-for-elderly-parents-actually-taught-me-4af9)
-- [I benchmarked my language against Rust and Zig, and deleted my best number](https://dev.to/javimosch/i-benchmarked-my-language-against-rust-and-zig-and-deleted-my-best-number-a9h)
-- [Why Your ZATCA Phase 2 Invoice Passes Compliance and Fails Reporting](https://dev.to/mousah20/why-your-zatca-phase-2-invoice-passes-compliance-and-fails-reporting-16fc)
-- [Excited to finally join DEV!](https://dev.to/rajeev_bagra_a0abe5b6fde7/excited-to-finally-join-dev-4pl8)
-- [A batch manifest must not double-count its sources](https://dev.to/sybilgambleyyu/a-batch-manifest-must-not-double-count-its-sources-d4p)
+- [Why iperf3 Says “Bad File Descriptor” and What to Check First](https://dev.to/chamav/why-iperf3-says-bad-file-descriptor-and-what-to-check-first-2f2c)
+- [I Built a Free GPS Altitude Finder — Here&#39;s What I Learned Shipping a PWA With No Backend](https://dev.to/imamovelay0hue/i-built-a-free-gps-altitude-finder-heres-what-i-learned-shipping-a-pwa-with-no-backend-40fa)
+- [Your Subprocesses Outlive Your Program. Here&#39;s How to Kill Them for Real.](https://dev.to/chenyuan20509/your-subprocesses-outlive-your-program-heres-how-to-kill-them-for-real-4npp)
+- [Beyond the Hype: An Honest Take on AI for Software Engineers](https://dev.to/jodaut/beyond-the-hype-an-honest-take-on-ai-for-software-engineers-5aaj)
+- [Testing AI Agents in TypeScript Without Calling the Model](https://dev.to/gabrielanhaia/testing-ai-agents-in-typescript-without-calling-the-model-1ip3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
