@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI GPT-5.6 Expands Reasoning Controls While Free and Go Default to Terra](https://dev.to/alifar/openai-gpt-56-expands-reasoning-controls-while-free-and-go-default-to-terra-4mfa)
-- [Interactive Algorithm Playground](https://dev.to/owaisnoor/interactive-algorithm-playground-5gaj)
-- [Claude Code 2.1.224 Self-Hosted Environments Checklist](https://dev.to/ahab_indieseek/claude-code-21224-self-hosted-environments-checklist-2ck9)
-- [Offline-First, Encrypted, Audit-Ready: Building CalibKeep with .NET 8 + Avalonia](https://dev.to/remrah/offline-first-encrypted-audit-ready-building-calibkeep-with-net-8-avalonia-9ka)
-- [The Staff engineer with 4 years of experience is a hiring problem we made](https://dev.to/adioof/the-staff-engineer-with-4-years-of-experience-is-a-hiring-problem-we-made-52pa)
+- [A BMAD workflow, end to end: shipping a feature the spec-driven way](https://dev.to/basteez/a-bmad-workflow-end-to-end-shipping-a-feature-the-spec-driven-way-1dm4)
+- [Why Hypothesis Testing is the Backbone of Data Science](https://dev.to/jonathan_kip/why-hypothesis-testing-is-the-backbone-of-data-science-52io)
+- [Claude Code: CLAUDE.md vs Projects vs Memory — Which Persists What?](https://dev.to/stacknotice/claude-code-claudemd-vs-projects-vs-memory-which-persists-what-23d4)
+- [Understanding Statistical Distributions and Their Impact on Data Science](https://dev.to/jonathan_kip/understanding-statistical-distributions-and-their-impact-on-data-science-nh1)
+- [I built an open source library of animated icons for React, all using motion and Phosphor icons](https://dev.to/smammar14/i-built-an-open-source-library-of-animated-icons-for-react-all-using-motion-and-phosphor-icons-325p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
