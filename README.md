@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built an OKLCH palette generator for pixel art and UI](https://dev.to/ivan_kulkin_1522025957eee/i-built-an-oklch-palette-generator-for-pixel-art-and-ui-27id)
-- [TPUs, Trainium and Custom Accelerators: Where Non-GPU Silicon Wins](https://dev.to/multigrid/tpus-trainium-and-custom-accelerators-where-non-gpu-silicon-wins-1258)
-- [Stopping Conditions: Preventing Infinite Agent Loops](https://dev.to/multigrid/stopping-conditions-preventing-infinite-agent-loops-1377)
-- [Sandboxing an Agent That Executes Code](https://dev.to/multigrid/sandboxing-an-agent-that-executes-code-1noi)
-- [Observability for Agents: Tracing a 40-Step Run](https://dev.to/multigrid/observability-for-agents-tracing-a-40-step-run-kea)
+- [Audio Input: Speech-to-Text vs Native Audio Models](https://dev.to/multigrid/audio-input-speech-to-text-vs-native-audio-models-51he)
+- [Audio Fingerprinting and Deduplicating a Media Library](https://dev.to/multigrid/audio-fingerprinting-and-deduplicating-a-media-library-3a2)
+- [Attention Is All You Need, Explained Section by Section](https://dev.to/multigrid/attention-is-all-you-need-explained-section-by-section-ih7)
+- [Attention Maps: What They Show and What They Do Not](https://dev.to/multigrid/attention-maps-what-they-show-and-what-they-do-not-31gp)
+- [Your Supabase service_role key is probably in your browser bundle](https://dev.to/cekuu35/your-supabase-servicerole-key-is-probably-in-your-browser-bundle-4j49)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
