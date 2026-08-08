@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Speech-to-Text Plus Multi-Model Transcript Summaries: One API Key or Two?](https://dev.to/jasperflint6947/speech-to-text-plus-multi-model-transcript-summaries-one-api-key-or-two-1ei5)
-- [Demand Forecasting for Inventory: The Loss Is Not Symmetric](https://dev.to/multigrid/demand-forecasting-for-inventory-the-loss-is-not-symmetric-2p2b)
-- [Deletion That Reaches the Vector Index](https://dev.to/multigrid/deletion-that-reaches-the-vector-index-5bf1)
-- [Synthetic Media, Deepfakes and Provenance](https://dev.to/multigrid/synthetic-media-deepfakes-and-provenance-27bg)
-- [Deep Blue and What Beating Kasparov Proved](https://dev.to/multigrid/deep-blue-and-what-beating-kasparov-proved-3bo)
+- [Unlearning: Can a Model Forget on Request?](https://dev.to/multigrid/unlearning-can-a-model-forget-on-request-4e9h)
+- [The Long History of Machine Translation](https://dev.to/multigrid/the-long-history-of-machine-translation-2h8)
+- [Beyond LLMs: Agent Logic Is the Real Key to Scaling Enterprise AI](https://dev.to/judy_miranttie/beyond-llms-agent-logic-is-the-real-key-to-scaling-enterprise-ai-216o)
+- [What AI Overviews Actually Cite: A GEO Study for Developers](https://dev.to/aimigo_57e64d6aeaf6a67a02/what-ai-overviews-actually-cite-a-geo-study-for-developers-26fm)
+- [A Field Guide to LLM API Error Messages](https://dev.to/multigrid/a-field-guide-to-llm-api-error-messages-4gi6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
