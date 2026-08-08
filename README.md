@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building a Leak-Safe gRPC Frame Decoder on Reactor Netty](https://dev.to/qianwj/building-a-leak-safe-grpc-frame-decoder-on-reactor-netty-po7)
-- [I built a pricing API for LLMs — then realized the real users might not be human](https://dev.to/adrasmussen/i-built-a-pricing-api-for-llms-then-realized-the-real-users-might-not-be-human-4b8j)
-- [Your firewall is your AI policy — I probed 18 major sites to read it](https://dev.to/abouchard11/your-firewall-is-your-ai-policy-i-probed-18-major-sites-to-read-it-5552)
-- [Docker for Beginners: Images, Containers, Ports, and Volumes Explained](https://dev.to/chetancodelrca/docker-for-beginners-images-containers-ports-and-volumes-explained-ee6)
-- [Building an offline-first travel app in .NET MAUI &lpar;on-device OCR, currency &amp; maps, no backend&rpar;](https://dev.to/horizonsoftware/building-an-offline-first-travel-app-in-net-maui-on-device-ocr-currency-maps-no-backend-ecd)
+- [One Prompt Template, Three Engines That Disagree](https://dev.to/faisal77666/one-prompt-templatethree-engines-that-disagree-ifi)
+- [How GSTIN Checksum Validation Works &lpar;and Why It Isn&#39;t Enough&rpar;](https://dev.to/tarun_vaghasia_a387e1ac9b/how-gstin-checksum-validation-works-and-why-it-isnt-enough-3l8e)
+- [llms.txt: what it is, why it matters and how to implement it](https://dev.to/eraefi/llmstxt-what-it-is-why-it-matters-and-how-to-implement-it-2c67)
+- [MUI to Shadcn: 7 Pitfalls We Hit &lpar;And the Fix for Each&rpar;](https://dev.to/ashishxcode/mui-to-shadcn-7-pitfalls-we-hit-and-the-fix-for-each-3eh)
+- [🤖 AI Context Engineering &lpar;Part 4&rpar;: AI Agents - From Tool Calling to Multi-Step Workflows](https://dev.to/fazal_mansuri_/ai-context-engineering-part-4-ai-agents-from-tool-calling-to-multi-step-workflows-28mo)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
