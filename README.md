@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building a Bulletproof Comment Reply System in Node.js &amp; MongoDB 🚀](https://dev.to/codemaster_121482/building-a-bulletproof-comment-reply-system-in-nodejs-mongodb-4074)
-- [Bánh Mì: A Journey in Every Bite — Vietnam Drawn in Pure CSS](https://dev.to/vuthanhnguyen/banh-mi-a-journey-in-every-bite-vietnam-drawn-in-pure-css-m2p)
-- [Understanding the CSS Box Model, Cascade &amp; Specificity](https://dev.to/deepika_pusala/understanding-the-css-box-model-cascade-specificity-1l92)
-- [The Matrix of Machine Learning for Stock Prediction: Separating Hype from Reality](https://dev.to/timevolt/the-matrix-of-machine-learning-for-stock-prediction-separating-hype-from-reality-2g93)
-- [My most profitable actor was silently failing most of its runs. The bug was one unprotected line.](https://dev.to/0xgollum/my-most-profitable-actor-was-silently-failing-most-of-its-runs-the-bug-was-one-unprotected-line-3n2f)
+- [One Key for Claude, GPT, and Gemini: the Gateway Pattern](https://dev.to/devopsdaily/one-key-for-claude-gpt-and-gemini-the-gateway-pattern-1319)
+- [Your companies table is lying to you about when things happened](https://dev.to/corpdigest/your-companies-table-is-lying-to-you-about-when-things-happened-ge3)
+- [How to Build AI Evals for Tool-Calling Agents](https://dev.to/dhanushreddy29/how-to-build-ai-evals-for-tool-calling-agents-3h9d)
+- [Your agent doesn&#39;t have a memory problem. It has an uptime problem.](https://dev.to/coderluii/your-agent-doesnt-have-a-memory-problem-it-has-an-uptime-problem-505l)
+- [How to Build a Stock Market Trading Bot in Python: Channeling Your Inner Neo](https://dev.to/timevolt/how-to-build-a-stock-market-trading-bot-in-python-channeling-your-inner-neo-5e0i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
