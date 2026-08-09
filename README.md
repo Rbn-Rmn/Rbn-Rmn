@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Safeguarding Your Systems: An Introduction to the Circuit Breaker Pattern](https://dev.to/saurav_tb_pandey/safeguarding-your-systems-an-introduction-to-the-circuit-breaker-pattern-5dp)
-- [Testing HL7-to-FHIR Pipelines Without a Hospital: Mocking HAPI FHIR with respx](https://dev.to/budiwidhiyanto/testing-hl7-to-fhir-pipelines-without-a-hospital-mocking-hapi-fhir-with-respx-13le)
-- [Thinking and Decision Making: Cognitive Processes Explained](https://dev.to/extinctsion/thinking-and-decision-making-cognitive-processes-explained-2hl3)
-- [What if the main coding-agent session was intentionally dumb?](https://dev.to/justjov/what-if-the-main-coding-agent-session-was-intentionally-dumb-2n90)
-- [Linux Memory Region Data Structures](https://dev.to/kai-wen-the-parrot/linux-memory-region-data-structures-1dnl)
+- [Your eval suite passes. Does it actually check anything?](https://dev.to/agentdev9/your-eval-suite-passes-does-it-actually-check-anything-2l5a)
+- [I split a commerce backend into 6 services for a shop with zero users. On purpose.](https://dev.to/danzizhangdev/i-split-a-commerce-backend-into-6-services-for-a-shop-with-zero-users-on-purpose-5133)
+- [The ETF Changed Bitcoin&#39;s Four-Year Cycle, but It Did Not Create a Supercycle](https://dev.to/invisiblehill/the-etf-changed-bitcoins-four-year-cycle-but-it-did-not-create-a-supercycle-5dij)
+- [I built a Python package to diff large data files — here&#39;s why existing tools weren&#39;t enough](https://dev.to/omuniyal/i-built-a-python-package-to-diff-large-data-files-heres-why-existing-tools-werent-enough-199g)
+- [ThonburianTTS — AI พูดภาษาไทย ฟรี รันในเครื่องได้ โคลนเสียงได้ โดยคนไทย](https://dev.to/sarantoon/thonburiantts-ai-phuudphaasaaaithy-frii-ranainekhruuengaid-okhlnesiiyngaid-odykhnaithy-45bh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
