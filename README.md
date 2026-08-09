@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI Made You Faster. It Did Not Make You Safer.](https://dev.to/harryfloyd/ai-made-you-faster-it-did-not-make-you-safer-38ei)
-- [How Reliable Is Your AI Agent?](https://dev.to/harryfloyd/how-reliable-is-your-ai-agent-2old)
-- [Never Get Blocked by Claude Code Rate Limits Again: Seamlessly Route It to ChatGPT](https://dev.to/hanjunlin/never-get-blocked-by-claude-code-rate-limits-again-seamlessly-route-it-to-chatgpt-4g47)
-- [How to Audit AI Agents: From Mutable Logs to Tamper-Evident History](https://dev.to/ghostfactory/how-to-audit-ai-agents-from-mutable-logs-to-tamper-evident-history-5b7h)
-- [RAG Chunking Strategies That Survive Production: Beyond the 512-Token Default](https://dev.to/numb_code_07/rag-chunking-strategies-that-survive-production-beyond-the-512-token-default-1hkk)
+- [One Event-Loop Turn, One False Redis Capacity Error](https://dev.to/lubuseb/one-event-loop-turn-one-false-redis-capacity-error-3hp3)
+- [Scheduling concurrency](https://dev.to/silvern47/scheduling-concurrency-9bd)
+- [NEXUS AI - Claude Code Tutorial](https://dev.to/sali_ac161a1b71406354896c/nexus-ai-claude-code-tutorial-19ml)
+- [🚀 Amazon EKS with MCP — AI-Powered Kubernetes Management on AWS](https://dev.to/syed_kashifali_2a9fe52dd/amazon-eks-with-mcp-ai-powered-kubernetes-management-on-aws-130c)
+- [We audited 14,512 heritage-site photos with a vision model. The &quot;trustworthy&quot; sources were the dirtiest.](https://dev.to/aytuncyildizli/we-audited-14512-heritage-site-photos-with-a-vision-model-the-trustworthy-sources-were-the-1kc5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
