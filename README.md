@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built a spend cap for LLM calls. It failed by 4.2x under parallel load.](https://dev.to/burnix/i-built-a-spend-cap-for-llm-calls-it-failed-by-42x-under-parallel-load-2h0c)
-- [Mitigating HTTP Request Smuggling](https://dev.to/aniket28dot/mitigating-http-request-smuggling-be6)
-- [How I Built a $0/Month Ecommerce MVP Without Shopify](https://dev.to/haseeb_sheikh_0f627e74ba7/how-i-built-a-0month-ecommerce-mvp-without-shopify-7hh)
-- [Why Exact Transaction Matching Breaks on 1 Relationships](https://dev.to/quickrecon/why-exact-transaction-matching-breaks-on-1-relationships-5eho)
-- [What Happens When You Type a URL in the Browser?](https://dev.to/darshan_dev/what-happens-when-you-type-a-url-in-the-browser-4epo)
+- [AI Made You Faster. It Did Not Make You Safer.](https://dev.to/harryfloyd/ai-made-you-faster-it-did-not-make-you-safer-38ei)
+- [How Reliable Is Your AI Agent?](https://dev.to/harryfloyd/how-reliable-is-your-ai-agent-2old)
+- [Never Get Blocked by Claude Code Rate Limits Again: Seamlessly Route It to ChatGPT](https://dev.to/hanjunlin/never-get-blocked-by-claude-code-rate-limits-again-seamlessly-route-it-to-chatgpt-4g47)
+- [How to Audit AI Agents: From Mutable Logs to Tamper-Evident History](https://dev.to/ghostfactory/how-to-audit-ai-agents-from-mutable-logs-to-tamper-evident-history-5b7h)
+- [RAG Chunking Strategies That Survive Production: Beyond the 512-Token Default](https://dev.to/numb_code_07/rag-chunking-strategies-that-survive-production-beyond-the-512-token-default-1hkk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
