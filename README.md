@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Built Browser-Based Tools Without Sending User Data to a Server](https://dev.to/mdp88/how-i-built-browser-based-tools-without-sending-user-data-to-a-server-1852)
-- [Build Direct-to-Disk Web Editors with the New useFileSystem Hook](https://dev.to/saurav_tb_pandey/build-direct-to-disk-web-editors-with-the-new-usefilesystem-hook-3k6e)
-- [How to Find and Fix Slow Components](https://dev.to/biteglitz/how-to-find-and-fix-slow-components-4hm7)
-- [How I mine App Store reviews to find &quot;copy+10%&quot; opportunities &lpar;open Actor&rpar;](https://dev.to/_6d01b2eaf1075c95aafb5/how-i-mine-app-store-reviews-to-find-copy10-opportunities-open-actor-39kf)
-- [Advanced GPU Optimization: How can I tech an LLM with CUDA and ROCm? - Part 2](https://dev.to/javadinteger/advanced-gpu-optimization-how-can-i-tech-an-llm-with-cuda-and-rocm-part-2-2ah7)
+- [Deploying and committing to git are not the same &quot;done&quot; — the trap of assuming uploaded means synced](https://dev.to/susumun/deploying-and-committing-to-git-are-not-the-same-done-the-trap-of-assuming-uploaded-means-synced-4jjc)
+- [Quantified Self: Turn Your Massive Apple Health XML into a Lightning-Fast DuckDB Database](https://dev.to/beck_moulton/quantified-self-turn-your-massive-apple-health-xml-into-a-lightning-fast-duckdb-database-o70)
+- [I Built a Design Skill to Make AI-Generated Websites Less Generic — FireBall v3](https://dev.to/lyd_lyd_d4869af25d33ce0eb/i-built-a-design-skill-to-make-ai-generated-websites-less-generic-fireball-v3-4ep5)
+- [CNCF&#39;s shadow-AI post makes the case for treating agents as identities](https://dev.to/leobaniak/cncfs-shadow-ai-post-makes-the-case-for-treating-agents-as-identities-27m0)
+- [Local LLMs in 2026: What Actually Runs Well on a Laptop Now](https://dev.to/ai_maya_063fc568e157562fd/local-llms-in-2026-what-actually-runs-well-on-a-laptop-now-hk1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
