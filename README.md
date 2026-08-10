@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [10 Open-Source GitHub Repositories That Challenge Expensive Paid Apps](https://dev.to/syed_anzar/10-open-source-github-repositories-that-challenge-expensive-paid-apps-546g)
-- [Building a data-driven Clash Royale site: honest stats at small scale](https://dev.to/max179/building-a-data-driven-clash-royale-site-honest-stats-at-small-scale-3bfm)
-- [The System Learns to Read Without Obeying](https://dev.to/kato_masato_c5593c81af5c6/the-system-learns-to-read-without-obeying-4lc0)
-- [Punchline, or Gut-Punch?](https://dev.to/leonadato/punchline-or-gut-punch-4ngc)
-- [There is no such thing as a good fraud score threshold](https://dev.to/layercall/there-is-no-such-thing-as-a-good-fraud-score-threshold-2jgg)
+- [My Bot Wrote 13 dev.to Articles - Here&#39;s What Actually Got Views](https://dev.to/onizuka/my-bot-wrote-13-devto-articles-heres-what-actually-got-views-1h6d)
+- [Polling vs. Webhooks vs. WebSockets vs. SSE: Choosing the Right Real-Time Architecture](https://dev.to/instawebhook/polling-vs-webhooks-vs-websockets-vs-sse-choosing-the-right-real-time-architecture-18dn)
+- [Architectural Foundation: The Host-Guest Split](https://dev.to/slickwhiz_solutions_352c6/architectural-foundation-the-host-guest-split-18m0)
+- [Claude Code + Figma: A Deterministic Design Handoff Pipeline](https://dev.to/romantsisyk/claude-code-figma-a-deterministic-design-handoff-pipeline-lk3)
+- [Generating daily horoscopes and zodiac videos with an automated AI pipeline](https://dev.to/supafast-tech/generating-daily-horoscopes-and-zodiac-videos-with-an-automated-ai-pipeline-1b83)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
