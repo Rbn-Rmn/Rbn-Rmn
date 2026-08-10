@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI That Tells You How Much Water It Just Drank](https://dev.to/joannamarrie/i-built-an-ai-that-tells-you-how-much-water-it-just-drank-48b1)
-- [Tutorial Overlay Fix](https://dev.to/weirdcodesofficial/gyroscope-tilt-steering-mobile-41j6)
-- [best trading app india 2026](https://dev.to/shaktitiwari/best-trading-app-india-2026-2b96)
-- [You can&#39;t set a status in Jira](https://dev.to/keparlak/you-cant-set-a-status-in-jira-4d7p)
-- [Building Guardrails for Autonomous Agents: Mastering EU AI Act Compliance in TypeScript](https://dev.to/programmingcentral/building-guardrails-for-autonomous-agents-mastering-eu-ai-act-compliance-in-typescript-25dl)
+- [Your terragrunt &lpar;or terraform&rpar; plan is 4,000 lines. Only two of them matter.](https://dev.to/im_citius/your-terragrunt-or-terraform-plan-is-4000-lines-only-two-of-them-matter-4p8)
+- [Silent Retries and Agent Latency: What Sentry&#39;s Span Hierarchy Taught Us About Multi-Agent Observability](https://dev.to/sineai-hq/silent-retries-and-agent-latency-what-sentrys-span-hierarchy-taught-us-about-multi-agent-2504)
+- [Scoping AI Agents for Real Work: Where Research Hits Deployment Reality](https://dev.to/sineai-hq/scoping-ai-agents-for-real-work-where-research-hits-deployment-reality-2j2g)
+- [Scoping Multi-Agent Systems: When Agent Swarms Actually Reduce Cost &lpar;And When They Don&#39;t&rpar;](https://dev.to/sineai-hq/scoping-multi-agent-systems-when-agent-swarms-actually-reduce-cost-and-when-they-dont-2b6a)
+- [Who Owns AI-Generated Code? A Framework for Teams](https://dev.to/sineai-hq/who-owns-ai-generated-code-a-framework-for-teams-2ehf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
