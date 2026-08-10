@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My Bot Wrote 13 dev.to Articles - Here&#39;s What Actually Got Views](https://dev.to/onizuka/my-bot-wrote-13-devto-articles-heres-what-actually-got-views-1h6d)
-- [Polling vs. Webhooks vs. WebSockets vs. SSE: Choosing the Right Real-Time Architecture](https://dev.to/instawebhook/polling-vs-webhooks-vs-websockets-vs-sse-choosing-the-right-real-time-architecture-18dn)
-- [Architectural Foundation: The Host-Guest Split](https://dev.to/slickwhiz_solutions_352c6/architectural-foundation-the-host-guest-split-18m0)
-- [Claude Code + Figma: A Deterministic Design Handoff Pipeline](https://dev.to/romantsisyk/claude-code-figma-a-deterministic-design-handoff-pipeline-lk3)
-- [Generating daily horoscopes and zodiac videos with an automated AI pipeline](https://dev.to/supafast-tech/generating-daily-horoscopes-and-zodiac-videos-with-an-automated-ai-pipeline-1b83)
+- [Designing an Online Auction / Bidding System](https://dev.to/brawnybytes/designing-an-online-auction-bidding-system-1m2i)
+- [How to make Claude Code a trustworthy data scientist](https://dev.to/norman_niemer_7f327e153b9/how-to-make-claude-code-a-trustworthy-data-scientist-58of)
+- [The AI Margin Chain Is Upside Down](https://dev.to/deanlee/the-ai-margin-chain-is-upside-down-6l9)
+- [RapidFort points its hardened open-source business at what actually runs in production](https://dev.to/leobaniak/rapidfort-points-its-hardened-open-source-business-at-what-actually-runs-in-production-1bpm)
+- [Best AI Coding Tools in 2026 &lpar;Tested by Developers&rpar;](https://dev.to/ramdai_bista/best-ai-coding-tools-in-2026-tested-by-developers-30m6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
