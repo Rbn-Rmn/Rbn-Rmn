@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Alembic in Practice: Structure, Revisions, and the Traps SQLite Sets](https://dev.to/boaz_leleina_d884b75c4486/alembic-in-practice-structure-revisions-and-the-traps-sqlite-sets-21ac)
-- [Stop Reinventing the Wheel: A QA Pattern for Date Math in User-Facing Code](https://dev.to/lizely/stop-reinventing-the-wheel-a-qa-pattern-for-date-math-in-user-facing-code-4kb7)
-- [C# 15 Finally Gets Labeled `break` and `continue`](https://dev.to/certosinolab/c-15-finally-gets-labeled-break-and-continue-1h1e)
-- [AGENTS.md vs CLAUDE.md: Where Agent Context Actually Lives](https://dev.to/mudassirworks/agentsmd-vs-claudemd-where-agent-context-actually-lives-joa)
-- [Self-hosting Google Fonts: the 15-minute fix for a classic GDPR finding](https://dev.to/hdevv/self-hosting-google-fonts-the-15-minute-fix-for-a-classic-gdpr-finding-mjd)
+- [Mistral AI Regional Endpoints Bring EU and US Inference Controls to Enterprise Deployments](https://dev.to/alifar/mistral-ai-regional-endpoints-bring-eu-and-us-inference-controls-to-enterprise-deployments-317n)
+- [Compression Is Prediction — and It Explains Why LLMs Actually Work](https://dev.to/trismegistus/compression-is-prediction-and-it-explains-why-llms-actually-work-209e)
+- [QTCC](https://dev.to/joshua_ogunlade_cc523592b/qtcc-3mg2)
+- [Refactoring Legacy Code: A New Hope](https://dev.to/timevolt/refactoring-legacy-code-a-new-hope-5761)
+- [A stuck Postgres lock took my whole site down. Here&#39;s the one-line cause and the fix.](https://dev.to/extensionsmarket/a-stuck-postgres-lock-took-my-whole-site-down-heres-the-one-line-cause-and-the-fix-59am)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
