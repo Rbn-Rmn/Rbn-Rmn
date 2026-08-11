@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Moving Half of Our AI Development to Local LLMs — by Splitting Work by Role, Not by Picking the Biggest Model](https://dev.to/uehara/moving-half-of-our-ai-development-to-local-llms-by-splitting-work-by-role-not-by-picking-the-cnb)
-- [Your FHIR Sandbox Looks the Part. Nobody in It Has Aged.](https://dev.to/mockhealth/your-fhir-sandbox-looks-the-part-nobody-in-it-has-aged-3g02)
-- [I put Gopher on Nostr. Now every npub is a gopherhole](https://dev.to/thecryptodonkey/i-put-gopher-on-nostr-now-every-npub-is-a-gopherhole-ahh)
-- [I built a validator that passed every broken skill and failed every good one](https://dev.to/anvilandcode/i-built-a-validator-that-passed-every-broken-skill-and-failed-every-good-one-33fd)
-- [Agentic AI in German: The Words, the Law, the Numbers](https://dev.to/studiomeyer_io/agentic-ai-in-german-the-words-the-law-the-numbers-33bf)
+- [Day 13: Data Sources — Stop Hardcoding, Start Automating](https://dev.to/brian_mengo/day-13-data-sources-stop-hardcoding-start-automating-4258)
+- [Cloudflare Kitesurf: What Beginners Should Learn About AI App Tradeoffs In 2026](https://dev.to/marcusykim/cloudflare-kitesurf-what-beginners-should-learn-about-ai-app-tradeoffs-in-2026-1mbo)
+- [The Real Cost Structure of an AI Agent](https://dev.to/paulcrinigan/the-real-cost-structure-of-an-ai-agent-m5j)
+- [Secure Boot&#39;s October 2026 Deadline: Two Years&#39; Notice Wasn&#39;t Enough](https://dev.to/oceansach/secure-boots-october-2026-deadline-two-years-notice-wasnt-enough-3a64)
+- [Global Hack Week: Agents, Challenge 2](https://dev.to/ik_8a78062fd65be769dd835/global-hack-week-agents-challenge-2-kbc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
