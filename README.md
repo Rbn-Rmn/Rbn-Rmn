@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [A Prometheus exporter for Dagster that polls GraphQL instead of pushing to Pushgateway](https://dev.to/hirofumi_tsuda/a-prometheus-exporter-for-dagster-that-polls-graphql-instead-of-pushing-to-pushgateway-39pg)
-- [13 AI Coding Models Tested: Safety Benchmark Results KDS](https://dev.to/ratingtesting/13-ai-coding-models-tested-safety-benchmark-results-kds-353o)
-- [Why I Built a Developer Platform Instead of Just Using Dev.to](https://dev.to/sanjay_singh_1/why-i-built-a-developer-platform-instead-of-just-using-devto-46ln)
-- [Kubernetes Architecture Deep Dive: From Resource Limits to Custom Operators](https://dev.to/enesguler/kubernetes-architecture-deep-dive-from-resource-limits-to-custom-operators-47dk)
-- [I built an AI that answers calls and WhatsApp messages for your business](https://dev.to/fredy/i-built-an-ai-that-answers-calls-and-whatsapp-messages-for-your-business-156l)
+- [Does Aiden Store Your Data? A Straight Answer on Privacy and Self-Hosting](https://dev.to/nataiden/does-aiden-store-your-data-a-straight-answer-on-privacy-and-self-hosting-4okn)
+- [Bir web sitesini yapay zekâya teslim ettim: kafa1milyon&#39;un otonom yayın mimarisi &lpar;Bölüm 1&rpar;](https://dev.to/gurayta/bir-web-sitesini-yapay-zekaya-teslim-ettim-kafa1milyonun-otonom-yayin-mimarisi-bolum-1-1klc)
+- [Build a fresh trucking-insurance lead feed: every new US carrier with phone + email, updated weekly](https://dev.to/cblu2005/build-a-fresh-trucking-insurance-lead-feed-every-new-us-carrier-with-phone-email-updated-weekly-27je)
+- [Your Agent Queue Is Full. What Happens to the Work That Was Already Running?](https://dev.to/zira125/your-agent-queue-is-full-what-happens-to-the-work-that-was-already-running-1blp)
+- [Should a customer&#39;s AI assistant be allowed to sign up for them?](https://dev.to/layercall/should-a-customers-ai-assistant-be-allowed-to-sign-up-for-them-1aek)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
