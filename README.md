@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Where Unity Audio Reaches Its Limits: CRI ADX vs Wwise vs FMOD Studio](https://dev.to/gamedevtoollab/where-unity-audio-reaches-its-limits-cri-adx-vs-wwise-vs-fmod-studio-1m4f)
-- [Ad-Hoc distribution vs TestFlight in React Native — a practical comparison](https://dev.to/hameedurrehman/ad-hoc-distribution-vs-testflight-in-react-native-a-practical-comparison-1nid)
-- [We rated 200 Japanese SaaS products on AI-agent readiness. Only 41 passed.](https://dev.to/michielinksee/we-rated-200-japanese-saas-products-on-ai-agent-readiness-only-41-passed-2078)
-- [Choosing a Root Filesystem Format for Embedded Linux](https://dev.to/raghu_bharadwaj_404e60eb0c/choosing-a-root-filesystem-format-for-embedded-linux-3gnm)
-- [开源项目从 0 到 1：我用 2 周业余时间搭建了多平台发布系统](https://dev.to/wxfwxf911/kai-yuan-xiang-mu-cong-0-dao-1wo-yong-2-zhou-ye-yu-shi-jian-da-jian-liao-duo-ping-tai-fa-bu-xi-tong-2p4f)
+- [Self-Evolving Apps: Not Vibe, Live-Coding in Ruby with LLMs and Metaprogramming](https://dev.to/onurcinar/self-evolving-apps-not-vibe-live-coding-in-ruby-with-llms-and-metaprogramming-56h1)
+- [Canary Releases: How to Stop Deploying Broken Code to Everyone](https://dev.to/saurav_tb_pandey/canary-releases-how-to-stop-deploying-broken-code-to-everyone-c03)
+- [Built an offline static scanner for AI agent skills &lpar;SKILL.md&rpar; to detect prompt injections and secret stealers before install](https://dev.to/hritvik_thakur_c2af0d672e/built-an-offline-static-scanner-for-ai-agent-skills-skillmd-to-detect-prompt-injections-and-4igl)
+- [Why Modern Banking Apps Need a Different Architecture: 5 Companies Worth Watching](https://dev.to/raj_07/why-modern-banking-apps-need-a-different-architecture-5-companies-worth-watching-2a3)
+- [Unlocking Efficient AI Inference on Apple Silicon with H3-Metal](https://dev.to/naveenmalothu/unlocking-efficient-ai-inference-on-apple-silicon-with-h3-metal-59ee)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
