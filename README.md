@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Filipino Cooking App That Recommends Food Based on the Weather](https://dev.to/justpres/i-built-a-filipino-cooking-app-that-recommends-food-based-on-the-weather-2e3f)
-- [System Design: A popular cache key expires and 40,000 requests hit your database. How do you fix it?](https://dev.to/gaurav_sharma_c2ef5dd7646/system-design-a-popular-cache-key-expires-and-40000-requests-hit-your-database-how-do-you-fix-it-i3l)
-- [Adding Low-Noise Error Alerts to an Express API with Wotchi](https://dev.to/ivan_kabar_83410b5992cece/adding-low-noise-error-alerts-to-an-express-api-with-wotchi-56o5)
-- [ChatGPT SaaS Citation Studies: What the Evidence Suggests About AI Source Selection](https://dev.to/alifar/chatgpt-saas-citation-studies-what-the-evidence-suggests-about-ai-source-selection-4h26)
-- [5 n8n Workflow Design Patterns That Prevent Silent Failures in Production](https://dev.to/isaias_perez_intelia/5-n8n-workflow-design-patterns-that-prevent-silent-failures-in-production-1a3)
+- [Google Platform Properties Highlight the Gap in AI Citation Provenance Tracking](https://dev.to/alifar/google-platform-properties-highlight-the-gap-in-ai-citation-provenance-tracking-3kip)
+- [The Best Model Isn’t Enough: Harnesses, Context, and Better Prompts](https://dev.to/jorgetovar/the-best-model-isnt-enough-harnesses-context-and-better-prompts-5d4)
+- [Using LLMs as a Documentation Amplifier, Not a Shortcut](https://dev.to/marcellfernandes56/using-llms-as-a-documentation-amplifier-not-a-shortcut-354b)
+- [AI Prompt Data Provenance: A Governance Framework for Community Sources](https://dev.to/alifar/ai-prompt-data-provenance-a-governance-framework-for-community-sources-9jc)
+- [Contract engineer vs. full-time hire: the real cost math](https://dev.to/zephico/contract-engineer-vs-full-time-hire-the-real-cost-math-4pdm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
