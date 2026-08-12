@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Mistral AI Regional Endpoints Bring EU and US Inference Controls to Enterprise Deployments](https://dev.to/alifar/mistral-ai-regional-endpoints-bring-eu-and-us-inference-controls-to-enterprise-deployments-317n)
-- [Compression Is Prediction — and It Explains Why LLMs Actually Work](https://dev.to/trismegistus/compression-is-prediction-and-it-explains-why-llms-actually-work-209e)
-- [QTCC](https://dev.to/joshua_ogunlade_cc523592b/qtcc-3mg2)
-- [Refactoring Legacy Code: A New Hope](https://dev.to/timevolt/refactoring-legacy-code-a-new-hope-5761)
-- [A stuck Postgres lock took my whole site down. Here&#39;s the one-line cause and the fix.](https://dev.to/extensionsmarket/a-stuck-postgres-lock-took-my-whole-site-down-heres-the-one-line-cause-and-the-fix-59am)
+- [LCEL vs. Legacy Chains: From Recipe Confusion to Clear Pipelines 🚀](https://dev.to/anetor/-lcel-vs-legacy-chains-from-recipe-confusion-to-clear-pipelines-3f)
+- [Third Time in Two Weeks: Meta&#39;s AI Also &#39;Hacked&#39; Someone Else&#39;s System - And I Noticed a Pattern No One&#39;s Talking About](https://dev.to/judy_miranttie/third-time-in-two-weeks-metas-ai-also-hacked-someone-elses-system-and-i-noticed-a-pattern-no-27e9)
+- [My AI assistant deleted my working files because I said &quot;I can&#39;t tell which ones are current&quot;](https://dev.to/locoprowrestling/my-ai-assistant-deleted-my-working-files-because-i-said-i-cant-tell-which-ones-are-current-22b3)
+- [Why Isn&#39;t the AWS Blocks Agent Built on AgentCore? What the Repository Reveals About What&#39;s Next](https://dev.to/aws-builders/why-isnt-the-aws-blocks-agent-built-on-agentcore-what-the-repository-reveals-about-whats-next-4512)
+- [Data design for attendance management with capacity, waitlist, and proxy input](https://dev.to/hirodeath/data-design-for-attendance-management-with-capacity-waitlist-and-proxy-input-20dl)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
