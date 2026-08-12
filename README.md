@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Comments Should Explain the Reason, Not Repeat the Decision](https://dev.to/tanya_kamenskih_fae915d43/why-comments-should-explain-the-reason-not-repeat-the-decision-32hg)
-- [The report says verified. Is the change safe to release?](https://dev.to/bigdatasight/the-report-says-verified-is-the-change-safe-to-release-4g96)
-- [Your model benchmark measures everything except the bill](https://dev.to/altrouter/your-model-benchmark-measures-everything-except-the-bill-4i8o)
-- [I hand-scoped 2,768 CSS demos. Here&#39;s the convention that made it survivable.](https://dev.to/codefronts/scoping-css-at-scale-what-shipping-2684-demos-taught-us-3jg1)
-- [Understanding Azure Data Factory Pipelines: From Source Systems to Production](https://dev.to/msnmongare/understanding-azure-data-factory-pipelines-from-source-systems-to-production-20g3)
+- [A Prometheus exporter for Dagster that polls GraphQL instead of pushing to Pushgateway](https://dev.to/hirofumi_tsuda/a-prometheus-exporter-for-dagster-that-polls-graphql-instead-of-pushing-to-pushgateway-39pg)
+- [13 AI Coding Models Tested: Safety Benchmark Results KDS](https://dev.to/ratingtesting/13-ai-coding-models-tested-safety-benchmark-results-kds-353o)
+- [Why I Built a Developer Platform Instead of Just Using Dev.to](https://dev.to/sanjay_singh_1/why-i-built-a-developer-platform-instead-of-just-using-devto-46ln)
+- [Kubernetes Architecture Deep Dive: From Resource Limits to Custom Operators](https://dev.to/enesguler/kubernetes-architecture-deep-dive-from-resource-limits-to-custom-operators-47dk)
+- [I built an AI that answers calls and WhatsApp messages for your business](https://dev.to/fredy/i-built-an-ai-that-answers-calls-and-whatsapp-messages-for-your-business-156l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
