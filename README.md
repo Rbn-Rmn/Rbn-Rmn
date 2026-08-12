@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Escribir Caracteres del Español con Teclado Inglés en Linux: Hackeando XKB sin Permisos de Root](https://dev.to/fefeco/escribir-caracteres-del-espanol-con-teclado-ingles-en-linux-hackeando-xkb-sin-permisos-de-root-48h8)
-- [Your Coding Agent Shouldn&#39;t Grade Its Own Patch](https://dev.to/bobleer/your-coding-agent-shouldnt-grade-its-own-patch-1gi0)
-- [Spiking Neural Networks and Neuromorphic Hardware](https://dev.to/multigrid/spiking-neural-networks-and-neuromorphic-hardware-30p5)
-- [The deliverable isn&#39;t the prompt. It&#39;s the eval.](https://dev.to/ferhatatagun/the-deliverable-isnt-the-prompt-its-the-eval-35cp)
-- [The Softmax Bottleneck and What It Limits](https://dev.to/multigrid/the-softmax-bottleneck-and-what-it-limits-1fn9)
+- [Enterprise fintech deals die in onboarding, and the config already exists](https://dev.to/dylanmerigaud/enterprise-fintech-deals-die-in-onboarding-and-the-config-already-exists-41h5)
+- [&quot;It&#39;s just an approval workflow&quot; is the most expensive sentence in procurement software](https://dev.to/dylanmerigaud/its-just-an-approval-workflow-is-the-most-expensive-sentence-in-procurement-software-4kn5)
+- [38,000 records. 72 hours. And you can&#39;t find the English fast enough.](https://dev.to/threshold/38000-records-72-hours-and-you-cant-find-the-english-fast-enough-1k7c)
+- [Gemini and GetYourGuide: What a Potential Travel Booking Integration Would Require](https://dev.to/alifar/gemini-and-getyourguide-what-a-potential-travel-booking-integration-would-require-4nij)
+- [Your AI agent writes migrations that look safe. Here&#39;s what they actually do to Postgres.](https://dev.to/mickelsamuel/your-ai-agent-writes-migrations-that-look-safe-heres-what-they-actually-do-to-postgres-27a7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
