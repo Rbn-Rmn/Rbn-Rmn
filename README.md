@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Self-Evolving Apps: Not Vibe, Live-Coding in Ruby with LLMs and Metaprogramming](https://dev.to/onurcinar/self-evolving-apps-not-vibe-live-coding-in-ruby-with-llms-and-metaprogramming-56h1)
-- [Canary Releases: How to Stop Deploying Broken Code to Everyone](https://dev.to/saurav_tb_pandey/canary-releases-how-to-stop-deploying-broken-code-to-everyone-c03)
-- [Built an offline static scanner for AI agent skills &lpar;SKILL.md&rpar; to detect prompt injections and secret stealers before install](https://dev.to/hritvik_thakur_c2af0d672e/built-an-offline-static-scanner-for-ai-agent-skills-skillmd-to-detect-prompt-injections-and-4igl)
-- [Why Modern Banking Apps Need a Different Architecture: 5 Companies Worth Watching](https://dev.to/raj_07/why-modern-banking-apps-need-a-different-architecture-5-companies-worth-watching-2a3)
-- [Unlocking Efficient AI Inference on Apple Silicon with H3-Metal](https://dev.to/naveenmalothu/unlocking-efficient-ai-inference-on-apple-silicon-with-h3-metal-59ee)
+- [React useEventSource Hook: Server-Sent Events with Auto-Reconnect &lpar;2026&rpar;](https://dev.to/childrentime/react-useeventsource-hook-server-sent-events-with-auto-reconnect-2026-fbm)
+- [Pausing a GitHub Actions cron: the yaml trap that breaks all workflow triggers](https://dev.to/morinaga/pausing-a-github-actions-cron-the-yaml-trap-that-breaks-all-workflow-triggers-2nbp)
+- [How I detected deleted YouTube videos using JSONL history diffing](https://dev.to/morinaga/how-i-detected-deleted-youtube-videos-using-jsonl-history-diffing-3gjc)
+- [API الخاص بك يزيل بيانات C2PA الوصفية: كيفية كشف ذلك بالاختبار](https://dev.to/yusuf_khalidd/api-lkhs-bk-yzyl-bynt-c2pa-lwsfy-kyfy-kshf-dhlk-blkhtbr-4cc8)
+- [Introduction to the Cloud-Native World with Azure Kubernetes Services &lpar;AKS&rpar; - Series Part 3](https://dev.to/chtwilfer/introduction-to-the-cloud-native-world-with-azure-kubernetes-services-aks-series-part-3-hcm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
