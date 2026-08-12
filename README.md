@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [[Advanced Rust] 2.10. API Design Principles of Constrained Pt.1 - Changing Types](https://dev.to/someb1oody/advanced-rust-210-api-design-principles-of-constrained-pt1-changing-types-4h29)
-- [Truncation Strategies When Your Prompt Won’t Fit](https://dev.to/multigrid/truncation-strategies-when-your-prompt-wont-fit-3kc4)
-- [A Sandbox Got Popped at Black Hat. Nobody Should Be Shocked.](https://dev.to/coridev/a-sandbox-got-popped-at-black-hat-nobody-should-be-shocked-354d)
-- [Turning a Working Prompt Into a Reusable Recipe](https://dev.to/multigrid/turning-a-working-prompt-into-a-reusable-recipe-1nim)
-- [Prompt Engineering: What Still Works in 2026](https://dev.to/multigrid/prompt-engineering-what-still-works-in-2026-5840)
+- [Escribir Caracteres del Español con Teclado Inglés en Linux: Hackeando XKB sin Permisos de Root](https://dev.to/fefeco/escribir-caracteres-del-espanol-con-teclado-ingles-en-linux-hackeando-xkb-sin-permisos-de-root-48h8)
+- [Your Coding Agent Shouldn&#39;t Grade Its Own Patch](https://dev.to/bobleer/your-coding-agent-shouldnt-grade-its-own-patch-1gi0)
+- [Spiking Neural Networks and Neuromorphic Hardware](https://dev.to/multigrid/spiking-neural-networks-and-neuromorphic-hardware-30p5)
+- [The deliverable isn&#39;t the prompt. It&#39;s the eval.](https://dev.to/ferhatatagun/the-deliverable-isnt-the-prompt-its-the-eval-35cp)
+- [The Softmax Bottleneck and What It Limits](https://dev.to/multigrid/the-softmax-bottleneck-and-what-it-limits-1fn9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
