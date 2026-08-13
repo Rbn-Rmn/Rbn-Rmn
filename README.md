@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Persisting Claude CLI Login Between Container Builds](https://dev.to/sukkergris/persisting-claude-cli-login-between-container-builds-55cl)
-- [I need one picture that shows where the money goes](https://dev.to/zop_8abedcc7e12/i-need-one-picture-that-shows-where-the-money-goes-4258)
-- [You know what&#39;s worse than not being able to log in?](https://dev.to/ujja/you-know-whats-worse-than-not-being-able-to-log-in-5379)
-- [I built a free, no-signup AI text toolkit - here&#39;s the stack and why](https://dev.to/texttoolsai/i-built-a-free-no-signup-ai-text-toolkit-heres-the-stack-and-why-3dhk)
-- [Reclaiming Terabytes: How to Cut a Managed Database Bill Without Downtime](https://dev.to/muskan_bandta/reclaiming-terabytes-how-to-cut-a-managed-database-bill-without-downtime-3p56)
+- [Agentic RAG: making retrieval a decision the agent controls](https://dev.to/aiarch_wibo/agentic-rag-making-retrieval-a-decision-the-agent-controls-1db5)
+- [Hello World!](https://dev.to/felipe_silva_eb68c3f737b8/hello-world-480o)
+- [We Open Sourced R-CLI, the Coding Harness Above Every Published Terminal Bench 2.1 Result](https://dev.to/jon_at_backboardio/we-open-sourced-r-cli-the-coding-harness-above-every-published-terminal-bench-21-result-53on)
+- [Top 10 Mintlify Alternatives for API Documentation in 2026](https://dev.to/herve_kom_ae5e908620d11bc/top-10-mintlify-alternatives-for-api-documentation-in-2026-1k85)
+- [The Server Was Up. Its Security Policy Wasn’t.](https://dev.to/lav_vishwakarma/the-server-was-up-its-security-policy-wasnt-2kej)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
