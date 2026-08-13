@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [gRPC over a Unix socket, not HTTP: a real IPC tradeoff from a HIPAA-postured edge system](https://dev.to/clintmathews/grpc-over-a-unix-socket-not-http-a-real-ipc-tradeoff-from-a-hipaa-postured-edge-system-4foa)
-- [We measured the &quot;AI review tax&quot; across 5,388 repos. The median repo doesn&#39;t pay one.](https://dev.to/maki_vlach_289e052694eb2e/we-measured-the-ai-review-tax-across-5388-repos-the-median-repo-doesnt-pay-one-1bc1)
-- [Beyond the Switchover: Using RDS Snapshots to Safely Test MySQL 8.4 Compatibility Before Your Blue/Green Cutover](https://dev.to/sammy_cloud/beyond-the-switchover-using-rds-snapshots-to-safely-test-mysql-84-compatibility-before-your-2991)
-- [It&#39;s always Doom https://ood.dev/posts/doom/](https://dev.to/ben/its-always-doom-httpsooddevpostsdoom-4fpi)
-- [Building Pontmore: From Protocol Spec to Working Standalone Escrow POC](https://dev.to/mtange/building-pontmore-from-protocol-spec-to-working-standalone-escrow-poc-39gh)
+- [ChatGPT Work Brings Desktop Automation, Memory and Governance Into the AI Workflow](https://dev.to/alifar/chatgpt-work-brings-desktop-automation-memory-and-governance-into-the-ai-workflow-mp8)
+- [Mastering Low-Precision AI: FP8 and FP4 Support Across Frameworks in Mid-2026](https://dev.to/javaeeeee/mastering-low-precision-ai-fp8-and-fp4-support-across-frameworks-in-mid-2026-4c98)
+- [Using Python to Analyze Customer Behavior](https://dev.to/electathedev/using-python-to-analyze-customer-behavior-406h)
+- [What a Small-Business CRM Needs Beyond Contact Storage](https://dev.to/mendolatech/what-a-small-business-crm-needs-beyond-contact-storage-2gh2)
+- [Shipping an Isometric Game in the Browser With Three.js](https://dev.to/mendolatech/shipping-an-isometric-game-in-the-browser-with-threejs-20c9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
