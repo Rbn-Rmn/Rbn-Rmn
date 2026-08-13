@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [MiniMax-H3, explained with your favourite TV shows](https://dev.to/erhannah/minimax-h3-explained-with-your-favourite-tv-shows-bhe)
-- [Building a Simple Currency Converter in React with useState and useMemo](https://dev.to/iszy/building-a-simple-currency-converter-in-react-with-usestate-and-usememo-1fna)
-- [I Made My Honeypot Download Malware.](https://dev.to/jarihu/i-made-my-honeypot-download-malware-jgi)
-- [Anthropic&#39;s $6B Decart deal is a robotics play disguised as a compute play](https://dev.to/freema/anthropics-6b-decart-deal-is-a-robotics-play-disguised-as-a-compute-play-5fek)
-- [33 tests proved the tool was correct. None asked whether it runs.](https://dev.to/heinrichneb/33-tests-proved-the-tool-was-correct-none-asked-whether-it-runs-2ldd)
+- [The five things I never let my AI do](https://dev.to/pi-maker/the-five-things-i-never-let-my-ai-do-178f)
+- [Tailscale&#39;s 6-Month Hunt for a 16-Year-Old SQLite Bug: A Debugging Playbook for Java Teams](https://dev.to/jamilxt/tailscales-6-month-hunt-for-a-16-year-old-sqlite-bug-a-debugging-playbook-for-java-teams-3dbf)
+- [Building a Zero-Allocation, Nanosecond Distributed Rate Limiter in Go](https://dev.to/balramadan31/building-a-zero-allocation-nanosecond-distributed-rate-limiter-in-go-312)
+- [DNS Propagation Explained: Why DNS Changes Take Time and What Actually Happens Behind the Scenes](https://dev.to/anik_sikder_313/dns-propagation-explained-why-dns-changes-take-time-and-what-actually-happens-behind-the-scenes-1koj)
+- [From Intel Mac to Apple Silicon: How I Built Universal Third-Party Libraries for a Qt macOS Application](https://dev.to/nehachauhan18/from-intel-mac-to-apple-silicon-how-i-built-universal-third-party-libraries-for-a-qt-macos-1moo)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
