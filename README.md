@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [HTML em Camadas: Containers e Acessibilidade no Dashboard](https://dev.to/candidonkuerten346/html-em-camadas-containers-e-acessibilidade-no-dashboard-540h)
-- [Agents Don&#39;t Start with Prompts. They Start with Events.](https://dev.to/clandro89/agents-dont-start-with-prompts-they-start-with-events-3524)
-- [Finding Exposed APIs and Services: A Developer&#39;s Guide with ScanSearch](https://dev.to/devyjones/finding-exposed-apis-and-services-a-developers-guide-with-scansearch-2fdo)
-- [Cheap Model First, Strong Model on Failure: Building an Auditable Two-Tier LLM Pipeline](https://dev.to/codego_3211/cheap-model-first-strong-model-on-failure-building-an-auditable-two-tier-llm-pipeline-32c)
-- [How Open Source Governs Itself: The Story Behind Apache STeVe v3](https://dev.to/the_asf/how-open-source-governs-itself-the-story-behind-apache-steve-v3-n0i)
+- [L&#39;IA Evo a créé 16 virus, la régulation regarde ailleurs](https://dev.to/thibault_monteiro/lia-evo-a-cree-16-virus-la-regulation-regarde-ailleurs-17jf)
+- [Anthropic Leaked, 6 ไฟล์ที่ลด Token 84% และเพิ่ม Accuracy 39%, หลักการ Context Engineering ที่วิศวกร Google และ Microsoft ใช้](https://dev.to/sarantoon/anthropic-leaked-6-aiflthiild-token-84-aelaephim-accuracy-39-hlakkaar-context-engineering-17of)
+- [How I structure React Next.js patterns across every client project](https://dev.to/nayankyada/how-i-structure-react-nextjs-patterns-across-every-client-project-1b5k)
+- [Top Essential Tools for AngularJS Developers in 2025](https://dev.to/sahil_khurana_486f374ecf2/top-essential-tools-for-angularjs-developers-in-2025-52o5)
+- [Fix: Linux PC Wakes Up Instantly After You Suspend It](https://dev.to/better_call_sriz/fix-linux-pc-wakes-up-instantly-after-you-suspend-it-30bp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
