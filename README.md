@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Managed Agent Infrastructure: What Changes When the Runtime Is Handled For You](https://dev.to/basavaraj_sh_1ea7d95f0f2e/managed-agent-infrastructure-what-changes-when-the-runtime-is-handled-for-you-1n8n)
-- [I Pulled the Weight Table Out of a Basketball Sim. The Positions Form a Line.](https://dev.to/buildahooper/i-pulled-the-weight-table-out-of-a-basketball-sim-the-positions-form-a-line-pkp)
-- [I built an Open Source Linux cleaner because I couldn&#39;t find one I wanted to use](https://dev.to/debba/i-built-an-open-source-linux-cleaner-because-i-couldnt-find-one-i-wanted-to-use-1041)
-- [Terminal Productivity Tips That Actually Save Time](https://dev.to/binaryjournal/terminal-productivity-tips-that-actually-save-time-2jfa)
-- [The runner that was busy on someone else&#39;s job](https://dev.to/captkay/the-runner-that-was-busy-on-someone-elses-job-3ag3)
+- [GhostSplice Isn&#39;t a Jailbreak, It&#39;s a Reminder That LLMs Can&#39;t Do Access Control](https://dev.to/coridev/ghostsplice-isnt-a-jailbreak-its-a-reminder-that-llms-cant-do-access-control-31po)
+- [Building epilot Apps from your terminal, with a little help from AI agents](https://dev.to/epilot/building-epilot-apps-from-your-terminal-with-a-little-help-from-ai-agents-5caa)
+- [Agent Identity and Durable Workflows: The Two Problems MCP Can&#39;t Solve](https://dev.to/aws-builders/agent-identity-and-durable-workflows-the-two-problems-mcp-cant-solve-4llb)
+- [The Third Predicate: Argument-Space Verification, Tested](https://dev.to/zxpmail/the-third-predicate-argument-space-verification-tested-3gfh)
+- [MetaMask launches its agent wallet, Glamsterdam Testnet goes public, a lattice-crypto attack draws doubt, NEAR Intents unifies liquidity](https://dev.to/etherspot/metamask-launches-its-agent-wallet-glamsterdam-testnet-goes-public-a-lattice-crypto-attack-draws-788)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
