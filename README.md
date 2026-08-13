@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Store Passed QA. Then Its Best Seller Vanished from Search](https://dev.to/asada_shinsaku_c2847b5/the-store-passed-qa-then-its-best-seller-vanished-from-search-4f5n)
-- [Vim-Fu](https://dev.to/nasr_maswood/vim-fu-3h5p)
-- [A Photo Vault Is Not a Lock Screen](https://dev.to/arkwarden/a-photo-vault-is-not-a-lock-screen-1bdo)
-- [Building a fullscreen countdown timer in vanilla JS: accurate time, Wake Lock, and a WebAudio alarm](https://dev.to/alexdev2/building-a-fullscreen-countdown-timer-in-vanilla-js-accurate-time-wake-lock-and-a-webaudio-alarm-1fai)
-- [Why We Built an Ontology Engine Instead of Another Rules System](https://dev.to/lsxredrain/why-we-built-an-ontology-engine-instead-of-another-rules-system-8nj)
+- [gRPC over a Unix socket, not HTTP: a real IPC tradeoff from a HIPAA-postured edge system](https://dev.to/clintmathews/grpc-over-a-unix-socket-not-http-a-real-ipc-tradeoff-from-a-hipaa-postured-edge-system-4foa)
+- [We measured the &quot;AI review tax&quot; across 5,388 repos. The median repo doesn&#39;t pay one.](https://dev.to/maki_vlach_289e052694eb2e/we-measured-the-ai-review-tax-across-5388-repos-the-median-repo-doesnt-pay-one-1bc1)
+- [Beyond the Switchover: Using RDS Snapshots to Safely Test MySQL 8.4 Compatibility Before Your Blue/Green Cutover](https://dev.to/sammy_cloud/beyond-the-switchover-using-rds-snapshots-to-safely-test-mysql-84-compatibility-before-your-2991)
+- [It&#39;s always Doom https://ood.dev/posts/doom/](https://dev.to/ben/its-always-doom-httpsooddevpostsdoom-4fpi)
+- [Building Pontmore: From Protocol Spec to Working Standalone Escrow POC](https://dev.to/mtange/building-pontmore-from-protocol-spec-to-working-standalone-escrow-poc-39gh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
