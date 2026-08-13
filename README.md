@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Hostinger vs Namecheap 2026: 20% Extra Discount Promo Code](https://dev.to/web_dev-usman/hostinger-vs-namecheap-2026-20-extra-discount-promo-code-4pnm)
-- [Every AI coding agent tracker is a self-report system](https://dev.to/albertoclemente/every-ai-coding-agent-tracker-is-a-self-report-system-53nm)
-- [How Can I Tell If My Phone Is Being Tracked? Understanding Smartphone Compromise and Mobile Spyware](https://dev.to/manuel_spataro_94998a20ea/how-can-i-tell-if-my-phone-is-being-tracked-understanding-smartphone-compromise-and-mobile-spyware-1f37)
-- [Grapple Dojo](https://dev.to/theodore_p_9749548f7dd03/grapple-dojo-26a)
-- [Classify an IP by ASN Type: Hosting, Business, ISP](https://dev.to/abdullah_afzal/classify-an-ip-by-asn-type-hosting-business-isp-1c8m)
+- [Are You Really Making the Most of Static Code Analysis?](https://dev.to/jeandevbr/are-you-really-making-the-most-of-static-code-analysis-102c)
+- [Sentry Saved Our Users When the API Melted: Fixing a Production-Stopping Schema Drift on CryptoPulse Terminal](https://dev.to/pooja_bhavani/sentry-saved-our-users-when-the-api-melted-fixing-a-production-stopping-schema-drift-on-1l1m)
+- [Designing an Ejar Contract Registration Workflow: From Readiness to Registration](https://dev.to/dra_ali_063a461a14aa6b2/designing-an-ejar-contract-registration-workflow-from-readiness-to-registration-1ceg)
+- [Kairi: a local BYOK chat with a hard grounding layer &lpar;not another market bot&rpar;](https://dev.to/emma019/kairi-a-local-byok-chat-with-a-hard-grounding-layer-not-another-market-bot-51gh)
+- [Maltego for Red and Blue Teams: Graph OSINT, Investigation Pivots and AI-Assisted Link Analysis](https://dev.to/mike_anderson_d01f52129fb/maltego-for-red-and-blue-teams-graph-osint-investigation-pivots-and-ai-assisted-link-analysis-4nka)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
