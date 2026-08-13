@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Direct Providers vs Portable Contracts — Ask-Your-Docs Semantic Search for SaaS RAG](https://dev.to/irvincole5861/direct-providers-vs-portable-contracts-ask-your-docs-semantic-search-for-saas-rag-1n3d)
-- [Path Traversal](https://dev.to/hoax3/path-traversal-388p)
-- [Why I Chose PDF RAG Chunking and Metadata for Catalog Semantic Search](https://dev.to/zylahmorn61835/why-i-chose-pdf-rag-chunking-and-metadata-for-catalog-semantic-search-4f90)
-- [SPF, DKIM, and DMARC together — why the missing DMARC record was blocking registration emails](https://dev.to/susumun/spf-dkim-and-dmarc-together-why-the-missing-dmarc-record-was-blocking-registration-emails-3a49)
-- [Docker no dia a dia - comandos essenciais e primeiros containers reais](https://dev.to/apsis-cc/docker-no-dia-a-dia-comandos-essenciais-e-primeiros-containers-reais-5cd9)
+- [HTML em Camadas: Containers e Acessibilidade no Dashboard](https://dev.to/candidonkuerten346/html-em-camadas-containers-e-acessibilidade-no-dashboard-540h)
+- [Agents Don&#39;t Start with Prompts. They Start with Events.](https://dev.to/clandro89/agents-dont-start-with-prompts-they-start-with-events-3524)
+- [Finding Exposed APIs and Services: A Developer&#39;s Guide with ScanSearch](https://dev.to/devyjones/finding-exposed-apis-and-services-a-developers-guide-with-scansearch-2fdo)
+- [Cheap Model First, Strong Model on Failure: Building an Auditable Two-Tier LLM Pipeline](https://dev.to/codego_3211/cheap-model-first-strong-model-on-failure-building-an-auditable-two-tier-llm-pipeline-32c)
+- [How Open Source Governs Itself: The Story Behind Apache STeVe v3](https://dev.to/the_asf/how-open-source-governs-itself-the-story-behind-apache-steve-v3-n0i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
