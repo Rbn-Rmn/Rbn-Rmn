@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [L&#39;IA Evo a créé 16 virus, la régulation regarde ailleurs](https://dev.to/thibault_monteiro/lia-evo-a-cree-16-virus-la-regulation-regarde-ailleurs-17jf)
-- [Anthropic Leaked, 6 ไฟล์ที่ลด Token 84% และเพิ่ม Accuracy 39%, หลักการ Context Engineering ที่วิศวกร Google และ Microsoft ใช้](https://dev.to/sarantoon/anthropic-leaked-6-aiflthiild-token-84-aelaephim-accuracy-39-hlakkaar-context-engineering-17of)
-- [How I structure React Next.js patterns across every client project](https://dev.to/nayankyada/how-i-structure-react-nextjs-patterns-across-every-client-project-1b5k)
-- [Top Essential Tools for AngularJS Developers in 2025](https://dev.to/sahil_khurana_486f374ecf2/top-essential-tools-for-angularjs-developers-in-2025-52o5)
-- [Fix: Linux PC Wakes Up Instantly After You Suspend It](https://dev.to/better_call_sriz/fix-linux-pc-wakes-up-instantly-after-you-suspend-it-30bp)
+- [Managed Agent Infrastructure: What Changes When the Runtime Is Handled For You](https://dev.to/basavaraj_sh_1ea7d95f0f2e/managed-agent-infrastructure-what-changes-when-the-runtime-is-handled-for-you-1n8n)
+- [I Pulled the Weight Table Out of a Basketball Sim. The Positions Form a Line.](https://dev.to/buildahooper/i-pulled-the-weight-table-out-of-a-basketball-sim-the-positions-form-a-line-pkp)
+- [I built an Open Source Linux cleaner because I couldn&#39;t find one I wanted to use](https://dev.to/debba/i-built-an-open-source-linux-cleaner-because-i-couldnt-find-one-i-wanted-to-use-1041)
+- [Terminal Productivity Tips That Actually Save Time](https://dev.to/binaryjournal/terminal-productivity-tips-that-actually-save-time-2jfa)
+- [The runner that was busy on someone else&#39;s job](https://dev.to/captkay/the-runner-that-was-busy-on-someone-elses-job-3ag3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
