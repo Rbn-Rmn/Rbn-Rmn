@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [GhostSplice Isn&#39;t a Jailbreak, It&#39;s a Reminder That LLMs Can&#39;t Do Access Control](https://dev.to/coridev/ghostsplice-isnt-a-jailbreak-its-a-reminder-that-llms-cant-do-access-control-31po)
-- [Building epilot Apps from your terminal, with a little help from AI agents](https://dev.to/epilot/building-epilot-apps-from-your-terminal-with-a-little-help-from-ai-agents-5caa)
-- [Agent Identity and Durable Workflows: The Two Problems MCP Can&#39;t Solve](https://dev.to/aws-builders/agent-identity-and-durable-workflows-the-two-problems-mcp-cant-solve-4llb)
-- [The Third Predicate: Argument-Space Verification, Tested](https://dev.to/zxpmail/the-third-predicate-argument-space-verification-tested-3gfh)
-- [MetaMask launches its agent wallet, Glamsterdam Testnet goes public, a lattice-crypto attack draws doubt, NEAR Intents unifies liquidity](https://dev.to/etherspot/metamask-launches-its-agent-wallet-glamsterdam-testnet-goes-public-a-lattice-crypto-attack-draws-788)
+- [Hostinger vs Namecheap 2026: 20% Extra Discount Promo Code](https://dev.to/web_dev-usman/hostinger-vs-namecheap-2026-20-extra-discount-promo-code-4pnm)
+- [Every AI coding agent tracker is a self-report system](https://dev.to/albertoclemente/every-ai-coding-agent-tracker-is-a-self-report-system-53nm)
+- [How Can I Tell If My Phone Is Being Tracked? Understanding Smartphone Compromise and Mobile Spyware](https://dev.to/manuel_spataro_94998a20ea/how-can-i-tell-if-my-phone-is-being-tracked-understanding-smartphone-compromise-and-mobile-spyware-1f37)
+- [Grapple Dojo](https://dev.to/theodore_p_9749548f7dd03/grapple-dojo-26a)
+- [Classify an IP by ASN Type: Hosting, Business, ISP](https://dev.to/abdullah_afzal/classify-an-ip-by-asn-type-hosting-business-isp-1c8m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
