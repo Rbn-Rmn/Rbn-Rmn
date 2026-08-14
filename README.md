@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Google Search Console’s Gen AI Reports Redefine How Teams Measure Search Visibility](https://dev.to/alifar/google-search-consoles-gen-ai-reports-redefine-how-teams-measure-search-visibility-2ehh)
-- [Resuming email verification after the app is closed — the pending_email state that prevents re-sending](https://dev.to/susumun/resuming-email-verification-after-the-app-is-closed-the-pendingemail-state-that-prevents-55g8)
-- [What It Really Takes to Get YouTube Live and TikTok Publishing Approved](https://dev.to/robert_saylor_c9db74549e2/what-it-really-takes-to-get-youtube-live-and-tiktok-publishing-approved-en)
-- [Why SaaS AI Visibility May Depend on Community Signals, Citations, and Governance](https://dev.to/alifar/why-saas-ai-visibility-may-depend-on-community-signals-citations-and-governance-1n03)
-- [I Built My First Machine Learning API — Here&#39;s Everything I Learned](https://dev.to/ericmwaimiri/i-built-my-first-machine-learning-api-heres-everything-i-learned-1f7)
+- [I filled my agent&#39;s wiki with contradictions. It never gave a wrong answer.](https://dev.to/wenyu_zhang/i-filled-my-agents-wiki-with-contradictions-it-never-gave-a-wrong-answer-2ple)
+- [They Matched The Slogan. The Decision Lived In The Undefined Word](https://dev.to/kenielzep97/they-matched-the-slogan-the-decision-lived-in-the-undefined-word-36o0)
+- [[Python/JS/C#] Block Engine v2.2.0: Run Python, Node.js, Lua &amp; PHP in a single document with zero-config state pipeline](https://dev.to/o-o1112/pythonjsc-block-engine-v220-run-python-nodejs-lua-php-in-a-single-document-with-4hlb)
+- [Snoring Secrets: Fine-Tuning Whisper-v3 to Identify Sleep Apnea Events Like a Pro](https://dev.to/beck_moulton/snoring-secrets-fine-tuning-whisper-v3-to-identify-sleep-apnea-events-like-a-pro-4phj)
+- [loveyourclanker.org](https://dev.to/javascriptmick/loveyourclankerorg-4ap4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
