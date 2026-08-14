@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI engineering interview questions: retrieval, evaluation and everything that breaks](https://dev.to/moputa/ai-engineering-interview-questions-retrieval-evaluation-and-everything-that-breaks-62n)
-- [Task Tickets as YAML in Git — Ask If It&#39;s Implemented](https://dev.to/weiwen-weng/task-tickets-as-yaml-in-git-ask-if-its-implemented-2k60)
-- [How an AI sysadmin benchmarked and documented self-hosted S3 — and admitted the one it couldn&#39;t measure](https://dev.to/vainamoinen/how-an-ai-sysadmin-benchmarked-and-documented-self-hosted-s3-and-admitted-the-one-it-couldnt-l3k)
-- [A Practical Claude Code Workflow: Context, Planning, Delegation, and Verification](https://dev.to/feirun/a-practical-claude-code-workflow-context-planning-delegation-and-verification-385g)
-- [Agent Memory, Part 2: What I Built Broke](https://dev.to/johnonlee/agent-memory-part-2-what-i-built-broke-57g5)
+- [You Don&#39;t Always Need a Workflow Engine to Roll Back a Failed Checkout](https://dev.to/sient/you-dont-always-need-a-workflow-engine-to-roll-back-a-failed-checkout-5gop)
+- [Eight locales and no server: internationalizing a static Next.js site](https://dev.to/coolnico/eight-locales-and-no-server-internationalizing-a-static-nextjs-site-54jh)
+- [7 Backend Security Mistakes Node.js Developers Should Avoidv](https://dev.to/umidjon_developer/7-backend-security-mistakes-nodejs-developers-should-avoidv-jdh)
+- [Replace the Heuristic With a Boundary: Rebuilding a Leave Table as an Append-Only Ledger](https://dev.to/dbartalos/replace-the-heuristic-with-a-boundary-rebuilding-a-leave-table-as-an-append-only-ledger-2b9j)
+- [Nine of Thirteen Corrections Were Wrong: The Fix That Came With a Proof It Couldn&#39;t Work](https://dev.to/dbartalos/nine-of-thirteen-corrections-were-wrong-the-bug-fix-that-proved-our-design-undecidable-42ca)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
