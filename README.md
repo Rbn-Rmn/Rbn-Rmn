@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [14 Years of Enterprise ASP.NET, Part 4: Azure, Observability &amp; AI in Real Systems](https://dev.to/kirandeepjassalcrypto/14-years-of-enterprise-aspnet-part-4-azure-observability-ai-in-real-systems-36da)
-- [One Workflow, Many Lanes: Completing ByteChef&#39;s Flow Controls](https://dev.to/bytechef/one-workflow-many-lanes-completing-bytechefs-flow-controls-4k0f)
-- [59% of Dogs Are Obese and Their Owners Don&#39;t Know. So I Built an AI That Tells Them.](https://dev.to/sarvar_04/59-of-dogs-are-obese-and-their-owners-dont-know-so-i-built-an-ai-that-tells-them-2a89)
-- [Local LLM on a 16GB Mac Mini: Replacing GitHub Copilot with Ollama + Qwen](https://dev.to/chennarao_vemula_aa375143/local-llm-on-a-16gb-mac-mini-replacing-github-copilot-with-ollama-qwen-n47)
-- [Get Every Email to Your Domain in One Gmail Inbox, Free, with Cloudflare](https://dev.to/sidswirl/get-every-email-to-your-domain-in-one-gmail-inbox-free-with-cloudflare-594o)
+- [Software Team Scaling: Why More Developers Can Slow Delivery](https://dev.to/mjodeh/software-team-scaling-why-more-developers-can-slow-delivery-467n)
+- [AI API Costs Are Surprising People — Here&#39;s How to Check First](https://dev.to/sameermoin21/ai-api-costs-are-surprising-people-heres-how-to-check-first-3phc)
+- [Gemini Live on Google Pixel Brings Real-Time AI Conversations to Mobile Workflows](https://dev.to/alifar/gemini-live-on-google-pixel-brings-real-time-ai-conversations-to-mobile-workflows-p6m)
+- [7 Reliability Checks Before You Ship an n8n Automation](https://dev.to/automationbyshafiq/7-reliability-checks-before-you-ship-an-n8n-automation-40g2)
+- [Fail-closed npm and PyPI vulnerability checks in n8n](https://dev.to/aicodingradar/fail-closed-npm-and-pypi-vulnerability-checks-in-n8n-1hcf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
