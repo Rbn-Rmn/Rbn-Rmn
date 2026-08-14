@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-2f2j)
-- [Why GPT-5.6 Luna High Is My Default for Agentic Engineering](https://dev.to/ahmed_nafies_3a55c907115c/why-gpt-56-luna-high-is-my-default-for-agentic-engineering-4e04)
-- [Using RLM Cut&#39;s Token Costs by 96% for LLM](https://dev.to/rmohitjoe/using-rlm-cuts-token-costs-by-96-for-llm-29j0)
-- [🤖 The Day My First AI Agent Got Stuck &lpar;And How I Refactored It&rpar;](https://dev.to/anmolpawar_/the-day-my-first-ai-agent-got-stuck-and-how-i-refactored-it-44e2)
-- [保护 API Key 和其他应用密钥](https://dev.to/yo1995/bao-hu-api-key-he-qi-ta-ying-yong-mi-yao-45hp)
+- [14 Years of Enterprise ASP.NET, Part 4: Azure, Observability &amp; AI in Real Systems](https://dev.to/kirandeepjassalcrypto/14-years-of-enterprise-aspnet-part-4-azure-observability-ai-in-real-systems-36da)
+- [One Workflow, Many Lanes: Completing ByteChef&#39;s Flow Controls](https://dev.to/bytechef/one-workflow-many-lanes-completing-bytechefs-flow-controls-4k0f)
+- [59% of Dogs Are Obese and Their Owners Don&#39;t Know. So I Built an AI That Tells Them.](https://dev.to/sarvar_04/59-of-dogs-are-obese-and-their-owners-dont-know-so-i-built-an-ai-that-tells-them-2a89)
+- [Local LLM on a 16GB Mac Mini: Replacing GitHub Copilot with Ollama + Qwen](https://dev.to/chennarao_vemula_aa375143/local-llm-on-a-16gb-mac-mini-replacing-github-copilot-with-ollama-qwen-n47)
+- [Get Every Email to Your Domain in One Gmail Inbox, Free, with Cloudflare](https://dev.to/sidswirl/get-every-email-to-your-domain-in-one-gmail-inbox-free-with-cloudflare-594o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
