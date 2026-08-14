@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Add Model Fallback to an OpenAI-Compatible Node.js App](https://dev.to/jinzewang/add-model-fallback-to-an-openai-compatible-nodejs-app-4634)
-- [Notes from getting QuickBooks to accept a generated .qbo file](https://dev.to/ink_gu/notes-from-getting-quickbooks-to-accept-a-generated-qbo-file-3k5i)
-- [Visual Studio 2026 Debugger Detection Failure](https://dev.to/sem7ac/visual-studio-2026-debugger-detection-failure-5fip)
-- [Zero-Trust SSH Access Blueprint: FIDO2 Hardware Keys &amp; SSH Certificate Authority](https://dev.to/aomiqaza/zero-trust-ssh-access-blueprint-fido2-hardware-keys-ssh-certificate-authority-55gj)
-- [Hello DEV! How I&#39;m Blending Technical SEO with Vibe Coding to Build Tools](https://dev.to/hoangvibecode/hello-dev-how-im-blending-technical-seo-with-vibe-coding-to-build-tools-4ake)
+- [OpenAI Expands Daybreak, Unleashes GPT-5.6-Cyber Model](https://dev.to/luckytaorem/openai-expands-daybreak-unleashes-gpt-56-cyber-model-3kkb)
+- [NVIDIA GPU roadmap explained: from A100 to H200 and beyond](https://dev.to/prateek_navani_157c1ed2b7/nvidia-gpu-roadmap-explained-from-a100-to-h200-and-beyond-b9k)
+- [Cloud Cost Optimization Is an Engineering Problem, Not a Finance Problem](https://dev.to/mannyfrank_07/cloud-cost-optimization-is-an-engineering-problem-not-a-finance-problem-3999)
+- [LLM Model Selection Matrix: Pick the Cheapest Reliable Model for Each Feature](https://dev.to/jackm-singularity/llm-model-selection-matrix-pick-the-cheapest-reliable-model-for-each-feature-1n1m)
+- [AI Workflow Orchestration: How AI Agents Can Work Like Your Engineering Team](https://dev.to/jps27cse/ai-workflow-orchestration-how-ai-agents-can-work-like-your-engineering-team-286n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
