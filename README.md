@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Expands Daybreak, Unleashes GPT-5.6-Cyber Model](https://dev.to/luckytaorem/openai-expands-daybreak-unleashes-gpt-56-cyber-model-3kkb)
-- [NVIDIA GPU roadmap explained: from A100 to H200 and beyond](https://dev.to/prateek_navani_157c1ed2b7/nvidia-gpu-roadmap-explained-from-a100-to-h200-and-beyond-b9k)
-- [Cloud Cost Optimization Is an Engineering Problem, Not a Finance Problem](https://dev.to/mannyfrank_07/cloud-cost-optimization-is-an-engineering-problem-not-a-finance-problem-3999)
-- [LLM Model Selection Matrix: Pick the Cheapest Reliable Model for Each Feature](https://dev.to/jackm-singularity/llm-model-selection-matrix-pick-the-cheapest-reliable-model-for-each-feature-1n1m)
-- [AI Workflow Orchestration: How AI Agents Can Work Like Your Engineering Team](https://dev.to/jps27cse/ai-workflow-orchestration-how-ai-agents-can-work-like-your-engineering-team-286n)
+- [Three ETL failure patterns I now write into the output file, not just the logs](https://dev.to/morinaga/three-etl-failure-patterns-i-now-write-into-the-output-file-not-just-the-logs-4in0)
+- [What I learned about repeat-and-vote sampling for non-deterministic search results](https://dev.to/morinaga/what-i-learned-about-repeat-and-vote-sampling-for-non-deterministic-search-results-18d7)
+- [Rate Limiting in Laravel and PHP — How to Stop Brute Force Before It Starts](https://dev.to/kriosa/rate-limiting-in-laravel-and-php-how-to-stop-brute-force-before-it-starts-4241)
+- [Introduction to the Cloud-Native World with Azure Kubernetes Services &lpar;AKS&rpar; - Series Part 4](https://dev.to/chtwilfer/introduction-to-the-cloud-native-world-with-azure-kubernetes-services-aks-series-part-4-367e)
+- [200 OK Is Not Enough: Why Bot-Protected Sites Still Return Bad Data](https://dev.to/promptcloud_services/200-ok-is-not-enough-why-bot-protected-sites-still-return-bad-data-4bdk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
