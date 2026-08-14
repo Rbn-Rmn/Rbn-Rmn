@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Budget AI Coding Model Evaluation: A Sandbox-First Workflow](https://dev.to/hackjs_7468/zero-budget-ai-coding-model-evaluation-a-sandbox-first-workflow-4ioh)
-- [One Inline Button for Everyone: Parameters, Authentication, and Callbacks in a Telegram Mini App](https://dev.to/vibe_seeker/one-inline-button-for-everyone-parameters-authentication-and-callbacks-in-a-telegram-mini-app-9ef)
-- [Looker&#39;s Native MCP Server with Claude Code](https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8)
-- [Your false positives never complain. So how do you find them?](https://dev.to/layercall/your-false-positives-never-complain-so-how-do-you-find-them-111n)
-- [CrawlForge v5.0.0: Security, Correctness, MCP Spec](https://dev.to/simon_crawlforge_dev/crawlforge-v500-security-correctness-mcp-spec-3i0c)
+- [Voice In. Words Out: The Free, 100% Offline Voice Typing App for Windows](https://dev.to/avikeid2007/voice-in-words-out-the-free-100-offline-voice-typing-app-for-windows-gpp)
+- [A Line of Documentation Was Acting as a Global Config Flag](https://dev.to/lexosi/a-line-of-documentation-was-acting-as-a-global-config-flag-3635)
+- [Interesting article](https://dev.to/anthonymax/interesting-article-5641)
+- [Implied vs Realized Volatility: Reading the Gap](https://dev.to/shaktitiwari/implied-vs-realized-volatility-reading-the-gap-3ngi)
+- [La Abuela — Comfort Food from Madrid](https://dev.to/migbolivar/la-abuela-comfort-food-from-madrid-4h6f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
