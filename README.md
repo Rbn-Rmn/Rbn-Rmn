@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [5 Free Sanctions APIs That Automate EU AI Act Compliance](https://dev.to/onizuka/5-free-sanctions-apis-that-automate-eu-ai-act-compliance-gbg)
-- [Creating modern forms with form.fscss — pure CSS](https://dev.to/fscss/creating-modern-forms-with-formfscss-pure-css-4801)
-- [Docker Networking &amp; Volumes: Connecting Containers and Persisting Data](https://dev.to/themdmohiuddin/docker-networking-volumes-connecting-containers-and-persisting-data-56fn)
-- [How I Built ActiveVPN: A Terminal Tool That Proves &lpar;or Exposes&rpar; Your VPN](https://dev.to/rkriad585/how-i-built-activevpn-a-terminal-tool-that-proves-or-exposes-your-vpn-38jg)
-- [How to Integrate a Payment Gateway into Your Web App: A Practical Guide](https://dev.to/aditi_holkar_dc03bd62e49f/how-to-integrate-a-payment-gateway-into-your-web-app-a-practical-guide-4ih5)
+- [Zero-Budget AI Coding Model Evaluation: A Sandbox-First Workflow](https://dev.to/hackjs_7468/zero-budget-ai-coding-model-evaluation-a-sandbox-first-workflow-4ioh)
+- [One Inline Button for Everyone: Parameters, Authentication, and Callbacks in a Telegram Mini App](https://dev.to/vibe_seeker/one-inline-button-for-everyone-parameters-authentication-and-callbacks-in-a-telegram-mini-app-9ef)
+- [Looker&#39;s Native MCP Server with Claude Code](https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8)
+- [Your false positives never complain. So how do you find them?](https://dev.to/layercall/your-false-positives-never-complain-so-how-do-you-find-them-111n)
+- [CrawlForge v5.0.0: Security, Correctness, MCP Spec](https://dev.to/simon_crawlforge_dev/crawlforge-v500-security-correctness-mcp-spec-3i0c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
