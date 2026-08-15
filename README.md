@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Most glassmorphism is blur + a white overlay. I extracted the actual refraction into a Claude Code skill](https://dev.to/stormaref/most-glassmorphism-is-blur-a-white-overlay-i-extracted-the-actual-refraction-into-a-claude-code-19b4)
-- [You added an MCP server to your AI assistant. Did you check what it can touch?](https://dev.to/sstart/you-added-an-mcp-server-to-your-ai-assistant-did-you-check-what-it-can-touch-2399)
-- [The IR Is a sqlglot AST](https://dev.to/5c4989ca297ed/the-ir-is-a-sqlglot-ast-e40)
-- [Beyond the Demo: Building Production-Ready AI Agents — A Guide to Benchmarking, Cost Optimization, and Tooling in 2026](https://dev.to/tamizuddin/beyond-the-demo-building-production-ready-ai-agents-a-guide-to-benchmarking-cost-optimization-47le)
-- [May the STAR Be With You: Mastering Behavioural Interviews](https://dev.to/timevolt/may-the-star-be-with-you-mastering-behavioural-interviews-3m3k)
+- [Is “leave a Telegram group now, get a way back later” useful — or just an overengineered bookmark?](https://dev.to/jermac/is-leave-a-telegram-group-now-get-a-way-back-later-useful-or-just-an-overengineered-bookmark-1f3p)
+- [I Quit Coding to Find Out What I Actually Wanted ?](https://dev.to/junee1206/i-quit-coding-to-find-out-what-i-actually-wanted--37do)
+- [A Python Model Is Just a Function](https://dev.to/5c4989ca297ed/a-python-model-is-just-a-function-4gk8)
+- [8051 What does SDCC do part 3 ?](https://dev.to/ddupard/8051-what-does-sdcc-do-part-3--3111)
+- [OpenAI Expands ChatGPT Ads With CPC Bidding and Contextual Targeting](https://dev.to/alifar/openai-expands-chatgpt-ads-with-cpc-bidding-and-contextual-targeting-3e2l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
