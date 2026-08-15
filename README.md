@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Real-Time Collaborative Sheet Music Editor — Here&#39;s What MusicXML and CRDTs Taught Me](https://dev.to/tan-z-tan/i-built-a-real-time-collaborative-sheet-music-editor-heres-what-musicxml-and-crdts-taught-me-1dii)
-- [Building Vidya: An Ultra-Fast Bilingual Voice AI Tutor with Murf Falcon &amp; LiveKit &lpar;10 Days of Voice Agents&rpar;](https://dev.to/stoichotoke/building-vidya-an-ultra-fast-bilingual-voice-ai-tutor-with-murf-falcon-livekit-10-days-of-voice-1fcf)
-- [Gravy Theory: three chickens, one base](https://dev.to/yashksaini/gravy-theory-three-chickens-one-base-25h8)
-- [10 Days to Build a Voice AI Tutor: The Good, The Bad, and The &quot;Why Is It Silent?!&quot;](https://dev.to/satwik_mn/10-days-to-build-a-voice-ai-tutor-the-good-the-bad-and-the-why-is-it-silent-7ii)
-- [Don&#39;t store trust, derive it: a trust model for agent-written docs](https://dev.to/scaccogatto/dont-store-trust-derive-it-a-trust-model-for-agent-written-docs-515e)
+- [Stop Using AI to Write Code, Start Using It to Navigate](https://dev.to/ntty/stop-using-ai-to-write-code-start-using-it-to-navigate-58no)
+- [Zero GPU Cost and 4-Minute Daily Runs — Making Real Rain Fall on a Still Image with ffmpeg displace](https://dev.to/bokuwalily/zero-gpu-cost-and-4-minute-daily-runs-making-real-rain-fall-on-a-still-image-with-ffmpeg-displace-b5b)
+- [The Quiet Collapse](https://dev.to/rawveg/the-quiet-collapse-1pl0)
+- [🦌 Mrigashira AI — Making Local AI Accessible to Everyone](https://dev.to/pranaysmokal/mrigashira-ai-making-local-ai-accessible-to-everyone-22j)
+- [My checker scored one component compliant and another deviant. Neither had a rule behind it.](https://dev.to/lizhuojunx86/my-checker-scored-one-component-compliant-and-another-deviant-neither-had-a-rule-behind-it-299a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
