@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Writing Problem That Wasn’t Really a Writing Problem](https://dev.to/oldmanbelton/the-writing-problem-that-wasnt-really-a-writing-problem-433h)
-- [Portfolio Website Architecture for Dummies](https://dev.to/oldmanbelton/portfolio-website-architecture-for-dummies-46i2)
-- [Flock cut default camera-data retention from 30 days to 7 — and its own numbers say the other 23 days were never doing any work](https://dev.to/superfunicular/flock-cut-default-camera-data-retention-from-30-days-to-7-and-its-own-numbers-say-the-other-23-4efm)
-- [A Secure and Efficient Image Encryption Scheme Based on Chaotic Systems](https://dev.to/fuadhusnan_f44f3e13/a-secure-and-efficient-image-encryption-scheme-based-on-chaotic-systems-4en5)
-- [I Built a Multi-Agent Coding Orchestrator. It Kept Choosing Zero Workers.](https://dev.to/mahadansar/i-built-a-multi-agent-coding-orchestrator-it-kept-choosing-zero-workers-4bc3)
+- [Why Trend-Data Scrapers Silently Fail &lpar;And How I Fixed It&rpar;](https://dev.to/0xgollum/why-trend-data-scrapers-silently-fail-and-how-i-fixed-it-7a2)
+- [Context Engineering and Harness Engineering: Building Reliable AI Agents Beyond Prompts](https://dev.to/mino/context-engineering-and-harness-engineering-building-reliable-ai-agents-beyond-prompts-3dij)
+- [Building Bhasha Academy: A Multi-Agent Hinglish Voice Tutor with Murf Falcon &amp; LiveKit](https://dev.to/bharat03/building-bhasha-academy-a-multi-agent-hinglish-voice-tutor-with-murf-falcon-livekit-njp)
+- [React useInterval Hook: setInterval Without Stale Closures &lpar;2026&rpar;](https://dev.to/childrentime/react-useinterval-hook-setinterval-without-stale-closures-2026-5bla)
+- [How to Run Local LLMs with Open WebUI on Docker &lpar;Ditch the 0/mo AI Subscriptions&rpar;](https://dev.to/enfernandes/how-to-run-local-llms-with-open-webui-on-docker-ditch-the-0mo-ai-subscriptions-1d4h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
