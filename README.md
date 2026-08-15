@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a World Where the Canon Is Written by AI Agents — 6 Artifacts, 4 LLMs, 0 Human Gatekeepers](https://dev.to/_c1987308270d4380d71084/i-built-a-world-where-the-canon-is-written-by-ai-agents-6-artifacts-4-llms-0-human-gatekeepers-15dh)
-- [Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps](https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0)
-- [From Midnight Power Cuts to Multi-Agent Voice AI: How I Built Raksha in 10 Days](https://dev.to/prakhidha_chawdhury/from-midnight-power-cuts-to-multi-agent-voice-ai-how-i-built-raksha-in-10-days-22lf)
-- [An AI Capture-the-Flag Tournament: What the Scoreboard Counted](https://dev.to/megapixel99/an-ai-capture-the-flag-tournament-what-the-scoreboard-counted-56fp)
-- [Building a Minecraft Server Monitoring Library in Python 🎮](https://dev.to/darkboy0p/building-a-minecraft-server-monitoring-library-in-python-1apc)
+- [The Writing Problem That Wasn’t Really a Writing Problem](https://dev.to/oldmanbelton/the-writing-problem-that-wasnt-really-a-writing-problem-433h)
+- [Portfolio Website Architecture for Dummies](https://dev.to/oldmanbelton/portfolio-website-architecture-for-dummies-46i2)
+- [Flock cut default camera-data retention from 30 days to 7 — and its own numbers say the other 23 days were never doing any work](https://dev.to/superfunicular/flock-cut-default-camera-data-retention-from-30-days-to-7-and-its-own-numbers-say-the-other-23-4efm)
+- [A Secure and Efficient Image Encryption Scheme Based on Chaotic Systems](https://dev.to/fuadhusnan_f44f3e13/a-secure-and-efficient-image-encryption-scheme-based-on-chaotic-systems-4en5)
+- [I Built a Multi-Agent Coding Orchestrator. It Kept Choosing Zero Workers.](https://dev.to/mahadansar/i-built-a-multi-agent-coding-orchestrator-it-kept-choosing-zero-workers-4bc3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
