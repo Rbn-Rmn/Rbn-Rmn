@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using AI to Write Code, Start Using It to Navigate](https://dev.to/ntty/stop-using-ai-to-write-code-start-using-it-to-navigate-58no)
-- [Zero GPU Cost and 4-Minute Daily Runs — Making Real Rain Fall on a Still Image with ffmpeg displace](https://dev.to/bokuwalily/zero-gpu-cost-and-4-minute-daily-runs-making-real-rain-fall-on-a-still-image-with-ffmpeg-displace-b5b)
-- [The Quiet Collapse](https://dev.to/rawveg/the-quiet-collapse-1pl0)
-- [🦌 Mrigashira AI — Making Local AI Accessible to Everyone](https://dev.to/pranaysmokal/mrigashira-ai-making-local-ai-accessible-to-everyone-22j)
-- [My checker scored one component compliant and another deviant. Neither had a rule behind it.](https://dev.to/lizhuojunx86/my-checker-scored-one-component-compliant-and-another-deviant-neither-had-a-rule-behind-it-299a)
+- [Most glassmorphism is blur + a white overlay. I extracted the actual refraction into a Claude Code skill](https://dev.to/stormaref/most-glassmorphism-is-blur-a-white-overlay-i-extracted-the-actual-refraction-into-a-claude-code-19b4)
+- [You added an MCP server to your AI assistant. Did you check what it can touch?](https://dev.to/sstart/you-added-an-mcp-server-to-your-ai-assistant-did-you-check-what-it-can-touch-2399)
+- [The IR Is a sqlglot AST](https://dev.to/5c4989ca297ed/the-ir-is-a-sqlglot-ast-e40)
+- [Beyond the Demo: Building Production-Ready AI Agents — A Guide to Benchmarking, Cost Optimization, and Tooling in 2026](https://dev.to/tamizuddin/beyond-the-demo-building-production-ready-ai-agents-a-guide-to-benchmarking-cost-optimization-47le)
+- [May the STAR Be With You: Mastering Behavioural Interviews](https://dev.to/timevolt/may-the-star-be-with-you-mastering-behavioural-interviews-3m3k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
