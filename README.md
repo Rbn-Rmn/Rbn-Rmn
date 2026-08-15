@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Is “leave a Telegram group now, get a way back later” useful — or just an overengineered bookmark?](https://dev.to/jermac/is-leave-a-telegram-group-now-get-a-way-back-later-useful-or-just-an-overengineered-bookmark-1f3p)
-- [I Quit Coding to Find Out What I Actually Wanted ?](https://dev.to/junee1206/i-quit-coding-to-find-out-what-i-actually-wanted--37do)
-- [A Python Model Is Just a Function](https://dev.to/5c4989ca297ed/a-python-model-is-just-a-function-4gk8)
-- [8051 What does SDCC do part 3 ?](https://dev.to/ddupard/8051-what-does-sdcc-do-part-3--3111)
-- [OpenAI Expands ChatGPT Ads With CPC Bidding and Contextual Targeting](https://dev.to/alifar/openai-expands-chatgpt-ads-with-cpc-bidding-and-contextual-targeting-3e2l)
+- [I built a security scanner that checks if you are a dog](https://dev.to/xbill/i-built-a-security-scanner-that-checks-if-you-are-a-dog-357n)
+- [Postgres Says &quot;Too Many Clients Already&quot;: Diagnose It Before You Add a Pooler](https://dev.to/libme/postgres-says-too-many-clients-already-diagnose-it-before-you-add-a-pooler-5dbb)
+- [BarkPass: An AI wellness passport that lets dogs speak](https://dev.to/himanshu_748/barkpass-an-ai-wellness-passport-that-lets-dogs-speak-53d0)
+- [Bot timing has an entropy signature, and you can measure it on live Nostr data](https://dev.to/zekebuilds/bot-timing-has-an-entropy-signature-and-you-can-measure-it-on-live-nostr-data-4bho)
+- [PostgreSQL vs MySQL: The Storage Decision That Can Make or Break Your Architecture](https://dev.to/m_dsouza_6354fd6ef6b8d61e/postgresql-vs-mysql-the-storage-decision-that-can-make-or-break-your-architecture-1moe)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
