@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [mobx-react-form is now mobx-formkit](https://dev.to/foxhound87/mobx-react-form-is-now-mobx-formkit-4kfm)
-- [Pawford Academy — A SwiftUI Puppy Training App with ElevenLabs AI Voice 🐾🎓](https://dev.to/gamya_m/pawford-academy-a-swiftui-puppy-training-app-with-elevenlabs-ai-voice-552k)
-- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-5gl9)
-- [Six Days of a Silent Crash Loop: One Command That Health-Checks 26 launchd Jobs](https://dev.to/bokuwalily/six-days-of-a-silent-crash-loop-one-command-that-health-checks-26-launchd-jobs-2c02)
-- [Phantom Precedent](https://dev.to/rawveg/phantom-precedent-492p)
+- [The Dabba — the box somebody packed for you before you were awake](https://dev.to/maneesh_thakur_d16c2852fa/the-dabba-the-box-somebody-packed-for-you-before-you-were-awake-19l7)
+- [TDD vs. Spike-Driven Development: When to Test First](https://dev.to/doogal/tdd-vs-spike-driven-development-when-to-test-first-2lgh)
+- [Rebuilding the Cerebras Knowledge Base: the web UI and a look back](https://dev.to/faridgnank02/rebuilding-the-cerebras-knowledge-base-the-web-ui-and-a-look-back-4k2m)
+- [Rebuilding the Cerebras Knowledge Base: planner, tools, and synthesis](https://dev.to/faridgnank02/rebuilding-the-cerebras-knowledge-base-planner-tools-and-synthesis-1g23)
+- [Rebuilding the Cerebras Knowledge Base: an LLM reranker](https://dev.to/faridgnank02/rebuilding-the-cerebras-knowledge-base-an-llm-reranker-4016)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
