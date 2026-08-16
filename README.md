@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How Much VRAM Do You Really Need for Local LLMs?](https://dev.to/apeder/how-much-vram-do-you-really-need-for-local-llms-142n)
-- [Designing HTML Page Caching Changed How I Think About Caching](https://dev.to/tohru_yaginuma_4f041533c6/designing-html-page-caching-changed-how-i-think-about-caching-4k8f)
-- [Building Resilient Background Jobs in NestJS with BullMQ](https://dev.to/menard_codes/building-resilient-background-jobs-in-nestjs-with-bullmq-4j9h)
-- [Why Your Docker Build Takes 11 Minutes in CI When It Takes 20 Seconds Locally](https://dev.to/libme/why-your-docker-build-takes-11-minutes-in-ci-when-it-takes-20-seconds-locally-3foe)
-- [How Often Should I Post, and How Do I Choose Topics?](https://dev.to/towernter/how-often-should-i-post-and-how-do-i-choose-topics-55kp)
+- [Building an offline CAD tool that can also turn photos into 3D meshes](https://dev.to/rx290/building-an-offline-cad-tool-that-can-also-turn-photos-into-3d-meshes-181p)
+- [The Pokédex Is 2.4MB. My Users Never Download It.](https://dev.to/yyj/the-pokedex-is-24mb-my-users-never-download-it-57g5)
+- [Modeling Recurring vs One-Off Events in a Bilingual City Guide](https://dev.to/member_5432fd74/modeling-recurring-vs-one-off-events-in-a-bilingual-city-guide-m5g)
+- [Semantic Cache in AI Tokenomics](https://dev.to/gde/semantic-cache-in-ai-tokenomics-2l5i)
+- [Flutter CI/CD with GitHub Actions and Fastlane: A Real Pipeline](https://dev.to/bimal-py/flutter-cicd-with-github-actions-and-fastlane-a-real-pipeline-4do4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
