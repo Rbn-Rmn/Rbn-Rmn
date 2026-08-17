@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I spent 11 days optimizing a search ranking that only I could see](https://dev.to/aiq_labs/i-spent-11-days-optimizing-a-search-ranking-that-only-i-could-see-4g28)
-- [My security hook silently stopped guarding. The bug was one line of encoding.](https://dev.to/aiq_labs/my-security-hook-silently-stopped-guarding-the-bug-was-one-line-of-encoding-1le8)
-- [Is UI Overdraw Killing Your WebGL Performance?](https://dev.to/alok_krishali/is-ui-overdraw-killing-your-webgl-performance-2o92)
-- [Running Android VMs on ARM: Rebuilding the Minisforum MS-R1 Kernel for Cuttlefish](https://dev.to/biozal/running-android-vms-on-arm-rebuilding-the-minisforum-ms-r1-kernel-for-cuttlefish-52a1)
-- [How to Standardize Line Endings in Git Without Committing `.gitattributes`](https://dev.to/vast-cow/how-to-standardize-line-endings-in-git-without-committing-gitattributes-1k29)
+- [Privy Wallet Analytics for Crypto and DeFi Apps &lpar;2026 Guide&rpar;](https://dev.to/yos/privy-wallet-analytics-for-crypto-and-defi-apps-2026-guide-lo1)
+- [Dynamic Embedded Wallet Analytics for Crypto and DeFi Apps](https://dev.to/yos/dynamic-embedded-wallet-analytics-for-crypto-and-defi-apps-h83)
+- [Functional languages are heavily imperative.](https://dev.to/playfulprogramming/functional-languages-are-heavily-imperative-4c1)
+- [Your approval gate is not judgment — it is a lookup you never automated](https://dev.to/unmannedops/your-approval-gate-is-not-judgment-it-is-a-lookup-you-never-automated-160h)
+- [Your Agent Audit Trail Is Not Evidence Until You Can Verify It](https://dev.to/zira125/your-agent-audit-trail-is-not-evidence-until-you-can-verify-it-423n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
