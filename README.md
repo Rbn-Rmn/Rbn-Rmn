@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Privy Wallet Analytics for Crypto and DeFi Apps &lpar;2026 Guide&rpar;](https://dev.to/yos/privy-wallet-analytics-for-crypto-and-defi-apps-2026-guide-lo1)
-- [Dynamic Embedded Wallet Analytics for Crypto and DeFi Apps](https://dev.to/yos/dynamic-embedded-wallet-analytics-for-crypto-and-defi-apps-h83)
-- [Functional languages are heavily imperative.](https://dev.to/playfulprogramming/functional-languages-are-heavily-imperative-4c1)
-- [Your approval gate is not judgment — it is a lookup you never automated](https://dev.to/unmannedops/your-approval-gate-is-not-judgment-it-is-a-lookup-you-never-automated-160h)
-- [Your Agent Audit Trail Is Not Evidence Until You Can Verify It](https://dev.to/zira125/your-agent-audit-trail-is-not-evidence-until-you-can-verify-it-423n)
+- [GitHub Copilot Agent Plugins 1.0 Goes GA — A Real Plugin System, Not Just a Roadmap Promise](https://dev.to/alvarito1983/github-copilot-agent-plugins-10-goes-ga-a-real-plugin-system-not-just-a-roadmap-promise-4hck)
+- [The pipeline was green. The product was underspecified](https://dev.to/michaeltruong/the-pipeline-was-green-the-product-was-underspecified-1fnj)
+- [A Free 16-Week Cloud and DevOps Syllabus for Karachi &lpar;2026&rpar;](https://dev.to/usman_sherdil_582e626a7db/a-free-16-week-cloud-and-devops-syllabus-for-karachi-2026-342n)
+- [How AI Is Making Mobile Accessibility Easier Than Ever](https://dev.to/hugo_rus_630dd942fcf7cc62/how-ai-is-making-mobile-accessibility-easier-than-ever-20n3)
+- [Stripe Bought the Routing Layer](https://dev.to/peremptory/stripe-bought-the-routing-layer-3053)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
