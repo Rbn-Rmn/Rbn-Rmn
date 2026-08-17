@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Taming Test Flakiness: A Practical Guide to Retries, Parallelism, and Stability Thresholds](https://dev.to/shell_qa/taming-test-flakiness-a-practical-guide-to-retries-parallelism-and-stability-thresholds-40dm)
-- [When a Provider Retires Your LLM Model: Two Products, the Root Cause, and Preventing Recurrence](https://dev.to/uehara/when-a-provider-retires-your-llm-model-two-products-the-root-cause-and-preventing-recurrence-4lc2)
-- [Structuring a Playwright BDD Automation Framework: Core Architecture &amp; Directory Guide](https://dev.to/shell_qa/structuring-a-playwright-bdd-automation-framework-core-architecture-directory-guide-5hne)
-- [The Importance of a Risk Framework in Corporate Cybersecurity](https://dev.to/marco_altomare_0e7674642c/the-importance-of-a-risk-framework-in-corporate-cybersecurity-3ki0)
-- [Wiring an AI Voicebot to Your CRM Without Adding Latency: A FreeSWITCH ESL Deep Dive](https://dev.to/ecosmob_technologies/wiring-an-ai-voicebot-to-your-crm-without-adding-latency-a-freeswitch-esl-deep-dive-5lp)
+- [Why I don’t want AI agents executing code in someone else’s cloud](https://dev.to/030dev/why-i-dont-want-ai-agents-executing-code-in-someone-elses-cloud-flf)
+- [Virtual threads didn&#39;t scale your app. They just moved the crash to your database.](https://dev.to/adioof/virtual-threads-didnt-scale-your-app-they-just-moved-the-crash-to-your-database-p7i)
+- [Stripe Just Bought OpenRouter for $7B+ — and That Is the Most Important AI Story of the Week](https://dev.to/amrree/stripe-just-bought-openrouter-for-7b-and-that-is-the-most-important-ai-story-of-the-week-4kc9)
+- [Python Scope, First-Class Functions, *args,**kwargs &amp; Mutable Default Arguments](https://dev.to/deepika_pusala/python-scope-first-class-functions-argskwargs-mutable-default-arguments-1dbc)
+- [Skills Sprawl: When Too Much of a Good Thing Confuses Your AI Agent](https://dev.to/gde/skills-sprawl-when-too-much-of-a-good-thing-confuses-your-ai-agent-4nij)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
