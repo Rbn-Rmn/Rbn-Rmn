@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I found code in my repo I&#39;d never seen. All 82 tests passed. I quarantined it for three days anyway.](https://dev.to/achiya-automation/i-found-code-in-my-repo-id-never-seen-all-82-tests-passed-i-quarantined-it-for-three-days-anyway-33go)
-- [MCP Is Going Stateless: What Changed and How I Migrated My Currency Converter Server](https://dev.to/dilumdarshana/mcp-is-going-stateless-what-changed-and-how-i-migrated-my-currency-converter-server-olm)
-- [Caninography](https://dev.to/maisamabbas0323/caninography-36g5)
-- [Building a Production-Ready Chat Application: From Zero to Live](https://dev.to/engineersabir/building-a-production-ready-chat-application-from-zero-to-live-55dl)
-- [PawServe: AI Symptom Help, Breed Finder &amp; Real Vet Care in One Place](https://dev.to/m1raclescr1pt/pawserve-ai-symptom-help-breed-finder-real-vet-care-in-one-place-5b1g)
+- [Building Fluentic Style: The Anatomy of Debuggable Atomic CSS](https://dev.to/omnidev/building-fluentic-style-the-anatomy-of-debuggable-atomic-css-5ca3)
+- [PawCSS - Your Dog, Rebuilt with Real CSS Elements](https://dev.to/ajaymourya/pawcss-your-dog-rebuilt-with-real-css-elements-4f1g)
+- [Building Fluentic Style: Bringing the `css` Prop to SolidJS](https://dev.to/omnidev/building-fluentic-style-bringing-the-css-prop-to-solidjs-1i82)
+- [HOW TO DEVREL: The Most Un-Natural Act](https://dev.to/leonadato/how-to-devrel-the-most-un-natural-act-44oo)
+- [AI Is Not a Source of Truth](https://dev.to/rud0lforrp/ai-is-not-a-source-of-truth-48kc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
