@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Seu log tem 40 mil linhas e nenhuma resposta](https://dev.to/denisgusto1/seu-log-tem-40-mil-linhas-e-nenhuma-resposta-2632)
-- [ASP.NET Core 10 Authentication Metrics: Distinguish No Result from Failure](https://dev.to/ssukhpinder/aspnet-core-10-authentication-metrics-distinguish-no-result-from-failure-4iga)
-- [Anyone need an installer?](https://dev.to/unitbuilds/anyone-need-an-installer-5c8b)
-- [analogous&lpar;-1&rpar;: how a default hid a heap-exhaustion bug for fifteen years](https://dev.to/bigachiever/analogous-1-how-a-default-hid-a-heap-exhaustion-bug-for-fifteen-years-380e)
-- [Grokbot Honest Review: Is xAI and Cursor&#39;s Computer-Use Agent Worth $200 a Month?](https://dev.to/aditi_gupta_8d81622a592aa/grokbot-honest-review-is-xai-and-cursors-computer-use-agent-worth-200-a-month-2924)
+- [I Built a Bowl Builder Tool for Nawtch, and the Save Button Was Harder Than It Sounds](https://dev.to/uhdallas/i-built-a-bowl-builder-tool-for-nawtch-and-the-save-button-was-harder-than-it-sounds-8g4)
+- [Adding Edges Is Not a Paradigm Shift](https://dev.to/jeelvankhede/adding-edges-is-not-a-paradigm-shift-5135)
+- [Need some help...](https://dev.to/floppysnoot/need-some-help-3bfp)
+- [Aspect Ratio Mismatches in Production: A Frontend Team&#39;s Crop QA Checklist](https://dev.to/lizely/aspect-ratio-mismatches-in-production-a-frontend-teams-crop-qa-checklist-2njb)
+- [Practice Real-World Testing Scenarios for QA: Challenge 4 - Accessibility testing](https://dev.to/abigail_armijo/practice-real-world-testing-scenarios-for-qa-challenge-3-visual-testing-with-api-mocking-26o9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
