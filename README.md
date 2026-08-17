@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why I don’t want AI agents executing code in someone else’s cloud](https://dev.to/030dev/why-i-dont-want-ai-agents-executing-code-in-someone-elses-cloud-flf)
-- [Virtual threads didn&#39;t scale your app. They just moved the crash to your database.](https://dev.to/adioof/virtual-threads-didnt-scale-your-app-they-just-moved-the-crash-to-your-database-p7i)
-- [Stripe Just Bought OpenRouter for $7B+ — and That Is the Most Important AI Story of the Week](https://dev.to/amrree/stripe-just-bought-openrouter-for-7b-and-that-is-the-most-important-ai-story-of-the-week-4kc9)
-- [Python Scope, First-Class Functions, *args,**kwargs &amp; Mutable Default Arguments](https://dev.to/deepika_pusala/python-scope-first-class-functions-argskwargs-mutable-default-arguments-1dbc)
-- [Skills Sprawl: When Too Much of a Good Thing Confuses Your AI Agent](https://dev.to/gde/skills-sprawl-when-too-much-of-a-good-thing-confuses-your-ai-agent-4nij)
+- [Mastering Salesforce Automation: A Complete Guide to Centralized Test Locators](https://dev.to/shell_qa/mastering-salesforce-automation-a-complete-guide-to-centralized-test-locators-25ln)
+- [WebSockets: How Real-Time Communication Works](https://dev.to/tanu_priya/websockets-how-real-time-communication-works-4500)
+- [AI is writing more of our code every day. But are we paying close attention to what happens when that code quietly fails?](https://dev.to/cloudnestle/ai-is-writing-more-of-our-code-every-day-but-are-we-paying-close-attention-to-what-happens-when-185f)
+- [I Didn&#39;t Want My AI Agent to Have a Database Password, So I Built a Gateway](https://dev.to/ivenin/i-didnt-want-my-ai-agent-to-have-a-database-password-so-i-built-a-gateway-3770)
+- [What Happens When You Create a Pod in Kubernetes?](https://dev.to/naveens16/what-happens-when-you-create-a-pod-in-kubernetes-5p8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
