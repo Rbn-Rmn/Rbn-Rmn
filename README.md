@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My team went too fast with AI coding, and now we&#39;re drowning in tech debt](https://dev.to/richard_smith_154156d471ef/my-team-went-too-fast-with-ai-coding-and-now-were-drowning-in-tech-debt-5hl0)
-- [Cursor vs GitHub Copilot vs Windsurf: Which AI Code Editor Wins in 2026?](https://dev.to/truongandev/cursor-vs-github-copilot-vs-windsurf-which-ai-code-editor-wins-in-2026-46g0)
-- [Export a Database Data Dictionary: HTML, Markdown and Excel from Your ERD](https://dev.to/tbson87/export-a-database-data-dictionary-html-markdown-and-excel-from-your-erd-4oo7)
-- [Prove a Generated Migration Can Undo Itself Before It Touches Your Data](https://dev.to/codepy_1473/prove-a-generated-migration-can-undo-itself-before-it-touches-your-data-gi0)
-- [Usage Metering in Go SDKs: Cryptographic Receipts, Tamper-Evident Counters, and the Offline Grace Problem](https://dev.to/neeraj_singhi_golang/usage-metering-in-go-sdks-cryptographic-receipts-tamper-evident-counters-and-the-offline-grace-c3m)
+- [I found code in my repo I&#39;d never seen. All 82 tests passed. I quarantined it for three days anyway.](https://dev.to/achiya-automation/i-found-code-in-my-repo-id-never-seen-all-82-tests-passed-i-quarantined-it-for-three-days-anyway-33go)
+- [MCP Is Going Stateless: What Changed and How I Migrated My Currency Converter Server](https://dev.to/dilumdarshana/mcp-is-going-stateless-what-changed-and-how-i-migrated-my-currency-converter-server-olm)
+- [Caninography](https://dev.to/maisamabbas0323/caninography-36g5)
+- [Building a Production-Ready Chat Application: From Zero to Live](https://dev.to/engineersabir/building-a-production-ready-chat-application-from-zero-to-live-55dl)
+- [PawServe: AI Symptom Help, Breed Finder &amp; Real Vet Care in One Place](https://dev.to/m1raclescr1pt/pawserve-ai-symptom-help-breed-finder-real-vet-care-in-one-place-5b1g)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
