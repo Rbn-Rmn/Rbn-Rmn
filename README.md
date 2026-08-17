@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Network Devices Explained — The Foundation Every Cloud &amp; DevOps Engineer Needs](https://dev.to/tejas_shinkar/network-devices-explained-the-foundation-every-cloud-devops-engineer-needs-218a)
-- [Why I left Warehouse out of our Fabric deployment scope](https://dev.to/vedaforge_eng/why-i-left-warehouse-out-of-our-fabric-deployment-scope-2jca)
-- [The Day I Realized I Wasn&#39;t Building Apps](https://dev.to/ashb4/the-day-i-realized-i-wasnt-building-apps-14fm)
-- [Why Your Generated Tone Clicks, and How an Envelope Fixes It](https://dev.to/mwiginton/why-your-generated-tone-clicks-and-how-an-envelope-fixes-it-1p89)
-- [Faire tourner Qwen 3.8–27B en local avec Unsloth et DeepSeek Harness sur une RTX 3090 &lpar;24 Go&rpar; sous Windows 11.](https://dev.to/jacquesgariepy/faire-tourner-qwen-38-27b-en-local-avec-unsloth-et-deepseek-harness-sur-une-rtx-3090-24-go-sous-5144)
+- [Overview of the RTOS Kernel Project](https://dev.to/cangulmez/overview-of-the-rtos-kernel-project-lca)
+- [The Ecology of Engineering Teams](https://dev.to/druid628/the-ecology-of-engineering-teams-3jgg)
+- [Copilot Autofix Introduced a Critical CI/CD Bug at Snowflake. Here&#39;s How to Harden GitHub Actions](https://dev.to/jamilxt/copilot-autofix-introduced-a-critical-cicd-bug-at-snowflake-heres-how-to-harden-github-actions-1pf)
+- [Understanding Async Programming](https://dev.to/techwithmatheus/understanding-async-programming-4mei)
+- [Cutting Cloud Costs with a Few Habits](https://dev.to/cloudfrontier/cutting-cloud-costs-with-a-few-habits-2b1b)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
