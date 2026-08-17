@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Salesforce Automation: A Complete Guide to Centralized Test Locators](https://dev.to/shell_qa/mastering-salesforce-automation-a-complete-guide-to-centralized-test-locators-25ln)
-- [WebSockets: How Real-Time Communication Works](https://dev.to/tanu_priya/websockets-how-real-time-communication-works-4500)
-- [AI is writing more of our code every day. But are we paying close attention to what happens when that code quietly fails?](https://dev.to/cloudnestle/ai-is-writing-more-of-our-code-every-day-but-are-we-paying-close-attention-to-what-happens-when-185f)
-- [I Didn&#39;t Want My AI Agent to Have a Database Password, So I Built a Gateway](https://dev.to/ivenin/i-didnt-want-my-ai-agent-to-have-a-database-password-so-i-built-a-gateway-3770)
-- [What Happens When You Create a Pod in Kubernetes?](https://dev.to/naveens16/what-happens-when-you-create-a-pod-in-kubernetes-5p8)
+- [Two Ways to Write an Article in 2026 &lpar;And Why the Best Ones Use Both&rpar;](https://dev.to/mbilalkhan192003/two-ways-to-write-an-article-in-2026-and-why-the-best-ones-use-both-5mb)
+- [What Is an MCP Eval? Why Your Server Passes Every Test and Still Fails](https://dev.to/rupa_tiwari_dd308948d710f/what-is-an-mcp-eval-why-your-server-passes-every-test-and-still-fails-41gf)
+- [&quot;def,drop,obs,abs-The Words That Broke Me First&quot;](https://dev.to/sanchisharma/defdropobsabs-the-words-that-broke-me-first-398i)
+- [A Claude Code skill fixed my app&#39;s UI — here&#39;s what broke and how to use it yourself](https://dev.to/tony_stark_h/a-claude-code-skill-fixed-my-apps-ui-heres-what-broke-and-how-to-use-it-yourself-1k0g)
+- [Marketplace Data Security: The Multi-Vendor Open Secret](https://dev.to/mercur/marketplace-data-security-the-multi-vendor-open-secret-2f68)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
