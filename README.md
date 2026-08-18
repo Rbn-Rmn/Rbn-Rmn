@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Armed Bandit Testing: How It Works and When to Use](https://dev.to/david_sert/multi-armed-bandit-testing-how-it-works-and-when-to-use-1ldd)
-- [When Rider Forgets How to Write Assembly Definitions: My Day-Long Fight With UnityAtoms](https://dev.to/giovarco/the-rider-bug-thats-probably-already-in-your-project-you-just-havent-noticed-yet-2p0c)
-- [How to Choose a Minimum Detectable Effect &lpar;MDE&rpar;](https://dev.to/david_sert/how-to-choose-a-minimum-detectable-effect-mde-2k31)
-- [Why I Chose Text Classification Tagging APIs: OpenAI, Claude, Gemini JSON Accuracy](https://dev.to/elvrythn486209/why-i-chose-text-classification-tagging-apis-openai-claude-gemini-json-accuracy-37ed)
-- [Next.js in 2026: honest practitioner take on what&#39;s working and what isn&#39;t](https://dev.to/nayankyada/nextjs-in-2026-honest-practitioner-take-on-whats-working-and-what-isnt-4j36)
+- [AI Observability Explained: What It Is and How It Works](https://dev.to/swapnoneel123/ai-observability-explained-what-it-is-and-how-it-works-487)
+- [Mongodb Partitioning](https://dev.to/vincent_couturier_91/mongodb-partitioning-o35)
+- [[Technical Discussion] IPC Message Queue Tuning for WLOADCTL on Linux](https://dev.to/weeli_632477a9c141395/technical-discussion-ipc-message-queue-tuning-for-wloadctl-on-linux-3pe5)
+- [TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks](https://dev.to/jsmanifest/typescript-60-strict-function-types-why-contravariance-breaks-your-existing-callbacks-5enk)
+- [The Matte Learns Only Inside the Band](https://dev.to/romiteld/the-matte-learns-only-inside-the-band-jn6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
