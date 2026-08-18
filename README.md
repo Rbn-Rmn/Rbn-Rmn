@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Python Performance Profiling: Find Bottlenecks and Optimize Slow Code](https://dev.to/davis_mark_4114bbd22f732f/python-performance-profiling-find-bottlenecks-and-optimize-slow-code-mla)
-- [10 Common ARIA Mistakes in React &amp; Next.js &lpar;And How to Fix Them&rpar;](https://dev.to/willsun/10-common-aria-mistakes-in-react-nextjs-and-how-to-fix-them-577n)
-- [What a Single File Name Taught Me About IDOR &lpar;PortSwigger Lab&rpar;](https://dev.to/david_essien/what-a-single-file-name-taught-me-about-idor-portswigger-lab-42l2)
-- [Stop trusting LLM &#39;hallucinated success&#39;](https://dev.to/renato_marinho/stop-trusting-llm-hallucinated-success-cmj)
-- [React scrollIntoView with useRef: Scroll to an Element &lpar;2026&rpar;](https://dev.to/childrentime/react-scrollintoview-with-useref-scroll-to-an-element-2026-4ha4)
+- [Why I Built xAgent](https://dev.to/coffeehc/why-i-built-xagent-2m3o)
+- [I Edited the Task Mid-Flight. The Agent Stopped Instead of Guessing.](https://dev.to/nomurasan/i-edited-the-task-mid-flight-the-agent-stopped-instead-of-guessing-387)
+- [🚀 30 React.js Interview Questions You Should Know Before Your Next Frontend Interview ⚛️](https://dev.to/rashmi_roy_447a69fec6d340/30-reactjs-interview-questions-you-should-know-before-your-next-frontend-interview-1l8l)
+- [Building OopsCalorie: When Your AI Thinks Dinuguan Is Champorado 😂](https://dev.to/chimkennuggyszdev/building-oopscalorie-when-your-ai-thinks-dinuguan-is-champorado-4961)
+- [🤖 AI agents are becoming “digital employees”](https://dev.to/ashutosh_maurya/ai-agents-are-becoming-digital-employees-3p74)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
