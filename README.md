@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your coding agent bills per task, not per token](https://dev.to/tokenlat/your-coding-agent-bills-per-task-not-per-token-40ai)
-- [Tired of Subscriptions, So I Built My Own Server](https://dev.to/ashusosuke/tired-of-subscriptions-so-i-built-my-own-server-14m)
-- [Why Some Companies Are Pulling Back on AI Coding](https://dev.to/techytcm/why-some-companies-are-pulling-back-on-ai-coding-184p)
-- [Why &quot;Humanize My Writing&quot; Tools Don&#39;t Work](https://dev.to/ashwinsathian/why-humanize-my-writing-tools-dont-work-3l76)
-- [How to Push Back on an Unrealistic Deadline Without Damaging the Relationship](https://dev.to/ayushi_kumari_22cee92b18f/how-to-push-back-on-an-unrealistic-deadline-without-damaging-the-relationship-4aig)
+- [What to do when a Google Play closed test counter resets](https://dev.to/devconnect/what-to-do-when-a-google-play-closed-test-counter-resets-37p)
+- [I watched my LLM bill for 30 days. The 30x cache lever is real.](https://dev.to/caresodev/i-watched-my-llm-bill-for-30-days-the-30x-cache-lever-is-real-2hp9)
+- [Building a Home Lab with a Lenovo ThinkCentre M920q](https://dev.to/cdieck88/building-a-home-lab-with-a-lenovo-thinkcentre-m920q-5369)
+- [DeepSeek Harness &lpar;`dsh`&rpar; 插件开发教程](https://dev.to/henry_lin_3ac6363747f45b4/deepseek-harness-dsh-cha-jian-kai-fa-jiao-cheng-4h6j)
+- [Synced, Healthy, Running, Wrong](https://dev.to/jeromefromhk/synced-healthy-running-wrong-2ak2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
