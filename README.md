@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What 802.1X Actually Proves, and the Checkbox That Decides It](https://dev.to/havenmessenger/what-8021x-actually-proves-and-the-checkbox-that-decides-it-4d89)
-- [MAI-Thinking-1 Is Now in Foundry — Here&#39;s What It Means If You Write C#](https://dev.to/taswar_bhatti/mai-thinking-1-is-now-in-foundry-heres-what-it-means-if-you-write-c-4bn9)
-- [Agent-Scoped Memory in Deep Agents: Sharing Memory Across Conversations](https://dev.to/syeedmdtalha/agent-scoped-memory-in-deep-agents-sharing-memory-across-conversations-18c2)
-- [Build a Tiny Tool-Result Gatekeeper Before You Trust an Agent&#39;s &#39;Done&#39;](https://dev.to/magickong/build-a-tiny-tool-result-gatekeeper-before-you-trust-an-agents-done-1p2i)
-- [A Free Model Returned Markdown That NVDA Read as One Endless Sentence: Normalizing LLM Output Before It Reaches the Live Region](https://dev.to/babycat/a-free-model-returned-markdown-that-nvda-read-as-one-endless-sentence-normalizing-llm-output-457p)
+- [My Uptime Monitor Was Set to Every 5 Minutes. In July It Ran 15 Times a Day.](https://dev.to/mrviduus/my-uptime-monitor-was-set-to-every-5-minutes-in-july-it-ran-15-times-a-day-3if8)
+- [UPI Autopay and Recurring Payments in Flutter](https://dev.to/mryadavgulshan/upi-autopay-and-recurring-payments-in-flutter-gjf)
+- [Kimi K2 API Integration: A No-Fluff Getting Started](https://dev.to/zhangjj1988/kimi-k2-api-integration-a-no-fluff-getting-started-5361)
+- [One MCP server, eight AI clients: Apple Health setup that works everywhere](https://dev.to/philipad/one-mcp-server-eight-ai-clients-apple-health-setup-that-works-everywhere-4lcp)
+- [5 Cognitive Distortions That Kill Developer Productivity &lpar;And How to Catch Them&rpar;](https://dev.to/473185670/5-cognitive-distortions-that-kill-developer-productivity-and-how-to-catch-them-3p0m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
