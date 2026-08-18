@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I rewrite the game while it is still running](https://dev.to/atomijd/i-rewrite-the-game-while-it-is-still-running-411d)
-- [PrivaMesh – A Fascinating Discovery for Privacy Enthusiasts](https://dev.to/qw1styy/privamesh-a-fascinating-discovery-for-privacy-enthusiasts-4ocm)
-- [My home computers](https://dev.to/glenw/1-my-home-computers-1f6g)
-- [Universality Lives in Structure](https://dev.to/iroha1203/universality-lives-in-structure-3fcc)
-- [Kubernetes expertise: how to choose a consulting partner in 2026](https://dev.to/aroua_kaboubi_82466ca9a52/kubernetes-expertise-how-to-choose-a-consulting-partner-in-2026-4hmd)
+- [Startup or Enterprise? How to Pick the Right AI API Stack](https://dev.to/rileykim/startup-or-enterprise-how-to-pick-the-right-ai-api-stack-3h8i)
+- [Automating Daily Bluesky Posts with a JSON‑Driven Content Pipeline](https://dev.to/zaerohell/automating-daily-bluesky-posts-with-a-json-driven-content-pipeline-18b2)
+- [Why Go&#39;s encoding/csv Burns 540MB on 5M Rows &lpar;and How I Fixed It&rpar;](https://dev.to/fikrimohammad/why-gos-encodingcsv-burns-540mb-on-5m-rows-and-how-i-fixed-it-4m63)
+- [Hermes Bot Mode: I Built a Team of AI Agents That Hand Off Work to Each Other](https://dev.to/vivek_shetye/hermes-bot-mode-i-built-a-team-of-ai-agents-that-hand-off-work-to-each-other-a49)
+- [GPT-5.6 Sol Pricing Cut by 50%](https://dev.to/technoblogger14o3/gpt-56-sol-pricing-cut-by-50-5h58)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
