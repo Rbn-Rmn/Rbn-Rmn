@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My Uptime Monitor Was Set to Every 5 Minutes. In July It Ran 15 Times a Day.](https://dev.to/mrviduus/my-uptime-monitor-was-set-to-every-5-minutes-in-july-it-ran-15-times-a-day-3if8)
-- [UPI Autopay and Recurring Payments in Flutter](https://dev.to/mryadavgulshan/upi-autopay-and-recurring-payments-in-flutter-gjf)
-- [Kimi K2 API Integration: A No-Fluff Getting Started](https://dev.to/zhangjj1988/kimi-k2-api-integration-a-no-fluff-getting-started-5361)
-- [One MCP server, eight AI clients: Apple Health setup that works everywhere](https://dev.to/philipad/one-mcp-server-eight-ai-clients-apple-health-setup-that-works-everywhere-4lcp)
-- [5 Cognitive Distortions That Kill Developer Productivity &lpar;And How to Catch Them&rpar;](https://dev.to/473185670/5-cognitive-distortions-that-kill-developer-productivity-and-how-to-catch-them-3p0m)
+- [I rewrite the game while it is still running](https://dev.to/atomijd/i-rewrite-the-game-while-it-is-still-running-411d)
+- [PrivaMesh – A Fascinating Discovery for Privacy Enthusiasts](https://dev.to/qw1styy/privamesh-a-fascinating-discovery-for-privacy-enthusiasts-4ocm)
+- [My home computers](https://dev.to/glenw/1-my-home-computers-1f6g)
+- [Universality Lives in Structure](https://dev.to/iroha1203/universality-lives-in-structure-3fcc)
+- [Kubernetes expertise: how to choose a consulting partner in 2026](https://dev.to/aroua_kaboubi_82466ca9a52/kubernetes-expertise-how-to-choose-a-consulting-partner-in-2026-4hmd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
