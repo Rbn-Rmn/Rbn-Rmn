@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Startup or Enterprise? How to Pick the Right AI API Stack](https://dev.to/rileykim/startup-or-enterprise-how-to-pick-the-right-ai-api-stack-3h8i)
-- [Automating Daily Bluesky Posts with a JSON‑Driven Content Pipeline](https://dev.to/zaerohell/automating-daily-bluesky-posts-with-a-json-driven-content-pipeline-18b2)
-- [Why Go&#39;s encoding/csv Burns 540MB on 5M Rows &lpar;and How I Fixed It&rpar;](https://dev.to/fikrimohammad/why-gos-encodingcsv-burns-540mb-on-5m-rows-and-how-i-fixed-it-4m63)
-- [Hermes Bot Mode: I Built a Team of AI Agents That Hand Off Work to Each Other](https://dev.to/vivek_shetye/hermes-bot-mode-i-built-a-team-of-ai-agents-that-hand-off-work-to-each-other-a49)
-- [GPT-5.6 Sol Pricing Cut by 50%](https://dev.to/technoblogger14o3/gpt-56-sol-pricing-cut-by-50-5h58)
+- [Google Tests AI Mode Shortcuts in Desktop Search for Images, Files and Brainstorming](https://dev.to/alifar/google-tests-ai-mode-shortcuts-in-desktop-search-for-images-files-and-brainstorming-44jm)
+- [Why Does Every AI Agent Still Look Like `while &lpar;true&rpar; { ... }`?](https://dev.to/tomsun28/why-does-every-ai-agent-still-look-like-while-true--258a)
+- [I Tried Every Dark Theme in Codex Skin Studio. Here Is What Actually Works.](https://dev.to/ahmed_isam_752b775a50fd90/i-tried-every-dark-theme-in-codex-skin-studio-here-is-what-actually-works-21hd)
+- [Why AI Coding Agents Silently Break Full-Stack Apps &lpar;And How We Solved It in 0.75ms&rpar;](https://dev.to/zainulabideen02/why-ai-coding-agents-silently-break-full-stack-apps-and-how-we-solved-it-in-075ms-2haa)
+- [Building a Video Thumbnail Generator Service with Go and FFmpeg Workers](https://dev.to/ahmet_gedik778845/building-a-video-thumbnail-generator-service-with-go-and-ffmpeg-workers-h52)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
