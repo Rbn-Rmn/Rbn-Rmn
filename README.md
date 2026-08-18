@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI Observability Explained: What It Is and How It Works](https://dev.to/swapnoneel123/ai-observability-explained-what-it-is-and-how-it-works-487)
-- [Mongodb Partitioning](https://dev.to/vincent_couturier_91/mongodb-partitioning-o35)
-- [[Technical Discussion] IPC Message Queue Tuning for WLOADCTL on Linux](https://dev.to/weeli_632477a9c141395/technical-discussion-ipc-message-queue-tuning-for-wloadctl-on-linux-3pe5)
-- [TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks](https://dev.to/jsmanifest/typescript-60-strict-function-types-why-contravariance-breaks-your-existing-callbacks-5enk)
-- [The Matte Learns Only Inside the Band](https://dev.to/romiteld/the-matte-learns-only-inside-the-band-jn6)
+- [Your coding agent bills per task, not per token](https://dev.to/tokenlat/your-coding-agent-bills-per-task-not-per-token-40ai)
+- [Tired of Subscriptions, So I Built My Own Server](https://dev.to/ashusosuke/tired-of-subscriptions-so-i-built-my-own-server-14m)
+- [Why Some Companies Are Pulling Back on AI Coding](https://dev.to/techytcm/why-some-companies-are-pulling-back-on-ai-coding-184p)
+- [Why &quot;Humanize My Writing&quot; Tools Don&#39;t Work](https://dev.to/ashwinsathian/why-humanize-my-writing-tools-dont-work-3l76)
+- [How to Push Back on an Unrealistic Deadline Without Damaging the Relationship](https://dev.to/ayushi_kumari_22cee92b18f/how-to-push-back-on-an-unrealistic-deadline-without-damaging-the-relationship-4aig)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
