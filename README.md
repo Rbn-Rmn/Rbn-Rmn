@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a NIST AI RMF-Compliant RAG System for Regulated Domains](https://dev.to/lakshman_pandey_73f56c8f0/how-i-built-a-nist-ai-rmf-compliant-rag-system-for-regulated-domains-jch)
-- [Three Ways to Monitor Prepaid API Balances &lpar;Excel, Python + Cron, Power Automate&rpar;](https://dev.to/saint_vandora/three-ways-to-monitor-prepaid-api-balances-excel-python-cron-power-automate-eja)
-- [Cybersecurity from Zero to Hero #2: Threats, Vulnerabilities and Risk Are Not the Same Thing](https://dev.to/sachinpk/cybersecurity-from-zero-to-hero-2-threats-vulnerabilities-and-risk-are-not-the-same-thing-55n6)
-- [The Art of Code Formatting](https://dev.to/sukkergris/the-art-of-code-formatting-16gj)
-- [HackCanton Season 2 Recap: From 75+ Teams to $10K + 100K CC in Rewards](https://dev.to/noders/hackcanton-season-2-recap-from-75-teams-to-10k-100k-cc-in-rewards-262i)
+- [What 802.1X Actually Proves, and the Checkbox That Decides It](https://dev.to/havenmessenger/what-8021x-actually-proves-and-the-checkbox-that-decides-it-4d89)
+- [MAI-Thinking-1 Is Now in Foundry — Here&#39;s What It Means If You Write C#](https://dev.to/taswar_bhatti/mai-thinking-1-is-now-in-foundry-heres-what-it-means-if-you-write-c-4bn9)
+- [Agent-Scoped Memory in Deep Agents: Sharing Memory Across Conversations](https://dev.to/syeedmdtalha/agent-scoped-memory-in-deep-agents-sharing-memory-across-conversations-18c2)
+- [Build a Tiny Tool-Result Gatekeeper Before You Trust an Agent&#39;s &#39;Done&#39;](https://dev.to/magickong/build-a-tiny-tool-result-gatekeeper-before-you-trust-an-agents-done-1p2i)
+- [A Free Model Returned Markdown That NVDA Read as One Endless Sentence: Normalizing LLM Output Before It Reaches the Live Region](https://dev.to/babycat/a-free-model-returned-markdown-that-nvda-read-as-one-endless-sentence-normalizing-llm-output-457p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
