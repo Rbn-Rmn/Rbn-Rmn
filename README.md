@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What to do when a Google Play closed test counter resets](https://dev.to/devconnect/what-to-do-when-a-google-play-closed-test-counter-resets-37p)
-- [I watched my LLM bill for 30 days. The 30x cache lever is real.](https://dev.to/caresodev/i-watched-my-llm-bill-for-30-days-the-30x-cache-lever-is-real-2hp9)
-- [Building a Home Lab with a Lenovo ThinkCentre M920q](https://dev.to/cdieck88/building-a-home-lab-with-a-lenovo-thinkcentre-m920q-5369)
-- [DeepSeek Harness &lpar;`dsh`&rpar; 插件开发教程](https://dev.to/henry_lin_3ac6363747f45b4/deepseek-harness-dsh-cha-jian-kai-fa-jiao-cheng-4h6j)
-- [Synced, Healthy, Running, Wrong](https://dev.to/jeromefromhk/synced-healthy-running-wrong-2ak2)
+- [CDN: How Websites Serve Content Faster Globally](https://dev.to/tanu_priya/cdn-how-websites-serve-content-faster-globally-5ahk)
+- [Vector Search Lands in DynamoDB Natively — Issue #89](https://dev.to/devsignal/vector-search-lands-in-dynamodb-natively-issue-89-3n0c)
+- [n8n Adds an AI Stock-Analysis Template With Automated Buy, Hold, or Sell Reports](https://dev.to/alifar/n8n-adds-an-ai-stock-analysis-template-with-automated-buy-hold-or-sell-reports-peg)
+- [How to Configure Full Parallel Execution in a Hybrid &lpar;Data &amp; Keyword-Driven&rpar; Framework](https://dev.to/shell_qa/how-to-configure-full-parallel-execution-in-a-hybrid-data-keyword-driven-framework-3dch)
+- [Mobile Gameplay Performance Optimization](https://dev.to/weirdcodesofficial/mobile-gameplay-performance-optimization-3bo8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
