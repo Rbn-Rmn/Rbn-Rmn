@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Keyword Research Across Countries: Volume, CPC &amp; SEO Difficulty](https://dev.to/carllowman/keyword-research-across-countries-volume-cpc-seo-difficulty-1i78)
-- [Grounding an LLM in real tax data with a public MCP server](https://dev.to/d_edu_eebba6de1155fe/grounding-an-llm-in-real-tax-data-with-a-public-mcp-server-5h58)
-- [Can We Stop Running Recurring Analysis as a Scheduled LLM Prompt?](https://dev.to/toohsk/can-we-stop-running-recurring-analysis-as-a-scheduled-llm-prompt-5eo9)
-- [6 Node.js Tenant Guardrails for Cheap Invoice RAG &lpar;Count Embeddings and LLM Spend&rpar;](https://dev.to/finnianfox8297/6-nodejs-tenant-guardrails-for-cheap-invoice-rag-count-embeddings-and-llm-spend-570g)
-- [Demystifying Dependency Injection: Writing Code That Doesn&#39;t Break When Things Change](https://dev.to/saurav_tb_pandey/demystifying-dependency-injection-writing-code-that-doesnt-break-when-things-change-1mnd)
+- [Building Your Second Me: A Practical Framework for Encoding Yourself into an AI Agent](https://dev.to/sanyaduan/building-your-second-me-a-practical-framework-for-encoding-yourself-into-an-ai-agent-59kl)
+- [We Built 154 City Landing Pages by Hand. Here Is What Actually Mattered.](https://dev.to/gyeoh/we-built-154-city-landing-pages-by-hand-here-is-what-actually-mattered-5d73)
+- [Replayable Node.js Content Moderation Contracts for JSON Chat Completions](https://dev.to/briarvoss47291/replayable-nodejs-content-moderation-contracts-for-json-chat-completions-4ch0)
+- [What Happens If Your Password Manager’s Master Password Is Compromised?](https://dev.to/mahavault/what-happens-if-your-password-managers-master-password-is-compromised-3k3h)
+- [Your sysctl says one thing, the kernel says another](https://dev.to/ricco020/your-sysctl-says-one-thing-the-kernel-says-another-4gha)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
