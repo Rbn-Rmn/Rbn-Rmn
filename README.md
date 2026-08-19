@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Flutter vs React Native in 2026: A Technical Comparison](https://dev.to/kumudha_a/flutter-vs-react-native-in-2026-a-technical-comparison-kl4)
-- [Never split the money on payment success](https://dev.to/danzizhangdev/never-split-the-money-on-payment-success-32ob)
-- [Twinify 1.0.2: A Look at the Latest Performance Improvements](https://dev.to/stevenkamwaza/twinify-102-a-look-at-the-latest-performance-improvements-lap)
-- [The Fundamentals of AI Engineering - EP 01](https://dev.to/kbzaman2/the-fundamentals-of-ai-engineering-ep-01-1949)
-- [how die&lpar;&rpar; helps you in debugging &lpar;PHP&rpar;](https://dev.to/burirodev/how-die-help-you-in-debugging-php-2pb4)
+- [Distributed Locking in Practice: Guarantees, Failure Scenarios and Better Alternatives &lpar;3/4&rpar;](https://dev.to/morpheus-vera/distributed-locking-in-practice-guarantees-failure-scenarios-and-better-alternatives-34-494m)
+- [Decode JWT Payloads Locally: What the Claims Tell You &lpar;and Don&#39;t&rpar;](https://dev.to/wendygostudio/decode-jwt-payloads-locally-what-the-claims-tell-you-and-dont-9ih)
+- [AI Engineer: The Role Your Company Needs](https://dev.to/seredasv/ai-engineer-the-role-your-company-needs-160p)
+- [We’re all full stack now](https://dev.to/conw_y/were-all-full-stack-now-4l53)
+- [5 Istio misconfigurations that istioctl analyze won&#39;t catch](https://dev.to/n0rm4l/5-istio-misconfigurations-that-istioctl-analyze-wont-catch-3h9j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
