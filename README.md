@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I fixed one silent failure and stopped looking. A review found three more](https://dev.to/tinyproof/i-fixed-one-silent-failure-and-stopped-looking-a-review-found-three-more-3hf1)
-- [Show HN: Designing the GUI for AI Agents](https://dev.to/felipejac/show-hn-designing-the-gui-for-ai-agents-2djp)
-- [Shared Memory Graph for Claude &amp; ChatGPT Over MCP](https://dev.to/felipejac/shared-memory-graph-for-claude-chatgpt-over-mcp-27km)
-- [How I Organize and Ship Small Open‑Source Projects](https://dev.to/fmeso/how-i-organize-and-ship-small-open-source-projects-iaf)
-- [Real‑time MCP Interceptor Blocks .env Reads and Dangerous Commands fo…](https://dev.to/felipejac/real-time-mcp-interceptor-blocks-env-reads-and-dangerous-commands-fo-54g9)
+- [Your idempotency test probably cannot fail](https://dev.to/igor_potapenko/your-idempotency-test-probably-cannot-fail-39g0)
+- [Truncated JSON from a streaming model: 21 parsers, 25 truncated cases, 12 score 0/25](https://dev.to/toolkitlabs/truncated-json-from-a-streaming-model-21-parsers-25-truncated-cases-12-score-025-4hfm)
+- [Agentic AI Vocabulary for DevOps: 12 Terms You Already Operate Under Another Name](https://dev.to/devopsdaily/agentic-ai-vocabulary-for-devops-12-terms-you-already-operate-under-another-name-4la7)
+- [I Turned On Cache Components in Next.js 16.3. It Refused to Build My Simplest Page.](https://dev.to/shubhradev/i-turned-on-cache-components-in-nextjs-163-it-refused-to-build-my-simplest-page-3ak0)
+- [When My Laravel Queue Kept Stopping, the Queue Wasn&#39;t the Real Problem](https://dev.to/meera9/when-my-laravel-queue-kept-stopping-the-queue-wasnt-the-real-problem-561b)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
