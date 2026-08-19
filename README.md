@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [MiniMax H3 Beyond Basic Generation: R2V, Video Editing, Voice Cloning, and Agent-Written Prompts](https://dev.to/gridport/minimax-h3-beyond-basic-generation-r2v-video-editing-voice-cloning-and-agent-written-prompts-3j8m)
-- [Recover a Bricked Framework 13 with a DIY USB Flash](https://dev.to/robust_true_try/recover-a-bricked-framework-13-with-a-diy-usb-flash-9li)
-- [The AI Review Trap: Why 9 Out of 10 Models Just Parrot Your Docs](https://dev.to/insight105/the-ai-review-trap-why-9-out-of-10-models-just-parrot-your-docs-d67)
-- [Circular Foreign Keys: Why the First Row Cannot Be Inserted](https://dev.to/tbson87/circular-foreign-keys-why-the-first-row-cannot-be-inserted-30h5)
-- [PostgreSQL timestamp vs timestamptz: Which to Use and How to Find the Wrong Ones](https://dev.to/tbson87/postgresql-timestamp-vs-timestamptz-which-to-use-and-how-to-find-the-wrong-ones-57cf)
+- [The Hottest AI Framework Right Now Has a Fatal Flaw Nobody Mentions](https://dev.to/aibughunter/the-hottest-ai-framework-right-now-has-a-fatal-flaw-nobody-mentions-40bg)
+- [Forminator Forms &lpar;CVE-2026-15748&rpar;: Unauthenticated RCE via Forged Upload Settings in Select Fields](https://dev.to/anoymask/forminator-forms-cve-2026-15748-unauthenticated-rce-via-forged-upload-settings-in-select-fields-350o)
+- [Clop&#39;s Windchill Web Shell: From Credential Decryption to Design Data Theft Inside the App](https://dev.to/anoymask/clops-windchill-web-shell-from-credential-decryption-to-design-data-theft-inside-the-app-5g9j)
+- [Two GitLab GraphQL Vulnerabilities: Unauthenticated Data Tampering and CSRF](https://dev.to/anoymask/two-gitlab-graphql-vulnerabilities-unauthenticated-data-tampering-and-csrf-2m53)
+- [open-doc: Letting Antigravity and Other Coding Agents Fully Own Document Layout and Generation](https://dev.to/gde/open-doc-letting-antigravity-and-other-coding-agents-fully-own-document-layout-and-generation-3pak)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
