@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Hottest AI Framework Right Now Has a Fatal Flaw Nobody Mentions](https://dev.to/aibughunter/the-hottest-ai-framework-right-now-has-a-fatal-flaw-nobody-mentions-40bg)
-- [Forminator Forms &lpar;CVE-2026-15748&rpar;: Unauthenticated RCE via Forged Upload Settings in Select Fields](https://dev.to/anoymask/forminator-forms-cve-2026-15748-unauthenticated-rce-via-forged-upload-settings-in-select-fields-350o)
-- [Clop&#39;s Windchill Web Shell: From Credential Decryption to Design Data Theft Inside the App](https://dev.to/anoymask/clops-windchill-web-shell-from-credential-decryption-to-design-data-theft-inside-the-app-5g9j)
-- [Two GitLab GraphQL Vulnerabilities: Unauthenticated Data Tampering and CSRF](https://dev.to/anoymask/two-gitlab-graphql-vulnerabilities-unauthenticated-data-tampering-and-csrf-2m53)
-- [open-doc: Letting Antigravity and Other Coding Agents Fully Own Document Layout and Generation](https://dev.to/gde/open-doc-letting-antigravity-and-other-coding-agents-fully-own-document-layout-and-generation-3pak)
+- [Keyword Research Across Countries: Volume, CPC &amp; SEO Difficulty](https://dev.to/carllowman/keyword-research-across-countries-volume-cpc-seo-difficulty-1i78)
+- [Grounding an LLM in real tax data with a public MCP server](https://dev.to/d_edu_eebba6de1155fe/grounding-an-llm-in-real-tax-data-with-a-public-mcp-server-5h58)
+- [Can We Stop Running Recurring Analysis as a Scheduled LLM Prompt?](https://dev.to/toohsk/can-we-stop-running-recurring-analysis-as-a-scheduled-llm-prompt-5eo9)
+- [6 Node.js Tenant Guardrails for Cheap Invoice RAG &lpar;Count Embeddings and LLM Spend&rpar;](https://dev.to/finnianfox8297/6-nodejs-tenant-guardrails-for-cheap-invoice-rag-count-embeddings-and-llm-spend-570g)
+- [Demystifying Dependency Injection: Writing Code That Doesn&#39;t Break When Things Change](https://dev.to/saurav_tb_pandey/demystifying-dependency-injection-writing-code-that-doesnt-break-when-things-change-1mnd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
