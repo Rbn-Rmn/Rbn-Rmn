@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Privacy Layer for AI Coding Tools — CodeMask UI and CodeMask Proxy](https://dev.to/shubhamdevops/i-built-a-privacy-layer-for-ai-coding-tools-codemask-ui-and-codemask-proxy-3ne6)
-- [Agent Memory: Everything It Remembers Has the Same Authority, and That Is the Bug](https://dev.to/izgorodin/your-agent-doesnt-need-more-memory-it-needs-to-know-what-its-allowed-to-believe-22j7)
-- [Replit Free Mode May Signal a New Role for OpenAI GPT-5.6 Luna in Developer Tools](https://dev.to/alifar/replit-free-mode-may-signal-a-new-role-for-openai-gpt-56-luna-in-developer-tools-3ah7)
-- [Beyond the Chat Box: OpenAI&#39;s OS-level Agent and Its Plaintext Problem](https://dev.to/albertomontagnese/beyond-the-chat-box-openais-os-level-agent-and-its-plaintext-problem-3aek)
-- [Debugging Like a Jedi: Finding the Bug in the Force](https://dev.to/timevolt/debugging-like-a-jedi-finding-the-bug-in-the-force-3h77)
+- [Quantum Computing: A Complete Learning Path](https://dev.to/malcolmlow/quantum-computing-a-complete-learning-path-3c67)
+- [Building an AI-Powered Security TUI with Rust and MCP](https://dev.to/owaspblt/building-an-ai-powered-security-tui-with-rust-and-mcp-oj9)
+- [# Build Log #1: Processing my first Sentinel-2 pass in 48 hours](https://dev.to/ptzivras/-build-log-1-processing-my-first-sentinel-2-pass-in-48-hours-8p9)
+- [Point-in-Time Fundamentals for Numerai Signals: Killing Lookahead in Your Feature Join](https://dev.to/tradevodata/point-in-time-fundamentals-for-numerai-signals-killing-lookahead-in-your-feature-join-1h54)
+- [Gemini in Chrome for Android Brings Agentic Browsing to Eligible U.S. Users](https://dev.to/alifar/gemini-in-chrome-for-android-brings-agentic-browsing-to-eligible-us-users-41fn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
