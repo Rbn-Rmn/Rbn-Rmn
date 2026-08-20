@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Perry Mason in: The Case of the Drifting Timer](https://dev.to/kickbuttowski80/perry-mason-in-the-case-of-the-drifting-timer-inj)
-- [Three of the First Four Alerts Were the Question&#39;s Fault](https://dev.to/henry_dan_81513dd35a2f540/three-of-the-first-four-alerts-were-the-questions-fault-4ldb)
-- [Introduction](https://dev.to/yagna_akkisetty_3edd2b7f5/introduction-1l27)
-- [Implementing IN statements using JooqTemplate](https://dev.to/javaer/implementing-in-statements-using-jooqtemplate-4fkc)
-- [What&#39;s New in Go 1.27: A Developer&#39;s Practical Guide](https://dev.to/adilaidev/whats-new-in-go-127-a-developers-practical-guide-622)
+- [Your Migration Guide Is Already Wrong](https://dev.to/james-coombs/your-migration-guide-is-already-wrong-3hjj)
+- [Why I Tell My AI Coding Agent: &quot;Prefer Dart Over Python&quot;](https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg)
+- [🧠 SnapMind is Back! A Long-Overdue Update](https://dev.to/louis7/snapmind-is-back-a-long-overdue-update-3lp6)
+- [Keyword queries were where keyword search lost](https://dev.to/p311/keyword-queries-were-where-keyword-search-lost-55l8)
+- [How to Size Local LLMs: VRAM, KV Cache, and Hardware Architecture in 2026](https://dev.to/minh_phuongnguyen_b13201/how-to-size-local-llms-vram-kv-cache-and-hardware-architecture-in-2026-2han)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
