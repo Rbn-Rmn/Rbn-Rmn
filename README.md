@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Chapter 2 &lpar;Part 2&rpar; Knowledge Retrieval Engine](https://dev.to/black_shadow_team/chapter-2-part-2knowledge-retrieval-engine-2op7)
-- [A benchmark is only as good as the model you use to grade it](https://dev.to/sara_bezjak/a-benchmark-is-only-as-good-as-the-model-you-use-to-grade-it-4h01)
-- [WebMCP Agentic Web: Debugging 2‑Second Latency Spikes](https://dev.to/amitesh0512/webmcp-agentic-web-debugging-2-second-latency-spikes-j3a)
-- [How to Convert PDF to Word in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-to-convert-pdf-to-word-in-the-browser-with-vue-3-and-pdf-lib-21co)
-- [Trust Scores for Agents: How a Trust Rating Actually Gets Computed](https://dev.to/dzhc/trust-scores-for-agents-how-a-trust-rating-actually-gets-computed-13l8)
+- [The Full Stack: Specs + Skills + Stewardship in a Single System](https://dev.to/diyaburman/the-full-stack-specs-skills-stewardship-in-a-single-system-3oa2)
+- [Flutter Payment Gateway Comparison: What Actually Works in India](https://dev.to/mryadavgulshan/flutter-payment-gateway-comparison-what-actually-works-in-india-49fb)
+- [Strands on AgentCore, Answering Two Other Clouds: The Contract, the Header, and the microVM](https://dev.to/aws-builders/strands-on-agentcore-answering-two-other-clouds-the-contract-the-header-and-the-microvm-4j6a)
+- [ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK](https://dev.to/gde/adk-beyond-its-own-tests-what-happens-when-your-agent-answers-a-client-that-is-not-adk-6f9)
+- [Understanding Chatbots and API Integration: Building a Better Support Experience](https://dev.to/muthushivani_a3e9694edaa0/understanding-chatbots-and-api-integration-building-a-better-support-experience-2j5l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
