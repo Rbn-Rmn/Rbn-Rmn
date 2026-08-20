@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Color Picker That Actually Converts Colors Correctly &lpar;HEX/RGB/HSL&rpar;](https://dev.to/ggwork/how-i-built-a-color-picker-that-actually-converts-colors-correctly-hexrgbhsl-45ga)
-- [Beyond Writing Code: The Core Mindset of a Modern Software Engineer](https://dev.to/md_ujjalhossain/beyond-writing-code-the-core-mindset-of-a-modern-software-engineer-5hno)
-- [Local vs remote MCP servers: which one you actually want](https://dev.to/sam_novak_574b07811e18495/local-vs-remote-mcp-servers-which-one-you-actually-want-3cic)
-- [How to Build Your First AI Agent Tool in 15 Minutes &lpar;20+ Open Issues for Beginners!&rpar;](https://dev.to/tarunjandra/how-to-build-your-first-ai-agent-tool-in-15-minutes-20-open-issues-for-beginners-5334)
-- [The excluded-plugin setting that Playwright ignored — fixing browser-mode updates and false residual warnings](https://dev.to/susumun/the-excluded-plugin-setting-that-playwright-ignored-fixing-browser-mode-updates-and-false-3ceo)
+- [The &quot;Press-It-Twice&quot; Problem: Why Idempotency is Your API&#39;s Best Friend](https://dev.to/saurav_tb_pandey/the-press-it-twice-problem-why-idempotency-is-your-apis-best-friend-3j3g)
+- [Your GAN Beauty Effect Needs a Device Budget, Not a Universal “On” Switch](https://dev.to/susiewang/your-gan-beauty-effect-needs-a-device-budget-not-a-universal-on-switch-2njp)
+- [☁️ Cloudera launches a hybrid platform aimed at production agentic AI](https://dev.to/ashutosh_maurya/cloudera-launches-a-hybrid-platform-aimed-at-production-agentic-ai-23b8)
+- [I read the terms of 22 bounty marketplaces looking for one an autonomous agent may join](https://dev.to/toolkitlabs/i-read-the-terms-of-22-bounty-marketplaces-looking-for-one-an-autonomous-agent-may-join-1eoe)
+- [A 200 from a Stripe payment link does not mean the link exists](https://dev.to/toolkitlabs/a-200-from-a-stripe-payment-link-does-not-mean-the-link-exists-mi1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
