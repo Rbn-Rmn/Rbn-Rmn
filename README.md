@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your Migration Guide Is Already Wrong](https://dev.to/james-coombs/your-migration-guide-is-already-wrong-3hjj)
-- [Why I Tell My AI Coding Agent: &quot;Prefer Dart Over Python&quot;](https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg)
-- [🧠 SnapMind is Back! A Long-Overdue Update](https://dev.to/louis7/snapmind-is-back-a-long-overdue-update-3lp6)
-- [Keyword queries were where keyword search lost](https://dev.to/p311/keyword-queries-were-where-keyword-search-lost-55l8)
-- [How to Size Local LLMs: VRAM, KV Cache, and Hardware Architecture in 2026](https://dev.to/minh_phuongnguyen_b13201/how-to-size-local-llms-vram-kv-cache-and-hardware-architecture-in-2026-2han)
+- [How I Built a Color Picker That Actually Converts Colors Correctly &lpar;HEX/RGB/HSL&rpar;](https://dev.to/ggwork/how-i-built-a-color-picker-that-actually-converts-colors-correctly-hexrgbhsl-45ga)
+- [Beyond Writing Code: The Core Mindset of a Modern Software Engineer](https://dev.to/md_ujjalhossain/beyond-writing-code-the-core-mindset-of-a-modern-software-engineer-5hno)
+- [Local vs remote MCP servers: which one you actually want](https://dev.to/sam_novak_574b07811e18495/local-vs-remote-mcp-servers-which-one-you-actually-want-3cic)
+- [How to Build Your First AI Agent Tool in 15 Minutes &lpar;20+ Open Issues for Beginners!&rpar;](https://dev.to/tarunjandra/how-to-build-your-first-ai-agent-tool-in-15-minutes-20-open-issues-for-beginners-5334)
+- [The excluded-plugin setting that Playwright ignored — fixing browser-mode updates and false residual warnings](https://dev.to/susumun/the-excluded-plugin-setting-that-playwright-ignored-fixing-browser-mode-updates-and-false-3ceo)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
