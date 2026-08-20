@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Free Model Was Slow, the Gateway Gave Up, and My Webhook Ran Twice](https://dev.to/codepy_1473/the-free-model-was-slow-the-gateway-gave-up-and-my-webhook-ran-twice-3l64)
-- [I Tested 4 Retry Strategies Against a Free Model Server. Naive Retries Made It Worse.](https://dev.to/gitlab_3188/i-tested-4-retry-strategies-against-a-free-model-server-naive-retries-made-it-worse-2io6)
-- [igbinary: half the Redis memory for one line of config](https://dev.to/kevariable/igbinary-half-the-redis-memory-for-one-line-of-config-3o13)
-- [PHP-FPM vs FrankenPHP classic vs Octane worker](https://dev.to/kevariable/php-fpm-vs-frankenphp-classic-vs-octane-worker-59oj)
-- [My First GitHub Project: From a Local Folder to Github Using Git and SSH](https://dev.to/alex_majale_d64efa6d81883/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-8e8)
+- [Every Trust Number Is a Numerator](https://dev.to/anp2network/every-trust-number-is-a-numerator-2lo3)
+- [Working on something big](https://dev.to/kaiditantrik/working-on-something-big-kee)
+- [The Design Workflow That Makes an Expo Template Stop Looking Like an Expo Template](https://dev.to/chris_fa_8fca9f4ba09d963/the-design-workflow-that-makes-an-expo-template-stop-looking-like-an-expo-template-1f08)
+- [WHY YOUR REACT APP RE-RENDERS TOO MUCH &lpar;AND WHAT ACTUALLY FIXES IT&rpar;](https://dev.to/qodors/why-your-react-app-re-renders-too-much-and-what-actually-fixes-it-3ofj)
+- [Your Claude Code Hooks Are Costing You Minutes a Day — Here&#39;s How I Measured It](https://dev.to/bokuwalily/your-claude-code-hooks-are-costing-you-minutes-a-day-heres-how-i-measured-it-4im4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
