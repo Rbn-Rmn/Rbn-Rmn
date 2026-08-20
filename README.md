@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Connect a Carrd Landing Page to Payhip Without Building a Backend](https://dev.to/frank_javiermercadopere/connect-a-carrd-landing-page-to-payhip-without-building-a-backend-ca5)
-- [acc vs acc_norm: Why Length Bias Skews LLM Eval Scores](https://dev.to/ji_ai/acc-vs-accnorm-why-length-bias-skews-llm-eval-scores-p6e)
-- [Give Your Java Agents a Memory - Session Management with Solon AI](https://dev.to/solonjava/give-your-java-agents-a-memory-session-management-with-solon-ai-2nja)
-- [Angular vs React: How I Decide Which to Use for a New Project](https://dev.to/savitawadje/angular-vs-react-how-i-decide-which-to-use-for-a-new-project-309b)
-- [Prompt Caching: First vs Repeat Request Costs](https://dev.to/bettertoken_ai/prompt-caching-first-vs-repeat-request-costs-3o59)
+- [Introducing Concilium: A Multi-Model Method for Hard Problems](https://dev.to/raicho_minev_f7f6baf70d35/introducing-concilium-a-multi-model-method-for-hard-problems-jem)
+- [Millions of log lines in PHP, at constant memory](https://dev.to/nessflow_8283f7335b896207/millions-of-log-lines-in-php-at-constant-memory-i7n)
+- [The &lt;geolocation&gt; element lands in Chrome 144](https://dev.to/leobaniak/the-element-lands-in-chrome-144-5g7m)
+- [I built an AI Shopify audit tool, then decided to take it back into my own hands](https://dev.to/builtbyvena/i-built-an-ai-shopify-audit-tool-then-decided-to-take-it-back-into-my-own-hands-jda)
+- [Blade, Inertia and Filament, on purpose](https://dev.to/nessflow_8283f7335b896207/blade-inertia-and-filament-on-purpose-3amn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
