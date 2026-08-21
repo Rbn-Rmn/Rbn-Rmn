@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 21st August 2026](https://dev.to/ziizium/security-news-weekly-round-up-21st-august-2026-4l44)
-- [How We Handle Client-Side CSV Merging Without Server Processing](https://dev.to/buildittheywillcome/how-we-handle-client-side-csv-merging-without-server-processing-25l8)
-- [OpenAI Rolls Out Flexible Codex Pricing for Business and Enterprise Teams](https://dev.to/alifar/openai-rolls-out-flexible-codex-pricing-for-business-and-enterprise-teams-1p3f)
-- [Building a Full Enterprise-Ready React + Spring Boot Auth Flow: An End-to-End Guide](https://dev.to/aswani_nayak_cdcb2fe8ee38/building-a-full-enterprise-ready-react-spring-boot-auth-flow-an-end-to-end-guide-pip)
-- [OpenAI GPT-5.6 Pricing Update Cuts Terra and Luna Costs, Leaves Sol Unchanged](https://dev.to/alifar/openai-gpt-56-pricing-update-cuts-terra-and-luna-costs-leaves-sol-unchanged-4ac7)
+- [Custom ImageMagick Filters for eZ Publish Thumbnails &lpar;2011&rpar;](https://dev.to/hamdi_laadhari/custom-imagemagick-filters-for-ez-publish-thumbnails-2011-4pim)
+- [My First UWA Widget for Netvibes and iGoogle &lpar;2009&rpar;](https://dev.to/hamdi_laadhari/my-first-uwa-widget-for-netvibes-and-igoogle-2009-2mln)
+- [GreaseMonkey, or How to Enhance Your Web Experience &lpar;2008&rpar;](https://dev.to/hamdi_laadhari/greasemonkey-or-how-to-enhance-your-web-experience-2008-2003)
+- [Hacking My Nabaztag: Reading MSN Messages Out Loud With a Talking Rabbit &lpar;2008&rpar;](https://dev.to/hamdi_laadhari/hacking-my-nabaztag-reading-msn-messages-out-loud-with-a-talking-rabbit-2008-4ifj)
+- [Fixing a Snapcraft Build that had been Broken for Two Years](https://dev.to/professortom/fixing-a-snapcraft-build-that-had-been-broken-for-two-years-1140)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
