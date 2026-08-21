@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Outputting Data: Why Sofya Beats Python in Simplicity](https://dev.to/simple_code/outputting-data-why-sofya-beats-python-in-simplicity-47pk)
-- [Your CI Pipeline Is the Most Privileged Machine You Own. You Have Never Scanned It.](https://dev.to/lucky3mc/your-ci-pipeline-is-the-most-privileged-machine-you-own-you-have-never-scanned-it-56cm)
-- [How to Build Real-Time AI Video Workflows with Server-Sent Events and Webhooks](https://dev.to/programmingcentral/how-to-build-real-time-ai-video-workflows-with-server-sent-events-and-webhooks-3h4k)
-- [Migrating an Express Backend to Vercel Functions Without Downtime](https://dev.to/gabbs279/migrating-an-express-backend-to-vercel-functions-without-downtime-3kal)
-- [Why Not to Use Monday.com](https://dev.to/brainbrutalism/why-not-to-use-mondaycom-2eb6)
+- [Security news weekly round-up - 21st August 2026](https://dev.to/ziizium/security-news-weekly-round-up-21st-august-2026-4l44)
+- [How We Handle Client-Side CSV Merging Without Server Processing](https://dev.to/buildittheywillcome/how-we-handle-client-side-csv-merging-without-server-processing-25l8)
+- [OpenAI Rolls Out Flexible Codex Pricing for Business and Enterprise Teams](https://dev.to/alifar/openai-rolls-out-flexible-codex-pricing-for-business-and-enterprise-teams-1p3f)
+- [Building a Full Enterprise-Ready React + Spring Boot Auth Flow: An End-to-End Guide](https://dev.to/aswani_nayak_cdcb2fe8ee38/building-a-full-enterprise-ready-react-spring-boot-auth-flow-an-end-to-end-guide-pip)
+- [OpenAI GPT-5.6 Pricing Update Cuts Terra and Luna Costs, Leaves Sol Unchanged](https://dev.to/alifar/openai-gpt-56-pricing-update-cuts-terra-and-luna-costs-leaves-sol-unchanged-4ac7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
