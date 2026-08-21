@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI Content Labels: Build Trust Signals Before Users Stop Believing the Page](https://dev.to/jackm-singularity/ai-content-labels-build-trust-signals-before-users-stop-believing-the-page-44c4)
-- [Column Comments in PostgreSQL and MySQL: How to Document Columns Without a Migration](https://dev.to/tbson87/column-comments-in-postgresql-and-mysql-how-to-document-columns-without-a-migration-2no0)
-- [Custom Domain Verification, DKIM Rotation, and Suppression for Transactional Email APIs](https://dev.to/frosty45/custom-domain-verification-dkim-rotation-and-suppression-for-transactional-email-apis-5c63)
-- [Your GitHub Actions cron fires less often than you declared: what we measured and how to design for it](https://dev.to/rulestack/your-github-actions-cron-fires-less-often-than-you-declared-what-we-measured-and-how-to-design-for-80f)
-- [HTML contenteditable Attribute](https://dev.to/code1/html-contenteditable-attribute-2fhe)
+- [A backtest that cheats off tomorrow won&#39;t fail code review. So I fired a spike into the future](https://dev.to/jun_uen0/a-backtest-that-cheats-off-tomorrow-wont-fail-code-review-so-i-fired-a-spike-into-the-future-455j)
+- [One AI-assisted day, two months of senior engineering](https://dev.to/jonesrussell/one-ai-assisted-day-two-months-of-senior-engineering-33jb)
+- [Don’t Send the Whole Camera: Build One-Shot Visual Context for a Tencent RTC Voice Companion](https://dev.to/susiewang/dont-send-the-whole-camera-build-one-shot-visual-context-for-a-tencent-rtc-voice-companion-4mnj)
+- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-f31)
+- [Are We Sending Too Much Data to LLMs? Agentic Production Support &lpar;APS&rpar;](https://dev.to/dev_hajare_d11ce990734a91/are-we-sending-too-much-data-to-llms-agentic-production-support-aps-b5p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
