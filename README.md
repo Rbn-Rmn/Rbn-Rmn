@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Review Agent-Written Code Against Your Team&#39;s Standards](https://dev.to/tessl-io/review-agent-written-code-against-your-teams-standards-5269)
-- [How I Model Aspects and Orbs in a Python Astrology Engine](https://dev.to/getbirthchart/how-i-model-aspects-and-orbs-in-a-python-astrology-engine-pob)
-- [Claude Code Multi-Agent Review Workflow: Roles, Worktrees, and Manual Sign-off](https://dev.to/bettertoken_ai/claude-code-multi-agent-review-workflow-roles-worktrees-and-manual-sign-off-5aei)
-- [The Hard Part of Birth Chart Calculations Isn&#39;t the Zodiac. It&#39;s Time.](https://dev.to/getbirthchart/the-hard-part-of-birth-chart-calculations-isnt-the-zodiac-its-time-5h06)
-- [Directus Basics Part 3 — User Roles &amp; Permissions](https://dev.to/wadethomastt/directus-basics-part-3-user-roles-permissions-328c)
+- [ACH Return Codes Explained: R01–R85 and How to Handle Them in Production](https://dev.to/payout_rail/ach-return-codes-explained-r01-r85-and-how-to-handle-them-in-production-34gj)
+- [Your compiled DSPy program re-sends up to 20 few-shot demos on every single call](https://dev.to/wartzarbee/your-compiled-dspy-program-re-sends-up-to-20-few-shot-demos-on-every-single-call-3a74)
+- [How a Hacker’s 31M Surveillance Tests Became Anti‑Spy Clothing](https://dev.to/10x/how-a-hackers-31m-surveillance-tests-became-anti-spy-clothing-1gie)
+- [I put a proxy on the MCP pipe for 90 trials. Most of one client&#39;s calls never reached the server](https://dev.to/lopster568/i-put-a-proxy-on-the-mcp-pipe-for-90-trials-most-of-one-clients-calls-never-reached-the-server-20p)
+- [AI Agent Hacks Gym Waitlist, Tech World Reacts](https://dev.to/10x/ai-agent-hacks-gym-waitlist-tech-world-reacts-4lhc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
