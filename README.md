@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Extending the Login Session to 1 Year for Kiosk‑Mode TV Screens &lpar;Next.js API Route&rpar;](https://dev.to/zaerohell/extending-the-login-session-to-1-year-for-kiosk-mode-tv-screens-nextjs-api-route-da7)
-- [Wait, Square Brackets Aren&#39;t Just for Arrays? — A Controlled Component Gotcha](https://dev.to/blackjosh007/wait-square-brackets-arent-just-for-arrays-a-controlled-component-gotcha-539m)
-- [System Design Fundamentals I Wish I Had Learned Earlier](https://dev.to/anoop_kumar_63925e275ea06/system-design-fundamentals-i-wish-i-had-learned-earlier-2o8h)
-- [I built a fully serverless AWS learning platform with Claude — here&#39;s how it went](https://dev.to/tomascody-web333/i-built-a-fully-serverless-aws-learning-platform-with-claude-heres-how-it-went-2gjd)
-- [I Solved Double-Booking Without Locks — Using One PostgreSQL Constraint](https://dev.to/akincskn/i-solved-double-booking-without-locks-using-one-postgresql-constraint-160)
+- [5 Silent Bugs That Break On-Chain RWA Trading Bots &lpar;and How to Handle Them&rpar;](https://dev.to/ttt34567890/5-silent-bugs-that-break-on-chain-rwa-trading-bots-and-how-to-handle-them-2a1d)
+- [How I made uncertainty readable in a deterministic browser strategy](https://dev.to/ivan_kulkin_1522025957eee/how-i-made-uncertainty-readable-in-a-deterministic-browser-strategy-ld6)
+- [The GitHub-Only Monetization Stack: Free Repo to Paid Product](https://dev.to/solresearchdesk/the-github-only-monetization-stack-free-repo-to-paid-product-3ahk)
+- [5 Data &amp; Analytics Tools Every Developer Building on Hyperliquid Should Know &lpar;2026&rpar;](https://dev.to/chen_joseph_68dd2aadd8c54/5-data-analytics-tools-every-developer-building-on-hyperliquid-should-know-2026-3602)
+- [Adding evidence of innocence made our sessions look more like bots](https://dev.to/oleh_tsyupa_bdb40da1bbe8a/adding-evidence-of-innocence-made-our-sessions-look-more-like-bots-16c2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
