@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [8 Shipped Chrome Extensions, 4 Ways to Declare Host Permissions](https://dev.to/k-wada/8-shipped-chrome-extensions-4-ways-to-declare-host-permissions-3n1c)
-- [Stop Hardcoding Prompts: Prompt Management and Prompt Flows on Amazon Bedrock &lpar;Hands-On&rpar;](https://dev.to/maruchin_tech_555/stop-hardcoding-prompts-prompt-management-and-prompt-flows-on-amazon-bedrock-hands-on-3pad)
-- [Microsoft Expands MAI Playground With Image, Voice, Transcription and Reasoning Models](https://dev.to/alifar/microsoft-expands-mai-playground-with-image-voice-transcription-and-reasoning-models-9f8)
-- [How I Passed All 12 AWS Certifications in 1 Year &lpar;My &quot;Reverse&quot; Strategy&rpar;](https://dev.to/maruchin_tech_555/how-i-passed-all-12-aws-certifications-in-1-year-my-reverse-strategy-4o8c)
-- [I Built a Full-Stack Flutter Expense Splitting App — Here&#39;s What I Learned](https://dev.to/mtahir27/i-built-a-full-stack-flutter-expense-splitting-app-heres-what-i-learned-5gn3)
+- [Christianity Makes Perfect Sense!](https://dev.to/wiseai/christianity-makes-perfect-sense-2e1e)
+- [Cifrado híbrido: por qué combinar criptografía clásica y post-cuántica](https://dev.to/isazajuancarlos/cifrado-hibrido-por-que-combinar-criptografia-clasica-y-post-cuantica-3k69)
+- [Language is Limited. ASI is Impossible.](https://dev.to/wiseai/language-is-limited-asi-is-impossible-e5l)
+- [Technology Has Destroyed My Livelihood](https://dev.to/wiseai/technology-has-destroyed-my-livelihood-15de)
+- [Running Vault on OpenShift with HCP Vault Auto-Unseal: Lessons Learned](https://dev.to/methridge/running-vault-on-openshift-with-hcp-vault-auto-unseal-lessons-learned-2j1h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
