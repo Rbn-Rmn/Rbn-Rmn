@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Christianity Makes Perfect Sense!](https://dev.to/wiseai/christianity-makes-perfect-sense-2e1e)
-- [Cifrado híbrido: por qué combinar criptografía clásica y post-cuántica](https://dev.to/isazajuancarlos/cifrado-hibrido-por-que-combinar-criptografia-clasica-y-post-cuantica-3k69)
-- [Language is Limited. ASI is Impossible.](https://dev.to/wiseai/language-is-limited-asi-is-impossible-e5l)
-- [Technology Has Destroyed My Livelihood](https://dev.to/wiseai/technology-has-destroyed-my-livelihood-15de)
-- [Running Vault on OpenShift with HCP Vault Auto-Unseal: Lessons Learned](https://dev.to/methridge/running-vault-on-openshift-with-hcp-vault-auto-unseal-lessons-learned-2j1h)
+- [I Deployed Google&#39;s Online Boutique on AWS EKS — Full Production Setup, Zero App Code Changes](https://dev.to/vijaya_bollu/i-deployed-googles-online-boutique-on-aws-eks-full-production-setup-zero-app-code-changes-4aal)
+- [Polyglot persistence was the mistake. Postgres was always enough.](https://dev.to/adioof/polyglot-persistence-was-the-mistake-postgres-was-always-enough-g41)
+- [Intelligence at Rest](https://dev.to/wiseai/intelligence-at-rest-43co)
+- [Best AI Coding Assistants for Sublime Text in 2026](https://dev.to/jawuilp/best-ai-coding-assistants-for-sublime-text-in-2026-4960)
+- [I miss the pre-AI Mossad agents.](https://dev.to/wiseai/i-miss-the-pre-ai-mossad-agents-1ka1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
