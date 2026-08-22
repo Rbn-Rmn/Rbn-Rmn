@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Shared Docs Aren&#39;t End-to-End Encrypted](https://dev.to/havenmessenger/why-your-shared-docs-arent-end-to-end-encrypted-146f)
-- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/karianjahi/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-hlf)
-- [The Ralph Loop: running coding agents for hours](https://dev.to/ghalex/the-ralph-loop-running-coding-agents-for-hours-3po2)
-- [A 9.8 Critical CVE That Never Existed: How to Filter Fake Vulnerabilities Out of Your Java Pipeline](https://dev.to/jamilxt/a-98-critical-cve-that-never-existed-how-to-filter-fake-vulnerabilities-out-of-your-java-pipeline-3151)
-- [Where the LLM Stops: Deterministic Scoring in an AI-Assisted VAPT Pipeline](https://dev.to/maverickaayush/where-the-llm-stops-deterministic-scoring-in-an-ai-assisted-vapt-pipeline-4jcd)
+- [Google Search Console Platform Properties Bring Social Query Data to Content Teams](https://dev.to/alifar/google-search-console-platform-properties-bring-social-query-data-to-content-teams-5gjg)
+- [How I Ask AI Changed: From &quot;Fix This&quot; to &quot;Recalibrate Me&quot;](https://dev.to/dexterlung/how-i-ask-ai-changed-from-fix-this-to-recalibrate-me-52f7)
+- [How to Connect Python to a SQL Database &lpar;Straight Into a DataFrame&rpar;](https://dev.to/michaelnocito/how-to-connect-python-to-a-sql-database-straight-into-a-dataframe-1lfd)
+- [How to Connect Excel to a SQL Database &lpar;And Stop Pasting&rpar;](https://dev.to/michaelnocito/how-to-connect-excel-to-a-sql-database-and-stop-pasting-5ah3)
+- [Top 5 AI Agent Governance Platforms in 2026](https://dev.to/swapnoneel123/top-5-ai-agent-governance-platforms-in-2026-4i3c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
