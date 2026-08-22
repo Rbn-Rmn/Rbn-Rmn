@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Get the Parent Domain from a Cross-Origin Iframe in JavaScript &lpar;Without Losing Your Sanity&rpar;](https://dev.to/bored_dev/how-to-get-the-parent-domain-from-a-cross-origin-iframe-in-javascript-without-losing-your-sanity-1885)
-- [How to record Google Meet and Zoom calls with dual audio using the HTML5 MediaRecorder API](https://dev.to/puspaksahu17/how-to-record-google-meet-and-zoom-calls-with-dual-audio-using-the-html5-mediarecorder-api-611)
-- [My screener recommended every job it could not read](https://dev.to/aiq_labs/my-screener-recommended-every-job-it-could-not-read-3ean)
-- [How to Validate Crypto Wallet Addresses Offline in Java](https://dev.to/oleksandr_dendeberia_9648/how-to-validate-crypto-wallet-addresses-offline-in-java-4lkc)
-- [Automatic HTTPS on Kestrel in 2026, now that LettuceEncrypt is archived](https://dev.to/jhenderson1992/automatic-https-on-kestrel-in-2026-now-that-lettuceencrypt-is-archived-1m3k)
+- [85 Container. 1 Entwickler.](https://dev.to/frederikvonderheyden/85-container-1-entwickler-13g6)
+- [scripting et réseaux](https://dev.to/aleksotalosdroid/scripting-et-reseaux-4n47)
+- [How to Configure Full Parallel Execution in TestNG via Maven &lpar;with Dynamic Thread Control&rpar;](https://dev.to/shell_qa/how-to-configure-full-parallel-execution-in-testng-via-maven-with-dynamic-thread-control-o86)
+- [Put Your Docker Images on a Diet with Alpine Linux &lpar;2015&rpar;](https://dev.to/hamdi_laadhari/put-your-docker-images-on-a-diet-with-alpine-linux-2015-jg)
+- [From 45 to 70 Free Tools — Toollium Just Got a Lot Bigger](https://dev.to/toollium/from-45-to-70-free-tools-toollium-just-got-a-lot-bigger-2m3d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
