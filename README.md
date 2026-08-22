@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why a 99% Cache Hit Rate Is 10x Faster Than 90% &lpar;Not 9%&rpar;](https://dev.to/dilip_v_p/why-a-99-cache-hit-rate-is-10x-faster-than-90-not-9-32bh)
-- [Understanding Git Workflows](https://dev.to/eduxic/understanding-git-workflows-4i52)
-- [What I learned building a job-description importer that needs a manual fallback](https://dev.to/shortliststudio/what-i-learned-building-a-job-description-importer-that-needs-a-manual-fallback-575m)
-- [The Bug That Kept Coming Back in Framer Motion](https://dev.to/carlosjcastrog/the-bug-that-kept-coming-back-in-framer-motion-2kmh)
-- [Why I Built a 100% Client-Side PDF Workspace &lpar;Zero Server Uploads&rpar;](https://dev.to/nextgenpdf/why-i-built-a-100-client-side-pdf-workspace-zero-server-uploads-5j8)
+- [Enterprise vibe coding: the governance framework for shipping AI-generated apps to production](https://dev.to/sali_ac161a1b71406354896c/enterprise-vibe-coding-the-governance-framework-for-shipping-ai-generated-apps-to-production-32j1)
+- [If your MCP server uses OAuth, every directory thinks it has zero tools](https://dev.to/leo_framethrower/if-your-mcp-server-uses-oauth-every-directory-thinks-it-has-zero-tools-3cco)
+- [Why Your AI Agent Architecture Is Failing: Bridging Security Holes, Planning Failures, and Real-World Dev Workflows](https://dev.to/tamizuddin/why-your-ai-agent-architecture-is-failing-bridging-security-holes-planning-failures-and-2kc9)
+- [Same Model, Two Speeds: A Friendly Tour of LLM Inference Engines](https://dev.to/lovestaco/same-model-two-speeds-a-friendly-tour-of-llm-inference-engines-2ccj)
+- [Server Security Audit Checklist: What Actually Gets Checked](https://dev.to/mecanik-dev/server-security-audit-checklist-what-actually-gets-checked-4oko)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
