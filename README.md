@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Tipping on a Pre-Tax vs Post-Tax Base: A Reference Sheet for Engineers Who Build the Math](https://dev.to/lizely/tipping-on-a-pre-tax-vs-post-tax-base-a-reference-sheet-for-engineers-who-build-the-math-57ad)
-- [Tratando de ser un desarrollador AI First sin vender humo](https://dev.to/dezkareid/tratando-de-ser-un-desarrollador-ai-first-sin-vender-humo-2mbd)
-- [How TecDoc Actually Works: A Developer&#39;s Guide to Automotive Parts Fitment Data](https://dev.to/partwiz_autoparts/how-tecdoc-actually-works-a-developers-guide-to-automotive-parts-fitment-data-5d2a)
-- [How To Upload Your First Project From a Local Folder to GitHub Using Git and SSH.](https://dev.to/naomi_kwamboka1001/how-to-upload-your-first-project-from-a-local-folder-to-github-using-git-and-ssh-500a)
-- [Quality Gates for Async Batch Generation of Product Images from Titles and Descriptions](https://dev.to/marencrest5138/quality-gates-for-async-batch-generation-of-product-images-from-titles-and-descriptions-3688)
+- [Foundations of Data Systems Part 1: Reliability](https://dev.to/oladeji_adekunle_f56f16b2/foundations-of-data-systems-part-1-reliability-3a5p)
+- [Smashing the MCP + Skill Tradeoff: More Guidance, Better Agents?](https://dev.to/neithergalax/smashing-the-mcp-skill-tradeoff-more-guidance-better-agents-2g21)
+- [A Storm Didn&#39;t Decide This Battle — A Sergeant Did](https://dev.to/joseph_magombe_1b430cabe3/a-storm-didnt-decide-this-battle-a-sergeant-did-39m2)
+- [Why Your ML Model Should Sometimes Say &#39;I Don&#39;t Know&#39;: Building Uncertainty-Aware Clinical AI](https://dev.to/hossein_ahmadi/why-your-ml-model-should-sometimes-say-i-dont-know-building-uncertainty-aware-clinical-ai-36g8)
+- [Real Token Cost of MCP: 91K Tokens of JSON](https://dev.to/mcptokensaver/real-token-cost-of-mcp-91k-tokens-of-json-4goe)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
