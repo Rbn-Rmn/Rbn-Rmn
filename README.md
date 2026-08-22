@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [85 Container. 1 Entwickler.](https://dev.to/frederikvonderheyden/85-container-1-entwickler-13g6)
-- [scripting et réseaux](https://dev.to/aleksotalosdroid/scripting-et-reseaux-4n47)
-- [How to Configure Full Parallel Execution in TestNG via Maven &lpar;with Dynamic Thread Control&rpar;](https://dev.to/shell_qa/how-to-configure-full-parallel-execution-in-testng-via-maven-with-dynamic-thread-control-o86)
-- [Put Your Docker Images on a Diet with Alpine Linux &lpar;2015&rpar;](https://dev.to/hamdi_laadhari/put-your-docker-images-on-a-diet-with-alpine-linux-2015-jg)
-- [From 45 to 70 Free Tools — Toollium Just Got a Lot Bigger](https://dev.to/toollium/from-45-to-70-free-tools-toollium-just-got-a-lot-bigger-2m3d)
+- [@StandardException](https://dev.to/mattmurr/standardexception-4edl)
+- [Implementing Zero-Trust Network Access &lpar;ZTNA&rpar; Concepts in Code](https://dev.to/ayinedjimi-consultants/implementing-zero-trust-network-access-ztna-concepts-in-code-2cbf)
+- [I built 45+ free tools that process files entirely in the browser — here&#39;s the architecture](https://dev.to/trytoolhub/i-built-45-free-tools-that-process-files-entirely-in-the-browser-heres-the-architecture-58kh)
+- [Building MyMangaList: Exploring AI Assisted manga translation](https://dev.to/mymangalist/building-mymangalist-exploring-ai-assisted-manga-translation-1kh7)
+- [AWS Portfolio Projects That Actually Teach Real Infrastructure](https://dev.to/krembo_vitman_50c3eac5aa6/aws-portfolio-projects-that-actually-teach-real-infrastructure-n2d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
