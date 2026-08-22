@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built Amazon Store &lpar;So I Don&#39;t Have to Pick a Country&rpar;](https://dev.to/davorg/why-i-built-amazon-store-so-i-dont-have-to-pick-a-country-4h95)
-- [My First GitHub Project: From a Local Folder to GitHub using Git and SSH](https://dev.to/victoria_ndei_07224d0b8db/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-5cbc)
-- [👋 Introducing Myself to the Community](https://dev.to/amanijordandev45/introducing-myself-to-the-community-2ll5)
-- [Your PRs Deserve a Second Reviewer That Costs Nothing: A Webhook Architecture](https://dev.to/hackjs_7468/your-prs-deserve-a-second-reviewer-that-costs-nothing-a-webhook-architecture-45af)
-- [DNS, HTTP/1.1, HTTP/2, HTTP/3, CORS — A Beginner&#39;s Deep Dive](https://dev.to/dharam_in/dns-http11-http2-http3-cors-a-beginners-deep-dive-28h6)
+- [Building a self-healing scraper agent that won&#39;t ship a fix it can&#39;t prove](https://dev.to/athoughtfulsoul/building-a-self-healing-scraper-agent-that-wont-ship-a-fix-it-cant-prove-2in1)
+- [500+ Projeden Sonra WordPress&#39;i Neden Bıraktık? Bir Web Ajansının Next.js Mimarisine Geçişi](https://dev.to/renklisayfa/500-projeden-sonra-wordpressi-neden-biraktik-bir-web-ajansinin-nextjs-mimarisine-gecisi-2jne)
+- [Tooling every AI software harness should have](https://dev.to/grantps/tooling-every-ai-software-harness-should-have-4512)
+- [Where I Want to See Myself in My 40s](https://dev.to/akhourianmolkumar/where-i-want-to-see-myself-in-my-40s-3egm)
+- [Free vs Self-Hosted Models: A Break-Even Framework for Agent Workloads](https://dev.to/codepro_3283/free-vs-self-hosted-models-a-break-even-framework-for-agent-workloads-14lp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
