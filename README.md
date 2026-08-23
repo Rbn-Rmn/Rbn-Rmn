@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Coverage Loop: Turning Free AI Tokens into Verified C++ Tests](https://dev.to/datacpp_3670/the-coverage-loop-turning-free-ai-tokens-into-verified-c-tests-1jh5)
-- [I built ToolNest: A fast, privacy-first suite of free online developer tools](https://dev.to/ayaanshaikh20/i-built-toolnest-a-fast-privacy-first-suite-of-free-online-developer-tools-4463)
-- [Why I Built an Open-Source, Zero-Cloud Period Tracker with React 19 &amp; Capacitor](https://dev.to/aradar46/why-i-built-an-open-source-zero-cloud-period-tracker-with-react-19-capacitor-hmb)
-- [INP Bukan Masalah Hosting: Cara Mengaudit dan Menjinakkan Script Pihak Ketiga di Situs Bisnis](https://dev.to/mightyblue/inp-bukan-masalah-hosting-cara-mengaudit-dan-menjinakkan-script-pihak-ketiga-di-situs-bisnis-5d8e)
-- [The Runaway Diff: A Token-Budget Postmortem for Coding Agents](https://dev.to/devio_3007/the-runaway-diff-a-token-budget-postmortem-for-coding-agents-p1l)
+- [Under the Hood: DevTools Mechanics, REST Versioning, MongoDB ObjectIDs, and IDOR Exploitation](https://dev.to/pr4d0x/under-the-hood-devtools-mechanics-rest-versioning-mongodb-objectids-and-idor-exploitation-3pfd)
+- [A hackathon is a compression test for how you actually work](https://dev.to/divyakush/a-hackathon-is-a-compression-test-for-how-you-actually-work-cf4)
+- [Why I built my own technical blog website.](https://dev.to/johnhaab/why-i-built-my-own-technical-blog-website-21kp)
+- [The Semantic Cache That Made a Free LLM Quota Feel Infinite](https://dev.to/codehub_1304/the-semantic-cache-that-made-a-free-llm-quota-feel-infinite-4lp0)
+- [Windows 11 KB5077181 Causing Boot Loops? Here&#39;s How to Fix It](https://dev.to/darkssel/windows-11-kb5077181-causing-boot-loops-heres-how-to-fix-it-497h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
