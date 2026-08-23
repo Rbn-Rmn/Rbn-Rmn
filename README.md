@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [🧐 ECS Express Mode vs Traditional ECS: A Hands-on Comparison with Terraform](https://dev.to/aws-builders/ecs-express-mode-vs-traditional-ecs-a-hands-on-comparison-with-terraform-cnp)
-- [As I said, Alea AIcta est.](https://dev.to/dveb/as-i-said-alea-aicta-est-17i1)
-- [Optimizing Disk I/O in NumPy: Implementing a Fast LZ4 Compression Algorithm via C-Extensions](https://dev.to/__f57a448/optimizing-disk-io-in-numpy-implementing-a-fast-lz4-compression-algorithm-via-c-extensions-ilm)
-- [Stop Killing Your Database with @Transactional in Spring Boot](https://dev.to/sayuri_kotikawaththa_/stop-killing-your-database-with-transactional-in-spring-boot-38pk)
-- [Title Information Doesn&#39;t Add Aggression — It Removes Calibration Risk](https://dev.to/joseph_magombe_1b430cabe3/titleinformation-doesnt-add-aggression-it-removes-calibration-risk-3goc)
+- [Healthtech Welcome Email — 4 API Signals Before Raising Dedicated-Domain Volume](https://dev.to/marcorossi4891/healthtech-welcome-email-4-api-signals-before-raising-dedicated-domain-volume-1jbe)
+- [Auditing an Existing Subnet Plan Before a Cloud Migration](https://dev.to/lizely/auditing-an-existing-subnet-plan-before-a-cloud-migration-2f6g)
+- [Ditch the Cloud: Building a Real-Time In-Browser Video Editor with WebCodecs, WebGPU, and Canvas](https://dev.to/programmingcentral/ditch-the-cloud-building-a-real-time-in-browser-video-editor-with-webcodecs-webgpu-and-canvas-9j6)
+- [Google indexed 428 of my 1,432 generated pages and none of my 2,290 handwritten ones](https://dev.to/farcrak/google-indexed-428-of-my-1432-generated-pages-and-none-of-my-2290-handwritten-ones-8m8)
+- [The Bug That Passed Every Test — And Still Took Production Down](https://dev.to/antfarm-tech/the-bug-that-passed-every-test-and-still-took-production-down-3n1p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
