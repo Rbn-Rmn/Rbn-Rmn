@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Foundations of Data Systems Part 1: Reliability](https://dev.to/oladeji_adekunle_f56f16b2/foundations-of-data-systems-part-1-reliability-3a5p)
-- [Smashing the MCP + Skill Tradeoff: More Guidance, Better Agents?](https://dev.to/neithergalax/smashing-the-mcp-skill-tradeoff-more-guidance-better-agents-2g21)
-- [A Storm Didn&#39;t Decide This Battle — A Sergeant Did](https://dev.to/joseph_magombe_1b430cabe3/a-storm-didnt-decide-this-battle-a-sergeant-did-39m2)
-- [Why Your ML Model Should Sometimes Say &#39;I Don&#39;t Know&#39;: Building Uncertainty-Aware Clinical AI](https://dev.to/hossein_ahmadi/why-your-ml-model-should-sometimes-say-i-dont-know-building-uncertainty-aware-clinical-ai-36g8)
-- [Real Token Cost of MCP: 91K Tokens of JSON](https://dev.to/mcptokensaver/real-token-cost-of-mcp-91k-tokens-of-json-4goe)
+- [Opinion: Your Tests Can&#39;t See What a Migration Destroys — Dry-Run It on a Clone](https://dev.to/github_7727/opinion-your-tests-cant-see-what-a-migration-destroys-dry-run-it-on-a-clone-878)
+- [mcp-drift-monitor: detección continua de cambios no autorizados en servidores MCP](https://dev.to/magopredator/mcp-drift-monitor-deteccion-continua-de-cambios-no-autorizados-en-servidores-mcp-f8)
+- [Beyond Words: Building an AI Mental Health Monitor with HuBERT and Psycho-Acoustics](https://dev.to/beck_moulton/beyond-words-building-an-ai-mental-health-monitor-with-hubert-and-psycho-acoustics-16kk)
+- [Lets talk about llms](https://dev.to/bluantstudio/lets-talk-about-llms-169f)
+- [The Edge Computing Revolution: Securing and Scaling Middleware for Distributed Intelligence](https://dev.to/tamizuddin/the-edge-computing-revolution-securing-and-scaling-middleware-for-distributed-intelligence-7ke)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
