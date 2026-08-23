@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [You Probably Don&#39;t Need a Server For That](https://dev.to/virtual_texttools_2036eb/you-probably-dont-need-a-server-for-that-4ffi)
-- [We Taught a 230M Language Model to Keep Learning on Android](https://dev.to/ijulin/we-taught-a-230m-language-model-to-keep-learning-on-android-36hl)
-- [My agents kept overwriting each other, so I gave them claims](https://dev.to/alkisyuv/my-agents-kept-overwriting-each-other-so-i-gave-them-claims-2h8k)
-- [I built an AI that writes like me, and I&#39;m measuring how much it fails](https://dev.to/alkisyuv/i-built-an-ai-that-writes-like-me-and-im-measuring-how-much-it-fails-4o0)
-- [What my agents are allowed to remember](https://dev.to/alkisyuv/what-my-agents-are-allowed-to-remember-46fd)
+- [Trusted AI Agent Transactions, Part 4: PingAuthorize Policy Decisions](https://dev.to/darkedges/trusted-ai-agent-transactions-part-4-pingauthorize-policy-decisions-3ik8)
+- [Trusted AI Agent Transactions, Part 3: SPIRE Workload Identity](https://dev.to/darkedges/trusted-ai-agent-transactions-part-3-spire-workload-identity-1gfb)
+- [Trusted AI Agent Transactions, Part 2: PingFederate Token Exchange](https://dev.to/darkedges/trusted-ai-agent-transactions-part-2-pingfederate-token-exchange-35pn)
+- [Trusted AI Agent Transactions, Part 1: The Identity Problem](https://dev.to/darkedges/trusted-ai-agent-transactions-part-1-the-identity-problem-17aa)
+- [Installing Minikube on Debian](https://dev.to/spmahapatra/installing-minikube-on-debian-1aj4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
