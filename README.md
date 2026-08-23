@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building an Open Turkish EV Charging Intent Dataset](https://dev.to/birdircik/building-an-open-turkish-ev-charging-intent-dataset-571p)
-- [.NET 10 NU1015: Fix PackageReference Without Version Restore Failures](https://dev.to/ssukhpinder/net-10-nu1015-fix-packagereference-without-version-restore-failures-4741)
-- [Proof-of-Antiquity vs Proof-of-Stake: Why Hardware Diversity Beats Wealth Concentration](https://dev.to/shamylbm/proof-of-antiquity-vs-proof-of-stake-why-hardware-diversity-beats-wealth-concentration-3528)
-- [How to test your LLM app for prompt injection: promptfoo vs garak vs Giskard vs PyRIT vs sentinel-scan-cli](https://dev.to/ventrova/how-to-test-your-llm-app-for-prompt-injection-promptfoo-vs-garak-vs-giskard-vs-pyrit-vs-2oim)
-- [We fixed the eval platform we&#39;re competing on: a TypeError that crashed three benchmark pipelines](https://dev.to/bryanw/we-fixed-the-eval-platform-were-competing-on-a-typeerror-that-crashed-three-benchmark-pipelines-35oj)
+- [You Probably Don&#39;t Need a Server For That](https://dev.to/virtual_texttools_2036eb/you-probably-dont-need-a-server-for-that-4ffi)
+- [We Taught a 230M Language Model to Keep Learning on Android](https://dev.to/ijulin/we-taught-a-230m-language-model-to-keep-learning-on-android-36hl)
+- [My agents kept overwriting each other, so I gave them claims](https://dev.to/alkisyuv/my-agents-kept-overwriting-each-other-so-i-gave-them-claims-2h8k)
+- [I built an AI that writes like me, and I&#39;m measuring how much it fails](https://dev.to/alkisyuv/i-built-an-ai-that-writes-like-me-and-im-measuring-how-much-it-fails-4o0)
+- [What my agents are allowed to remember](https://dev.to/alkisyuv/what-my-agents-are-allowed-to-remember-46fd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
