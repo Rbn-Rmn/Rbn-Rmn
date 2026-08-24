@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Trusted AI Agent Transactions, Part 4: PingAuthorize Policy Decisions](https://dev.to/darkedges/trusted-ai-agent-transactions-part-4-pingauthorize-policy-decisions-3ik8)
-- [Trusted AI Agent Transactions, Part 3: SPIRE Workload Identity](https://dev.to/darkedges/trusted-ai-agent-transactions-part-3-spire-workload-identity-1gfb)
-- [Trusted AI Agent Transactions, Part 2: PingFederate Token Exchange](https://dev.to/darkedges/trusted-ai-agent-transactions-part-2-pingfederate-token-exchange-35pn)
-- [Trusted AI Agent Transactions, Part 1: The Identity Problem](https://dev.to/darkedges/trusted-ai-agent-transactions-part-1-the-identity-problem-17aa)
-- [Installing Minikube on Debian](https://dev.to/spmahapatra/installing-minikube-on-debian-1aj4)
+- [The Context Packet: The Right Architectural Coding Agents](https://dev.to/majdizlitni/the-context-packet-the-right-architectural-coding-agents-5agc)
+- [Our AI reviewer invented a request. Our producer retried 245 times.](https://dev.to/gxcafellc/our-ai-reviewer-invented-a-request-our-producer-retried-245-times-465f)
+- [Architectural Breakdown: We fixed the eval platform we&#39;re competing on: a TypeError that crashed thr](https://dev.to/agenticstack/architectural-breakdown-we-fixed-the-eval-platform-were-competing-on-a-typeerror-that-crashed-thr-42eg)
+- [OzBrain&#39;s Shared Memory Architecture: How Multi-Agent Teams Avoid Re-Explaining Context Across Sessions](https://dev.to/mech_app_ai/ozbrains-shared-memory-architecture-how-multi-agent-teams-avoid-re-explaining-context-across-1c19)
+- [Architecting a background-service-based sound manager that survives Android&#39;s Doze mode](https://dev.to/haseebthedev0/architecting-a-background-service-based-sound-manager-that-survives-androids-doze-mode-1o1e)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
