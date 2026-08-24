@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Software Craftsman’s Day One: Why My First Week of Startup Life Had No Business Logic](https://dev.to/brettryan/the-software-craftsmans-day-one-why-my-first-week-of-startup-life-had-no-business-logic-d2g)
-- [How to Build Bulletproof AI Agents with Autonomous Multi-Model Fallbacks](https://dev.to/osamatech786/how-to-build-bulletproof-ai-agents-with-autonomous-multi-model-fallbacks-1d7l)
-- [What will happen if Cloud database becomes too expensive ???](https://dev.to/kingusd/what-will-happen-if-cloud-database-becomes-too-expensive--jia)
-- [I built a full image editor that never uploads your photo — here&#39;s how the on-device AI parts actually work](https://dev.to/akhourianmolkumar/i-built-a-full-image-editor-that-never-uploads-your-photo-heres-how-the-on-device-ai-parts-1i03)
-- [The Translate Button Is Declarative; the Community Workflow Is Not](https://dev.to/susiewang/the-translate-button-is-declarative-the-community-workflow-is-not-5cc8)
+- [I Built 16 Browser-Based Developer Tools That Never Upload Your Data.](https://dev.to/vishaltripathi1/i-built-16-browser-based-developer-tools-that-never-upload-your-data-40od)
+- [Next.js: Is Pushing Web Performance Toward &quot;Instant&quot; Navigation Without Giving Up Server Components](https://dev.to/ashutosh_maurya/nextjs-is-pushing-web-performance-toward-instant-navigation-without-giving-up-server-components-3598)
+- [OpenAI Just Paused Its Own Model for Being Too Good at Finding Zero-Days. Read That Again.](https://dev.to/muskan_bandta/openai-just-paused-its-own-model-for-being-too-good-at-finding-zero-days-read-that-again-3ejp)
+- [ChatGPT and Gemini Both Crossed a Billion Users. The Infrastructure Story Is the One Nobody&#39;s Telling](https://dev.to/muskan_bandta/chatgpt-and-gemini-both-crossed-a-billion-users-the-infrastructure-story-is-the-one-nobodys-25k7)
+- [Publicly Accessible RDS and Unrestricted Security Groups: The Cost Side of Risky Cloud Config](https://dev.to/zop_8abedcc7e12/publicly-accessible-rds-and-unrestricted-security-groups-the-cost-side-of-risky-cloud-config-4379)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
