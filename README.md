@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What MCP Doesn&#39;t Solve](https://dev.to/coryntas/what-mcp-doesnt-solve-1ahe)
-- [What Spring Data Tests Can Miss: Testing Beyond Hibernate’s Persistence Context &lpar;Chapter 7&rpar;](https://dev.to/kamenivanov/what-spring-data-tests-can-miss-testing-beyond-hibernates-persistence-context-chapter-7-5d7k)
-- [Evaluating the Practical Need for a 10GB Network in Home Labs: Balancing Performance and Cost](https://dev.to/elenbit/evaluating-the-practical-need-for-a-10gb-network-in-home-labs-balancing-performance-and-cost-1a57)
-- [Rerun and Continue in SolonCode Web — Two Buttons, Two Semantics](https://dev.to/solonjava/rerun-and-continue-in-soloncode-web-two-buttons-two-semantics-8c1)
-- [I Built My Own Python Package Manager. Three Bugs Taught Us More Than the Design Did.](https://dev.to/divyanshusinha136/i-built-my-own-python-package-manager-three-bugs-taught-us-more-than-the-design-did-4khk)
+- [How I Built a Free Watermark-Free Xiaohongshu &lpar;RedNote&rpar; Downloader — and What I Learned About Anti-Scraping](https://dev.to/wangxiaolou/how-i-built-a-free-watermark-free-xiaohongshu-rednote-downloader-and-what-i-learned-about-47oa)
+- [When AI Agents Meet Zero Trust: Building NEXUS on Istio Service Mesh](https://dev.to/deadki001/when-ai-agents-meet-zero-trust-building-nexus-on-istio-service-mesh-1hh2)
+- [Verifying Medical Device OEM Documents Programmatically: FDA, EUDAMED, and NANDO Data Sources](https://dev.to/tbphp_tech/verifying-medical-device-oem-documents-programmatically-fda-eudamed-and-nando-data-sources-3d5b)
+- [The honest boundary of argument-space verification — and what the Evidence Locker adds](https://dev.to/zxpmail/the-honest-boundary-of-argument-space-verification-and-what-the-evidence-locker-adds-722)
+- [I Added Cryptographic Receipts to MCP Tool Calls in 20 Lines of Code](https://dev.to/correctover/i-added-cryptographic-receipts-to-mcp-tool-calls-in-20-lines-of-code-4h7o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
