@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Protect sensitive data before sending it to an LLM](https://dev.to/woody_eda35d7456d59b07de9/protect-sensitive-data-before-sending-it-to-an-llm-48dj)
-- [What Do You Do While AI Codes?](https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k)
-- [Automate Weekly Reporting: From 4 Hours to Zero &lpar;the build&rpar;](https://dev.to/dan_bbddf989101dbe6f23c77/automate-weekly-reporting-from-4-hours-to-zero-the-build-2pgc)
-- [DIY Cold Email Stack: Replace Lemlist, Clay + Calendly &lpar;2026&rpar;](https://dev.to/dan_bbddf989101dbe6f23c77/diy-cold-email-stack-replace-lemlist-clay-calendly-2026-3mp1)
-- [GitHub Copilot After 10 Months: Reliable Autocomplete, and a Security Story Our Review Doesn&#39;t Cover Yet](https://dev.to/ramdai_bista/github-copilot-after-10-months-reliable-autocomplete-and-a-security-story-our-review-doesnt-1fpg)
+- [Postman Without an Account: What Still Works in 2026](https://dev.to/akdombrowski/postman-without-an-account-what-still-works-in-2026-49aa)
+- [Building a TypeScript Code Radar: What an AST Reveals That Text Search Misses](https://dev.to/akamabe/building-a-typescript-code-radar-what-an-ast-reveals-that-text-search-misses-231d)
+- [I built a dependency-driven scheduling engine entirely in Excel/VBA](https://dev.to/tmailletfr/i-built-a-dependency-driven-scheduling-engine-entirely-in-excelvba-4hbf)
+- [Wrought - For stopping your over-engineered codebases.](https://dev.to/proportanilityconstant/wrought-for-stopping-your-over-engineered-codebases-729)
+- [HD-101 — The first pull request](https://dev.to/nazmur96/hd-101-the-first-pull-request-2fep)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
