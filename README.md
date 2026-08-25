@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building a Read-Only Cloudflare Worker AI Security Console](https://dev.to/mike_anderson_d01f52129fb/building-a-read-only-cloudflare-worker-ai-security-console-4ica)
-- [Building a 12-language AI product search on the edge: what actually broke](https://dev.to/ohadfarkash/building-a-12-language-ai-product-search-on-the-edge-what-actually-broke-45kb)
-- [MAGA: Less Framework, More Platform](https://dev.to/aura-ui/maga-less-framework-more-platform-gfg)
-- [I Turned 200+ Chinese Character Confusions Into a Structured Dataset](https://dev.to/1121_harris/i-turned-200-chinese-character-confusions-into-structured-data-heres-what-i-learned-20l7)
-- [Claude Code Surpasses GitHub Copilot: 90% of Developers Adopt AI Coding](https://dev.to/tidiane_stano_c6b88f8b685/claude-code-surpasses-github-copilot-90-of-developers-adopt-ai-coding-4ck2)
+- [Authorize Can&#39;t See Your Data](https://dev.to/kazemmdev/authorize-cant-see-your-data-47pc)
+- [Why Your OpenAPI Spec Isn&#39;t Enough for AI Agents](https://dev.to/spread2009/why-your-openapi-spec-isnt-enough-for-ai-agents-3cpe)
+- [I audited 99 resume templates for contrast. Nine rendered the candidate&#39;s name invisible.](https://dev.to/thedolceway/i-audited-99-resume-templates-for-contrast-nine-rendered-the-candidates-name-invisible-hom)
+- [Building a Modern Data Lakehouse on AWS: S3, Iceberg, Glue, Athena, and Lake Formation](https://dev.to/alpeshkumbhare/building-a-modern-data-lakehouse-on-aws-s3-iceberg-glue-athena-and-lake-formation-1lel)
+- [Jak rozjet lokální LLM napojený na Home Assistant](https://dev.to/petr_baloun/jak-rozjet-lokalni-llm-napojeny-na-home-assistant-pribeh-z-rlocalllama-5gd3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
