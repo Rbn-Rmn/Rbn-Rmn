@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Website for Beginners](https://dev.to/cristian_marinescu/how-to-create-a-website-for-beginners-2ghh)
-- [The Local Dev Setup Cheat Sheet I Wish I Had When I Started 🐍⚡](https://dev.to/briankipchirchir77/the-local-dev-setup-cheat-sheet-i-wish-i-had-when-i-started-2of6)
-- [White-label is a subtraction job](https://dev.to/goodbarber/white-label-is-a-subtraction-job-53mf)
-- [Free AI Pull Request Reviews: A 20-Minute Setup](https://dev.to/devio_4040/free-ai-pull-request-reviews-a-20-minute-setup-3fc6)
-- [The Agent Crash-Looped on a Truncated Line: A Ledger Debugging Retrospective](https://dev.to/robinzzz/the-agent-crash-looped-on-a-truncated-line-a-ledger-debugging-retrospective-3706)
+- [Codex CLI with any model: the &quot;codex router&quot; setup in one config block](https://dev.to/opper/codex-cli-with-any-model-the-codex-router-setup-in-one-config-block-3ol7)
+- [I&#39;ve got feedback from previous project and implement it in new one! &lpar;FastAPI + PostgreSQL + External API + Docker&rpar;](https://dev.to/daidallostech/ive-got-feedback-from-previous-project-and-implement-it-in-new-one-fastapi-postgresql--3nok)
+- [Convert JSON to MD for your agents](https://dev.to/rajnandan1/convert-json-to-md-for-your-agents-2j4k)
+- [My Local LLM Was Running at 1.6% of Its Context. Here&#39;s the Setting That Fixed It](https://dev.to/devlog/my-local-llm-was-running-at-16-of-its-context-heres-the-setting-that-fixed-it-3i4j)
+- [How to Calculate ROI on an AI Agent Before You Build It](https://dev.to/pykero/how-to-calculate-roi-on-an-ai-agent-before-you-build-it-42ja)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
