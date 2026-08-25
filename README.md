@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Technical Strategy: Thinking Beyond the Current Sprint](https://dev.to/namanvashistha/technical-strategy-thinking-beyond-the-current-sprint-1o24)
-- [Checkpoints vs Micromanagement](https://dev.to/namanvashistha/checkpoints-vs-micromanagement-4daa)
-- [Hermes Agent Bot Mode vs Kanban: When to Use Each &lpar;and Why I Use Both&rpar;](https://dev.to/vivek_shetye/hermes-agent-bot-mode-vs-kanban-when-to-use-each-and-why-i-use-both-2che)
-- [When Should You Retrain Your ML Model? A New Study Says Most Teams Are Solving the Wrong Problem](https://dev.to/egepakten/when-should-you-retrain-your-ml-model-a-new-study-says-most-teams-are-solving-the-wrong-problem-2chk)
-- [Architecting for Reliability: The Role of Message Brokers in Multi-Agent AI](https://dev.to/ayas_tech_2b0560ee159e661/architecting-for-reliability-the-role-of-message-brokers-in-multi-agent-ai-5d5l)
+- [Guaranteed vs Fallible: How Midnight Actually Commits State and Fees](https://dev.to/midnight-aliit/guaranteed-vs-fallible-how-midnight-actually-commits-state-and-fees-23fc)
+- [Supabase .NET DevLog #7](https://dev.to/tr00d/supabase-net-devlog-7-4gjb)
+- [Recovering a dropped stash: what git fsck can still find](https://dev.to/thebguy/recovering-a-dropped-stash-what-git-fsck-can-still-find-50g9)
+- [I Built a Browser Game with Next.js 16, Cloudflare Workers, and a D1 Database](https://dev.to/nan_e7f05de9715d468fcd671/i-built-a-browser-game-with-nextjs-16-cloudflare-workers-and-a-d1-database-oe8)
+- [A paywall where the trim is the product](https://dev.to/gexlive/a-paywall-where-the-trim-is-the-product-27bo)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
