@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Scraped 20,000 YouTube Comments. The Videos and the Comments Were Having Two Different Conversations.](https://dev.to/ramses203/i-scraped-20000-youtube-comments-the-videos-and-the-comments-were-having-two-different-l30)
-- [Architectural Breakdown: Can AI Remember What It Sees?](https://dev.to/agenticstack/architectural-breakdown-can-ai-remember-what-it-sees-3lb6)
-- [I Tried to Prompt-Inject My Own Agent Engine. It Didn&#39;t Work. Here&#39;s Why.](https://dev.to/debashish_ghosal/i-tried-to-prompt-inject-my-own-agent-engine-it-didnt-work-heres-why-57m0)
-- [AWS AgentCore Cloud Migration: Multi-Agent Orchestration for Infrastructure-as-Code Generation](https://dev.to/mech_app_ai/aws-agentcore-cloud-migration-multi-agent-orchestration-for-infrastructure-as-code-generation-jpc)
-- [HyperFrames: HTML-to-MP4 Rendering as an Agent-First Primitive](https://dev.to/mech_app_ai/hyperframes-html-to-mp4-rendering-as-an-agent-first-primitive-33k7)
+- [My agent inflated its own state file to 49MB. Every check passed for three days.](https://dev.to/wisplu/my-agent-inflated-its-own-state-file-to-49mb-every-check-passed-for-three-days-2ah8)
+- [Nobody has shipped an LLM that grades its own draft without a human in the loop](https://dev.to/unmannedops/nobody-has-shipped-an-llm-that-grades-its-own-draft-without-a-human-in-the-loop-3c04)
+- [Every Enterprise Will Have Its Own AI Harness](https://dev.to/mickymultani/every-enterprise-will-have-its-own-ai-harness-1gfi)
+- [Google Rewrites Meta Descriptions Often: What SMBs Should Do to Protect CTR](https://dev.to/alifar/google-rewrites-meta-descriptions-often-what-smbs-should-do-to-protect-ctr-57ao)
+- [Building a Countdown Timer Without External Dependencies: A Vanilla JS Journey](https://dev.to/ggwork/building-a-countdown-timer-without-external-dependencies-a-vanilla-js-journey-25m7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
