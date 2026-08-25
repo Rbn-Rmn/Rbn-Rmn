@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Zahlennormalisierung für internationale Daten: Ein praktischer Leitfaden](https://dev.to/circobit/zahlennormalisierung-fur-internationale-daten-ein-praktischer-leitfaden-bp)
-- [Transparent SOCKS5 access from iOS with a Tailscale App Connector and sing-box](https://dev.to/michbsd/transparent-socks5-access-from-ios-with-a-tailscale-app-connector-and-sing-box-2fhd)
-- [Malware that runs the moment you open the project](https://dev.to/avioflagos/malware-that-runs-the-moment-you-open-the-project-1j5e)
-- [[Boost]](https://dev.to/sirkelvin/-1n6k)
-- [Serverless BigQuery MCP Agent with Gemini&quot; published: true tags: googlecloud, gemini, ai, python](https://dev.to/mohammed_faizanmomin_61e/building-a-serverless-bigquery-mcp-agent-with-gemini-google-adk-58j)
+- [How to Create a Website for Beginners](https://dev.to/cristian_marinescu/how-to-create-a-website-for-beginners-2ghh)
+- [The Local Dev Setup Cheat Sheet I Wish I Had When I Started 🐍⚡](https://dev.to/briankipchirchir77/the-local-dev-setup-cheat-sheet-i-wish-i-had-when-i-started-2of6)
+- [White-label is a subtraction job](https://dev.to/goodbarber/white-label-is-a-subtraction-job-53mf)
+- [Free AI Pull Request Reviews: A 20-Minute Setup](https://dev.to/devio_4040/free-ai-pull-request-reviews-a-20-minute-setup-3fc6)
+- [The Agent Crash-Looped on a Truncated Line: A Ledger Debugging Retrospective](https://dev.to/robinzzz/the-agent-crash-looped-on-a-truncated-line-a-ledger-debugging-retrospective-3706)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
