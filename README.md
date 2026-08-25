@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Debugged a phpMyAdmin 500 Error While Importing a Large SQL File on Laragon](https://dev.to/tahsin000/how-i-debugged-a-phpmyadmin-500-error-while-importing-a-large-sql-file-on-laragon-245i)
-- [A Dead-Man&#39;s Switch That Pages Once and Goes Quiet Is Worse Than None. Ours Went Silent for 43 Days.](https://dev.to/merlonix/a-dead-mans-switch-that-pages-once-and-goes-quiet-is-worse-than-none-ours-went-silent-for-43-days-1f0n)
-- [AI Coding Tip 033 - Protect Yourself Against AI Cheating](https://dev.to/mcsee/ai-coding-tip-033-protect-yourself-against-ai-cheating-1pn1)
-- [I removed the LLM call and replaced it with 200 lines of template code](https://dev.to/thedolceway/i-removed-the-llm-call-and-replaced-it-with-200-lines-of-template-code-2lh0)
-- [Chega de git stash: como trabalhar em múltiplas features em paralelo com git worktree](https://dev.to/brduarte/chega-de-git-stash-como-trabalhar-em-multiplas-features-em-paralelo-com-git-worktree-171b)
+- [Protect sensitive data before sending it to an LLM](https://dev.to/woody_eda35d7456d59b07de9/protect-sensitive-data-before-sending-it-to-an-llm-48dj)
+- [What Do You Do While AI Codes?](https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k)
+- [Automate Weekly Reporting: From 4 Hours to Zero &lpar;the build&rpar;](https://dev.to/dan_bbddf989101dbe6f23c77/automate-weekly-reporting-from-4-hours-to-zero-the-build-2pgc)
+- [DIY Cold Email Stack: Replace Lemlist, Clay + Calendly &lpar;2026&rpar;](https://dev.to/dan_bbddf989101dbe6f23c77/diy-cold-email-stack-replace-lemlist-clay-calendly-2026-3mp1)
+- [GitHub Copilot After 10 Months: Reliable Autocomplete, and a Security Story Our Review Doesn&#39;t Cover Yet](https://dev.to/ramdai_bista/github-copilot-after-10-months-reliable-autocomplete-and-a-security-story-our-review-doesnt-1fpg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
