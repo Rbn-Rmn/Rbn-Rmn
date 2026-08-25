@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [MVP que evolui: 7 decisões técnicas antes da primeira linha de código](https://dev.to/mestresdaweb/mvp-que-evolui-7-decisoes-tecnicas-antes-da-primeira-linha-de-codigo-1pa0)
-- [TPM Requirements for Post-Quantum Cryptography Readiness](https://dev.to/vpodk/tpm-requirements-for-post-quantum-cryptography-readiness-12lj)
-- [Should a SaaS Password Recovery Flow Use Email API or SMS OTP?](https://dev.to/holdenfox8476/should-a-saas-password-recovery-flow-use-email-api-or-sms-otp-4h42)
-- [40001 is not a query error](https://dev.to/mohamedaboelmagd/40001-is-not-a-query-error-2497)
-- [I&#39;m using GPT Sol and Claude Opus for free — pi-coding-agent + OmniRoute](https://dev.to/ahmed_nafies_3a55c907115c/im-using-gpt-sol-and-claude-opus-for-free-pi-coding-agent-omniroute-36m8)
+- [Barcode Workflows: Choosing Between Manual, Spreadsheet, and Online Tooling](https://dev.to/lizely/barcode-workflows-choosing-between-manual-spreadsheet-and-online-tooling-3cij)
+- [Go 1.27 banning generic methods from interfaces is the honest move](https://dev.to/adioof/go-127-banning-generic-methods-from-interfaces-is-the-honest-move-3npb)
+- [Your AI Agent Shouldn&#39;t Be Allowed to Write Whatever It Wants](https://dev.to/kenwalger/your-ai-agent-shouldnt-be-allowed-to-write-whatever-it-wants-e33)
+- [Next.js OpenAI Chatbot: Responses API in 6 Steps](https://dev.to/gateofai/nextjs-openai-chatbot-responses-api-in-6-steps-5g38)
+- [RAG Knowledge Bases: Precision vs Breadth](https://dev.to/gateofai/rag-knowledge-bases-precision-vs-breadth-1k2h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
