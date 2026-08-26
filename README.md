@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Strong Engineers Fail Coding Interviews: A Scorecard Autopsy](https://dev.to/ji_ai/why-strong-engineers-fail-coding-interviews-a-scorecard-autopsy-18oa)
-- [Schema catalogs for AI assistants: the layer nobody wants to maintain](https://dev.to/vincenzo_nudo_842cddd9973/schema-catalogs-for-ai-assistants-the-layer-nobody-wants-to-maintain-457k)
-- [Feedback for the LVM post on my blog](https://dev.to/mevlut_bulut_8eb137cc7bce/feedback-for-the-lvm-post-on-my-blog-15kk)
-- [How to Build an Agentic RAG Pipeline with Real-Time Web Search](https://dev.to/cloudsway/how-to-build-an-agentic-rag-pipeline-with-real-time-web-search-2k1l)
-- [How to Set Excel Cell Backgrounds in C#](https://dev.to/codingco/how-to-set-excel-cell-backgrounds-in-c-3ibb)
+- [Recursion Demystified](https://dev.to/polyvexr/recursion-demystified-255f)
+- [When anyone can build with a prompt, what counts as productivity? — We&#39;re moving our whole company to AI and keeping humans on judgment](https://dev.to/uehara/when-anyone-can-build-with-a-prompt-what-counts-as-productivity-were-moving-our-whole-company-3l21)
+- [CI/CD for Azure Logic Apps Standard on a Private &lpar;ILB&rpar; ASE — Without a VNet Agent](https://dev.to/vicky_acedia/cicd-for-azure-logic-apps-standard-on-a-private-ilb-ase-without-a-vnet-agent-1j2e)
+- [Email API Demystified: Own Welcome Templates, Suppression List, Report Files](https://dev.to/magnusnilsson2124/email-api-demystified-own-welcome-templates-suppression-list-report-files-3gm8)
+- [Solution to Challenge 4 - Accessibility testing](https://dev.to/abigail_armijo/solution-to-challenge-4-accessibility-testing-3ggn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
