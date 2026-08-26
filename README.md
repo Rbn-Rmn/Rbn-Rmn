@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Oscar Awowari CEO: Designing a Geospatial Search Layer for a City Discovery Platform](https://dev.to/lee_x/oscar-awowari-ceo-designing-a-geospatial-search-layer-for-a-city-discovery-platform-2b23)
-- [I built a zero-dependency CLI to audit hreflang &lpar;international SEO&rpar;](https://dev.to/madahzadeh/i-built-a-zero-dependency-cli-to-audit-hreflang-international-seo-47bm)
-- [Designing a Zero-Trust Authorization Layer for Collection Actions](https://dev.to/matt_rose_9d0fe88d3533a4f/designing-a-zero-trust-authorization-layer-for-collection-actions-599f)
-- [Configurar Graphify para usarlo con Claude cli](https://dev.to/oskar_calvo_1615a9b3b293f/configurar-graphify-para-usarlo-con-claude-cli-k86)
-- [Deploying an Independence Day Web Game with Tencent EdgeOne Makers: A Developer’s Guide](https://dev.to/poundra/deploying-an-independence-day-web-game-with-tencent-edgeone-makers-a-developers-guide-3c61)
+- [When Building an AI Agent, the Journey Matters as Much as the Destination](https://dev.to/rajkundalia/when-building-an-ai-agent-the-journey-matters-as-much-as-the-destination-124d)
+- [Ethical AI and Bias Detection](https://dev.to/godofgeeks/ethical-ai-and-bias-detection-3c68)
+- [Our Post-Mortem Was So Good We Never Fixed the Bug](https://dev.to/vibeagentmaking/our-post-mortem-was-so-good-we-never-fixed-the-bug-2cff)
+- [Kubernetes Cost Optimization: The Phase 1 Cleanup Most Teams Skip &lpar;30–50% Savings&rpar;](https://dev.to/rituraj_borah_7d2880b57c2/kubernetes-cost-optimization-the-phase-1-cleanup-most-teams-skip-30-50-savings-4h8i)
+- [Data Sniffing: Threats to Business and 5 Ways to Defend](https://dev.to/octowatch/data-sniffing-threats-to-business-and-5-ways-to-defend-22k6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
