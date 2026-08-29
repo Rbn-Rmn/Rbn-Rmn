@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The first channelId on a YouTube channel page belongs to a different channel](https://dev.to/neverempty/the-first-channelid-on-a-youtube-channel-page-belongs-to-a-different-channel-o2f)
-- [This is what every AI pin gets WRONG](https://dev.to/dirsebastian/this-is-what-every-ai-pin-gets-wrong-1bhj)
-- [TVL Trend Analysis &amp; Liquidity Risk Assessment: Lido](https://dev.to/dannydoes_2abdf9c/tvl-trend-analysis-liquidity-risk-assessment-lido-1d21)
-- [C# API CRUD Done Wrong, Then Done Right: A Complete Bad-Practices-vs-Best-Practices Walkthrough](https://dev.to/manoharij/c-api-crud-done-wrong-then-done-right-a-complete-bad-practices-vs-best-practices-walkthrough-4fkk)
-- [Good Architecture Starts with Trust](https://dev.to/mgmaster24/good-architecture-starts-with-trust-414l)
+- [Smart Contract Vulnerability Surface Analysis: Bybit](https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-bybit-cgp)
+- [Choice Leaks: I Tried to Generate 100 Random Digits and Failed in Four Measurable Ways](https://dev.to/aureus_c_b3ba7f87cc34d74d49/choice-leaks-i-tried-to-generate-100-random-digits-and-failed-in-four-measurable-ways-3p41)
+- [Fixing AuthGuard Navigation, 401 Handling, and Sales‑Pipeline FK in a Next.js + NestJS Monorepo](https://dev.to/zaerohell/fixing-authguard-navigation-401-handling-and-sales-pipeline-fk-in-a-nextjs-nestjs-monorepo-2cj6)
+- [Why My Agent Refused 96 Times Before Getting It Right: Lessons from Building Reliable AI Agents in Production](https://dev.to/tamizuddin/why-my-agent-refused-96-times-before-getting-it-right-lessons-from-building-reliable-ai-agents-in-4gpo)
+- [Proxmox: LXC oder KVM? Entscheidungshilfe für optimale Virtualisierung](https://dev.to/uhltak/proxmox-lxc-oder-kvm-entscheidungshilfe-fur-optimale-virtualisierung-3f0n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
