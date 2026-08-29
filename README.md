@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Smart Contract Vulnerability Surface Analysis: Bybit](https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-bybit-cgp)
-- [Choice Leaks: I Tried to Generate 100 Random Digits and Failed in Four Measurable Ways](https://dev.to/aureus_c_b3ba7f87cc34d74d49/choice-leaks-i-tried-to-generate-100-random-digits-and-failed-in-four-measurable-ways-3p41)
-- [Fixing AuthGuard Navigation, 401 Handling, and Sales‑Pipeline FK in a Next.js + NestJS Monorepo](https://dev.to/zaerohell/fixing-authguard-navigation-401-handling-and-sales-pipeline-fk-in-a-nextjs-nestjs-monorepo-2cj6)
-- [Why My Agent Refused 96 Times Before Getting It Right: Lessons from Building Reliable AI Agents in Production](https://dev.to/tamizuddin/why-my-agent-refused-96-times-before-getting-it-right-lessons-from-building-reliable-ai-agents-in-4gpo)
-- [Proxmox: LXC oder KVM? Entscheidungshilfe für optimale Virtualisierung](https://dev.to/uhltak/proxmox-lxc-oder-kvm-entscheidungshilfe-fur-optimale-virtualisierung-3f0n)
+- [200 OK Does Not Mean Your Service Works](https://dev.to/thesaurabhk/200-ok-does-not-mean-your-service-works-167c)
+- [Running multiple claude code accounts on Linux](https://dev.to/sakibullah2006/running-multiple-claude-code-accounts-on-linux-opj)
+- [The Whale Metaphor: How OOP&#39;s Four Pillars Actually Work in WordPress](https://dev.to/adovgun/the-whale-metaphor-how-oops-four-pillars-actually-work-in-wordpress-21cd)
+- [I Built a System to Run My Job Search Like a Pipeline](https://dev.to/michael_inghilterra/i-built-a-system-to-run-my-job-search-like-a-pipeline-54k6)
+- [I built browser-to-browser remote file access with WebRTC – no app required](https://dev.to/fencer/i-built-browser-to-browser-remote-file-access-with-webrtc-no-app-required-84b)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
