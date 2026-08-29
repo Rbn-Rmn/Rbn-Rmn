@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [OpenSCAD Model With Animation Video and MakerWorld Multi-Plate Support](https://dev.to/jhermann/openscad-model-with-animation-video-and-makerworld-multi-plate-support-4834)
-- [What I Learned Studying EKS Cluster Upgrades &lpar;Beyond Just &quot;Click Upgrade&quot;&rpar;](https://dev.to/devanshurastogi232004/what-i-learned-studying-eks-cluster-upgrades-beyond-just-click-upgrade-433b)
-- [Cisco ACE load balancer-i idarə edərkən nəyə baxmaq lazımdır?](https://dev.to/camal1o/cisco-ace-load-balancer-i-idar-edrkn-ny-baxmaq-lazimdir-4i57)
-- [Building a Hybrid RAG System with FAISS, BM25, and Agentic AI](https://dev.to/melvin_sabu/building-a-hybrid-rag-system-with-faiss-bm25-and-agentic-ai-h33)
-- [🚀 MyZubster Dev Update — Building the Zorgax Monetization Layer](https://dev.to/danielioni/myzubster-dev-update-building-the-zorgax-monetization-layer-15am)
+- [The first channelId on a YouTube channel page belongs to a different channel](https://dev.to/neverempty/the-first-channelid-on-a-youtube-channel-page-belongs-to-a-different-channel-o2f)
+- [This is what every AI pin gets WRONG](https://dev.to/dirsebastian/this-is-what-every-ai-pin-gets-wrong-1bhj)
+- [TVL Trend Analysis &amp; Liquidity Risk Assessment: Lido](https://dev.to/dannydoes_2abdf9c/tvl-trend-analysis-liquidity-risk-assessment-lido-1d21)
+- [C# API CRUD Done Wrong, Then Done Right: A Complete Bad-Practices-vs-Best-Practices Walkthrough](https://dev.to/manoharij/c-api-crud-done-wrong-then-done-right-a-complete-bad-practices-vs-best-practices-walkthrough-4fkk)
+- [Good Architecture Starts with Trust](https://dev.to/mgmaster24/good-architecture-starts-with-trust-414l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
