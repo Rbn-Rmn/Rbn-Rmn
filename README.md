@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Are More AI Features Always Better? The “Smart” Ideas I Removed](https://dev.to/msgai/are-more-ai-features-always-better-the-smart-ideas-i-removed-313p)
-- [vLLM v0.28.0: the breaking change small GPU users must read](https://dev.to/induwara_ashinsana_9e4d5b/vllm-v0280-the-breaking-change-small-gpu-users-must-read-pkh)
-- [Checking a Cost Model Against a Stranger&#39;s Config File](https://dev.to/megapixel99/checking-a-cost-model-against-a-strangers-config-file-390b)
-- [From Printing &quot;Hello World&quot; to Building Full Apps: My Summer with Scrimba](https://dev.to/muhamadhashir/from-printing-hello-world-to-building-full-apps-my-summer-with-scrimba-31kl)
-- [Why asking for help feels harder than solving the problem yourself](https://dev.to/shannonianthe/why-asking-for-help-feels-harder-than-solving-the-problem-yourself-45ge)
+- [Hybrid encryption: why combine classical and post-quantum cryptography](https://dev.to/isazajuancarlos/hybrid-encryption-why-combine-classical-and-post-quantum-cryptography-3hkp)
+- [AI Innovation in Open-source Platforms 2026: Real Data &amp; Costs](https://dev.to/nlocoding/ai-innovation-in-open-source-platforms-2026-real-data-costs-jid)
+- [2026 Trends: AI-Driven Software Testing Stats, Tools &amp; ROI](https://dev.to/nlocoding/2026-trends-ai-driven-software-testing-stats-tools-roi-52af)
+- [Raku: a language that counts to infinity &lpar;Part 2&rpar;](https://dev.to/andrewshitov/raku-a-language-that-counts-to-infinity-part-2-3ph7)
+- [Four bugs in one paragraph: what I learned building an autonomous loop that chases people who don&#39;t answer](https://dev.to/blockintel/four-bugs-in-one-paragraph-what-i-learned-building-an-autonomous-loop-that-chases-people-who-dont-4hdl)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
