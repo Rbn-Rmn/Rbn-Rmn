@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Hybrid encryption: why combine classical and post-quantum cryptography](https://dev.to/isazajuancarlos/hybrid-encryption-why-combine-classical-and-post-quantum-cryptography-3hkp)
-- [AI Innovation in Open-source Platforms 2026: Real Data &amp; Costs](https://dev.to/nlocoding/ai-innovation-in-open-source-platforms-2026-real-data-costs-jid)
-- [2026 Trends: AI-Driven Software Testing Stats, Tools &amp; ROI](https://dev.to/nlocoding/2026-trends-ai-driven-software-testing-stats-tools-roi-52af)
-- [Raku: a language that counts to infinity &lpar;Part 2&rpar;](https://dev.to/andrewshitov/raku-a-language-that-counts-to-infinity-part-2-3ph7)
-- [Four bugs in one paragraph: what I learned building an autonomous loop that chases people who don&#39;t answer](https://dev.to/blockintel/four-bugs-in-one-paragraph-what-i-learned-building-an-autonomous-loop-that-chases-people-who-dont-4hdl)
+- [Digest Guarantees: How to Choose Public HTTPS Webhook Push, Subscribe, or Polling](https://dev.to/jamesanderson3589/digest-guarantees-how-to-choose-public-https-webhook-push-subscribe-or-polling-374i)
+- [Running Coding Agents in Parallel with Git Worktrees](https://dev.to/servatj/running-coding-agents-in-parallel-with-git-worktrees-507i)
+- [I love gaming and past few months I’ve been working on a laravel project 😇 for gamers a social network designed for gamers to share , discuss and discover gaming related content would love feedback and honest opinions so far https://norespawn.space](https://dev.to/kda809/i-love-gaming-and-past-few-months-ive-been-working-on-a-laravel-project-for-gamers-a-social-38kp)
+- [When HTTP Retries Become Dangerous: Idempotency in Symfony Without the Fairy Tales](https://dev.to/alkin/when-http-retries-become-dangerous-idempotency-in-symfony-without-the-fairy-tales-10l5)
+- [Ponytail: An Open-Source &quot;Lazy Senior Dev&quot; Skill Pack for AI Coding Agents](https://dev.to/terminalchai/ponytail-an-open-source-lazy-senior-dev-skill-pack-for-ai-coding-agents-2d17)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
