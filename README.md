@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [A Finding Is Not a Discovery](https://dev.to/kenielzep97/a-finding-is-not-a-discovery-gib)
-- [I’m Looking for the Right Problem, Not the Right Job Title — Could It Be You?](https://dev.to/remojansen/im-looking-for-the-right-problem-not-the-right-job-title-could-it-be-you-1baa)
-- [Microsoft Strips Copilot&#39;s Free Features — and Puts Deep Research Behind a Subscription](https://dev.to/theaidownside/microsoft-strips-copilots-free-features-and-puts-deep-research-behind-a-subscription-6g6)
-- [Why Workflow Automation Fails When Nobody Owns the Handoff](https://dev.to/nexus-alpha2452/why-workflow-automation-fails-when-nobody-owns-the-handoff-905)
-- [Human-Aligned Decision Transformers for satellite anomaly response operations for extreme data sparsity scenarios](https://dev.to/rikinptl/human-aligned-decision-transformers-for-satellite-anomaly-response-operations-for-extreme-data-40o6)
+- [LLM Observability: Tracing, Logging, Debugging Agent Runs](https://dev.to/mryadavgulshan/llm-observability-tracing-logging-debugging-agent-runs-1je8)
+- [Designing a shared daily trivia set in Flutter &lpar;without an account wall&rpar;](https://dev.to/numorotech/designing-a-shared-daily-trivia-set-in-flutter-without-an-account-wall-5cj4)
+- [The approval signature that could be spent twice](https://dev.to/shaanalpha/the-approval-signature-that-could-be-spent-twice-cdj)
+- [How I Built a Compound Interest Calculator Without Any Backend](https://dev.to/ggwork/how-i-built-a-compound-interest-calculator-without-any-backend-2j2c)
+- [Your subagent finished — you just could not hear it: how agent replies actually reach the parent](https://dev.to/rulestack/your-subagent-finished-you-just-could-not-hear-it-how-agent-replies-actually-reach-the-parent-2gb7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
