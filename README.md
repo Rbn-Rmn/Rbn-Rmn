@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [LLM Observability: Tracing, Logging, Debugging Agent Runs](https://dev.to/mryadavgulshan/llm-observability-tracing-logging-debugging-agent-runs-1je8)
-- [Designing a shared daily trivia set in Flutter &lpar;without an account wall&rpar;](https://dev.to/numorotech/designing-a-shared-daily-trivia-set-in-flutter-without-an-account-wall-5cj4)
-- [The approval signature that could be spent twice](https://dev.to/shaanalpha/the-approval-signature-that-could-be-spent-twice-cdj)
-- [How I Built a Compound Interest Calculator Without Any Backend](https://dev.to/ggwork/how-i-built-a-compound-interest-calculator-without-any-backend-2j2c)
-- [Your subagent finished — you just could not hear it: how agent replies actually reach the parent](https://dev.to/rulestack/your-subagent-finished-you-just-could-not-hear-it-how-agent-replies-actually-reach-the-parent-2gb7)
+- [Dockerfile CMD Explained: Build-Time vs Runtime and How CMD Override Works](https://dev.to/ragibcs/dockerfile-cmd-explained-build-time-vs-runtime-and-how-cmd-override-works-l4h)
+- [pdf-lib is silently deleting characters from your users&#39; data](https://dev.to/stackedboost/pdf-lib-is-silently-deleting-characters-from-your-users-data-51ld)
+- [Email Is Not a Web Page](https://dev.to/iqtechsolutions/email-is-not-a-web-page-2bfn)
+- [Oracle Manipulation Risk Report: Hyperliquid Bridge](https://dev.to/dannydoes_2abdf9c/oracle-manipulation-risk-report-hyperliquid-bridge-504k)
+- [I got tired of slow, ad-heavy text utilities, so I built 100+ free browser-based tools 🚀](https://dev.to/harshraj/i-got-tired-of-slow-ad-heavy-text-utilities-so-i-built-100-free-browser-based-tools-1g9a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
