@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Secure Google OAuth 2.0 Login Using React &amp; Node.js](https://dev.to/codewithsadee/how-to-build-a-secure-google-oauth-20-login-using-react-nodejs-41mp)
-- [Meet the Builder: How I went from intern to shipping a production RAG assistant](https://dev.to/ganeshrd_22/meet-the-builder-how-i-went-from-intern-to-shipping-a-production-rag-assistant-2hbg)
-- [Arquiteturas Cognitivas em IA: As Camadas de Reflexo, Visão e Esquecimento](https://dev.to/matheuscamarques/arquiteturas-cognitivas-em-ia-as-camadas-de-reflexo-visao-e-esquecimento-2hc8)
-- [Cross compilation in Rust](https://dev.to/pirafrank/cross-compilation-in-rust-2nfn)
-- [Ray Framework for Distributed Computing](https://dev.to/godofgeeks/ray-framework-for-distributed-computing-242i)
+- [Why I Stopped Writing Regex by Hand](https://dev.to/karthik_siva_07d3cf4c8443/why-i-stopped-writing-regex-by-hand-3gen)
+- [L&#39;autocomplétion zsh avec Composer et Symfony console](https://dev.to/gromnan/lautocompletion-zsh-avec-composer-et-symfony-console-5cg)
+- [Task state is a call stack for agent work](https://dev.to/likhan/task-state-is-a-call-stack-for-agent-work-a22)
+- [How I Fixed Flutter Web’s Annoying Page Reload Problem](https://dev.to/muhammad_omar_0f70d9ecf59/how-i-fixed-flutter-webs-annoying-page-reload-problem-3h6b)
+- [Next.js AI Task Copilot: Build With Evidence](https://dev.to/gateofai/nextjs-ai-task-copilot-build-with-evidence-3d1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
