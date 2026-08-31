@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Vaadin: Building Modern Web UIs with Pure Java &lpar;2026-08-31 00:00&rpar;](https://dev.to/said_olano/vaadin-building-modern-web-uis-with-pure-java-2026-08-31-0000-2njh)
-- [8 Runs a Day Became 3: Building a launchd plist Integrity Guard in 73 Lines](https://dev.to/bokuwalily/8-runs-a-day-became-3-building-a-launchd-plist-integrity-guard-in-73-lines-27h4)
-- [Can You Get Your Data Out of an AI Tool? The Right Exists on Paper, the Button Usually Doesn&#39;t](https://dev.to/theaidownside/can-you-get-your-data-out-of-an-ai-tool-the-right-exists-on-paper-the-button-usually-doesnt-23mk)
-- [Sampling rate is a correctness property, not a performance knob](https://dev.to/edycutjong/sampling-rate-is-a-correctness-property-not-a-performance-knob-47p7)
-- [Why Senior Developers Burn Out Faster Than Junior Devs](https://dev.to/nemynai/why-senior-developers-burn-out-faster-than-junior-devs-38if)
+- [I published our app on Zapier. The no-code platform made me write code.](https://dev.to/eugeniya_ivanova_4a58eadc/i-published-our-app-on-zapier-the-no-code-platform-made-me-write-code-2hc3)
+- [Gemini Function Calling Is Not an Agent Runtime](https://dev.to/raju_dandigam/gemini-function-calling-is-not-an-agent-runtime-4ijl)
+- [Why your transactional email needs a queue, not a try/catch](https://dev.to/greg_pabijanmorawski/why-your-transactional-email-needs-a-queue-not-a-trycatch-4di4)
+- [Enforcing Modular Monolith Boundaries in .NET: NDepend, Parallel Pipelines, and the Architecture That Holds](https://dev.to/aloknecessary/enforcing-modular-monolith-boundaries-in-net-ndepend-parallel-pipelines-and-the-architecture-37e1)
+- [Building My First Web App: A Feature-Packed Offline PWA Calculator](https://dev.to/red_mad_zone/building-my-first-web-app-a-feature-packed-offline-pwa-calculator-4djk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
