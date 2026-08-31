@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I published our app on Zapier. The no-code platform made me write code.](https://dev.to/eugeniya_ivanova_4a58eadc/i-published-our-app-on-zapier-the-no-code-platform-made-me-write-code-2hc3)
-- [Gemini Function Calling Is Not an Agent Runtime](https://dev.to/raju_dandigam/gemini-function-calling-is-not-an-agent-runtime-4ijl)
-- [Why your transactional email needs a queue, not a try/catch](https://dev.to/greg_pabijanmorawski/why-your-transactional-email-needs-a-queue-not-a-trycatch-4di4)
-- [Enforcing Modular Monolith Boundaries in .NET: NDepend, Parallel Pipelines, and the Architecture That Holds](https://dev.to/aloknecessary/enforcing-modular-monolith-boundaries-in-net-ndepend-parallel-pipelines-and-the-architecture-37e1)
-- [Building My First Web App: A Feature-Packed Offline PWA Calculator](https://dev.to/red_mad_zone/building-my-first-web-app-a-feature-packed-offline-pwa-calculator-4djk)
+- [How to Build a Secure Google OAuth 2.0 Login Using React &amp; Node.js](https://dev.to/codewithsadee/how-to-build-a-secure-google-oauth-20-login-using-react-nodejs-41mp)
+- [Meet the Builder: How I went from intern to shipping a production RAG assistant](https://dev.to/ganeshrd_22/meet-the-builder-how-i-went-from-intern-to-shipping-a-production-rag-assistant-2hbg)
+- [Arquiteturas Cognitivas em IA: As Camadas de Reflexo, Visão e Esquecimento](https://dev.to/matheuscamarques/arquiteturas-cognitivas-em-ia-as-camadas-de-reflexo-visao-e-esquecimento-2hc8)
+- [Cross compilation in Rust](https://dev.to/pirafrank/cross-compilation-in-rust-2nfn)
+- [Ray Framework for Distributed Computing](https://dev.to/godofgeeks/ray-framework-for-distributed-computing-242i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
