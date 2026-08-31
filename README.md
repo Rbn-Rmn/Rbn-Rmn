@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Digest Guarantees: How to Choose Public HTTPS Webhook Push, Subscribe, or Polling](https://dev.to/jamesanderson3589/digest-guarantees-how-to-choose-public-https-webhook-push-subscribe-or-polling-374i)
-- [Running Coding Agents in Parallel with Git Worktrees](https://dev.to/servatj/running-coding-agents-in-parallel-with-git-worktrees-507i)
-- [I love gaming and past few months I’ve been working on a laravel project 😇 for gamers a social network designed for gamers to share , discuss and discover gaming related content would love feedback and honest opinions so far https://norespawn.space](https://dev.to/kda809/i-love-gaming-and-past-few-months-ive-been-working-on-a-laravel-project-for-gamers-a-social-38kp)
-- [When HTTP Retries Become Dangerous: Idempotency in Symfony Without the Fairy Tales](https://dev.to/alkin/when-http-retries-become-dangerous-idempotency-in-symfony-without-the-fairy-tales-10l5)
-- [Ponytail: An Open-Source &quot;Lazy Senior Dev&quot; Skill Pack for AI Coding Agents](https://dev.to/terminalchai/ponytail-an-open-source-lazy-senior-dev-skill-pack-for-ai-coding-agents-2d17)
+- [Vaadin: Building Modern Web UIs with Pure Java &lpar;2026-08-31 00:00&rpar;](https://dev.to/said_olano/vaadin-building-modern-web-uis-with-pure-java-2026-08-31-0000-2njh)
+- [8 Runs a Day Became 3: Building a launchd plist Integrity Guard in 73 Lines](https://dev.to/bokuwalily/8-runs-a-day-became-3-building-a-launchd-plist-integrity-guard-in-73-lines-27h4)
+- [Can You Get Your Data Out of an AI Tool? The Right Exists on Paper, the Button Usually Doesn&#39;t](https://dev.to/theaidownside/can-you-get-your-data-out-of-an-ai-tool-the-right-exists-on-paper-the-button-usually-doesnt-23mk)
+- [Sampling rate is a correctness property, not a performance knob](https://dev.to/edycutjong/sampling-rate-is-a-correctness-property-not-a-performance-knob-47p7)
+- [Why Senior Developers Burn Out Faster Than Junior Devs](https://dev.to/nemynai/why-senior-developers-burn-out-faster-than-junior-devs-38if)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
