@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI PCB designer. The routing engine has no AI in it, here&#39;s why.](https://dev.to/dibyaprakash_pradhan/i-built-an-ai-pcb-designer-the-routing-engine-has-no-ai-in-it-heres-why-2ac5)
-- [Parsing SEC ownership filings &lpar;Form 4 / 13F&rpar; is awful. Here is what we learned building a normalized API for it.](https://dev.to/estrechoia/parsing-sec-ownership-filings-form-4-13f-is-awful-here-is-what-we-learned-building-a-3npp)
-- [Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini](https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc)
-- [One Agent, Two Frameworks, Zero Lessons About Frameworks](https://dev.to/tonal/one-agent-two-frameworks-zero-lessons-about-frameworks-766)
-- [I Started Building an AI Action Safety Layer After Watching AI Agents Cross the Line](https://dev.to/seanchen/i-started-building-an-ai-action-safety-layer-after-watching-ai-agents-cross-the-line-4gh9)
+- [The Brave Wanderer: I made Claude play a Pokémon it never read a guide for](https://dev.to/qingze_hu_c4c251c1b353ede/the-brave-wanderer-i-made-claude-play-a-pokemon-it-never-read-a-guide-for-2o71)
+- [From 3:00 AM Panic to Confidence: How I Use AI During On-Call Incidents](https://dev.to/qainsights/from-300-am-panic-to-confidence-how-i-use-ai-during-on-call-incidents-2nk4)
+- [Mozaik Hackathon 2026: Compete for $1,000 in Cash Prizes](https://dev.to/hadil/mozaik-hackathon-2026-compete-for-1000-in-cash-prizes-3jhj)
+- [I raced six models against each other on DigitalOcean Inference. The cheapest one won.](https://dev.to/remdore/i-raced-six-models-against-each-other-on-digitalocean-inference-the-cheapest-one-won-4lga)
+- [An Em Dash Took Down My Entire Automation Stack for Five Days](https://dev.to/whoffagents/an-em-dash-took-down-my-entire-automation-stack-for-five-days-18c5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
