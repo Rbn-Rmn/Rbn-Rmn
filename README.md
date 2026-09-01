@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building With AI When You Don&#39;t Know Architecture: A Survival Guide](https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3)
-- [NocoBase 3.0 answers AI coding by becoming the foundation](https://dev.to/stale_orbit/nocobase-30-answers-ai-coding-by-becoming-the-foundation-4pcn)
-- [When Two Systems Disagree About the Truth, Both Get Believed](https://dev.to/serguey_shinder_4ab9b87b1/when-two-systems-disagree-about-the-truth-both-get-believed-1mol)
-- [Rust in the Wild: What 32 Popular Repos Actually Tell Us About the Memory-Safety Migration](https://dev.to/howcani_howcani_77e786a89/rust-in-the-wild-what-32-popular-repos-actually-tell-us-about-the-memory-safety-migration-3bca)
-- [Fixing npm Global Command Not Found on Windows](https://dev.to/devlog/fixing-npm-global-command-not-found-on-windows-50e1)
+- [I built an AI PCB designer. The routing engine has no AI in it, here&#39;s why.](https://dev.to/dibyaprakash_pradhan/i-built-an-ai-pcb-designer-the-routing-engine-has-no-ai-in-it-heres-why-2ac5)
+- [Parsing SEC ownership filings &lpar;Form 4 / 13F&rpar; is awful. Here is what we learned building a normalized API for it.](https://dev.to/estrechoia/parsing-sec-ownership-filings-form-4-13f-is-awful-here-is-what-we-learned-building-a-3npp)
+- [Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini](https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc)
+- [One Agent, Two Frameworks, Zero Lessons About Frameworks](https://dev.to/tonal/one-agent-two-frameworks-zero-lessons-about-frameworks-766)
+- [I Started Building an AI Action Safety Layer After Watching AI Agents Cross the Line](https://dev.to/seanchen/i-started-building-an-ai-action-safety-layer-after-watching-ai-agents-cross-the-line-4gh9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
