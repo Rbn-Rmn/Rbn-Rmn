@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Auth for your MCP server, without running an authorization server](https://dev.to/grantor/auth-for-your-mcp-server-without-running-an-authorization-server-1o6h)
-- [Architectural Breakdown: I Tried to Beat Peter Norvig and Accidentally Became Ryan Gosling](https://dev.to/agenticstack/architectural-breakdown-i-tried-to-beat-peter-norvig-and-accidentally-became-ryan-gosling-2cdh)
-- [How I Built My First Crypto Trading Bot — A Neo&#39;s Journey into the Matrix](https://dev.to/timevolt/how-i-built-my-first-crypto-trading-bot-a-neos-journey-into-the-matrix-4ndc)
-- [Why Your AI Agent Passed Every Test but Still Failed in Production — Lessons from the 2026 Agent Reliability Crisis](https://dev.to/tamizuddin/why-your-ai-agent-passed-every-test-but-still-failed-in-production-lessons-from-the-2026-agent-4e27)
-- [The Morning My cron Jobs Went Silent: A 97-Line Script That Migrated Everything to launchd](https://dev.to/bokuwalily/the-morning-my-cron-jobs-went-silent-a-97-line-script-that-migrated-everything-to-launchd-4aia)
+- [Building With AI When You Don&#39;t Know Architecture: A Survival Guide](https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3)
+- [NocoBase 3.0 answers AI coding by becoming the foundation](https://dev.to/stale_orbit/nocobase-30-answers-ai-coding-by-becoming-the-foundation-4pcn)
+- [When Two Systems Disagree About the Truth, Both Get Believed](https://dev.to/serguey_shinder_4ab9b87b1/when-two-systems-disagree-about-the-truth-both-get-believed-1mol)
+- [Rust in the Wild: What 32 Popular Repos Actually Tell Us About the Memory-Safety Migration](https://dev.to/howcani_howcani_77e786a89/rust-in-the-wild-what-32-popular-repos-actually-tell-us-about-the-memory-safety-migration-3bca)
+- [Fixing npm Global Command Not Found on Windows](https://dev.to/devlog/fixing-npm-global-command-not-found-on-windows-50e1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
