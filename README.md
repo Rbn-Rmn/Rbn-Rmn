@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Actually Get 12 Testers for 14 Days on Google Play &lpar;Without Your Count Resetting&rpar;](https://dev.to/vmzavas/how-to-actually-get-12-testers-for-14-days-on-google-play-without-your-count-resetting-3n19)
-- [Understanding Tech guide about فروش کود کشاورزی](https://dev.to/dehkadeh_honar_bd47919754/understanding-tech-guide-about-frwsh-khwd-khshwrzy-5ape)
-- [From Zero to Staging: A Real-World Laravel + Node.js Docker Deployment &lpar;With Every Bug We Hit&rpar;](https://dev.to/dineshstack/from-zero-to-staging-a-real-world-laravel-nodejs-docker-deployment-with-every-bug-we-hit-fn3)
-- [Yield Strategy Optimization Report: Steakhouse Financial](https://dev.to/dannydoes_2abdf9c/yield-strategy-optimization-report-steakhouse-financial-58h1)
-- [How the internet actually works, and why nobody is in charge of it](https://dev.to/lovestaco/how-the-internet-actually-works-and-why-nobody-is-in-charge-of-it-3im8)
+- [How We Built a Weather-Aware Daily Recipe Pipeline With FastAPI](https://dev.to/fancyfoxrecipes/how-we-built-a-weather-aware-daily-recipe-pipeline-with-fastapi-4h2b)
+- [The Edit That Fixed 4 Tasks and Broke 1](https://dev.to/debashish_ghosal/the-edit-that-fixed-4-tasks-and-broke-1-5770)
+- [From Software Engineer to AI Engineer - Part 5: Scaling your tool belt](https://dev.to/bjornvdlaan/from-software-engineer-to-ai-engineer-part-5-scaling-your-tool-belt-2ejn)
+- [I&#39;m Afraid](https://dev.to/knightfall_official/im-afraid-o8d)
+- [O que são agentes de IA?](https://dev.to/caramelotech/o-que-sao-agentes-de-ia-3lj8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
