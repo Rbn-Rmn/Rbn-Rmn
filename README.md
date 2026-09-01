@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Brave Wanderer: I made Claude play a Pokémon it never read a guide for](https://dev.to/qingze_hu_c4c251c1b353ede/the-brave-wanderer-i-made-claude-play-a-pokemon-it-never-read-a-guide-for-2o71)
-- [From 3:00 AM Panic to Confidence: How I Use AI During On-Call Incidents](https://dev.to/qainsights/from-300-am-panic-to-confidence-how-i-use-ai-during-on-call-incidents-2nk4)
-- [Mozaik Hackathon 2026: Compete for $1,000 in Cash Prizes](https://dev.to/hadil/mozaik-hackathon-2026-compete-for-1000-in-cash-prizes-3jhj)
-- [I raced six models against each other on DigitalOcean Inference. The cheapest one won.](https://dev.to/remdore/i-raced-six-models-against-each-other-on-digitalocean-inference-the-cheapest-one-won-4lga)
-- [An Em Dash Took Down My Entire Automation Stack for Five Days](https://dev.to/whoffagents/an-em-dash-took-down-my-entire-automation-stack-for-five-days-18c5)
+- [How to Actually Get 12 Testers for 14 Days on Google Play &lpar;Without Your Count Resetting&rpar;](https://dev.to/vmzavas/how-to-actually-get-12-testers-for-14-days-on-google-play-without-your-count-resetting-3n19)
+- [Understanding Tech guide about فروش کود کشاورزی](https://dev.to/dehkadeh_honar_bd47919754/understanding-tech-guide-about-frwsh-khwd-khshwrzy-5ape)
+- [From Zero to Staging: A Real-World Laravel + Node.js Docker Deployment &lpar;With Every Bug We Hit&rpar;](https://dev.to/dineshstack/from-zero-to-staging-a-real-world-laravel-nodejs-docker-deployment-with-every-bug-we-hit-fn3)
+- [Yield Strategy Optimization Report: Steakhouse Financial](https://dev.to/dannydoes_2abdf9c/yield-strategy-optimization-report-steakhouse-financial-58h1)
+- [How the internet actually works, and why nobody is in charge of it](https://dev.to/lovestaco/how-the-internet-actually-works-and-why-nobody-is-in-charge-of-it-3im8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
