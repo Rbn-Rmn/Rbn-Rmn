@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How We Built a Weather-Aware Daily Recipe Pipeline With FastAPI](https://dev.to/fancyfoxrecipes/how-we-built-a-weather-aware-daily-recipe-pipeline-with-fastapi-4h2b)
-- [The Edit That Fixed 4 Tasks and Broke 1](https://dev.to/debashish_ghosal/the-edit-that-fixed-4-tasks-and-broke-1-5770)
-- [From Software Engineer to AI Engineer - Part 5: Scaling your tool belt](https://dev.to/bjornvdlaan/from-software-engineer-to-ai-engineer-part-5-scaling-your-tool-belt-2ejn)
-- [I&#39;m Afraid](https://dev.to/knightfall_official/im-afraid-o8d)
-- [O que são agentes de IA?](https://dev.to/caramelotech/o-que-sao-agentes-de-ia-3lj8)
+- [Why I Built an Image Converter That Never Touches a Server](https://dev.to/fianso_algeriano_7289cd6c/why-i-built-an-image-converter-that-never-touches-a-server-3de5)
+- [A single rough clip can ruin the entire style — How to choose 5 good ones](https://dev.to/orca_forge/a-single-rough-clip-can-ruin-the-entire-style-how-to-choose-5-good-ones-35f5)
+- [Generative Modeling: From Data Distributions to Deep Generative Models](https://dev.to/zeromathai/generative-modeling-from-data-distributions-to-deep-generative-models-5h6e)
+- [Your automation is not logged out: a missing `--cdp` flag started a second Chrome](https://dev.to/vinhnguyenthanhdn/your-automation-is-not-logged-out-a-missing-cdp-flag-started-a-second-chrome-207a)
+- [How AI Agents Secretly Fail in Production &lpar;And Why Benchmarks Don&#39;t Save You&rpar;](https://dev.to/tamizuddin/how-ai-agents-secretly-fail-in-production-and-why-benchmarks-dont-save-you-580f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
