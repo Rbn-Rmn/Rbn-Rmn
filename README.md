@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I parsed 559 public CLAUDE.md files. Most of what&#39;s in them isn&#39;t rules.](https://dev.to/rulereceipt/i-parsed-559-public-claudemd-files-most-of-whats-in-them-isnt-rules-3flo)
-- [Atlas and Spatial Intelligence: How AI is Redefining Autonomous Systems in 2026](https://dev.to/patilanupam/atlas-and-spatial-intelligence-how-ai-is-redefining-autonomous-systems-in-2026-3kbg)
-- [Oracle Manipulation Risk Report: ether.fi Stake](https://dev.to/dannydoes_2abdf9c/oracle-manipulation-risk-report-etherfi-stake-5coe)
-- [The plumbing was a person: giving my G2 scraper a memory and a locked door with MCP connectors](https://dev.to/apify/the-plumbing-was-a-person-giving-my-g2-scraper-a-memory-and-a-locked-door-with-mcp-connectors-1f7c)
-- [La UF de CABA subió 23,5% de golpe: por qué un valor semestral es más peligroso de cachear](https://dev.to/multita/la-uf-de-caba-subio-235-de-golpe-por-que-un-valor-semestral-es-mas-peligroso-de-cachear-42pc)
+- [The Best iLovePDF Alternatives &lpar;One of Them Never Touches Your Files&rpar;](https://dev.to/iqbalhssn78/the-best-ilovepdf-alternatives-one-of-them-never-touches-your-files-47j0)
+- [Why your recorded UI tests break after every redesign — and how to build replay that survives](https://dev.to/jimtt/why-your-recorded-ui-tests-break-after-every-redesign-and-how-to-build-replay-that-survives-50g6)
+- [Infrastructure Monitoring: Metrics Every IT Team Should Track](https://dev.to/ronak_sharma_913570f6e215/infrastructure-monitoring-metrics-every-it-team-should-track-40d5)
+- [What&#39;s actually inside Apple Mail&#39;s Envelope Index](https://dev.to/paris_moschovakos_5f8f1e0/whats-actually-inside-apple-mails-envelope-index-2loh)
+- [Zapp Chess: 3-Minute Chess Battles From the Middlegame](https://dev.to/zappchess/zapp-chess-3-minute-chess-battles-from-the-middlegame-3oij)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
