@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The free way to check if a startup name is trademarked &lpar;USPTO, 2026&rpar;](https://dev.to/alexcommitter/the-free-way-to-check-if-a-startup-name-is-trademarked-uspto-2026-253f)
-- [NoWreck Deterministic AI Verifier — v0.13.0](https://dev.to/astralxvoid/nowreckdeterministic-ai-verifier-v0130-b8p)
-- [AI Can Write the Code. So What Are You Actually Good At?](https://dev.to/darkterminal/ai-can-write-the-code-so-what-are-you-actually-good-at-220e)
-- [ShipCopy beta testers wanted: does this sound like a human wrote it?](https://dev.to/keheai_harvey/shipcopy-beta-testers-wanted-does-this-sound-like-a-human-wrote-it-5he6)
-- [Digitale Souveränität: Raus aus der Cloud-Falle der US-Anbieter!](https://dev.to/uhltak/digitale-souveranitat-raus-aus-der-cloud-falle-der-us-anbieter-klm)
+- [Claude-Mem: Persistent Long-Term Memory for AI Coding Agents](https://dev.to/terminalchai/claude-mem-persistent-long-term-memory-for-ai-coding-agents-5f8p)
+- [Lighthouse says 86. Run it again: 91. Building a free local console for scores you can defend](https://dev.to/simon_crawlforge_dev/lighthouse-says-86-run-it-again-91-building-a-free-local-console-for-scores-you-can-defend-2765)
+- [Why I Publish to Kafka Only After the Transaction Commits](https://dev.to/douglas_carmo_cd84c5548f2/why-i-publish-to-kafka-only-after-the-transaction-commits-56b8)
+- [Constructing a CrowdStrike EDR Evasion Debugging Pipeline](https://dev.to/excalibra/constructing-a-crowdstrike-edr-evasion-debugging-pipeline-pp3)
+- [Why my AI agents needed a rivalry](https://dev.to/antfitch/why-my-ai-agents-needed-a-rivalry-mixing-gemini-and-claude-for-better-code-1mje)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
