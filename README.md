@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Best iLovePDF Alternatives &lpar;One of Them Never Touches Your Files&rpar;](https://dev.to/iqbalhssn78/the-best-ilovepdf-alternatives-one-of-them-never-touches-your-files-47j0)
-- [Why your recorded UI tests break after every redesign — and how to build replay that survives](https://dev.to/jimtt/why-your-recorded-ui-tests-break-after-every-redesign-and-how-to-build-replay-that-survives-50g6)
-- [Infrastructure Monitoring: Metrics Every IT Team Should Track](https://dev.to/ronak_sharma_913570f6e215/infrastructure-monitoring-metrics-every-it-team-should-track-40d5)
-- [What&#39;s actually inside Apple Mail&#39;s Envelope Index](https://dev.to/paris_moschovakos_5f8f1e0/whats-actually-inside-apple-mails-envelope-index-2loh)
-- [Zapp Chess: 3-Minute Chess Battles From the Middlegame](https://dev.to/zappchess/zapp-chess-3-minute-chess-battles-from-the-middlegame-3oij)
+- [I Built 35+ Browser-Side Tools Because I Was Tired of Uploading My Data to Random Servers](https://dev.to/devenquan/i-built-35-browser-side-tools-because-i-was-tired-of-uploading-my-data-to-random-servers-4h9n)
+- [A source-led research-paper workflow with Obsidian, Claude Code, LaTeX, and Codex](https://dev.to/softwaresausage/a-source-led-research-paper-workflow-with-obsidian-claude-code-latex-and-codex-dd4)
+- [What a New Stripe Account Can&#39;t Do Yet](https://dev.to/doolay/what-a-new-stripe-account-cant-do-yet-536i)
+- [Por qué dejé Duolingo después de una racha de 1.000 días](https://dev.to/mattsenter/por-que-deje-duolingo-despues-de-una-racha-de-1000-dias-2ocm)
+- [What Does an Industrial AIoT System Actually Need?](https://dev.to/jeem/what-does-an-industrial-aiot-system-actually-need-516c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
