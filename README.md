@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Claude-Mem: Persistent Long-Term Memory for AI Coding Agents](https://dev.to/terminalchai/claude-mem-persistent-long-term-memory-for-ai-coding-agents-5f8p)
-- [Lighthouse says 86. Run it again: 91. Building a free local console for scores you can defend](https://dev.to/simon_crawlforge_dev/lighthouse-says-86-run-it-again-91-building-a-free-local-console-for-scores-you-can-defend-2765)
-- [Why I Publish to Kafka Only After the Transaction Commits](https://dev.to/douglas_carmo_cd84c5548f2/why-i-publish-to-kafka-only-after-the-transaction-commits-56b8)
-- [Constructing a CrowdStrike EDR Evasion Debugging Pipeline](https://dev.to/excalibra/constructing-a-crowdstrike-edr-evasion-debugging-pipeline-pp3)
-- [Why my AI agents needed a rivalry](https://dev.to/antfitch/why-my-ai-agents-needed-a-rivalry-mixing-gemini-and-claude-for-better-code-1mje)
+- [Shopify Finds AI-Referred Shoppers Convert Better Than Organic Search in Spec-Led Categories](https://dev.to/alifar/shopify-finds-ai-referred-shoppers-convert-better-than-organic-search-in-spec-led-categories-1p27)
+- [Why I Chose Scheduled SMS Alerts: Cancel Support, Status Polling, App-Owned Templates](https://dev.to/matsjohansson6547/why-i-chose-scheduled-sms-alerts-cancel-support-status-polling-app-owned-templates-4cd0)
+- [AI Voice-Cloning Scams: The Familiar Voice on the Phone Might Be Software](https://dev.to/theaidownside/ai-voice-cloning-scams-the-familiar-voice-on-the-phone-might-be-software-dg0)
+- [Architecting a Low-Power Geofencing Engine for Android](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-3842)
+- [A Practical Data Model for Safer Boiler Service Requests](https://dev.to/puria_moradi_22edc4ca9e1d/a-practical-data-model-for-safer-boiler-service-requests-4dm9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
