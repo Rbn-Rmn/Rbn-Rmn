@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built 35+ Browser-Side Tools Because I Was Tired of Uploading My Data to Random Servers](https://dev.to/devenquan/i-built-35-browser-side-tools-because-i-was-tired-of-uploading-my-data-to-random-servers-4h9n)
-- [A source-led research-paper workflow with Obsidian, Claude Code, LaTeX, and Codex](https://dev.to/softwaresausage/a-source-led-research-paper-workflow-with-obsidian-claude-code-latex-and-codex-dd4)
-- [What a New Stripe Account Can&#39;t Do Yet](https://dev.to/doolay/what-a-new-stripe-account-cant-do-yet-536i)
-- [Por qué dejé Duolingo después de una racha de 1.000 días](https://dev.to/mattsenter/por-que-deje-duolingo-despues-de-una-racha-de-1000-dias-2ocm)
-- [What Does an Industrial AIoT System Actually Need?](https://dev.to/jeem/what-does-an-industrial-aiot-system-actually-need-516c)
+- [The free way to check if a startup name is trademarked &lpar;USPTO, 2026&rpar;](https://dev.to/alexcommitter/the-free-way-to-check-if-a-startup-name-is-trademarked-uspto-2026-253f)
+- [NoWreck Deterministic AI Verifier — v0.13.0](https://dev.to/astralxvoid/nowreckdeterministic-ai-verifier-v0130-b8p)
+- [AI Can Write the Code. So What Are You Actually Good At?](https://dev.to/darkterminal/ai-can-write-the-code-so-what-are-you-actually-good-at-220e)
+- [ShipCopy beta testers wanted: does this sound like a human wrote it?](https://dev.to/keheai_harvey/shipcopy-beta-testers-wanted-does-this-sound-like-a-human-wrote-it-5he6)
+- [Digitale Souveränität: Raus aus der Cloud-Falle der US-Anbieter!](https://dev.to/uhltak/digitale-souveranitat-raus-aus-der-cloud-falle-der-us-anbieter-klm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
