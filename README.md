@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [[Advanced Rust] 2.11. API Design Principles of Constrained Pt.2 - Sealed Traits, Re-exports, and Auto Traits](https://dev.to/someb1oody/advanced-rust-211-api-design-principles-of-constrained-pt2-sealed-traits-re-exports-and-30n6)
-- [I Tried 4 Models to Save My Self-Improving Agent. All 4 Failed.](https://dev.to/debashish_ghosal/i-tested-4-models-and-none-could-improve-their-own-prompt-the-search-strategy-is-broken-not-the-3ajf)
-- [My 11 Actors were invisible in Apify Store for a week. One query parameter proved it.](https://dev.to/apify/my-11-actors-were-invisible-in-apify-store-for-a-week-one-query-parameter-proved-it-lmi)
-- [I don&#39;t like what AIs are saying about my package &lpar;@bananacool467/ui-tools&rpar;](https://dev.to/banana_cool/i-dont-like-what-ais-are-saying-about-my-package-bananacool467ui-tools-2gij)
-- [Sandboxed isn&#39;t safe](https://dev.to/phpboyscout/sandboxed-isnt-safe-k42)
+- [Transactional Outbox Pattern: Prevent Lost Events in EDA](https://dev.to/nainikmehta/transactional-outbox-pattern-prevent-lost-events-in-eda-2e95)
+- [How to Detect What WordPress Theme &lpar;and Stack&rpar; a Website Uses](https://dev.to/simran_kaur_9eda1e242c31f/how-to-detect-what-wordpress-theme-and-stack-a-website-uses-5751)
+- [Your AI Coding Assistant Should Not Own Your Repository&#39;s Memory](https://dev.to/doozieakshay/your-ai-coding-assistant-should-not-own-your-repositorys-memory-28pg)
+- [False Completion Is the Real Failure Mode of Coding Agents](https://dev.to/giladha/false-completion-is-the-real-failure-mode-of-coding-agents-25fp)
+- [How to Build a Tennis Live Score Tracker with Next.js with Sportmicro](https://dev.to/gobebarcelona/how-to-build-a-tennis-live-score-tracker-with-nextjs-with-sportmicro-12li)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
