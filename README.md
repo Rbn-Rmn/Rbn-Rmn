@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Shopify Finds AI-Referred Shoppers Convert Better Than Organic Search in Spec-Led Categories](https://dev.to/alifar/shopify-finds-ai-referred-shoppers-convert-better-than-organic-search-in-spec-led-categories-1p27)
-- [Why I Chose Scheduled SMS Alerts: Cancel Support, Status Polling, App-Owned Templates](https://dev.to/matsjohansson6547/why-i-chose-scheduled-sms-alerts-cancel-support-status-polling-app-owned-templates-4cd0)
-- [AI Voice-Cloning Scams: The Familiar Voice on the Phone Might Be Software](https://dev.to/theaidownside/ai-voice-cloning-scams-the-familiar-voice-on-the-phone-might-be-software-dg0)
-- [Architecting a Low-Power Geofencing Engine for Android](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-3842)
-- [A Practical Data Model for Safer Boiler Service Requests](https://dev.to/puria_moradi_22edc4ca9e1d/a-practical-data-model-for-safer-boiler-service-requests-4dm9)
+- [[Advanced Rust] 2.11. API Design Principles of Constrained Pt.2 - Sealed Traits, Re-exports, and Auto Traits](https://dev.to/someb1oody/advanced-rust-211-api-design-principles-of-constrained-pt2-sealed-traits-re-exports-and-30n6)
+- [I Tried 4 Models to Save My Self-Improving Agent. All 4 Failed.](https://dev.to/debashish_ghosal/i-tested-4-models-and-none-could-improve-their-own-prompt-the-search-strategy-is-broken-not-the-3ajf)
+- [My 11 Actors were invisible in Apify Store for a week. One query parameter proved it.](https://dev.to/apify/my-11-actors-were-invisible-in-apify-store-for-a-week-one-query-parameter-proved-it-lmi)
+- [I don&#39;t like what AIs are saying about my package &lpar;@bananacool467/ui-tools&rpar;](https://dev.to/banana_cool/i-dont-like-what-ais-are-saying-about-my-package-bananacool467ui-tools-2gij)
+- [Sandboxed isn&#39;t safe](https://dev.to/phpboyscout/sandboxed-isnt-safe-k42)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
