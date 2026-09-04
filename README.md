@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How do you turn traces into a training dataset?](https://dev.to/tyler007/how-do-you-turn-traces-into-a-training-dataset-1e9)
-- [Shift Left was how ops got fired and devs got the pager](https://dev.to/adioof/shift-left-was-how-ops-got-fired-and-devs-got-the-pager-4d2h)
-- [I Ran 1,000 Email Validations Against HIBP. 47 Were Breached.](https://dev.to/onizuka/i-ran-1000-email-validations-against-hibp-47-were-breached-4d5h)
-- [Azure Synapse Databricks: A Migration Playbook That Survives Production](https://dev.to/firfircelik/azure-synapse-databricks-a-migration-playbook-that-survives-production-nge)
-- [Creating sound with gestural harmony: AethericGeometry](https://dev.to/lluisestape/creating-sound-with-gestural-harmony-aethericgeometry-2dlh)
+- [I Thought This Was a Classification Problem. It Wasn&#39;t.](https://dev.to/debashish_ghosal/i-thought-this-was-a-classification-problem-it-wasnt-2od9)
+- [The Extension You Vetted Is Not the One That Auto-Updates](https://dev.to/session_replay/the-extension-you-vetted-is-not-the-one-that-auto-updates-a6c)
+- [I built pistachio, a declarative schema tool for PostgreSQL](https://dev.to/winebarrel/i-built-pistachio-a-declarative-schema-tool-for-postgresql-5eh8)
+- [I Built a CLI to Scan JS/TS Apps for India&#39;s DPDP Act Compliance](https://dev.to/babbarankit/i-built-a-cli-to-scan-jsts-apps-for-indias-dpdp-act-compliance-28ld)
+- [Agent 治理框架选型指南：先定边界，再谈框架](https://dev.to/maref/agent-zhi-li-kuang-jia-xuan-xing-zhi-nan-xian-ding-bian-jie-zai-tan-kuang-jia-4me6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
