@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Thought This Was a Classification Problem. It Wasn&#39;t.](https://dev.to/debashish_ghosal/i-thought-this-was-a-classification-problem-it-wasnt-2od9)
-- [The Extension You Vetted Is Not the One That Auto-Updates](https://dev.to/session_replay/the-extension-you-vetted-is-not-the-one-that-auto-updates-a6c)
-- [I built pistachio, a declarative schema tool for PostgreSQL](https://dev.to/winebarrel/i-built-pistachio-a-declarative-schema-tool-for-postgresql-5eh8)
-- [I Built a CLI to Scan JS/TS Apps for India&#39;s DPDP Act Compliance](https://dev.to/babbarankit/i-built-a-cli-to-scan-jsts-apps-for-indias-dpdp-act-compliance-28ld)
-- [Agent 治理框架选型指南：先定边界，再谈框架](https://dev.to/maref/agent-zhi-li-kuang-jia-xuan-xing-zhi-nan-xian-ding-bian-jie-zai-tan-kuang-jia-4me6)
+- [Server-side pricing in Three.js configurators - why client-side gets DevTools-hacked](https://dev.to/gronskideveloper/server-side-pricing-in-threejs-configurators-why-client-side-gets-devtools-hacked-3jjh)
+- [I Built a Deliberately Vulnerable PHP/MySQL Lab for Web Security Practice](https://dev.to/gmmb1/i-built-a-deliberately-vulnerable-phpmysql-lab-for-web-security-practice-1dpn)
+- [Six ways I leaked data through correct RLS policies](https://dev.to/basildrazarch/six-ways-i-leaked-data-through-correct-rls-policies-3l39)
+- [Dev Opportunity Radar #15: HackerRank Orchestrate, Claude Campus Ambassadors &amp; the Bharat Builds Tour](https://dev.to/devengers/dev-opportunity-radar-15-hackerrank-orchestrate-claude-campus-ambassadors-the-bharat-builds-3oc)
+- [Bitcoin Doesn&#39;t Eliminate Trust: It Changes What We Trust](https://dev.to/writtenbynaomi/bitcoin-doesnt-eliminate-trust-it-changes-what-we-trust-2c23)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
