@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Server-side pricing in Three.js configurators - why client-side gets DevTools-hacked](https://dev.to/gronskideveloper/server-side-pricing-in-threejs-configurators-why-client-side-gets-devtools-hacked-3jjh)
-- [I Built a Deliberately Vulnerable PHP/MySQL Lab for Web Security Practice](https://dev.to/gmmb1/i-built-a-deliberately-vulnerable-phpmysql-lab-for-web-security-practice-1dpn)
-- [Six ways I leaked data through correct RLS policies](https://dev.to/basildrazarch/six-ways-i-leaked-data-through-correct-rls-policies-3l39)
-- [Dev Opportunity Radar #15: HackerRank Orchestrate, Claude Campus Ambassadors &amp; the Bharat Builds Tour](https://dev.to/devengers/dev-opportunity-radar-15-hackerrank-orchestrate-claude-campus-ambassadors-the-bharat-builds-3oc)
-- [Bitcoin Doesn&#39;t Eliminate Trust: It Changes What We Trust](https://dev.to/writtenbynaomi/bitcoin-doesnt-eliminate-trust-it-changes-what-we-trust-2c23)
+- [Measuring the Multi-Agent Fork Tax](https://dev.to/mech_app_ai/measuring-the-multi-agent-fork-tax-7g7)
+- [HydraFusion: How GitHub Routes Coding Tasks Across Multiple Models to Match Frontier Performance at Lower Cost](https://dev.to/mech_app_ai/hydrafusion-how-github-routes-coding-tasks-across-multiple-models-to-match-frontier-performance-at-5ba8)
+- [I Threw the Box Away. The Damage Was Already Done.](https://dev.to/the_leon_odor/i-threw-the-box-away-the-damage-was-already-done-43gi)
+- [SEO in 2027 Will Depend on AI Answers, Community Signals and Traditional Search](https://dev.to/alifar/seo-in-2027-will-depend-on-ai-answers-community-signals-and-traditional-search-2p78)
+- [Google AI Overviews Can Expand in Search: What the SERP Change Means for SEO](https://dev.to/alifar/google-ai-overviews-can-expand-in-search-what-the-serp-change-means-for-seo-24op)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
