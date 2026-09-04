@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Measuring the Multi-Agent Fork Tax](https://dev.to/mech_app_ai/measuring-the-multi-agent-fork-tax-7g7)
-- [HydraFusion: How GitHub Routes Coding Tasks Across Multiple Models to Match Frontier Performance at Lower Cost](https://dev.to/mech_app_ai/hydrafusion-how-github-routes-coding-tasks-across-multiple-models-to-match-frontier-performance-at-5ba8)
-- [I Threw the Box Away. The Damage Was Already Done.](https://dev.to/the_leon_odor/i-threw-the-box-away-the-damage-was-already-done-43gi)
-- [SEO in 2027 Will Depend on AI Answers, Community Signals and Traditional Search](https://dev.to/alifar/seo-in-2027-will-depend-on-ai-answers-community-signals-and-traditional-search-2p78)
-- [Google AI Overviews Can Expand in Search: What the SERP Change Means for SEO](https://dev.to/alifar/google-ai-overviews-can-expand-in-search-what-the-serp-change-means-for-seo-24op)
+- [Reddit Ranks for 166 Million Keywords: What the Data Means for Content Strategy](https://dev.to/alifar/reddit-ranks-for-166-million-keywords-what-the-data-means-for-content-strategy-5go5)
+- [From Default to Detection: My First Dive Into SIEM Tuning and Threat Detection](https://dev.to/foxtrot-cs/from-default-to-detection-my-first-dive-into-siem-tuning-and-threat-detection-264n)
+- [Letting GPT-6 Improve My Blog: A Hands-On Test, and a Little About See the Forest](https://dev.to/perrinyong/letting-gpt-6-improve-my-blog-a-hands-on-test-and-a-little-about-see-the-forest-234j)
+- [OpenBSD 7.8 を 7.9 へ アップグレード](https://dev.to/nabbisen/openbsd-78-wo-79-he-atupuguredo-13pg)
+- [Verification and Validation for Deep-Space Autonomous Systems &lpar;NASA MSL Case Study&rpar;](https://dev.to/danielshaeffer/verification-and-validation-for-deep-space-autonomous-systems-nasa-msl-case-study-4af6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
