@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Tableau Dashboard Extensions: What They Add, and What They Can Read](https://dev.to/michaelnocito/tableau-dashboard-extensions-what-they-add-and-what-they-can-read-45jg)
-- [My AI agents don&#39;t talk to each other](https://dev.to/salparvez/my-ai-agents-dont-talk-to-each-other-166e)
-- [How We Built Perceive: Web Content Extraction for RAG Pipelines](https://dev.to/thephoenix229/how-we-built-perceive-web-content-extraction-for-rag-pipelines-48p0)
-- [How I built my own set of audio plugins with JUCE](https://dev.to/lluisestape/how-i-built-my-own-set-of-audio-plugins-with-juce-4i2b)
-- [Learning Elixir: Private vs Public Functions](https://dev.to/abreujp/learning-elixir-private-vs-public-functions-2a00)
+- [Crypto-shredding does not delete anything from your old backups](https://dev.to/vebat/crypto-shredding-does-not-delete-anything-from-your-old-backups-po1)
+- [How to Solve a Month-over-Month Churn SQL Interview Question](https://dev.to/rahmanfrr/how-to-solve-a-month-over-month-churn-sql-interview-question-1abo)
+- [Autonomous Agents Need Proof, Not Promises: The Evidence Ladder Behind WitnessOS](https://dev.to/narko4u/autonomous-agents-need-proof-not-promises-the-evidence-ladder-behind-witnessos-8h8)
+- [AI Coding Agents Need Sandboxes Before They Need Better Models](https://dev.to/shresthapandey/ai-coding-agents-need-sandboxes-before-they-need-better-models-3m17)
+- [TypeScript AI PR Reviewer: Catch Unsafe Types](https://dev.to/gateofai/typescript-ai-pr-reviewer-catch-unsafe-types-4f21)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
