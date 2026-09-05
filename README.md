@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Meet Docgrity: Documentation integrity for you, your team, and your agent friends. 🤖](https://dev.to/ujja/meet-docgrity-documentation-integrity-for-you-your-team-and-your-agent-friends-14gm)
-- [I told the model to separate fields with &lt;TAB&gt;. It did exactly that, and I lost 79 percent of my data.](https://dev.to/rickeshtn/i-told-the-model-to-separate-fields-with-it-did-exactly-that-and-i-lost-79-percent-of-my-ip2)
-- [GPA Scales Do Not Convert. Building a Calculator That Admits It.](https://dev.to/freegpacalc/gpa-scales-do-not-convert-building-a-calculator-that-admits-it-52h2)
-- [Stop Hand-Rolling Validation in Go — Meet Checker](https://dev.to/onurcinar/stop-hand-rolling-validation-in-go-meet-checker-nk1)
-- [The Dioscuri Protocol: Why Google Gemini Was Never Just an LLM, but a Metaphorical Mythological Pact](https://dev.to/mike_cramblett_7050830f0c/the-dioscuri-protocol-why-google-gemini-was-never-just-an-llm-but-a-metaphorical-mythological-pact-5cak)
+- [I Tried Nx Plugin for AWS, Here&#39;s Why I&#39;m Sold](https://dev.to/aws-builders/i-tried-nx-plugin-for-aws-heres-why-im-sold-47ce)
+- [I Tried Nx Plugin for AWS, Here&#39;s Why I&#39;m Sold](https://dev.to/stevenwleung/i-tried-nx-plugin-for-aws-heres-why-im-sold-1lmn)
+- [&quot;Video won&#39;t play&quot; turned out to be four different bugs](https://dev.to/patlolla_saikeerthana_56/video-wont-play-turned-out-to-be-four-different-bugs-3fkp)
+- [IaC além do Terraform - testando infraestrutura como código](https://dev.to/apsis-cc/iac-alem-do-terraform-testando-infraestrutura-como-codigo-3o5l)
+- [What a registry of real AI-agent failures reveals about where agents break](https://dev.to/royalpinto007/what-a-registry-of-real-ai-agent-failures-reveals-about-where-agents-break-3ceg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
