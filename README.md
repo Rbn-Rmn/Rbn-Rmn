@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Tried Nx Plugin for AWS, Here&#39;s Why I&#39;m Sold](https://dev.to/aws-builders/i-tried-nx-plugin-for-aws-heres-why-im-sold-47ce)
-- [I Tried Nx Plugin for AWS, Here&#39;s Why I&#39;m Sold](https://dev.to/stevenwleung/i-tried-nx-plugin-for-aws-heres-why-im-sold-1lmn)
-- [&quot;Video won&#39;t play&quot; turned out to be four different bugs](https://dev.to/patlolla_saikeerthana_56/video-wont-play-turned-out-to-be-four-different-bugs-3fkp)
-- [IaC além do Terraform - testando infraestrutura como código](https://dev.to/apsis-cc/iac-alem-do-terraform-testando-infraestrutura-como-codigo-3o5l)
-- [What a registry of real AI-agent failures reveals about where agents break](https://dev.to/royalpinto007/what-a-registry-of-real-ai-agent-failures-reveals-about-where-agents-break-3ceg)
+- [Tableau Dashboard Extensions: What They Add, and What They Can Read](https://dev.to/michaelnocito/tableau-dashboard-extensions-what-they-add-and-what-they-can-read-45jg)
+- [My AI agents don&#39;t talk to each other](https://dev.to/salparvez/my-ai-agents-dont-talk-to-each-other-166e)
+- [How We Built Perceive: Web Content Extraction for RAG Pipelines](https://dev.to/thephoenix229/how-we-built-perceive-web-content-extraction-for-rag-pipelines-48p0)
+- [How I built my own set of audio plugins with JUCE](https://dev.to/lluisestape/how-i-built-my-own-set-of-audio-plugins-with-juce-4i2b)
+- [Learning Elixir: Private vs Public Functions](https://dev.to/abreujp/learning-elixir-private-vs-public-functions-2a00)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
