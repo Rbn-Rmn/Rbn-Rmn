@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [บทวิเคราะห์ paper &#39;Agentic Software&#39;, วิชาที่เกิดใหม่เมื่อ agent เข้ามาแทนที่โค้ด](https://dev.to/sarantoon/bthwiekhraaah-paper-agentic-software-wichaathiiekidaihmemuue-agent-ekhaamaaaethnthiiokhd-58p7)
-- [ช่องว่าง 0.3% แต่ราคาต่าง 2 เท่า, อ่านตาราง Terminal-Bench 4.0 ให้เป็น](https://dev.to/sarantoon/chngwaang-03-aetraakhaataang-2-ethaa-aantaaraang-terminal-bench-40-aihepn-467f)
-- [เมื่อ Benchmark โกหกคุณ, SWE-Bench ProMax กับคะแนนจริงที่โมเดลเก่งสุดทำได้แค่ 41.2%](https://dev.to/sarantoon/emuue-benchmark-okhkkhun-swe-bench-promax-kabkhaaenncchringthiiomedlekngsudthamaidaekh-412-1fl5)
-- [Agent ของ OpenAI ยึดเว็บเยอรมันเป็นบอร์ดแชทกันเอง, กรณี DseWiki 15,000 edits](https://dev.to/sarantoon/agent-khng-openai-yuedewbeyrmanepnbrdaechthkaneng-krnii-dsewiki-15000-edits-1a6c)
-- [Bir Ev Ağı Aslında Nasıl Çalışıyor? LAN/WAN’dan WISP, VLAN ve VPN’e](https://dev.to/hasanozer/bir-ev-agi-aslinda-nasil-calisiyor-lanwandan-wisp-vlan-ve-vpne-4bfn)
+- [Meet Docgrity: Documentation integrity for you, your team, and your agent friends. 🤖](https://dev.to/ujja/meet-docgrity-documentation-integrity-for-you-your-team-and-your-agent-friends-14gm)
+- [I told the model to separate fields with &lt;TAB&gt;. It did exactly that, and I lost 79 percent of my data.](https://dev.to/rickeshtn/i-told-the-model-to-separate-fields-with-it-did-exactly-that-and-i-lost-79-percent-of-my-ip2)
+- [GPA Scales Do Not Convert. Building a Calculator That Admits It.](https://dev.to/freegpacalc/gpa-scales-do-not-convert-building-a-calculator-that-admits-it-52h2)
+- [Stop Hand-Rolling Validation in Go — Meet Checker](https://dev.to/onurcinar/stop-hand-rolling-validation-in-go-meet-checker-nk1)
+- [The Dioscuri Protocol: Why Google Gemini Was Never Just an LLM, but a Metaphorical Mythological Pact](https://dev.to/mike_cramblett_7050830f0c/the-dioscuri-protocol-why-google-gemini-was-never-just-an-llm-but-a-metaphorical-mythological-pact-5cak)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
