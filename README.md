@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Working: Multi-Tenant Agent Isolation Failures: When One User&#39;s Context Bleeds Into Another&#39;s](https://dev.to/roxdavirox/working-multi-tenant-agent-isolation-failures-when-one-users-context-bleeds-into-anothers-egc)
-- [Gmail bounced everything the relay sent: three broken auth mechanisms and a silent OpenDKIM](https://dev.to/bitpage/gmail-bounced-everything-the-relay-sent-three-broken-auth-mechanisms-and-a-silent-opendkim-1cgl)
-- [Binary Search Trees](https://dev.to/polyvexr/binary-search-trees-2elg)
-- [Subdomain Takeover Severity Comes From Security Context, Not the Exploit Mechanism](https://dev.to/roxdavirox/subdomain-takeover-severity-comes-from-security-context-not-the-exploit-mechanism-1kb6)
-- [Stop Hand-Partitioning Disks: Practical systemd-repart on Linux](https://dev.to/lyraalishaikh/stop-hand-partitioning-disks-practical-systemd-repart-on-linux-58dp)
+- [Build a Booking.com hotel shortlist in Google Sheets with n8n and Apify](https://dev.to/luminar1/build-a-bookingcom-hotel-shortlist-in-google-sheets-with-n8n-and-apify-1pn0)
+- [I Rewrote My Electron App in Tauri — and Claude Did 100% of the Work in Under 24 Hours 🚀](https://dev.to/ankurk91/i-rewrote-my-electron-app-in-tauri-and-claude-did-100-of-the-work-in-under-24-hours-3j5p)
+- [RSA-2048 and RSA-3072 have different futures](https://dev.to/lvlrsajjad/rsa-2048-and-rsa-3072-have-different-futures-2ipc)
+- [How to fetch the RBA cash rate in Python &lpar;without parsing CSVs&rpar;](https://dev.to/bigred97/how-to-fetch-the-rba-cash-rate-in-python-without-parsing-csvs-ngn)
+- [readm3 can edit now, and it speaks Reddit](https://dev.to/chovy/readm3-can-edit-now-and-it-speaks-reddit-1be4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
