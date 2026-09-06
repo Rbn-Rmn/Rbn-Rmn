@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Build a Booking.com hotel shortlist in Google Sheets with n8n and Apify](https://dev.to/luminar1/build-a-bookingcom-hotel-shortlist-in-google-sheets-with-n8n-and-apify-1pn0)
-- [I Rewrote My Electron App in Tauri — and Claude Did 100% of the Work in Under 24 Hours 🚀](https://dev.to/ankurk91/i-rewrote-my-electron-app-in-tauri-and-claude-did-100-of-the-work-in-under-24-hours-3j5p)
-- [RSA-2048 and RSA-3072 have different futures](https://dev.to/lvlrsajjad/rsa-2048-and-rsa-3072-have-different-futures-2ipc)
-- [How to fetch the RBA cash rate in Python &lpar;without parsing CSVs&rpar;](https://dev.to/bigred97/how-to-fetch-the-rba-cash-rate-in-python-without-parsing-csvs-ngn)
-- [readm3 can edit now, and it speaks Reddit](https://dev.to/chovy/readm3-can-edit-now-and-it-speaks-reddit-1be4)
+- [Foundations of System Design: Learn It the Way I Wish Someone Taught Me](https://dev.to/codewithnuh/foundations-of-system-design-learn-it-the-way-i-wish-someone-taught-me-4lg)
+- [I Wrapped Disney, SeaWorld and Universal&#39;s Booking APIs in One Laravel Package](https://dev.to/iabduul7/i-wrapped-disney-seaworld-and-universals-booking-apis-in-one-laravel-package-4f6a)
+- [Tanuki Framework, a PHP framework for people who actually like writing PHP](https://dev.to/technomantus_corvi/tanuki-framework-a-php-framework-for-people-who-actually-like-writing-php-2pli)
+- [WebSockets in Node.js: Real-Time Apps Done Right](https://dev.to/mryadavgulshan/websockets-in-nodejs-real-time-apps-done-right-2ejg)
+- [Tanuki Framework, un framework PHP para gente a la que realmente le gusta escribir PHP Vanilla](https://dev.to/technomantus_corvi/tanuki-framework-un-framework-php-para-gente-a-la-que-realmente-le-gusta-escribir-php-vanilla-1le1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
