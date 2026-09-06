@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Foundations of System Design: Learn It the Way I Wish Someone Taught Me](https://dev.to/codewithnuh/foundations-of-system-design-learn-it-the-way-i-wish-someone-taught-me-4lg)
-- [I Wrapped Disney, SeaWorld and Universal&#39;s Booking APIs in One Laravel Package](https://dev.to/iabduul7/i-wrapped-disney-seaworld-and-universals-booking-apis-in-one-laravel-package-4f6a)
-- [Tanuki Framework, a PHP framework for people who actually like writing PHP](https://dev.to/technomantus_corvi/tanuki-framework-a-php-framework-for-people-who-actually-like-writing-php-2pli)
-- [WebSockets in Node.js: Real-Time Apps Done Right](https://dev.to/mryadavgulshan/websockets-in-nodejs-real-time-apps-done-right-2ejg)
-- [Tanuki Framework, un framework PHP para gente a la que realmente le gusta escribir PHP Vanilla](https://dev.to/technomantus_corvi/tanuki-framework-un-framework-php-para-gente-a-la-que-realmente-le-gusta-escribir-php-vanilla-1le1)
+- [13 of 14 Models Write Messier Code Than the Human Who Fixed the Same Bug](https://dev.to/daisukeyoda/13-of-14-models-write-messier-code-than-the-human-who-fixed-the-same-bug-4kn3)
+- [I built a prompt injection detection API that responds in &lt;1ms — here&#39;s how](https://dev.to/pizuuer_sama/i-built-a-prompt-injection-detection-api-that-responds-in-1ms-heres-how-35cn)
+- [Legacy System Modernization Without the Rewrite](https://dev.to/geminate_solutions_9b6035/legacy-system-modernization-without-the-rewrite-1g49)
+- [Why Your Prompts Fail &lpar;and the Anatomy That Works&rpar;](https://dev.to/internals_decoded/why-your-prompts-fail-and-the-anatomy-that-works-1bke)
+- [Keeping a heavy, animated landing page fast in Next.js](https://dev.to/daniel_pertu/keeping-a-heavy-animated-landing-page-fast-in-nextjs-m9j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
