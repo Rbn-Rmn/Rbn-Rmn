@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Run a Free AI Coding Assistant Locally with VS Code, opencode, and LM Studio](https://dev.to/aravindagn/how-to-run-a-free-ai-coding-assistant-locally-with-vs-code-opencode-and-lm-studio-3c1c)
-- [Can You Replace ChatGPT Plus With Free AI Tools? I Built a 30-Day AI Stack](https://dev.to/shweta_mishra_b3c97874de9/can-you-replace-chatgpt-plus-with-free-ai-tools-i-built-a-30-day-ai-stack-1lpi)
-- [The same 16 MiB block, fetched once a second for a minute](https://dev.to/mfc_keibisoft/the-same-16-mib-block-fetched-once-a-second-for-a-minute-442o)
-- [I killed the process and the drain still hung: a grandchild held the pipe](https://dev.to/isazajuancarlos/i-killed-the-process-and-the-drain-still-hung-a-grandchild-held-the-pipe-11k9)
-- [If you&#39;re just about to switch to Linux, read this.](https://dev.to/mrdot2026/if-youre-just-about-to-switch-to-linux-read-this-4kj1)
+- [Mailtrap Alternatives in 2026: When You Need Real Delivery, Not a Fake SMTP Server](https://dev.to/zerodrop/mailtrap-alternatives-in-2026-when-you-need-real-delivery-not-a-fake-smtp-server-1gfb)
+- [SchemaCrawler Has Three Programmatic Models - Here Is When to Use Each One](https://dev.to/sualeh/schemacrawler-has-three-programmatic-models-here-is-when-to-use-each-one-2gb1)
+- [Here&#39;s my app&#39;s access control, the passwords, and a curl command. Go break it](https://dev.to/srikanth-supero/heres-my-apps-access-control-the-passwords-and-a-curl-command-go-break-it-2d50)
+- [The money was already approved. It stopped at a sheet of paper nobody could read.](https://dev.to/abeera_lodhi/the-money-was-already-approved-it-stopped-at-a-sheet-of-paper-nobody-could-read-2o3d)
+- [Rank Your Database Tables by Importance with SchemaCrawler](https://dev.to/sualeh/rank-your-database-tables-by-importance-with-schemacrawler-1gib)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
