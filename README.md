@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [18 Insights from Mass-Producing Voice Models — From Diffusion TTS Voice Design to Training Corpus Creation and Quality Gate Pitfalls](https://dev.to/orca_forge/18-insights-from-mass-producing-voice-models-from-diffusion-tts-voice-design-to-training-corpus-164e)
-- [Jumia Product Performance and Analysis.](https://dev.to/esther_karanja_/building-an-interactive-excel-dashboard-for-e-commerce-product-analysis-a-case-study-of-product-2n19)
-- [Building an Interactive Excel Dashboard for E-commerce Product Analysis: A Case Study of Jumia Products.](https://dev.to/jkisutsa/building-an-interactive-excel-dashboard-for-e-commerce-product-analysis-a-case-study-of-jumia-56ck)
-- [AuthGeek: a desktop TOTP authenticator with an Argon2 vault and no cloud sync](https://dev.to/techygeeks1/authgeek-a-desktop-totp-authenticator-with-an-argon2-vault-and-no-cloud-sync-2dbp)
-- [Architectural Breakdown: Generosity Is a Default Setting](https://dev.to/agenticstack/architectural-breakdown-generosity-is-a-default-setting-37o1)
+- [Working: Multi-Tenant Agent Isolation Failures: When One User&#39;s Context Bleeds Into Another&#39;s](https://dev.to/roxdavirox/working-multi-tenant-agent-isolation-failures-when-one-users-context-bleeds-into-anothers-egc)
+- [Gmail bounced everything the relay sent: three broken auth mechanisms and a silent OpenDKIM](https://dev.to/bitpage/gmail-bounced-everything-the-relay-sent-three-broken-auth-mechanisms-and-a-silent-opendkim-1cgl)
+- [Binary Search Trees](https://dev.to/polyvexr/binary-search-trees-2elg)
+- [Subdomain Takeover Severity Comes From Security Context, Not the Exploit Mechanism](https://dev.to/roxdavirox/subdomain-takeover-severity-comes-from-security-context-not-the-exploit-mechanism-1kb6)
+- [Stop Hand-Partitioning Disks: Practical systemd-repart on Linux](https://dev.to/lyraalishaikh/stop-hand-partitioning-disks-practical-systemd-repart-on-linux-58dp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
