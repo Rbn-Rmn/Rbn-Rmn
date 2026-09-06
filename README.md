@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Mailtrap Alternatives in 2026: When You Need Real Delivery, Not a Fake SMTP Server](https://dev.to/zerodrop/mailtrap-alternatives-in-2026-when-you-need-real-delivery-not-a-fake-smtp-server-1gfb)
-- [SchemaCrawler Has Three Programmatic Models - Here Is When to Use Each One](https://dev.to/sualeh/schemacrawler-has-three-programmatic-models-here-is-when-to-use-each-one-2gb1)
-- [Here&#39;s my app&#39;s access control, the passwords, and a curl command. Go break it](https://dev.to/srikanth-supero/heres-my-apps-access-control-the-passwords-and-a-curl-command-go-break-it-2d50)
-- [The money was already approved. It stopped at a sheet of paper nobody could read.](https://dev.to/abeera_lodhi/the-money-was-already-approved-it-stopped-at-a-sheet-of-paper-nobody-could-read-2o3d)
-- [Rank Your Database Tables by Importance with SchemaCrawler](https://dev.to/sualeh/rank-your-database-tables-by-importance-with-schemacrawler-1gib)
+- [Redundancy in Software Systems: What It Is, How It Works, and When to Use It](https://dev.to/thecurlyhairdev/redundancy-in-software-systems-what-it-is-how-it-works-and-when-to-use-it-1ke1)
+- [Browser first: the one rule behind every tool on KitDev Space](https://dev.to/iamgod/browser-first-the-one-rule-behind-every-tool-on-kitdev-space-19id)
+- [The one tell of AI-built sites, and a CSS block that fixes it](https://dev.to/merturl4576/the-one-tell-of-ai-built-sites-and-a-css-block-that-fixes-it-593g)
+- [My Grandmother Ran Ajo. I Built the Version Where the Pot Can&#39;t Walk Away](https://dev.to/dannwaneri/my-grandmother-ran-ajo-i-built-the-version-where-the-pot-cant-walk-away-5gkn)
+- [One AI, six jobs: how I take an idea from a one-line thought to something live, with a team of agents that share a task board](https://dev.to/c1-anderson/one-ai-six-jobs-how-i-take-an-idea-from-a-one-line-thought-to-something-live-with-a-team-of-50bj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
