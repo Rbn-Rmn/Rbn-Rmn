@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [WorkBraid: Visual Architecture Diffs for Agent-Proposed Code Changes](https://dev.to/mech_app_ai/workbraid-visual-architecture-diffs-for-agent-proposed-code-changes-4ngi)
-- [Building Automation LLMs: What 66 Studies Reveal About Deploying Agents in HVAC Systems](https://dev.to/mech_app_ai/building-automation-llms-what-66-studies-reveal-about-deploying-agents-in-hvac-systems-bc9)
-- [Measure a context plugin on your own repository before you install it](https://dev.to/arcticfoxz_255bbe944bc015/measure-a-context-plugin-on-your-own-repository-before-you-install-it-2hf6)
-- [Considering our collective AI future](https://dev.to/jf990/considering-our-collective-ai-future-54ch)
-- [When Your Judge Can&#39;t Decide](https://dev.to/debashish_ghosal/when-your-judge-cant-decide-1252)
+- [Node.js Account Shutdown: Token Revocation and Eventual Deletion in 3 Steps](https://dev.to/magnusberg2958/nodejs-account-shutdown-token-revocation-and-eventual-deletion-in-3-steps-2ho6)
+- [Future AWS Agent Engineer? I Didn&#39;t Write the Code. Does It Count?](https://dev.to/earlgreyhot1701d/future-aws-agent-engineer-i-didnt-write-the-code-does-it-count-2gib)
+- [Inbundly – Google Inbox-style bundles for Gmail](https://dev.to/benoror/inbundly-google-inbox-style-bundles-for-gmail-30j)
+- [The Anatomy of an AI Agent: Five Parts That Turn Thinking Into Doing](https://dev.to/obiwale_ayomide_cdcf8b961/the-anatomy-of-an-ai-agent-five-parts-that-turn-thinking-into-doing-38ml)
+- [Bắt LLM trả JSON đúng chuẩn: ba lớp và vòng repair](https://dev.to/bean_bean/bat-llm-tra-json-dung-chuan-ba-lop-va-vong-repair-hjp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
