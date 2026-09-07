@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [eBPF on Linux — kprobe vs fentry: Hooking Internals &amp; What Production Observability Misses](https://dev.to/harrisonsec/ebpf-on-linux-kprobe-vs-fentry-hooking-internals-what-production-observability-misses-2ohb)
-- [Three company registers, one word: what &quot;active&quot; actually means in Norway, the UK and Sweden](https://dev.to/fargeroddotcom/three-company-registers-one-word-what-active-actually-means-in-norway-the-uk-and-sweden-51e2)
-- [Seller Order Emails — 4 Checks to Create, Preview, and Send Transactional Templates](https://dev.to/yorkholloway3257/seller-order-emails-4-checks-to-create-preview-and-send-transactional-templates-1pef)
-- [My SQL Learning Journey: The Sunrise Supermarket Project](https://dev.to/nelly_gitonga/my-sql-learning-journey-the-sunrise-supermarket-project-47mc)
-- [Property Password Identity Linking Workflow 2026: Inspect Before Safe Attachment](https://dev.to/chrysostomhayes8537/property-password-identity-linking-workflow-2026-inspect-before-safe-attachment-15pl)
+- [WorkBraid: Visual Architecture Diffs for Agent-Proposed Code Changes](https://dev.to/mech_app_ai/workbraid-visual-architecture-diffs-for-agent-proposed-code-changes-4ngi)
+- [Building Automation LLMs: What 66 Studies Reveal About Deploying Agents in HVAC Systems](https://dev.to/mech_app_ai/building-automation-llms-what-66-studies-reveal-about-deploying-agents-in-hvac-systems-bc9)
+- [Measure a context plugin on your own repository before you install it](https://dev.to/arcticfoxz_255bbe944bc015/measure-a-context-plugin-on-your-own-repository-before-you-install-it-2hf6)
+- [Considering our collective AI future](https://dev.to/jf990/considering-our-collective-ai-future-54ch)
+- [When Your Judge Can&#39;t Decide](https://dev.to/debashish_ghosal/when-your-judge-cant-decide-1252)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
