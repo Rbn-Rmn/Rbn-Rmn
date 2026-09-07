@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Atlas Sanctum: Engineering Generosity for Human &amp; Planetary Flourishing](https://dev.to/genesky/atlas-sanctum-engineering-generosity-for-human-planetary-flourishing-48im)
-- [The Python Basics Nobody Warns You Are the Real Foundation](https://dev.to/joan_rr/the-python-basics-nobody-warns-you-are-the-real-foundation-20l6)
-- [What If One Boring Specialist Agent Beats Your Swiss-Army Bot?](https://dev.to/aninmukhe/what-if-one-boring-specialist-agent-beats-your-swiss-army-bot-31g4)
-- [Claude Code permissions: how allow, ask, and deny actually compose](https://dev.to/ottoflightrules/claude-code-permissions-how-allow-ask-and-deny-actually-compose-3kme)
-- [Part of Speech Tagging: How NLP Understands Grammar](https://dev.to/javiagu13/part-of-speech-tagging-how-nlp-understands-grammar-2if5)
+- [eBPF on Linux — kprobe vs fentry: Hooking Internals &amp; What Production Observability Misses](https://dev.to/harrisonsec/ebpf-on-linux-kprobe-vs-fentry-hooking-internals-what-production-observability-misses-2ohb)
+- [Three company registers, one word: what &quot;active&quot; actually means in Norway, the UK and Sweden](https://dev.to/fargeroddotcom/three-company-registers-one-word-what-active-actually-means-in-norway-the-uk-and-sweden-51e2)
+- [Seller Order Emails — 4 Checks to Create, Preview, and Send Transactional Templates](https://dev.to/yorkholloway3257/seller-order-emails-4-checks-to-create-preview-and-send-transactional-templates-1pef)
+- [My SQL Learning Journey: The Sunrise Supermarket Project](https://dev.to/nelly_gitonga/my-sql-learning-journey-the-sunrise-supermarket-project-47mc)
+- [Property Password Identity Linking Workflow 2026: Inspect Before Safe Attachment](https://dev.to/chrysostomhayes8537/property-password-identity-linking-workflow-2026-inspect-before-safe-attachment-15pl)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
