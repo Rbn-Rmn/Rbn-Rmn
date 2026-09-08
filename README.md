@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to nest a drawer inside bottom tabs without fighting gestures in Expo Router](https://dev.to/expo/how-to-nest-a-drawer-inside-bottom-tabs-without-fighting-gestures-in-expo-router-4aba)
-- [Zero Dependencies Sounds Easy Until You Have to Build Everything Yourself](https://dev.to/zunairah_k/zero-dependencies-sounds-easy-until-you-have-to-build-everything-yourself-5cnm)
-- [Mastering React Server Components: Understanding the Server/Client Boundary](https://dev.to/anujbansaldev/mastering-react-server-components-understanding-the-serverclient-boundary-3mh1)
-- [Hello Dev Community: Introducing BoomTick](https://dev.to/boomtick/hello-dev-community-introducing-boomtick-3l3k)
-- [How I Built a Chrome Extension to Improve Reading on Medium](https://dev.to/mahbbrah/how-i-built-a-chrome-extension-to-improve-reading-on-medium-231g)
+- [The Failure Message Had a Checkmark. LANG=C Refused to Print It.](https://dev.to/codepy_1473/the-failure-message-had-a-checkmark-langc-refused-to-print-it-fkd)
+- [In the Age of LLMs, Do Notes and Blogs Still Matter?](https://dev.to/perrinyong/in-the-age-of-llms-do-notes-and-blogs-still-matter-4kd9)
+- [Your AI agent will patch itself. The question is who approves the patch.](https://dev.to/rameswaran_mohan_9c8b5d8f/your-ai-agent-will-patch-itself-the-question-is-who-approves-the-patch-gl)
+- [Dynamic Workflows: Critical Analysis &lpar;pt. II&rpar; &lpar;feat. Fable&rpar;](https://dev.to/hesreallyhim/dynamic-workflows-critical-analysis-pt-ii-feat-fable-258n)
+- [Google Gemini 3.5 Transcribe Brings Voice-Driven Workflows to macOS](https://dev.to/alifar/google-gemini-35-transcribe-brings-voice-driven-workflows-to-macos-5gdn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
