@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Account Shutdown: Token Revocation and Eventual Deletion in 3 Steps](https://dev.to/magnusberg2958/nodejs-account-shutdown-token-revocation-and-eventual-deletion-in-3-steps-2ho6)
-- [Future AWS Agent Engineer? I Didn&#39;t Write the Code. Does It Count?](https://dev.to/earlgreyhot1701d/future-aws-agent-engineer-i-didnt-write-the-code-does-it-count-2gib)
-- [Inbundly – Google Inbox-style bundles for Gmail](https://dev.to/benoror/inbundly-google-inbox-style-bundles-for-gmail-30j)
-- [The Anatomy of an AI Agent: Five Parts That Turn Thinking Into Doing](https://dev.to/obiwale_ayomide_cdcf8b961/the-anatomy-of-an-ai-agent-five-parts-that-turn-thinking-into-doing-38ml)
-- [Bắt LLM trả JSON đúng chuẩn: ba lớp và vòng repair](https://dev.to/bean_bean/bat-llm-tra-json-dung-chuan-ba-lop-va-vong-repair-hjp)
+- [I Built an IP KVM – BeaconKVM](https://dev.to/beaconkvm/i-built-an-ip-kvm-beaconkvm-3gja)
+- [A like is not a relationship: where our agent&#39;s permission to reply stops](https://dev.to/rulestack/a-like-is-not-a-relationship-where-our-agents-permission-to-reply-stops-27d6)
+- [iOS Visual Regression Testing with simctl and Pixel Diffs](https://dev.to/changyou/ios-visual-regression-testing-with-simctl-and-pixel-diffs-4eme)
+- [Anne OS Kids: A Small Operating System with a Big Inspiration](https://dev.to/ulyssonfn/anne-os-kids-a-small-operating-system-with-a-big-inspiration-17hd)
+- [Build a local call-review panel with Python](https://dev.to/nathanroll/build-a-local-call-review-panel-with-python-2dgh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
