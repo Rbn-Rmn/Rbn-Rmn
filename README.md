@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [When PageSpeed Insights is enough &lpar;and when it is not&rpar;](https://dev.to/femi_akinyemi/when-pagespeed-insights-is-enough-and-when-it-is-not-64g)
-- [Building a Privacy-First AI Companion with Next.js, FastAPI and Ollama](https://dev.to/has_san/building-a-privacy-first-ai-companion-with-nextjs-fastapi-and-ollama-17hp)
-- [CTF Defcon 2019 — CaptureTheCoin Write-up — Linkable payment 300](https://dev.to/vietjovi/ctf-defcon-2019-capturethecoin-write-up-linkable-payment-300-2d2b)
-- [Postgres 19&#39;s REPACK rewrites a bloated table without locking out your writers](https://dev.to/remdore/postgres-19s-repack-rewrites-a-bloated-table-without-locking-out-your-writers-2ep0)
-- [I had recently setup new machines and still can&#39;t live without this setting. My VSCode right now is about having multiple tabs for multi projects and inside of each, i have multiple tabs of different files.](https://dev.to/vuong/i-had-recently-setup-new-machines-and-still-cant-live-without-this-setting-my-vscode-right-now-is-3iff)
+- [If I Had to Build an AI Customer-Support System Today, I Wouldn&#39;t Start With an Agent](https://dev.to/hakeem/if-i-had-to-build-an-ai-customer-support-system-today-i-wouldnt-start-with-an-agent-3bje)
+- [Every Way LLM Provider Failover Breaks in Production](https://dev.to/kuldeep_paul/every-way-llm-provider-failover-breaks-in-production-3lao)
+- [almost-cli — BYOK Multi-Agent Coding, Local First](https://dev.to/wellparth/almost-cli-byok-multi-agent-coding-local-first-37nf)
+- [We Wrote a JSON Parser from Scratch in 72 Hours to Prove We Still Could](https://dev.to/devanshkant/we-wrote-a-json-parser-from-scratch-in-72-hours-to-prove-we-still-could-29on)
+- [I Hid a Rule in CLAUDE.md. Only One Reviewer Could Prove It Read It.](https://dev.to/dannwaneri/i-hid-a-rule-in-claudemd-only-one-reviewer-could-prove-it-read-it-4ik9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
