@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Beyond APIs: Building a Privacy-First Drug Interaction Tool with WebGPU and WebLLM](https://dev.to/beck_moulton/beyond-apis-building-a-privacy-first-drug-interaction-tool-with-webgpu-and-webllm-28fo)
-- [Why Amazon Deprecated MOBI for Kindle and How In-Browser EPUB Conversion Works](https://dev.to/momahdideveloper/why-amazon-deprecated-mobi-for-kindle-and-how-in-browser-epub-conversion-works-30m0)
-- [How to Deploy a Web Project with Tencent EdgeOne Makers Using GitHub](https://dev.to/fleetsaltedbutter/how-to-deploy-a-web-project-with-tencent-edgeone-makers-using-github-52k0)
-- [The state axis: why agent benchmarks keep measuring amnesiac models](https://dev.to/cole_halton_42f71d71b809b/the-state-axis-why-agent-benchmarks-keep-measuring-amnesiac-models-39f4)
-- [How to Actually Evaluate an AI Code Review Tool](https://dev.to/cole_halton_42f71d71b809b/how-to-actually-evaluate-an-ai-code-review-tool-4gbo)
+- [Phone verification in Flask and Django with one API key](https://dev.to/rayas/phone-verification-in-flask-and-django-with-one-api-key-3cgp)
+- [Designing CRM Integrations as Reliable Data Pipelines](https://dev.to/neha_6ddfbf87f8ffe5f87b89/designing-crm-integrations-as-reliable-data-pipelines-471b)
+- [I Tried to Poison My Agent&#39;s Rule Store. It Produced 20 Triggers. Zero Got In.](https://dev.to/debashish_ghosal/i-tried-to-poison-my-agents-rule-store-it-produced-20-triggers-zero-got-in-i44)
+- [We hid the login form we built for televisions](https://dev.to/chovy/we-hid-the-login-form-we-built-for-televisions-4cod)
+- [Operators and Conditionals: Making Decisions in Code](https://dev.to/fidel_okumu/operators-and-conditionals-making-decisions-in-code-38gl)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
