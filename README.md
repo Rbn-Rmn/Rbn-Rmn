@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [If I Had to Build an AI Customer-Support System Today, I Wouldn&#39;t Start With an Agent](https://dev.to/hakeem/if-i-had-to-build-an-ai-customer-support-system-today-i-wouldnt-start-with-an-agent-3bje)
-- [Every Way LLM Provider Failover Breaks in Production](https://dev.to/kuldeep_paul/every-way-llm-provider-failover-breaks-in-production-3lao)
-- [almost-cli — BYOK Multi-Agent Coding, Local First](https://dev.to/wellparth/almost-cli-byok-multi-agent-coding-local-first-37nf)
-- [We Wrote a JSON Parser from Scratch in 72 Hours to Prove We Still Could](https://dev.to/devanshkant/we-wrote-a-json-parser-from-scratch-in-72-hours-to-prove-we-still-could-29on)
-- [I Hid a Rule in CLAUDE.md. Only One Reviewer Could Prove It Read It.](https://dev.to/dannwaneri/i-hid-a-rule-in-claudemd-only-one-reviewer-could-prove-it-read-it-4ik9)
+- [AI Tools for Security Vulnerability Detection: 2026 Guide](https://dev.to/nlocoding/ai-tools-for-security-vulnerability-detection-2026-guide-obn)
+- [Why AI Applications Are Becoming Distributed Systems](https://dev.to/ali_raza_fa80fd8371162ce6/why-ai-applications-are-becoming-distributed-systems-291d)
+- [12 AEO Best Practices for docs](https://dev.to/expo/aeo-best-practices-for-docs-32j4)
+- [Por Que uma Transação com Chip é Mais Segura](https://dev.to/juliobicharra/por-que-uma-transacao-com-chip-e-mais-segura-430)
+- [How to Build an Automated TikTok Ad Spy &amp; Hook Analyzer with Python](https://dev.to/jals_builds/how-to-build-an-automated-tiktok-ad-spy-hook-analyzer-with-python-2910)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
