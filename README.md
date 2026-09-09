@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI Tools for Security Vulnerability Detection: 2026 Guide](https://dev.to/nlocoding/ai-tools-for-security-vulnerability-detection-2026-guide-obn)
-- [Why AI Applications Are Becoming Distributed Systems](https://dev.to/ali_raza_fa80fd8371162ce6/why-ai-applications-are-becoming-distributed-systems-291d)
-- [12 AEO Best Practices for docs](https://dev.to/expo/aeo-best-practices-for-docs-32j4)
-- [Por Que uma Transação com Chip é Mais Segura](https://dev.to/juliobicharra/por-que-uma-transacao-com-chip-e-mais-segura-430)
-- [How to Build an Automated TikTok Ad Spy &amp; Hook Analyzer with Python](https://dev.to/jals_builds/how-to-build-an-automated-tiktok-ad-spy-hook-analyzer-with-python-2910)
+- [iPhone Duo for iOS Developers: What Actually Changes in Your Swift Code](https://dev.to/arshtechpro/iphone-duo-for-ios-developers-what-actually-changes-in-your-swift-code-5gc5)
+- [nginx silently rejects the new HTTP QUERY method](https://dev.to/alexgeorgiev17/nginxs-limitexcept-block-silently-rejects-the-new-http-query-method-1gcg)
+- [The Card](https://dev.to/davidevlops/the-card-a20)
+- [Building Presibo: The Technology Behind Continuous Healthcare](https://dev.to/jerrynwobodo/building-presibo-the-technology-behind-continuous-healthcare-n22)
+- [ChatGPT Reaches 900 Million Weekly Users as OpenAI Expands AI at Global Scale](https://dev.to/alifar/chatgpt-reaches-900-million-weekly-users-as-openai-expands-ai-at-global-scale-3m2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
