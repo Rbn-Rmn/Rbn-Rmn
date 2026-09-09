@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Phone verification in Flask and Django with one API key](https://dev.to/rayas/phone-verification-in-flask-and-django-with-one-api-key-3cgp)
-- [Designing CRM Integrations as Reliable Data Pipelines](https://dev.to/neha_6ddfbf87f8ffe5f87b89/designing-crm-integrations-as-reliable-data-pipelines-471b)
-- [I Tried to Poison My Agent&#39;s Rule Store. It Produced 20 Triggers. Zero Got In.](https://dev.to/debashish_ghosal/i-tried-to-poison-my-agents-rule-store-it-produced-20-triggers-zero-got-in-i44)
-- [We hid the login form we built for televisions](https://dev.to/chovy/we-hid-the-login-form-we-built-for-televisions-4cod)
-- [Operators and Conditionals: Making Decisions in Code](https://dev.to/fidel_okumu/operators-and-conditionals-making-decisions-in-code-38gl)
+- [When PageSpeed Insights is enough &lpar;and when it is not&rpar;](https://dev.to/femi_akinyemi/when-pagespeed-insights-is-enough-and-when-it-is-not-64g)
+- [Building a Privacy-First AI Companion with Next.js, FastAPI and Ollama](https://dev.to/has_san/building-a-privacy-first-ai-companion-with-nextjs-fastapi-and-ollama-17hp)
+- [CTF Defcon 2019 — CaptureTheCoin Write-up — Linkable payment 300](https://dev.to/vietjovi/ctf-defcon-2019-capturethecoin-write-up-linkable-payment-300-2d2b)
+- [Postgres 19&#39;s REPACK rewrites a bloated table without locking out your writers](https://dev.to/remdore/postgres-19s-repack-rewrites-a-bloated-table-without-locking-out-your-writers-2ep0)
+- [I had recently setup new machines and still can&#39;t live without this setting. My VSCode right now is about having multiple tabs for multi projects and inside of each, i have multiple tabs of different files.](https://dev.to/vuong/i-had-recently-setup-new-machines-and-still-cant-live-without-this-setting-my-vscode-right-now-is-3iff)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
