@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why RBAC Alone Isn&#39;t Enough for Enterprise Data Agents](https://dev.to/arisyndata/why-rbac-alone-isnt-enough-for-enterprise-data-agents-3b4f)
-- [Nothing failed for twelve days while our post schedule drifted 76 hours: the label that meant two things](https://dev.to/rulestack/nothing-failed-for-twelve-days-while-our-post-schedule-drifted-76-hours-the-label-that-meant-two-18a3)
-- [Google’s August 2026 Spam Update Is Complete: How Website Owners Should Respond](https://dev.to/alifar/googles-august-2026-spam-update-is-complete-how-website-owners-should-respond-oal)
-- [Someone Spammed My DEV Post. I Traced It to a Wombat.](https://dev.to/copyleftdev/someone-spammed-my-dev-post-i-traced-it-to-a-wombat-176a)
-- [My Journey Into Learning About ML and Implementing a MLP From Scratch](https://dev.to/jrichards137/my-journey-into-learning-about-ml-and-implementing-a-mlp-from-scratch-3h37)
+- [I Checked My Security App Against Real AI-Orchestrated Attacks, Not Just the Headlines](https://dev.to/lafine_systemsdesign/i-checked-my-security-app-against-real-ai-orchestrated-attacks-not-just-the-headlines-1dog)
+- [Thin-Film Measurement Data: What to Check Before Building a Dashboard](https://dev.to/chesky0418/thin-film-measurement-data-what-to-check-before-building-a-dashboard-2eb1)
+- [Stop letting your AI design expensive, insecure AWS architectures](https://dev.to/renato_marinho/stop-letting-your-ai-design-expensive-insecure-aws-architectures-20k2)
+- [Building bayar.dev: Streaming AI Responses and Designing for Zero-Retention Boundaries](https://dev.to/bayardotdev/building-bayardev-streaming-ai-responses-and-designing-for-zero-retention-boundaries-507d)
+- [CampusLink: A Chat Server With No Internet Needed](https://dev.to/jixie30/campuslink-a-chat-server-with-no-internet-needed-4a4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
