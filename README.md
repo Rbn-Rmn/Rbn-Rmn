@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Signup Abuse Defense: When CAPTCHA Gates Creation and Risk Signals Catch Up](https://dev.to/ingramcole6479/signup-abuse-defense-when-captcha-gates-creation-and-risk-signals-catch-up-2a9j)
-- [Your Git History Is a Story. I Wrote the Algorithm That Finds It.](https://dev.to/ahmad_rrrtx/your-git-history-is-a-story-i-wrote-the-algorithm-that-finds-it-1734)
-- [Google Logged Six Search Ranking Updates in 2026: What Website Owners Should Watch](https://dev.to/alifar/google-logged-six-search-ranking-updates-in-2026-what-website-owners-should-watch-5jj)
-- [Address the row, not the line: when the checker is the first reader in disguise](https://dev.to/pm25coder/address-the-row-not-the-line-when-the-checker-is-the-first-reader-in-disguise-4c4m)
-- [‘It Answers in Poetry Now’: A Week of Users Saying Their AI Got Wordier and Worse](https://dev.to/theaidownside/it-answers-in-poetry-now-a-week-of-users-saying-their-ai-got-wordier-and-worse-3aol)
+- [Why RBAC Alone Isn&#39;t Enough for Enterprise Data Agents](https://dev.to/arisyndata/why-rbac-alone-isnt-enough-for-enterprise-data-agents-3b4f)
+- [Nothing failed for twelve days while our post schedule drifted 76 hours: the label that meant two things](https://dev.to/rulestack/nothing-failed-for-twelve-days-while-our-post-schedule-drifted-76-hours-the-label-that-meant-two-18a3)
+- [Google’s August 2026 Spam Update Is Complete: How Website Owners Should Respond](https://dev.to/alifar/googles-august-2026-spam-update-is-complete-how-website-owners-should-respond-oal)
+- [Someone Spammed My DEV Post. I Traced It to a Wombat.](https://dev.to/copyleftdev/someone-spammed-my-dev-post-i-traced-it-to-a-wombat-176a)
+- [My Journey Into Learning About ML and Implementing a MLP From Scratch](https://dev.to/jrichards137/my-journey-into-learning-about-ml-and-implementing-a-mlp-from-scratch-3h37)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
