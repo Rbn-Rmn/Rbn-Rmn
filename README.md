@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Checked My Security App Against Real AI-Orchestrated Attacks, Not Just the Headlines](https://dev.to/lafine_systemsdesign/i-checked-my-security-app-against-real-ai-orchestrated-attacks-not-just-the-headlines-1dog)
-- [Thin-Film Measurement Data: What to Check Before Building a Dashboard](https://dev.to/chesky0418/thin-film-measurement-data-what-to-check-before-building-a-dashboard-2eb1)
-- [Stop letting your AI design expensive, insecure AWS architectures](https://dev.to/renato_marinho/stop-letting-your-ai-design-expensive-insecure-aws-architectures-20k2)
-- [Building bayar.dev: Streaming AI Responses and Designing for Zero-Retention Boundaries](https://dev.to/bayardotdev/building-bayardev-streaming-ai-responses-and-designing-for-zero-retention-boundaries-507d)
-- [CampusLink: A Chat Server With No Internet Needed](https://dev.to/jixie30/campuslink-a-chat-server-with-no-internet-needed-4a4)
+- [TechNight: Keeping 85 Projects Alive](https://dev.to/psgtechnautsnl/technight-keeping-85-projects-alive-438p)
+- [Cloud Server: How It Differs from a VPS and When to Choose the Cloud](https://dev.to/aeza__net/cloud-server-how-it-differs-from-a-vps-and-when-to-choose-the-cloud-4i5l)
+- [MyZubster’s Next Step: Institutional AI Dialogue, Real Blockchain Evidence and Circular Pilots](https://dev.to/danielioni/myzubsters-next-step-institutional-ai-dialogue-real-blockchain-evidence-and-circular-pilots-2hfj)
+- [Building a Radio Player with Ruby &amp; WebForms Core](https://dev.to/elanatframework/building-a-radio-player-with-ruby-webforms-core-54eh)
+- [DDL &amp; DML: The Two Halves of SQL](https://dev.to/fidel_okumu/ddl-dml-the-two-halves-of-sql-571h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
