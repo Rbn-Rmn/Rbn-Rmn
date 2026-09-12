@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Attestly: Generate EU AI Act Annex IV docs from your agents’ operational traces](https://dev.to/swishmilnet/attestly-generate-eu-ai-act-annex-iv-docs-from-your-agents-operational-traces-4ik7)
-- [I Made Four Authorization Engines Answer the Same Questions](https://dev.to/kanywst/i-made-four-authorization-engines-answer-the-same-questions-5a96)
-- [I built an epistemic gate to stop LLM data poisoning during fine-tuning. Tested across 5 architectures, orchestrated on a 2006 Toshiba laptop for $0.](https://dev.to/dante777/i-built-an-epistemic-gate-to-stop-llm-data-poisoning-during-fine-tuning-tested-across-5-42kk)
-- [Typhoon vs OpenThai vs Pathumma: Three Thai LLMs Worth Knowing](https://dev.to/sarantoon/typhoon-vs-openthai-vs-pathumma-three-thai-llms-worth-knowing-3g8)
-- [How to Use CloudTrail to Check Whether You Were Affected by the AWS SSM Agent Vulnerability &lpar;CVE-2026-89049&rpar;](https://dev.to/aws-builders/how-to-use-cloudtrail-to-check-whether-you-were-affected-by-the-aws-ssm-agent-vulnerability-1mln)
+- [ROCm vs Vulkan for AMD Local LLM Hosting: 2026 Guide](https://dev.to/rosgluk/rocm-vs-vulkan-for-amd-local-llm-hosting-2026-guide-5c70)
+- [Choosing free on-prem git server - Gitea is the winner!](https://dev.to/rosgluk/choosing-free-on-prem-git-server-gitea-is-the-winner-32a7)
+- [Your AI agent can plan anything. It still can&#39;t click &quot;Post&quot;.](https://dev.to/wvdstoep/your-ai-agent-can-plan-anything-it-still-cant-click-post-2bpb)
+- [You Don&#39;t Need Express to Build a Microservice &lpar;Here&#39;s the Zero-Dependency Version&rpar;](https://dev.to/dev_encyclopedia/you-dont-need-express-to-build-a-microservice-heres-the-zero-dependency-version-921)
+- [Daily Dose of DevOps — Terraform remote state explained](https://dev.to/marco13moo/daily-dose-of-devops-terraform-remote-state-explained-33h5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
