@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What’s Keeping SWEs Up at Night in the Age of Agentic Engineering](https://dev.to/ibrahimshamma99/whats-keeping-swes-up-at-night-in-the-age-of-agentic-engineering-dal)
-- [I Tested AI Coding Agents for 30 Days - Here&#39;s What Actually Changed](https://dev.to/unfiltered_anshul/i-tested-ai-coding-agents-for-30-days-heres-what-actually-changed-fm2)
-- [I Interviewed an Executable. It Had Notes.](https://dev.to/copyleftdev/i-interviewed-an-executable-it-had-notes-1k3e)
-- [A Simple Pattern for Making AI Automations Safer](https://dev.to/hashim_khan_cb87a5b9a3613/a-simple-pattern-for-making-ai-automations-safer-2ge8)
-- [Remote Chat Failover Needs a Tab-Stop Origin Banner, Not a Skeleton Overlay](https://dev.to/babycat/remote-chat-failover-needs-a-tab-stop-origin-banner-not-a-skeleton-overlay-55p0)
+- [Why we moved our Backstage platform from Yarn to pnpm](https://dev.to/bogdan_nechyporenko/why-we-moved-our-backstage-platform-from-yarn-to-pnpm-21ap)
+- [Why Static Mock APIs Aren&#39;t Enough for Modern Frontend Development](https://dev.to/nileslabs/why-static-mock-apis-arent-enough-for-modern-frontend-development-5861)
+- [I Ship Mobile Apps for $0: Vercel + Render + Supabase Free Tier](https://dev.to/3ni8ma/i-ship-mobile-apps-for-0-vercel-render-supabase-free-tier-27n5)
+- [How I Built an Agentless Self-Hosting Orchestrator with 100+ Tested Stacks &amp; 100% Local AI](https://dev.to/henk_van_hoek/how-i-built-an-agentless-self-hosting-orchestrator-with-100-tested-stacks-100-local-ai-1cbo)
+- [Expo + Supabase GitHub Auth Broke 3 Times — Here&#39;s the Fix](https://dev.to/3ni8ma/expo-supabase-github-auth-broke-3-times-heres-the-fix-ijp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
