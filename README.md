@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [ROCm vs Vulkan for AMD Local LLM Hosting: 2026 Guide](https://dev.to/rosgluk/rocm-vs-vulkan-for-amd-local-llm-hosting-2026-guide-5c70)
-- [Choosing free on-prem git server - Gitea is the winner!](https://dev.to/rosgluk/choosing-free-on-prem-git-server-gitea-is-the-winner-32a7)
-- [Your AI agent can plan anything. It still can&#39;t click &quot;Post&quot;.](https://dev.to/wvdstoep/your-ai-agent-can-plan-anything-it-still-cant-click-post-2bpb)
-- [You Don&#39;t Need Express to Build a Microservice &lpar;Here&#39;s the Zero-Dependency Version&rpar;](https://dev.to/dev_encyclopedia/you-dont-need-express-to-build-a-microservice-heres-the-zero-dependency-version-921)
-- [Daily Dose of DevOps — Terraform remote state explained](https://dev.to/marco13moo/daily-dose-of-devops-terraform-remote-state-explained-33h5)
+- [My first open source contribution was a bug nobody could hear](https://dev.to/lluisestape/my-first-open-source-contribution-was-a-bug-nobody-could-hear-3i02)
+- [Expand, migrate, contract: the only database migration pattern a small team needs](https://dev.to/hive80lab/expand-migrate-contract-the-only-database-migration-pattern-a-small-team-needs-58j3)
+- [The AI Agent Revolution Is Not About Automation. It’s About Authority](https://dev.to/asgharali/the-ai-agent-revolution-is-not-about-automation-its-about-authority-188n)
+- [The Prompt Is Dying. Context Is Becoming the New Interface](https://dev.to/asgharali/the-prompt-is-dying-context-is-becoming-the-new-interface-1a3h)
+- [The Costs Cross-Platform Development Solves — and the Costs It Doesn&#39;t](https://dev.to/nkzn/the-costs-cross-platform-development-solves-and-the-costs-it-doesnt-p30)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
