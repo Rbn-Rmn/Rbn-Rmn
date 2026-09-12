@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My first open source contribution was a bug nobody could hear](https://dev.to/lluisestape/my-first-open-source-contribution-was-a-bug-nobody-could-hear-3i02)
-- [Expand, migrate, contract: the only database migration pattern a small team needs](https://dev.to/hive80lab/expand-migrate-contract-the-only-database-migration-pattern-a-small-team-needs-58j3)
-- [The AI Agent Revolution Is Not About Automation. It’s About Authority](https://dev.to/asgharali/the-ai-agent-revolution-is-not-about-automation-its-about-authority-188n)
-- [The Prompt Is Dying. Context Is Becoming the New Interface](https://dev.to/asgharali/the-prompt-is-dying-context-is-becoming-the-new-interface-1a3h)
-- [The Costs Cross-Platform Development Solves — and the Costs It Doesn&#39;t](https://dev.to/nkzn/the-costs-cross-platform-development-solves-and-the-costs-it-doesnt-p30)
+- [What’s Keeping SWEs Up at Night in the Age of Agentic Engineering](https://dev.to/ibrahimshamma99/whats-keeping-swes-up-at-night-in-the-age-of-agentic-engineering-dal)
+- [I Tested AI Coding Agents for 30 Days - Here&#39;s What Actually Changed](https://dev.to/unfiltered_anshul/i-tested-ai-coding-agents-for-30-days-heres-what-actually-changed-fm2)
+- [I Interviewed an Executable. It Had Notes.](https://dev.to/copyleftdev/i-interviewed-an-executable-it-had-notes-1k3e)
+- [A Simple Pattern for Making AI Automations Safer](https://dev.to/hashim_khan_cb87a5b9a3613/a-simple-pattern-for-making-ai-automations-safer-2ge8)
+- [Remote Chat Failover Needs a Tab-Stop Origin Banner, Not a Skeleton Overlay](https://dev.to/babycat/remote-chat-failover-needs-a-tab-stop-origin-banner-not-a-skeleton-overlay-55p0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
