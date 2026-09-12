@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My favorite screenshot extension vanished, so I built my own](https://dev.to/enknot96/my-favorite-screenshot-extension-vanished-so-i-built-my-own-58d5)
-- [We cut CLAUDE.md to 33KB. Eighteen days later it was 45KB again: what a size cap missed and a structure test caught](https://dev.to/rulestack/we-cut-claudemd-to-33kb-eighteen-days-later-it-was-45kb-again-what-a-size-cap-missed-and-a-3ha8)
-- [Google Ads Is Shifting Toward Longer Queries: How Advertisers Should Reallocate Spend](https://dev.to/alifar/google-ads-is-shifting-toward-longer-queries-how-advertisers-should-reallocate-spend-46lc)
-- [Building WakeAtlas: ships, shipwrecks and ocean science on a free CesiumJS globe](https://dev.to/william_carne_1332c355841/building-wakeatlas-ships-shipwrecks-and-ocean-science-on-a-free-cesiumjs-globe-1e62)
-- [I built a free in-browser video compressor — the file never leaves your device](https://dev.to/videocompress/i-built-a-free-in-browser-video-compressor-the-file-never-leaves-your-device-52pk)
+- [Attestly: Generate EU AI Act Annex IV docs from your agents’ operational traces](https://dev.to/swishmilnet/attestly-generate-eu-ai-act-annex-iv-docs-from-your-agents-operational-traces-4ik7)
+- [I Made Four Authorization Engines Answer the Same Questions](https://dev.to/kanywst/i-made-four-authorization-engines-answer-the-same-questions-5a96)
+- [I built an epistemic gate to stop LLM data poisoning during fine-tuning. Tested across 5 architectures, orchestrated on a 2006 Toshiba laptop for $0.](https://dev.to/dante777/i-built-an-epistemic-gate-to-stop-llm-data-poisoning-during-fine-tuning-tested-across-5-42kk)
+- [Typhoon vs OpenThai vs Pathumma: Three Thai LLMs Worth Knowing](https://dev.to/sarantoon/typhoon-vs-openthai-vs-pathumma-three-thai-llms-worth-knowing-3g8)
+- [How to Use CloudTrail to Check Whether You Were Affected by the AWS SSM Agent Vulnerability &lpar;CVE-2026-89049&rpar;](https://dev.to/aws-builders/how-to-use-cloudtrail-to-check-whether-you-were-affected-by-the-aws-ssm-agent-vulnerability-1mln)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
