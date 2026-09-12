@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why we moved our Backstage platform from Yarn to pnpm](https://dev.to/bogdan_nechyporenko/why-we-moved-our-backstage-platform-from-yarn-to-pnpm-21ap)
-- [Why Static Mock APIs Aren&#39;t Enough for Modern Frontend Development](https://dev.to/nileslabs/why-static-mock-apis-arent-enough-for-modern-frontend-development-5861)
-- [I Ship Mobile Apps for $0: Vercel + Render + Supabase Free Tier](https://dev.to/3ni8ma/i-ship-mobile-apps-for-0-vercel-render-supabase-free-tier-27n5)
-- [How I Built an Agentless Self-Hosting Orchestrator with 100+ Tested Stacks &amp; 100% Local AI](https://dev.to/henk_van_hoek/how-i-built-an-agentless-self-hosting-orchestrator-with-100-tested-stacks-100-local-ai-1cbo)
-- [Expo + Supabase GitHub Auth Broke 3 Times — Here&#39;s the Fix](https://dev.to/3ni8ma/expo-supabase-github-auth-broke-3-times-heres-the-fix-ijp)
+- [I ran my scanner against 5 real CVEs. It missed 4. Then I reverted my own fix.](https://dev.to/balbaks/i-ran-my-scanner-against-5-real-cves-it-missed-4-then-i-reverted-my-own-fix-4dhk)
+- [AI Won’t Fix a Broken Business Process](https://dev.to/ikilic/ai-wont-fix-a-broken-business-process-3ma0)
+- [Running a nested Proxmox homelab and Docker development on the same Windows machine](https://dev.to/yahavtz/running-a-nested-proxmox-homelab-and-docker-development-on-the-same-windows-machine-44c8)
+- [Droid ASC: A High-Performance Tool for Android Reverse Engineering and Vulnerability Discovery](https://dev.to/excalibra/droid-asc-a-high-performance-tool-for-android-reverse-engineering-and-vulnerability-discovery-1ci9)
+- [&quot;Keeping a record: working across many sessions&quot;](https://dev.to/lisandro_reinoso_d12ac7b9/keeping-a-record-working-across-many-sessions-1g2k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
