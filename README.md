@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I ran my scanner against 5 real CVEs. It missed 4. Then I reverted my own fix.](https://dev.to/balbaks/i-ran-my-scanner-against-5-real-cves-it-missed-4-then-i-reverted-my-own-fix-4dhk)
-- [AI Won’t Fix a Broken Business Process](https://dev.to/ikilic/ai-wont-fix-a-broken-business-process-3ma0)
-- [Running a nested Proxmox homelab and Docker development on the same Windows machine](https://dev.to/yahavtz/running-a-nested-proxmox-homelab-and-docker-development-on-the-same-windows-machine-44c8)
-- [Droid ASC: A High-Performance Tool for Android Reverse Engineering and Vulnerability Discovery](https://dev.to/excalibra/droid-asc-a-high-performance-tool-for-android-reverse-engineering-and-vulnerability-discovery-1ci9)
-- [&quot;Keeping a record: working across many sessions&quot;](https://dev.to/lisandro_reinoso_d12ac7b9/keeping-a-record-working-across-many-sessions-1g2k)
+- [I described 1,245 tables with an LLM and retrieval got worse](https://dev.to/ashish_sinha_5241c7673d93/i-described-1245-tables-with-an-llm-and-retrieval-got-worse-58a)
+- [Every text-to-SQL benchmark score you&#39;ve seen was measured without access control](https://dev.to/ashish_sinha_5241c7673d93/every-text-to-sql-benchmark-score-youve-seen-was-measured-without-access-control-37h)
+- [Milestone Reached: YINI Syntax Highlighting Is Now on the VS Code Marketplace](https://dev.to/marko_kseppnen_6250a7f/milestone-reached-yini-syntax-highlighting-is-now-on-the-vs-code-marketplace-18mb)
+- [Padrão de Projeto Decorator: Adicionando Funcionalidades sem Quebrar sua Arquitetura](https://dev.to/gabriel_berton_brito/padrao-de-projeto-decorator-adicionando-funcionalidades-sem-quebrar-sua-arquitetura-c0h)
+- [XML Configuration Mode: Decoupling Your API Catalog from Business Code](https://dev.to/paohaijiao/xml-configuration-mode-decoupling-your-api-catalog-from-business-code-56nm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
