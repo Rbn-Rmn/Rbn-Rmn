@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The reply-length check existed for three weeks. The batch a human flagged never touched it: guarding the wrong path](https://dev.to/rulestack/the-reply-length-check-existed-for-three-weeks-the-batch-a-human-flagged-never-touched-it-3479)
-- [AI เขียนโค้ด AI ตรวจโค้ดด้วย, จุดบอดที่ OpenAI ยังตอบไม่ได้](https://dev.to/sarantoon/ai-ekhiiynokhd-ai-trwcchokhddwy-cchudbdthii-openai-yangtbaimaid-3gd7)
-- [Recursive CTEs: How SQL Secretly Learned to Loop](https://dev.to/rahmanfrr/recursive-ctes-how-sql-secretly-learned-to-loop-457f)
-- [OpenProfile.md 0.2: answer the forty dating-site questions once](https://dev.to/chovy/openprofilemd-02-answer-the-forty-dating-site-questions-once-43cg)
-- [Bir web portföyünü anlaşılır kılmak: içerik hiyerarşisi ve proje sunumu](https://dev.to/cantaskin/bir-web-portfoyunu-anlasilir-kilmak-icerik-hiyerarsisi-ve-proje-sunumu-2dnf)
+- [The fifteen ways a Google Play subscription breaks quietly](https://dev.to/lazytitan30/the-fifteen-ways-a-google-play-subscription-breaks-quietly-4f61)
+- [Java Concurrency LLD: Build a Custom BlockingQueue From Scratch](https://dev.to/machinecodingmaster/java-concurrency-lld-build-a-custom-blockingqueue-from-scratch-25dg)
+- [WCAG 2.2 CSS Lint - Focus &amp; Target Size](https://dev.to/readystacktools/wcag-22-css-lint-focus-target-size-115n)
+- [The Like Button Might Be Holding Back Global Learning Content](https://dev.to/sumit0rn/the-like-button-might-be-holding-back-global-learning-content-4m0f)
+- [Add AI search to existing application](https://dev.to/codegino/add-ai-search-to-existing-application-225f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
