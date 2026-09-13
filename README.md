@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How a Closed-Loop Learning Engine Rebuilt What AI Knows About Oracle](https://dev.to/rick_houlihan_cf110dba340/how-a-closed-loop-learning-engine-rebuilt-what-ai-knows-about-oracle-3jmg)
-- [Two required components had no design at all, and the numbering hid it](https://dev.to/mahirhir/two-required-components-had-no-design-at-all-and-the-numbering-hid-it-pjc)
-- [A Mac App, Not an iOS App on a Mac](https://dev.to/codenameone/a-mac-app-not-an-ios-app-on-a-mac-2jce)
-- [Google Play Closed Testing: 12 Testers and 14 Days](https://dev.to/cubietec/google-play-closed-testing-12-testers-and-14-days-1ne2)
-- [Prompts Are Code. Genkit Makes the Runtime Reviewable.](https://dev.to/raju_dandigam/prompts-are-code-genkit-makes-the-runtime-reviewable-gh3)
+- [Claude Certified Developer - Foundations certification Overview](https://dev.to/yashnigam/claude-certified-developer-foundations-certification-overview-4n07)
+- [Context aware Spring AI chat microservice](https://dev.to/marinenimd/context-aware-spring-ai-chat-microservice-ake)
+- [How I Built a Bilingual RAG-Powered AI Calling &amp; Chat Agent &lpar;With a Full Admin Ops Center&rpar;](https://dev.to/nexoper/how-i-built-a-bilingual-rag-powered-ai-calling-chat-agent-with-a-full-admin-ops-center-573o)
+- [A Turing Machine in Minecraft](https://dev.to/oleg_merkulov/a-turing-machine-in-minecraft-2120)
+- [The 3 Scaling Laws of AI: From Training More to Thinking More](https://dev.to/rijultp/the-3-scaling-laws-of-ai-from-training-more-to-thinking-more-13hk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
