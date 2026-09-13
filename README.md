@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I described 1,245 tables with an LLM and retrieval got worse](https://dev.to/ashish_sinha_5241c7673d93/i-described-1245-tables-with-an-llm-and-retrieval-got-worse-58a)
-- [Every text-to-SQL benchmark score you&#39;ve seen was measured without access control](https://dev.to/ashish_sinha_5241c7673d93/every-text-to-sql-benchmark-score-youve-seen-was-measured-without-access-control-37h)
-- [Milestone Reached: YINI Syntax Highlighting Is Now on the VS Code Marketplace](https://dev.to/marko_kseppnen_6250a7f/milestone-reached-yini-syntax-highlighting-is-now-on-the-vs-code-marketplace-18mb)
-- [Padrão de Projeto Decorator: Adicionando Funcionalidades sem Quebrar sua Arquitetura](https://dev.to/gabriel_berton_brito/padrao-de-projeto-decorator-adicionando-funcionalidades-sem-quebrar-sua-arquitetura-c0h)
-- [XML Configuration Mode: Decoupling Your API Catalog from Business Code](https://dev.to/paohaijiao/xml-configuration-mode-decoupling-your-api-catalog-from-business-code-56nm)
+- [The reply-length check existed for three weeks. The batch a human flagged never touched it: guarding the wrong path](https://dev.to/rulestack/the-reply-length-check-existed-for-three-weeks-the-batch-a-human-flagged-never-touched-it-3479)
+- [AI เขียนโค้ด AI ตรวจโค้ดด้วย, จุดบอดที่ OpenAI ยังตอบไม่ได้](https://dev.to/sarantoon/ai-ekhiiynokhd-ai-trwcchokhddwy-cchudbdthii-openai-yangtbaimaid-3gd7)
+- [Recursive CTEs: How SQL Secretly Learned to Loop](https://dev.to/rahmanfrr/recursive-ctes-how-sql-secretly-learned-to-loop-457f)
+- [OpenProfile.md 0.2: answer the forty dating-site questions once](https://dev.to/chovy/openprofilemd-02-answer-the-forty-dating-site-questions-once-43cg)
+- [Bir web portföyünü anlaşılır kılmak: içerik hiyerarşisi ve proje sunumu](https://dev.to/cantaskin/bir-web-portfoyunu-anlasilir-kilmak-icerik-hiyerarsisi-ve-proje-sunumu-2dnf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
