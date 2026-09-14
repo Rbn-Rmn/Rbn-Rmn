@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I replaced most of a dev team with Claude Code to build a production e-commerce store. Here&#39;s what broke.](https://dev.to/saintbooth/i-replaced-most-of-a-dev-team-with-claude-code-to-build-a-production-e-commerce-store-heres-what-gen)
-- [Why do Cursor and Claude Code both say connected to my memory server and still share nothing?](https://dev.to/izgorodin/why-do-cursor-and-claude-code-both-say-connected-to-my-memory-server-and-still-share-nothing-43jo)
-- [Governance Attack Surface Review: Sky Lending](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-sky-lending-17dk)
-- [Production Benchmarks: Stdio vs SSE Transports in the Model Context Protocol](https://dev.to/stormliveai/production-benchmarks-stdio-vs-sse-transports-in-the-model-context-protocol-5cep)
-- [Your AI Cannot Use the Posts You Saved, So I Built Social Memory](https://dev.to/devjiro/your-ai-cannot-use-the-posts-you-saved-so-i-built-social-memory-2amp)
+- [Flutter App Architecture Guide: Clean Architecture with BLoC &amp; Repository Pattern &lpar;2025&rpar;](https://dev.to/abinschandran/flutter-app-architecture-guide-clean-architecture-with-bloc-repository-pattern-2025-4oc8)
+- [Perl 🐪 Weekly #790 - Perl and CPANSec](https://dev.to/szabgab/perl-weekly-790-perl-and-cpansec-1iob)
+- [How to Build High-Performance Flutter Mobile Apps &lpar;60fps Architecture Guide&rpar;](https://dev.to/abinschandran/how-to-build-high-performance-flutter-mobile-apps-60fps-architecture-guide-2b5p)
+- [How to actually pick your Amazon SES plan after the July 2026 pricing overhaul &lpar;and whether the dedicated IP is worth it&rpar;](https://dev.to/julianros/how-to-actually-pick-your-amazon-ses-plan-after-the-july-2026-pricing-overhaul-and-whether-the-44g4)
+- [Is Oanda API Free? &lpar;And What to Use Instead in 2026&rpar;](https://dev.to/viraj_geeth_e6dc448fe4d43/is-oanda-api-free-and-what-to-use-instead-in-2026-1445)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
