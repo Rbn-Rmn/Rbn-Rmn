@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Flutter App Architecture Guide: Clean Architecture with BLoC &amp; Repository Pattern &lpar;2025&rpar;](https://dev.to/abinschandran/flutter-app-architecture-guide-clean-architecture-with-bloc-repository-pattern-2025-4oc8)
-- [Perl 🐪 Weekly #790 - Perl and CPANSec](https://dev.to/szabgab/perl-weekly-790-perl-and-cpansec-1iob)
-- [How to Build High-Performance Flutter Mobile Apps &lpar;60fps Architecture Guide&rpar;](https://dev.to/abinschandran/how-to-build-high-performance-flutter-mobile-apps-60fps-architecture-guide-2b5p)
-- [How to actually pick your Amazon SES plan after the July 2026 pricing overhaul &lpar;and whether the dedicated IP is worth it&rpar;](https://dev.to/julianros/how-to-actually-pick-your-amazon-ses-plan-after-the-july-2026-pricing-overhaul-and-whether-the-44g4)
-- [Is Oanda API Free? &lpar;And What to Use Instead in 2026&rpar;](https://dev.to/viraj_geeth_e6dc448fe4d43/is-oanda-api-free-and-what-to-use-instead-in-2026-1445)
+- [48 Hours Chasing a Duplicate Nightly Job: SIGTERM Was Landing on the Wrapper](https://dev.to/codepy_1473/48-hours-chasing-a-duplicate-nightly-job-sigterm-was-landing-on-the-wrapper-c2b)
+- [What Happens When AI Outgrows the Tests We Use to Measure It?](https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al)
+- [An Avatar Failure Must Not Reveal the Camera: Build a Consent-Safe Beauty AR Fallback Governor](https://dev.to/susiewang/an-avatar-failure-must-not-reveal-the-camera-build-a-consent-safe-beauty-ar-fallback-governor-1ge9)
+- [Multipart Uploads Made Simple: Sending Files with curl&#39;s `-F` Flag in Java](https://dev.to/paohaijiao/multipart-uploads-made-simple-sending-files-with-curls-f-flag-in-java-45fa)
+- [The Blog Was the Shelf, the Lab Is the Workbench](https://dev.to/joacod/the-blog-was-the-shelf-the-lab-is-the-workbench-38of)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
