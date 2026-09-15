@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Did the memory repair erase the release controls?](https://dev.to/sara_mo/did-the-memory-repair-erase-the-release-controls-20c0)
-- [Presenting, Linking and Presenting Data in Power BI](https://dev.to/sir_masha_g/presenting-linking-and-presenting-data-in-power-bi-165i)
-- [Why Secrets Slip Through Every Layer of Your Security Stack](https://dev.to/gitguardian/why-secrets-slip-through-every-layer-of-your-security-stack-5gm8)
-- [Run Arduino locally](https://dev.to/citronbrick/run-arduino-locally-1181)
-- [Resources get allocated. People get respected. Only one of them shows up at 2 AM.](https://dev.to/saqibameen86/resources-get-allocated-people-get-respected-only-one-of-them-shows-up-at-2-am-15c8)
+- [Enhancing Go Code Security: Applying Least Privilege Principle to Minimize Vulnerabilities](https://dev.to/viklogix/enhancing-go-code-security-applying-least-privilege-principle-to-minimize-vulnerabilities-3kh5)
+- [Day 75: Jenkins Slave Nodes](https://dev.to/janak0ff/day-75-jenkins-slave-nodes-2jja)
+- [New and improved Inspector: DevTools for AI Agents, now with Automatic Learning](https://dev.to/copilotkit/new-and-improved-inspector-devtools-for-ai-agents-now-with-automatic-learning-4lai)
+- [Intersect, Don&#39;t Union: Three Trust Classes for Agent Patch Tests](https://dev.to/datacpp_8185/intersect-dont-union-three-trust-classes-for-agent-patch-tests-5ch6)
+- [Compile Quickstart Steps From a Fixture Manifest; Hand-Write Secrets, Failure, and Teardown](https://dev.to/github_7727/compile-quickstart-steps-from-a-fixture-manifest-hand-write-secrets-failure-and-teardown-5f9p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
