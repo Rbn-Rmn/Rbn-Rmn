@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Killed by the Word &#39;git&#39;: One Token of Coincidence, 40 Points of Pass Rate](https://dev.to/debashish_ghosal/killed-by-the-word-git-one-token-of-coincidence-40-points-of-pass-rate-140f)
-- [AI Is Screening Your CV — and It Has a Bias Problem](https://dev.to/theaidownside/ai-is-screening-your-cv-and-it-has-a-bias-problem-5d1i)
-- [Reading an IMS voice call out of a GTP-only 5G capture](https://dev.to/eventhelix/reading-an-ims-voice-call-out-of-a-gtp-only-5g-capture-iek)
-- [42 commits em uma sessão e eu não revisei nenhum](https://dev.to/asouza/42-commits-em-uma-sessao-e-eu-nao-revisei-nenhum-3984)
-- [Made a free toolkit For Web Scraping](https://dev.to/metcoreb/made-a-free-toolkit-for-web-scraping-562e)
+- [Did the memory repair erase the release controls?](https://dev.to/sara_mo/did-the-memory-repair-erase-the-release-controls-20c0)
+- [Presenting, Linking and Presenting Data in Power BI](https://dev.to/sir_masha_g/presenting-linking-and-presenting-data-in-power-bi-165i)
+- [Why Secrets Slip Through Every Layer of Your Security Stack](https://dev.to/gitguardian/why-secrets-slip-through-every-layer-of-your-security-stack-5gm8)
+- [Run Arduino locally](https://dev.to/citronbrick/run-arduino-locally-1181)
+- [Resources get allocated. People get respected. Only one of them shows up at 2 AM.](https://dev.to/saqibameen86/resources-get-allocated-people-get-respected-only-one-of-them-shows-up-at-2-am-15c8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
