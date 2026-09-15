@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Go Code Security: Applying Least Privilege Principle to Minimize Vulnerabilities](https://dev.to/viklogix/enhancing-go-code-security-applying-least-privilege-principle-to-minimize-vulnerabilities-3kh5)
-- [Day 75: Jenkins Slave Nodes](https://dev.to/janak0ff/day-75-jenkins-slave-nodes-2jja)
-- [New and improved Inspector: DevTools for AI Agents, now with Automatic Learning](https://dev.to/copilotkit/new-and-improved-inspector-devtools-for-ai-agents-now-with-automatic-learning-4lai)
-- [Intersect, Don&#39;t Union: Three Trust Classes for Agent Patch Tests](https://dev.to/datacpp_8185/intersect-dont-union-three-trust-classes-for-agent-patch-tests-5ch6)
-- [Compile Quickstart Steps From a Fixture Manifest; Hand-Write Secrets, Failure, and Teardown](https://dev.to/github_7727/compile-quickstart-steps-from-a-fixture-manifest-hand-write-secrets-failure-and-teardown-5f9p)
+- [Breaking the Cloud Lock-In: Complete OVHcloud Automation via Crossplane Provider OVH 2.17.0](https://dev.to/hamza_dev_talks/breaking-the-cloud-lock-in-complete-ovhcloud-automation-via-crossplane-provider-ovh-2170-31i5)
+- [EU State of the Union 2026: What Businesses Should Watch on Digital Policy](https://dev.to/alifar/eu-state-of-the-union-2026-what-businesses-should-watch-on-digital-policy-51cf)
+- [Beyond Static Notes: Building an Agentic AI &quot;Second Brain&quot; That Actually Works](https://dev.to/saleemha/beyond-static-notes-building-an-agentic-ai-second-brain-that-actually-works-cd2)
+- [Build a Supply Chain Control Tower with ToolJet MCP](https://dev.to/athulya_r/build-a-supply-chain-control-tower-with-tooljet-mcp-4olp)
+- [I’ve reworked the tutorial in my micro-project three times, and I still don’t know if it’s become any clearer.](https://dev.to/yan_lunin/ive-reworked-the-tutorial-in-my-micro-project-three-times-and-i-still-dont-know-if-its-become-3fc8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
