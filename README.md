@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your Agent Eval Set Is Rotting: Build a Failure-Mining Loop for Google ADK](https://dev.to/raju_dandigam/your-agent-eval-set-is-rotting-build-a-failure-mining-loop-for-google-adk-1moc)
-- [Your coding agent forgets on purpose. A PreCompact hook is where you save it](https://dev.to/vitaly_ivasenko_cd7932e08/your-coding-agent-forgets-on-purpose-a-precompact-hook-is-where-you-save-it-3gn)
-- [Big Tech Issued $220 Billion of Bonds to Feed the Silicon Buildout](https://dev.to/deanlee/big-tech-issued-220-billion-of-bonds-to-feed-the-silicon-buildout-o6o)
-- [Google Introduces Gemini 3.8 Live Audio Models for Real-Time Voice AI Workflows](https://dev.to/alifar/google-introduces-gemini-38-live-audio-models-for-real-time-voice-ai-workflows-5cfd)
-- [The arithmetic IS the product: building a planner that tells people the truth](https://dev.to/daniel_pertu/the-arithmetic-is-the-product-building-a-planner-that-tells-people-the-truth-3400)
+- [Context Engineering for Production AI Agents in 2026: Beyond Prompt Engineering and Basic RAG](https://dev.to/jasminshukla/context-engineering-for-production-ai-agents-in-2026-beyond-prompt-engineering-and-basic-rag-5564)
+- [OpenAI&#39;s Agents Attacked RubyGems and the Response Was &quot;They Were Just Retrieving Public Information&quot;](https://dev.to/numbpill3d/openais-agents-attacked-rubygems-and-the-response-was-they-were-just-retrieving-public-4f98)
+- [Microsoft Just Shipped 972 Patches and a Researcher Broke Their Defender Fix the Same Day](https://dev.to/numbpill3d/microsoft-just-shipped-972-patches-and-a-researcher-broke-their-defender-fix-the-same-day-3ke6)
+- [Chapter 1 - The Funkiest of All Machines](https://dev.to/frank_muller/chapter-1-the-funkiest-of-all-machines-29ah)
+- [The best n8n fix I found this month was boring: lower your agent concurrency settings before touching the prompt](https://dev.to/lars_winstand/the-best-n8n-fix-i-found-this-month-was-boring-lower-your-agent-concurrency-settings-before-3k7p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
