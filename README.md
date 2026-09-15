@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Breaking the Cloud Lock-In: Complete OVHcloud Automation via Crossplane Provider OVH 2.17.0](https://dev.to/hamza_dev_talks/breaking-the-cloud-lock-in-complete-ovhcloud-automation-via-crossplane-provider-ovh-2170-31i5)
-- [EU State of the Union 2026: What Businesses Should Watch on Digital Policy](https://dev.to/alifar/eu-state-of-the-union-2026-what-businesses-should-watch-on-digital-policy-51cf)
-- [Beyond Static Notes: Building an Agentic AI &quot;Second Brain&quot; That Actually Works](https://dev.to/saleemha/beyond-static-notes-building-an-agentic-ai-second-brain-that-actually-works-cd2)
-- [Build a Supply Chain Control Tower with ToolJet MCP](https://dev.to/athulya_r/build-a-supply-chain-control-tower-with-tooljet-mcp-4olp)
-- [I’ve reworked the tutorial in my micro-project three times, and I still don’t know if it’s become any clearer.](https://dev.to/yan_lunin/ive-reworked-the-tutorial-in-my-micro-project-three-times-and-i-still-dont-know-if-its-become-3fc8)
+- [Your Agent Eval Set Is Rotting: Build a Failure-Mining Loop for Google ADK](https://dev.to/raju_dandigam/your-agent-eval-set-is-rotting-build-a-failure-mining-loop-for-google-adk-1moc)
+- [Your coding agent forgets on purpose. A PreCompact hook is where you save it](https://dev.to/vitaly_ivasenko_cd7932e08/your-coding-agent-forgets-on-purpose-a-precompact-hook-is-where-you-save-it-3gn)
+- [Big Tech Issued $220 Billion of Bonds to Feed the Silicon Buildout](https://dev.to/deanlee/big-tech-issued-220-billion-of-bonds-to-feed-the-silicon-buildout-o6o)
+- [Google Introduces Gemini 3.8 Live Audio Models for Real-Time Voice AI Workflows](https://dev.to/alifar/google-introduces-gemini-38-live-audio-models-for-real-time-voice-ai-workflows-5cfd)
+- [The arithmetic IS the product: building a planner that tells people the truth](https://dev.to/daniel_pertu/the-arithmetic-is-the-product-building-a-planner-that-tells-people-the-truth-3400)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
