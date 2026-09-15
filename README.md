@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Engineer a Multi-Agent Pipeline for Production Reliability](https://dev.to/madebymonogram/how-to-engineer-a-multi-agent-pipeline-for-production-reliability-1n2p)
-- [HTB - Tactics](https://dev.to/zkrnvkf/htb-tactics-1bg9)
-- [Your first ASP.NET App: Dependency Injection](https://dev.to/__f5cd865bec2/your-first-aspnet-app-dependency-injection-741)
-- [MobileTopUP: Modeling Airtime, Data, and Bundles Without a Messy Product Schema](https://dev.to/mobilerings/mobiletopup-modeling-airtime-data-and-bundles-without-a-messy-product-schema-36p2)
-- [Terraform for Cloud ML Infrastructure](https://dev.to/hamza_dev_talks/terraform-for-cloud-ml-infrastructure-3fpb)
+- [Killed by the Word &#39;git&#39;: One Token of Coincidence, 40 Points of Pass Rate](https://dev.to/debashish_ghosal/killed-by-the-word-git-one-token-of-coincidence-40-points-of-pass-rate-140f)
+- [AI Is Screening Your CV — and It Has a Bias Problem](https://dev.to/theaidownside/ai-is-screening-your-cv-and-it-has-a-bias-problem-5d1i)
+- [Reading an IMS voice call out of a GTP-only 5G capture](https://dev.to/eventhelix/reading-an-ims-voice-call-out-of-a-gtp-only-5g-capture-iek)
+- [42 commits em uma sessão e eu não revisei nenhum](https://dev.to/asouza/42-commits-em-uma-sessao-e-eu-nao-revisei-nenhum-3984)
+- [Made a free toolkit For Web Scraping](https://dev.to/metcoreb/made-a-free-toolkit-for-web-scraping-562e)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
