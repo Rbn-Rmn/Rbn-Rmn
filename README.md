@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Four Practical Ways to Generate UUIDs at Work](https://dev.to/lizely/comparing-four-practical-ways-to-generate-uuids-at-work-18ji)
-- [I Deleted My Entire Security Stack. My Apps Got Safer.](https://dev.to/dhruv_malaviya_cdcc71e595/i-deleted-my-entire-security-stack-my-apps-got-safer-3png)
-- [The false choice between low-code and pro code](https://dev.to/grumptech/the-false-choice-between-low-code-and-pro-code-262n)
-- [I have designed libraries professionally for 5 years](https://dev.to/dzakh/i-have-designed-libraries-professionally-for-5-years-1j36)
-- [I replaced coding-agent orchestration with Git worktrees and one Python file](https://dev.to/yanairon/i-replaced-coding-agent-orchestration-with-git-worktrees-and-one-python-file-4gj2)
+- [I Gave a Simulated Connectome External Memory. Then I Killed the Brain.](https://dev.to/constant_itis/i-gave-a-simulated-connectome-external-memory-then-i-killed-the-brain-175)
+- [I Said Install ffmpeg. I Did Not Say Rewrite My Machine.](https://dev.to/constant_itis/i-said-install-ffmpeg-i-did-not-say-rewrite-my-machine-57an)
+- [CVE-2026-16723: Pre-Auth RCE in Fastjson 1.x via the @JSONType Trust Branch](https://dev.to/guidance_white/cve-2026-16723-pre-auth-rce-in-fastjson-1x-via-the-jsontype-trust-branch-10bf)
+- [How to Lead DevRel in the AI Era: Stop Playing It Safe](https://dev.to/blackgirlbytes/how-to-lead-devrel-in-the-ai-boom-stop-playing-it-safe-19jo)
+- [An AI impersonated me](https://dev.to/banana_cool/an-ai-impersonated-me-3lhi)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
