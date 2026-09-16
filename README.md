@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [スマホの指がエコーキャンセラを壊していた — 音でないもので発話が切れる](https://dev.to/orca_forge/sumahonozhi-gaekokiyanserawohuai-siteita-yin-denaimonodefa-hua-gaqie-reru-2lo2)
-- [The Capital One breach was not an SSRF story](https://dev.to/trustboundary/the-capital-one-breach-was-not-an-ssrf-story-515c)
-- [Radio: A Shared Channel for my AI Agents](https://dev.to/maskaravivek/radio-a-shared-channel-for-my-ai-agents-2a7k)
-- [Your change process governs code. This was not code.](https://dev.to/trustboundary/your-change-process-governs-code-this-was-not-code-58o9)
-- [Node.js API Domain Retirement Explained with 3 Shared Zone Risk Controls](https://dev.to/finnoakley52947/nodejs-api-domain-retirement-explained-with-3-shared-zone-risk-controls-44cj)
+- [Speculative Decoding in 2026: From EAGLE to DFlash to XPress — The Complete Engineer&#39;s Playbook](https://dev.to/monuminu/speculative-decoding-in-2026-from-eagle-to-dflash-to-xpress-the-complete-engineers-playbook-3ald)
+- [AI Agent Containment After the Great Sandbox Escapes of 2026: What GPT-5.6 Sol, Claude, and Rogue Agents Teach Developers](https://dev.to/monuminu/ai-agent-containment-after-the-great-sandbox-escapes-of-2026-what-gpt-56-sol-claude-and-rogue-4oll)
+- [Qwen 3.8 27B: The Frontier LLM That Fits on Your Laptop — Architecture, Reasoning Control &amp; Agentic Integration](https://dev.to/monuminu/qwen-38-27b-the-frontier-llm-that-fits-on-your-laptop-architecture-reasoning-control-agentic-47kg)
+- [The LLM Knowledge-Reasoning Tradeoff: Why 2026&#39;s Best Models Are Deliberately Fact-Minimized — And Faster Than Ever](https://dev.to/monuminu/the-llm-knowledge-reasoning-tradeoff-why-2026s-best-models-are-deliberately-fact-minimized-and-2bdn)
+- [The Reasoning Heist: Stealing Encrypted LLM Thoughts from GPT-5, Claude &amp; Gemini — Fix It Now](https://dev.to/monuminu/the-reasoning-heist-stealing-encrypted-llm-thoughts-from-gpt-5-claude-gemini-fix-it-now-3i44)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
