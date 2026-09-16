@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Context Engineering for Production AI Agents in 2026: Beyond Prompt Engineering and Basic RAG](https://dev.to/jasminshukla/context-engineering-for-production-ai-agents-in-2026-beyond-prompt-engineering-and-basic-rag-5564)
-- [OpenAI&#39;s Agents Attacked RubyGems and the Response Was &quot;They Were Just Retrieving Public Information&quot;](https://dev.to/numbpill3d/openais-agents-attacked-rubygems-and-the-response-was-they-were-just-retrieving-public-4f98)
-- [Microsoft Just Shipped 972 Patches and a Researcher Broke Their Defender Fix the Same Day](https://dev.to/numbpill3d/microsoft-just-shipped-972-patches-and-a-researcher-broke-their-defender-fix-the-same-day-3ke6)
-- [Chapter 1 - The Funkiest of All Machines](https://dev.to/frank_muller/chapter-1-the-funkiest-of-all-machines-29ah)
-- [The best n8n fix I found this month was boring: lower your agent concurrency settings before touching the prompt](https://dev.to/lars_winstand/the-best-n8n-fix-i-found-this-month-was-boring-lower-your-agent-concurrency-settings-before-3k7p)
+- [スマホの指がエコーキャンセラを壊していた — 音でないもので発話が切れる](https://dev.to/orca_forge/sumahonozhi-gaekokiyanserawohuai-siteita-yin-denaimonodefa-hua-gaqie-reru-2lo2)
+- [The Capital One breach was not an SSRF story](https://dev.to/trustboundary/the-capital-one-breach-was-not-an-ssrf-story-515c)
+- [Radio: A Shared Channel for my AI Agents](https://dev.to/maskaravivek/radio-a-shared-channel-for-my-ai-agents-2a7k)
+- [Your change process governs code. This was not code.](https://dev.to/trustboundary/your-change-process-governs-code-this-was-not-code-58o9)
+- [Node.js API Domain Retirement Explained with 3 Shared Zone Risk Controls](https://dev.to/finnoakley52947/nodejs-api-domain-retirement-explained-with-3-shared-zone-risk-controls-44cj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
