@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Speculative Decoding in 2026: From EAGLE to DFlash to XPress — The Complete Engineer&#39;s Playbook](https://dev.to/monuminu/speculative-decoding-in-2026-from-eagle-to-dflash-to-xpress-the-complete-engineers-playbook-3ald)
-- [AI Agent Containment After the Great Sandbox Escapes of 2026: What GPT-5.6 Sol, Claude, and Rogue Agents Teach Developers](https://dev.to/monuminu/ai-agent-containment-after-the-great-sandbox-escapes-of-2026-what-gpt-56-sol-claude-and-rogue-4oll)
-- [Qwen 3.8 27B: The Frontier LLM That Fits on Your Laptop — Architecture, Reasoning Control &amp; Agentic Integration](https://dev.to/monuminu/qwen-38-27b-the-frontier-llm-that-fits-on-your-laptop-architecture-reasoning-control-agentic-47kg)
-- [The LLM Knowledge-Reasoning Tradeoff: Why 2026&#39;s Best Models Are Deliberately Fact-Minimized — And Faster Than Ever](https://dev.to/monuminu/the-llm-knowledge-reasoning-tradeoff-why-2026s-best-models-are-deliberately-fact-minimized-and-2bdn)
-- [The Reasoning Heist: Stealing Encrypted LLM Thoughts from GPT-5, Claude &amp; Gemini — Fix It Now](https://dev.to/monuminu/the-reasoning-heist-stealing-encrypted-llm-thoughts-from-gpt-5-claude-gemini-fix-it-now-3i44)
+- [𝖧𝗈𝗐 🚀 𝖨 𝖡𝗎𝗂𝗅𝖽𝖾𝖽 𝖠𝗇 𝖠𝖨 𝖠𝗀𝖾𝗇𝗍 𝖳𝗁𝖺𝗍 𝖠𝖼𝗍𝗎𝖺𝗅𝗅𝗒 𝖶𝗈𝗋𝗄𝗌 &lpar;𝖶𝗂𝗍𝗁𝗈𝗎𝗍 𝖫𝗈𝗌𝗂𝗇𝗀 𝖬𝗒 𝖲𝖺𝗇𝗂𝗍𝗒&rpar; 🔥](https://dev.to/hizba_cloud/--d3j)
+- [Développeurs dépossédés : visiteurs de notre propre code](https://dev.to/karkael/developpeurs-depossedes-visiteurs-de-notre-propre-code-32pp)
+- [Dispossessed Developers: Visitors in Our Own Codebase](https://dev.to/karkael/my-llms-write-all-my-code-i-dont-even-open-it-anymore-5ekc)
+- [Our scoping tool refuses in 4 of the 7 states it can be in, and that ratio is not a tuning choice](https://dev.to/boris_binyaminov_c5e9cec9/our-scoping-tool-refuses-in-4-of-the-7-states-it-can-be-in-and-that-ratio-is-not-a-tuning-choice-5hf8)
+- [n8n’s AI Audit Trail Framework Explains How to Build Replayable Workflow Records](https://dev.to/alifar/n8ns-ai-audit-trail-framework-explains-how-to-build-replayable-workflow-records-2c07)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
