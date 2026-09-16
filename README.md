@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Can a Blockchain Game Exist Without Coins, NFTs, or Play-to-Earn?](https://dev.to/badjoke-lab/can-a-blockchain-game-exist-without-coins-nfts-or-play-to-earn-2713)
-- [How to deploy a dotnet application without a Dockerfile or Docker build process](https://dev.to/tj-tronics/how-to-deploy-a-dotnet-application-without-a-dockerfile-or-docker-build-process-3315)
-- [Pew Study Shows How Google AI Overviews Are Changing Search Click Behavior](https://dev.to/alifar/pew-study-shows-how-google-ai-overviews-are-changing-search-click-behavior-19cl)
-- [Plataforma gratuita para practicar SQL en español](https://dev.to/rozhnev/plataforma-gratuita-para-practicar-sql-en-espanol-1df9)
-- [How We Built a Zero-Cost Unchanged Run SEC Enforcement API](https://dev.to/stefanoseggio/how-we-built-a-zero-cost-unchanged-run-sec-enforcement-api-166n)
+- [Comparing Four Practical Ways to Generate UUIDs at Work](https://dev.to/lizely/comparing-four-practical-ways-to-generate-uuids-at-work-18ji)
+- [I Deleted My Entire Security Stack. My Apps Got Safer.](https://dev.to/dhruv_malaviya_cdcc71e595/i-deleted-my-entire-security-stack-my-apps-got-safer-3png)
+- [The false choice between low-code and pro code](https://dev.to/grumptech/the-false-choice-between-low-code-and-pro-code-262n)
+- [I have designed libraries professionally for 5 years](https://dev.to/dzakh/i-have-designed-libraries-professionally-for-5-years-1j36)
+- [I replaced coding-agent orchestration with Git worktrees and one Python file](https://dev.to/yanairon/i-replaced-coding-agent-orchestration-with-git-worktrees-and-one-python-file-4gj2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
