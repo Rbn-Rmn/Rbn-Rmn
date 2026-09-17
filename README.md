@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Shrink Key Revocation Latency: Webhook Intake with a Scheduled Polling Backstop](https://dev.to/wilfredknight8447/how-to-shrink-key-revocation-latency-webhook-intake-with-a-scheduled-polling-backstop-519o)
-- [LLM - Day 1 - Intro](https://dev.to/technonotes/llm-day-1-lets-learn-ai-4p9l)
-- [Hardening Jenkins After the September 2026 Plugin Advisory: A Practical Guide](https://dev.to/stark_zhuang_df5076f35c68/hardening-jenkins-after-the-september-2026-plugin-advisory-a-practical-guide-2i52)
-- [Does RAG Need Better Retrieval — or Better Relationships?](https://dev.to/valerykot/does-rag-need-better-retrieval-or-better-relationships-4fkk)
-- [Knowledge Poisoning in RAG: Attacking AI Through Its Knowledge Base](https://dev.to/rijultp/knowledge-poisoning-in-rag-attacking-ai-through-its-knowledge-base-3gp1)
+- [Cooley Launches GO Public With OpenAI to Bring AI Into IPO Preparation](https://dev.to/alifar/cooley-launches-go-public-with-openai-to-bring-ai-into-ipo-preparation-4ch3)
+- [The EU AI Act&#39;s logging rule moved to December 2027. The logs did not get easier.](https://dev.to/dogrucanemekalt/the-eu-ai-acts-logging-rule-moved-to-december-2027-the-logs-did-not-get-easier-2eb8)
+- [PWC 391 Median Boxes](https://dev.to/boblied/pwc-391-median-boxes-27o4)
+- [I Turned My Editor Into a Pokémon World That Levels Up When I Actually Ship](https://dev.to/uribejr/i-turned-my-editor-into-a-pokemon-world-that-levels-up-when-i-actually-ship-4pg6)
+- [One Missing WHERE Clause Can Expose Another Customer’s Data](https://dev.to/bootsaas/one-missing-where-clause-can-expose-another-customers-data-2n0c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
