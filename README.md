@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [CompTIA Network+: Master Routing &amp; Switching Technologies](https://dev.to/faladetimilehin/-comptia-network-master-routing-switching-technologies-4p9m)
-- [I built URL2Vid - a free tool to download video/audio from 10+ platforms using a URL](https://dev.to/ptqwerty_cc8588b726b20cae/i-built-url2vid-a-free-tool-to-download-videoaudio-from-10-platforms-using-a-url-4870)
-- [Deep Generative Models: Four Ways to Make Complex Distributions Learnable](https://dev.to/zeromathai/deep-generative-models-four-ways-to-make-complex-distributions-learnable-o43)
-- [Generating AWS S3 presigned URLs in dotnet without dependencies](https://dev.to/tj-tronics/generating-aws-s3-presigned-urls-in-dotnet-without-dependencies-25jg)
-- [Learn How to Query from Unlabeled Data Streams in Federated Learning.](https://dev.to/ponmiledaniel/learn-how-to-query-from-unlabeled-data-streams-in-federated-learning-51i3)
+- [The Answer You Didn&#39;t Want: Fiskardo Evacuation Routing](https://dev.to/ptzivras/the-answer-you-didnt-want-fiskardo-evacuation-routing-4hok)
+- [Semrush Study Shows Why AI Search Citations Change With Query Stakes and Intent](https://dev.to/alifar/semrush-study-shows-why-ai-search-citations-change-with-query-stakes-and-intent-2gc7)
+- [The Web3 Economic Stack: How Onchain Activity Creates Businesses](https://dev.to/lordghostx/the-web3-economic-stack-how-onchain-activity-creates-businesses-4mo6)
+- [TLS Handshakes and OAuth Flows Are Easier to Learn by Clicking Through Them](https://dev.to/devopsdaily/tls-handshakes-and-oauth-flows-are-easier-to-learn-by-clicking-through-them-1g1g)
+- [Stop Optimizing for Output: Why Software Engineering is a Discovery Problem](https://dev.to/dmitryame/stop-optimizing-for-output-why-software-engineering-is-a-discovery-problem-1bb9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
