@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Answer You Didn&#39;t Want: Fiskardo Evacuation Routing](https://dev.to/ptzivras/the-answer-you-didnt-want-fiskardo-evacuation-routing-4hok)
-- [Semrush Study Shows Why AI Search Citations Change With Query Stakes and Intent](https://dev.to/alifar/semrush-study-shows-why-ai-search-citations-change-with-query-stakes-and-intent-2gc7)
-- [The Web3 Economic Stack: How Onchain Activity Creates Businesses](https://dev.to/lordghostx/the-web3-economic-stack-how-onchain-activity-creates-businesses-4mo6)
-- [TLS Handshakes and OAuth Flows Are Easier to Learn by Clicking Through Them](https://dev.to/devopsdaily/tls-handshakes-and-oauth-flows-are-easier-to-learn-by-clicking-through-them-1g1g)
-- [Stop Optimizing for Output: Why Software Engineering is a Discovery Problem](https://dev.to/dmitryame/stop-optimizing-for-output-why-software-engineering-is-a-discovery-problem-1bb9)
+- [How to Shrink Key Revocation Latency: Webhook Intake with a Scheduled Polling Backstop](https://dev.to/wilfredknight8447/how-to-shrink-key-revocation-latency-webhook-intake-with-a-scheduled-polling-backstop-519o)
+- [LLM - Day 1 - Intro](https://dev.to/technonotes/llm-day-1-lets-learn-ai-4p9l)
+- [Hardening Jenkins After the September 2026 Plugin Advisory: A Practical Guide](https://dev.to/stark_zhuang_df5076f35c68/hardening-jenkins-after-the-september-2026-plugin-advisory-a-practical-guide-2i52)
+- [Does RAG Need Better Retrieval — or Better Relationships?](https://dev.to/valerykot/does-rag-need-better-retrieval-or-better-relationships-4fkk)
+- [Knowledge Poisoning in RAG: Attacking AI Through Its Knowledge Base](https://dev.to/rijultp/knowledge-poisoning-in-rag-attacking-ai-through-its-knowledge-base-3gp1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
