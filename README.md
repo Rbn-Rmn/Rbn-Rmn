@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [We Can Build Software Faster Than Ever. But Can Users Actually Use It?](https://dev.to/parvejshah/we-can-build-software-faster-than-ever-but-can-users-actually-use-it-57cb)
-- [I put my notes in a private Git repo instead of a cloud notebook](https://dev.to/xbmlz/i-put-my-notes-in-a-private-git-repo-instead-of-a-cloud-notebook-io1)
-- [My LLM agents forget conversation history when I restart them, how do I fix this?](https://dev.to/izgorodin/my-llm-agents-forget-conversation-history-when-i-restart-them-how-do-i-fix-this-2c4c)
-- [Uma linha errada no sudoers e virei root](https://dev.to/pedrofoggiato/uma-linha-errada-no-sudoers-e-virei-root-5cmc)
-- [Flutter从widgt到源码](https://dev.to/shanxing/fluttercong-widgtdao-yuan-ma-33hl)
+- [CompTIA Network+: Master Routing &amp; Switching Technologies](https://dev.to/faladetimilehin/-comptia-network-master-routing-switching-technologies-4p9m)
+- [I built URL2Vid - a free tool to download video/audio from 10+ platforms using a URL](https://dev.to/ptqwerty_cc8588b726b20cae/i-built-url2vid-a-free-tool-to-download-videoaudio-from-10-platforms-using-a-url-4870)
+- [Deep Generative Models: Four Ways to Make Complex Distributions Learnable](https://dev.to/zeromathai/deep-generative-models-four-ways-to-make-complex-distributions-learnable-o43)
+- [Generating AWS S3 presigned URLs in dotnet without dependencies](https://dev.to/tj-tronics/generating-aws-s3-presigned-urls-in-dotnet-without-dependencies-25jg)
+- [Learn How to Query from Unlabeled Data Streams in Federated Learning.](https://dev.to/ponmiledaniel/learn-how-to-query-from-unlabeled-data-streams-in-federated-learning-51i3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
