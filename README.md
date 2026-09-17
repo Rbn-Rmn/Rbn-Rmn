@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Green Coverage, Broken Inverse: A Round-Trip Gate for Agent Patches](https://dev.to/datacpp_8185/green-coverage-broken-inverse-a-round-trip-gate-for-agent-patches-40hd)
-- [Google Warns DMA Search Changes Could Reshape Visibility for European Businesses](https://dev.to/alifar/google-warns-dma-search-changes-could-reshape-visibility-for-european-businesses-3k8i)
-- [Hybrid Delivery Isn&#39;t a Compromise. It&#39;s the Strategy You Were Pretending Wasn&#39;t Happening.](https://dev.to/javiercastromdq/hybrid-delivery-isnt-a-compromise-its-the-strategy-you-were-pretending-wasnt-happening-16oa)
-- [I made a website where anyone on Earth can leave their mark — forever](https://dev.to/mostafa_neqrouz_212f109c0/i-made-a-website-where-anyone-on-earth-can-leave-their-mark-forever-3bmn)
-- [Cloudflare Separates AI Training Controls From Search Indexing for Website Owners](https://dev.to/alifar/cloudflare-separates-ai-training-controls-from-search-indexing-for-website-owners-152a)
+- [We Can Build Software Faster Than Ever. But Can Users Actually Use It?](https://dev.to/parvejshah/we-can-build-software-faster-than-ever-but-can-users-actually-use-it-57cb)
+- [I put my notes in a private Git repo instead of a cloud notebook](https://dev.to/xbmlz/i-put-my-notes-in-a-private-git-repo-instead-of-a-cloud-notebook-io1)
+- [My LLM agents forget conversation history when I restart them, how do I fix this?](https://dev.to/izgorodin/my-llm-agents-forget-conversation-history-when-i-restart-them-how-do-i-fix-this-2c4c)
+- [Uma linha errada no sudoers e virei root](https://dev.to/pedrofoggiato/uma-linha-errada-no-sudoers-e-virei-root-5cmc)
+- [Flutter从widgt到源码](https://dev.to/shanxing/fluttercong-widgtdao-yuan-ma-33hl)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
