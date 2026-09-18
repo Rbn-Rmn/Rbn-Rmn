@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Cooley Launches GO Public With OpenAI to Bring AI Into IPO Preparation](https://dev.to/alifar/cooley-launches-go-public-with-openai-to-bring-ai-into-ipo-preparation-4ch3)
-- [The EU AI Act&#39;s logging rule moved to December 2027. The logs did not get easier.](https://dev.to/dogrucanemekalt/the-eu-ai-acts-logging-rule-moved-to-december-2027-the-logs-did-not-get-easier-2eb8)
-- [PWC 391 Median Boxes](https://dev.to/boblied/pwc-391-median-boxes-27o4)
-- [I Turned My Editor Into a Pokémon World That Levels Up When I Actually Ship](https://dev.to/uribejr/i-turned-my-editor-into-a-pokemon-world-that-levels-up-when-i-actually-ship-4pg6)
-- [One Missing WHERE Clause Can Expose Another Customer’s Data](https://dev.to/bootsaas/one-missing-where-clause-can-expose-another-customers-data-2n0c)
+- [Bypassing a WAF and a CSP with Google Tag Manager: An Attacker’s Perspective and Remediation Advice](https://dev.to/raxis/bypassing-a-waf-and-a-csp-with-google-tag-manager-an-attackers-perspective-and-remediation-advice-2pig)
+- [Programming Is Mostly Learning How to Investigate Things](https://dev.to/sizzlebop/programming-is-mostly-learning-how-to-investigate-things-2hf6)
+- [Deploying the 600GB Inkling-NVFP4 Model on Spot A3: A GKE and vLLM Deep Dive](https://dev.to/alchemicduncan/deploying-the-600gb-inkling-nvfp4-model-on-spot-a3-a-gke-and-vllm-deep-dive-34hc)
+- [Your README&#39;s code examples are untested — here&#39;s how I test mine in any language](https://dev.to/ingridowusu/your-readmes-code-examples-are-untested-heres-how-i-test-mine-in-any-language-3h7a)
+- [Your Health Data Stays on Your Phone: Building a Private Health AI with Llama-3 and MLX-Swift](https://dev.to/beck_moulton/your-health-data-stays-on-your-phone-building-a-private-health-ai-with-llama-3-and-mlx-swift-166l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
