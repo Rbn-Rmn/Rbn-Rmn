@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [bashy: a pure-Go Bash 5.3 that runs on Windows and rebuilds itself from the downloaded binary](https://dev.to/qiangli/bashy-a-pure-go-bash-53-that-runs-on-windows-and-rebuilds-itself-from-the-downloaded-binary-2h9d)
-- [The Bill for Not Falling Behind: The Capital Half-Life of AI Hardware](https://dev.to/socialawy/the-bill-for-not-falling-behind-the-capital-half-life-of-ai-hardware-59fm)
-- [Replacing Basic Auth with JWT and OAuth2 in Spring Security](https://dev.to/bilal_bukhari_75aeb34a969/replacing-basic-auth-with-jwt-and-oauth2-in-spring-security-h9k)
-- [Bookmarks for Your Terminal](https://dev.to/sizzlebop/bookmarks-for-your-terminal-efh)
-- [I built a Chrome extension after a screen-share disaster reminded me how fragile browsing is](https://dev.to/robat_das_3c6e956212f6408/i-built-a-chrome-extension-after-a-screen-share-disaster-reminded-me-how-fragile-browsing-is-428j)
+- [FlowScript 0.1: A semantic language for describing applications before implementation](https://dev.to/erland_kjensli_e3e4076039/flowscript-01-a-semantic-language-for-describing-applications-before-implementation-3pn3)
+- [The model obeys your schema, not your description](https://dev.to/marc_kumiko/the-model-obeys-your-schema-not-your-description-1cml)
+- [ngl, &quot;asked an agent to find where my space went and the agent was the problem&quot; is the most 2026 sentence I&#39;ve read this week.](https://dev.to/dannwaneri/ngl-asked-an-agent-to-find-where-my-space-went-and-the-agent-was-the-problem-is-the-most-2026-3nh3)
+- [Retirement Assistant: Retiring Assets Without Retiring Your Patience](https://dev.to/halton_chen/retirement-assistant-retiring-assets-without-retiring-your-patience-57en)
+- [SQL Joins Explained.](https://dev.to/josephine_mackylah_d6b31f/joins-explained-nei)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
