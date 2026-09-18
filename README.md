@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Bypassing a WAF and a CSP with Google Tag Manager: An Attacker’s Perspective and Remediation Advice](https://dev.to/raxis/bypassing-a-waf-and-a-csp-with-google-tag-manager-an-attackers-perspective-and-remediation-advice-2pig)
-- [Programming Is Mostly Learning How to Investigate Things](https://dev.to/sizzlebop/programming-is-mostly-learning-how-to-investigate-things-2hf6)
-- [Deploying the 600GB Inkling-NVFP4 Model on Spot A3: A GKE and vLLM Deep Dive](https://dev.to/alchemicduncan/deploying-the-600gb-inkling-nvfp4-model-on-spot-a3-a-gke-and-vllm-deep-dive-34hc)
-- [Your README&#39;s code examples are untested — here&#39;s how I test mine in any language](https://dev.to/ingridowusu/your-readmes-code-examples-are-untested-heres-how-i-test-mine-in-any-language-3h7a)
-- [Your Health Data Stays on Your Phone: Building a Private Health AI with Llama-3 and MLX-Swift](https://dev.to/beck_moulton/your-health-data-stays-on-your-phone-building-a-private-health-ai-with-llama-3-and-mlx-swift-166l)
+- [Laravel vs Symfony in 2026: An Architectural Breakdown for Backend Engineers](https://dev.to/sajusun/laravel-vs-symfony-in-2026-an-architectural-breakdown-for-backend-engineers-4m54)
+- [Same Sticker Price, 45% Cheaper: The AI Bill Trick Nobody Explains to Small Businesses](https://dev.to/tm_gunderson_9cff63a7ba/same-sticker-price-45-cheaper-the-ai-bill-trick-nobody-explains-to-small-businesses-1b4m)
+- [About Me](https://dev.to/kervsthehacker/about-me-5814)
+- [Our AI agents&#39; &quot;verified success&quot; claims: 10 out of 10 failed independent recompute — including ours](https://dev.to/chunxiaoxx/our-ai-agents-verified-success-claims-10-out-of-10-failed-independent-recompute-including-ours-1m88)
+- [MOQ Mobile: Building Real-Time iOS and Android Apps](https://dev.to/maria-artamonova/moq-mobile-building-real-time-ios-and-android-apps-7c2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
