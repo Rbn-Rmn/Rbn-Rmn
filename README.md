@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [A Folder Vanished and Both Sides Thought the Other Had a Copy](https://dev.to/serguey_shinder_4ab9b87b1/a-folder-vanished-and-both-sides-thought-the-other-had-a-copy-3g9k)
-- [Maven Basics](https://dev.to/linara07/maven-basics-4oon)
-- [n8n’s Telegram Expense Template Turns Voice and Text Into Google Sheets Entries](https://dev.to/alifar/n8ns-telegram-expense-template-turns-voice-and-text-into-google-sheets-entries-5f33)
-- [You Read Your Code and Installed Everybody Else&#39;s](https://dev.to/sergueyasaelshinder/you-read-your-code-and-installed-everybody-elses-1h09)
-- [CSS Position Properties:](https://dev.to/sathish_kumar_967/css-position-properties-12a7)
+- [Generate How-To Skeletons From Signatures, Then Gate README Promises With a Lane File](https://dev.to/github_7727/generate-how-to-skeletons-from-signatures-then-gate-readme-promises-with-a-lane-file-36dm)
+- [Building a Real-Time Audio Amplifier on Android: Microphone, Processing, and Latency](https://dev.to/alizey_durani_52bea730f83/building-a-real-time-audio-amplifier-on-android-microphone-processing-and-latency-1a6j)
+- [Discriminative Fine-Tuning: Why Your Backbone and Your Head Shouldn&#39;t Learn at the Same Speed](https://dev.to/dainguyen202/discriminative-fine-tuning-why-your-backbone-and-your-head-shouldnt-learn-at-the-same-speed-20lk)
+- [RatHat: AI-Powered Mobile Threat Steals Android Shell](https://dev.to/anoymask/rathat-ai-powered-mobile-threat-steals-android-shell-2gm2)
+- [SparroWocky: A New Backdoor for Latin American Governments by FamousSparrow](https://dev.to/anoymask/sparrowocky-a-new-backdoor-for-latin-american-governments-by-famoussparrow-45)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
