@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Generate How-To Skeletons From Signatures, Then Gate README Promises With a Lane File](https://dev.to/github_7727/generate-how-to-skeletons-from-signatures-then-gate-readme-promises-with-a-lane-file-36dm)
-- [Building a Real-Time Audio Amplifier on Android: Microphone, Processing, and Latency](https://dev.to/alizey_durani_52bea730f83/building-a-real-time-audio-amplifier-on-android-microphone-processing-and-latency-1a6j)
-- [Discriminative Fine-Tuning: Why Your Backbone and Your Head Shouldn&#39;t Learn at the Same Speed](https://dev.to/dainguyen202/discriminative-fine-tuning-why-your-backbone-and-your-head-shouldnt-learn-at-the-same-speed-20lk)
-- [RatHat: AI-Powered Mobile Threat Steals Android Shell](https://dev.to/anoymask/rathat-ai-powered-mobile-threat-steals-android-shell-2gm2)
-- [SparroWocky: A New Backdoor for Latin American Governments by FamousSparrow](https://dev.to/anoymask/sparrowocky-a-new-backdoor-for-latin-american-governments-by-famoussparrow-45)
+- [The AI Velocity Trap: Why Altman, Amodei, and Musk Tried to Hit the Brakes](https://dev.to/alfoncode/the-ai-velocity-trap-why-altman-amodei-and-musk-tried-to-hit-the-brakes-5do0)
+- [I Trusted urljoin for 48 Hours. Every Request Lost the /v1 Prefix.](https://dev.to/codepy_1473/i-trusted-urljoin-for-48-hours-every-request-lost-the-v1-prefix-4ek9)
+- [Giving AI Access to Evidence Is Not the Same as Giving It Authority to Publish](https://dev.to/temitayocharles/giving-ai-access-to-evidence-is-not-the-same-as-giving-it-authority-to-publish-27i6)
+- [Production Readiness Is Easier to Inspect Than to Debate](https://dev.to/temitayocharles/production-readiness-is-easier-to-inspect-than-to-debate-2jfi)
+- [Technology Value Starts With an Explicit Operating Problem](https://dev.to/temitayocharles/technology-value-starts-with-an-explicit-operating-problem-1a6m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
