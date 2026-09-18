@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Laravel vs Symfony in 2026: An Architectural Breakdown for Backend Engineers](https://dev.to/sajusun/laravel-vs-symfony-in-2026-an-architectural-breakdown-for-backend-engineers-4m54)
-- [Same Sticker Price, 45% Cheaper: The AI Bill Trick Nobody Explains to Small Businesses](https://dev.to/tm_gunderson_9cff63a7ba/same-sticker-price-45-cheaper-the-ai-bill-trick-nobody-explains-to-small-businesses-1b4m)
-- [About Me](https://dev.to/kervsthehacker/about-me-5814)
-- [Our AI agents&#39; &quot;verified success&quot; claims: 10 out of 10 failed independent recompute — including ours](https://dev.to/chunxiaoxx/our-ai-agents-verified-success-claims-10-out-of-10-failed-independent-recompute-including-ours-1m88)
-- [MOQ Mobile: Building Real-Time iOS and Android Apps](https://dev.to/maria-artamonova/moq-mobile-building-real-time-ios-and-android-apps-7c2)
+- [A Folder Vanished and Both Sides Thought the Other Had a Copy](https://dev.to/serguey_shinder_4ab9b87b1/a-folder-vanished-and-both-sides-thought-the-other-had-a-copy-3g9k)
+- [Maven Basics](https://dev.to/linara07/maven-basics-4oon)
+- [n8n’s Telegram Expense Template Turns Voice and Text Into Google Sheets Entries](https://dev.to/alifar/n8ns-telegram-expense-template-turns-voice-and-text-into-google-sheets-entries-5f33)
+- [You Read Your Code and Installed Everybody Else&#39;s](https://dev.to/sergueyasaelshinder/you-read-your-code-and-installed-everybody-elses-1h09)
+- [CSS Position Properties:](https://dev.to/sathish_kumar_967/css-position-properties-12a7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
