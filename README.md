@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The AI Velocity Trap: Why Altman, Amodei, and Musk Tried to Hit the Brakes](https://dev.to/alfoncode/the-ai-velocity-trap-why-altman-amodei-and-musk-tried-to-hit-the-brakes-5do0)
-- [I Trusted urljoin for 48 Hours. Every Request Lost the /v1 Prefix.](https://dev.to/codepy_1473/i-trusted-urljoin-for-48-hours-every-request-lost-the-v1-prefix-4ek9)
-- [Giving AI Access to Evidence Is Not the Same as Giving It Authority to Publish](https://dev.to/temitayocharles/giving-ai-access-to-evidence-is-not-the-same-as-giving-it-authority-to-publish-27i6)
-- [Production Readiness Is Easier to Inspect Than to Debate](https://dev.to/temitayocharles/production-readiness-is-easier-to-inspect-than-to-debate-2jfi)
-- [Technology Value Starts With an Explicit Operating Problem](https://dev.to/temitayocharles/technology-value-starts-with-an-explicit-operating-problem-1a6m)
+- [bashy: a pure-Go Bash 5.3 that runs on Windows and rebuilds itself from the downloaded binary](https://dev.to/qiangli/bashy-a-pure-go-bash-53-that-runs-on-windows-and-rebuilds-itself-from-the-downloaded-binary-2h9d)
+- [The Bill for Not Falling Behind: The Capital Half-Life of AI Hardware](https://dev.to/socialawy/the-bill-for-not-falling-behind-the-capital-half-life-of-ai-hardware-59fm)
+- [Replacing Basic Auth with JWT and OAuth2 in Spring Security](https://dev.to/bilal_bukhari_75aeb34a969/replacing-basic-auth-with-jwt-and-oauth2-in-spring-security-h9k)
+- [Bookmarks for Your Terminal](https://dev.to/sizzlebop/bookmarks-for-your-terminal-efh)
+- [I built a Chrome extension after a screen-share disaster reminded me how fragile browsing is](https://dev.to/robat_das_3c6e956212f6408/i-built-a-chrome-extension-after-a-screen-share-disaster-reminded-me-how-fragile-browsing-is-428j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
