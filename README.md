@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [SOLAR: an interactive 3D solar system on real JPL orbits, in your browser](https://dev.to/xtotam/solar-an-interactive-3d-solar-system-on-real-jpl-orbits-in-your-browser-51kg)
-- [Defending Against Automated Botnet Floods Without Degrading Container CPU Footprints](https://dev.to/qyleron-dev/defending-against-automated-botnet-floods-without-degrading-container-cpu-footprints-3bpf)
-- [I Compared 6 Dunning Tools for Stripe SaaS — and Found a Price Range Nobody Is Covering](https://dev.to/zhaochangbo888/i-compared-6-dunning-tools-for-stripe-saas-and-found-a-price-range-nobody-is-covering-4glf)
-- [CVE-2026-63349: CVE-2026-63349: Privilege Dropping Bypass and Denial of Service in AnyIO Subprocess Module](https://dev.to/cverports/cve-2026-63349-cve-2026-63349-privilege-dropping-bypass-and-denial-of-service-in-anyio-subprocess-2ojb)
-- [Pull the tenant from the auth context, not the request body](https://dev.to/authbyexample1/pull-the-tenant-from-the-auth-context-not-the-request-body-dag)
+- [Stop Hosting Client WordPress Sites in One Shared Account](https://dev.to/eniyisunucum/stop-hosting-client-wordpress-sites-in-one-shared-account-385b)
+- [New Server-Driven UI in Elixir: Stateless, RESTful, and HTML-Native with WFC](https://dev.to/elanatframework/new-server-driven-ui-in-elixir-stateless-restful-and-html-native-with-wfc-52k7)
+- [Building FoxyInvoice — Chapter 3: Architecture — one codebase, two products, boring on purpose](https://dev.to/seolith/building-foxyinvoice-chapter-3-architecture-one-codebase-two-products-boring-on-purpose-gfk)
+- [The best comment I ever got was someone proving my code wrong](https://dev.to/frankchu/the-best-comment-i-ever-got-was-someone-proving-my-code-wrong-40kg)
+- [The End of Traditional UX](https://dev.to/alexyampolsky/the-end-of-traditional-ux-4lg2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
