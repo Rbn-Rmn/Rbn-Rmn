@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What Counts as an Opted-In Tester on Google Play?](https://dev.to/vmzavas/what-counts-as-an-opted-in-tester-on-google-play-4hhh)
-- [Jev Does Not Replace the LLM. It Changes Who Owns the Decision](https://dev.to/miruky/jev-does-not-replace-the-llm-it-changes-who-owns-the-decision-3n6)
-- [6 คอนเทนเนอร์ Docker แทน Google และราคาที่ต้องจ่ายจริง](https://dev.to/sarantoon/6-khnethnenr-docker-aethn-google-aelaraakhaathiitngcchaaycchring-2d9b)
-- [Time in Queue Is Not Free](https://dev.to/hackrs_3352/time-in-queue-is-not-free-3fo0)
-- [Linux Permissions made easy](https://dev.to/iabdsam/linux-permissions-made-easy-2i58)
+- [SOLAR: an interactive 3D solar system on real JPL orbits, in your browser](https://dev.to/xtotam/solar-an-interactive-3d-solar-system-on-real-jpl-orbits-in-your-browser-51kg)
+- [Defending Against Automated Botnet Floods Without Degrading Container CPU Footprints](https://dev.to/qyleron-dev/defending-against-automated-botnet-floods-without-degrading-container-cpu-footprints-3bpf)
+- [I Compared 6 Dunning Tools for Stripe SaaS — and Found a Price Range Nobody Is Covering](https://dev.to/zhaochangbo888/i-compared-6-dunning-tools-for-stripe-saas-and-found-a-price-range-nobody-is-covering-4glf)
+- [CVE-2026-63349: CVE-2026-63349: Privilege Dropping Bypass and Denial of Service in AnyIO Subprocess Module](https://dev.to/cverports/cve-2026-63349-cve-2026-63349-privilege-dropping-bypass-and-denial-of-service-in-anyio-subprocess-2ojb)
+- [Pull the tenant from the auth context, not the request body](https://dev.to/authbyexample1/pull-the-tenant-from-the-auth-context-not-the-request-body-dag)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
