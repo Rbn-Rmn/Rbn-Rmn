@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AMD Local LLM Setup on Windows/Linux: ROCm Overrides &amp; Vulkan vs. HIP Benchmarking](https://dev.to/xanpavle/amd-local-llm-setup-on-windowslinux-rocm-overrides-vulkan-vs-hip-benchmarking-15p2)
-- [[Boost]](https://dev.to/anthonymax/-5c8d)
-- [How Many MikroTik Devices Are Actually Reachable From the Internet?](https://dev.to/bianliang/how-many-mikrotik-devices-are-actually-reachable-from-the-internet-1h76)
-- [Linux desktop icons are dull, so I drew a better set and made it free](https://dev.to/thissayantan/linux-desktop-icons-are-dull-so-i-drew-a-better-set-and-made-it-free-5af0)
-- [The fake job interview that installs malware](https://dev.to/fourleaf/the-fake-job-interview-that-installs-malware-2n1l)
+- [Game Engine Zero: a free Go book where you build Pong, Snake and Breakout before any engine talk](https://dev.to/kryotek/game-engine-zero-a-free-go-book-where-you-build-pong-snake-and-breakout-before-any-engine-talk-1ch)
+- [ShinyHunters Hacks Clop Leak Site: Claims an Unauthenticated File Upload Led to Tor Private Key Theft](https://dev.to/anoymask/shinyhunters-hacks-clop-leak-site-claims-an-unauthenticated-file-upload-led-to-tor-private-key-1bl0)
+- [I built a transport-independent foundation for JSON API clients in Perl](https://dev.to/pannakoota/i-built-a-transport-independent-foundation-for-json-api-clients-in-perl-1od6)
+- [A 2,800-page free Go book that builds a living simulated world, written in 18 days with AI in the loop](https://dev.to/kryotek/i-wrote-a-2800-page-free-go-book-that-builds-a-living-simulated-world-20pg)
+- [Jumia Product Analysis WithExcel Dashboards](https://dev.to/alfred-otuko/jumia-product-analysis-withexcel-dashboards-1ha8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
