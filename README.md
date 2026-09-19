@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Stop Hosting Client WordPress Sites in One Shared Account](https://dev.to/eniyisunucum/stop-hosting-client-wordpress-sites-in-one-shared-account-385b)
-- [New Server-Driven UI in Elixir: Stateless, RESTful, and HTML-Native with WFC](https://dev.to/elanatframework/new-server-driven-ui-in-elixir-stateless-restful-and-html-native-with-wfc-52k7)
-- [Building FoxyInvoice — Chapter 3: Architecture — one codebase, two products, boring on purpose](https://dev.to/seolith/building-foxyinvoice-chapter-3-architecture-one-codebase-two-products-boring-on-purpose-gfk)
-- [The best comment I ever got was someone proving my code wrong](https://dev.to/frankchu/the-best-comment-i-ever-got-was-someone-proving-my-code-wrong-40kg)
-- [The End of Traditional UX](https://dev.to/alexyampolsky/the-end-of-traditional-ux-4lg2)
+- [anything2explainer Packages Remotion Explainers as an Agent Skill](https://dev.to/dd8888/anything2explainer-packages-remotion-explainers-as-an-agent-skill-19g9)
+- [Nuevas instancias T8i, ¿hora de jubilar tus T3i?](https://dev.to/aws-builders/nuevas-instancias-t8i-hora-de-jubilar-tus-t3i-2k4j)
+- [Entendiendo la desestructuración en Javascript](https://dev.to/javier_ee5cb8a318b2596536/entendiendo-la-desestructuracion-en-javascript-gb7)
+- [Cua: Open-Source Computer-Use Infrastructure &amp; Drivers for AI Agents](https://dev.to/terminalchai/cua-open-source-computer-use-infrastructure-drivers-for-ai-agents-4len)
+- [The story of morphing-scroll, my npm library](https://dev.to/voodoofugu/the-story-of-morphing-scroll-my-npm-library-1agb)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
