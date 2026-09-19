@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [FlowScript 0.1: A semantic language for describing applications before implementation](https://dev.to/erland_kjensli_e3e4076039/flowscript-01-a-semantic-language-for-describing-applications-before-implementation-3pn3)
-- [The model obeys your schema, not your description](https://dev.to/marc_kumiko/the-model-obeys-your-schema-not-your-description-1cml)
-- [ngl, &quot;asked an agent to find where my space went and the agent was the problem&quot; is the most 2026 sentence I&#39;ve read this week.](https://dev.to/dannwaneri/ngl-asked-an-agent-to-find-where-my-space-went-and-the-agent-was-the-problem-is-the-most-2026-3nh3)
-- [Retirement Assistant: Retiring Assets Without Retiring Your Patience](https://dev.to/halton_chen/retirement-assistant-retiring-assets-without-retiring-your-patience-57en)
-- [SQL Joins Explained.](https://dev.to/josephine_mackylah_d6b31f/joins-explained-nei)
+- [Orkes Conductor CVE-2026-58138: Exploitation Activity Observed Against Unauthenticated Workflow RCE](https://dev.to/anoymask/orkes-conductor-cve-2026-58138-exploitation-activity-observed-against-unauthenticated-workflow-rce-2gkk)
+- [WaterPlum: North Korean Campaign Infects 30,000 Devices via Fake Interview Tasks](https://dev.to/anoymask/waterplum-north-korean-campaign-infects-30000-devices-via-fake-interview-tasks-4528)
+- [Why I Chose Node.js Transactional Email API — Password Reset Templates That Deliver](https://dev.to/jasperflint6947/why-i-chose-nodejs-transactional-email-api-password-reset-templates-that-deliver-528m)
+- [The 2026 Pragmatic Stack: Mengapa PostgreSQL dan Go Menang Melawan Stack Sprawl](https://dev.to/hellogung/the-2026-pragmatic-stack-mengapa-postgresql-dan-go-menang-melawan-stack-sprawl-1900)
+- [Integrity-OS: Promise Proof](https://dev.to/jedser/integrity-os-promise-proof-5eki)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
