@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How Symmetric Encryption &lpar;Fernet&rpar; Keeps Local Credentials Safe on Disk](https://dev.to/susumun/how-symmetric-encryption-fernet-keeps-local-credentials-safe-on-disk-38bk)
-- [What Math Actually Buys You: Optimizing a Rock-Paper-Scissors Game in C](https://dev.to/david_essien/what-math-actually-buys-you-optimizing-a-rock-paper-scissors-game-in-c-hnp)
-- [How to Verify Self-Hosted LLM Tool Specs Before Building](https://dev.to/forgedgoods/how-to-verify-self-hosted-llm-tool-specs-before-building-242d)
-- [VIGÍA ML: Gas-Well Predictive Monitoring That Runs Entirely in the Browser &lpar;TensorFlow.js + React&rpar;](https://dev.to/edison_flores_6d2cd381b13/vigia-ml-gas-well-predictive-monitoring-that-runs-entirely-in-the-browser-tensorflowjs-react-2coa)
-- [Model Truth Desk: constraint-checked model decisions from primary sources](https://dev.to/wraith1337/model-truth-desk-constraint-checked-model-decisions-from-primary-sources-1pcg)
+- [What Counts as an Opted-In Tester on Google Play?](https://dev.to/vmzavas/what-counts-as-an-opted-in-tester-on-google-play-4hhh)
+- [Jev Does Not Replace the LLM. It Changes Who Owns the Decision](https://dev.to/miruky/jev-does-not-replace-the-llm-it-changes-who-owns-the-decision-3n6)
+- [6 คอนเทนเนอร์ Docker แทน Google และราคาที่ต้องจ่ายจริง](https://dev.to/sarantoon/6-khnethnenr-docker-aethn-google-aelaraakhaathiitngcchaaycchring-2d9b)
+- [Time in Queue Is Not Free](https://dev.to/hackrs_3352/time-in-queue-is-not-free-3fo0)
+- [Linux Permissions made easy](https://dev.to/iabdsam/linux-permissions-made-easy-2i58)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
