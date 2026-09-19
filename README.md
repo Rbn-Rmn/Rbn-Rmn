@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [anything2explainer Packages Remotion Explainers as an Agent Skill](https://dev.to/dd8888/anything2explainer-packages-remotion-explainers-as-an-agent-skill-19g9)
-- [Nuevas instancias T8i, ¿hora de jubilar tus T3i?](https://dev.to/aws-builders/nuevas-instancias-t8i-hora-de-jubilar-tus-t3i-2k4j)
-- [Entendiendo la desestructuración en Javascript](https://dev.to/javier_ee5cb8a318b2596536/entendiendo-la-desestructuracion-en-javascript-gb7)
-- [Cua: Open-Source Computer-Use Infrastructure &amp; Drivers for AI Agents](https://dev.to/terminalchai/cua-open-source-computer-use-infrastructure-drivers-for-ai-agents-4len)
-- [The story of morphing-scroll, my npm library](https://dev.to/voodoofugu/the-story-of-morphing-scroll-my-npm-library-1agb)
+- [AMD Local LLM Setup on Windows/Linux: ROCm Overrides &amp; Vulkan vs. HIP Benchmarking](https://dev.to/xanpavle/amd-local-llm-setup-on-windowslinux-rocm-overrides-vulkan-vs-hip-benchmarking-15p2)
+- [[Boost]](https://dev.to/anthonymax/-5c8d)
+- [How Many MikroTik Devices Are Actually Reachable From the Internet?](https://dev.to/bianliang/how-many-mikrotik-devices-are-actually-reachable-from-the-internet-1h76)
+- [Linux desktop icons are dull, so I drew a better set and made it free](https://dev.to/thissayantan/linux-desktop-icons-are-dull-so-i-drew-a-better-set-and-made-it-free-5af0)
+- [The fake job interview that installs malware](https://dev.to/fourleaf/the-fake-job-interview-that-installs-malware-2n1l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
