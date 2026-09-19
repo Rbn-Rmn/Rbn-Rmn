@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Orkes Conductor CVE-2026-58138: Exploitation Activity Observed Against Unauthenticated Workflow RCE](https://dev.to/anoymask/orkes-conductor-cve-2026-58138-exploitation-activity-observed-against-unauthenticated-workflow-rce-2gkk)
-- [WaterPlum: North Korean Campaign Infects 30,000 Devices via Fake Interview Tasks](https://dev.to/anoymask/waterplum-north-korean-campaign-infects-30000-devices-via-fake-interview-tasks-4528)
-- [Why I Chose Node.js Transactional Email API — Password Reset Templates That Deliver](https://dev.to/jasperflint6947/why-i-chose-nodejs-transactional-email-api-password-reset-templates-that-deliver-528m)
-- [The 2026 Pragmatic Stack: Mengapa PostgreSQL dan Go Menang Melawan Stack Sprawl](https://dev.to/hellogung/the-2026-pragmatic-stack-mengapa-postgresql-dan-go-menang-melawan-stack-sprawl-1900)
-- [Integrity-OS: Promise Proof](https://dev.to/jedser/integrity-os-promise-proof-5eki)
+- [How Symmetric Encryption &lpar;Fernet&rpar; Keeps Local Credentials Safe on Disk](https://dev.to/susumun/how-symmetric-encryption-fernet-keeps-local-credentials-safe-on-disk-38bk)
+- [What Math Actually Buys You: Optimizing a Rock-Paper-Scissors Game in C](https://dev.to/david_essien/what-math-actually-buys-you-optimizing-a-rock-paper-scissors-game-in-c-hnp)
+- [How to Verify Self-Hosted LLM Tool Specs Before Building](https://dev.to/forgedgoods/how-to-verify-self-hosted-llm-tool-specs-before-building-242d)
+- [VIGÍA ML: Gas-Well Predictive Monitoring That Runs Entirely in the Browser &lpar;TensorFlow.js + React&rpar;](https://dev.to/edison_flores_6d2cd381b13/vigia-ml-gas-well-predictive-monitoring-that-runs-entirely-in-the-browser-tensorflowjs-react-2coa)
+- [Model Truth Desk: constraint-checked model decisions from primary sources](https://dev.to/wraith1337/model-truth-desk-constraint-checked-model-decisions-from-primary-sources-1pcg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
