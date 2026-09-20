@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Game Engine Zero: a free Go book where you build Pong, Snake and Breakout before any engine talk](https://dev.to/kryotek/game-engine-zero-a-free-go-book-where-you-build-pong-snake-and-breakout-before-any-engine-talk-1ch)
-- [ShinyHunters Hacks Clop Leak Site: Claims an Unauthenticated File Upload Led to Tor Private Key Theft](https://dev.to/anoymask/shinyhunters-hacks-clop-leak-site-claims-an-unauthenticated-file-upload-led-to-tor-private-key-1bl0)
-- [I built a transport-independent foundation for JSON API clients in Perl](https://dev.to/pannakoota/i-built-a-transport-independent-foundation-for-json-api-clients-in-perl-1od6)
-- [A 2,800-page free Go book that builds a living simulated world, written in 18 days with AI in the loop](https://dev.to/kryotek/i-wrote-a-2800-page-free-go-book-that-builds-a-living-simulated-world-20pg)
-- [Jumia Product Analysis WithExcel Dashboards](https://dev.to/alfred-otuko/jumia-product-analysis-withexcel-dashboards-1ha8)
+- [A decision you didn&#39;t write down isn&#39;t a decision](https://dev.to/derekwang85/a-decision-you-didnt-write-down-isnt-a-decision-16bc)
+- [This Week in AI: Anthropic&#39;s CEO Asked to Slow Down, OpenAI Disclosed 6 Incidents, and Developers Shipped More Agents](https://dev.to/hksoldev/this-week-in-ai-anthropics-ceo-asked-to-slow-down-openai-disclosed-6-incidents-and-developers-47ei)
+- [AI Is Finding Vulnerabilities Faster Than Humans Can Patch Them — And That’s Becoming a Security Crisis](https://dev.to/robertadam987_/ai-is-finding-vulnerabilities-faster-than-humans-can-patch-them-and-thats-becoming-a-security-1j04)
+- [React.js ~The Latest Ref Pattern ~](https://dev.to/kkr0423/reactjs-the-latest-ref-pattern--fn5)
+- [Never silently change a number someone gets paid on](https://dev.to/darkpandawarrior/never-silently-change-a-number-someone-gets-paid-on-h4n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
