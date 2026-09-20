@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When DNS Breaks: Inside the Internet&#39;s Most Critical Vulnerability](https://dev.to/scofieldidehen/what-happens-when-dns-breaks-inside-the-internets-most-critical-vulnerability-7ck)
-- [When Code Fails, Careers Don’t Have To: Engineering Strategies for Recovering Smarter](https://dev.to/art_light/when-code-fails-careers-dont-have-to-engineering-strategies-for-recovering-smarter-18al)
-- [Cognis — When Software Changes, Its Knowledge Should Change With It](https://dev.to/sanjeev_75510/cognis-when-software-changes-its-knowledge-should-change-with-it-lcf)
-- [TileMap](https://dev.to/ciaolee00/tilemap-2ki1)
-- [Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents](https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4)
+- [I moved the agent topology out of my code and into the database](https://dev.to/islomkhon_nizomkhonov_a33/i-moved-the-agent-topology-out-of-my-code-and-into-the-database-1bel)
+- [Why software supply-chain management matters more in the AI era](https://dev.to/adriano_ferreira_88541434/why-software-supply-chain-management-matters-more-in-the-ai-era-3ia0)
+- [Incident Context: tracing production failures without guessing](https://dev.to/anilloutombam/incident-context-tracing-production-failures-without-guessing-5b6i)
+- [How I Debugged a KV-Cache Offloading Bug in vLLM](https://dev.to/debasish87/how-i-debugged-a-kv-cache-offloading-bug-in-vllm-52lj)
+- [Field Notes from an Agent-Run Site #1: The Machine Ships. I Approve.](https://dev.to/mrsaynothing/field-notes-from-an-agent-run-site-1-the-machine-ships-i-approve-46ng)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
