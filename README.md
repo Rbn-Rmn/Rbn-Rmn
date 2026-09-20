@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I moved the agent topology out of my code and into the database](https://dev.to/islomkhon_nizomkhonov_a33/i-moved-the-agent-topology-out-of-my-code-and-into-the-database-1bel)
-- [Why software supply-chain management matters more in the AI era](https://dev.to/adriano_ferreira_88541434/why-software-supply-chain-management-matters-more-in-the-ai-era-3ia0)
-- [Incident Context: tracing production failures without guessing](https://dev.to/anilloutombam/incident-context-tracing-production-failures-without-guessing-5b6i)
-- [How I Debugged a KV-Cache Offloading Bug in vLLM](https://dev.to/debasish87/how-i-debugged-a-kv-cache-offloading-bug-in-vllm-52lj)
-- [Field Notes from an Agent-Run Site #1: The Machine Ships. I Approve.](https://dev.to/mrsaynothing/field-notes-from-an-agent-run-site-1-the-machine-ships-i-approve-46ng)
+- [Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs](https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9)
+- [The Neuro-Symbolic Revolution: Building an Enterprise Regulatory Audit &amp; Fraud Detection System](https://dev.to/programmingcentral/the-neuro-symbolic-revolution-building-an-enterprise-regulatory-audit-fraud-detection-system-493e)
+- [I built a pipeline that turns a topic into a 20-30 minute documentary](https://dev.to/summitsingh/i-built-a-pipeline-that-turns-a-topic-into-a-20-30-minute-documentary-bfp)
+- [Why I Built ASOShot: A Free App Store Screenshot Editor](https://dev.to/chnkc41/why-i-built-asoshot-a-free-app-store-screenshot-editor-5apf)
+- [I turned a real OpenAPI into an MCP server in 5 min &lpar;without losing custom code on regen&rpar;](https://dev.to/christopherdond/i-turned-a-real-openapi-into-an-mcp-server-in-5-min-without-losing-custom-code-on-regen-2j2k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
