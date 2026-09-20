@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [A decision you didn&#39;t write down isn&#39;t a decision](https://dev.to/derekwang85/a-decision-you-didnt-write-down-isnt-a-decision-16bc)
-- [This Week in AI: Anthropic&#39;s CEO Asked to Slow Down, OpenAI Disclosed 6 Incidents, and Developers Shipped More Agents](https://dev.to/hksoldev/this-week-in-ai-anthropics-ceo-asked-to-slow-down-openai-disclosed-6-incidents-and-developers-47ei)
-- [AI Is Finding Vulnerabilities Faster Than Humans Can Patch Them — And That’s Becoming a Security Crisis](https://dev.to/robertadam987_/ai-is-finding-vulnerabilities-faster-than-humans-can-patch-them-and-thats-becoming-a-security-1j04)
-- [React.js ~The Latest Ref Pattern ~](https://dev.to/kkr0423/reactjs-the-latest-ref-pattern--fn5)
-- [Never silently change a number someone gets paid on](https://dev.to/darkpandawarrior/never-silently-change-a-number-someone-gets-paid-on-h4n)
+- [How Zalgo Text Works: Unicode Combining Characters Explained](https://dev.to/faisal_abbas_1fb5405081ca/how-zalgo-text-works-unicode-combining-characters-explained-kf5)
+- [Scary Spider SEO: An Open Source SEO Crawler That Runs Locally](https://dev.to/gs4lthung/scary-spider-seo-an-open-source-seo-crawler-that-runs-locally-239k)
+- [Good strategy, bad execution on Polymarket — need help improving my execution layer](https://dev.to/theshawshankredemption/good-strategy-bad-execution-on-polymarket-need-help-improving-my-execution-layer-26a5)
+- [What Zig Feels Like Coming from Go: A Systems Programming Comparison](https://dev.to/rawas_aditya/what-zig-feels-like-coming-from-go-a-systems-programming-comparison-24cj)
+- [The Part of the Job You Only See by Staying](https://dev.to/asael_shinder_9f53bdca840/the-part-of-the-job-you-only-see-by-staying-3a4p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
