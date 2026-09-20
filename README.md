@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs](https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9)
-- [The Neuro-Symbolic Revolution: Building an Enterprise Regulatory Audit &amp; Fraud Detection System](https://dev.to/programmingcentral/the-neuro-symbolic-revolution-building-an-enterprise-regulatory-audit-fraud-detection-system-493e)
-- [I built a pipeline that turns a topic into a 20-30 minute documentary](https://dev.to/summitsingh/i-built-a-pipeline-that-turns-a-topic-into-a-20-30-minute-documentary-bfp)
-- [Why I Built ASOShot: A Free App Store Screenshot Editor](https://dev.to/chnkc41/why-i-built-asoshot-a-free-app-store-screenshot-editor-5apf)
-- [I turned a real OpenAPI into an MCP server in 5 min &lpar;without losing custom code on regen&rpar;](https://dev.to/christopherdond/i-turned-a-real-openapi-into-an-mcp-server-in-5-min-without-losing-custom-code-on-regen-2j2k)
+- [Automating Deployment with Github Actions](https://dev.to/israeltheory/automating-deployment-with-github-actions-24i1)
+- [Four bugs my test suite couldn&#39;t catch](https://dev.to/lucifer911/four-bugs-my-test-suite-couldnt-catch-2ip0)
+- [Finding duplicate images in a WordPress media library, without flagging WPML translations](https://dev.to/lyodefr/finding-duplicate-images-in-a-wordpress-media-library-without-flagging-wpml-translations-1dbc)
+- [bro.js v3.0.0 – What’s new](https://dev.to/yass1n/brojs-v300-whats-new-53op)
+- [Perl 🐪 Weekly #791 - The Dark Side is here!](https://dev.to/szabgab/perl-weekly-791-the-dark-side-is-here-ona)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
