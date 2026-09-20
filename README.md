@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How Zalgo Text Works: Unicode Combining Characters Explained](https://dev.to/faisal_abbas_1fb5405081ca/how-zalgo-text-works-unicode-combining-characters-explained-kf5)
-- [Scary Spider SEO: An Open Source SEO Crawler That Runs Locally](https://dev.to/gs4lthung/scary-spider-seo-an-open-source-seo-crawler-that-runs-locally-239k)
-- [Good strategy, bad execution on Polymarket — need help improving my execution layer](https://dev.to/theshawshankredemption/good-strategy-bad-execution-on-polymarket-need-help-improving-my-execution-layer-26a5)
-- [What Zig Feels Like Coming from Go: A Systems Programming Comparison](https://dev.to/rawas_aditya/what-zig-feels-like-coming-from-go-a-systems-programming-comparison-24cj)
-- [The Part of the Job You Only See by Staying](https://dev.to/asael_shinder_9f53bdca840/the-part-of-the-job-you-only-see-by-staying-3a4p)
+- [What Happens When DNS Breaks: Inside the Internet&#39;s Most Critical Vulnerability](https://dev.to/scofieldidehen/what-happens-when-dns-breaks-inside-the-internets-most-critical-vulnerability-7ck)
+- [When Code Fails, Careers Don’t Have To: Engineering Strategies for Recovering Smarter](https://dev.to/art_light/when-code-fails-careers-dont-have-to-engineering-strategies-for-recovering-smarter-18al)
+- [Cognis — When Software Changes, Its Knowledge Should Change With It](https://dev.to/sanjeev_75510/cognis-when-software-changes-its-knowledge-should-change-with-it-lcf)
+- [TileMap](https://dev.to/ciaolee00/tilemap-2ki1)
+- [Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents](https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
