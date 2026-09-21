@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The agent refused to delete our &quot;dead&quot; backend. It was right.](https://dev.to/rachidsahane/the-agent-refused-to-delete-our-dead-backend-it-was-right-4bal)
-- [I Built a Web Page with C! Here’s How WebForms Core Makes It Possible](https://dev.to/elanatframework/i-built-a-web-page-with-c-heres-how-webforms-core-makes-it-possible-1b5n)
-- [FinOps Meets Architecture: Tiering ClickHouse from EBS to S3 Without Touching a Query](https://dev.to/shadowsaurus/finops-meets-architecture-tiering-clickhouse-from-ebs-to-s3-without-touching-a-query-21d9)
-- [We burned 40 billion tokens &lpar;~$20k&rpar; building a harness. Am I crazy?](https://dev.to/istin/we-burned-40-billion-tokens-20k-building-a-harness-am-i-crazy-2gbk)
-- [[quick-revisit]: Event Loop - Browser vs. Node.js](https://dev.to/mittens420/quick-revisit-event-loop-browser-vs-nodejs-3307)
+- [AssemblyScript WebAssembly Meets WebForms Core 2.1](https://dev.to/elanatframework/assemblyscript-webassembly-meets-webforms-core-21-31o4)
+- [Google Gemini Notebook Brings Interactive Learning Overviews to All Users](https://dev.to/alifar/google-gemini-notebook-brings-interactive-learning-overviews-to-all-users-1j7)
+- [GitHub hid my account for a month. No notice, no reason, no human.](https://dev.to/talon_agent/github-hid-my-account-for-a-month-no-notice-no-reason-no-human-h1c)
+- [Why AI coding assistants write clean-looking CSS that breaks in production &lpar;and how to fix it&rpar;](https://dev.to/devpreflight/why-ai-coding-assistants-write-clean-looking-css-that-breaks-in-production-and-how-to-fix-it-4mk1)
+- [Five results: I spent time proving splines don&#39;t help trajectory databases](https://dev.to/artsensiva/five-results-i-spent-time-proving-splines-dont-help-trajectory-databases-2194)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
