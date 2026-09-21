@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Automating Deployment with Github Actions](https://dev.to/israeltheory/automating-deployment-with-github-actions-24i1)
-- [Four bugs my test suite couldn&#39;t catch](https://dev.to/lucifer911/four-bugs-my-test-suite-couldnt-catch-2ip0)
-- [Finding duplicate images in a WordPress media library, without flagging WPML translations](https://dev.to/lyodefr/finding-duplicate-images-in-a-wordpress-media-library-without-flagging-wpml-translations-1dbc)
-- [bro.js v3.0.0 – What’s new](https://dev.to/yass1n/brojs-v300-whats-new-53op)
-- [Perl 🐪 Weekly #791 - The Dark Side is here!](https://dev.to/szabgab/perl-weekly-791-the-dark-side-is-here-ona)
+- [C# basic JsonConverter tip](https://dev.to/karenpayneoregon/c-basic-jsonconverter-tip-543k)
+- [Engenharia de Prompts: de Zero-shot a Retrieval Augmented Generation](https://dev.to/luiscruzcwb/engenharia-de-prompts-de-zero-shot-a-retrieval-augmented-generation-44aj)
+- [How to choose a used FortiGate firewall &lpar;without getting burned&rpar;](https://dev.to/itandoffice/how-to-choose-a-used-fortigate-firewall-without-getting-burned-47mg)
+- [Overpatch and Heapjack: Two Techniques for Bypassing Codex&#39;s Write Restrictions and Escaping Its Read-Only Sandbox](https://dev.to/anoymask/overpatch-and-heapjack-two-techniques-for-bypassing-codexs-write-restrictions-and-escaping-its-48of)
+- [indexed-btree: npm Supply Chain Malware Executes at Runtime and Uses a Smart Contract on Ethereum Sepolia for C2](https://dev.to/anoymask/indexed-btree-npm-supply-chain-malware-executes-at-runtime-and-uses-a-smart-contract-on-ethereum-d83)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
