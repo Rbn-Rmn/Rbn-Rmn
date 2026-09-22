@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Never Use a Display Name for Authorization: Secure Anonymous Editing](https://dev.to/janarthanan_soundararajan/never-use-a-display-name-for-authorization-secure-anonymous-editing-1gn7)
-- [The Linux process that even SIGKILL can&#39;t kill](https://dev.to/aytidadev/the-linux-process-that-even-sigkill-cant-kill-418d)
-- [Stochastic Parrot or Alien Mind? What Really Is An LLM?](https://dev.to/marcobblk/stochastic-parrot-or-alien-mind-what-really-is-an-llm-4kjj)
-- [Resisting Mode Gravity: Why Bigger LLMs Produce Mediocre Output](https://dev.to/guobug/resisting-mode-gravity-why-bigger-llms-produce-mediocre-output-4if2)
-- [Yield Strategy Optimization Report: USDD](https://dev.to/dannydoes_2abdf9c/yield-strategy-optimization-report-usdd-3g9p)
+- [Jev in Depth: Can It Reshape Agent Search?](https://dev.to/chen_zhang_bac430bc7f6b95/jev-in-depth-can-it-reshape-agent-search-1gki)
+- [Jev, Explained Like You&#39;re Five &lpar;Then Like You&#39;re Actually Building With It&rpar;](https://dev.to/shreyvijayvargiya/jev-explained-like-youre-five-then-like-youre-actually-building-with-it-4kg4)
+- [Keeping credentials out of your coding agent’s model context](https://dev.to/danielsc/keeping-credentials-out-of-your-coding-agents-model-context-482l)
+- [A Transaction Hash Is Not an Audit Trail for Onchain Automation](https://dev.to/imokokok/a-transaction-hash-is-not-an-audit-trail-for-onchain-automation-pgm)
+- [Monitoring YouTube without the Data API &lpar;and without the quota headache&rpar;](https://dev.to/xixisuperman/monitoring-youtube-without-the-data-api-and-without-the-quota-headache-567a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
