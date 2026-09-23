@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Impossible Filter Gallery Transition in CSS Only](https://dev.to/prahalad/the-impossible-filter-gallery-transition-in-css-only-2ca9)
-- [Running Lightdash on Snowpark Container Services](https://dev.to/takimiko_gohan/running-lightdash-on-snowpark-container-services-149l)
-- [flet media library](https://dev.to/fazigondal/flet-media-library-590d)
-- [Your Order Fulfillment Workflow Is One 24-Hour Wait Away From Chaos](https://dev.to/unmeshed/your-order-fulfillment-workflow-is-one-24-hour-wait-away-from-chaos-3nc3)
-- [Building In-Browser Private Tools: When the Server Is the Liability](https://dev.to/orit/building-in-browser-private-tools-when-the-server-is-the-liability-1ba1)
+- [12 Important Concepts All Software Developers Should Know](https://dev.to/bradtraversy/12-important-concepts-all-software-developers-should-know-1lfj)
+- [Editing a plan without re-prompting the model](https://dev.to/ordewell/editing-a-plan-without-re-prompting-the-model-3c3g)
+- [Building a .pypkg Package Runner for Windows with Python 3.14 / 3.8 Auto-Selection](https://dev.to/fjfycfgdy/building-a-pypkg-package-runner-for-windows-with-python-314-38-auto-selection-49l1)
+- [Nostalgia - Visual Basic 1.0 Professional Edition For DOS](https://dev.to/marciusbezerra/nostalgia-visual-basic-10-professional-edition-for-dos-19jk)
+- [Vue 3 image upload, crop, and adjustment in one component?](https://dev.to/dixipro/vue-3-image-upload-crop-and-adjustment-in-one-component-5dh1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
