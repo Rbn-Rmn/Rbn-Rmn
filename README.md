@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [12 Important Concepts All Software Developers Should Know](https://dev.to/bradtraversy/12-important-concepts-all-software-developers-should-know-1lfj)
-- [Editing a plan without re-prompting the model](https://dev.to/ordewell/editing-a-plan-without-re-prompting-the-model-3c3g)
-- [Building a .pypkg Package Runner for Windows with Python 3.14 / 3.8 Auto-Selection](https://dev.to/fjfycfgdy/building-a-pypkg-package-runner-for-windows-with-python-314-38-auto-selection-49l1)
-- [Nostalgia - Visual Basic 1.0 Professional Edition For DOS](https://dev.to/marciusbezerra/nostalgia-visual-basic-10-professional-edition-for-dos-19jk)
-- [Vue 3 image upload, crop, and adjustment in one component?](https://dev.to/dixipro/vue-3-image-upload-crop-and-adjustment-in-one-component-5dh1)
+- [Text-to-SQL in Practice: When to Trust AI Output and When to Gate It](https://dev.to/databaseinsights/text-to-sql-in-practice-when-to-trust-ai-output-and-when-to-gate-it-24fe)
+- [Three rules read the declared level. None of them read its other copy.](https://dev.to/howcani_howcani_77e786a89/three-rules-read-the-declared-level-none-of-them-read-its-other-copy-3f9a)
+- [When every check blocks, verifying a small change costs an hour](https://dev.to/gleyendeker/when-every-check-blocks-verifying-a-small-change-costs-an-hour-2an0)
+- [Beyond Code Generation: Reclaiming Engineering Identity in the Era of Agentic AI and &#39;System 1&#39; Models](https://dev.to/tamizuddin/beyond-code-generation-reclaiming-engineering-identity-in-the-era-of-agentic-ai-and-system-1-36o2)
+- [One Icon Catalog, Many Delivery Surfaces](https://dev.to/svgicons/one-icon-catalog-many-delivery-surfaces-157j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
