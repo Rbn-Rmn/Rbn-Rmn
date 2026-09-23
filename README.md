@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Stop an AI Agent That Lies About Its Own Spending](https://dev.to/sholajegede/how-to-stop-an-ai-agent-that-lies-about-its-own-spending-29k2)
-- [What Is intent.md in Claude Code? A Practical Guide with an Example](https://dev.to/naelawadallah/what-is-intentmd-in-claude-code-a-practical-guide-with-an-example-506d)
-- [5 Things I Learned From Bad AI Video Generations](https://dev.to/lee_xiaoyuan_a97212d2f33b/5-things-i-learned-from-bad-ai-video-generations-3d58)
-- [I optimized an API for AI agents instead of humans. Here&#39;s what one week of data looked like.](https://dev.to/wonderfulian/i-optimized-an-api-for-ai-agents-instead-of-humans-heres-what-one-week-of-data-looked-like-ec6)
-- [I Built Fast API, but for Flutter/Dart &amp; AI](https://dev.to/dylanscottmickelson/i-built-fast-api-but-for-flutterdart-ai-57c)
+- [The Impossible Filter Gallery Transition in CSS Only](https://dev.to/prahalad/the-impossible-filter-gallery-transition-in-css-only-2ca9)
+- [Running Lightdash on Snowpark Container Services](https://dev.to/takimiko_gohan/running-lightdash-on-snowpark-container-services-149l)
+- [flet media library](https://dev.to/fazigondal/flet-media-library-590d)
+- [Your Order Fulfillment Workflow Is One 24-Hour Wait Away From Chaos](https://dev.to/unmeshed/your-order-fulfillment-workflow-is-one-24-hour-wait-away-from-chaos-3nc3)
+- [Building In-Browser Private Tools: When the Server Is the Liability](https://dev.to/orit/building-in-browser-private-tools-when-the-server-is-the-liability-1ba1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
