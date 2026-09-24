@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Enqueue Hooks: Four Hooks, Four Different Zones — and How Not to Mix Them Up](https://dev.to/adovgun/enqueue-hooks-four-hooks-four-different-zones-and-how-not-to-mix-them-up-7o)
-- [One core, two hosts](https://dev.to/someone_somewhere_05cad9e/one-core-two-hosts-3dai)
-- [Keeping score honestly: zero improved, four made worse](https://dev.to/idlecultivation/keeping-score-honestly-zero-improved-four-made-worse-58h5)
-- [Supervise the agents that build your OpenSpec changes](https://dev.to/someone_somewhere_05cad9e/supervise-the-agents-that-build-your-openspec-changes-5fb9)
-- [AWS Storage Explained: S3 vs EBS vs EFS, and When to Use Which](https://dev.to/muskan_bandta/aws-storage-explained-s3-vs-ebs-vs-efs-and-when-to-use-which-5d9k)
+- [The Problem With AI](https://dev.to/aguowisdom/the-problem-with-ai-21lk)
+- [Method Sets, Embedding, and Interface Satisfaction in Go: The Hidden Contract Behind API Boundaries](https://dev.to/neeraj_singhi_golang/method-sets-embedding-and-interface-satisfaction-in-go-the-hidden-contract-behind-api-boundaries-3m83)
+- [A scheduled job can be healthy while its work is overdue](https://dev.to/_nextquestion_/a-scheduled-job-can-be-healthy-while-its-work-is-overdue-39al)
+- [Sanity&#39;s Knowledge Base stopped 6 of 7 poisoned pages. The 7th fooled Claude Opus 5.](https://dev.to/rudratosh/sanitys-knowledge-base-stopped-6-of-7-poisoned-pages-the-7th-fooled-claude-opus-5-4fhp)
+- [I rebuilt the iPhone 3GS UI as a React library, and here is the CSS recipe](https://dev.to/tijeyyy/i-rebuilt-the-iphone-3gs-ui-as-a-react-library-and-here-is-the-css-recipe-published-3kjp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
