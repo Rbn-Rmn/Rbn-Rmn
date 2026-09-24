@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [LLM Reasons, Policy Engine Decides: Autonomous Agentic Fraud Defense on TigerGraph](https://dev.to/anuragkrsingh/llm-reasons-policy-engine-decides-autonomous-agentic-fraud-defense-on-tigergraph-2a8h)
-- [Node.js LLM Structured Extraction Retries with Observable Idempotency for Supplier Invoices](https://dev.to/apexz69/nodejs-llm-structured-extraction-retries-with-observable-idempotency-for-supplier-invoices-c12)
-- [Setting up Development Environment](https://dev.to/belerickii/setting-up-development-environment-138l)
-- [AIRunner is becoming a set of tools instead of one giant tree](https://dev.to/w4ffl35/airunner-is-becoming-a-set-of-tools-instead-of-one-giant-tree-3k9b)
-- [Day 2: The Art of Forgetting &lpar;How an AI Survives on 6GB RAM Before It Dies&rpar;](https://dev.to/donbasi1io/day-2-the-art-of-forgetting-how-an-ai-survives-on-6gb-ram-before-it-dies-5a09)
+- [Cisco Secure Email Gateway Injection Bug CVE-2026-76443: What Administrators Should Do First](https://dev.to/bianliang/cisco-secure-email-gateway-injection-bug-cve-2026-76443-what-administrators-should-do-first-4h6p)
+- [We Tested a 35B LLM Against Typed-Decision Models on 12,000 Real RFQs—Confidence Changed the Winner](https://dev.to/cookies_c9dc8b91f33d29250/we-tested-a-35b-llm-against-typed-decision-models-on-12000-real-rfqs-confidence-changed-the-winner-56hh)
+- [RelayPlane vs LiteLLM vs OpenRouter: an honest comparison for cost caps and routing](https://dev.to/mrturley/relayplane-vs-litellm-vs-openrouter-an-honest-comparison-for-cost-caps-and-routing-189l)
+- [Macula Mesh+Realm: Architecting Survivability in a Contested Space](https://dev.to/rgfaber/macula-meshrealm-architecting-survivability-in-a-contested-space-5e44)
+- [Congrats to the Summer Bug Smash Winners!](https://dev.to/devteam/congrats-to-the-summer-bug-smash-winners-50ei)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
