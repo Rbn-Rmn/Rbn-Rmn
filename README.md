@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Problem With AI](https://dev.to/aguowisdom/the-problem-with-ai-21lk)
-- [Method Sets, Embedding, and Interface Satisfaction in Go: The Hidden Contract Behind API Boundaries](https://dev.to/neeraj_singhi_golang/method-sets-embedding-and-interface-satisfaction-in-go-the-hidden-contract-behind-api-boundaries-3m83)
-- [A scheduled job can be healthy while its work is overdue](https://dev.to/_nextquestion_/a-scheduled-job-can-be-healthy-while-its-work-is-overdue-39al)
-- [Sanity&#39;s Knowledge Base stopped 6 of 7 poisoned pages. The 7th fooled Claude Opus 5.](https://dev.to/rudratosh/sanitys-knowledge-base-stopped-6-of-7-poisoned-pages-the-7th-fooled-claude-opus-5-4fhp)
-- [I rebuilt the iPhone 3GS UI as a React library, and here is the CSS recipe](https://dev.to/tijeyyy/i-rebuilt-the-iphone-3gs-ui-as-a-react-library-and-here-is-the-css-recipe-published-3kjp)
+- [LLM Reasons, Policy Engine Decides: Autonomous Agentic Fraud Defense on TigerGraph](https://dev.to/anuragkrsingh/llm-reasons-policy-engine-decides-autonomous-agentic-fraud-defense-on-tigergraph-2a8h)
+- [Node.js LLM Structured Extraction Retries with Observable Idempotency for Supplier Invoices](https://dev.to/apexz69/nodejs-llm-structured-extraction-retries-with-observable-idempotency-for-supplier-invoices-c12)
+- [Setting up Development Environment](https://dev.to/belerickii/setting-up-development-environment-138l)
+- [AIRunner is becoming a set of tools instead of one giant tree](https://dev.to/w4ffl35/airunner-is-becoming-a-set-of-tools-instead-of-one-giant-tree-3k9b)
+- [Day 2: The Art of Forgetting &lpar;How an AI Survives on 6GB RAM Before It Dies&rpar;](https://dev.to/donbasi1io/day-2-the-art-of-forgetting-how-an-ai-survives-on-6gb-ram-before-it-dies-5a09)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
