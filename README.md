@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [dotguard vs TruffleHog: Node Shops vs Data Teams, Different Rules](https://dev.to/ke_jia_24bb2f9f84f14f728a/dotguard-vs-trufflehog-node-shops-vs-data-teams-different-rules-h0l)
-- [ScaffoldX vs Your Onboarding Doc: Two Ways to Give a Team a Starting Point](https://dev.to/ke_jia_24bb2f9f84f14f728a/scaffoldx-vs-your-onboarding-doc-two-ways-to-give-a-team-a-starting-point-po9)
-- [Regex Rules vs Entropy Heuristics: Two Ways to Find the Same Key](https://dev.to/ke_jia_24bb2f9f84f14f728a/regex-rules-vs-entropy-heuristics-two-ways-to-find-the-same-key-5479)
-- [JavaScript Data Types](https://dev.to/surya_kanth_666/javascript-data-types-2jom)
-- [Secret Scanning in CI vs in the Pre-Commit Hook: Which Layer Should Catch It?](https://dev.to/ke_jia_24bb2f9f84f14f728a/secret-scanning-in-ci-vs-in-the-pre-commit-hook-which-layer-should-catch-it-17bi)
+- [From Issue to Merge: Propagating HTTP Status Through OpenSeadragon](https://dev.to/ahmed_sayed_01c0dad16b6a5/from-issue-to-merge-propagating-http-status-through-openseadragon-bpl)
+- [Asking a vision model what and where in the same call makes it worse at both](https://dev.to/maazkazi/asking-a-vision-model-what-and-where-in-the-same-call-makes-it-worse-at-both-26e9)
+- [Monitoring HPE Morpheus HVM and HKS clusters and the appliance from your existing Grafana](https://dev.to/emre_baykal_a4a7a479d48c5/monitoring-hpe-morpheus-hvm-and-hks-clusters-and-the-appliance-from-your-existing-grafana-2hpc)
+- [I read 1,064 &quot;hire me&quot; cards. 497 opened with the wrong sentence.](https://dev.to/noirblackwood/i-read-1064-hire-me-cards-497-opened-with-the-wrong-sentence-1hfk)
+- [CORS Explained: Why Your Browser Blocks Your API](https://dev.to/omeiza_ahmed/cors-explained-why-your-browser-blocks-your-api-43fk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
