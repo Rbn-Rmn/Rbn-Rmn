@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The 24-Hour Window Decides Whether Your WhatsApp Reply Sends or Gets Rejected](https://dev.to/hayrullahkar/the-24-hour-window-decides-whether-your-whatsapp-reply-sends-or-gets-rejected-3k8g)
-- [The Difference Between Delegating Code and Delegating Decisions](https://dev.to/stinklewinks/the-difference-between-delegating-code-and-delegating-decisions-1nhh)
-- [Your First AI Architecture Project: What Changes and What Stays the Same](https://dev.to/tecnovy_academy/your-first-ai-architecture-project-what-changes-and-what-stays-the-same-942)
-- [Building 9 Zero-Dependency Cybersecurity &amp; DFIR Tools in Pure Python and Win32 API](https://dev.to/prox0959/building-9-zero-dependency-cybersecurity-dfir-tools-in-pure-python-and-win32-api-i9k)
-- [What building an API aggregator taught me about calling other people&#39;s APIs](https://dev.to/gunjan-redu/what-building-an-api-aggregator-taught-me-about-calling-other-peoples-apis-47ll)
+- [Integração com o iFood: o problema na homologação do developer](https://dev.to/felipebufelli/integracao-com-o-ifood-o-bug-que-ficou-escondido-por-semanas-e-a-investigacao-que-terminou-numa-30hf)
+- [DORA metrics + SLOs without external infrastructure: a Cloudflare Workers approach](https://dev.to/trimtabsignal/dora-metrics-slos-without-external-infrastructure-a-cloudflare-workers-approach-423c)
+- [Google Gemini 3.8 Connects Expressive Voice, Live Avatar and Notebook Context](https://dev.to/alifar/google-gemini-38-connects-expressive-voice-live-avatar-and-notebook-context-32h6)
+- [Crystals: agent memory that arrives before you act](https://dev.to/tom_jones_230c4659491adcd/crystals-agent-memory-that-arrives-before-you-act-27h8)
+- [The System Never Checked If You Slept. Ours Reads Your Pulse First.](https://dev.to/dronzer2code/the-system-never-checked-if-you-slept-ours-reads-your-pulse-first-2hai)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
