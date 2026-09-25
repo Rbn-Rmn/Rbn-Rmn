@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Integração com o iFood: o problema na homologação do developer](https://dev.to/felipebufelli/integracao-com-o-ifood-o-bug-que-ficou-escondido-por-semanas-e-a-investigacao-que-terminou-numa-30hf)
-- [DORA metrics + SLOs without external infrastructure: a Cloudflare Workers approach](https://dev.to/trimtabsignal/dora-metrics-slos-without-external-infrastructure-a-cloudflare-workers-approach-423c)
-- [Google Gemini 3.8 Connects Expressive Voice, Live Avatar and Notebook Context](https://dev.to/alifar/google-gemini-38-connects-expressive-voice-live-avatar-and-notebook-context-32h6)
-- [Crystals: agent memory that arrives before you act](https://dev.to/tom_jones_230c4659491adcd/crystals-agent-memory-that-arrives-before-you-act-27h8)
-- [The System Never Checked If You Slept. Ours Reads Your Pulse First.](https://dev.to/dronzer2code/the-system-never-checked-if-you-slept-ours-reads-your-pulse-first-2hai)
+- [My AI Agent&#39;s Skill Declared Nothing. It Still Read 9 Files, Ran 7 Processes, and Got Blocked 3 Times.](https://dev.to/mikachu/my-ai-agents-skill-declared-nothing-it-still-read-9-files-ran-7-processes-and-got-blocked-3-gmn)
+- [Self-Hosted Deep Research Systems: 12 Tools Compared](https://dev.to/rosgluk/self-hosted-deep-research-systems-12-tools-compared-7pp)
+- [How I Fixed Relative Docking &amp; Physics Drift in UE5 &lpar;Aether Framework Deep Dive&rpar;](https://dev.to/kadmium/how-i-fixed-relative-docking-physics-drift-in-ue5-aether-framework-deep-dive-427)
+- [Building my own trading platform, three rebuilds in](https://dev.to/vikebuilds/building-my-own-trading-platform-three-rebuilds-in-4mne)
+- [JFrog Artifactory CVE-2026-82329: The Default Join Key as an Authentication Bypass](https://dev.to/jeffreyciend/jfrog-artifactory-cve-2026-82329-the-default-join-key-as-an-authentication-bypass-2ipc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
