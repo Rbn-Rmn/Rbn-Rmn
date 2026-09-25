@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built Nabsun: An Open-Source AI Browser That Works in Your Real Tabs](https://dev.to/naveen_alavilli/i-built-nabsun-an-open-source-ai-browser-that-works-in-your-real-tabs-1ea3)
-- [Designing a Flash-Sale Seat Reservation System in AWS &lpar;Part 2&rpar;: Never Sell a Seat Twice](https://dev.to/sumonselim/designing-a-flash-sale-seat-reservation-system-in-aws-part-2-never-sell-a-seat-twice-4j61)
-- [Designing a Flash-Sale Seat Reservation System in AWS &lpar;Part 1&rpar;: The Architecture](https://dev.to/sumonselim/designing-a-flash-sale-seat-reservation-system-in-aws-part-1-the-architecture-21lo)
-- [Building AEGIS: An Agentic Fraud Investigation System with TigerGraph, MCP, and GraphRAG](https://dev.to/kanwalvyas/building-aegis-an-agentic-fraud-investigation-system-with-tigergraph-mcp-and-graphrag-521f)
-- [Tailoring a resume to a job description: a 15-minute gap check](https://dev.to/launchgatecheck/tailoring-a-resume-to-a-job-description-a-15-minute-gap-check-213c)
+- [dotguard vs TruffleHog: Node Shops vs Data Teams, Different Rules](https://dev.to/ke_jia_24bb2f9f84f14f728a/dotguard-vs-trufflehog-node-shops-vs-data-teams-different-rules-h0l)
+- [ScaffoldX vs Your Onboarding Doc: Two Ways to Give a Team a Starting Point](https://dev.to/ke_jia_24bb2f9f84f14f728a/scaffoldx-vs-your-onboarding-doc-two-ways-to-give-a-team-a-starting-point-po9)
+- [Regex Rules vs Entropy Heuristics: Two Ways to Find the Same Key](https://dev.to/ke_jia_24bb2f9f84f14f728a/regex-rules-vs-entropy-heuristics-two-ways-to-find-the-same-key-5479)
+- [JavaScript Data Types](https://dev.to/surya_kanth_666/javascript-data-types-2jom)
+- [Secret Scanning in CI vs in the Pre-Commit Hook: Which Layer Should Catch It?](https://dev.to/ke_jia_24bb2f9f84f14f728a/secret-scanning-in-ci-vs-in-the-pre-commit-hook-which-layer-should-catch-it-17bi)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
