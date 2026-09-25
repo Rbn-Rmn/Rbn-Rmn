@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [From Issue to Merge: Propagating HTTP Status Through OpenSeadragon](https://dev.to/ahmed_sayed_01c0dad16b6a5/from-issue-to-merge-propagating-http-status-through-openseadragon-bpl)
-- [Asking a vision model what and where in the same call makes it worse at both](https://dev.to/maazkazi/asking-a-vision-model-what-and-where-in-the-same-call-makes-it-worse-at-both-26e9)
-- [Monitoring HPE Morpheus HVM and HKS clusters and the appliance from your existing Grafana](https://dev.to/emre_baykal_a4a7a479d48c5/monitoring-hpe-morpheus-hvm-and-hks-clusters-and-the-appliance-from-your-existing-grafana-2hpc)
-- [I read 1,064 &quot;hire me&quot; cards. 497 opened with the wrong sentence.](https://dev.to/noirblackwood/i-read-1064-hire-me-cards-497-opened-with-the-wrong-sentence-1hfk)
-- [CORS Explained: Why Your Browser Blocks Your API](https://dev.to/omeiza_ahmed/cors-explained-why-your-browser-blocks-your-api-43fk)
+- [The 24-Hour Window Decides Whether Your WhatsApp Reply Sends or Gets Rejected](https://dev.to/hayrullahkar/the-24-hour-window-decides-whether-your-whatsapp-reply-sends-or-gets-rejected-3k8g)
+- [The Difference Between Delegating Code and Delegating Decisions](https://dev.to/stinklewinks/the-difference-between-delegating-code-and-delegating-decisions-1nhh)
+- [Your First AI Architecture Project: What Changes and What Stays the Same](https://dev.to/tecnovy_academy/your-first-ai-architecture-project-what-changes-and-what-stays-the-same-942)
+- [Building 9 Zero-Dependency Cybersecurity &amp; DFIR Tools in Pure Python and Win32 API](https://dev.to/prox0959/building-9-zero-dependency-cybersecurity-dfir-tools-in-pure-python-and-win32-api-i9k)
+- [What building an API aggregator taught me about calling other people&#39;s APIs](https://dev.to/gunjan-redu/what-building-an-api-aggregator-taught-me-about-calling-other-peoples-apis-47ll)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
