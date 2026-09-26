@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My AI Agent&#39;s Skill Declared Nothing. It Still Read 9 Files, Ran 7 Processes, and Got Blocked 3 Times.](https://dev.to/mikachu/my-ai-agents-skill-declared-nothing-it-still-read-9-files-ran-7-processes-and-got-blocked-3-gmn)
-- [Self-Hosted Deep Research Systems: 12 Tools Compared](https://dev.to/rosgluk/self-hosted-deep-research-systems-12-tools-compared-7pp)
-- [How I Fixed Relative Docking &amp; Physics Drift in UE5 &lpar;Aether Framework Deep Dive&rpar;](https://dev.to/kadmium/how-i-fixed-relative-docking-physics-drift-in-ue5-aether-framework-deep-dive-427)
-- [Building my own trading platform, three rebuilds in](https://dev.to/vikebuilds/building-my-own-trading-platform-three-rebuilds-in-4mne)
-- [JFrog Artifactory CVE-2026-82329: The Default Join Key as an Authentication Bypass](https://dev.to/jeffreyciend/jfrog-artifactory-cve-2026-82329-the-default-join-key-as-an-authentication-bypass-2ipc)
+- [Meta AIRA จากสนามซ้อมสู่เหรียญทอง Kaggle: ไล่ทีละตัวเลขว่าเกิดอะไรขึ้น](https://dev.to/sarantoon/meta-aira-cchaaksnaamchmsuuehriiyythng-kaggle-ailthiilatawelkhwaaekidaairkhuen-3a1c)
+- [Building FoxyInvoice — Chapter 12: Engagement &amp; automation — UI first, then automate](https://dev.to/seolith/building-foxyinvoice-chapter-12-engagement-automation-ui-first-then-automate-14d5)
+- [Android Paging 3 Failure Matrix](https://dev.to/ufebri/android-paging-3-failure-matrix-l2e)
+- [AI Dojo คืออะไร: ทำไมสนามซ้อมเปลี่ยน AI Agent จากสอบผ่านเป็นเก่งจริง](https://dev.to/sarantoon/ai-dojo-khuueaair-thamaimsnaamchmepliiyn-ai-agent-cchaaksbphaanepnekngcchring-1aak)
+- [How to Get Machine Learning Clients With No Portfolio](https://dev.to/mryadavgulshan/how-to-get-machine-learning-clients-with-no-portfolio-44hg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
