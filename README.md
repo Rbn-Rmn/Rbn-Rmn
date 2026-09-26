@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Meta AIRA จากสนามซ้อมสู่เหรียญทอง Kaggle: ไล่ทีละตัวเลขว่าเกิดอะไรขึ้น](https://dev.to/sarantoon/meta-aira-cchaaksnaamchmsuuehriiyythng-kaggle-ailthiilatawelkhwaaekidaairkhuen-3a1c)
-- [Building FoxyInvoice — Chapter 12: Engagement &amp; automation — UI first, then automate](https://dev.to/seolith/building-foxyinvoice-chapter-12-engagement-automation-ui-first-then-automate-14d5)
-- [Android Paging 3 Failure Matrix](https://dev.to/ufebri/android-paging-3-failure-matrix-l2e)
-- [AI Dojo คืออะไร: ทำไมสนามซ้อมเปลี่ยน AI Agent จากสอบผ่านเป็นเก่งจริง](https://dev.to/sarantoon/ai-dojo-khuueaair-thamaimsnaamchmepliiyn-ai-agent-cchaaksbphaanepnekngcchring-1aak)
-- [How to Get Machine Learning Clients With No Portfolio](https://dev.to/mryadavgulshan/how-to-get-machine-learning-clients-with-no-portfolio-44hg)
+- [PostgreSQL index bloat: why VACUUM never shrinks an index, and how to measure it with avg_leaf_density](https://dev.to/bitpage/postgresql-index-bloat-why-vacuum-never-shrinks-an-index-and-how-to-measure-it-with-1ond)
+- [How to Put a Local Service on the Public Internet with FRP &lpar;Without Losing Your Mind Over Config Files&rpar;](https://dev.to/chenxxpro/how-to-put-a-local-service-on-the-public-internet-with-frp-without-losing-your-mind-over-config-5hji)
+- [Build a Telegram Support Agent With Human Approval](https://dev.to/flowra/build-a-telegram-support-agent-with-human-approval-1nh8)
+- [Build with Gemini Sunnyvale: Antigravity Can Cook! With Caveats.](https://dev.to/earlgreyhot1701d/build-with-gemini-sunnyvale-antigravity-can-cook-with-caveats-2lob)
+- [I Benchmarked 6 AI Agent Memory Strategies: Top Score, Worst Experience](https://dev.to/haoning_kan_20d7ddb19e07c/i-benchmarked-6-ai-agent-memory-strategies-top-score-worst-experience-35gj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
