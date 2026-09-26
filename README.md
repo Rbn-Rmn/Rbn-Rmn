@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Best Free Website Hosting with Custom Domain in 2026](https://dev.to/mryadavgulshan/best-free-website-hosting-with-custom-domain-in-2026-122i)
-- [38 Dart &amp; Flutter Tips That Actually Make a Difference in Production](https://dev.to/mtlaid/38-dart-flutter-tips-that-actually-make-a-difference-in-production-ofn)
-- [“Send” Is Not One Operation: Rethinking Distributed Computing #5](https://dev.to/aaroophan/send-is-not-one-operation-rethinking-distributed-computing-5-1gc7)
-- [A Remote Function Call Will Never Really Be Local: Rethinking Distributed Computing #4](https://dev.to/aaroophan/a-remote-function-call-will-never-really-be-local-rethinking-distributed-computing-4-bli)
-- [# Receive buffers and flow control in Rust multiplexer](https://dev.to/__bf699f275acc/-receive-buffers-and-flow-control-in-rust-multiplexer-2cl0)
+- [A security researcher told me to close my OAuth registration endpoint. I said no.](https://dev.to/nativecode/a-security-researcher-told-me-to-close-my-oauth-registration-endpoint-i-said-no-46c7)
+- [[AI in Action] Gemini Agentic Video: 4 Hidden Prerequisites and My LINE Bot Integration Process](https://dev.to/evanlin/ai-in-action-gemini-agentic-video-4-hidden-prerequisites-and-my-line-bot-integration-process-582f)
+- [[Steam Deck Guide] Fix Windows .exe Patch Path Errors: The Ultra-Stable &quot;Relay Transfer Method&quot;](https://dev.to/evanlin/steam-deck-guide-fix-windows-exe-patch-path-errors-the-ultra-stable-relay-transfer-method-me1)
+- [[AI in Practice] Gemini 3.8 Flash TTS Launch: I built a &quot;Learn Japanese with MVs&quot; Web App and burned through my daily quota.](https://dev.to/evanlin/ai-in-practice-gemini-38-flash-tts-launch-i-built-a-learn-japanese-with-mvs-web-app-and-4o79)
+- [[AI in Practice] Deploying Song Lingo to Cloud Run: Making a Private Lyrics Website Just for Me](https://dev.to/evanlin/ai-in-practice-deploying-song-lingo-to-cloud-run-making-a-private-lyrics-website-just-for-me-mb3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
