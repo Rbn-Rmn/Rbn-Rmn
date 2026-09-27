@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Tracking product price and stock changes from JSON-LD in Python](https://dev.to/abdulwhab95/tracking-product-price-and-stock-changes-from-json-ld-in-python-4mm6)
-- [How I Built a Privacy-First Subscription Tracker as a Chrome Extension](https://dev.to/subpulseapp/how-i-built-a-privacy-first-subscription-tracker-as-a-chrome-extension-17bo)
-- [Stop Using 2,000ms LLMs for Simple Choices: Introducing Laya &lpar;&lt;35ms Free AI Decision API&rpar;](https://dev.to/harshadjadav/stop-using-2000ms-llms-for-simple-choices-introducing-laya-35ms-free-ai-decision-api-49g9)
-- [Why Top-Down Truncation Breaks AI Agents &lpar;And How Even-Span Fixes It&rpar;](https://dev.to/vansharora21/why-top-down-truncation-breaks-ai-agents-and-how-even-span-fixes-it-1n85)
-- [I gave 8 LLMs my analytics product&#39;s AI job. The cheap ones either invent a reason or shrug.](https://dev.to/nishikantaray/i-gave-8-llms-my-analytics-products-ai-job-the-cheap-ones-either-invent-a-reason-or-shrug-3f41)
+- [Type &#39;frio na barriga&#39; and get the same sourced answer as &#39;butterflies in my stomach&#39;](https://dev.to/leo_pechnicki/type-frio-na-barriga-and-get-the-same-sourced-answer-as-butterflies-in-my-stomach-efn)
+- [Built a multi-player banking system](https://dev.to/mr_venom/built-a-multi-player-banking-system-4e9g)
+- [Power BI Data Modelling, Relationships and Joins: A Practical Guide to Building Effective BI Models](https://dev.to/samuelmwaurandungu/power-bi-data-modelling-relationships-and-joins-a-practical-guide-to-building-effective-bi-models-5g9)
+- [ScriptC: Vercel&#39;s Experimental Native TypeScript Compiler](https://dev.to/terminalchai/scriptc-vercels-experimental-native-typescript-compiler-e8c)
+- [Removing an Audio Track From a Video Without Re-Encoding](https://dev.to/technorology/removing-an-audio-track-from-a-video-without-re-encoding-295l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
