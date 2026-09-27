@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [FinanceHub #2: Cuando el código compila pero igual está mal](https://dev.to/eduuu_dev/financehub-2-cuando-el-codigo-compila-pero-igual-esta-mal-39i7)
-- [Building a Local Search Index for a 200MB X Archive](https://dev.to/ahmed_isam_752b775a50fd90/building-a-local-search-index-for-a-200mb-x-archive-3h2c)
-- [Adobe Connect 12.12: Why a 9.9 SQL Injection Deserves Its Own Patch Window](https://dev.to/bianliang/adobe-connect-1212-why-a-99-sql-injection-deserves-its-own-patch-window-2cc3)
-- [What GitHub&#39;s pull_request_target changes break in the 1,000 most-starred repositories](https://dev.to/unite_andcreateforlife/what-githubs-pullrequesttarget-changes-break-in-the-1000-most-starred-repositories-1g0m)
-- [How to Build Apps with AI: From Idea to API &lpar;Or X&rpar;](https://dev.to/ibengeu/how-to-build-apps-with-ai-from-idea-to-api-or-x-25jo)
+- [My prompt-injection fix caught 0 of 20 attacks. The part I almost didn&#39;t build caught all of them.](https://dev.to/vishalhabib99/my-prompt-injection-fix-caught-0-of-20-attacks-the-part-i-almost-didnt-build-caught-all-of-them-oi0)
+- [It Looked Finished on Day One](https://dev.to/henry_dan_81513dd35a2f540/it-looked-finished-on-day-one-4k0j)
+- [The JSON-LD node that made a recall article look like a product](https://dev.to/pi-maker/the-json-ld-node-that-made-a-recall-article-look-like-a-product-5egk)
+- [I built a dashboard to run my job search](https://dev.to/sohail0992/a-local-job-search-dashboard-feature-by-feature-5el4)
+- [FlashAttention-2 from PyTorch to Triton](https://dev.to/lewis_won/flashattention-2-from-pytorch-to-triton-4ein)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
