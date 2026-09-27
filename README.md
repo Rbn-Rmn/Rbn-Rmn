@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Roblox has three DevEx rates now. One constant won&#39;t cut it.](https://dev.to/superlede/roblox-has-three-devex-rates-now-one-constant-wont-cut-it-12ld)
-- [From Idea to Open Source: How I Build and Ship Developer Projects](https://dev.to/sanskarin/from-idea-to-open-source-how-i-build-and-ship-developer-projects-4jl6)
-- [I found the Clash of Clans API and ended up building a war simulator](https://dev.to/kavinkumarr/i-found-the-clash-of-clans-api-and-ended-up-building-a-war-simulator-58n9)
-- [TypeSafe&#39;s Jev: Independent Benchmark Against LLMs &lpar;with code&rpar;](https://dev.to/pravvich/typesafes-jev-independent-benchmark-against-llms-with-code-3deh)
-- [The hard part of micro frontends is the contract, not the bundler](https://dev.to/theadnansaleem/the-dashboard-is-blank-for-some-users-f2l)
+- [What AI says vs. What AI does is not equivalent](https://dev.to/mcunningham88/what-ai-says-vs-what-ai-does-is-not-equivalent-4452)
+- [Bind Variables: The Hard-Parse Storm That Melts Your Shared Pool](https://dev.to/uptimearchitect/bind-variables-the-hard-parse-storm-that-melts-your-shared-pool-16hp)
+- [Before you pick a hosted agent runtime, check what happens at idle](https://dev.to/mishabuildingai/before-you-pick-a-hosted-agent-runtime-check-what-happens-at-idle-4lj7)
+- [Why 95% of Enterprise AI Agents Never Reach Production &lpar;And the 3 Orchestration Boundaries That Kill Them&rpar;](https://dev.to/aiwithmohit/why-95-of-enterprise-ai-agents-never-reach-production-and-the-3-orchestration-boundaries-that-1a1a)
+- [Why 95% of Enterprise AI Agents Never Reach Production](https://dev.to/aiwithmohit/why-95-of-enterprise-ai-agents-never-reach-production-inj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
