@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What AI says vs. What AI does is not equivalent](https://dev.to/mcunningham88/what-ai-says-vs-what-ai-does-is-not-equivalent-4452)
-- [Bind Variables: The Hard-Parse Storm That Melts Your Shared Pool](https://dev.to/uptimearchitect/bind-variables-the-hard-parse-storm-that-melts-your-shared-pool-16hp)
-- [Before you pick a hosted agent runtime, check what happens at idle](https://dev.to/mishabuildingai/before-you-pick-a-hosted-agent-runtime-check-what-happens-at-idle-4lj7)
-- [Why 95% of Enterprise AI Agents Never Reach Production &lpar;And the 3 Orchestration Boundaries That Kill Them&rpar;](https://dev.to/aiwithmohit/why-95-of-enterprise-ai-agents-never-reach-production-and-the-3-orchestration-boundaries-that-1a1a)
-- [Why 95% of Enterprise AI Agents Never Reach Production](https://dev.to/aiwithmohit/why-95-of-enterprise-ai-agents-never-reach-production-inj)
+- [Tracking product price and stock changes from JSON-LD in Python](https://dev.to/abdulwhab95/tracking-product-price-and-stock-changes-from-json-ld-in-python-4mm6)
+- [How I Built a Privacy-First Subscription Tracker as a Chrome Extension](https://dev.to/subpulseapp/how-i-built-a-privacy-first-subscription-tracker-as-a-chrome-extension-17bo)
+- [Stop Using 2,000ms LLMs for Simple Choices: Introducing Laya &lpar;&lt;35ms Free AI Decision API&rpar;](https://dev.to/harshadjadav/stop-using-2000ms-llms-for-simple-choices-introducing-laya-35ms-free-ai-decision-api-49g9)
+- [Why Top-Down Truncation Breaks AI Agents &lpar;And How Even-Span Fixes It&rpar;](https://dev.to/vansharora21/why-top-down-truncation-breaks-ai-agents-and-how-even-span-fixes-it-1n85)
+- [I gave 8 LLMs my analytics product&#39;s AI job. The cheap ones either invent a reason or shrug.](https://dev.to/nishikantaray/i-gave-8-llms-my-analytics-products-ai-job-the-cheap-ones-either-invent-a-reason-or-shrug-3f41)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
