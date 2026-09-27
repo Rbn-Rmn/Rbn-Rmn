@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My prompt-injection fix caught 0 of 20 attacks. The part I almost didn&#39;t build caught all of them.](https://dev.to/vishalhabib99/my-prompt-injection-fix-caught-0-of-20-attacks-the-part-i-almost-didnt-build-caught-all-of-them-oi0)
-- [It Looked Finished on Day One](https://dev.to/henry_dan_81513dd35a2f540/it-looked-finished-on-day-one-4k0j)
-- [The JSON-LD node that made a recall article look like a product](https://dev.to/pi-maker/the-json-ld-node-that-made-a-recall-article-look-like-a-product-5egk)
-- [I built a dashboard to run my job search](https://dev.to/sohail0992/a-local-job-search-dashboard-feature-by-feature-5el4)
-- [FlashAttention-2 from PyTorch to Triton](https://dev.to/lewis_won/flashattention-2-from-pytorch-to-triton-4ein)
+- [Roblox has three DevEx rates now. One constant won&#39;t cut it.](https://dev.to/superlede/roblox-has-three-devex-rates-now-one-constant-wont-cut-it-12ld)
+- [From Idea to Open Source: How I Build and Ship Developer Projects](https://dev.to/sanskarin/from-idea-to-open-source-how-i-build-and-ship-developer-projects-4jl6)
+- [I found the Clash of Clans API and ended up building a war simulator](https://dev.to/kavinkumarr/i-found-the-clash-of-clans-api-and-ended-up-building-a-war-simulator-58n9)
+- [TypeSafe&#39;s Jev: Independent Benchmark Against LLMs &lpar;with code&rpar;](https://dev.to/pravvich/typesafes-jev-independent-benchmark-against-llms-with-code-3deh)
+- [The hard part of micro frontends is the contract, not the bundler](https://dev.to/theadnansaleem/the-dashboard-is-blank-for-some-users-f2l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
