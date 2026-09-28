@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Running an AI Agent Inside the Browser with Pyodide and Ollama](https://dev.to/gu_cci_f94bedb90083e6aab4/running-an-ai-agent-inside-the-browser-with-pyodide-and-ollama-g5g)
-- [Prompt Injection Is the New SQL Injection: Building Resilient AI‑Powered Applications](https://dev.to/tamizuddin/prompt-injection-is-the-new-sql-injection-building-resilient-ai-powered-applications-2di7)
-- [# Disinformation Response Is an Incident-Handling Problem](https://dev.to/marek_builds/-disinformation-response-is-an-incident-handling-problem-d01)
-- [Preserve First: Recovery Design for Local Creative Data](https://dev.to/qnbs/preserve-first-recovery-design-for-local-creative-data-6o9)
-- [Mistral AI raises €3B led by Samsung: how sovereign is it?](https://dev.to/axrisi/mistral-ai-raises-eu3b-led-by-samsung-how-sovereign-is-it-3dc)
+- [Error Handling &amp; Domain Exceptions Across Module Boundaries &lpar;Chapter 11&rpar;](https://dev.to/kamenivanov/error-handling-domain-exceptions-across-module-boundaries-chapter-11-1179)
+- [I built my personal portfolio with Framer — with a retro college-web aesthetic](https://dev.to/vishwa-io/i-built-my-personal-portfolio-with-framer-with-a-retro-college-web-aesthetic-16n5)
+- [My AI Development Prompts](https://dev.to/wyattdave/my-ai-development-prompts-2ec6)
+- [Prompt Injection Is the New SQL Injection: A Practical Developer&#39;s Guide to Securing AI Agents](https://dev.to/tamizuddin/prompt-injection-is-the-new-sql-injection-a-practical-developers-guide-to-securing-ai-agents-28ji)
+- [The Retry Storm Problem: Why Your ASP.NET Core API Needs Idempotency Keys](https://dev.to/developerimranahmed/the-retry-storm-problem-why-your-aspnet-core-api-needs-idempotency-keys-2b1o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
