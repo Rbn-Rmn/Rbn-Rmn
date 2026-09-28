@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Type &#39;frio na barriga&#39; and get the same sourced answer as &#39;butterflies in my stomach&#39;](https://dev.to/leo_pechnicki/type-frio-na-barriga-and-get-the-same-sourced-answer-as-butterflies-in-my-stomach-efn)
-- [Built a multi-player banking system](https://dev.to/mr_venom/built-a-multi-player-banking-system-4e9g)
-- [Power BI Data Modelling, Relationships and Joins: A Practical Guide to Building Effective BI Models](https://dev.to/samuelmwaurandungu/power-bi-data-modelling-relationships-and-joins-a-practical-guide-to-building-effective-bi-models-5g9)
-- [ScriptC: Vercel&#39;s Experimental Native TypeScript Compiler](https://dev.to/terminalchai/scriptc-vercels-experimental-native-typescript-compiler-e8c)
-- [Removing an Audio Track From a Video Without Re-Encoding](https://dev.to/technorology/removing-an-audio-track-from-a-video-without-re-encoding-295l)
+- [Running an AI Agent Inside the Browser with Pyodide and Ollama](https://dev.to/gu_cci_f94bedb90083e6aab4/running-an-ai-agent-inside-the-browser-with-pyodide-and-ollama-g5g)
+- [Prompt Injection Is the New SQL Injection: Building Resilient AI‑Powered Applications](https://dev.to/tamizuddin/prompt-injection-is-the-new-sql-injection-building-resilient-ai-powered-applications-2di7)
+- [# Disinformation Response Is an Incident-Handling Problem](https://dev.to/marek_builds/-disinformation-response-is-an-incident-handling-problem-d01)
+- [Preserve First: Recovery Design for Local Creative Data](https://dev.to/qnbs/preserve-first-recovery-design-for-local-creative-data-6o9)
+- [Mistral AI raises €3B led by Samsung: how sovereign is it?](https://dev.to/axrisi/mistral-ai-raises-eu3b-led-by-samsung-how-sovereign-is-it-3dc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
