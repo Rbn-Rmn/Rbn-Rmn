@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week? #198](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-198-41d8)
-- [How Hindsight Finds Failure DNA in Old Incidents](https://dev.to/seepana_dinesh_4becad7ac9/how-hindsight-finds-failure-dna-in-old-incidents-1oj)
-- [Your AI Policy Doesn&#39;t Run in Production. Your Gateway Does.](https://dev.to/alessandro_pignati/your-ai-policy-doesnt-run-in-production-your-gateway-does-jgj)
-- [ISO 42001 for Engineering Teams: What It Actually Asks You to Prove](https://dev.to/manos-saratsis/iso-42001-for-engineering-teams-what-it-actually-asks-you-to-prove-3npj)
-- [What broke when I moved my file tools into the browser](https://dev.to/anyfilekit/what-broke-when-i-moved-my-file-tools-into-the-browser-2ckh)
+- [MCP em Escala Corporativa: Roteamento Stateless e Tool Bloat](https://dev.to/ricardofriba/mcp-em-escala-corporativa-roteamento-stateless-e-tool-bloat-2kbf)
+- [Claude Code CLI e a Revolução dos Agentes de Terminal: MCP](https://dev.to/ricardofriba/claude-code-cli-e-a-revolucao-dos-agentes-de-terminal-mcp-26i3)
+- [Error monitoring on a $5 VPS](https://dev.to/amorizz/error-monitoring-on-a-5-vps-21oa)
+- [We Ran Our SEO Tool On Ourselves And Found Five Bugs. One Would Have Deindexed Our Site.](https://dev.to/rankcli/we-ran-our-seo-tool-on-ourselves-and-found-five-bugs-one-would-have-deindexed-our-site-p5m)
+- [K9S cheatsheet](https://dev.to/vcaunegre/k9s-cheatsheet-554f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
