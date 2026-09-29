@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Prompt Engineer Resume: What to Put On It](https://dev.to/resuhive/prompt-engineer-resume-what-to-put-on-it-4foi)
-- [Cómo automatizar facturas PDF con Python: Guía práctica para ahorrar horas de trabajo manual](https://dev.to/luis_carias_526fe58acbbb/como-automatizar-facturas-pdf-con-python-guia-practica-para-ahorrar-horas-de-trabajo-manual-4a01)
-- [Race Conditions Don&#39;t Happen Once. They Return With Every New Feature.](https://dev.to/prantakunduqa/race-conditions-dont-happen-once-they-return-with-every-new-feature-40fl)
-- [RecallDesk: Building the FastAPI Backend Behind an AI Support Memory System](https://dev.to/t_deekshitha_bf48b66b980e/recalldesk-building-the-fastapi-backend-behind-an-ai-support-memory-system-io4)
-- [&quot;How I Integrated HardwareMind: Connecting Hindsight, AI, and Hardware Failure Investigation&quot;](https://dev.to/varunrahul_bayya_3055aa9f/how-i-integrated-hardwaremind-connecting-hindsight-ai-and-hardware-failure-investigation-2kej)
+- [# Change the World. Keep the Moment.](https://dev.to/danielecangi/-change-the-world-keep-the-moment-1135)
+- [JGD: an autonomous agent for Java deserialization gadget chains](https://dev.to/lupingqaq/jgd-an-autonomous-agent-for-java-deserialization-gadget-chains-85i)
+- [BeyondBug: The Score That Moved, the Boundary That Held](https://dev.to/joker53/beyondbug-the-score-that-moved-the-boundary-that-held-3kk)
+- [Introducing ntobjmanager-mcp: stateful Windows RPC research for AI agents](https://dev.to/lupingqaq/introducing-ntobjmanager-mcp-stateful-windows-rpc-research-for-ai-agents-193p)
+- [Adding Headings to PDF Text for AI: Do They Help Retrieval? &lpar;And Why Everything After Page 1 Was One Level Off&rpar;](https://dev.to/okinawasoftware/adding-headings-to-pdf-text-for-ai-do-they-help-retrieval-and-why-everything-after-page-1-was-ami)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
