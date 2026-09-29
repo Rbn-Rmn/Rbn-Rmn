@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [SignalForge: Designing a Memory-Powered AI Agent for Competitive Intelligence](https://dev.to/babblu_yerra_1060a611bf4c/signalforge-designing-a-memory-powered-ai-agent-for-competitive-intelligence-3jh2)
-- [How Do I Verify a Manta Bridge Deposit in My dApp?](https://dev.to/robert-eth/how-do-i-verify-a-manta-bridge-deposit-in-my-dapp-31g1)
-- [Salesforce and Integration](https://dev.to/rayan_39274f256d3/salesforce-and-integration-18bn)
-- [Why I Replaced Vector Search with Hindsight for Meeting Notes](https://dev.to/gudla_pranahitha_07/why-i-replaced-vector-search-with-hindsight-for-meeting-notes-1ilc)
-- [Enforcing Zero Network Egress with Automated Sovereignty Tests](https://dev.to/vansharora21/enforcing-zero-network-egress-with-automated-sovereignty-tests-g91)
+- [Calnode v0.10.1: the release our deployers wrote](https://dev.to/shockalotti/calnode-v0101-the-release-our-deployers-wrote-5fij)
+- [What I learned building a Twitch chat overlay](https://dev.to/fabianzimber/what-i-learned-building-a-twitch-chat-overlay-egl)
+- [Git: The Empire Strikes Back – Mastering Atomic Commits](https://dev.to/timevolt/git-the-empire-strikes-back-mastering-atomic-commits-2gfb)
+- [Building A Home Lab-Testing System...with Rust](https://dev.to/ladythee/building-a-home-lab-testing-systemwith-rust-3pkp)
+- [Fix the 4 Lighthouse accessibility failures that show up on almost every site](https://dev.to/ashleytrainerdev/fix-the-4-lighthouse-accessibility-failures-that-show-up-on-almost-every-site-9lc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
