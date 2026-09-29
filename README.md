@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Supabase Misconfiguration: Readable Tables in 16,326 Databases, Sensitive Data Confirmed in Some Cases](https://dev.to/anoymask/supabase-misconfiguration-readable-tables-in-16326-databases-sensitive-data-confirmed-in-some-20b2)
-- [Video Generation Capability Checks — Before Offering Express Users Unsupported Options](https://dev.to/holdenfox8476/video-generation-capability-checks-before-offering-express-users-unsupported-options-35mm)
-- [Fail a GitHub Actions job when a vendor page changes](https://dev.to/signalwatch/fail-a-github-actions-job-when-a-vendor-page-changes-1c0g)
-- [Moving off Modern Events Calendar: what&#39;s in your database and what breaks](https://dev.to/jeffreyinman/moving-off-modern-events-calendar-whats-in-your-database-and-what-breaks-mpn)
-- [We Built an AI Agent That Remembers Every Security Incident So It Doesn&#39;t Solve the Same Problem Twice](https://dev.to/mroshini_4c5fca966df4e35/we-built-an-ai-agent-that-remembers-every-security-incident-so-it-doesnt-solve-the-same-problem-3hpb)
+- [Prompt Engineer Resume: What to Put On It](https://dev.to/resuhive/prompt-engineer-resume-what-to-put-on-it-4foi)
+- [Cómo automatizar facturas PDF con Python: Guía práctica para ahorrar horas de trabajo manual](https://dev.to/luis_carias_526fe58acbbb/como-automatizar-facturas-pdf-con-python-guia-practica-para-ahorrar-horas-de-trabajo-manual-4a01)
+- [Race Conditions Don&#39;t Happen Once. They Return With Every New Feature.](https://dev.to/prantakunduqa/race-conditions-dont-happen-once-they-return-with-every-new-feature-40fl)
+- [RecallDesk: Building the FastAPI Backend Behind an AI Support Memory System](https://dev.to/t_deekshitha_bf48b66b980e/recalldesk-building-the-fastapi-backend-behind-an-ai-support-memory-system-io4)
+- [&quot;How I Integrated HardwareMind: Connecting Hindsight, AI, and Hardware Failure Investigation&quot;](https://dev.to/varunrahul_bayya_3055aa9f/how-i-integrated-hardwaremind-connecting-hindsight-ai-and-hardware-failure-investigation-2kej)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
