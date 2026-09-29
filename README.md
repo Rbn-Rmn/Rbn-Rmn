@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [MCP em Escala Corporativa: Roteamento Stateless e Tool Bloat](https://dev.to/ricardofriba/mcp-em-escala-corporativa-roteamento-stateless-e-tool-bloat-2kbf)
-- [Claude Code CLI e a Revolução dos Agentes de Terminal: MCP](https://dev.to/ricardofriba/claude-code-cli-e-a-revolucao-dos-agentes-de-terminal-mcp-26i3)
-- [Error monitoring on a $5 VPS](https://dev.to/amorizz/error-monitoring-on-a-5-vps-21oa)
-- [We Ran Our SEO Tool On Ourselves And Found Five Bugs. One Would Have Deindexed Our Site.](https://dev.to/rankcli/we-ran-our-seo-tool-on-ourselves-and-found-five-bugs-one-would-have-deindexed-our-site-p5m)
-- [K9S cheatsheet](https://dev.to/vcaunegre/k9s-cheatsheet-554f)
+- [Supabase Misconfiguration: Readable Tables in 16,326 Databases, Sensitive Data Confirmed in Some Cases](https://dev.to/anoymask/supabase-misconfiguration-readable-tables-in-16326-databases-sensitive-data-confirmed-in-some-20b2)
+- [Video Generation Capability Checks — Before Offering Express Users Unsupported Options](https://dev.to/holdenfox8476/video-generation-capability-checks-before-offering-express-users-unsupported-options-35mm)
+- [Fail a GitHub Actions job when a vendor page changes](https://dev.to/signalwatch/fail-a-github-actions-job-when-a-vendor-page-changes-1c0g)
+- [Moving off Modern Events Calendar: what&#39;s in your database and what breaks](https://dev.to/jeffreyinman/moving-off-modern-events-calendar-whats-in-your-database-and-what-breaks-mpn)
+- [We Built an AI Agent That Remembers Every Security Incident So It Doesn&#39;t Solve the Same Problem Twice](https://dev.to/mroshini_4c5fca966df4e35/we-built-an-ai-agent-that-remembers-every-security-incident-so-it-doesnt-solve-the-same-problem-3hpb)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
