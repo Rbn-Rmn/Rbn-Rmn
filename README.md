@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [# Change the World. Keep the Moment.](https://dev.to/danielecangi/-change-the-world-keep-the-moment-1135)
-- [JGD: an autonomous agent for Java deserialization gadget chains](https://dev.to/lupingqaq/jgd-an-autonomous-agent-for-java-deserialization-gadget-chains-85i)
-- [BeyondBug: The Score That Moved, the Boundary That Held](https://dev.to/joker53/beyondbug-the-score-that-moved-the-boundary-that-held-3kk)
-- [Introducing ntobjmanager-mcp: stateful Windows RPC research for AI agents](https://dev.to/lupingqaq/introducing-ntobjmanager-mcp-stateful-windows-rpc-research-for-ai-agents-193p)
-- [Adding Headings to PDF Text for AI: Do They Help Retrieval? &lpar;And Why Everything After Page 1 Was One Level Off&rpar;](https://dev.to/okinawasoftware/adding-headings-to-pdf-text-for-ai-do-they-help-retrieval-and-why-everything-after-page-1-was-ami)
+- [SignalForge: Designing a Memory-Powered AI Agent for Competitive Intelligence](https://dev.to/babblu_yerra_1060a611bf4c/signalforge-designing-a-memory-powered-ai-agent-for-competitive-intelligence-3jh2)
+- [How Do I Verify a Manta Bridge Deposit in My dApp?](https://dev.to/robert-eth/how-do-i-verify-a-manta-bridge-deposit-in-my-dapp-31g1)
+- [Salesforce and Integration](https://dev.to/rayan_39274f256d3/salesforce-and-integration-18bn)
+- [Why I Replaced Vector Search with Hindsight for Meeting Notes](https://dev.to/gudla_pranahitha_07/why-i-replaced-vector-search-with-hindsight-for-meeting-notes-1ilc)
+- [Enforcing Zero Network Egress with Automated Sovereignty Tests](https://dev.to/vansharora21/enforcing-zero-network-egress-with-automated-sovereignty-tests-g91)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
