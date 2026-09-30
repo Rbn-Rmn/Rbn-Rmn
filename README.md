@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Burstiness and n-grams: a 40-line Python AI-text detector, and where it breaks](https://dev.to/keheai_harvey/burstiness-and-n-grams-a-40-line-python-ai-text-detector-and-where-it-breaks-25gl)
-- [Build a Review-Ready Invoice-to-JSON API with DEVUP AI, Next.js, and Zod](https://dev.to/mohamed_bal/build-a-review-ready-invoice-to-json-api-with-devup-ai-nextjs-and-zod-2bhm)
-- [Never Miss a Sale: Send WooCommerce Order Notifications to Telegram](https://dev.to/yodsira/never-miss-a-sale-send-woocommerce-order-notifications-to-telegram-i97)
-- [How to Clean Up and Hand Back a WordPress Site You Inherited](https://dev.to/nokazehayato/how-to-clean-up-and-hand-back-a-wordpress-site-you-inherited-2mdc)
-- [EmDash&#39;s Sandboxed Plugin Registry: How Cloudflare Built Agent-Friendly CMS Extensions](https://dev.to/mech_app_ai/emdashs-sandboxed-plugin-registry-how-cloudflare-built-agent-friendly-cms-extensions-24ee)
+- [The pooled number said 35%. The four folds said 1%, 16%, 23%, 100%.](https://dev.to/pm25coder/the-pooled-number-said-35-the-four-folds-said-1-16-23-100-31oe)
+- [Stop writing hex codes in your CSS](https://dev.to/alexandersstudi/stop-writing-hex-codes-in-your-css-39jf)
+- [How to Make a Favicon for Your Website &lpar;Sizes, Formats, and HTML&rpar;](https://dev.to/pulkitgovrani/how-to-make-a-favicon-for-your-website-sizes-formats-and-html-6kk)
+- [Search Agents Waste Half Their Tokens Rediscovering Entity Links](https://dev.to/reidmarlow/search-agents-waste-half-their-tokens-rediscovering-entity-links-31an)
+- [When AI Debt Hits the Yield Curve](https://dev.to/deanlee/when-ai-debt-hits-the-yield-curve-1g7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
