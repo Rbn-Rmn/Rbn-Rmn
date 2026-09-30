@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [From SEO To GEO: How AI Search Really Sees Your Brand](https://dev.to/bond_gg_7e0db31cae0ea212/from-seo-to-geo-how-ai-search-really-sees-your-brand-ncj)
-- [영지식 증명: 블록체인 확장성, 프라이버시, 상호운용성의 새 시대를 열다](https://dev.to/ice1121/yeongjisig-jeungmyeong-beulrogcein-hwagjangseong-peuraibeosi-sanghounyongseongyi-sae-sidaereul-yeolda-1c1a)
-- [Freight Contract PDF Archive: Compress Copies, Store Originals for Signature Fidelity](https://dev.to/malachinilsson7591/freight-contract-pdf-archive-compress-copies-store-originals-for-signature-fidelity-1946)
-- [How to Find and Fix Memory Leaks in .NET Projects](https://dev.to/ravi-vishwakarma-hash/how-to-find-and-fix-memory-leaks-in-net-projects-3dk0)
-- [What Is Decisioning Infrastructure for Consumer Platforms?](https://dev.to/heminjoshi/what-is-decisioning-infrastructure-for-consumer-platforms-4715)
+- [Burstiness and n-grams: a 40-line Python AI-text detector, and where it breaks](https://dev.to/keheai_harvey/burstiness-and-n-grams-a-40-line-python-ai-text-detector-and-where-it-breaks-25gl)
+- [Build a Review-Ready Invoice-to-JSON API with DEVUP AI, Next.js, and Zod](https://dev.to/mohamed_bal/build-a-review-ready-invoice-to-json-api-with-devup-ai-nextjs-and-zod-2bhm)
+- [Never Miss a Sale: Send WooCommerce Order Notifications to Telegram](https://dev.to/yodsira/never-miss-a-sale-send-woocommerce-order-notifications-to-telegram-i97)
+- [How to Clean Up and Hand Back a WordPress Site You Inherited](https://dev.to/nokazehayato/how-to-clean-up-and-hand-back-a-wordpress-site-you-inherited-2mdc)
+- [EmDash&#39;s Sandboxed Plugin Registry: How Cloudflare Built Agent-Friendly CMS Extensions](https://dev.to/mech_app_ai/emdashs-sandboxed-plugin-registry-how-cloudflare-built-agent-friendly-cms-extensions-24ee)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
