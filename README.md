@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The pooled number said 35%. The four folds said 1%, 16%, 23%, 100%.](https://dev.to/pm25coder/the-pooled-number-said-35-the-four-folds-said-1-16-23-100-31oe)
-- [Stop writing hex codes in your CSS](https://dev.to/alexandersstudi/stop-writing-hex-codes-in-your-css-39jf)
-- [How to Make a Favicon for Your Website &lpar;Sizes, Formats, and HTML&rpar;](https://dev.to/pulkitgovrani/how-to-make-a-favicon-for-your-website-sizes-formats-and-html-6kk)
-- [Search Agents Waste Half Their Tokens Rediscovering Entity Links](https://dev.to/reidmarlow/search-agents-waste-half-their-tokens-rediscovering-entity-links-31an)
-- [When AI Debt Hits the Yield Curve](https://dev.to/deanlee/when-ai-debt-hits-the-yield-curve-1g7)
+- [My drift board learned to say &quot;I don&#39;t know&quot;. Here is what it still cannot say.](https://dev.to/taniacoder/my-drift-board-learned-to-say-i-dont-know-here-is-what-it-still-cannot-say-18i1)
+- [Why Agentic AI Governance Can&#39;t Be Bolted On](https://dev.to/getkimchi/why-agentic-ai-governance-cant-be-bolted-on-moc)
+- [Target a Workflow Revision Without Consuming New Input](https://dev.to/ufebri/target-a-workflow-revision-without-consuming-new-input-2fke)
+- [CHRONOS-HEIST: A Playable Multi-Era Temporal Mystery Game Powered by Sanity Content Lake](https://dev.to/shreyansh_agrahari_2009db/chronos-heist-a-playable-multi-era-temporal-mystery-game-powered-by-sanity-content-lake-gg1)
+- [How I fit a bubble shooter into 3,810 bytes of C64 assembly](https://dev.to/spixs/how-i-fit-a-bubble-shooter-into-3810-bytes-of-c64-assembly-2oci)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
