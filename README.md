@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What Is a Webhook? How Push-Based APIs Work &lpar;With Examples&rpar;](https://dev.to/muhammad_abdullah_4f9d956/what-is-a-webhook-how-push-based-apis-work-with-examples-36el)
-- [Daily Dose of DevOps — Metrics management: with strong operational accountability](https://dev.to/marco13moo/daily-dose-of-devops-metrics-management-with-strong-operational-accountability-1hpb)
-- [Voice Ownership Breaks at the Storage Layer](https://dev.to/chefbc2k_v1/voice-ownership-breaks-at-the-storage-layer-3kn7)
-- [A CDN Isn&#39;t Just Making Things Faster. It&#39;s Protecting Your Origin From Its Own Traffic.](https://dev.to/mangeshmandlik/a-cdn-isnt-just-making-things-faster-its-protecting-your-origin-from-its-own-traffic-39ic)
-- [Building, Learning &amp; Exploring AI](https://dev.to/connectwithvanshika/building-learning-exploring-ai-2i15)
+- [Stepping into Open Source: A First-Year CSE Student&#39;s Perspective on Hacktoberfest](https://dev.to/barunprusty/stepping-into-open-source-a-first-year-cse-students-perspective-on-hacktoberfest-5hij)
+- [Your AWS role can&#39;t tell a human from an agent anymore, part 5: putting the four layers together](https://dev.to/aws-builders/your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-5-putting-the-four-layers-together-1iko)
+- [Your AWS role can&#39;t tell a human from an agent anymore, part 3: the SCP backstop](https://dev.to/aws-builders/your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-3-the-scp-backstop-59k0)
+- [Your AWS role can&#39;t tell a human from an agent anymore, part 1: the threat model and the identity problem](https://dev.to/aws-builders/your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40)
+- [Cyber-Crab](https://dev.to/kozmonot20/cyber-crab-3lmj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
