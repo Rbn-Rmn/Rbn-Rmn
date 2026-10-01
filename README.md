@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My drift board learned to say &quot;I don&#39;t know&quot;. Here is what it still cannot say.](https://dev.to/taniacoder/my-drift-board-learned-to-say-i-dont-know-here-is-what-it-still-cannot-say-18i1)
-- [Why Agentic AI Governance Can&#39;t Be Bolted On](https://dev.to/getkimchi/why-agentic-ai-governance-cant-be-bolted-on-moc)
-- [Target a Workflow Revision Without Consuming New Input](https://dev.to/ufebri/target-a-workflow-revision-without-consuming-new-input-2fke)
-- [CHRONOS-HEIST: A Playable Multi-Era Temporal Mystery Game Powered by Sanity Content Lake](https://dev.to/shreyansh_agrahari_2009db/chronos-heist-a-playable-multi-era-temporal-mystery-game-powered-by-sanity-content-lake-gg1)
-- [How I fit a bubble shooter into 3,810 bytes of C64 assembly](https://dev.to/spixs/how-i-fit-a-bubble-shooter-into-3810-bytes-of-c64-assembly-2oci)
+- [Customer Support Admin Analytics 2026: Metrics Dashboard Signals, Logs Search Proves Reversal](https://dev.to/mitchellcross2134/customer-support-admin-analytics-2026-metrics-dashboard-signals-logs-search-proves-reversal-5g57)
+- [How to Build a Practical AI Learning Roadmap When You&#39;re Starting From Scratch](https://dev.to/jameshammer/how-to-build-a-practical-ai-learning-roadmap-when-youre-starting-from-scratch-268o)
+- [OpenAI&#39;s dots need acceptance criteria, not just Custom Rules](https://dev.to/ascotlan/openais-dots-need-acceptance-criteria-not-just-custom-rules-38da)
+- [Live-Game React Frontend Error Tracking — A Backend Collector Example](https://dev.to/kiernanberg3867/live-game-react-frontend-error-tracking-a-backend-collector-example-29gf)
+- [AddressLab: A Reproducible Workflow for Generating Valid Test Address Data](https://dev.to/qinjiexu2/addresslab-a-reproducible-workflow-for-generating-valid-test-address-data-1003)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
