@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Customer Support Admin Analytics 2026: Metrics Dashboard Signals, Logs Search Proves Reversal](https://dev.to/mitchellcross2134/customer-support-admin-analytics-2026-metrics-dashboard-signals-logs-search-proves-reversal-5g57)
-- [How to Build a Practical AI Learning Roadmap When You&#39;re Starting From Scratch](https://dev.to/jameshammer/how-to-build-a-practical-ai-learning-roadmap-when-youre-starting-from-scratch-268o)
-- [OpenAI&#39;s dots need acceptance criteria, not just Custom Rules](https://dev.to/ascotlan/openais-dots-need-acceptance-criteria-not-just-custom-rules-38da)
-- [Live-Game React Frontend Error Tracking — A Backend Collector Example](https://dev.to/kiernanberg3867/live-game-react-frontend-error-tracking-a-backend-collector-example-29gf)
-- [AddressLab: A Reproducible Workflow for Generating Valid Test Address Data](https://dev.to/qinjiexu2/addresslab-a-reproducible-workflow-for-generating-valid-test-address-data-1003)
+- [Teach Your Coding Agent to Write Commit Messages Your Team Will Actually Read](https://dev.to/alapha888/teach-your-coding-agent-to-write-commit-messages-your-team-will-actually-read-2fjp)
+- [Our Depots Ran on the Laptops Head Office Had Finished With](https://dev.to/serguey_shinder_4ab9b87b1/our-depots-ran-on-the-laptops-head-office-had-finished-with-9d2)
+- [Design Events That Answer Product Questions: A Practical Tracking Plan](https://dev.to/sensorflow/design-events-that-answer-product-questions-a-practical-tracking-plan-2995)
+- [Build an Audiobook Generator Using ElevenLabs API](https://dev.to/voice_developer/build-an-audiobook-generator-using-elevenlabs-api-2n05)
+- [Don&#39;t localize carrier scan timestamps. You are not storing an instant.](https://dev.to/support24htrack/dont-localize-carrier-scan-timestamps-you-are-not-storing-an-instant-1a0c)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
