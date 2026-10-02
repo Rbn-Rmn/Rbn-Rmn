@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Stepping into Open Source: A First-Year CSE Student&#39;s Perspective on Hacktoberfest](https://dev.to/barunprusty/stepping-into-open-source-a-first-year-cse-students-perspective-on-hacktoberfest-5hij)
-- [Your AWS role can&#39;t tell a human from an agent anymore, part 5: putting the four layers together](https://dev.to/aws-builders/your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-5-putting-the-four-layers-together-1iko)
-- [Your AWS role can&#39;t tell a human from an agent anymore, part 3: the SCP backstop](https://dev.to/aws-builders/your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-3-the-scp-backstop-59k0)
-- [Your AWS role can&#39;t tell a human from an agent anymore, part 1: the threat model and the identity problem](https://dev.to/aws-builders/your-aws-role-cant-tell-a-human-from-an-agent-anymore-part-1-the-threat-model-and-the-identity-k40)
-- [Cyber-Crab](https://dev.to/kozmonot20/cyber-crab-3lmj)
+- [Sixteen days in Shopify&#39;s app review, written down as it happened](https://dev.to/bananafestdestiny/sixteen-days-in-shopifys-app-review-written-down-as-it-happened-2mho)
+- [Storm-3068: How SSPR Abuse Turns One Azure AD Account Into Kubernetes Credential Theft](https://dev.to/iamdevbox/storm-3068-how-sspr-abuse-turns-one-azure-ad-account-into-kubernetes-credential-theft-41h0)
+- [Why Hiring a Developer Is Still Hard When There Are Thousands Available](https://dev.to/ioan_flaviuzsoldos_a3bf4/why-hiring-a-developer-is-still-hard-when-there-are-thousands-available-2l3d)
+- [Node.js Stored PDF Template vs Repository HTML &lpar;Who Signs Off&rpar;](https://dev.to/judsonrhodes1569/nodejs-stored-pdf-template-vs-repository-html-who-signs-off-3de9)
+- [Governance Attack Surface Review: HTX](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-htx-54eo)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
