@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Ceremony proportional to irreversibility: Type 1 vs Type 2 engineering decisions](https://dev.to/decisiondesk/ceremony-proportional-to-irreversibility-type-1-vs-type-2-engineering-decisions-5dbm)
-- [Why a VEX document should be diffed claim by claim](https://dev.to/polycratia/why-a-vex-document-should-be-diffed-claim-by-claim-56id)
-- [Robinhood Agents Trade Without Approval: The Gate Is a Toggle, and the Risk Is Yours](https://dev.to/scriptmasterlabs01/robinhood-agents-trade-without-approval-the-gate-is-a-toggle-and-the-risk-is-yours-1fbg)
-- [Introducing the All-New Playground API: Stateful Mocking, Stripe Parity &amp; 70+ Interactive Guides](https://dev.to/nileslabs/introducing-the-all-new-playground-api-stateful-mocking-stripe-parity-70-interactive-guides-576e)
-- [Your AI Code Can Be Elegant Too](https://dev.to/amrabed/your-ai-code-can-be-elegant-too-coc)
+- [Valve Announces Steam Frame Price, Release Date, and Accessories – Pre-orders Now Open](https://dev.to/ashish_624379625242c5d263/valve-announces-steam-frame-price-release-date-and-accessories-pre-orders-now-open-51li)
+- [Can a Local LLM Wash Out a Watermark Without Washing Out the Meaning? I Tested 300 Rewrites](https://dev.to/vadim_albarov/can-a-local-llm-wash-out-a-watermark-without-washing-out-the-meaning-i-tested-300-rewrites-15jb)
+- [[Boost]](https://dev.to/emboldtyler/-p90)
+- [Continuous Native iOS Widget Animation in Pure SwiftUI: Architecture &amp; App Store Review](https://dev.to/limooonik/continuous-native-ios-widget-animation-in-pure-swiftui-architecture-app-store-review-4fek)
+- [Transactional Welcome Email: Node.js Favors Resend over SES for Suppression Lists](https://dev.to/trkfpn392751/transactional-welcome-email-nodejs-favors-resend-over-ses-for-suppression-lists-1ba8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
