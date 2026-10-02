@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your website has another user now: an AI agent](https://dev.to/odedkovach/your-website-has-another-user-now-an-ai-agent-56f)
-- [JavaScript Performance Optimization: Practical Techniques for Faster Apps](https://dev.to/ansh_sheladiya/javascript-performance-optimization-practical-techniques-for-faster-apps-5chi)
-- [Seven green checks and a team page that named its judges](https://dev.to/manusingh/seven-green-checks-and-a-team-page-that-named-its-judges-57en)
-- [Configure a Semantic Model in Power BI: A Beginner-Friendly Step-by-Step Guide](https://dev.to/ibrahimabdulrasaq/configure-a-semantic-model-in-power-bi-a-beginner-friendly-step-by-step-guide-4c24)
-- [How to secure a Jakarta EE client application with OIDC &lpar;using pac4j&rpar;](https://dev.to/jleleu/how-to-secure-a-jakarta-ee-client-application-with-oidc-using-pac4j-2l77)
+- [Ceremony proportional to irreversibility: Type 1 vs Type 2 engineering decisions](https://dev.to/decisiondesk/ceremony-proportional-to-irreversibility-type-1-vs-type-2-engineering-decisions-5dbm)
+- [Why a VEX document should be diffed claim by claim](https://dev.to/polycratia/why-a-vex-document-should-be-diffed-claim-by-claim-56id)
+- [Robinhood Agents Trade Without Approval: The Gate Is a Toggle, and the Risk Is Yours](https://dev.to/scriptmasterlabs01/robinhood-agents-trade-without-approval-the-gate-is-a-toggle-and-the-risk-is-yours-1fbg)
+- [Introducing the All-New Playground API: Stateful Mocking, Stripe Parity &amp; 70+ Interactive Guides](https://dev.to/nileslabs/introducing-the-all-new-playground-api-stateful-mocking-stripe-parity-70-interactive-guides-576e)
+- [Your AI Code Can Be Elegant Too](https://dev.to/amrabed/your-ai-code-can-be-elegant-too-coc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
