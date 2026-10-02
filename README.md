@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Sixteen days in Shopify&#39;s app review, written down as it happened](https://dev.to/bananafestdestiny/sixteen-days-in-shopifys-app-review-written-down-as-it-happened-2mho)
-- [Storm-3068: How SSPR Abuse Turns One Azure AD Account Into Kubernetes Credential Theft](https://dev.to/iamdevbox/storm-3068-how-sspr-abuse-turns-one-azure-ad-account-into-kubernetes-credential-theft-41h0)
-- [Why Hiring a Developer Is Still Hard When There Are Thousands Available](https://dev.to/ioan_flaviuzsoldos_a3bf4/why-hiring-a-developer-is-still-hard-when-there-are-thousands-available-2l3d)
-- [Node.js Stored PDF Template vs Repository HTML &lpar;Who Signs Off&rpar;](https://dev.to/judsonrhodes1569/nodejs-stored-pdf-template-vs-repository-html-who-signs-off-3de9)
-- [Governance Attack Surface Review: HTX](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-htx-54eo)
+- [Your website has another user now: an AI agent](https://dev.to/odedkovach/your-website-has-another-user-now-an-ai-agent-56f)
+- [JavaScript Performance Optimization: Practical Techniques for Faster Apps](https://dev.to/ansh_sheladiya/javascript-performance-optimization-practical-techniques-for-faster-apps-5chi)
+- [Seven green checks and a team page that named its judges](https://dev.to/manusingh/seven-green-checks-and-a-team-page-that-named-its-judges-57en)
+- [Configure a Semantic Model in Power BI: A Beginner-Friendly Step-by-Step Guide](https://dev.to/ibrahimabdulrasaq/configure-a-semantic-model-in-power-bi-a-beginner-friendly-step-by-step-guide-4c24)
+- [How to secure a Jakarta EE client application with OIDC &lpar;using pac4j&rpar;](https://dev.to/jleleu/how-to-secure-a-jakarta-ee-client-application-with-oidc-using-pac4j-2l77)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
