@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Reply Buddy: I built an offline email helper for a friend who can&#39;t read English](https://dev.to/junyoung_arche/reply-buddy-i-built-an-offline-email-helper-for-a-friend-who-cant-read-english-3gp9)
-- [What 99 merged pull requests taught me about contributing to big open source projects](https://dev.to/kwy404/what-99-merged-pull-requests-taught-me-about-contributing-to-big-open-source-projects-439b)
-- [Provider-Portable Speech-to-Text API Intake — Diagnosing Malformed Multipart Form-Data](https://dev.to/rhettfletcher9678/provider-portable-speech-to-text-api-intake-diagnosing-malformed-multipart-form-data-epo)
-- [Elixir Enchiridium — Tomo I: A Origem parte 3](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-i-a-origem-parte-3-2oe0)
-- [Elixir Enchiridium — Tomo I: A Origem parte 2](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-i-a-origem-parte-2-4mlo)
+- [Overcoming Technical Hurdles to Develop a Connected, Self-Moving Wooden Chessboard Compatible with Existing Platforms](https://dev.to/miraslave/overcoming-technical-hurdles-to-develop-a-connected-self-moving-wooden-chessboard-compatible-with-4lc3)
+- [&quot;My local model called a flagged result &#39;within range&#39;, so I stopped letting it do arithmetic&quot;](https://dev.to/rehan1604/my-local-model-called-a-flagged-result-within-range-so-i-stopped-letting-it-do-arithmetic-a42)
+- [Build a Unit-Safe SLS Part Weight Estimator in JavaScript](https://dev.to/rongdong_deng_259145a94b1/build-a-unit-safe-sls-part-weight-estimator-in-javascript-40p4)
+- [I Built an Internet Court. Now I&#39;m Trying to Find Out If Anyone Actually Wants It.](https://dev.to/sohail_khan_db35e29ac67bd/i-built-an-internet-court-now-im-trying-to-find-out-if-anyone-actually-wants-it-558h)
+- [Jev AI: Silent Winner, Investors&#39; Darling. Why?](https://dev.to/gp-ia-blog/jev-ai-silent-winner-investors-darling-why-p1d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
