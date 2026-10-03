@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming Technical Hurdles to Develop a Connected, Self-Moving Wooden Chessboard Compatible with Existing Platforms](https://dev.to/miraslave/overcoming-technical-hurdles-to-develop-a-connected-self-moving-wooden-chessboard-compatible-with-4lc3)
-- [&quot;My local model called a flagged result &#39;within range&#39;, so I stopped letting it do arithmetic&quot;](https://dev.to/rehan1604/my-local-model-called-a-flagged-result-within-range-so-i-stopped-letting-it-do-arithmetic-a42)
-- [Build a Unit-Safe SLS Part Weight Estimator in JavaScript](https://dev.to/rongdong_deng_259145a94b1/build-a-unit-safe-sls-part-weight-estimator-in-javascript-40p4)
-- [I Built an Internet Court. Now I&#39;m Trying to Find Out If Anyone Actually Wants It.](https://dev.to/sohail_khan_db35e29ac67bd/i-built-an-internet-court-now-im-trying-to-find-out-if-anyone-actually-wants-it-558h)
-- [Jev AI: Silent Winner, Investors&#39; Darling. Why?](https://dev.to/gp-ia-blog/jev-ai-silent-winner-investors-darling-why-p1d)
+- [Mot: a career coach that grades your interview answers against O*NET, not vibes](https://dev.to/dang_tran_63f9ff8ece59c73/mot-a-career-coach-that-grades-your-interview-answers-against-onet-not-vibes-1pfm)
+- [Descriptive vs Inferential Statistics: A Practical Guide with Real-World Examples....](https://dev.to/rakeshkumar_nayak_d4795a8/descriptive-vs-inferential-statistics-a-practical-guide-with-real-world-examples-3j38)
+- [Why we publish our horse racing model&#39;s track record — wins, losses and all](https://dev.to/mystiqueracing/why-we-publish-our-horse-racing-models-track-record-wins-losses-and-all-2533)
+- [MAX&lpar;&rpar;+1: The Invoice Number That Showed Up Twice](https://dev.to/hossam_assadallah_842151a/max1-the-invoice-number-that-showed-up-twice-3lb1)
+- [Count the cognitive tasks](https://dev.to/marcosomma/count-the-cognitive-tasks-45e1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
