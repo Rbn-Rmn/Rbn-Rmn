@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Mot: a career coach that grades your interview answers against O*NET, not vibes](https://dev.to/dang_tran_63f9ff8ece59c73/mot-a-career-coach-that-grades-your-interview-answers-against-onet-not-vibes-1pfm)
-- [Descriptive vs Inferential Statistics: A Practical Guide with Real-World Examples....](https://dev.to/rakeshkumar_nayak_d4795a8/descriptive-vs-inferential-statistics-a-practical-guide-with-real-world-examples-3j38)
-- [Why we publish our horse racing model&#39;s track record — wins, losses and all](https://dev.to/mystiqueracing/why-we-publish-our-horse-racing-models-track-record-wins-losses-and-all-2533)
-- [MAX&lpar;&rpar;+1: The Invoice Number That Showed Up Twice](https://dev.to/hossam_assadallah_842151a/max1-the-invoice-number-that-showed-up-twice-3lb1)
-- [Count the cognitive tasks](https://dev.to/marcosomma/count-the-cognitive-tasks-45e1)
+- [The best OpenAPI mock servers in 2026: four tools tested on one real spec](https://dev.to/jeff_pdc/the-best-openapi-mock-servers-in-2026-four-tools-tested-on-one-real-spec-44po)
+- [A unique + not_null suite stopped 3 of 17 bad batches. Here is what got through.](https://dev.to/jigonyoo/a-unique-notnull-suite-stopped-3-of-17-bad-batches-here-is-what-got-through-3d8h)
+- [Same Swift Code, Different Binary: What Xcode, the iOS SDK, and iOS Actually Do](https://dev.to/kavearhasi_viswanathan/same-swift-code-different-binary-what-xcode-the-ios-sdk-and-ios-actually-do-5b42)
+- [Using ElevenLabs in Electron Desktop Apps](https://dev.to/voice_developer/using-elevenlabs-in-electron-desktop-apps-29b8)
+- [unlazy wants an agent&#39;s &quot;done&quot; backed by a gate that runs](https://dev.to/renolu/unlazy-wants-an-agents-done-backed-by-a-gate-that-runs-2h2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
