@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [PHP FULL IMAGE NEWS](https://dev.to/convenia/php-full-image-news-2h9c)
-- [Dataverse for Teams vs the real thing: the limits](https://dev.to/balupremkumar/dataverse-for-teams-vs-the-real-thing-the-limits-2cdh)
-- [Transitioning from Data Center to Cloud: How Atlassian&#39;s Edge Security Stack Fills the Gap Left by Cloudflare](https://dev.to/mihai_leanzero/transitioning-from-data-center-to-cloud-how-atlassians-edge-security-stack-fills-the-gap-left-by-1bc1)
-- [How to Observe Malformed Multipart Speech API Requests — Tenant-Aware File Intake](https://dev.to/trippdonovan5461/how-to-observe-malformed-multipart-speech-api-requests-tenant-aware-file-intake-3j7g)
-- [How to Log an AI Agent So You Can Actually Debug It](https://dev.to/paulcrinigan/how-to-log-an-ai-agent-so-you-can-actually-debug-it-3gni)
+- [Reply Buddy: I built an offline email helper for a friend who can&#39;t read English](https://dev.to/junyoung_arche/reply-buddy-i-built-an-offline-email-helper-for-a-friend-who-cant-read-english-3gp9)
+- [What 99 merged pull requests taught me about contributing to big open source projects](https://dev.to/kwy404/what-99-merged-pull-requests-taught-me-about-contributing-to-big-open-source-projects-439b)
+- [Provider-Portable Speech-to-Text API Intake — Diagnosing Malformed Multipart Form-Data](https://dev.to/rhettfletcher9678/provider-portable-speech-to-text-api-intake-diagnosing-malformed-multipart-form-data-epo)
+- [Elixir Enchiridium — Tomo I: A Origem parte 3](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-i-a-origem-parte-3-2oe0)
+- [Elixir Enchiridium — Tomo I: A Origem parte 2](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-i-a-origem-parte-2-4mlo)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
