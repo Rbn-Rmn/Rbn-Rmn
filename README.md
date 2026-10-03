@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The best OpenAPI mock servers in 2026: four tools tested on one real spec](https://dev.to/jeff_pdc/the-best-openapi-mock-servers-in-2026-four-tools-tested-on-one-real-spec-44po)
-- [A unique + not_null suite stopped 3 of 17 bad batches. Here is what got through.](https://dev.to/jigonyoo/a-unique-notnull-suite-stopped-3-of-17-bad-batches-here-is-what-got-through-3d8h)
-- [Same Swift Code, Different Binary: What Xcode, the iOS SDK, and iOS Actually Do](https://dev.to/kavearhasi_viswanathan/same-swift-code-different-binary-what-xcode-the-ios-sdk-and-ios-actually-do-5b42)
-- [Using ElevenLabs in Electron Desktop Apps](https://dev.to/voice_developer/using-elevenlabs-in-electron-desktop-apps-29b8)
-- [unlazy wants an agent&#39;s &quot;done&quot; backed by a gate that runs](https://dev.to/renolu/unlazy-wants-an-agents-done-backed-by-a-gate-that-runs-2h2)
+- [I Built a Live QuickBooks Integration in Spring Boot to Understand What Nango Actually Does](https://dev.to/abhishekdhnma/i-built-a-live-quickbooks-integration-in-spring-boot-to-understand-what-nango-actually-does-28bc)
+- [Interview Prep Buddy](https://dev.to/halfbloodcoder/interview-prep-buddy-1cn7)
+- [How to document webhooks in OpenAPI 3.1 &lpar;with signatures, retries, and examples&rpar;](https://dev.to/jeff_pdc/how-to-document-webhooks-in-openapi-31-with-signatures-retries-and-examples-49nm)
+- [SafePlate: Building an AI Allergy &amp; Histamine Recipe Agent &lpar;with Sentry Agent Tracing&rpar;](https://dev.to/amanmaurya92/safeplate-building-an-ai-allergy-histamine-recipe-agent-with-sentry-agent-tracing-5a8i)
+- [DOCX, PPTX, XLSX and EPUB all start with the same magic bytes — auto-detect means asking the ZIP what it is](https://dev.to/imapphelp/docx-pptx-xlsx-and-epub-all-start-with-the-same-magic-bytes-auto-detect-means-asking-the-zip-537o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
