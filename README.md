@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Live QuickBooks Integration in Spring Boot to Understand What Nango Actually Does](https://dev.to/abhishekdhnma/i-built-a-live-quickbooks-integration-in-spring-boot-to-understand-what-nango-actually-does-28bc)
-- [Interview Prep Buddy](https://dev.to/halfbloodcoder/interview-prep-buddy-1cn7)
-- [How to document webhooks in OpenAPI 3.1 &lpar;with signatures, retries, and examples&rpar;](https://dev.to/jeff_pdc/how-to-document-webhooks-in-openapi-31-with-signatures-retries-and-examples-49nm)
-- [SafePlate: Building an AI Allergy &amp; Histamine Recipe Agent &lpar;with Sentry Agent Tracing&rpar;](https://dev.to/amanmaurya92/safeplate-building-an-ai-allergy-histamine-recipe-agent-with-sentry-agent-tracing-5a8i)
-- [DOCX, PPTX, XLSX and EPUB all start with the same magic bytes — auto-detect means asking the ZIP what it is](https://dev.to/imapphelp/docx-pptx-xlsx-and-epub-all-start-with-the-same-magic-bytes-auto-detect-means-asking-the-zip-537o)
+- [How to Get Around AI Chat App Boundaries &lpar;and prevent it from happening&rpar;](https://dev.to/robinwinters/how-to-get-around-ai-chat-app-boundaries-and-prevent-it-from-happening-4hgf)
+- [PaidYet: for the friend who says “kal bhej dunga”](https://dev.to/prateek11rai/paidyet-for-the-friend-who-says-kal-bhej-dunga-p5l)
+- [The “Any Given Tuesday” Theory of AI Startups](https://dev.to/robinwinters/the-any-given-tuesday-theory-of-ai-startups-1341)
+- [What if Myspace Had It Right?](https://dev.to/robinwinters/what-if-myspace-had-it-right-30oh)
+- [Marigold: Hacktoberfest Weekend Challenge](https://dev.to/humayounbaig/marigold-hacktoberfest-weekend-challenge-1d7a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
