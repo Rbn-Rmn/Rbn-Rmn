@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Around AI Chat App Boundaries &lpar;and prevent it from happening&rpar;](https://dev.to/robinwinters/how-to-get-around-ai-chat-app-boundaries-and-prevent-it-from-happening-4hgf)
-- [PaidYet: for the friend who says “kal bhej dunga”](https://dev.to/prateek11rai/paidyet-for-the-friend-who-says-kal-bhej-dunga-p5l)
-- [The “Any Given Tuesday” Theory of AI Startups](https://dev.to/robinwinters/the-any-given-tuesday-theory-of-ai-startups-1341)
-- [What if Myspace Had It Right?](https://dev.to/robinwinters/what-if-myspace-had-it-right-30oh)
-- [Marigold: Hacktoberfest Weekend Challenge](https://dev.to/humayounbaig/marigold-hacktoberfest-weekend-challenge-1d7a)
+- [DAY1: Choosing to Be Wasteful---Writing a COW Filesystem from Scratch, Part 1](https://dev.to/faliye/day1-choosing-to-be-wasteful-writing-a-cow-filesystem-from-scratch-part-1-4jg7)
+- [Programming kya hai?](https://dev.to/csm18/programming-kya-hai-2pj9)
+- [Shopify Left React Native: 4 Questions Before You Follow](https://dev.to/kielltampubolon/shopify-left-react-native-4-questions-before-you-follow-4dkh)
+- [Management was never a promotion](https://dev.to/phpboyscout/management-was-never-a-promotion-1deh)
+- [Designing a 99.999% IoT Platform](https://dev.to/beefedai/designing-a-99999-iot-platform-1lf3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
