@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [DAY1: Choosing to Be Wasteful---Writing a COW Filesystem from Scratch, Part 1](https://dev.to/faliye/day1-choosing-to-be-wasteful-writing-a-cow-filesystem-from-scratch-part-1-4jg7)
-- [Programming kya hai?](https://dev.to/csm18/programming-kya-hai-2pj9)
-- [Shopify Left React Native: 4 Questions Before You Follow](https://dev.to/kielltampubolon/shopify-left-react-native-4-questions-before-you-follow-4dkh)
-- [Management was never a promotion](https://dev.to/phpboyscout/management-was-never-a-promotion-1deh)
-- [Designing a 99.999% IoT Platform](https://dev.to/beefedai/designing-a-99999-iot-platform-1lf3)
+- [Delegate a code review from Claude Code to Pi, then steer and follow up](https://dev.to/brian_ton_266b06ed56a5dc9/delegate-a-code-review-from-claude-code-to-pi-then-steer-and-follow-up-2ka6)
+- [Seedance 2.0: Hype, Hollywood Panic, and the Real Story](https://dev.to/dishant0406/seedance-20-hype-hollywood-panic-and-the-real-story-579p)
+- [Webhooks Are Notifications, Not Your Source of Truth](https://dev.to/parksontano/webhooks-are-notifications-not-your-source-of-truth-1fi7)
+- [MiniMax Launched a Free CLI Agent: Is the Hype Real?](https://dev.to/dishant0406/minimax-launched-a-free-cli-agent-is-the-hype-real-506c)
+- [What Google&#39;s TurboQuant Does and Why It Actually Matters](https://dev.to/dishant0406/what-googles-turboquant-does-and-why-it-actually-matters-54eg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
