@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Delegate a code review from Claude Code to Pi, then steer and follow up](https://dev.to/brian_ton_266b06ed56a5dc9/delegate-a-code-review-from-claude-code-to-pi-then-steer-and-follow-up-2ka6)
-- [Seedance 2.0: Hype, Hollywood Panic, and the Real Story](https://dev.to/dishant0406/seedance-20-hype-hollywood-panic-and-the-real-story-579p)
-- [Webhooks Are Notifications, Not Your Source of Truth](https://dev.to/parksontano/webhooks-are-notifications-not-your-source-of-truth-1fi7)
-- [MiniMax Launched a Free CLI Agent: Is the Hype Real?](https://dev.to/dishant0406/minimax-launched-a-free-cli-agent-is-the-hype-real-506c)
-- [What Google&#39;s TurboQuant Does and Why It Actually Matters](https://dev.to/dishant0406/what-googles-turboquant-does-and-why-it-actually-matters-54eg)
+- [Internal PageRank &amp; Link Architecture: Maximizing Crawl Budget Efficiency](https://dev.to/sameer_hassan/internal-pagerank-link-architecture-maximizing-crawl-budget-efficiency-3c51)
+- [Detection engineering for CVE-2026-100382: hunting the External Data web shell](https://dev.to/jeffreyciend/detection-engineering-for-cve-2026-100382-hunting-the-external-data-web-shell-3e2j)
+- [Trailhead: try the career path before you pick it](https://dev.to/yash_srivastava_fb22f859e/trailhead-try-the-career-path-before-you-pick-it-3i4d)
+- [Data Substrate Versus Vector Db Rag](https://dev.to/apexgridtech/data-substrate-versus-vector-db-rag-3312)
+- [AI agents and AWS spending limits: the 90-day deletion rule](https://dev.to/axrisi/ai-agents-and-aws-spending-limits-the-90-day-deletion-rule-8k3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
