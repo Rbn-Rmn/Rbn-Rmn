@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Internal PageRank &amp; Link Architecture: Maximizing Crawl Budget Efficiency](https://dev.to/sameer_hassan/internal-pagerank-link-architecture-maximizing-crawl-budget-efficiency-3c51)
-- [Detection engineering for CVE-2026-100382: hunting the External Data web shell](https://dev.to/jeffreyciend/detection-engineering-for-cve-2026-100382-hunting-the-external-data-web-shell-3e2j)
-- [Trailhead: try the career path before you pick it](https://dev.to/yash_srivastava_fb22f859e/trailhead-try-the-career-path-before-you-pick-it-3i4d)
-- [Data Substrate Versus Vector Db Rag](https://dev.to/apexgridtech/data-substrate-versus-vector-db-rag-3312)
-- [AI agents and AWS spending limits: the 90-day deletion rule](https://dev.to/axrisi/ai-agents-and-aws-spending-limits-the-90-day-deletion-rule-8k3)
+- [How to Build Risk Controls for a Polymarket Trading Bot](https://dev.to/dexoryn/how-to-build-risk-controls-for-a-polymarket-trading-bot-4520)
+- [Load, Stress, Spike and Soak: Four Performance Tests and What Each One Catches](https://dev.to/paulcrinigan/load-stress-spike-and-soak-four-performance-tests-and-what-each-one-catches-4g6l)
+- [My Friend Asked “What Should I Cook?” So I Built HostelChef](https://dev.to/tushar_31/my-friend-asked-what-should-i-cook-so-i-built-hostelchef-1i2m)
+- [StudyFlow — A Study App Built for My Friend Who Can&#39;t Focus](https://dev.to/snydermonk/studyflow-a-study-app-built-for-my-friend-who-cant-focus-5p0)
+- [AI Deepfake Defense: NJ Lt Gov Uses Synthetic Video to Deny Harassment](https://dev.to/chandan_kumar_1afaffcf991/ai-deepfake-defense-nj-lt-gov-uses-synthetic-video-to-deny-harassment-1b4a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
