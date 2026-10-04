@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Risk Controls for a Polymarket Trading Bot](https://dev.to/dexoryn/how-to-build-risk-controls-for-a-polymarket-trading-bot-4520)
-- [Load, Stress, Spike and Soak: Four Performance Tests and What Each One Catches](https://dev.to/paulcrinigan/load-stress-spike-and-soak-four-performance-tests-and-what-each-one-catches-4g6l)
-- [My Friend Asked “What Should I Cook?” So I Built HostelChef](https://dev.to/tushar_31/my-friend-asked-what-should-i-cook-so-i-built-hostelchef-1i2m)
-- [StudyFlow — A Study App Built for My Friend Who Can&#39;t Focus](https://dev.to/snydermonk/studyflow-a-study-app-built-for-my-friend-who-cant-focus-5p0)
-- [AI Deepfake Defense: NJ Lt Gov Uses Synthetic Video to Deny Harassment](https://dev.to/chandan_kumar_1afaffcf991/ai-deepfake-defense-nj-lt-gov-uses-synthetic-video-to-deny-harassment-1b4a)
+- [Clockwrit — every hour has a citation &lpar;an agent that knows what time it is, legally&rpar;](https://dev.to/rayyer/clockwrit-every-hour-has-a-citation-an-agent-that-knows-what-time-it-is-legally-5ee3)
+- [Jev Ultrafast: The Sub-10-Second Web Agent Architecture](https://dev.to/terminalchai/jev-ultrafast-the-sub-10-second-web-agent-architecture-1728)
+- [358 pull requests that changed tests: agents rarely weakened them. They bent the code instead.](https://dev.to/cherven/358-pull-requests-that-changed-tests-agents-rarely-weakened-them-they-bent-the-code-instead-3ld)
+- [10th K AI: I Built an AI Tutor for My Sister Who Was Stuck on Textbook Questions](https://dev.to/aditi_shetty_caaab207ff98/10th-k-ai-i-built-an-ai-tutor-for-my-sister-who-was-stuck-on-textbook-questions-40eb)
+- [DEV Challenge 1 Complete - StudyMate](https://dev.to/shourya_shinde_20/dev-challenge-1-complete-studymate-4al)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
