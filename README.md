@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a floating real-time dashboard for Ollama — live tokens/sec + built-in chat](https://dev.to/zainosta_zos_cfc6da6e9539/i-built-a-floating-real-time-dashboard-for-ollama-live-tokenssec-built-in-chat-54m3)
-- [I built a free connection manager that opens SSH, RDP, WinRM and a Mac&#39;s High Performance screen in one window](https://dev.to/bursug/i-built-a-free-connection-manager-that-opens-ssh-rdp-winrm-and-a-macs-high-performance-screen-in-58i8)
-- [47-Day TLS Certificates Are Coming: What Ops Teams Should Automate Now](https://dev.to/affix_centersoftechserv/47-day-tls-certificates-are-coming-what-ops-teams-should-automate-now-km2)
-- [Governance Attack Surface Review: Binance CEX](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-binance-cex-4e8o)
-- [We Built a Free QR Code Debugger &lpar;100% Client-Side&rpar;](https://dev.to/rahalune-qr-studio/we-built-a-free-qr-code-debugger-100-client-side-19d)
+- [CVE-2026-103921: CVE-2026-103921: TLS Certificate Validation Bypass in @graphql-tools/executor-legacy-ws](https://dev.to/cverports/cve-2026-103921-cve-2026-103921-tls-certificate-validation-bypass-in-428a)
+- [GMO Coin API in Python: HMAC signing, post-only limit orders, and the 4 errors that will bite you](https://dev.to/wataru_suda_d295dab9cca4f/gmo-coin-api-in-python-hmac-signing-post-only-limit-orders-and-the-4-errors-that-will-bite-you-5foe)
+- [The Vibe Coding Trap: Why AI Vendors Love Your Vague Prompts](https://dev.to/somemaru/the-vibe-coding-trap-why-ai-vendors-love-your-vague-prompts-39in)
+- [React Signup Tests Need a Run-Scoped Email Contract](https://dev.to/ryanlee91/react-signup-tests-need-a-run-scoped-email-contract-3cfg)
+- [Frontend Plus Backend Error Tracking: JavaScript and API Trace Correlation](https://dev.to/merrickvance8452/frontend-plus-backend-error-tracking-javascript-and-api-trace-correlation-36ep)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
