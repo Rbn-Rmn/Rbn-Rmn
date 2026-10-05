@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AU-PH Fair Work Compliance: A Founder&#39;s Quickstart](https://dev.to/devwithzach/au-ph-fair-work-compliance-a-founders-quickstart-449o)
-- [Cloudflare Tunnel 530 errors: the connector that was healthy and did nothing](https://dev.to/c1-anderson/cloudflare-tunnel-530-errors-the-connector-that-was-healthy-and-did-nothing-3817)
-- [Running a Multi-Repo Product with Parallel AI Agents &lpar;Claude Code&rpar;](https://dev.to/ahsanalidotme/running-a-multi-repo-product-with-parallel-ai-agents-claude-code-2ab4)
-- [A free Solana swap API for bots: quote, build, sign, execute](https://dev.to/ambolt/a-free-solana-swap-api-for-bots-quote-build-sign-execute-26h1)
-- [Comet and Atlas: why the AI browser bet is failing](https://dev.to/jay_elsheikh_59b14ad67922/comet-and-atlas-why-the-ai-browser-bet-is-failing-47l3)
+- [I Built a floating real-time dashboard for Ollama — live tokens/sec + built-in chat](https://dev.to/zainosta_zos_cfc6da6e9539/i-built-a-floating-real-time-dashboard-for-ollama-live-tokenssec-built-in-chat-54m3)
+- [I built a free connection manager that opens SSH, RDP, WinRM and a Mac&#39;s High Performance screen in one window](https://dev.to/bursug/i-built-a-free-connection-manager-that-opens-ssh-rdp-winrm-and-a-macs-high-performance-screen-in-58i8)
+- [47-Day TLS Certificates Are Coming: What Ops Teams Should Automate Now](https://dev.to/affix_centersoftechserv/47-day-tls-certificates-are-coming-what-ops-teams-should-automate-now-km2)
+- [Governance Attack Surface Review: Binance CEX](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-binance-cex-4e8o)
+- [We Built a Free QR Code Debugger &lpar;100% Client-Side&rpar;](https://dev.to/rahalune-qr-studio/we-built-a-free-qr-code-debugger-100-client-side-19d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
