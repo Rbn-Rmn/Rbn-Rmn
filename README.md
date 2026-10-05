@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Study Buddy: a retro AI study companion built for a friend 🎓](https://dev.to/someshcoding/study-buddy-a-retro-ai-study-companion-built-for-a-friend-fp7)
-- [I gave my text-to-SQL agent a business glossary. One version helped a lot, one did nothing.](https://dev.to/ashish_sinha_5241c7673d93/i-gave-my-text-to-sql-agent-a-business-glossary-one-version-helped-a-lot-one-did-nothing-2c9o)
-- [Research Reports Your Agent Writes Need Sources Before Sentences](https://dev.to/alapha888/research-reports-your-agent-writes-need-sources-before-sentences-2kp4)
-- [Study Buddy: a retro AI study companion built for a friend](https://dev.to/someshcoding/study-buddy-a-retro-ai-study-companion-built-for-a-friend-5dpa)
-- [I Built My Friend a Voice-First AI for Unfinished Thoughts](https://dev.to/kaustubh_05/i-built-my-friend-a-voice-first-ai-for-unfinished-thoughts-2dbn)
+- [AU-PH Fair Work Compliance: A Founder&#39;s Quickstart](https://dev.to/devwithzach/au-ph-fair-work-compliance-a-founders-quickstart-449o)
+- [Cloudflare Tunnel 530 errors: the connector that was healthy and did nothing](https://dev.to/c1-anderson/cloudflare-tunnel-530-errors-the-connector-that-was-healthy-and-did-nothing-3817)
+- [Running a Multi-Repo Product with Parallel AI Agents &lpar;Claude Code&rpar;](https://dev.to/ahsanalidotme/running-a-multi-repo-product-with-parallel-ai-agents-claude-code-2ab4)
+- [A free Solana swap API for bots: quote, build, sign, execute](https://dev.to/ambolt/a-free-solana-swap-api-for-bots-quote-build-sign-execute-26h1)
+- [Comet and Atlas: why the AI browser bet is failing](https://dev.to/jay_elsheikh_59b14ad67922/comet-and-atlas-why-the-ai-browser-bet-is-failing-47l3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
