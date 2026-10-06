@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-103921: CVE-2026-103921: TLS Certificate Validation Bypass in @graphql-tools/executor-legacy-ws](https://dev.to/cverports/cve-2026-103921-cve-2026-103921-tls-certificate-validation-bypass-in-428a)
-- [GMO Coin API in Python: HMAC signing, post-only limit orders, and the 4 errors that will bite you](https://dev.to/wataru_suda_d295dab9cca4f/gmo-coin-api-in-python-hmac-signing-post-only-limit-orders-and-the-4-errors-that-will-bite-you-5foe)
-- [The Vibe Coding Trap: Why AI Vendors Love Your Vague Prompts](https://dev.to/somemaru/the-vibe-coding-trap-why-ai-vendors-love-your-vague-prompts-39in)
-- [React Signup Tests Need a Run-Scoped Email Contract](https://dev.to/ryanlee91/react-signup-tests-need-a-run-scoped-email-contract-3cfg)
-- [Frontend Plus Backend Error Tracking: JavaScript and API Trace Correlation](https://dev.to/merrickvance8452/frontend-plus-backend-error-tracking-javascript-and-api-trace-correlation-36ep)
+- [Renewal Deadlines: Queue Redrive and Database Polling Retry Semantics](https://dev.to/crimsonwave9361502/renewal-deadlines-queue-redrive-and-database-polling-retry-semantics-48an)
+- [Managing Notion Databases as Code with notionctl](https://dev.to/mamoth_surfing_27ed94e147/managing-notion-databases-as-code-with-notionctl-2nln)
+- [KYC Should Not End at Onboarding: Designing Event-Driven Identity Reverification](https://dev.to/vaibhav_shakya_e6b352bfc4/kyc-should-not-end-at-onboarding-designing-event-driven-identity-reverification-2g75)
+- [Como aprendi Apache Spark: revisitando uma jornada pela Engenharia de Dados](https://dev.to/renanpyd/como-aprendi-apache-spark-revisitando-uma-jornada-pela-engenharia-de-dados-l5g)
+- [Your GitHub Actions Workflow Has More Power Than Most Developers Realize](https://dev.to/robertadam987_/your-github-actions-workflow-has-more-power-than-most-developers-realize-3l94)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
