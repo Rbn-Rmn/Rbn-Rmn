@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building AI-Powered Learning Systems: Why Context, Evaluation, and Human Oversight Matter More Than the Model](https://dev.to/naseem-education/building-ai-powered-learning-systems-why-context-evaluation-and-human-oversight-matter-more-than-g62)
-- [A Keyless Free Remote Jobs API: 340+ Live Listings, No Sign-Up, No Rate Limits](https://dev.to/earnnovadev/a-keyless-free-remote-jobs-api-340-live-listings-no-sign-up-no-rate-limits-310d)
-- [The Best HTML Architecture Starts by Deciding What JavaScript Should Never Touch](https://dev.to/ortizfranklindev/the-best-html-architecture-starts-by-deciding-what-javascript-should-never-touch-51ng)
-- [CF7 to Custom REST API Returning 415 Unsupported Media Type: A Complete Troubleshooting Guide](https://dev.to/rahul_sharma_15bd129bc69e/cf7-to-custom-rest-api-returning-415-unsupported-media-type-a-complete-troubleshooting-guide-267n)
-- [Non-deterministic agents in deterministic workflows: the state-machine pattern that makes multi-agent systems traceable](https://dev.to/alex_aslam/non-deterministic-agents-in-deterministic-workflows-the-state-machine-pattern-that-makes-53go)
+- [So sánh Nano Banana 2.1, Nano Banana 2 và Nano Banana Pro: Nên chọn phiên bản nào?](https://dev.to/sebbasstian/so-sanh-nano-banana-21-nano-banana-2-va-nano-banana-pro-nen-chon-phien-ban-nao-303h)
+- [What &quot;add a new scheme without changing the code&quot; really means](https://dev.to/gavriliucvlada/what-add-a-new-scheme-without-changing-the-code-really-means-72h)
+- [مقارنة نانو بنانا 2.1 ونانو بنانا 2 ونانو بنانا برو: دليلك للاختيار](https://dev.to/yusuf_khalidd/mqrn-nnw-bnn-21-wnnw-bnn-2-wnnw-bnn-brw-dlylk-llkhtyr-jjn)
+- [Dynamic Programming Demystified: From Memoization to Tabulation and Space Optimization](https://dev.to/devanshu_patil/dynamic-programming-demystified-from-memoization-to-tabulation-and-space-optimization-a66)
+- [Your AI Coding Agent Forgets Everything. I Fixed It With a Local MCP Memory Server](https://dev.to/awarenesscloud/your-ai-coding-agent-forgets-everything-i-fixed-it-with-a-local-mcp-memory-server-51a4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
