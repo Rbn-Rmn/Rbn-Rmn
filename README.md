@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Renewal Deadlines: Queue Redrive and Database Polling Retry Semantics](https://dev.to/crimsonwave9361502/renewal-deadlines-queue-redrive-and-database-polling-retry-semantics-48an)
-- [Managing Notion Databases as Code with notionctl](https://dev.to/mamoth_surfing_27ed94e147/managing-notion-databases-as-code-with-notionctl-2nln)
-- [KYC Should Not End at Onboarding: Designing Event-Driven Identity Reverification](https://dev.to/vaibhav_shakya_e6b352bfc4/kyc-should-not-end-at-onboarding-designing-event-driven-identity-reverification-2g75)
-- [Como aprendi Apache Spark: revisitando uma jornada pela Engenharia de Dados](https://dev.to/renanpyd/como-aprendi-apache-spark-revisitando-uma-jornada-pela-engenharia-de-dados-l5g)
-- [Your GitHub Actions Workflow Has More Power Than Most Developers Realize](https://dev.to/robertadam987_/your-github-actions-workflow-has-more-power-than-most-developers-realize-3l94)
+- [Building AI-Powered Learning Systems: Why Context, Evaluation, and Human Oversight Matter More Than the Model](https://dev.to/naseem-education/building-ai-powered-learning-systems-why-context-evaluation-and-human-oversight-matter-more-than-g62)
+- [A Keyless Free Remote Jobs API: 340+ Live Listings, No Sign-Up, No Rate Limits](https://dev.to/earnnovadev/a-keyless-free-remote-jobs-api-340-live-listings-no-sign-up-no-rate-limits-310d)
+- [The Best HTML Architecture Starts by Deciding What JavaScript Should Never Touch](https://dev.to/ortizfranklindev/the-best-html-architecture-starts-by-deciding-what-javascript-should-never-touch-51ng)
+- [CF7 to Custom REST API Returning 415 Unsupported Media Type: A Complete Troubleshooting Guide](https://dev.to/rahul_sharma_15bd129bc69e/cf7-to-custom-rest-api-returning-415-unsupported-media-type-a-complete-troubleshooting-guide-267n)
+- [Non-deterministic agents in deterministic workflows: the state-machine pattern that makes multi-agent systems traceable](https://dev.to/alex_aslam/non-deterministic-agents-in-deterministic-workflows-the-state-machine-pattern-that-makes-53go)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
