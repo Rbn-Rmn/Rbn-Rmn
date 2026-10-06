@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [So sánh Nano Banana 2.1, Nano Banana 2 và Nano Banana Pro: Nên chọn phiên bản nào?](https://dev.to/sebbasstian/so-sanh-nano-banana-21-nano-banana-2-va-nano-banana-pro-nen-chon-phien-ban-nao-303h)
-- [What &quot;add a new scheme without changing the code&quot; really means](https://dev.to/gavriliucvlada/what-add-a-new-scheme-without-changing-the-code-really-means-72h)
-- [مقارنة نانو بنانا 2.1 ونانو بنانا 2 ونانو بنانا برو: دليلك للاختيار](https://dev.to/yusuf_khalidd/mqrn-nnw-bnn-21-wnnw-bnn-2-wnnw-bnn-brw-dlylk-llkhtyr-jjn)
-- [Dynamic Programming Demystified: From Memoization to Tabulation and Space Optimization](https://dev.to/devanshu_patil/dynamic-programming-demystified-from-memoization-to-tabulation-and-space-optimization-a66)
-- [Your AI Coding Agent Forgets Everything. I Fixed It With a Local MCP Memory Server](https://dev.to/awarenesscloud/your-ai-coding-agent-forgets-everything-i-fixed-it-with-a-local-mcp-memory-server-51a4)
+- [Poverty Inspired Me to Fix a &#39;Wine Can&#39;t Do This&#39; Timeout](https://dev.to/bluetheenigma/poverty-inspired-me-to-fix-a-wine-cant-do-this-timeout-2p45)
+- [React Native OTA Is a Release Pipeline, Not a Download Feature](https://dev.to/gfean/react-native-ota-is-a-release-pipeline-not-a-download-feature-3bo8)
+- [Native Quantization: Let OpenSearch Service Compress Your Vectors](https://dev.to/jon_handler_9bb3e6b4a2fd0/native-quantization-let-opensearch-service-compress-your-vectors-50e7)
+- [🌲 TrailBird AI — Zero-Signal Open-Source Bird Identifier for Wilderness Trails](https://dev.to/satanic47/trailbird-ai-zero-signal-open-source-bird-identifier-for-wilderness-trails-3if4)
+- [How AI Search Engines Choose Sources: A 2026 Guide for Bloggers](https://dev.to/rashid_1371911653467f5ff2/how-ai-search-engines-choose-sources-a-2026-guide-for-bloggers-1o1l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
