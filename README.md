@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Safely Running AI-Generated Code in Node.js: `vm` vs `worker_threads` vs V8 Isolates](https://dev.to/mindinu/safely-running-ai-generated-code-in-nodejs-vm-vs-workerthreads-vs-v8-isolates-2im9)
-- [Whether what AI generates is clean code or garbage, CEOs aren&#39;t accountable for it. We still are.](https://dev.to/canro91/whether-what-ai-generates-is-clean-code-or-garbage-ceos-arent-accountable-for-it-we-still-are-4430)
-- [Submission: Hacktoberfest Open-Source AI Challenge Week 1 &lpar;Touch Grass&rpar;](https://dev.to/shriraj888/submission-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-1n28)
-- [pip Cache How to Clear It on Windows](https://dev.to/am_tank_67c74e70efc6bd23b/pip-cache-how-to-clear-it-on-windows-2ekg)
-- [pytrends is archived: how I pull Google Trends data in Python now](https://dev.to/alfhar/pytrends-is-archived-how-i-pull-google-trends-data-in-python-now-1hcp)
+- [TouchGrass AI: An Open-Source AI Outdoor Mission Planner](https://dev.to/pravin_kumar_06/touchgrass-ai-an-open-source-ai-outdoor-mission-planner-50n6)
+- [Express.js Production Health Check Endpoints: Node.js Readiness, Liveness, and 5xx Monitoring](https://dev.to/vespasianblack3884/expressjs-production-health-check-endpoints-nodejs-readiness-liveness-and-5xx-monitoring-ema)
+- [Best SEO Practices for Getting Named in AI Answers](https://dev.to/lumirankai/best-seo-practices-for-getting-named-in-ai-answers-2150)
+- [I built a Chrome extension for screen recording with automatic mouse zoom](https://dev.to/carlos_dmoronc/i-built-a-chrome-extension-for-screen-recording-with-automatic-mouse-zoom-1hbh)
+- [OutBound AI: The Open-Source Recommender That Powers Offline Living](https://dev.to/priyanshubh/outbound-ai-the-open-source-recommender-that-powers-offline-living-24b0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
