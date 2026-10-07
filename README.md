@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Poverty Inspired Me to Fix a &#39;Wine Can&#39;t Do This&#39; Timeout](https://dev.to/bluetheenigma/poverty-inspired-me-to-fix-a-wine-cant-do-this-timeout-2p45)
-- [React Native OTA Is a Release Pipeline, Not a Download Feature](https://dev.to/gfean/react-native-ota-is-a-release-pipeline-not-a-download-feature-3bo8)
-- [Native Quantization: Let OpenSearch Service Compress Your Vectors](https://dev.to/jon_handler_9bb3e6b4a2fd0/native-quantization-let-opensearch-service-compress-your-vectors-50e7)
-- [🌲 TrailBird AI — Zero-Signal Open-Source Bird Identifier for Wilderness Trails](https://dev.to/satanic47/trailbird-ai-zero-signal-open-source-bird-identifier-for-wilderness-trails-3if4)
-- [How AI Search Engines Choose Sources: A 2026 Guide for Bloggers](https://dev.to/rashid_1371911653467f5ff2/how-ai-search-engines-choose-sources-a-2026-guide-for-bloggers-1o1l)
+- [Telemetry that asks first](https://dev.to/phpboyscout/telemetry-that-asks-first-3pjj)
+- [Day 6: Data Preprocessing — Cleaning the Messy Reality of Enterprise Data](https://dev.to/suresh_kumar_de3920bedd1c/day-6-data-preprocessing-cleaning-the-messy-reality-of-enterprise-data-39kn)
+- [Compliance Evidence for SMS OTP Login Polling Status When Provider Webhooks Are Missing](https://dev.to/dorianvale91583/compliance-evidence-for-sms-otp-login-polling-status-when-provider-webhooks-are-missing-2ob4)
+- [Nobody Reads Your Notifications. That Is an Architecture Problem.](https://dev.to/informat/nobody-reads-your-notifications-that-is-an-architecture-problem-59fi)
+- [Finding WordPress Click2Shell Exposure Starts With Knowing Where WordPress Runs](https://dev.to/onaeiuspkz/finding-wordpress-click2shell-exposure-starts-with-knowing-where-wordpress-runs-2kpb)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
