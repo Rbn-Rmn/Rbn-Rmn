@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Telemetry that asks first](https://dev.to/phpboyscout/telemetry-that-asks-first-3pjj)
-- [Day 6: Data Preprocessing — Cleaning the Messy Reality of Enterprise Data](https://dev.to/suresh_kumar_de3920bedd1c/day-6-data-preprocessing-cleaning-the-messy-reality-of-enterprise-data-39kn)
-- [Compliance Evidence for SMS OTP Login Polling Status When Provider Webhooks Are Missing](https://dev.to/dorianvale91583/compliance-evidence-for-sms-otp-login-polling-status-when-provider-webhooks-are-missing-2ob4)
-- [Nobody Reads Your Notifications. That Is an Architecture Problem.](https://dev.to/informat/nobody-reads-your-notifications-that-is-an-architecture-problem-59fi)
-- [Finding WordPress Click2Shell Exposure Starts With Knowing Where WordPress Runs](https://dev.to/onaeiuspkz/finding-wordpress-click2shell-exposure-starts-with-knowing-where-wordpress-runs-2kpb)
+- [mealmate: a meal planner that can&#39;t serve my roommate their allergens](https://dev.to/lagnadeep_samal_2d1cca395/mealmate-a-meal-planner-that-cant-serve-my-roommate-their-allergens-2a75)
+- [What Your LangGraph Logs Miss When a Node Fails](https://dev.to/priyansh_singhal_5975e7d3/what-your-langgraph-logs-miss-when-a-node-fails-3l97)
+- [Retry, Backoff, and Jitter for NHTSA DecodeVinValues Without Thundering Herds](https://dev.to/vin_lookup_8dbd4710f77e9e/retry-backoff-and-jitter-for-nhtsa-decodevinvalues-without-thundering-herds-29n1)
+- [I Linted 14 Public AI SDK Repos. 12 Ship a Call With No Token Ceiling.](https://dev.to/ofri-peretz/i-linted-14-public-ai-sdk-repos-12-ship-a-call-with-no-token-ceiling-2349)
+- [RepoDNA v1.2.2](https://dev.to/sanskarin/repodna-v122-41af)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
