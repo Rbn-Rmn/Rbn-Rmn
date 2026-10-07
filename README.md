@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [mealmate: a meal planner that can&#39;t serve my roommate their allergens](https://dev.to/lagnadeep_samal_2d1cca395/mealmate-a-meal-planner-that-cant-serve-my-roommate-their-allergens-2a75)
-- [What Your LangGraph Logs Miss When a Node Fails](https://dev.to/priyansh_singhal_5975e7d3/what-your-langgraph-logs-miss-when-a-node-fails-3l97)
-- [Retry, Backoff, and Jitter for NHTSA DecodeVinValues Without Thundering Herds](https://dev.to/vin_lookup_8dbd4710f77e9e/retry-backoff-and-jitter-for-nhtsa-decodevinvalues-without-thundering-herds-29n1)
-- [I Linted 14 Public AI SDK Repos. 12 Ship a Call With No Token Ceiling.](https://dev.to/ofri-peretz/i-linted-14-public-ai-sdk-repos-12-ship-a-call-with-no-token-ceiling-2349)
-- [RepoDNA v1.2.2](https://dev.to/sanskarin/repodna-v122-41af)
+- [Safely Running AI-Generated Code in Node.js: `vm` vs `worker_threads` vs V8 Isolates](https://dev.to/mindinu/safely-running-ai-generated-code-in-nodejs-vm-vs-workerthreads-vs-v8-isolates-2im9)
+- [Whether what AI generates is clean code or garbage, CEOs aren&#39;t accountable for it. We still are.](https://dev.to/canro91/whether-what-ai-generates-is-clean-code-or-garbage-ceos-arent-accountable-for-it-we-still-are-4430)
+- [Submission: Hacktoberfest Open-Source AI Challenge Week 1 &lpar;Touch Grass&rpar;](https://dev.to/shriraj888/submission-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-1n28)
+- [pip Cache How to Clear It on Windows](https://dev.to/am_tank_67c74e70efc6bd23b/pip-cache-how-to-clear-it-on-windows-2ekg)
+- [pytrends is archived: how I pull Google Trends data in Python now](https://dev.to/alfhar/pytrends-is-archived-how-i-pull-google-trends-data-in-python-now-1hcp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
