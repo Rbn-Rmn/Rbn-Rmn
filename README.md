@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Node.js SMS Alerts API: How SaaS Apps Audit E-commerce Status Without Webhooks](https://dev.to/liamfoster1844/nodejs-sms-alerts-api-how-saas-apps-audit-e-commerce-status-without-webhooks-4144)
-- [Canary tokens are a detection control, and detection controls can be measured](https://dev.to/bianliang/canary-tokens-are-a-detection-control-and-detection-controls-can-be-measured-4iob)
-- [How to combine multiple Excel files with different columns into one fixed report, and check the totals](https://dev.to/duaerteam/how-to-combine-multiple-excel-files-with-different-columns-into-one-fixed-report-and-check-the-64m)
-- [فایلی که بازیابی کردید ممکن است یک شبح باشد: بررسی سلامت فقط از روی بایت‌ها](https://dev.to/istidaaf/fyly-khh-bzyby-khrdyd-mmkhn-st-ykh-shbh-bshd-brrsy-slmt-fqt-z-rwy-byth-27n7)
-- [الملف الذي استعدته قد يكون شبحاً: التحقق من السلامة من البايتات وحدها](https://dev.to/istidaaf/lmlf-ldhy-stdth-qd-ykwn-shbhan-lthqq-mn-lslm-mn-lbytt-whdh-maf)
+- [Everyone Is Talking About MCP. But Do We Even Need It When APIs Already Exist?](https://dev.to/yakhilesh/everyone-is-talking-about-mcp-but-do-we-even-need-it-when-apis-already-exist-2e4e)
+- [بنيتُ «مكتب الرسالة»: تطبيق ويب مجاني وبلا أي مكتبات لتنظيم رسالة الدكتوراه](https://dev.to/ahmedawe2026svg/bnytu-mktb-lrsl-ttbyq-wyb-mjny-wbl-y-mktbt-ltnzym-rsl-ldktwrh-3m6g)
+- [Can Android Run on a 64MB Device?](https://dev.to/pmaosofficial/can-android-run-on-a-64mb-device-481k)
+- [&quot;I Built an NDPA Audit Toolkit as a Cybersecurity Beginner, Here&#39;s What I Learned&quot;](https://dev.to/okeke_chukwuchebem_d9487b/i-built-an-ndpa-audit-toolkit-as-a-cybersecurity-beginner-heres-what-i-learned-4fkp)
+- [Monitoring a MikroTik router behind CGNAT without opening ports](https://dev.to/tanod/monitoring-a-mikrotik-router-behind-cgnat-without-opening-ports-24gb)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
