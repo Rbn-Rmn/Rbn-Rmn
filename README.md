@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [TouchGrass AI: An Open-Source AI Outdoor Mission Planner](https://dev.to/pravin_kumar_06/touchgrass-ai-an-open-source-ai-outdoor-mission-planner-50n6)
-- [Express.js Production Health Check Endpoints: Node.js Readiness, Liveness, and 5xx Monitoring](https://dev.to/vespasianblack3884/expressjs-production-health-check-endpoints-nodejs-readiness-liveness-and-5xx-monitoring-ema)
-- [Best SEO Practices for Getting Named in AI Answers](https://dev.to/lumirankai/best-seo-practices-for-getting-named-in-ai-answers-2150)
-- [I built a Chrome extension for screen recording with automatic mouse zoom](https://dev.to/carlos_dmoronc/i-built-a-chrome-extension-for-screen-recording-with-automatic-mouse-zoom-1hbh)
-- [OutBound AI: The Open-Source Recommender That Powers Offline Living](https://dev.to/priyanshubh/outbound-ai-the-open-source-recommender-that-powers-offline-living-24b0)
+- [Node.js SMS Alerts API: How SaaS Apps Audit E-commerce Status Without Webhooks](https://dev.to/liamfoster1844/nodejs-sms-alerts-api-how-saas-apps-audit-e-commerce-status-without-webhooks-4144)
+- [Canary tokens are a detection control, and detection controls can be measured](https://dev.to/bianliang/canary-tokens-are-a-detection-control-and-detection-controls-can-be-measured-4iob)
+- [How to combine multiple Excel files with different columns into one fixed report, and check the totals](https://dev.to/duaerteam/how-to-combine-multiple-excel-files-with-different-columns-into-one-fixed-report-and-check-the-64m)
+- [فایلی که بازیابی کردید ممکن است یک شبح باشد: بررسی سلامت فقط از روی بایت‌ها](https://dev.to/istidaaf/fyly-khh-bzyby-khrdyd-mmkhn-st-ykh-shbh-bshd-brrsy-slmt-fqt-z-rwy-byth-27n7)
+- [الملف الذي استعدته قد يكون شبحاً: التحقق من السلامة من البايتات وحدها](https://dev.to/istidaaf/lmlf-ldhy-stdth-qd-ykwn-shbhan-lthqq-mn-lslm-mn-lbytt-whdh-maf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
