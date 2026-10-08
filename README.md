@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Everyone Is Talking About MCP. But Do We Even Need It When APIs Already Exist?](https://dev.to/yakhilesh/everyone-is-talking-about-mcp-but-do-we-even-need-it-when-apis-already-exist-2e4e)
-- [بنيتُ «مكتب الرسالة»: تطبيق ويب مجاني وبلا أي مكتبات لتنظيم رسالة الدكتوراه](https://dev.to/ahmedawe2026svg/bnytu-mktb-lrsl-ttbyq-wyb-mjny-wbl-y-mktbt-ltnzym-rsl-ldktwrh-3m6g)
-- [Can Android Run on a 64MB Device?](https://dev.to/pmaosofficial/can-android-run-on-a-64mb-device-481k)
-- [&quot;I Built an NDPA Audit Toolkit as a Cybersecurity Beginner, Here&#39;s What I Learned&quot;](https://dev.to/okeke_chukwuchebem_d9487b/i-built-an-ndpa-audit-toolkit-as-a-cybersecurity-beginner-heres-what-i-learned-4fkp)
-- [Monitoring a MikroTik router behind CGNAT without opening ports](https://dev.to/tanod/monitoring-a-mikrotik-router-behind-cgnat-without-opening-ports-24gb)
+- [AI Recruiting Beyond Single-Language Boundaries](https://dev.to/sumaninster/ai-recruiting-beyond-single-language-boundaries-2ki)
+- [Real Estate CRM: Visualizing Your Pipeline in HomeNex](https://dev.to/sumaninster/real-estate-crm-visualizing-your-pipeline-in-homenex-3080)
+- [Nano Banana 2.1: Treat Image Edits Like Testable Specs](https://dev.to/drew_grant_7c81ce9e84426a/nano-banana-21-treat-image-edits-like-testable-specs-3do1)
+- [What I Learned Building and Testing Forex EAs in MQL5](https://dev.to/ozdemir1249/what-i-learned-building-and-testing-forex-eas-in-mql5-5fdo)
+- [29 of the 100 most-downloaded PyPI projects have a version that names two different code states](https://dev.to/luiz_fernandonunesdasi/29-of-the-100-most-downloaded-pypi-projects-have-a-version-that-names-two-different-code-states-fof)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
