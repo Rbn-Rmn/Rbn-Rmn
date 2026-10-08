@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI Recruiting Beyond Single-Language Boundaries](https://dev.to/sumaninster/ai-recruiting-beyond-single-language-boundaries-2ki)
-- [Real Estate CRM: Visualizing Your Pipeline in HomeNex](https://dev.to/sumaninster/real-estate-crm-visualizing-your-pipeline-in-homenex-3080)
-- [Nano Banana 2.1: Treat Image Edits Like Testable Specs](https://dev.to/drew_grant_7c81ce9e84426a/nano-banana-21-treat-image-edits-like-testable-specs-3do1)
-- [What I Learned Building and Testing Forex EAs in MQL5](https://dev.to/ozdemir1249/what-i-learned-building-and-testing-forex-eas-in-mql5-5fdo)
-- [29 of the 100 most-downloaded PyPI projects have a version that names two different code states](https://dev.to/luiz_fernandonunesdasi/29-of-the-100-most-downloaded-pypi-projects-have-a-version-that-names-two-different-code-states-fof)
+- [How to Build an AI‑Proof Crypto Bunker in 2024](https://dev.to/leojulieta/how-to-build-an-ai-proof-crypto-bunker-in-2024-4kdn)
+- [Crypto Bunker 2.0: protege tus cripto‑activos de la IA ahora](https://dev.to/leojulieta/crypto-bunker-20-protege-tus-cripto-activos-de-la-ia-ahora-35nf)
+- [Anthropic Wants to Protect Claude From Abuse. Does It Know Something We Don&#39;t?](https://dev.to/jalal246/anthropic-wants-to-protect-claude-from-abuse-does-it-know-something-we-dont-4d5i)
+- [We told Claude and Gemini to make our AI agent overspend. Here&#39;s what happened.](https://dev.to/quinn_854b15f517d8632ed4f/we-told-claude-and-gemini-to-make-our-ai-agent-overspend-heres-what-happened-2ne2)
+- [GPT-6.1 Sol Ultrafast Rolls Out Across the API, Codex and ChatGPT Work](https://dev.to/alifar/gpt-61-sol-ultrafast-rolls-out-across-the-api-codex-and-chatgpt-work-3emj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
