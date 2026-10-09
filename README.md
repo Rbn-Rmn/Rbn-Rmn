@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Write-Audit-Publish: Never Promote a Bad Table Again](https://dev.to/vaishnavprabhu/write-audit-publish-never-promote-a-bad-table-again-94i)
-- [I thought rate limiting was a solved problem. Then my AI agents hit production](https://dev.to/vladimir_konov_8290a075f6/i-thought-rate-limiting-was-a-solved-problem-then-my-ai-agents-hit-production-49im)
-- [256-colour PNGs can keep soft shadows. tRNS shows whether yours did](https://dev.to/iterandum/256-colour-pngs-can-keep-soft-shadows-trns-shows-whether-yours-did-3j5o)
-- [What It Means to Use a Fly’s Neural Wiring](https://dev.to/trknhr/what-it-means-to-use-a-flys-neural-wiring-1abj)
-- [Turning an SEO audit into tasks your AI coding agent can actually fix &lpar;Claude Code, Cursor, Codex&rpar;](https://dev.to/siteory/turning-an-seo-audit-into-tasks-your-ai-coding-agent-can-actually-fix-claude-code-cursor-codex-386j)
+- [Keep the Stub Gate Before Generated Workers Send Live Traffic](https://dev.to/codehub_1304/keep-the-stub-gate-before-generated-workers-send-live-traffic-3o6e)
+- [Somewhere between a friend and a stranger](https://dev.to/raf_keustermans/somewhere-between-a-friend-and-a-stranger-1hn1)
+- [How to Add Geofencing to an Ionic App](https://dev.to/capawesome/how-to-add-geofencing-to-an-ionic-app-1ca1)
+- [OpenAI and Hugging Face - Autonomous Agents, Infrastructure Breaches, and Legal Accountability](https://dev.to/isaac29/openai-and-hugging-face-autonomous-agents-infrastructure-breaches-and-legal-accountability-4ff4)
+- [The Front Door You Forgot You Built: What These 5 REST API Hooks Actually Gate &lpar;4wp.dev Hooks Series&rpar;](https://dev.to/adovgun/the-front-door-you-forgot-you-built-what-these-5-rest-api-hooks-actually-gate-4wpdev-hooks-47j0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
