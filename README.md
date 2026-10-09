@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI‑Proof Crypto Bunker in 2024](https://dev.to/leojulieta/how-to-build-an-ai-proof-crypto-bunker-in-2024-4kdn)
-- [Crypto Bunker 2.0: protege tus cripto‑activos de la IA ahora](https://dev.to/leojulieta/crypto-bunker-20-protege-tus-cripto-activos-de-la-ia-ahora-35nf)
-- [Anthropic Wants to Protect Claude From Abuse. Does It Know Something We Don&#39;t?](https://dev.to/jalal246/anthropic-wants-to-protect-claude-from-abuse-does-it-know-something-we-dont-4d5i)
-- [We told Claude and Gemini to make our AI agent overspend. Here&#39;s what happened.](https://dev.to/quinn_854b15f517d8632ed4f/we-told-claude-and-gemini-to-make-our-ai-agent-overspend-heres-what-happened-2ne2)
-- [GPT-6.1 Sol Ultrafast Rolls Out Across the API, Codex and ChatGPT Work](https://dev.to/alifar/gpt-61-sol-ultrafast-rolls-out-across-the-api-codex-and-chatgpt-work-3emj)
+- [I Compared 7 AI Search Visibility Tools &lpar;With Real Pricing&rpar;. Here&#39;s the Honest Breakdown](https://dev.to/reacherwu/i-compared-7-ai-search-visibility-tools-with-real-pricing-heres-the-honest-breakdown-13cc)
+- [MATCHBOIL: UAC-0099 Targets Ukrainian Organizations with Two-Minute C2 Polling and Sandbox Evasion](https://dev.to/anoymask/matchboil-uac-0099-targets-ukrainian-organizations-with-two-minute-c2-polling-and-sandbox-evasion-2mo6)
+- [Your Asset List Needs a Jurisdiction Column: Modeling ESMA&#39;s Exit-Only Stablecoin Rules](https://dev.to/nefiswap/your-asset-list-needs-a-jurisdiction-column-modeling-esmas-exit-only-stablecoin-rules-37hm)
+- [There&#39;s no fall foliage in Phnom Penh, so I built an offline AI that sends me out to flip buckets](https://dev.to/chintey/theres-no-fall-foliage-in-phnom-penh-so-i-built-an-offline-ai-that-sends-me-out-to-flip-buckets-m22)
+- [Who decides if the work is good? Verdikta&#39;s AI jury vs freelance platforms vs maintainer review](https://dev.to/drdz23/who-decides-if-the-work-is-good-verdiktas-ai-jury-vs-freelance-platforms-vs-maintainer-review-14ih)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
