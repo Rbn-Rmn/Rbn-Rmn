@@ -133,11 +133,12 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Keep the Stub Gate Before Generated Workers Send Live Traffic](https://dev.to/codehub_1304/keep-the-stub-gate-before-generated-workers-send-live-traffic-3o6e)
-- [Somewhere between a friend and a stranger](https://dev.to/raf_keustermans/somewhere-between-a-friend-and-a-stranger-1hn1)
-- [How to Add Geofencing to an Ionic App](https://dev.to/capawesome/how-to-add-geofencing-to-an-ionic-app-1ca1)
-- [OpenAI and Hugging Face - Autonomous Agents, Infrastructure Breaches, and Legal Accountability](https://dev.to/isaac29/openai-and-hugging-face-autonomous-agents-infrastructure-breaches-and-legal-accountability-4ff4)
-- [The Front Door You Forgot You Built: What These 5 REST API Hooks Actually Gate &lpar;4wp.dev Hooks Series&rpar;](https://dev.to/adovgun/the-front-door-you-forgot-you-built-what-these-5-rest-api-hooks-actually-gate-4wpdev-hooks-47j0)
+- [Your agent&#39;s worst query is read-only](https://dev.to/mudit_builds/your-agents-worst-query-is-read-only-4n0j)
+- [Building an AI Smart Contract Auditor with Persistent On-Chain Memory &lpar;Groq + Walrus Protocol&rpar;
+ Hey everyone! I wanted to share a quick project write-up on VaultWalrus AI, an AI-powered smart contract security auditor designed to maintain per](https://dev.to/uzorofdefi/building-an-ai-smart-contract-auditor-with-persistent-on-chain-memory-groq-walrus-protocol-32ie)
+- [Touch Grass with Canopy: The Sovereign Offline-First AI Backcountry Guardian &amp; 3D Topo Explorer](https://dev.to/shruti_rai_cb7102efede254/touch-grass-with-canopy-the-sovereign-offline-first-ai-backcountry-guardian-3d-topo-explorer-e91)
+- [The film &quot;Gods Don&#39;t Give Gifts&quot; was made entirely with artificial intelligence and is released in theaters in December](https://dev.to/hacksgr/the-film-gods-dont-give-gifts-was-made-entirely-with-artificial-intelligence-and-is-released-in-4can)
+- [AI is the .com boom maybe bigger :&rpar;](https://dev.to/alejandro356bce/ai-is-the-com-boom-maybe-bigger--2pbb)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
