@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Compared 7 AI Search Visibility Tools &lpar;With Real Pricing&rpar;. Here&#39;s the Honest Breakdown](https://dev.to/reacherwu/i-compared-7-ai-search-visibility-tools-with-real-pricing-heres-the-honest-breakdown-13cc)
-- [MATCHBOIL: UAC-0099 Targets Ukrainian Organizations with Two-Minute C2 Polling and Sandbox Evasion](https://dev.to/anoymask/matchboil-uac-0099-targets-ukrainian-organizations-with-two-minute-c2-polling-and-sandbox-evasion-2mo6)
-- [Your Asset List Needs a Jurisdiction Column: Modeling ESMA&#39;s Exit-Only Stablecoin Rules](https://dev.to/nefiswap/your-asset-list-needs-a-jurisdiction-column-modeling-esmas-exit-only-stablecoin-rules-37hm)
-- [There&#39;s no fall foliage in Phnom Penh, so I built an offline AI that sends me out to flip buckets](https://dev.to/chintey/theres-no-fall-foliage-in-phnom-penh-so-i-built-an-offline-ai-that-sends-me-out-to-flip-buckets-m22)
-- [Who decides if the work is good? Verdikta&#39;s AI jury vs freelance platforms vs maintainer review](https://dev.to/drdz23/who-decides-if-the-work-is-good-verdiktas-ai-jury-vs-freelance-platforms-vs-maintainer-review-14ih)
+- [Write-Audit-Publish: Never Promote a Bad Table Again](https://dev.to/vaishnavprabhu/write-audit-publish-never-promote-a-bad-table-again-94i)
+- [I thought rate limiting was a solved problem. Then my AI agents hit production](https://dev.to/vladimir_konov_8290a075f6/i-thought-rate-limiting-was-a-solved-problem-then-my-ai-agents-hit-production-49im)
+- [256-colour PNGs can keep soft shadows. tRNS shows whether yours did](https://dev.to/iterandum/256-colour-pngs-can-keep-soft-shadows-trns-shows-whether-yours-did-3j5o)
+- [What It Means to Use a Fly’s Neural Wiring](https://dev.to/trknhr/what-it-means-to-use-a-flys-neural-wiring-1abj)
+- [Turning an SEO audit into tasks your AI coding agent can actually fix &lpar;Claude Code, Cursor, Codex&rpar;](https://dev.to/siteory/turning-an-seo-audit-into-tasks-your-ai-coding-agent-can-actually-fix-claude-code-cursor-codex-386j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
