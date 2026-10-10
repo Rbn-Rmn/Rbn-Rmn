@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [SchemaLinter-OneShot: Building a CLI Tool for Forcing LLM JSON Schema Validation and Self-Healing](https://dev.to/toai/schemalinter-oneshot-building-a-cli-tool-for-forcing-llm-json-schema-validation-and-self-healing-3gla)
-- [Reading Technical Specifications, BOMs, and Design Documentation for Software Engineers](https://dev.to/said_olano/reading-technical-specifications-boms-and-design-documentation-for-software-engineers-1i7i)
-- [Internal certificate authorities fail on lifecycle, not on cryptography](https://dev.to/stark_zhuang_df5076f35c68/internal-certificate-authorities-fail-on-lifecycle-not-on-cryptography-27ac)
-- [3 MCP servers I actually use daily &lpar;and how to set them up&rpar;](https://dev.to/grahamduescn/3-mcp-servers-i-actually-use-daily-and-how-to-set-them-up-2eb9)
-- [How I put a physics-simulated cloth rug on my Mac desktop](https://dev.to/artemkx/how-i-put-a-physics-simulated-cloth-rug-on-my-mac-desktop-14mm)
+- [Speech-to-text and text-to-speech on Yandex SpeechKit from one Python stdlib file](https://dev.to/bowhard/speech-to-text-and-text-to-speech-on-yandex-speechkit-from-one-python-stdlib-file-24b9)
+- [Secure an MCP Server for Production with theAuth](https://dev.to/thegdsks/secure-an-mcp-server-for-production-with-theauth-1l2b)
+- [Is Testim Still Worth the Price in 2026?](https://dev.to/sleepyfalcon247/is-testim-still-worth-the-price-in-2026-4ijj)
+- [Stop approving every command: put your AI agent in a container](https://dev.to/edgestorage1/stop-approving-every-command-put-your-ai-agent-in-a-container-5bib)
+- [Introducing Veilus: Your First Hour, From Install to a Scheduled Script](https://dev.to/veilus_browser/introducing-veilus-your-first-hour-from-install-to-a-scheduled-script-46al)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
