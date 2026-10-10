@@ -133,12 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Your agent&#39;s worst query is read-only](https://dev.to/mudit_builds/your-agents-worst-query-is-read-only-4n0j)
-- [Building an AI Smart Contract Auditor with Persistent On-Chain Memory &lpar;Groq + Walrus Protocol&rpar;
- Hey everyone! I wanted to share a quick project write-up on VaultWalrus AI, an AI-powered smart contract security auditor designed to maintain per](https://dev.to/uzorofdefi/building-an-ai-smart-contract-auditor-with-persistent-on-chain-memory-groq-walrus-protocol-32ie)
-- [Touch Grass with Canopy: The Sovereign Offline-First AI Backcountry Guardian &amp; 3D Topo Explorer](https://dev.to/shruti_rai_cb7102efede254/touch-grass-with-canopy-the-sovereign-offline-first-ai-backcountry-guardian-3d-topo-explorer-e91)
-- [The film &quot;Gods Don&#39;t Give Gifts&quot; was made entirely with artificial intelligence and is released in theaters in December](https://dev.to/hacksgr/the-film-gods-dont-give-gifts-was-made-entirely-with-artificial-intelligence-and-is-released-in-4can)
-- [AI is the .com boom maybe bigger :&rpar;](https://dev.to/alejandro356bce/ai-is-the-com-boom-maybe-bigger--2pbb)
+- [Ask the agent, don&#39;t read the screen](https://dev.to/morten_pradsgaard_5bfde55/ask-the-agent-dont-read-the-screen-42j8)
+- [🛠️ Building Multi-Source Log Ingestion for an AI DevOps Incident Copilot](https://dev.to/richard_atodo/building-multi-source-log-ingestion-for-an-ai-devops-incident-copilot-2ffa)
+- [What&#39;s new in unify 0.9 to 0.11](https://dev.to/fwdslsh/whats-new-in-unify-09-to-011-ecm)
+- [A model leaderboard wasn&#39;t enough. We kept the ledger.](https://dev.to/fwdslsh/a-model-leaderboard-wasnt-enough-we-kept-the-ledger-8fp)
+- [How this site is built](https://dev.to/fwdslsh/how-this-site-is-built-2pnk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
