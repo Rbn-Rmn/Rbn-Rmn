@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Memory Is Not Proof](https://dev.to/paifamily/memory-is-not-proof-4hk3)
-- [Butterflies don&#39;t take weekends off: 40,000 Pune sightings and a forecast that fell apart when I removed one column](https://dev.to/codersacademy006/butterflies-dont-take-weekends-off-40000-pune-sightings-and-a-forecast-that-fell-apart-when-i-1g4)
-- [Before an AI agent acts, show me what it can change](https://dev.to/katsudo/before-an-ai-agent-acts-show-me-what-it-can-change-515h)
-- [How to QA a translation in a language you can&#39;t read](https://dev.to/akmalurunboev/how-to-qa-a-translation-in-a-language-you-cant-read-4jji)
-- [My $0 Coding Workflow: Free Tools That Replaced Paid Subscriptions](https://dev.to/effessdev/my-0-coding-workflow-free-tools-that-replaced-paid-subscriptions-3pfc)
+- [WebBridge for Agents - Multi-Profile Chrome Browser Automation &amp; MCP Server for AI Agents &lpar;agent-webbridge&rpar;](https://dev.to/jeet_dhandha_3c9b0d80399a/webbridge-for-agents-multi-profile-chrome-browser-automation-mcp-server-for-ai-agents-36ni)
+- [Tailscale vs WireGuard vs Cloudflare Zero Trust in 2026](https://dev.to/guang_diyuzhi_74b0fec2c09/tailscale-vs-wireguard-vs-cloudflare-zero-trust-in-2026-l38)
+- [The Matrix of Tree Traversals: Recursive vs Iterative](https://dev.to/timevolt/the-matrix-of-tree-traversals-recursive-vs-iterative-hjl)
+- [I&#39;m tracking what AI engines recommend for AI search visibility — in public, updated weekly](https://dev.to/reacherwu/im-tracking-what-ai-engines-recommend-for-ai-search-visibility-in-public-updated-weekly-nhb)
+- [Check any site&#39;s Domain Rating free, from the browser or a curl one-liner](https://dev.to/simran_kaur_9eda1e242c31f/check-any-sites-domain-rating-free-from-the-browser-or-a-curl-one-liner-38ca)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
