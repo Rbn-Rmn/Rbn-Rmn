@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [WebBridge for Agents - Multi-Profile Chrome Browser Automation &amp; MCP Server for AI Agents &lpar;agent-webbridge&rpar;](https://dev.to/jeet_dhandha_3c9b0d80399a/webbridge-for-agents-multi-profile-chrome-browser-automation-mcp-server-for-ai-agents-36ni)
-- [Tailscale vs WireGuard vs Cloudflare Zero Trust in 2026](https://dev.to/guang_diyuzhi_74b0fec2c09/tailscale-vs-wireguard-vs-cloudflare-zero-trust-in-2026-l38)
-- [The Matrix of Tree Traversals: Recursive vs Iterative](https://dev.to/timevolt/the-matrix-of-tree-traversals-recursive-vs-iterative-hjl)
-- [I&#39;m tracking what AI engines recommend for AI search visibility — in public, updated weekly](https://dev.to/reacherwu/im-tracking-what-ai-engines-recommend-for-ai-search-visibility-in-public-updated-weekly-nhb)
-- [Check any site&#39;s Domain Rating free, from the browser or a curl one-liner](https://dev.to/simran_kaur_9eda1e242c31f/check-any-sites-domain-rating-free-from-the-browser-or-a-curl-one-liner-38ca)
+- [SchemaLinter-OneShot: Building a CLI Tool for Forcing LLM JSON Schema Validation and Self-Healing](https://dev.to/toai/schemalinter-oneshot-building-a-cli-tool-for-forcing-llm-json-schema-validation-and-self-healing-3gla)
+- [Reading Technical Specifications, BOMs, and Design Documentation for Software Engineers](https://dev.to/said_olano/reading-technical-specifications-boms-and-design-documentation-for-software-engineers-1i7i)
+- [Internal certificate authorities fail on lifecycle, not on cryptography](https://dev.to/stark_zhuang_df5076f35c68/internal-certificate-authorities-fail-on-lifecycle-not-on-cryptography-27ac)
+- [3 MCP servers I actually use daily &lpar;and how to set them up&rpar;](https://dev.to/grahamduescn/3-mcp-servers-i-actually-use-daily-and-how-to-set-them-up-2eb9)
+- [How I put a physics-simulated cloth rug on my Mac desktop](https://dev.to/artemkx/how-i-put-a-physics-simulated-cloth-rug-on-my-mac-desktop-14mm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
