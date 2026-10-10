@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Ask the agent, don&#39;t read the screen](https://dev.to/morten_pradsgaard_5bfde55/ask-the-agent-dont-read-the-screen-42j8)
-- [🛠️ Building Multi-Source Log Ingestion for an AI DevOps Incident Copilot](https://dev.to/richard_atodo/building-multi-source-log-ingestion-for-an-ai-devops-incident-copilot-2ffa)
-- [What&#39;s new in unify 0.9 to 0.11](https://dev.to/fwdslsh/whats-new-in-unify-09-to-011-ecm)
-- [A model leaderboard wasn&#39;t enough. We kept the ledger.](https://dev.to/fwdslsh/a-model-leaderboard-wasnt-enough-we-kept-the-ledger-8fp)
-- [How this site is built](https://dev.to/fwdslsh/how-this-site-is-built-2pnk)
+- [Memory Is Not Proof](https://dev.to/paifamily/memory-is-not-proof-4hk3)
+- [Butterflies don&#39;t take weekends off: 40,000 Pune sightings and a forecast that fell apart when I removed one column](https://dev.to/codersacademy006/butterflies-dont-take-weekends-off-40000-pune-sightings-and-a-forecast-that-fell-apart-when-i-1g4)
+- [Before an AI agent acts, show me what it can change](https://dev.to/katsudo/before-an-ai-agent-acts-show-me-what-it-can-change-515h)
+- [How to QA a translation in a language you can&#39;t read](https://dev.to/akmalurunboev/how-to-qa-a-translation-in-a-language-you-cant-read-4jji)
+- [My $0 Coding Workflow: Free Tools That Replaced Paid Subscriptions](https://dev.to/effessdev/my-0-coding-workflow-free-tools-that-replaced-paid-subscriptions-3pfc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
