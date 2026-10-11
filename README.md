@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I built a free congressional stock-trade tracker from public filings](https://dev.to/davidhanz/how-i-built-a-free-congressional-stock-trade-tracker-from-public-filings-1n53)
-- [ROCm 10.1.0公開、WSL2テクニカルプレビューと新ライブラリ3本を追加](https://dev.to/joho_todai/rocm-1010gong-kai-wsl2tekunikarupurebiyutoxin-raiburari3ben-wozhui-jia-37n)
-- [4 Governance Rules for a Simple Node.js SaaS App Background Job Queue](https://dev.to/theodorhawkins9251/4-governance-rules-for-a-simple-nodejs-saas-app-background-job-queue-3fd1)
-- [Pin your relay config in ~/.claude/settings.json &lpar;no more export every time&rpar;](https://dev.to/_e69fe8657895dd4754bbf/pin-your-relay-config-in-claudesettingsjson-no-more-export-every-time-4fl7)
-- [Debugging a relay API in Claude Code / Codex: 401 vs 404 vs 429](https://dev.to/_e69fe8657895dd4754bbf/debugging-a-relay-api-in-claude-code-codex-401-vs-404-vs-429-33en)
+- [FitGuru: A Phone That Coaches Your Squat - and Never Uploads the Video](https://dev.to/atharvachaudhari1/fitguru-a-phone-that-coaches-your-squat-and-never-uploads-the-video-5fla)
+- [The preview used my font, but the PDF&#39;s embedded font list didn&#39;t](https://dev.to/iterandum/the-preview-used-my-font-but-the-pdfs-embedded-font-list-didnt-32pn)
+- [Day 9 of Building Crowdwide — I Almost Let It Sleep for 8-10 Days 💀](https://dev.to/puneetkumar2010/day-9-of-building-crowdwide-i-almost-let-it-sleep-for-8-10-days-45mg)
+- [Decompiling C# 12 inline arrays and stackalloc: fixed buffers without the unsafe](https://dev.to/zero_heartbeat_06a3625d7a/decompiling-c-12-inline-arrays-and-stackalloc-fixed-buffers-without-the-unsafe-13ga)
+- [I built a fully offline nature field guide with Gemma 3](https://dev.to/gavinduachintha/i-built-a-fully-offline-nature-field-guide-with-gemma-3-1i43)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
