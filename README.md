@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [FitGuru: A Phone That Coaches Your Squat - and Never Uploads the Video](https://dev.to/atharvachaudhari1/fitguru-a-phone-that-coaches-your-squat-and-never-uploads-the-video-5fla)
-- [The preview used my font, but the PDF&#39;s embedded font list didn&#39;t](https://dev.to/iterandum/the-preview-used-my-font-but-the-pdfs-embedded-font-list-didnt-32pn)
-- [Day 9 of Building Crowdwide — I Almost Let It Sleep for 8-10 Days 💀](https://dev.to/puneetkumar2010/day-9-of-building-crowdwide-i-almost-let-it-sleep-for-8-10-days-45mg)
-- [Decompiling C# 12 inline arrays and stackalloc: fixed buffers without the unsafe](https://dev.to/zero_heartbeat_06a3625d7a/decompiling-c-12-inline-arrays-and-stackalloc-fixed-buffers-without-the-unsafe-13ga)
-- [I built a fully offline nature field guide with Gemma 3](https://dev.to/gavinduachintha/i-built-a-fully-offline-nature-field-guide-with-gemma-3-1i43)
+- [🖍️ Darkwaar27 : Pigment — Un casse-tête avec des dés basé sur la rotation et l&#39;algèbre des couleurs](https://dev.to/matyo91/darkwaar27-pigment-un-casse-tete-avec-des-des-base-sur-la-rotation-et-lalgebre-des-couleurs-3m7n)
+- [Streaks lie. A photo of the minute doesn&#39;t.](https://dev.to/coachdanielg/streaks-lie-a-photo-of-the-minute-doesnt-39gf)
+- [NPC irl](https://dev.to/rohit_kumarsingh_3c3d9c4/npc-irl-4fj3)
+- [TrailBuddy Local: Local-first outdoor companion for the Touch Grass challenge](https://dev.to/utkarsh_mandilwar_d308d9d/trailbuddy-local-local-first-outdoor-companion-for-the-touch-grass-challenge-2do0)
+- [SMS OTP Versus Email OTP for Site Access &lpar;With a Fallback Boundary&rpar;](https://dev.to/faelvorn538072/sms-otp-versus-email-otp-for-site-access-with-a-fallback-boundary-1380)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
