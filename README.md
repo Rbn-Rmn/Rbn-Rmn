@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s Not the Model, It&#39;s You](https://dev.to/dailycontext/its-not-the-model-its-you-1ngi)
-- [Q&amp;A with Al Chen, Software Engineering Leader at Cisco](https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7)
-- [Benchmarking AI for Code Optimization: Which LLM Actually Writes the Most Efficient C/Rust Code?](https://dev.to/hackesh8218/benchmarking-ai-for-code-optimization-which-llm-actually-writes-the-most-efficient-crust-code-4pld)
-- [Freeze a Reader Contract Before Models Draft Tutorial Pages](https://dev.to/github_7727/freeze-a-reader-contract-before-models-draft-tutorial-pages-4mmj)
-- [TouchGrass 🌿 — Your Best Debugging Tool Might Be a Break](https://dev.to/rishabh_gupta_d47fcf7f10f/touchgrass-your-best-debugging-tool-might-be-a-break-4bbk)
+- [Can Modern VLMs Actually Reason Through Spatial Grid Puzzles?](https://dev.to/fahmiiii/can-modern-vlms-actually-reason-through-spatial-grid-puzzles-560f)
+- [I walked an hour for 30 cents: Gemma plans litter walks that end at a deposit machine](https://dev.to/muhammadmurtuzahussain/i-walked-an-hour-for-30-cents-gemma-plans-litter-walks-that-end-at-a-deposit-machine-4ih9)
+- [Two ways to stop trusting your AI provider on faith](https://dev.to/orwell1776/two-ways-to-stop-trusting-your-ai-provider-on-faith-1k7c)
+- [Keep the focus ring: a keyboard check for landing pages](https://dev.to/mercerk17/keep-the-focus-ring-a-keyboard-check-for-landing-pages-3a82)
+- [The IRS letter was for the company, not for me](https://dev.to/alan_fe63/the-irs-letter-was-for-the-company-not-for-me-13nf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
