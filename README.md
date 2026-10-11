@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [🖍️ Darkwaar27 : Pigment — Un casse-tête avec des dés basé sur la rotation et l&#39;algèbre des couleurs](https://dev.to/matyo91/darkwaar27-pigment-un-casse-tete-avec-des-des-base-sur-la-rotation-et-lalgebre-des-couleurs-3m7n)
-- [Streaks lie. A photo of the minute doesn&#39;t.](https://dev.to/coachdanielg/streaks-lie-a-photo-of-the-minute-doesnt-39gf)
-- [NPC irl](https://dev.to/rohit_kumarsingh_3c3d9c4/npc-irl-4fj3)
-- [TrailBuddy Local: Local-first outdoor companion for the Touch Grass challenge](https://dev.to/utkarsh_mandilwar_d308d9d/trailbuddy-local-local-first-outdoor-companion-for-the-touch-grass-challenge-2do0)
-- [SMS OTP Versus Email OTP for Site Access &lpar;With a Fallback Boundary&rpar;](https://dev.to/faelvorn538072/sms-otp-versus-email-otp-for-site-access-with-a-fallback-boundary-1380)
+- [It&#39;s Not the Model, It&#39;s You](https://dev.to/dailycontext/its-not-the-model-its-you-1ngi)
+- [Q&amp;A with Al Chen, Software Engineering Leader at Cisco](https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7)
+- [Benchmarking AI for Code Optimization: Which LLM Actually Writes the Most Efficient C/Rust Code?](https://dev.to/hackesh8218/benchmarking-ai-for-code-optimization-which-llm-actually-writes-the-most-efficient-crust-code-4pld)
+- [Freeze a Reader Contract Before Models Draft Tutorial Pages](https://dev.to/github_7727/freeze-a-reader-contract-before-models-draft-tutorial-pages-4mmj)
+- [TouchGrass 🌿 — Your Best Debugging Tool Might Be a Break](https://dev.to/rishabh_gupta_d47fcf7f10f/touchgrass-your-best-debugging-tool-might-be-a-break-4bbk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
