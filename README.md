@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Speech-to-text and text-to-speech on Yandex SpeechKit from one Python stdlib file](https://dev.to/bowhard/speech-to-text-and-text-to-speech-on-yandex-speechkit-from-one-python-stdlib-file-24b9)
-- [Secure an MCP Server for Production with theAuth](https://dev.to/thegdsks/secure-an-mcp-server-for-production-with-theauth-1l2b)
-- [Is Testim Still Worth the Price in 2026?](https://dev.to/sleepyfalcon247/is-testim-still-worth-the-price-in-2026-4ijj)
-- [Stop approving every command: put your AI agent in a container](https://dev.to/edgestorage1/stop-approving-every-command-put-your-ai-agent-in-a-container-5bib)
-- [Introducing Veilus: Your First Hour, From Install to a Scheduled Script](https://dev.to/veilus_browser/introducing-veilus-your-first-hour-from-install-to-a-scheduled-script-46al)
+- [How I built a free congressional stock-trade tracker from public filings](https://dev.to/davidhanz/how-i-built-a-free-congressional-stock-trade-tracker-from-public-filings-1n53)
+- [ROCm 10.1.0公開、WSL2テクニカルプレビューと新ライブラリ3本を追加](https://dev.to/joho_todai/rocm-1010gong-kai-wsl2tekunikarupurebiyutoxin-raiburari3ben-wozhui-jia-37n)
+- [4 Governance Rules for a Simple Node.js SaaS App Background Job Queue](https://dev.to/theodorhawkins9251/4-governance-rules-for-a-simple-nodejs-saas-app-background-job-queue-3fd1)
+- [Pin your relay config in ~/.claude/settings.json &lpar;no more export every time&rpar;](https://dev.to/_e69fe8657895dd4754bbf/pin-your-relay-config-in-claudesettingsjson-no-more-export-every-time-4fl7)
+- [Debugging a relay API in Claude Code / Codex: 401 vs 404 vs 429](https://dev.to/_e69fe8657895dd4754bbf/debugging-a-relay-api-in-claude-code-codex-401-vs-404-vs-429-33en)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
