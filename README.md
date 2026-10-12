@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Can Modern VLMs Actually Reason Through Spatial Grid Puzzles?](https://dev.to/fahmiiii/can-modern-vlms-actually-reason-through-spatial-grid-puzzles-560f)
-- [I walked an hour for 30 cents: Gemma plans litter walks that end at a deposit machine](https://dev.to/muhammadmurtuzahussain/i-walked-an-hour-for-30-cents-gemma-plans-litter-walks-that-end-at-a-deposit-machine-4ih9)
-- [Two ways to stop trusting your AI provider on faith](https://dev.to/orwell1776/two-ways-to-stop-trusting-your-ai-provider-on-faith-1k7c)
-- [Keep the focus ring: a keyboard check for landing pages](https://dev.to/mercerk17/keep-the-focus-ring-a-keyboard-check-for-landing-pages-3a82)
-- [The IRS letter was for the company, not for me](https://dev.to/alan_fe63/the-irs-letter-was-for-the-company-not-for-me-13nf)
+- [What an MCP Citation Checker Can Verify—and What It Cannot](https://dev.to/yandong2023/what-an-mcp-citation-checker-can-verify-and-what-it-cannot-2f7n)
+- [SIDEQUEST.exe - REALITY HAS UNFINISHED MISSIONS.](https://dev.to/jahnavi_b60d7891a5f6c/sidequestexe-reality-has-unfinished-missions-2nld)
+- [I built a 3D virtual world base layer — building a 3D world or metaverse on top of it gets you twice the return for half the work](https://dev.to/miduo100/i-built-a-3d-virtual-world-base-layer-building-a-3d-world-or-metaverse-on-top-of-it-gets-you-3lfe)
+- [Touch Grass Garden: a plant tracker that only counts the days you went outside](https://dev.to/yuvan_shankar/touch-grass-garden-a-plant-tracker-that-only-counts-the-days-you-went-outside-10na)
+- [Trailhead: an Open-Weight Hiking Companion That Gets You Off the Screen](https://dev.to/robertgilbert75/trailhead-an-open-weight-hiking-companion-that-gets-you-off-the-screen-19jk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
