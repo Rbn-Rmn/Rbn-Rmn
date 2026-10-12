@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What an MCP Citation Checker Can Verify—and What It Cannot](https://dev.to/yandong2023/what-an-mcp-citation-checker-can-verify-and-what-it-cannot-2f7n)
-- [SIDEQUEST.exe - REALITY HAS UNFINISHED MISSIONS.](https://dev.to/jahnavi_b60d7891a5f6c/sidequestexe-reality-has-unfinished-missions-2nld)
-- [I built a 3D virtual world base layer — building a 3D world or metaverse on top of it gets you twice the return for half the work](https://dev.to/miduo100/i-built-a-3d-virtual-world-base-layer-building-a-3d-world-or-metaverse-on-top-of-it-gets-you-3lfe)
-- [Touch Grass Garden: a plant tracker that only counts the days you went outside](https://dev.to/yuvan_shankar/touch-grass-garden-a-plant-tracker-that-only-counts-the-days-you-went-outside-10na)
-- [Trailhead: an Open-Weight Hiking Companion That Gets You Off the Screen](https://dev.to/robertgilbert75/trailhead-an-open-weight-hiking-companion-that-gets-you-off-the-screen-19jk)
+- [You Already Pay for Claude Code and Codex. Do You Still Need Cursor?](https://dev.to/gabrielanhaia/you-already-pay-for-claude-code-and-codex-do-you-still-need-cursor-kpk)
+- [WHERE vs HAVING in SQL: A Simple Way to Understand the Difference](https://dev.to/solo_495/where-vs-having-in-sql-a-simple-way-to-understand-the-difference-2ihp)
+- [Embeddings &amp; Vector Search](https://dev.to/rhuturaj_takle/embeddings-vector-search-1boe)
+- [Hermes IDE vs Cursor vs Warp vs Zed: 4 Ways to Run Coding Agents in Parallel](https://dev.to/gabrielanhaia/hermes-ide-vs-cursor-vs-warp-vs-zed-4-ways-to-run-coding-agents-in-parallel-56b1)
+- [Building a screen comparison tool around viewing distance](https://dev.to/alex_4eab0abe619233af4c31/building-a-screen-comparison-tool-around-viewing-distance-56ek)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
