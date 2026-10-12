@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [You Already Pay for Claude Code and Codex. Do You Still Need Cursor?](https://dev.to/gabrielanhaia/you-already-pay-for-claude-code-and-codex-do-you-still-need-cursor-kpk)
-- [WHERE vs HAVING in SQL: A Simple Way to Understand the Difference](https://dev.to/solo_495/where-vs-having-in-sql-a-simple-way-to-understand-the-difference-2ihp)
-- [Embeddings &amp; Vector Search](https://dev.to/rhuturaj_takle/embeddings-vector-search-1boe)
-- [Hermes IDE vs Cursor vs Warp vs Zed: 4 Ways to Run Coding Agents in Parallel](https://dev.to/gabrielanhaia/hermes-ide-vs-cursor-vs-warp-vs-zed-4-ways-to-run-coding-agents-in-parallel-56b1)
-- [Building a screen comparison tool around viewing distance](https://dev.to/alex_4eab0abe619233af4c31/building-a-screen-comparison-tool-around-viewing-distance-56ek)
+- [Nested Loops in a Python List Comprehension](https://dev.to/peakblick/nested-loops-in-a-python-list-comprehension-1614)
+- [Cilium Hubble on RKE2: Microservice Traffic Observability &lpar;Seeing the Invisible&rpar;](https://dev.to/ezejioforog/cilium-hubble-on-rke2-microservice-traffic-observability-seeing-the-invisible-5glb)
+- [Collaborative Whiteboard Sync: Lease-Based Channel Lifecycles for Reliable State](https://dev.to/abernathycross6857/collaborative-whiteboard-sync-lease-based-channel-lifecycles-for-reliable-state-4omd)
+- [Everything changes, and so does programming. This isn&#39;t the end, it&#39;s the next phase.](https://dev.to/videosdeti/everything-changes-and-so-does-programming-this-isnt-the-end-its-the-next-phase-4113)
+- [Your Agent Will Click Submit: What Anthropic&#39;s Internet Ban Teaches Builders](https://dev.to/shivaysinghrajput/your-agent-will-click-submit-what-anthropics-internet-ban-teaches-builders-5bei)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
