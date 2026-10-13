@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Built a RAG Evaluation Checklist: 7 Things I Would Test Before Production](https://dev.to/taha_hussein_bb6f837d4c81/i-built-a-rag-evaluation-checklist-7-things-i-would-test-before-production-39g0)
-- [When an agent says done, which files did it test?](https://dev.to/stefano_dago_65bda170a90f/when-an-agent-says-done-which-files-did-it-test-3cmc)
-- [How I use a 10 MHz handheld oscilloscope for quick checks](https://dev.to/probeo/how-i-use-a-10-mhz-handheld-oscilloscope-for-quick-checks-23bd)
-- [Your AI Coding Agent Just Built an App. Would You Trust It With Production Data?](https://dev.to/robertadam987_/your-ai-coding-agent-just-built-an-app-would-you-trust-it-with-production-data-oc4)
-- [Why the Same SaaS Plan Can Show Different Prices: A Better Way to Compare Regional Offers](https://dev.to/audreymiller_ai/why-the-same-saas-plan-can-show-different-prices-a-better-way-to-compare-regional-offers-3m9j)
+- [Compound Lab&#39;s Infrastructure Cost Calculator: web app cost estimates, built on Next.js](https://dev.to/kyisaiah47/compound-labs-infrastructure-cost-calculator-web-app-cost-estimates-built-on-nextjs-54gb)
+- [Hacktoberfest week 2 DEV Challenge](https://dev.to/xchirmanna26/hacktoberfest-week-2-dev-challenge-3gk)
+- [SEO for Premium Builders &amp; Construction Companies: What Actually Ranks in NY, SoCal, and Beyond](https://dev.to/namanvashisht/seo-for-premium-builders-construction-companies-what-actually-ranks-in-ny-socal-and-beyond-48n6)
+- [Node.js Import Metrics Explained: 5 Checks for Managed APIs in Europe and US](https://dev.to/matsjohansson6547/nodejs-import-metrics-explained-5-checks-for-managed-apis-in-europe-and-us-1l3a)
+- [GhostAction Returns: 772 Repos Hit in New GitHub Actions Wave](https://dev.to/gitguardian/ghostaction-returns-772-repos-hit-in-new-github-actions-wave-576o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
