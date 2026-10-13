@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Nested Loops in a Python List Comprehension](https://dev.to/peakblick/nested-loops-in-a-python-list-comprehension-1614)
-- [Cilium Hubble on RKE2: Microservice Traffic Observability &lpar;Seeing the Invisible&rpar;](https://dev.to/ezejioforog/cilium-hubble-on-rke2-microservice-traffic-observability-seeing-the-invisible-5glb)
-- [Collaborative Whiteboard Sync: Lease-Based Channel Lifecycles for Reliable State](https://dev.to/abernathycross6857/collaborative-whiteboard-sync-lease-based-channel-lifecycles-for-reliable-state-4omd)
-- [Everything changes, and so does programming. This isn&#39;t the end, it&#39;s the next phase.](https://dev.to/videosdeti/everything-changes-and-so-does-programming-this-isnt-the-end-its-the-next-phase-4113)
-- [Your Agent Will Click Submit: What Anthropic&#39;s Internet Ban Teaches Builders](https://dev.to/shivaysinghrajput/your-agent-will-click-submit-what-anthropics-internet-ban-teaches-builders-5bei)
+- [AlphaSense Launched SuperAnalyst. Let&#39;s Build a Tiny Assumption Watcher in TypeScript.](https://dev.to/bobbyhalljr/alphasense-launched-superanalyst-lets-build-a-tiny-assumption-watcher-in-typescript-3kij)
+- [Google Launched the Gemini Agent. Let&#39;s Build a Tiny Model Router in TypeScript.](https://dev.to/bobbyhalljr/google-launched-the-gemini-agent-lets-build-a-tiny-model-router-in-typescript-f5)
+- [Same BTC Perp, Two Leverage Ceilings: 150x on One Venue, 100x on the Other — Both Straight From the API](https://dev.to/hmwork_2c698b7158d3/same-btc-perp-two-leverage-ceilings-150x-on-one-venue-100x-on-the-other-both-straight-from-the-14ad)
+- [Claude Code 2.1.288 ran TZ=&quot;$HOME&quot; rm -rf build past sandboxed deny and ask rules 6 of 6 times; 2.1.289 stopped all 6](https://dev.to/rulestack/claude-code-21288-ran-tzhome-rm-rf-build-past-sandboxed-deny-and-ask-rules-6-of-6-times-4md9)
+- [Testing AI Agent Tool Calls: A Release Checklist Beyond Task Completion](https://dev.to/acadify_fef2ecf72cca30a3d/testing-ai-agent-tool-calls-a-release-checklist-beyond-task-completion-8np)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
