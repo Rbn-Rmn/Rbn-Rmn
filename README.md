@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AlphaSense Launched SuperAnalyst. Let&#39;s Build a Tiny Assumption Watcher in TypeScript.](https://dev.to/bobbyhalljr/alphasense-launched-superanalyst-lets-build-a-tiny-assumption-watcher-in-typescript-3kij)
-- [Google Launched the Gemini Agent. Let&#39;s Build a Tiny Model Router in TypeScript.](https://dev.to/bobbyhalljr/google-launched-the-gemini-agent-lets-build-a-tiny-model-router-in-typescript-f5)
-- [Same BTC Perp, Two Leverage Ceilings: 150x on One Venue, 100x on the Other — Both Straight From the API](https://dev.to/hmwork_2c698b7158d3/same-btc-perp-two-leverage-ceilings-150x-on-one-venue-100x-on-the-other-both-straight-from-the-14ad)
-- [Claude Code 2.1.288 ran TZ=&quot;$HOME&quot; rm -rf build past sandboxed deny and ask rules 6 of 6 times; 2.1.289 stopped all 6](https://dev.to/rulestack/claude-code-21288-ran-tzhome-rm-rf-build-past-sandboxed-deny-and-ask-rules-6-of-6-times-4md9)
-- [Testing AI Agent Tool Calls: A Release Checklist Beyond Task Completion](https://dev.to/acadify_fef2ecf72cca30a3d/testing-ai-agent-tool-calls-a-release-checklist-beyond-task-completion-8np)
+- [I Built a RAG Evaluation Checklist: 7 Things I Would Test Before Production](https://dev.to/taha_hussein_bb6f837d4c81/i-built-a-rag-evaluation-checklist-7-things-i-would-test-before-production-39g0)
+- [When an agent says done, which files did it test?](https://dev.to/stefano_dago_65bda170a90f/when-an-agent-says-done-which-files-did-it-test-3cmc)
+- [How I use a 10 MHz handheld oscilloscope for quick checks](https://dev.to/probeo/how-i-use-a-10-mhz-handheld-oscilloscope-for-quick-checks-23bd)
+- [Your AI Coding Agent Just Built an App. Would You Trust It With Production Data?](https://dev.to/robertadam987_/your-ai-coding-agent-just-built-an-app-would-you-trust-it-with-production-data-oc4)
+- [Why the Same SaaS Plan Can Show Different Prices: A Better Way to Compare Regional Offers](https://dev.to/audreymiller_ai/why-the-same-saas-plan-can-show-different-prices-a-better-way-to-compare-regional-offers-3m9j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
