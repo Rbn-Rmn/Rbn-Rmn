@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Compound Lab&#39;s Infrastructure Cost Calculator: web app cost estimates, built on Next.js](https://dev.to/kyisaiah47/compound-labs-infrastructure-cost-calculator-web-app-cost-estimates-built-on-nextjs-54gb)
-- [Hacktoberfest week 2 DEV Challenge](https://dev.to/xchirmanna26/hacktoberfest-week-2-dev-challenge-3gk)
-- [SEO for Premium Builders &amp; Construction Companies: What Actually Ranks in NY, SoCal, and Beyond](https://dev.to/namanvashisht/seo-for-premium-builders-construction-companies-what-actually-ranks-in-ny-socal-and-beyond-48n6)
-- [Node.js Import Metrics Explained: 5 Checks for Managed APIs in Europe and US](https://dev.to/matsjohansson6547/nodejs-import-metrics-explained-5-checks-for-managed-apis-in-europe-and-us-1l3a)
-- [GhostAction Returns: 772 Repos Hit in New GitHub Actions Wave](https://dev.to/gitguardian/ghostaction-returns-772-repos-hit-in-new-github-actions-wave-576o)
+- [TabuPulse AI: Autonomous Tabular Prediction Agent &amp; MCP Server for Micro-SaaS &amp; Freelancers](https://dev.to/excitement4u_9a965eaa85d3/tabupulse-ai-autonomous-tabular-prediction-agent-mcp-server-for-micro-saas-freelancers-e2a)
+- [Your library isn&#39;t in the training data: making AI agents use it well](https://dev.to/kevinccbsg/your-library-isnt-in-the-training-data-making-ai-agents-use-it-well-5a34)
+- [Your Demo Day Video Shouldn&#39;t Be a Slide Read-Along](https://dev.to/axiomlab/your-demo-day-video-shouldnt-be-a-slide-read-along-5hf1)
+- [Top 20 Nikto Commands Every Security Professional Should Know](https://dev.to/abhinavsingwal/top-20-nikto-commands-every-security-professional-should-know-2ojf)
+- [Claude&#39;s Anti-Distillation Rule Turns Your Agent&#39;s Message History Append-Only](https://dev.to/gabrielanhaia/claudes-anti-distillation-rule-turns-your-agents-message-history-append-only-33j1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
