@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI Skills Are Now Expected. For Cloud Engineers, That&#39;s Actually a Head Start.](https://dev.to/muskan_bandta/ai-skills-are-now-expected-for-cloud-engineers-thats-actually-a-head-start-389j)
-- [Structuring Pipeline Generation Knowledge with Shapezo: A Content Architecture for Routes, Racks, and Spools](https://dev.to/geogenius/structuring-pipeline-generation-knowledge-with-shapezo-a-content-architecture-for-routes-racks-g9e)
-- [I read 106 reviews of credit-based photo apps: few billing surprises, but credit complaints showed up](https://dev.to/vereos/i-read-106-reviews-of-credit-based-photo-apps-few-billing-surprises-but-credit-complaints-showed-3eba)
-- [Opus 5.5 Made Gummy Bears, Gemini 4 Argon Made Statues: The Real Lesson Isn&#39;t Which Won](https://dev.to/muskan_bandta/opus-55-made-gummy-bears-gemini-4-argon-made-statues-the-real-lesson-isnt-which-won-i67)
-- [How Can Artificial Intelligence Recognize Objects in Images and Videos?](https://dev.to/tanu_priya/how-can-artificial-intelligence-recognize-objects-in-images-and-videos-519n)
+- [What does an agent actually need from your app to do one useful thing](https://dev.to/usehive/what-does-an-agent-actually-need-from-your-app-to-do-one-useful-thing-512b)
+- [𝗪𝗵𝗮𝘁 𝘄𝗼𝗿𝗸𝘀 𝗳𝗼𝗿 𝗦𝗶𝗴𝗻𝗮𝗹𝗥 𝗹𝗼𝗰𝗮𝗹𝗹𝘆 𝗰𝗮𝗻 𝗳𝗮𝗶𝗹 𝗶𝗻 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻.](https://dev.to/dipneupane/-3khm)
+- [I Just Want to Build a Notes App That Respects You.](https://dev.to/devbehindyou/i-just-want-to-build-a-notes-app-that-respects-you-40ja)
+- [Rendering a 2.9-million-triangle human body in the browser without freezing the page](https://dev.to/balwinder_singh_dev/rendering-a-29-million-triangle-human-body-in-the-browser-without-freezing-the-page-1j7g)
+- [Série: Claude Code CLI: guia técnico — Parte 3: remoto, limites e boas práticas](https://dev.to/diegobrandao/serie-claude-code-cli-guia-tecnico-parte-3-remoto-limites-e-boas-praticas-2659)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
