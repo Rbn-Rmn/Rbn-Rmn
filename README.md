@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [JWT and Session Tokens Explained: Stateless vs. Stateful Authentication](https://dev.to/susumun/jwt-and-session-tokens-explained-stateless-vs-stateful-authentication-1d0p)
-- [Building a Distributed GPU Cluster for LLM Inference on Idle Apple Silicon Macs](https://dev.to/nughes/building-a-distributed-gpu-cluster-for-llm-inference-on-idle-apple-silicon-macs-45o0)
-- [Nobody told the person who needed to know](https://dev.to/octyn/nobody-told-the-person-who-needed-to-know-k2e)
-- [Multi-tenant SaaS with branch-level RBAC in Next.js + Node: a practical architecture](https://dev.to/mamareza/multi-tenant-saas-with-branch-level-rbac-in-nextjs-node-a-practical-architecture-56e0)
-- [Selling downloads across borders: a field guide for buyers who are never in your time zone](https://dev.to/filefreight/selling-downloads-across-borders-a-field-guide-for-buyers-who-are-never-in-your-time-zone-3nga)
+- [AI Skills Are Now Expected. For Cloud Engineers, That&#39;s Actually a Head Start.](https://dev.to/muskan_bandta/ai-skills-are-now-expected-for-cloud-engineers-thats-actually-a-head-start-389j)
+- [Structuring Pipeline Generation Knowledge with Shapezo: A Content Architecture for Routes, Racks, and Spools](https://dev.to/geogenius/structuring-pipeline-generation-knowledge-with-shapezo-a-content-architecture-for-routes-racks-g9e)
+- [I read 106 reviews of credit-based photo apps: few billing surprises, but credit complaints showed up](https://dev.to/vereos/i-read-106-reviews-of-credit-based-photo-apps-few-billing-surprises-but-credit-complaints-showed-3eba)
+- [Opus 5.5 Made Gummy Bears, Gemini 4 Argon Made Statues: The Real Lesson Isn&#39;t Which Won](https://dev.to/muskan_bandta/opus-55-made-gummy-bears-gemini-4-argon-made-statues-the-real-lesson-isnt-which-won-i67)
+- [How Can Artificial Intelligence Recognize Objects in Images and Videos?](https://dev.to/tanu_priya/how-can-artificial-intelligence-recognize-objects-in-images-and-videos-519n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
