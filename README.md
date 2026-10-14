@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Cursor Stores Supabase Admin Roles in user_metadata](https://dev.to/c_k_fb750e731394/why-cursor-stores-supabase-admin-roles-in-usermetadata-1j6k)
-- [Prevent overselling in EF Core: concurrency-safe stock updates](https://dev.to/rgk/prevent-overselling-in-ef-core-concurrency-safe-stock-updates-47ah)
-- [Docker Compose profiles for ASP.NET Core: one file, four databases](https://dev.to/rgk/docker-compose-profiles-for-aspnet-core-one-file-four-databases-199l)
-- [Build an Audiobook Generator Using ElevenLabs API](https://dev.to/voice_developer/build-an-audiobook-generator-using-elevenlabs-api-g9a)
-- [ASP.NET Core JWT and cookie authentication in one project](https://dev.to/rgk/aspnet-core-jwt-and-cookie-authentication-in-one-project-3d67)
+- [I pulled verified revenue for 5,596 startups. Here&#39;s exactly what to build in 2026 &lpar;11 benchmarks, 25 templates&rpar;](https://dev.to/rudratosh/i-pulled-verified-revenue-for-5596-startups-heres-exactly-what-to-build-in-2026-11-benchmarks-4eij)
+- [Your Test Didn&#39;t Flake. Your UI Moved While Nobody Was Looking.](https://dev.to/mellowthunder735/your-test-didnt-flake-your-ui-moved-while-nobody-was-looking-5dol)
+- [Configuring Smart Routing in NVIDIA Dynamo](https://dev.to/vultr/configuring-smart-routing-in-nvidia-dynamo-e25)
+- [WAMR3D: A Native WebAssembly 3D Engine with a three.js-Style API and Its Own WebGPU Renderer](https://dev.to/aymen94/wamr3d-a-native-webassembly-3d-engine-with-a-threejs-style-api-and-its-own-webgpu-renderer-9ok)
+- [Automating Bash Scripts on Linux Using Cron and Systemd](https://dev.to/vultr/automating-bash-scripts-on-linux-using-cron-and-systemd-3nie)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
