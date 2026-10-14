@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What does an agent actually need from your app to do one useful thing](https://dev.to/usehive/what-does-an-agent-actually-need-from-your-app-to-do-one-useful-thing-512b)
-- [𝗪𝗵𝗮𝘁 𝘄𝗼𝗿𝗸𝘀 𝗳𝗼𝗿 𝗦𝗶𝗴𝗻𝗮𝗹𝗥 𝗹𝗼𝗰𝗮𝗹𝗹𝘆 𝗰𝗮𝗻 𝗳𝗮𝗶𝗹 𝗶𝗻 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻.](https://dev.to/dipneupane/-3khm)
-- [I Just Want to Build a Notes App That Respects You.](https://dev.to/devbehindyou/i-just-want-to-build-a-notes-app-that-respects-you-40ja)
-- [Rendering a 2.9-million-triangle human body in the browser without freezing the page](https://dev.to/balwinder_singh_dev/rendering-a-29-million-triangle-human-body-in-the-browser-without-freezing-the-page-1j7g)
-- [Série: Claude Code CLI: guia técnico — Parte 3: remoto, limites e boas práticas](https://dev.to/diegobrandao/serie-claude-code-cli-guia-tecnico-parte-3-remoto-limites-e-boas-praticas-2659)
+- [Why Cursor Stores Supabase Admin Roles in user_metadata](https://dev.to/c_k_fb750e731394/why-cursor-stores-supabase-admin-roles-in-usermetadata-1j6k)
+- [Prevent overselling in EF Core: concurrency-safe stock updates](https://dev.to/rgk/prevent-overselling-in-ef-core-concurrency-safe-stock-updates-47ah)
+- [Docker Compose profiles for ASP.NET Core: one file, four databases](https://dev.to/rgk/docker-compose-profiles-for-aspnet-core-one-file-four-databases-199l)
+- [Build an Audiobook Generator Using ElevenLabs API](https://dev.to/voice_developer/build-an-audiobook-generator-using-elevenlabs-api-g9a)
+- [ASP.NET Core JWT and cookie authentication in one project](https://dev.to/rgk/aspnet-core-jwt-and-cookie-authentication-in-one-project-3d67)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
