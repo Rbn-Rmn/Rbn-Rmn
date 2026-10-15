@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Where an Apple Messages for Business chat starts](https://dev.to/ambdirectory/where-an-apple-messages-for-business-chat-starts-3o03)
-- [I Built a Faceless Video Factory That Remembers Which Content Pays](https://dev.to/reggiebro/i-built-a-faceless-video-factory-that-remembers-which-content-pays-46c1)
-- [I Looked at Countdown Timers as a Shopper and a Web Developer](https://dev.to/zoe_isla_609e2e64d1928bfc/i-looked-at-countdown-timers-as-a-shopper-and-a-web-developer-32bn)
-- [Our integration tests skipped themselves on every Dependabot pull request](https://dev.to/sergey_shinder_ab2d943365/our-integration-tests-skipped-themselves-on-every-dependabot-pull-request-4a14)
-- [Turning songs into sheet music: my audio-to-engraving pipeline, and 3 bugs that almost shipped](https://dev.to/lily-ilands/turning-songs-into-sheet-music-my-audio-to-engraving-pipeline-and-3-bugs-that-almost-shipped-8hn)
+- [SideHustle Studio: Build Better Product Listings with Open-Source AI](https://dev.to/palak_verma_3e0b2748eaeff/sidehustle-studio-build-better-product-listings-with-open-source-ai-4m79)
+- [I built AI skills that tailor my CV to every job link](https://dev.to/mohamedaminehamdi/i-built-ai-skills-that-tailor-my-cv-to-every-job-link-42mk)
+- [Why Retail Software Projects Get Complicated When Systems Don&#39;t Talk to Each Other](https://dev.to/olivia_bennett_16e21cd348/why-retail-software-projects-get-complicated-when-systems-dont-talk-to-each-other-8di)
+- [Building an AI Document Extraction Pipeline with DocuSense](https://dev.to/skilldev31/building-an-ai-document-extraction-pipeline-with-docusense-4ecl)
+- [One API for Greenhouse, Lever, Ashby &amp; Workday Jobs: Hiring Signals in Python](https://dev.to/torix/one-api-for-greenhouse-lever-ashby-workday-jobs-hiring-signals-in-python-3gb3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
