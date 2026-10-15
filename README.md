@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise AI Agents Need Governed Execution, Not Bigger Prompts](https://dev.to/rausal_bahtiarfadhli_d94/enterprise-ai-agents-need-governed-execution-not-bigger-prompts-o82)
-- [Architecting for Decay: Building Self-Maintaining Systems in the Age of AI-Generated Code](https://dev.to/tamizuddin/architecting-for-decay-building-self-maintaining-systems-in-the-age-of-ai-generated-code-2722)
-- [Security Audit Report: Reentrancy &amp; Access Control Review: Binance staked ETH](https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-binance-staked-eth-2c73)
-- [Migrate Jest to Vitest With 3 Parallel Agents, One Directory Each](https://dev.to/gabrielanhaia/migrate-jest-to-vitest-with-3-parallel-agents-one-directory-each-5cok)
-- [ripgrep Missed the CSV Files. I Almost Designed a Collector We Already Had.](https://dev.to/hexisteme/ripgrep-missed-the-csv-files-i-almost-designed-a-collector-we-already-had-5abl)
+- [Where an Apple Messages for Business chat starts](https://dev.to/ambdirectory/where-an-apple-messages-for-business-chat-starts-3o03)
+- [I Built a Faceless Video Factory That Remembers Which Content Pays](https://dev.to/reggiebro/i-built-a-faceless-video-factory-that-remembers-which-content-pays-46c1)
+- [I Looked at Countdown Timers as a Shopper and a Web Developer](https://dev.to/zoe_isla_609e2e64d1928bfc/i-looked-at-countdown-timers-as-a-shopper-and-a-web-developer-32bn)
+- [Our integration tests skipped themselves on every Dependabot pull request](https://dev.to/sergey_shinder_ab2d943365/our-integration-tests-skipped-themselves-on-every-dependabot-pull-request-4a14)
+- [Turning songs into sheet music: my audio-to-engraving pipeline, and 3 bugs that almost shipped](https://dev.to/lily-ilands/turning-songs-into-sheet-music-my-audio-to-engraving-pipeline-and-3-bugs-that-almost-shipped-8hn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
