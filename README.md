@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Cisco SEG CVE-2026-76519: Active Exploitation of a Vulnerability Allowing Root Command Execution](https://dev.to/anoymask/cisco-seg-cve-2026-76519-active-exploitation-of-a-vulnerability-allowing-root-command-execution-15me)
-- [Six Questions to Ask Before You Close the GitLab Ticket](https://dev.to/bianliang/six-questions-to-ask-before-you-close-the-gitlab-ticket-5ee0)
-- [Racing AlarmManager with a coroutine: app reminder timers on Android](https://dev.to/tryreclaim/racing-alarmmanager-with-a-coroutine-app-reminder-timers-on-android-3i08)
-- [From “Why Is This Pod Pending?” to `HTTP/1.1 200 OK`: My NGINX Gateway Fabric Lab](https://dev.to/oyebobs/from-why-is-this-pod-pending-to-http11-200-ok-my-nginx-gateway-fabric-lab-49al)
-- [JWT Explained: Structure, Claims and How to Verify a Token](https://dev.to/avinashkori/jwt-explained-structure-claims-and-how-to-verify-a-token-43a8)
+- [One .git, Five Checkouts: How git worktree Works Under Your Parallel Agents](https://dev.to/gabrielanhaia/one-git-five-checkouts-how-git-worktree-works-under-your-parallel-agents-34bp)
+- [AI coding has a decision fatigue problem. Here’s how we’re fixing it.](https://dev.to/mm_can_ecd97f8f75a2d93e/ai-coding-has-a-decision-fatigue-problem-heres-how-were-fixing-it-42j9)
+- [Why your video search keeps returning the wrong scene](https://dev.to/mixpeek/why-your-video-search-keeps-returning-the-wrong-scene-4c5l)
+- [Vector search on S3, without a hosted vector database](https://dev.to/mixpeek/vector-search-on-s3-without-a-hosted-vector-database-d6d)
+- [Twitter Added id_str in 2010 Because JavaScript Can&#39;t Hold a Java long](https://dev.to/gabrielanhaia/twitter-added-idstr-in-2010-because-javascript-cant-hold-a-java-long-1p5a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
