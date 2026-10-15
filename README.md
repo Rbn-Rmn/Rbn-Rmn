@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I pulled verified revenue for 5,596 startups. Here&#39;s exactly what to build in 2026 &lpar;11 benchmarks, 25 templates&rpar;](https://dev.to/rudratosh/i-pulled-verified-revenue-for-5596-startups-heres-exactly-what-to-build-in-2026-11-benchmarks-4eij)
-- [Your Test Didn&#39;t Flake. Your UI Moved While Nobody Was Looking.](https://dev.to/mellowthunder735/your-test-didnt-flake-your-ui-moved-while-nobody-was-looking-5dol)
-- [Configuring Smart Routing in NVIDIA Dynamo](https://dev.to/vultr/configuring-smart-routing-in-nvidia-dynamo-e25)
-- [WAMR3D: A Native WebAssembly 3D Engine with a three.js-Style API and Its Own WebGPU Renderer](https://dev.to/aymen94/wamr3d-a-native-webassembly-3d-engine-with-a-threejs-style-api-and-its-own-webgpu-renderer-9ok)
-- [Automating Bash Scripts on Linux Using Cron and Systemd](https://dev.to/vultr/automating-bash-scripts-on-linux-using-cron-and-systemd-3nie)
+- [Enterprise AI Agents Need Governed Execution, Not Bigger Prompts](https://dev.to/rausal_bahtiarfadhli_d94/enterprise-ai-agents-need-governed-execution-not-bigger-prompts-o82)
+- [Architecting for Decay: Building Self-Maintaining Systems in the Age of AI-Generated Code](https://dev.to/tamizuddin/architecting-for-decay-building-self-maintaining-systems-in-the-age-of-ai-generated-code-2722)
+- [Security Audit Report: Reentrancy &amp; Access Control Review: Binance staked ETH](https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-binance-staked-eth-2c73)
+- [Migrate Jest to Vitest With 3 Parallel Agents, One Directory Each](https://dev.to/gabrielanhaia/migrate-jest-to-vitest-with-3-parallel-agents-one-directory-each-5cok)
+- [ripgrep Missed the CSV Files. I Almost Designed a Collector We Already Had.](https://dev.to/hexisteme/ripgrep-missed-the-csv-files-i-almost-designed-a-collector-we-already-had-5abl)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
