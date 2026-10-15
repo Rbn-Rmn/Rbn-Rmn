@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [SideHustle Studio: Build Better Product Listings with Open-Source AI](https://dev.to/palak_verma_3e0b2748eaeff/sidehustle-studio-build-better-product-listings-with-open-source-ai-4m79)
-- [I built AI skills that tailor my CV to every job link](https://dev.to/mohamedaminehamdi/i-built-ai-skills-that-tailor-my-cv-to-every-job-link-42mk)
-- [Why Retail Software Projects Get Complicated When Systems Don&#39;t Talk to Each Other](https://dev.to/olivia_bennett_16e21cd348/why-retail-software-projects-get-complicated-when-systems-dont-talk-to-each-other-8di)
-- [Building an AI Document Extraction Pipeline with DocuSense](https://dev.to/skilldev31/building-an-ai-document-extraction-pipeline-with-docusense-4ecl)
-- [One API for Greenhouse, Lever, Ashby &amp; Workday Jobs: Hiring Signals in Python](https://dev.to/torix/one-api-for-greenhouse-lever-ashby-workday-jobs-hiring-signals-in-python-3gb3)
+- [Cisco SEG CVE-2026-76519: Active Exploitation of a Vulnerability Allowing Root Command Execution](https://dev.to/anoymask/cisco-seg-cve-2026-76519-active-exploitation-of-a-vulnerability-allowing-root-command-execution-15me)
+- [Six Questions to Ask Before You Close the GitLab Ticket](https://dev.to/bianliang/six-questions-to-ask-before-you-close-the-gitlab-ticket-5ee0)
+- [Racing AlarmManager with a coroutine: app reminder timers on Android](https://dev.to/tryreclaim/racing-alarmmanager-with-a-coroutine-app-reminder-timers-on-android-3i08)
+- [From “Why Is This Pod Pending?” to `HTTP/1.1 200 OK`: My NGINX Gateway Fabric Lab](https://dev.to/oyebobs/from-why-is-this-pod-pending-to-http11-200-ok-my-nginx-gateway-fabric-lab-49al)
+- [JWT Explained: Structure, Claims and How to Verify a Token](https://dev.to/avinashkori/jwt-explained-structure-claims-and-how-to-verify-a-token-43a8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
