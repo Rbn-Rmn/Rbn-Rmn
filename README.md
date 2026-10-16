@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Managing the Relationship with Service Providers: How Easy Is It?](https://dev.to/said_olano/managing-the-relationship-with-service-providers-how-easy-is-it-1d47)
-- [CabloyJS’s AI Moment: From a TypeScript Fullstack Framework to AI-Spec-Driven Development](https://dev.to/uncle-pushui/cabloyjss-ai-moment-from-a-typescript-fullstack-framework-to-ai-spec-driven-development-5h7o)
-- [I built 100+ free browser tools so people stop uploading private files to cloud servers](https://dev.to/supertoolkit/i-built-100-free-browser-tools-so-people-stop-uploading-private-files-to-cloud-servers-5dj5)
-- [Model sanctions source coverage without inventing a clearance verdict](https://dev.to/timmyzinin/model-sanctions-source-coverage-without-inventing-a-clearance-verdict-41pg)
-- [Top 5 Trending Dev Tools &amp; Tutorials for October 16, 2026](https://dev.to/karleeov/top-5-trending-dev-tools-tutorials-for-october-16-2026-44pl)
+- [I Audited Ten Million Free Tokens. The Ledger Drifted First.](https://dev.to/hackhub_6179/i-audited-ten-million-free-tokens-the-ledger-drifted-first-4213)
+- [Where to Put the Human After the Agent-Harm Week](https://dev.to/max_quimby/where-to-put-the-human-after-the-agent-harm-week-4ma2)
+- [GUML: Let the Model Write 24 Lines and the Compiler Write the Other 229](https://dev.to/ravikishan/guml-let-the-model-write-24-lines-and-the-compiler-write-the-other-229-5fko)
+- [I Blamed the Model. The Wrapper Was Sleeping.](https://dev.to/apppro_4800/i-blamed-the-model-the-wrapper-was-sleeping-1e03)
+- [Onboarding Budgets Leak Before the First Commit](https://dev.to/codejs_1959/onboarding-budgets-leak-before-the-first-commit-4615)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
