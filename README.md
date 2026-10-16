@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Post-Quantum Cryptographic Readiness for Legacy Infrastructure](https://dev.to/asifmiqbal/post-quantum-cryptographic-readiness-for-legacy-infrastructure-4c9n)
-- [Dynamic Model Routing: Cutting LLM Spend Without Cutting Capability](https://dev.to/asifmiqbal/dynamic-model-routing-cutting-llm-spend-without-cutting-capability-5dcc)
-- [Four ways your backtest lies — and a dependency-free Python kit that catches them](https://dev.to/rytjy/four-ways-your-backtest-lies-and-a-dependency-free-python-kit-that-catches-them-3p8n)
-- [Hootsuite’s “Cancel” Button Is a Lie: How They Charged Me $2,376 After I Left](https://dev.to/brandonrid/hootsuites-cancel-button-is-a-lie-how-they-charged-me-2376-after-i-left-4bn)
-- [Pull local business leads from YellowPages with Python](https://dev.to/rel8ble/pull-local-business-leads-from-yellowpages-with-python-1993)
+- [Prioritizing the six DolphinScheduler CVEs: severity, exposure and patch order](https://dev.to/jeffreyciend/prioritizing-the-six-dolphinscheduler-cves-severity-exposure-and-patch-order-mo1)
+- [ArthLedger — Smart Accounting. Stronger Businesses.](https://dev.to/kashyap_patel_64fd110a57c/arthledger-smart-accounting-stronger-businesses-530n)
+- [AI Software Development: Merge Gates Every CTO Should Require](https://dev.to/geminate_solutions_9b6035/ai-software-development-merge-gates-every-cto-should-require-d2d)
+- [Posit AI Pass Makes AI Disclosure an Explicit Expectation for Published Work](https://dev.to/alifar/posit-ai-pass-makes-ai-disclosure-an-explicit-expectation-for-published-work-30l7)
+- [Disclosure Doubled and Exploitation Followed: What GTIG&#39;s AI-Era Data Actually Shows](https://dev.to/neticslabs/disclosure-doubled-and-exploitation-followed-what-gtigs-ai-era-data-actually-shows-1h5a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
