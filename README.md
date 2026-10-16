@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I Audited Ten Million Free Tokens. The Ledger Drifted First.](https://dev.to/hackhub_6179/i-audited-ten-million-free-tokens-the-ledger-drifted-first-4213)
-- [Where to Put the Human After the Agent-Harm Week](https://dev.to/max_quimby/where-to-put-the-human-after-the-agent-harm-week-4ma2)
-- [GUML: Let the Model Write 24 Lines and the Compiler Write the Other 229](https://dev.to/ravikishan/guml-let-the-model-write-24-lines-and-the-compiler-write-the-other-229-5fko)
-- [I Blamed the Model. The Wrapper Was Sleeping.](https://dev.to/apppro_4800/i-blamed-the-model-the-wrapper-was-sleeping-1e03)
-- [Onboarding Budgets Leak Before the First Commit](https://dev.to/codejs_1959/onboarding-budgets-leak-before-the-first-commit-4615)
+- [Twenty-five seconds of talking becomes an invoice, and none of it leaves my laptop](https://dev.to/dosunmu_hassan_46f2ac141d/twenty-five-seconds-of-talking-becomes-an-invoice-and-none-of-it-leaves-my-laptop-50ae)
+- [Google Tasks ↔ Microsoft To Do, two-way sync: self-hosted](https://dev.to/simonchaitw/google-tasks-microsoft-to-do-two-way-sync-self-hosted-4f07)
+- [Run the Draft Twice: Use Generation Variance to Decide What a Human Must Own](https://dev.to/github_7727/run-the-draft-twice-use-generation-variance-to-decide-what-a-human-must-own-12bh)
+- [Dark Mode in Firefox: OS Settings, CSS, and Extensions &lpar;Developer and User Guide&rpar;](https://dev.to/weatherclockdash/dark-mode-in-firefox-os-settings-css-and-extensions-developer-and-user-guide-1bhc)
+- [A photo with no file path, a screen with no stable key, and seven failures with seven sentences](https://dev.to/daniel_pertu/a-photo-with-no-file-path-a-screen-with-no-stable-key-and-seven-failures-with-seven-sentences-2d7m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
