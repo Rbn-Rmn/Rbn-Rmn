@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Twenty-five seconds of talking becomes an invoice, and none of it leaves my laptop](https://dev.to/dosunmu_hassan_46f2ac141d/twenty-five-seconds-of-talking-becomes-an-invoice-and-none-of-it-leaves-my-laptop-50ae)
-- [Google Tasks ↔ Microsoft To Do, two-way sync: self-hosted](https://dev.to/simonchaitw/google-tasks-microsoft-to-do-two-way-sync-self-hosted-4f07)
-- [Run the Draft Twice: Use Generation Variance to Decide What a Human Must Own](https://dev.to/github_7727/run-the-draft-twice-use-generation-variance-to-decide-what-a-human-must-own-12bh)
-- [Dark Mode in Firefox: OS Settings, CSS, and Extensions &lpar;Developer and User Guide&rpar;](https://dev.to/weatherclockdash/dark-mode-in-firefox-os-settings-css-and-extensions-developer-and-user-guide-1bhc)
-- [A photo with no file path, a screen with no stable key, and seven failures with seven sentences](https://dev.to/daniel_pertu/a-photo-with-no-file-path-a-screen-with-no-stable-key-and-seven-failures-with-seven-sentences-2d7m)
+- [Post-Quantum Cryptographic Readiness for Legacy Infrastructure](https://dev.to/asifmiqbal/post-quantum-cryptographic-readiness-for-legacy-infrastructure-4c9n)
+- [Dynamic Model Routing: Cutting LLM Spend Without Cutting Capability](https://dev.to/asifmiqbal/dynamic-model-routing-cutting-llm-spend-without-cutting-capability-5dcc)
+- [Four ways your backtest lies — and a dependency-free Python kit that catches them](https://dev.to/rytjy/four-ways-your-backtest-lies-and-a-dependency-free-python-kit-that-catches-them-3p8n)
+- [Hootsuite’s “Cancel” Button Is a Lie: How They Charged Me $2,376 After I Left](https://dev.to/brandonrid/hootsuites-cancel-button-is-a-lie-how-they-charged-me-2376-after-i-left-4bn)
+- [Pull local business leads from YellowPages with Python](https://dev.to/rel8ble/pull-local-business-leads-from-yellowpages-with-python-1993)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
