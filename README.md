@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Prioritizing the six DolphinScheduler CVEs: severity, exposure and patch order](https://dev.to/jeffreyciend/prioritizing-the-six-dolphinscheduler-cves-severity-exposure-and-patch-order-mo1)
-- [ArthLedger — Smart Accounting. Stronger Businesses.](https://dev.to/kashyap_patel_64fd110a57c/arthledger-smart-accounting-stronger-businesses-530n)
-- [AI Software Development: Merge Gates Every CTO Should Require](https://dev.to/geminate_solutions_9b6035/ai-software-development-merge-gates-every-cto-should-require-d2d)
-- [Posit AI Pass Makes AI Disclosure an Explicit Expectation for Published Work](https://dev.to/alifar/posit-ai-pass-makes-ai-disclosure-an-explicit-expectation-for-published-work-30l7)
-- [Disclosure Doubled and Exploitation Followed: What GTIG&#39;s AI-Era Data Actually Shows](https://dev.to/neticslabs/disclosure-doubled-and-exploitation-followed-what-gtigs-ai-era-data-actually-shows-1h5a)
+- [GPT-6 Pro in ChatGPT Adds Faster Workflows and New Options for Agent-Based Tasks](https://dev.to/alifar/gpt-6-pro-in-chatgpt-adds-faster-workflows-and-new-options-for-agent-based-tasks-994)
+- [The Illusion of Progress: how a typo in my custom mutator sent my fuzzer into the wrong parser](https://dev.to/malwaredante/the-illusion-of-progress-how-a-typo-in-my-custom-mutator-sent-my-fuzzer-into-the-wrong-parser-435j)
+- [Exposed Credentials: The Common Failure Behind Rogue AI Agents and Router Hijacks](https://dev.to/yanoai/exposed-credentials-the-common-failure-behind-rogue-ai-agents-and-router-hijacks-3ggb)
+- [Postgres &quot;deadlock detected&quot;: Fix the Lock Order First, Then Add a Retry](https://dev.to/libme/postgres-deadlock-detected-fix-the-lock-order-first-then-add-a-retry-3ip1)
+- [Building a price comparison site where every price comes from our own checkout runs](https://dev.to/marco_kohns_f07d8496a3f28/building-a-price-comparison-site-where-every-price-comes-from-our-own-checkout-runs-94k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
