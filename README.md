@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Claude Just Designed Better Quantum Circuits Than Human Experts](https://dev.to/gabby_six/claude-just-designed-better-quantum-circuits-than-human-experts-4kcl)
-- [How much tax should a sole trader set aside in Australia &lpar;2026-27&rpar;? A worked example](https://dev.to/quillroo/how-much-tax-should-a-sole-trader-set-aside-in-australia-2026-27-a-worked-example-ln0)
-- [The Python Copy Bug That Looks Fine in Code Review](https://dev.to/realdev9868/the-python-copy-bug-that-looks-fine-in-code-review-9k)
-- [Type a pipe&lpar;&rpar; That Checks Every Step: Variadic Tuples, infer and One Recursive Type](https://dev.to/gabrielanhaia/type-a-pipe-that-checks-every-step-variadic-tuples-infer-and-one-recursive-type-2pah)
-- [Agent Skills Go to the Lab](https://dev.to/max_quimby/agent-skills-go-to-the-lab-10cj)
+- [Building Resilient TypeScript REST APIs in Node.js with PostgreSQL: Beyond Basic CRUD](https://dev.to/abhishek-tiwari-dev/building-resilient-typescript-rest-apis-in-nodejs-with-postgresql-beyond-basic-crud-2icn)
+- [Fix: useSearchParams&lpar;&rpar; Should Be Wrapped in a Suspense Boundary &lpar;and Why It Only Breaks at Build&rpar;](https://dev.to/anas_sheikh_2/fix-usesearchparams-should-be-wrapped-in-a-suspense-boundary-and-why-it-only-breaks-at-build-4l8l)
+- [A Closed Testing Tracker: What to Log Every Day](https://dev.to/vmzavas/a-closed-testing-tracker-what-to-log-every-day-3ebl)
+- [moshcode work: 50 agents, one verifier, and an inbox](https://dev.to/chovy/moshcode-work-50-agents-one-verifier-and-an-inbox-2g98)
+- [REA: ask your coding agent how a finished app works](https://dev.to/apovalov/rea-ask-your-coding-agent-how-a-finished-app-works-1ebd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
