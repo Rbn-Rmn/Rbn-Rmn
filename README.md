@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [GPT-6 Pro in ChatGPT Adds Faster Workflows and New Options for Agent-Based Tasks](https://dev.to/alifar/gpt-6-pro-in-chatgpt-adds-faster-workflows-and-new-options-for-agent-based-tasks-994)
-- [The Illusion of Progress: how a typo in my custom mutator sent my fuzzer into the wrong parser](https://dev.to/malwaredante/the-illusion-of-progress-how-a-typo-in-my-custom-mutator-sent-my-fuzzer-into-the-wrong-parser-435j)
-- [Exposed Credentials: The Common Failure Behind Rogue AI Agents and Router Hijacks](https://dev.to/yanoai/exposed-credentials-the-common-failure-behind-rogue-ai-agents-and-router-hijacks-3ggb)
-- [Postgres &quot;deadlock detected&quot;: Fix the Lock Order First, Then Add a Retry](https://dev.to/libme/postgres-deadlock-detected-fix-the-lock-order-first-then-add-a-retry-3ip1)
-- [Building a price comparison site where every price comes from our own checkout runs](https://dev.to/marco_kohns_f07d8496a3f28/building-a-price-comparison-site-where-every-price-comes-from-our-own-checkout-runs-94k)
+- [Top Dev Tools &amp; Tutorials of the Week: Azure AI, GitHub Copilot, and More](https://dev.to/karleeov/top-dev-tools-tutorials-of-the-week-azure-ai-github-copilot-and-more-1152)
+- [Public-Sector Appointment Authentication via Cheap SMS API &lpar;Node.js 2FA Evidence&rpar;](https://dev.to/fletchervance3712/public-sector-appointment-authentication-via-cheap-sms-api-nodejs-2fa-evidence-28n2)
+- [I replaced three IT spreadsheets with three single-file HTML tools](https://dev.to/marcosblg/i-replaced-three-it-spreadsheets-with-three-single-file-html-tools-38mf)
+- [Relevance Tuning for Privacy-Focused Knowledge Retrieval at Index Scale](https://dev.to/jedidiahrhodes8293/relevance-tuning-for-privacy-focused-knowledge-retrieval-at-index-scale-2afb)
+- [Why I Compare Push and Pull by Rollback Safety for Small SaaS Custom Metrics Dashboards](https://dev.to/ignazcole6453/why-i-compare-push-and-pull-by-rollback-safety-for-small-saas-custom-metrics-dashboards-eaa)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
