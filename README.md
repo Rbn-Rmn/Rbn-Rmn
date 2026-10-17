@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building Resilient TypeScript REST APIs in Node.js with PostgreSQL: Beyond Basic CRUD](https://dev.to/abhishek-tiwari-dev/building-resilient-typescript-rest-apis-in-nodejs-with-postgresql-beyond-basic-crud-2icn)
-- [Fix: useSearchParams&lpar;&rpar; Should Be Wrapped in a Suspense Boundary &lpar;and Why It Only Breaks at Build&rpar;](https://dev.to/anas_sheikh_2/fix-usesearchparams-should-be-wrapped-in-a-suspense-boundary-and-why-it-only-breaks-at-build-4l8l)
-- [A Closed Testing Tracker: What to Log Every Day](https://dev.to/vmzavas/a-closed-testing-tracker-what-to-log-every-day-3ebl)
-- [moshcode work: 50 agents, one verifier, and an inbox](https://dev.to/chovy/moshcode-work-50-agents-one-verifier-and-an-inbox-2g98)
-- [REA: ask your coding agent how a finished app works](https://dev.to/apovalov/rea-ask-your-coding-agent-how-a-finished-app-works-1ebd)
+- [Why Small Businesses Are Exploring Direct to Consumer Models.](https://dev.to/survi3/why-small-businesses-are-exploring-direct-to-consumer-models-1ica)
+- [Teaching an AI agent to forget a deleted Redshift row](https://dev.to/akshatji/teaching-an-ai-agent-to-forget-a-deleted-redshift-row-2mdf)
+- [KIRA Masterclass: Complete 11-Part Video Guide to the Sovereign AI Media Studio](https://dev.to/mdr_studio_4d9a19a78abe01/kira-masterclass-complete-11-part-video-guide-to-the-sovereign-ai-media-studio-p9l)
+- [Training for quantization: QAT, 1-bit BitNet and 1.58-bit weights](https://dev.to/susheem-k/training-for-quantization-qat-1-bit-bitnet-and-158-bit-weights-32b9)
+- [Building an Air-Gapped PII Redactor &amp; Freelance NDA Auditor &lpar;Why Open AI is the Only Way This Side Hustle Works&rpar;](https://dev.to/grkadam7/building-an-air-gapped-pii-redactor-freelance-nda-auditor-why-open-ai-is-the-only-way-this-side-m3e)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
