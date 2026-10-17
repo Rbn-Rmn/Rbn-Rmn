@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Como Desenvolvemos um Metabuscador de Voos em Tempo Real para Reduzir Custos de Viagem](https://dev.to/luciano_rubens_03b976fba8/como-desenvolvemos-um-metabuscador-de-voos-em-tempo-real-para-reduzir-custos-de-viagem-57eg)
-- [JPEG XL vs AVIF: Choosing the Right Image Format for Core Web Vitals](https://dev.to/nughes/jpeg-xl-vs-avif-choosing-the-right-image-format-for-core-web-vitals-36ej)
-- [Building a Multi-Engine 3D Generation API: Routing, Credits, and Webhooks](https://dev.to/trify3d/building-a-multi-engine-3d-generation-api-routing-credits-and-webhooks-2jf6)
-- [Mastering Amazon EC2: Compute, Storage, Networking and Recovery](https://dev.to/aws-builders/mastering-amazon-ec2-compute-storage-networking-and-recovery-31df)
-- [Professional Antipatterns: When Asking for a Promotion Becomes Blackmail](https://dev.to/lezli01/professional-antipatterns-when-asking-for-a-promotion-becomes-blackmail-577e)
+- [MemoTune: turn lyrics or ideas into full AI songs](https://dev.to/alvy_mixstudio/memotune-turn-lyrics-or-ideas-into-full-ai-songs-1bjb)
+- [Sprite Flow: AI sprite generator for 2D game animations](https://dev.to/alvy_mixstudio/sprite-flow-ai-sprite-generator-for-2d-game-animations-2g5n)
+- [MenuGlot: Offline AI Menu Maker for Local Restaurants](https://dev.to/sarvadnya_sonje_f5007623b/menuglot-offline-ai-menu-maker-for-local-restaurants-gn1)
+- [[Boost]](https://dev.to/ujjwal_gupta_e4460bbf99d9/-5cd3)
+- [Vyorin Budget — The Budget Tracker People Actually Keep Using](https://dev.to/suprabhatdas/vyorin-budget-the-budget-tracker-people-actually-keep-using-2ahl)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
