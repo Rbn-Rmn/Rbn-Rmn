@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [We check 50,000 paid x402 endpoints every day. Here&#39;s what works and what breaks.](https://dev.to/fizzl13/we-check-50000-paid-x402-endpoints-every-day-heres-what-works-and-what-breaks-554j)
-- [AgentSCM - Catch agent merge conflicts at edit time, not merge time.](https://dev.to/cbjonny/agentscm-catch-agent-merge-conflicts-at-edit-time-not-merge-time-4h77)
-- [Magnitude vs Ollama: Hardware-Tuned Kernels Cut Inference Latency in Half](https://dev.to/dave_mille/magnitude-vs-ollama-hardware-tuned-kernels-cut-inference-latency-in-half-1flk)
-- [One API Call Deleted PocketOS&#39;s Database in 9 Seconds. Three Things Had to Fail](https://dev.to/gabrielanhaia/one-api-call-deleted-pocketoss-database-in-9-seconds-three-things-had-to-fail-5faa)
-- [Flashcards for study](https://dev.to/kalebers/flashcards-for-study-3cfa)
+- [Translating Cursor Primitives Across AI Harnesses: Lessons from pstack-claude](https://dev.to/marcus_reed/translating-cursor-primitives-across-ai-harnesses-lessons-from-pstack-claude-3dj1)
+- [CLI-Anything: Bridging AI Agents and Software Workflows](https://dev.to/gittrending/cli-anything-bridging-ai-agents-and-software-workflows-1mh6)
+- [5 AI Travel Product Failure Cases: They All Died in the Same Place](https://dev.to/iamthedev/5-ai-travel-product-failure-cases-they-all-died-in-the-same-place-39ok)
+- [Google Dorking: 20 Queries That Expose What Search Engines Index](https://dev.to/abhinavsingwal/google-dorking-20-queries-that-expose-what-search-engines-index-b60)
+- [Localizing Open-Source ERP: How Odoo 19 is Adapted for Solar Hijri, Complex Tax, and RTL](https://dev.to/mohammad_mostafazadeh_f0a/localizing-open-source-erp-how-odoo-19-is-adapted-for-solar-hijri-complex-tax-and-rtl-4m9i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
