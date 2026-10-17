@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Small Businesses Are Exploring Direct to Consumer Models.](https://dev.to/survi3/why-small-businesses-are-exploring-direct-to-consumer-models-1ica)
-- [Teaching an AI agent to forget a deleted Redshift row](https://dev.to/akshatji/teaching-an-ai-agent-to-forget-a-deleted-redshift-row-2mdf)
-- [KIRA Masterclass: Complete 11-Part Video Guide to the Sovereign AI Media Studio](https://dev.to/mdr_studio_4d9a19a78abe01/kira-masterclass-complete-11-part-video-guide-to-the-sovereign-ai-media-studio-p9l)
-- [Training for quantization: QAT, 1-bit BitNet and 1.58-bit weights](https://dev.to/susheem-k/training-for-quantization-qat-1-bit-bitnet-and-158-bit-weights-32b9)
-- [Building an Air-Gapped PII Redactor &amp; Freelance NDA Auditor &lpar;Why Open AI is the Only Way This Side Hustle Works&rpar;](https://dev.to/grkadam7/building-an-air-gapped-pii-redactor-freelance-nda-auditor-why-open-ai-is-the-only-way-this-side-m3e)
+- [Como Desenvolvemos um Metabuscador de Voos em Tempo Real para Reduzir Custos de Viagem](https://dev.to/luciano_rubens_03b976fba8/como-desenvolvemos-um-metabuscador-de-voos-em-tempo-real-para-reduzir-custos-de-viagem-57eg)
+- [JPEG XL vs AVIF: Choosing the Right Image Format for Core Web Vitals](https://dev.to/nughes/jpeg-xl-vs-avif-choosing-the-right-image-format-for-core-web-vitals-36ej)
+- [Building a Multi-Engine 3D Generation API: Routing, Credits, and Webhooks](https://dev.to/trify3d/building-a-multi-engine-3d-generation-api-routing-credits-and-webhooks-2jf6)
+- [Mastering Amazon EC2: Compute, Storage, Networking and Recovery](https://dev.to/aws-builders/mastering-amazon-ec2-compute-storage-networking-and-recovery-31df)
+- [Professional Antipatterns: When Asking for a Promotion Becomes Blackmail](https://dev.to/lezli01/professional-antipatterns-when-asking-for-a-promotion-becomes-blackmail-577e)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
