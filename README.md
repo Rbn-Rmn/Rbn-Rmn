@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [MemoTune: turn lyrics or ideas into full AI songs](https://dev.to/alvy_mixstudio/memotune-turn-lyrics-or-ideas-into-full-ai-songs-1bjb)
-- [Sprite Flow: AI sprite generator for 2D game animations](https://dev.to/alvy_mixstudio/sprite-flow-ai-sprite-generator-for-2d-game-animations-2g5n)
-- [MenuGlot: Offline AI Menu Maker for Local Restaurants](https://dev.to/sarvadnya_sonje_f5007623b/menuglot-offline-ai-menu-maker-for-local-restaurants-gn1)
-- [[Boost]](https://dev.to/ujjwal_gupta_e4460bbf99d9/-5cd3)
-- [Vyorin Budget — The Budget Tracker People Actually Keep Using](https://dev.to/suprabhatdas/vyorin-budget-the-budget-tracker-people-actually-keep-using-2ahl)
+- [We check 50,000 paid x402 endpoints every day. Here&#39;s what works and what breaks.](https://dev.to/fizzl13/we-check-50000-paid-x402-endpoints-every-day-heres-what-works-and-what-breaks-554j)
+- [AgentSCM - Catch agent merge conflicts at edit time, not merge time.](https://dev.to/cbjonny/agentscm-catch-agent-merge-conflicts-at-edit-time-not-merge-time-4h77)
+- [Magnitude vs Ollama: Hardware-Tuned Kernels Cut Inference Latency in Half](https://dev.to/dave_mille/magnitude-vs-ollama-hardware-tuned-kernels-cut-inference-latency-in-half-1flk)
+- [One API Call Deleted PocketOS&#39;s Database in 9 Seconds. Three Things Had to Fail](https://dev.to/gabrielanhaia/one-api-call-deleted-pocketoss-database-in-9-seconds-three-things-had-to-fail-5faa)
+- [Flashcards for study](https://dev.to/kalebers/flashcards-for-study-3cfa)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
