@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Top Dev Tools &amp; Tutorials of the Week: Azure AI, GitHub Copilot, and More](https://dev.to/karleeov/top-dev-tools-tutorials-of-the-week-azure-ai-github-copilot-and-more-1152)
-- [Public-Sector Appointment Authentication via Cheap SMS API &lpar;Node.js 2FA Evidence&rpar;](https://dev.to/fletchervance3712/public-sector-appointment-authentication-via-cheap-sms-api-nodejs-2fa-evidence-28n2)
-- [I replaced three IT spreadsheets with three single-file HTML tools](https://dev.to/marcosblg/i-replaced-three-it-spreadsheets-with-three-single-file-html-tools-38mf)
-- [Relevance Tuning for Privacy-Focused Knowledge Retrieval at Index Scale](https://dev.to/jedidiahrhodes8293/relevance-tuning-for-privacy-focused-knowledge-retrieval-at-index-scale-2afb)
-- [Why I Compare Push and Pull by Rollback Safety for Small SaaS Custom Metrics Dashboards](https://dev.to/ignazcole6453/why-i-compare-push-and-pull-by-rollback-safety-for-small-saas-custom-metrics-dashboards-eaa)
+- [Claude Just Designed Better Quantum Circuits Than Human Experts](https://dev.to/gabby_six/claude-just-designed-better-quantum-circuits-than-human-experts-4kcl)
+- [How much tax should a sole trader set aside in Australia &lpar;2026-27&rpar;? A worked example](https://dev.to/quillroo/how-much-tax-should-a-sole-trader-set-aside-in-australia-2026-27-a-worked-example-ln0)
+- [The Python Copy Bug That Looks Fine in Code Review](https://dev.to/realdev9868/the-python-copy-bug-that-looks-fine-in-code-review-9k)
+- [Type a pipe&lpar;&rpar; That Checks Every Step: Variadic Tuples, infer and One Recursive Type](https://dev.to/gabrielanhaia/type-a-pipe-that-checks-every-step-variadic-tuples-infer-and-one-recursive-type-2pah)
+- [Agent Skills Go to the Lab](https://dev.to/max_quimby/agent-skills-go-to-the-lab-10cj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
