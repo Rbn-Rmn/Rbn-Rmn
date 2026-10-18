@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why We Put Our Company Brain in FalkorDB: Building NEXUS](https://dev.to/prasannaram2k4/why-we-put-our-company-brain-in-falkordb-building-nexus-21dh)
-- [n8n: The Workflow Looked Finished and Never Ran. Save vs Execute vs Publish, Explained](https://dev.to/robert_breen_d96e41ecd765/n8n-the-workflow-looked-finished-and-never-ran-save-vs-execute-vs-publish-explained-d44)
-- [Notes from a 2 AM On-Call: Why Our Android CI Containers Silently Froze &lpar;And the iptables Rule That Fixed It&rpar;](https://dev.to/hannah_schmidt/notes-from-a-2-am-on-call-why-our-android-ci-containers-silently-froze-and-the-iptables-rule-that-8pg)
-- [Everything You Need to Know About Prompt Engineering for Coding Agents](https://dev.to/localeostackio/everything-you-need-to-know-about-prompt-engineering-for-coding-agents-14d7)
-- [AI Agent Human Handoff Patterns That Keep Users Happy](https://dev.to/veduis/ai-agent-human-handoff-patterns-that-keep-users-happy-86d)
+- [Nobody keeps the AWS network diagram current. I built a tool for it](https://dev.to/karinapp/nobody-keeps-the-aws-network-diagram-current-i-built-a-tool-for-it-284d)
+- [Why seeking in Electron&#39;s video player stutters – and how I fixed it](https://dev.to/nrnworld/why-seeking-in-electrons-stutters-and-how-i-fixed-it-16m5)
+- [Schwab, JPMorgan and Citi Block AI Agents That Log In With Your Password](https://dev.to/gabrielanhaia/schwab-jpmorgan-and-citi-block-ai-agents-that-log-in-with-your-password-2j3n)
+- [RepoMedic: An AI Debugging Assistant That Runs Locally 🔧](https://dev.to/ranit_das_2005/repomedic-an-ai-debugging-assistant-that-runs-locally-174j)
+- [SecureNotes AI: The 100% Offline, Private Meeting Intake Tool for Solopreneurs](https://dev.to/deepak7737/securenotes-ai-the-100-offline-private-meeting-intake-tool-for-solopreneurs-3g06)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
