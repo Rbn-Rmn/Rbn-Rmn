@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Translating Cursor Primitives Across AI Harnesses: Lessons from pstack-claude](https://dev.to/marcus_reed/translating-cursor-primitives-across-ai-harnesses-lessons-from-pstack-claude-3dj1)
-- [CLI-Anything: Bridging AI Agents and Software Workflows](https://dev.to/gittrending/cli-anything-bridging-ai-agents-and-software-workflows-1mh6)
-- [5 AI Travel Product Failure Cases: They All Died in the Same Place](https://dev.to/iamthedev/5-ai-travel-product-failure-cases-they-all-died-in-the-same-place-39ok)
-- [Google Dorking: 20 Queries That Expose What Search Engines Index](https://dev.to/abhinavsingwal/google-dorking-20-queries-that-expose-what-search-engines-index-b60)
-- [Localizing Open-Source ERP: How Odoo 19 is Adapted for Solar Hijri, Complex Tax, and RTL](https://dev.to/mohammad_mostafazadeh_f0a/localizing-open-source-erp-how-odoo-19-is-adapted-for-solar-hijri-complex-tax-and-rtl-4m9i)
+- [Testing an AI Refund Workflow: Allow, Deny, Modify, and Escalate](https://dev.to/adamdistefanoai/testing-an-ai-refund-workflow-allow-deny-modify-and-escalate-4b70)
+- [The Hidden Math of Etsy: Why I Ditched Spreadsheets for Code](https://dev.to/sellermind/the-hidden-math-of-etsy-why-i-ditched-spreadsheets-for-code-912)
+- [Building a construction WIP schedule in Python: percent complete, over and under billing, and the month-end entry](https://dev.to/zerabooks/building-a-construction-wip-schedule-in-python-percent-complete-over-and-under-billing-and-the-3kb6)
+- [Privacy Budgets for Test Email in Web Apps](https://dev.to/bitheirstake/privacy-budgets-for-test-email-in-web-apps-4i1m)
+- [48-Hour Field Notes: The Batch Worker Vanished and My Re-Run Redid Every Item](https://dev.to/codepy_1473/48-hour-field-notes-the-batch-worker-vanished-and-my-re-run-redid-every-item-505k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
