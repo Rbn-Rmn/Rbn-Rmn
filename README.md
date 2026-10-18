@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Nobody keeps the AWS network diagram current. I built a tool for it](https://dev.to/karinapp/nobody-keeps-the-aws-network-diagram-current-i-built-a-tool-for-it-284d)
-- [Why seeking in Electron&#39;s video player stutters – and how I fixed it](https://dev.to/nrnworld/why-seeking-in-electrons-stutters-and-how-i-fixed-it-16m5)
-- [Schwab, JPMorgan and Citi Block AI Agents That Log In With Your Password](https://dev.to/gabrielanhaia/schwab-jpmorgan-and-citi-block-ai-agents-that-log-in-with-your-password-2j3n)
-- [RepoMedic: An AI Debugging Assistant That Runs Locally 🔧](https://dev.to/ranit_das_2005/repomedic-an-ai-debugging-assistant-that-runs-locally-174j)
-- [SecureNotes AI: The 100% Offline, Private Meeting Intake Tool for Solopreneurs](https://dev.to/deepak7737/securenotes-ai-the-100-offline-private-meeting-intake-tool-for-solopreneurs-3g06)
+- [AI and the Art of Redefinition](https://dev.to/mba_2023/ai-and-the-art-of-redefinition-4jkk)
+- [Why Coding Agents Turn a CRLF File Into a Whole-File Diff, and What Codex 0.162 Changed](https://dev.to/gabrielanhaia/why-coding-agents-turn-a-crlf-file-into-a-whole-file-diff-and-what-codex-0162-changed-ng5)
+- [Building GraphGuard: How a Graph Database Transformed Cybersecurity Investigation](https://dev.to/krishnakapoor612/building-graphguard-how-a-graph-database-transformed-cybersecurity-investigation-d49)
+- [Session Auditing on a Remote-Support Appliance: What Survives a Rebuild](https://dev.to/facilishz/session-auditing-on-a-remote-support-appliance-what-survives-a-rebuild-8h1)
+- [Making a JavaScript-drawn page readable to crawlers: pre-rendering at build time and auto-noindex for thin pages](https://dev.to/sungprofile/making-a-javascript-drawn-page-readable-to-crawlers-pre-rendering-at-build-time-and-auto-noindex-1fo4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
