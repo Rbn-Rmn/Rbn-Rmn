@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [calablAPAccugGapQL](https://dev.to/kevin_jang_200b10826b3a5d/calablapaccuggapql-4cob)
-- [End-to-end tests that read real email, without a disposable-inbox service](https://dev.to/oscdev/end-to-end-tests-that-read-real-email-without-a-disposable-inbox-service-1378)
-- [Building AegisMesh: Autonomous Security Operations &amp; Zero-Trust Mesh for Linux in Python 🛡️⚡](https://dev.to/engjodev/building-aegismesh-autonomous-security-operations-zero-trust-mesh-for-linux-in-python-4fb9)
-- [Street Fighter 6 Data Fetch Issue: Automating Session ID Updates to Eliminate Manual URL Adjustments](https://dev.to/denlava/street-fighter-6-data-fetch-issue-automating-session-id-updates-to-eliminate-manual-url-adjustments-5cmg)
-- [Rust-Powered Developer Tooling: Why Modern Package Managers and Data Frameworks are Moving to Rust](https://dev.to/tamizuddin/rust-powered-developer-tooling-why-modern-package-managers-and-data-frameworks-are-moving-to-rust-2m55)
+- [Why We Put Our Company Brain in FalkorDB: Building NEXUS](https://dev.to/prasannaram2k4/why-we-put-our-company-brain-in-falkordb-building-nexus-21dh)
+- [n8n: The Workflow Looked Finished and Never Ran. Save vs Execute vs Publish, Explained](https://dev.to/robert_breen_d96e41ecd765/n8n-the-workflow-looked-finished-and-never-ran-save-vs-execute-vs-publish-explained-d44)
+- [Notes from a 2 AM On-Call: Why Our Android CI Containers Silently Froze &lpar;And the iptables Rule That Fixed It&rpar;](https://dev.to/hannah_schmidt/notes-from-a-2-am-on-call-why-our-android-ci-containers-silently-froze-and-the-iptables-rule-that-8pg)
+- [Everything You Need to Know About Prompt Engineering for Coding Agents](https://dev.to/localeostackio/everything-you-need-to-know-about-prompt-engineering-for-coding-agents-14d7)
+- [AI Agent Human Handoff Patterns That Keep Users Happy](https://dev.to/veduis/ai-agent-human-handoff-patterns-that-keep-users-happy-86d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
