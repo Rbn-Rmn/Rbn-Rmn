@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Testing an AI Refund Workflow: Allow, Deny, Modify, and Escalate](https://dev.to/adamdistefanoai/testing-an-ai-refund-workflow-allow-deny-modify-and-escalate-4b70)
-- [The Hidden Math of Etsy: Why I Ditched Spreadsheets for Code](https://dev.to/sellermind/the-hidden-math-of-etsy-why-i-ditched-spreadsheets-for-code-912)
-- [Building a construction WIP schedule in Python: percent complete, over and under billing, and the month-end entry](https://dev.to/zerabooks/building-a-construction-wip-schedule-in-python-percent-complete-over-and-under-billing-and-the-3kb6)
-- [Privacy Budgets for Test Email in Web Apps](https://dev.to/bitheirstake/privacy-budgets-for-test-email-in-web-apps-4i1m)
-- [48-Hour Field Notes: The Batch Worker Vanished and My Re-Run Redid Every Item](https://dev.to/codepy_1473/48-hour-field-notes-the-batch-worker-vanished-and-my-re-run-redid-every-item-505k)
+- [An AI agent made our 84-second product film. Here&#39;s the pipeline](https://dev.to/stockexpertai/an-ai-agent-made-our-84-second-product-film-heres-the-pipeline-4pd5)
+- [Replay One Span, Not the Whole Run](https://dev.to/codepro_3283/replay-one-span-not-the-whole-run-4ie0)
+- [SSH keeps dying after 2 minutes? It’s not the firewall, it’s idleness.](https://dev.to/aditya_an1l/ssh-keeps-dying-after-2-minutes-its-not-the-firewall-its-idleness-14o3)
+- [Audit the Grader Before You Trust the Score](https://dev.to/byteio_3726/audit-the-grader-before-you-trust-the-score-4fik)
+- [Find the Concurrency Where Local Inference Stops Winning](https://dev.to/gitjs_8094/find-the-concurrency-where-local-inference-stops-winning-78f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
