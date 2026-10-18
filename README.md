@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [An AI agent made our 84-second product film. Here&#39;s the pipeline](https://dev.to/stockexpertai/an-ai-agent-made-our-84-second-product-film-heres-the-pipeline-4pd5)
-- [Replay One Span, Not the Whole Run](https://dev.to/codepro_3283/replay-one-span-not-the-whole-run-4ie0)
-- [SSH keeps dying after 2 minutes? It’s not the firewall, it’s idleness.](https://dev.to/aditya_an1l/ssh-keeps-dying-after-2-minutes-its-not-the-firewall-its-idleness-14o3)
-- [Audit the Grader Before You Trust the Score](https://dev.to/byteio_3726/audit-the-grader-before-you-trust-the-score-4fik)
-- [Find the Concurrency Where Local Inference Stops Winning](https://dev.to/gitjs_8094/find-the-concurrency-where-local-inference-stops-winning-78f)
+- [calablAPAccugGapQL](https://dev.to/kevin_jang_200b10826b3a5d/calablapaccuggapql-4cob)
+- [End-to-end tests that read real email, without a disposable-inbox service](https://dev.to/oscdev/end-to-end-tests-that-read-real-email-without-a-disposable-inbox-service-1378)
+- [Building AegisMesh: Autonomous Security Operations &amp; Zero-Trust Mesh for Linux in Python 🛡️⚡](https://dev.to/engjodev/building-aegismesh-autonomous-security-operations-zero-trust-mesh-for-linux-in-python-4fb9)
+- [Street Fighter 6 Data Fetch Issue: Automating Session ID Updates to Eliminate Manual URL Adjustments](https://dev.to/denlava/street-fighter-6-data-fetch-issue-automating-session-id-updates-to-eliminate-manual-url-adjustments-5cmg)
+- [Rust-Powered Developer Tooling: Why Modern Package Managers and Data Frameworks are Moving to Rust](https://dev.to/tamizuddin/rust-powered-developer-tooling-why-modern-package-managers-and-data-frameworks-are-moving-to-rust-2m55)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
