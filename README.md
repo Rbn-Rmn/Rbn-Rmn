@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [FixFlow: Small Spaces. Clear Requests.](https://dev.to/pranitha_prakash_6c8f7ad7/fixflow-small-spaces-clear-requests-321k)
-- [Gnosk — Know what your code knows](https://dev.to/vinksgoyal/gnosk-know-what-your-code-knows-cgd)
-- [I built a free HTML test reporter for Playwright, Jest, Vitest and Cucumber.js that automatically captures API calls, screenshots and retries](https://dev.to/harshad_lambate/i-built-a-free-html-test-reporter-for-playwright-jest-vitest-and-cucumberjs-that-automatically-228p)
-- [What If You Could Boost or Ban Specific Tokens in an LLM?](https://dev.to/rijultp/what-if-you-could-boost-or-ban-specific-tokens-in-an-llm-106l)
-- [OAuth Test Users Need a Privacy Budget](https://dev.to/sophiax99/oauth-test-users-need-a-privacy-budget-3nei)
+- [Turn Salesforce Records into PDFs with Apex: A Developer&#39;s Quick Guide](https://dev.to/rohanmehta/turn-salesforce-records-into-pdfs-with-apex-a-developers-quick-guide-5b2l)
+- [How to Review Your MCP Server’s Tool Descriptions in 40 Lines of Node](https://dev.to/renev3408/how-to-review-your-mcp-servers-tool-descriptions-in-40-lines-of-node-2074)
+- [SLX EchoBench: ultrasound, firmware and FPGAs in a 3D laboratory](https://dev.to/pezzullo/slx-echobench-ultrasound-firmware-and-fpgas-in-a-3d-laboratory-1dea)
+- [I built a free tools site with 200+ tools using Next.js, Tailwind and Supabase](https://dev.to/adnan_ali_cbdd4565f8baa2c/i-built-a-free-tools-site-with-200-tools-using-nextjs-tailwind-and-supabase-3doe)
+- [Verify an Intel TDX Quote From Any Cloud in One Command](https://dev.to/voltagegpu/verify-an-intel-tdx-quote-from-any-cloud-in-one-command-2739)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
