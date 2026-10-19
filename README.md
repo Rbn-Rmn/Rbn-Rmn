@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Engineering a Zero-Dependency, Privacy-First Audio Widget in Under 30KB](https://dev.to/nayeem_software/engineering-a-zero-dependency-privacy-first-audio-widget-in-under-30kb-10ec)
-- [Can AI Agents Safely Manage Physical Devices? 10 Capability Groups Counted, 4 Change-Only](https://dev.to/scriptmasterlabs01/can-ai-agents-safely-manage-physical-devices-10-capability-groups-counted-4-change-only-2h38)
-- [Ledger: A Small-Business Finance Tracker with Groq-Hosted Open-Weight AI](https://dev.to/adorablegamer/ledger-a-small-business-finance-tracker-with-groq-hosted-open-weight-ai-1hn)
-- [Deploy your own PocketBase backend to a remote env in less than an hour](https://dev.to/adelbeit/deploy-your-own-pocketbase-backend-to-a-remote-env-in-less-than-an-hour-4e9c)
-- [ARTF Explained: How a Live Bid Request Gets Patched Before the Auction](https://dev.to/aleksuix/artf-explained-how-a-live-bid-request-gets-patched-before-the-auction-3deg)
+- [FixFlow: Small Spaces. Clear Requests.](https://dev.to/pranitha_prakash_6c8f7ad7/fixflow-small-spaces-clear-requests-321k)
+- [Gnosk — Know what your code knows](https://dev.to/vinksgoyal/gnosk-know-what-your-code-knows-cgd)
+- [I built a free HTML test reporter for Playwright, Jest, Vitest and Cucumber.js that automatically captures API calls, screenshots and retries](https://dev.to/harshad_lambate/i-built-a-free-html-test-reporter-for-playwright-jest-vitest-and-cucumberjs-that-automatically-228p)
+- [What If You Could Boost or Ban Specific Tokens in an LLM?](https://dev.to/rijultp/what-if-you-could-boost-or-ban-specific-tokens-in-an-llm-106l)
+- [OAuth Test Users Need a Privacy Budget](https://dev.to/sophiax99/oauth-test-users-need-a-privacy-budget-3nei)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
