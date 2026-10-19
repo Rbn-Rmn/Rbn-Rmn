@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI and the Art of Redefinition](https://dev.to/mba_2023/ai-and-the-art-of-redefinition-4jkk)
-- [Why Coding Agents Turn a CRLF File Into a Whole-File Diff, and What Codex 0.162 Changed](https://dev.to/gabrielanhaia/why-coding-agents-turn-a-crlf-file-into-a-whole-file-diff-and-what-codex-0162-changed-ng5)
-- [Building GraphGuard: How a Graph Database Transformed Cybersecurity Investigation](https://dev.to/krishnakapoor612/building-graphguard-how-a-graph-database-transformed-cybersecurity-investigation-d49)
-- [Session Auditing on a Remote-Support Appliance: What Survives a Rebuild](https://dev.to/facilishz/session-auditing-on-a-remote-support-appliance-what-survives-a-rebuild-8h1)
-- [Making a JavaScript-drawn page readable to crawlers: pre-rendering at build time and auto-noindex for thin pages](https://dev.to/sungprofile/making-a-javascript-drawn-page-readable-to-crawlers-pre-rendering-at-build-time-and-auto-noindex-1fo4)
+- [Engineering a Zero-Dependency, Privacy-First Audio Widget in Under 30KB](https://dev.to/nayeem_software/engineering-a-zero-dependency-privacy-first-audio-widget-in-under-30kb-10ec)
+- [Can AI Agents Safely Manage Physical Devices? 10 Capability Groups Counted, 4 Change-Only](https://dev.to/scriptmasterlabs01/can-ai-agents-safely-manage-physical-devices-10-capability-groups-counted-4-change-only-2h38)
+- [Ledger: A Small-Business Finance Tracker with Groq-Hosted Open-Weight AI](https://dev.to/adorablegamer/ledger-a-small-business-finance-tracker-with-groq-hosted-open-weight-ai-1hn)
+- [Deploy your own PocketBase backend to a remote env in less than an hour](https://dev.to/adelbeit/deploy-your-own-pocketbase-backend-to-a-remote-env-in-less-than-an-hour-4e9c)
+- [ARTF Explained: How a Live Bid Request Gets Patched Before the Auction](https://dev.to/aleksuix/artf-explained-how-a-live-bid-request-gets-patched-before-the-auction-3deg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
