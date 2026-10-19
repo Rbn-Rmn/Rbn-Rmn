@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Turn Salesforce Records into PDFs with Apex: A Developer&#39;s Quick Guide](https://dev.to/rohanmehta/turn-salesforce-records-into-pdfs-with-apex-a-developers-quick-guide-5b2l)
-- [How to Review Your MCP Server’s Tool Descriptions in 40 Lines of Node](https://dev.to/renev3408/how-to-review-your-mcp-servers-tool-descriptions-in-40-lines-of-node-2074)
-- [SLX EchoBench: ultrasound, firmware and FPGAs in a 3D laboratory](https://dev.to/pezzullo/slx-echobench-ultrasound-firmware-and-fpgas-in-a-3d-laboratory-1dea)
-- [I built a free tools site with 200+ tools using Next.js, Tailwind and Supabase](https://dev.to/adnan_ali_cbdd4565f8baa2c/i-built-a-free-tools-site-with-200-tools-using-nextjs-tailwind-and-supabase-3doe)
-- [Verify an Intel TDX Quote From Any Cloud in One Command](https://dev.to/voltagegpu/verify-an-intel-tdx-quote-from-any-cloud-in-one-command-2739)
+- [Knowledge Base Bot Abstain: No Supporting Article Retrieval](https://dev.to/raylabs/knowledge-base-bot-abstain-no-supporting-article-retrieval-5e72)
+- [What&#39;s new in Styx 0.4.15](https://dev.to/nicholasflemmer/whats-new-in-styx-0415-4knj)
+- [0.920 on the benchmark. Zero findings on Juice Shop.](https://dev.to/janissary/0920-on-the-benchmark-zero-findings-on-juice-shop-2nf8)
+- [Fast Forecast Experiments Still Need to Wait for Outcomes](https://dev.to/keith_azodeh/fast-forecast-experiments-still-need-to-wait-for-outcomes-254c)
+- [Why AI reminders fail, and what we&#39;re building instead](https://dev.to/moralie/why-ai-reminders-fail-and-what-were-building-instead-p0o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
