@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Knowledge Base Bot Abstain: No Supporting Article Retrieval](https://dev.to/raylabs/knowledge-base-bot-abstain-no-supporting-article-retrieval-5e72)
-- [What&#39;s new in Styx 0.4.15](https://dev.to/nicholasflemmer/whats-new-in-styx-0415-4knj)
-- [0.920 on the benchmark. Zero findings on Juice Shop.](https://dev.to/janissary/0920-on-the-benchmark-zero-findings-on-juice-shop-2nf8)
-- [Fast Forecast Experiments Still Need to Wait for Outcomes](https://dev.to/keith_azodeh/fast-forecast-experiments-still-need-to-wait-for-outcomes-254c)
-- [Why AI reminders fail, and what we&#39;re building instead](https://dev.to/moralie/why-ai-reminders-fail-and-what-were-building-instead-p0o)
+- [What survives /compact in Claude Code...](https://dev.to/jgravelle/what-survives-compact-in-claude-code-16a4)
+- [5 retries + 1 success: a referral-invite timing pattern that actually worked](https://dev.to/scsoi/5-retries-1-success-a-referral-invite-timing-pattern-that-actually-worked-3g2a)
+- [n8n AI Agent Tutorial &lpar;2026&rpar;: The New Agents Feature vs the AI Agent Node, on Free Self-Hosted n8n](https://dev.to/crypteasensei/n8n-ai-agent-tutorial-2026-the-new-agents-feature-vs-the-ai-agent-node-on-free-self-hosted-n8n-22ce)
+- [Share Copilot capacity, not accounts: a TASK.md workflow](https://dev.to/wallaceespindola/share-copilot-capacity-not-accounts-a-taskmd-workflow-1kpl)
+- [How to Translate SRT Subtitles with ChatGPT &lpar;Japanese to English&rpar; Without Breaking the Timing + a Free Python Checker](https://dev.to/crypteasensei/how-to-translate-srt-subtitles-with-chatgpt-japanese-to-english-without-breaking-the-timing-a-2266)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
