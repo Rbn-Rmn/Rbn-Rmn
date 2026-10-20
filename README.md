@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Radar · 2026-10-20: The agent stack starts keeping its own books](https://dev.to/widechaos/open-source-radar-2026-10-20-the-agent-stack-starts-keeping-its-own-books-1ehe)
-- [LLM - Tool Calling &amp; MCP](https://dev.to/technonotes/llm-tool-calling-mcp-clm)
-- [Why SaaS Startups Need Data Analytics Before They Need More Customers](https://dev.to/techeruption_58/why-saas-startups-need-data-analytics-before-they-need-more-customers-6ec)
-- [Le vrai problème du vibe coding, ce n&#39;est pas le code, c&#39;est la mémoire](https://dev.to/onepoint/le-vrai-probleme-du-vibe-coding-ce-nest-pas-le-code-cest-la-memoire-4l99)
-- [Do You Really Need an Account for a Private Photo Vault on Android?](https://dev.to/tsidevstudio01/do-you-really-need-an-account-for-a-private-photo-vault-on-android-5h8d)
+- [Spring Security session management and remember me tutorial — Complete Guide](https://dev.to/rajesh1761/spring-security-session-management-and-remember-me-tutorial-complete-guide-20a8)
+- [I added image placement to a browser-based PDF editor. Here&#39;s what broke.](https://dev.to/vyixor/i-added-image-placement-to-a-browser-based-pdf-editor-heres-what-broke-mk5)
+- [There are no Products and no Prices in our Stripe account, and every checkout line item is built from one 73-line file](https://dev.to/daniel_pertu/there-are-no-products-and-no-prices-in-our-stripe-account-and-every-checkout-line-item-is-built-4hhf)
+- [Marks and jumps in Vim: navigate without losing the thread](https://dev.to/fj_palacios/marks-and-jumps-in-vim-navigate-without-losing-the-thread-2a1p)
+- [One find, three channels, and only one of them is allowed to fail quietly](https://dev.to/daniel_pertu/one-find-three-channels-and-only-one-of-them-is-allowed-to-fail-quietly-5e2n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
