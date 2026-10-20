@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Handoff Checklist: What Non-Technical Founders Should Audit Before Scaling Their MVP](https://dev.to/jacek_rozanski/the-handoff-checklist-what-non-technical-founders-should-audit-before-scaling-their-mvp-2c0o)
-- [12 Security Questions Every AI Coding Agent Needs to Be Able to Answer](https://dev.to/getkimchi/12-security-questions-every-ai-coding-agent-needs-to-be-able-to-answer-1jd3)
-- [Bunker: backing up all my VPS from one place](https://dev.to/kushal1o1/bunker-backing-up-all-my-vps-from-one-place-2a90)
-- [agentgateway Standalone: Guardrails, Budgets, Tool Governance](https://dev.to/webofmike/agentgateway-standalone-guardrails-budgets-tool-governance-ddc)
-- [The Dynamic Inference Boundary: AI Coding Is Moving Into the Enterprise](https://dev.to/getkimchi/the-dynamic-inference-boundary-ai-coding-is-moving-into-the-enterprise-4m13)
+- [Slow and Steady: local, open-source AI that helps you work without urgency or cloud lock-in](https://dev.to/mhmmdamier/slow-and-steady-local-open-source-ai-that-helps-you-work-without-urgency-or-cloud-lock-in-51g)
+- [Make your v0 or Cursor app stop looking AI-built in 10 minutes](https://dev.to/teodoravadani/make-your-v0-or-cursor-app-stop-looking-ai-built-in-10-minutes-46jg)
+- [Green Screen vs AI Background Removal: They&#39;re Not Playing the Same Game &lpar;Scenario Table Inside&rpar;](https://dev.to/removebgfromvideo/green-screen-vs-ai-background-removal-theyre-not-playing-the-same-game-scenario-table-inside-22l9)
+- [Building a Zero-Ad, Sub-100ms Build Planner for Shape of Dreams on Astro 4](https://dev.to/powerechozhang/building-a-zero-ad-sub-100ms-build-planner-for-shape-of-dreams-on-astro-4-2630)
+- [Why 6% stablecoin APY can lose to a $12 round trip](https://dev.to/livasticvm3primarytmp260920/why-6-stablecoin-apy-can-lose-to-a-12-round-trip-3ooi)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
