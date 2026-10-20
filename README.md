@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What survives /compact in Claude Code...](https://dev.to/jgravelle/what-survives-compact-in-claude-code-16a4)
-- [5 retries + 1 success: a referral-invite timing pattern that actually worked](https://dev.to/scsoi/5-retries-1-success-a-referral-invite-timing-pattern-that-actually-worked-3g2a)
-- [n8n AI Agent Tutorial &lpar;2026&rpar;: The New Agents Feature vs the AI Agent Node, on Free Self-Hosted n8n](https://dev.to/crypteasensei/n8n-ai-agent-tutorial-2026-the-new-agents-feature-vs-the-ai-agent-node-on-free-self-hosted-n8n-22ce)
-- [Share Copilot capacity, not accounts: a TASK.md workflow](https://dev.to/wallaceespindola/share-copilot-capacity-not-accounts-a-taskmd-workflow-1kpl)
-- [How to Translate SRT Subtitles with ChatGPT &lpar;Japanese to English&rpar; Without Breaking the Timing + a Free Python Checker](https://dev.to/crypteasensei/how-to-translate-srt-subtitles-with-chatgpt-japanese-to-english-without-breaking-the-timing-a-2266)
+- [Running Linux Inside a PDF: linuxpdf](https://dev.to/emuzinun/running-linux-inside-a-pdf-linuxpdf-2cl2)
+- [What Is XSS? The Basics and a Hands-On DVWA Demo](https://dev.to/emuzinun/what-is-xss-the-basics-and-a-hands-on-dvwa-demo-29fa)
+- [Sloth — the lazy task triager &lpar;local Gemma does your organizing&rpar;](https://dev.to/raju12345raju/sloth-the-lazy-task-triager-local-gemma-does-your-organizing-5hep)
+- [The no-tool case: the drawer my tool-call registry lacked](https://dev.to/tallybexro/the-no-tool-case-the-drawer-my-tool-call-registry-lacked-3gfg)
+- [The Sloth That Never Sleeps: Building NirvanaPilot, the Ambient Architectural Subconscious for GitHub Copilot](https://dev.to/hazemababneh/the-sloth-that-never-sleeps-building-nirvanapilot-the-ambient-architectural-subconscious-for-1i5p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
