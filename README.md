@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Running Linux Inside a PDF: linuxpdf](https://dev.to/emuzinun/running-linux-inside-a-pdf-linuxpdf-2cl2)
-- [What Is XSS? The Basics and a Hands-On DVWA Demo](https://dev.to/emuzinun/what-is-xss-the-basics-and-a-hands-on-dvwa-demo-29fa)
-- [Sloth — the lazy task triager &lpar;local Gemma does your organizing&rpar;](https://dev.to/raju12345raju/sloth-the-lazy-task-triager-local-gemma-does-your-organizing-5hep)
-- [The no-tool case: the drawer my tool-call registry lacked](https://dev.to/tallybexro/the-no-tool-case-the-drawer-my-tool-call-registry-lacked-3gfg)
-- [The Sloth That Never Sleeps: Building NirvanaPilot, the Ambient Architectural Subconscious for GitHub Copilot](https://dev.to/hazemababneh/the-sloth-that-never-sleeps-building-nirvanapilot-the-ambient-architectural-subconscious-for-1i5p)
+- [Open Source Radar · 2026-10-20: The agent stack starts keeping its own books](https://dev.to/widechaos/open-source-radar-2026-10-20-the-agent-stack-starts-keeping-its-own-books-1ehe)
+- [LLM - Tool Calling &amp; MCP](https://dev.to/technonotes/llm-tool-calling-mcp-clm)
+- [Why SaaS Startups Need Data Analytics Before They Need More Customers](https://dev.to/techeruption_58/why-saas-startups-need-data-analytics-before-they-need-more-customers-6ec)
+- [Le vrai problème du vibe coding, ce n&#39;est pas le code, c&#39;est la mémoire](https://dev.to/onepoint/le-vrai-probleme-du-vibe-coding-ce-nest-pas-le-code-cest-la-memoire-4l99)
+- [Do You Really Need an Account for a Private Photo Vault on Android?](https://dev.to/tsidevstudio01/do-you-really-need-an-account-for-a-private-photo-vault-on-android-5h8d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
