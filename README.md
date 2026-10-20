@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Spring Security session management and remember me tutorial — Complete Guide](https://dev.to/rajesh1761/spring-security-session-management-and-remember-me-tutorial-complete-guide-20a8)
-- [I added image placement to a browser-based PDF editor. Here&#39;s what broke.](https://dev.to/vyixor/i-added-image-placement-to-a-browser-based-pdf-editor-heres-what-broke-mk5)
-- [There are no Products and no Prices in our Stripe account, and every checkout line item is built from one 73-line file](https://dev.to/daniel_pertu/there-are-no-products-and-no-prices-in-our-stripe-account-and-every-checkout-line-item-is-built-4hhf)
-- [Marks and jumps in Vim: navigate without losing the thread](https://dev.to/fj_palacios/marks-and-jumps-in-vim-navigate-without-losing-the-thread-2a1p)
-- [One find, three channels, and only one of them is allowed to fail quietly](https://dev.to/daniel_pertu/one-find-three-channels-and-only-one-of-them-is-allowed-to-fail-quietly-5e2n)
+- [The Handoff Checklist: What Non-Technical Founders Should Audit Before Scaling Their MVP](https://dev.to/jacek_rozanski/the-handoff-checklist-what-non-technical-founders-should-audit-before-scaling-their-mvp-2c0o)
+- [12 Security Questions Every AI Coding Agent Needs to Be Able to Answer](https://dev.to/getkimchi/12-security-questions-every-ai-coding-agent-needs-to-be-able-to-answer-1jd3)
+- [Bunker: backing up all my VPS from one place](https://dev.to/kushal1o1/bunker-backing-up-all-my-vps-from-one-place-2a90)
+- [agentgateway Standalone: Guardrails, Budgets, Tool Governance](https://dev.to/webofmike/agentgateway-standalone-guardrails-budgets-tool-governance-ddc)
+- [The Dynamic Inference Boundary: AI Coding Is Moving Into the Enterprise](https://dev.to/getkimchi/the-dynamic-inference-boundary-ai-coding-is-moving-into-the-enterprise-4m13)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
