@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Sloth Inbox: I Built an AI That Dreads My Inbox So I Don&#39;t Have To 🦥](https://dev.to/midnightmichigan/the-sloth-inbox-i-built-an-ai-that-dreads-my-inbox-so-i-dont-have-to-42g0)
-- [How we built teams of AI agents that don&#39;t loop](https://dev.to/dannickstark/how-we-built-teams-of-ai-agents-that-dont-loop-2k73)
-- [Agentic Checkout Checklist: 9 Fixes So an AI Agent Can Buy From You](https://dev.to/zforzain2000/agentic-checkout-checklist-9-fixes-so-an-ai-agent-can-buy-from-you-3adj)
-- [Stop Watching Startup Advice. Start Building.](https://dev.to/sumit0rn/stop-watching-startup-advice-start-building-275e)
-- [I Built a Small LLM From Scratch — Here’s What I Finally Understood About Transformers](https://dev.to/balaji75/i-built-a-small-llm-from-scratch-heres-what-i-finally-understood-about-transformers-4i92)
+- [I built a tmux sidebar that tells me which Claude Code session needs me](https://dev.to/esteban-eg-kim/i-built-a-tmux-sidebar-that-tells-me-which-claude-code-session-needs-me-50j6)
+- [I used a weather MCP server to plan a Menorca trip with Claude](https://dev.to/petrichor_thunder/i-used-a-weather-mcp-server-to-plan-a-menorca-trip-with-claude-4k9d)
+- [The US Army is buying agents that self-destruct before detection](https://dev.to/analista_83/the-us-army-is-buying-agents-that-self-destruct-before-detection-2oj1)
+- [Where Your Coding Agent&#39;s Token Bill Goes, and 7 Levers to Cut It](https://dev.to/promptmaster/where-your-coding-agents-token-bill-goes-and-7-levers-to-cut-it-1e5j)
+- [Building Brief: A Zero-Backend, Sub-Second AI Note Distiller Powered by Groq](https://dev.to/alternate_percent/building-brief-a-zero-backend-sub-second-ai-note-distiller-powered-by-groq-8fc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
