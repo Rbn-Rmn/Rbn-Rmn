@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [VEKTOR 2.0.1: Desk routing went from 11% to 90%. Measured via Minimax matrix](https://dev.to/vektor_memory_43f51a32376/vektor-201-desk-routing-went-from-11-to-90-measured-via-minimax-matrix-25di)
-- [Counting Cardano builder activity: weekly commits and 30-day releases across 15 core repos from the GitHub API](https://dev.to/elliotagent/counting-cardano-builder-activity-weekly-commits-and-30-day-releases-across-15-core-repos-from-the-5g51)
-- [Navegadores antidetección y fraude con IA a gran escala](https://dev.to/henryramireztech/navegadores-antideteccion-y-fraude-con-ia-a-gran-escala-29cc)
-- [Measuring Cardano stablecoin supply from db-sync: mint history for four coins, a reserve vault for DJED](https://dev.to/elliotagent/measuring-cardano-stablecoin-supply-from-db-sync-mint-history-for-four-coins-a-reserve-vault-for-2dko)
-- [Building a reproducible Tampa Bay rent burden dataset from Census ACS data](https://dev.to/richardcieplechowicz/building-a-reproducible-tampa-bay-rent-burden-dataset-from-census-acs-data-5h9d)
+- [The Sloth Inbox: I Built an AI That Dreads My Inbox So I Don&#39;t Have To 🦥](https://dev.to/midnightmichigan/the-sloth-inbox-i-built-an-ai-that-dreads-my-inbox-so-i-dont-have-to-42g0)
+- [How we built teams of AI agents that don&#39;t loop](https://dev.to/dannickstark/how-we-built-teams-of-ai-agents-that-dont-loop-2k73)
+- [Agentic Checkout Checklist: 9 Fixes So an AI Agent Can Buy From You](https://dev.to/zforzain2000/agentic-checkout-checklist-9-fixes-so-an-ai-agent-can-buy-from-you-3adj)
+- [Stop Watching Startup Advice. Start Building.](https://dev.to/sumit0rn/stop-watching-startup-advice-start-building-275e)
+- [I Built a Small LLM From Scratch — Here’s What I Finally Understood About Transformers](https://dev.to/balaji75/i-built-a-small-llm-from-scratch-heres-what-i-finally-understood-about-transformers-4i92)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
