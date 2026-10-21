@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built a tmux sidebar that tells me which Claude Code session needs me](https://dev.to/esteban-eg-kim/i-built-a-tmux-sidebar-that-tells-me-which-claude-code-session-needs-me-50j6)
-- [I used a weather MCP server to plan a Menorca trip with Claude](https://dev.to/petrichor_thunder/i-used-a-weather-mcp-server-to-plan-a-menorca-trip-with-claude-4k9d)
-- [The US Army is buying agents that self-destruct before detection](https://dev.to/analista_83/the-us-army-is-buying-agents-that-self-destruct-before-detection-2oj1)
-- [Where Your Coding Agent&#39;s Token Bill Goes, and 7 Levers to Cut It](https://dev.to/promptmaster/where-your-coding-agents-token-bill-goes-and-7-levers-to-cut-it-1e5j)
-- [Building Brief: A Zero-Backend, Sub-Second AI Note Distiller Powered by Groq](https://dev.to/alternate_percent/building-brief-a-zero-backend-sub-second-ai-note-distiller-powered-by-groq-8fc)
+- [OpenAI GPT-Rosalind Identifies a DCTN1 Cholesterol Transport Lead for Neurodegeneration](https://dev.to/alifar/openai-gpt-rosalind-identifies-a-dctn1-cholesterol-transport-lead-for-neurodegeneration-47am)
+- [Fridge-Sloth-AI 🦥 - Slow AI that saves your fridge](https://dev.to/poorvashrivas2006/fridge-sloth-ai-slow-ai-that-saves-your-fridge-3m3o)
+- [I compared 446 x402 price tags against live 402 challenges: 8 price errors and 21 token errors](https://dev.to/yagato/i-compared-446-x402-price-tags-against-live-402-challenges-8-price-errors-and-21-token-errors-2aj6)
+- [Nova — Intelligent Incident Triage](https://dev.to/yjamdade49/nova-intelligent-incident-triage-2jkg)
+- [Building a Salesforce-to-LLM Integration With Scoped API Permissions](https://dev.to/arthur_doss/building-a-salesforce-to-llm-integration-with-scoped-api-permissions-16k2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
