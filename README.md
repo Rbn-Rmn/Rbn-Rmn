@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Subagents Model Selection: Role-by-Role Table](https://dev.to/aobaworks/claude-code-subagents-model-selection-role-by-role-table-3o4j)
-- [Building an AI Shirt Agent with Java and Spring AI: Tools, ChatClient, and REST](https://dev.to/said_olano/building-an-ai-shirt-agent-with-java-and-spring-ai-tools-chatclient-and-rest-43j1)
-- [Hibernate Under the Hood. Part 6: Transaction Management and Locking](https://dev.to/silver_dev/hibernate-under-the-hood-part-6-transaction-management-and-locking-3df4)
-- [Safe to Upgrade? — know before you bump: per-dependency upgrade verdicts with file:line evidence](https://dev.to/tyy130/safe-to-upgrade-know-before-you-bump-per-dependency-upgrade-verdicts-with-fileline-evidence-56e3)
-- [I built a Claude Code skill that de-slops AI-generated web design](https://dev.to/haoli/i-built-a-claude-code-skill-that-de-slops-ai-generated-web-design-42kn)
+- [⚖️ HackAVP : guide d&#39;évaluation pour les membres du jury](https://dev.to/adriens/hackavp-guide-devaluation-pour-les-membres-du-jury-12i0)
+- [I built PhoneEar](https://dev.to/shahirislam/i-built-phoneear-dc)
+- [Your Stack Has a Size. Flisk Only Fits One of Them.](https://dev.to/flisk/your-stack-has-a-size-flisk-only-fits-one-of-them-1n1f)
+- [I built Wait For It: tell an open Gemma what you&#39;re waiting for, it checks rarely, and it got 35 of 36 real pages right with 0 false alarms](https://dev.to/miawab/i-built-wait-for-it-tell-an-open-gemma-what-youre-waiting-for-it-checks-rarely-and-it-got-35-of-jgg)
+- [SQL Injection with SQLmap on Kali: From Login Form to Database](https://dev.to/emuzinun/sql-injection-with-sqlmap-on-kali-from-login-form-to-database-48lp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
