@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI GPT-Rosalind Identifies a DCTN1 Cholesterol Transport Lead for Neurodegeneration](https://dev.to/alifar/openai-gpt-rosalind-identifies-a-dctn1-cholesterol-transport-lead-for-neurodegeneration-47am)
-- [Fridge-Sloth-AI 🦥 - Slow AI that saves your fridge](https://dev.to/poorvashrivas2006/fridge-sloth-ai-slow-ai-that-saves-your-fridge-3m3o)
-- [I compared 446 x402 price tags against live 402 challenges: 8 price errors and 21 token errors](https://dev.to/yagato/i-compared-446-x402-price-tags-against-live-402-challenges-8-price-errors-and-21-token-errors-2aj6)
-- [Nova — Intelligent Incident Triage](https://dev.to/yjamdade49/nova-intelligent-incident-triage-2jkg)
-- [Building a Salesforce-to-LLM Integration With Scoped API Permissions](https://dev.to/arthur_doss/building-a-salesforce-to-llm-integration-with-scoped-api-permissions-16k2)
+- [Claude Code Subagents Model Selection: Role-by-Role Table](https://dev.to/aobaworks/claude-code-subagents-model-selection-role-by-role-table-3o4j)
+- [Building an AI Shirt Agent with Java and Spring AI: Tools, ChatClient, and REST](https://dev.to/said_olano/building-an-ai-shirt-agent-with-java-and-spring-ai-tools-chatclient-and-rest-43j1)
+- [Hibernate Under the Hood. Part 6: Transaction Management and Locking](https://dev.to/silver_dev/hibernate-under-the-hood-part-6-transaction-management-and-locking-3df4)
+- [Safe to Upgrade? — know before you bump: per-dependency upgrade verdicts with file:line evidence](https://dev.to/tyy130/safe-to-upgrade-know-before-you-bump-per-dependency-upgrade-verdicts-with-fileline-evidence-56e3)
+- [I built a Claude Code skill that de-slops AI-generated web design](https://dev.to/haoli/i-built-a-claude-code-skill-that-de-slops-ai-generated-web-design-42kn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
