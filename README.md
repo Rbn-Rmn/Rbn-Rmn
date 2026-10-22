@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Stop Treating Scrum Artifacts Like Bureaucracy: A Guide to Radical Transparency](https://dev.to/aiflowpm/stop-treating-scrum-artifacts-like-bureaucracy-a-guide-to-radical-transparency-1aba)
-- [The Evaluation Layer — Or, When the Grader Works for the Thing Being Graded](https://dev.to/goodpa/the-evaluation-layer-or-when-the-grader-works-for-the-thing-being-graded-33f)
-- [The CNAME Trailing Dot: One Character That Broke the Domain](https://dev.to/mattleeee/the-cname-trailing-dot-one-character-that-broke-the-domain-2aeo)
-- [oma 20.10: stop gates now verify the code they checked](https://dev.to/gracefullight/oma-2010-stop-gates-now-verify-the-code-they-checked-42id)
-- [Patching Is Not Provisioning: What the October 2026 KEV Wave Says About Edge Device Lifecycle](https://dev.to/andreagomez/patching-is-not-provisioning-what-the-october-2026-kev-wave-says-about-edge-device-lifecycle-7ne)
+- [A Map-to-3D Test on Grand Central Madison: What Survives a Cutaway](https://dev.to/generatebuild/a-map-to-3d-test-on-grand-central-madison-what-survives-a-cutaway-fd0)
+- [AI Helps Discover A-agreement, a Lower-Latency Consensus Protocol](https://dev.to/paragonaimag/ai-helps-discover-a-agreement-a-lower-latency-consensus-protocol-5ck2)
+- [Building a Lightweight, Local-First Finance &amp; Rental App on a 256MB Host](https://dev.to/polash/building-a-lightweight-local-first-finance-rental-app-on-a-256mb-host-3dd0)
+- [Passkeys vs. Passwords: What Small Business Teams Should Actually Do](https://dev.to/zianetworksinsight/passkeys-vs-passwords-what-small-business-teams-should-actually-do-2lpb)
+- [Bootstrap: Understanding Sampling with Replacement Through Five Numbers](https://dev.to/landisaac1/bootstrap-understanding-sampling-with-replacement-through-five-numbers-3mp4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
