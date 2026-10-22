@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Web Components: Shadow DOM](https://dev.to/godofgeeks/web-components-shadow-dom-2pbm)
-- [Restoring Academic Due Process: How We Built Margin with Next.js 16 and Clocked AI](https://dev.to/josephjbassey/restoring-academic-due-process-how-we-built-margin-with-nextjs-16-and-clocked-ai-19pl)
-- [Constraining Agent UI Diffs: Component Boundaries, No Random Token Edits](https://dev.to/sherotree/constraining-agent-ui-diffs-component-boundaries-no-random-token-edits-4mbc)
-- [Turn Spec Drift into a Pull Request Check with SpecGov](https://dev.to/paladini/turn-spec-drift-into-a-pull-request-check-with-specgov-1eo7)
-- [The Host Networking Stack Is Part of the Guest Isolation Boundary](https://dev.to/ntctech/the-host-networking-stack-is-part-of-the-guest-isolation-boundary-4a18)
+- [Adobe Commerce to Looker Studio: SUM&lpar;grand_total&rpar; Is Not Revenue](https://dev.to/hayrullahkar/adobe-commerce-to-looker-studio-sumgrandtotal-is-not-revenue-48h7)
+- [112 Free Online Developer Tools That Run in Your Browser &lpar;No Signup&rpar;](https://dev.to/debmedia/112-free-online-developer-tools-that-run-in-your-browser-no-signup-237l)
+- [Missing Product Image After Retry: Prevent Duplicate Object Storage Overwrite](https://dev.to/thomasmoore157/missing-product-image-after-retry-prevent-duplicate-object-storage-overwrite-5hk3)
+- [Concat is a local CapCut alternative with an MCP server, so an agent can cut your video](https://dev.to/renolu/concat-is-a-local-capcut-alternative-with-an-mcp-server-so-an-agent-can-cut-your-video-5993)
+- [How to Watch Twitter &lpar;X&rpar; Videos on Apple TV in 2026: Workarounds &amp; Native Solution](https://dev.to/dongsuo/how-to-watch-twitter-x-videos-on-apple-tv-in-2026-workarounds-native-solution-1pck)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
