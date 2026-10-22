@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [⚖️ HackAVP : guide d&#39;évaluation pour les membres du jury](https://dev.to/adriens/hackavp-guide-devaluation-pour-les-membres-du-jury-12i0)
-- [I built PhoneEar](https://dev.to/shahirislam/i-built-phoneear-dc)
-- [Your Stack Has a Size. Flisk Only Fits One of Them.](https://dev.to/flisk/your-stack-has-a-size-flisk-only-fits-one-of-them-1n1f)
-- [I built Wait For It: tell an open Gemma what you&#39;re waiting for, it checks rarely, and it got 35 of 36 real pages right with 0 false alarms](https://dev.to/miawab/i-built-wait-for-it-tell-an-open-gemma-what-youre-waiting-for-it-checks-rarely-and-it-got-35-of-jgg)
-- [SQL Injection with SQLmap on Kali: From Login Form to Database](https://dev.to/emuzinun/sql-injection-with-sqlmap-on-kali-from-login-form-to-database-48lp)
+- [Stop Treating Scrum Artifacts Like Bureaucracy: A Guide to Radical Transparency](https://dev.to/aiflowpm/stop-treating-scrum-artifacts-like-bureaucracy-a-guide-to-radical-transparency-1aba)
+- [The Evaluation Layer — Or, When the Grader Works for the Thing Being Graded](https://dev.to/goodpa/the-evaluation-layer-or-when-the-grader-works-for-the-thing-being-graded-33f)
+- [The CNAME Trailing Dot: One Character That Broke the Domain](https://dev.to/mattleeee/the-cname-trailing-dot-one-character-that-broke-the-domain-2aeo)
+- [oma 20.10: stop gates now verify the code they checked](https://dev.to/gracefullight/oma-2010-stop-gates-now-verify-the-code-they-checked-42id)
+- [Patching Is Not Provisioning: What the October 2026 KEV Wave Says About Edge Device Lifecycle](https://dev.to/andreagomez/patching-is-not-provisioning-what-the-october-2026-kev-wave-says-about-edge-device-lifecycle-7ne)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
