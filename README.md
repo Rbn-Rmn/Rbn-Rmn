@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Adobe Commerce to Looker Studio: SUM&lpar;grand_total&rpar; Is Not Revenue](https://dev.to/hayrullahkar/adobe-commerce-to-looker-studio-sumgrandtotal-is-not-revenue-48h7)
-- [112 Free Online Developer Tools That Run in Your Browser &lpar;No Signup&rpar;](https://dev.to/debmedia/112-free-online-developer-tools-that-run-in-your-browser-no-signup-237l)
-- [Missing Product Image After Retry: Prevent Duplicate Object Storage Overwrite](https://dev.to/thomasmoore157/missing-product-image-after-retry-prevent-duplicate-object-storage-overwrite-5hk3)
-- [Concat is a local CapCut alternative with an MCP server, so an agent can cut your video](https://dev.to/renolu/concat-is-a-local-capcut-alternative-with-an-mcp-server-so-an-agent-can-cut-your-video-5993)
-- [How to Watch Twitter &lpar;X&rpar; Videos on Apple TV in 2026: Workarounds &amp; Native Solution](https://dev.to/dongsuo/how-to-watch-twitter-x-videos-on-apple-tv-in-2026-workarounds-native-solution-1pck)
+- [Bitcoin ist mehr als ein Kursdiagramm: BTC Miner Tools für macOS](https://dev.to/atec-systems/bitcoin-ist-mehr-als-ein-kursdiagramm-btc-miner-tools-fur-macos-2d5b)
+- [Java no es el riesgo. Tu implementación y tu parche, sí.](https://dev.to/ebercruz/java-no-es-el-riesgo-tu-implementacion-y-tu-parche-si-59l4)
+- [Compress Images Before You Upload: A Faster Website Workflow](https://dev.to/jaybarker/compress-images-before-you-upload-a-faster-website-workflow-4953)
+- [Read Access and Action Authority Belong to Different Contracts](https://dev.to/rkrisa/read-access-and-action-authority-belong-to-different-contracts-5d65)
+- [Tiny BMP Icons Look Slanted? Check RGB24 Row Padding](https://dev.to/framesprite-team/tiny-bmp-icons-look-slanted-check-rgb24-row-padding-1809)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
