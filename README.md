@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [A Map-to-3D Test on Grand Central Madison: What Survives a Cutaway](https://dev.to/generatebuild/a-map-to-3d-test-on-grand-central-madison-what-survives-a-cutaway-fd0)
-- [AI Helps Discover A-agreement, a Lower-Latency Consensus Protocol](https://dev.to/paragonaimag/ai-helps-discover-a-agreement-a-lower-latency-consensus-protocol-5ck2)
-- [Building a Lightweight, Local-First Finance &amp; Rental App on a 256MB Host](https://dev.to/polash/building-a-lightweight-local-first-finance-rental-app-on-a-256mb-host-3dd0)
-- [Passkeys vs. Passwords: What Small Business Teams Should Actually Do](https://dev.to/zianetworksinsight/passkeys-vs-passwords-what-small-business-teams-should-actually-do-2lpb)
-- [Bootstrap: Understanding Sampling with Replacement Through Five Numbers](https://dev.to/landisaac1/bootstrap-understanding-sampling-with-replacement-through-five-numbers-3mp4)
+- [Web Components: Shadow DOM](https://dev.to/godofgeeks/web-components-shadow-dom-2pbm)
+- [Restoring Academic Due Process: How We Built Margin with Next.js 16 and Clocked AI](https://dev.to/josephjbassey/restoring-academic-due-process-how-we-built-margin-with-nextjs-16-and-clocked-ai-19pl)
+- [Constraining Agent UI Diffs: Component Boundaries, No Random Token Edits](https://dev.to/sherotree/constraining-agent-ui-diffs-component-boundaries-no-random-token-edits-4mbc)
+- [Turn Spec Drift into a Pull Request Check with SpecGov](https://dev.to/paladini/turn-spec-drift-into-a-pull-request-check-with-specgov-1eo7)
+- [The Host Networking Stack Is Part of the Guest Isolation Boundary](https://dev.to/ntctech/the-host-networking-stack-is-part-of-the-guest-isolation-boundary-4a18)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
