@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Latency in Voice AI: Why It Matters and How to Fix It](https://dev.to/voice_developer/latency-in-voice-ai-why-it-matters-and-how-to-fix-it-8pn)
-- [Choosing AI Tools Without Compromising Data Security: A Practical Guide for Businesses](https://dev.to/jane6538/choosing-ai-tools-without-compromising-data-security-a-practical-guide-for-businesses-1d93)
-- [Self-hosting AstaBrief-8B for cited reports: check every bracket before anyone reads it](https://dev.to/inferencekey/self-hosting-astabrief-8b-for-cited-reports-check-every-bracket-before-anyone-reads-it-18l1)
-- [A week of selling small data-cleanup jobs from zero: what failed, and the data-quality lessons we kept](https://dev.to/trilliumcompany/a-week-of-selling-small-data-cleanup-jobs-from-zero-what-failed-and-the-data-quality-lessons-we-38kd)
-- [Qu&#39;est-ce que la Finance Décentralisée &lpar;DeFi&rpar; ?](https://dev.to/sunlibcrypto/quest-ce-que-la-finance-decentralisee-defi--1g61)
+- [5 Steps on How to not loose at a hackathon?](https://dev.to/sanidhya_at_mlh/5-steps-on-how-to-not-loose-at-a-hackathon-3hd1)
+- [I scanned 100 apps built with Lovable. 14 were already dead. 1 leaked a live API key.](https://dev.to/rasberryx/i-scanned-100-apps-built-with-lovable-14-were-already-dead-1-leaked-a-live-api-key-1f3j)
+- [Database Race Conditions Your Tests Miss](https://dev.to/potapov/database-race-conditions-your-tests-miss-24ag)
+- [Assignment Deadline Sloth](https://dev.to/creta_14f0af6d366d3143d81/assignment-deadline-sloth-354k)
+- [Learning to Build, Not Just Code](https://dev.to/riyanshaggarwal/learning-to-build-not-just-code-2io1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
