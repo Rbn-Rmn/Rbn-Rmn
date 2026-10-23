@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [5 Steps on How to not loose at a hackathon?](https://dev.to/sanidhya_at_mlh/5-steps-on-how-to-not-loose-at-a-hackathon-3hd1)
-- [I scanned 100 apps built with Lovable. 14 were already dead. 1 leaked a live API key.](https://dev.to/rasberryx/i-scanned-100-apps-built-with-lovable-14-were-already-dead-1-leaked-a-live-api-key-1f3j)
-- [Database Race Conditions Your Tests Miss](https://dev.to/potapov/database-race-conditions-your-tests-miss-24ag)
-- [Assignment Deadline Sloth](https://dev.to/creta_14f0af6d366d3143d81/assignment-deadline-sloth-354k)
-- [Learning to Build, Not Just Code](https://dev.to/riyanshaggarwal/learning-to-build-not-just-code-2io1)
+- [Design four tables before you write the agent](https://dev.to/conorbronsdon/design-four-tables-before-you-write-the-agent-2j6k)
+- [SMTP AUTH Basic auth goes off by default in December: how to find what will break](https://dev.to/runbooklab/smtp-auth-basic-auth-goes-off-by-default-in-december-how-to-find-what-will-break-2m3a)
+- [YouTube&#39;s Hype with Jewels vs Burn-to-Advertise: Two Ways to Pay for Reach](https://dev.to/iassets/youtubes-hype-with-jewels-vs-burn-to-advertise-two-ways-to-pay-for-reach-48ee)
+- [Catálogo: 10 guardrails oficiales](https://dev.to/beanstechbr/catalogo-10-guardrails-oficiales-18e)
+- [Las 6 categorías nativas del guardrail](https://dev.to/beanstechbr/las-6-categorias-nativas-del-guardrail-3eko)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
