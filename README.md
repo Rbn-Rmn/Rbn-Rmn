@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Design four tables before you write the agent](https://dev.to/conorbronsdon/design-four-tables-before-you-write-the-agent-2j6k)
-- [SMTP AUTH Basic auth goes off by default in December: how to find what will break](https://dev.to/runbooklab/smtp-auth-basic-auth-goes-off-by-default-in-december-how-to-find-what-will-break-2m3a)
-- [YouTube&#39;s Hype with Jewels vs Burn-to-Advertise: Two Ways to Pay for Reach](https://dev.to/iassets/youtubes-hype-with-jewels-vs-burn-to-advertise-two-ways-to-pay-for-reach-48ee)
-- [Catálogo: 10 guardrails oficiales](https://dev.to/beanstechbr/catalogo-10-guardrails-oficiales-18e)
-- [Las 6 categorías nativas del guardrail](https://dev.to/beanstechbr/las-6-categorias-nativas-del-guardrail-3eko)
+- [How to Scrape Kleinanzeigen Listings with Python](https://dev.to/reventadata/how-to-scrape-kleinanzeigen-listings-with-python-33m8)
+- [AWS Continuum for Code Vulnerabilities Reaches General Availability, Offering AI-Powered Automated Remediation](https://dev.to/pklavc/aws-continuum-for-code-vulnerabilities-reaches-general-availability-offering-ai-powered-automated-3p3e)
+- [100 Languages Speedrun: Bonus Episode 103: Goose](https://dev.to/taw/100-languages-speedrun-bonus-episode-103-goose-5ggp)
+- [Why we gave our Telegram content bot a &quot;nothing twice&quot; rule](https://dev.to/niteflex/why-we-gave-our-telegram-content-bot-a-nothing-twice-rule-17g9)
+- [Governance Attack Surface Review: PancakeSwap AMM](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-pancakeswap-amm-51p1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
