@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Scrape Plus Embed Pipeline: Citable Page-Change Alerts End to End](https://dev.to/fairchildblake8483/scrape-plus-embed-pipeline-citable-page-change-alerts-end-to-end-53)
-- [JSON-LD Structured Data Basics — How Rich Results Get Generated](https://dev.to/susumun/json-ld-structured-data-basics-how-rich-results-get-generated-47m4)
-- [Deploy succeeded but the live site still shows old content](https://dev.to/gemmein/deploy-succeeded-but-the-live-site-still-shows-old-content-28ee)
-- [What Adversarial MCP Tool Calls Actually Look Like — and Screening Them In-Process](https://dev.to/aruuhii2yo/what-adversarial-mcp-tool-calls-actually-look-like-and-screening-them-in-process-3hpc)
-- [Should a small agency sign the Code of Practice on transparency of AI-generated content?](https://dev.to/mdodeja/should-a-small-agency-sign-the-code-of-practice-on-transparency-of-ai-generated-content-8m3)
+- [Latency in Voice AI: Why It Matters and How to Fix It](https://dev.to/voice_developer/latency-in-voice-ai-why-it-matters-and-how-to-fix-it-8pn)
+- [Choosing AI Tools Without Compromising Data Security: A Practical Guide for Businesses](https://dev.to/jane6538/choosing-ai-tools-without-compromising-data-security-a-practical-guide-for-businesses-1d93)
+- [Self-hosting AstaBrief-8B for cited reports: check every bracket before anyone reads it](https://dev.to/inferencekey/self-hosting-astabrief-8b-for-cited-reports-check-every-bracket-before-anyone-reads-it-18l1)
+- [A week of selling small data-cleanup jobs from zero: what failed, and the data-quality lessons we kept](https://dev.to/trilliumcompany/a-week-of-selling-small-data-cleanup-jobs-from-zero-what-failed-and-the-data-quality-lessons-we-38kd)
+- [Qu&#39;est-ce que la Finance Décentralisée &lpar;DeFi&rpar; ?](https://dev.to/sunlibcrypto/quest-ce-que-la-finance-decentralisee-defi--1g61)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
