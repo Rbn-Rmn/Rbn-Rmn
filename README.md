@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Scrape Kleinanzeigen Listings with Python](https://dev.to/reventadata/how-to-scrape-kleinanzeigen-listings-with-python-33m8)
-- [AWS Continuum for Code Vulnerabilities Reaches General Availability, Offering AI-Powered Automated Remediation](https://dev.to/pklavc/aws-continuum-for-code-vulnerabilities-reaches-general-availability-offering-ai-powered-automated-3p3e)
-- [100 Languages Speedrun: Bonus Episode 103: Goose](https://dev.to/taw/100-languages-speedrun-bonus-episode-103-goose-5ggp)
-- [Why we gave our Telegram content bot a &quot;nothing twice&quot; rule](https://dev.to/niteflex/why-we-gave-our-telegram-content-bot-a-nothing-twice-rule-17g9)
-- [Governance Attack Surface Review: PancakeSwap AMM](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-pancakeswap-amm-51p1)
+- [Expose Share Links on Private Homelab Apps With Caddy](https://dev.to/linuxcore/expose-share-links-on-private-homelab-apps-with-caddy-4fmo)
+- [The Plex patch cluster: why one CVE is not the whole story](https://dev.to/ioneyrezende/the-plex-patch-cluster-why-one-cve-is-not-the-whole-story-4i9e)
+- [Catching Android adware by behaviour instead of signatures](https://dev.to/sebastian_balog_c88dc2913/catching-android-adware-by-behaviour-instead-of-signatures-14m0)
+- [Laptop Battery Draining Too Fast? Here&#39;s How to Make It Last](https://dev.to/techisness/laptop-battery-draining-too-fast-heres-how-to-make-it-last-2cdp)
+- [Autonomous DevOps: A Framework for Deciding What AI Agents May Do Alone](https://dev.to/beamreachcloud/autonomous-devops-a-framework-for-deciding-what-ai-agents-may-do-alone-daf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
