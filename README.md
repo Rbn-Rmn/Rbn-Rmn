@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin ist mehr als ein Kursdiagramm: BTC Miner Tools für macOS](https://dev.to/atec-systems/bitcoin-ist-mehr-als-ein-kursdiagramm-btc-miner-tools-fur-macos-2d5b)
-- [Java no es el riesgo. Tu implementación y tu parche, sí.](https://dev.to/ebercruz/java-no-es-el-riesgo-tu-implementacion-y-tu-parche-si-59l4)
-- [Compress Images Before You Upload: A Faster Website Workflow](https://dev.to/jaybarker/compress-images-before-you-upload-a-faster-website-workflow-4953)
-- [Read Access and Action Authority Belong to Different Contracts](https://dev.to/rkrisa/read-access-and-action-authority-belong-to-different-contracts-5d65)
-- [Tiny BMP Icons Look Slanted? Check RGB24 Row Padding](https://dev.to/framesprite-team/tiny-bmp-icons-look-slanted-check-rgb24-row-padding-1809)
+- [Scrape Plus Embed Pipeline: Citable Page-Change Alerts End to End](https://dev.to/fairchildblake8483/scrape-plus-embed-pipeline-citable-page-change-alerts-end-to-end-53)
+- [JSON-LD Structured Data Basics — How Rich Results Get Generated](https://dev.to/susumun/json-ld-structured-data-basics-how-rich-results-get-generated-47m4)
+- [Deploy succeeded but the live site still shows old content](https://dev.to/gemmein/deploy-succeeded-but-the-live-site-still-shows-old-content-28ee)
+- [What Adversarial MCP Tool Calls Actually Look Like — and Screening Them In-Process](https://dev.to/aruuhii2yo/what-adversarial-mcp-tool-calls-actually-look-like-and-screening-them-in-process-3hpc)
+- [Should a small agency sign the Code of Practice on transparency of AI-generated content?](https://dev.to/mdodeja/should-a-small-agency-sign-the-code-of-practice-on-transparency-of-ai-generated-content-8m3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
