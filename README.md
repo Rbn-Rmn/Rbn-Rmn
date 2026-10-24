@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Arabic Text Breaks in Browser PDFs &lpar;And How to Fix It 100% Client-Side&rpar;](https://dev.to/careerpdf/why-arabic-text-breaks-in-browser-pdfs-and-how-to-fix-it-100-client-side-7c3)
-- [A Flink dashboard is a job-submission API with a web interface](https://dev.to/bianliang/a-flink-dashboard-is-a-job-submission-api-with-a-web-interface-3oko)
-- [Salesforce SOQL: 7 Practices That Keep Your Queries Fast and Governor-Limit Safe](https://dev.to/rohanmehta/salesforce-soql-7-practices-that-keep-your-queries-fast-and-governor-limit-safe-2i3i)
-- [I am Karthik - Fatafat321 dev](https://dev.to/fatafat321developer/i-am-karthik-fatafat321-dev-4ko9)
-- [LLM Input vs. Output Token Pricing: How to Calculate the Difference](https://dev.to/mdazlaanzubair/llm-input-vs-output-token-pricing-how-to-calculate-the-difference-3cng)
+- [postjson.com — A web dev tool with macOS-inspired UI paradigm](https://dev.to/q_q_604af98bb2a91e754f50e/postjsoncom-a-web-dev-tool-with-macos-inspired-ui-paradigm-2eg4)
+- [Why Token Research Still Matters in DeFi](https://dev.to/mete_ay_16384b501616aae2d/why-token-research-still-matters-in-defi-1kjm)
+- [Why devs should design for blockchain errors, not around them](https://dev.to/harvey_landyn_763d72c944f/why-devs-should-design-for-blockchain-errors-not-around-them-3me1)
+- [Two Ethereum Scam Schemes Exposed](https://dev.to/sven_esser_94287e300ee703/two-ethereum-scam-schemes-exposed-559o)
+- [Best of AI x SemiLaunch](https://dev.to/bestofai/best-of-ai-x-semilaunch-54ge)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
