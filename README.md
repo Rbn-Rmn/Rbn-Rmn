@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [postjson.com — A web dev tool with macOS-inspired UI paradigm](https://dev.to/q_q_604af98bb2a91e754f50e/postjsoncom-a-web-dev-tool-with-macos-inspired-ui-paradigm-2eg4)
-- [Why Token Research Still Matters in DeFi](https://dev.to/mete_ay_16384b501616aae2d/why-token-research-still-matters-in-defi-1kjm)
-- [Why devs should design for blockchain errors, not around them](https://dev.to/harvey_landyn_763d72c944f/why-devs-should-design-for-blockchain-errors-not-around-them-3me1)
-- [Two Ethereum Scam Schemes Exposed](https://dev.to/sven_esser_94287e300ee703/two-ethereum-scam-schemes-exposed-559o)
-- [Best of AI x SemiLaunch](https://dev.to/bestofai/best-of-ai-x-semilaunch-54ge)
+- [81,570 Nexus Titles Against 33,873 Fingerprints: The Artefact Store Everything Builds From](https://dev.to/andreagomez/81570-nexus-titles-against-33873-fingerprints-the-artefact-store-everything-builds-from-5f1)
+- [SlothBot: The Fully Automated AI Farmer &lpar;Powered by Open-Weight LLMs &amp; Web Edition&rpar;](https://dev.to/solomon1029/slothbot-the-fully-automated-ai-farmer-powered-by-open-weight-llms-web-edition-51i1)
+- [How I Built an Autonomous B2B Data &amp; Intelligence Suite on Apify and Base Mainnet &lpar;MCP + x402&rpar;](https://dev.to/campbellarchiezhdebug/how-i-built-an-autonomous-b2b-data-intelligence-suite-on-apify-and-base-mainnet-mcp-x402-2lla)
+- [How to Integrate SEC Filings into Your AI Agent](https://dev.to/valyuai/how-to-integrate-sec-filings-into-your-ai-agent-3nan)
+- [OpenAI Moves Frontier AI Model Training Offline for Enhanced Security](https://dev.to/pklavc/openai-moves-frontier-ai-model-training-offline-for-enhanced-security-42bb)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
