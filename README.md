@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Expose Share Links on Private Homelab Apps With Caddy](https://dev.to/linuxcore/expose-share-links-on-private-homelab-apps-with-caddy-4fmo)
-- [The Plex patch cluster: why one CVE is not the whole story](https://dev.to/ioneyrezende/the-plex-patch-cluster-why-one-cve-is-not-the-whole-story-4i9e)
-- [Catching Android adware by behaviour instead of signatures](https://dev.to/sebastian_balog_c88dc2913/catching-android-adware-by-behaviour-instead-of-signatures-14m0)
-- [Laptop Battery Draining Too Fast? Here&#39;s How to Make It Last](https://dev.to/techisness/laptop-battery-draining-too-fast-heres-how-to-make-it-last-2cdp)
-- [Autonomous DevOps: A Framework for Deciding What AI Agents May Do Alone](https://dev.to/beamreachcloud/autonomous-devops-a-framework-for-deciding-what-ai-agents-may-do-alone-daf)
+- [Choose an Image Generation Model DALL-E 3 SDXL and Flux for Web App Speed](https://dev.to/xenoncross2718/choose-an-image-generation-model-dall-e-3-sdxl-and-flux-for-web-app-speed-3i2g)
+- [Node.js Report Scheduling: Combining Cron Jobs with Worker-Based Long-Running Tasks](https://dev.to/jerichorhodes5847/nodejs-report-scheduling-combining-cron-jobs-with-worker-based-long-running-tasks-459l)
+- [AI-Assisted PC Ports: Managing Platform-Specific Requirements for Window, Graphics, and Sound Libraries](https://dev.to/denlava/ai-assisted-pc-ports-managing-platform-specific-requirements-for-window-graphics-and-sound-4mlk)
+- [Auditar agentes como identidades](https://dev.to/aws-builders/auditar-agentes-como-identidades-30co)
+- [Rate-Limited Queue Consumers for Weekly Fintech Customer Digests](https://dev.to/ethanbrooks111/rate-limited-queue-consumers-for-weekly-fintech-customer-digests-2kdi)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
