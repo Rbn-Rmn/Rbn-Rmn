@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [81,570 Nexus Titles Against 33,873 Fingerprints: The Artefact Store Everything Builds From](https://dev.to/andreagomez/81570-nexus-titles-against-33873-fingerprints-the-artefact-store-everything-builds-from-5f1)
-- [SlothBot: The Fully Automated AI Farmer &lpar;Powered by Open-Weight LLMs &amp; Web Edition&rpar;](https://dev.to/solomon1029/slothbot-the-fully-automated-ai-farmer-powered-by-open-weight-llms-web-edition-51i1)
-- [How I Built an Autonomous B2B Data &amp; Intelligence Suite on Apify and Base Mainnet &lpar;MCP + x402&rpar;](https://dev.to/campbellarchiezhdebug/how-i-built-an-autonomous-b2b-data-intelligence-suite-on-apify-and-base-mainnet-mcp-x402-2lla)
-- [How to Integrate SEC Filings into Your AI Agent](https://dev.to/valyuai/how-to-integrate-sec-filings-into-your-ai-agent-3nan)
-- [OpenAI Moves Frontier AI Model Training Offline for Enhanced Security](https://dev.to/pklavc/openai-moves-frontier-ai-model-training-offline-for-enhanced-security-42bb)
+- [AI agents were told my inputs were optional, then rejected for leaving them out 🤖](https://dev.to/timmkal01/ai-agents-were-told-my-inputs-were-optional-then-rejected-for-leaving-them-out-3el4)
+- [Private Avatar Uploads with Expiring Links: A Practical Object Storage Decision Guide](https://dev.to/nathanielbrooks0360/private-avatar-uploads-with-expiring-links-a-practical-object-storage-decision-guide-2f9j)
+- [Building MediaForge Studio: An AI-Powered Media Suite and Real-Time Transformation Workbench with Cloudinary](https://dev.to/shamsudduha20/building-mediaforge-studio-an-ai-powered-media-suite-and-real-time-transformation-workbench-with-4b8e)
+- [Governance Attack Surface Review: Bitkub](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-bitkub-27ac)
+- [Chatbot AI Service Comparison: OpenAI ChatGPT vs Claude vs Gemini &lpar;for CRM Actions&rpar;](https://dev.to/jorisrhodes8286/chatbot-ai-service-comparison-openai-chatgpt-vs-claude-vs-gemini-for-crm-actions-4hj0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
