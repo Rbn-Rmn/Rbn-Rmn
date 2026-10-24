@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Schedule AzuraCast Jingles and Station IDs](https://dev.to/libersand/how-to-schedule-azuracast-jingles-and-station-ids-obh)
-- [Week 3 Dev Challenge](https://dev.to/introvert/week-3-dev-challenge-6i1)
-- [Loafer: Let a Local Model Read Your Chats While You Sleep](https://dev.to/aryan1092raj/loafer-let-a-local-model-read-your-chats-while-you-sleep-4gfo)
-- [Scrunch AI Alternatives: 7 Cheaper GEO Trackers That Actually Work](https://dev.to/zforzain2000/scrunch-ai-alternatives-7-cheaper-geo-trackers-that-actually-work-18ia)
-- [Exchange Online TERRL: New Tenant Email Limits Explained](https://dev.to/narasimaperumal/exchange-online-terrl-new-tenant-email-limits-explained-2554)
+- [Why Arabic Text Breaks in Browser PDFs &lpar;And How to Fix It 100% Client-Side&rpar;](https://dev.to/careerpdf/why-arabic-text-breaks-in-browser-pdfs-and-how-to-fix-it-100-client-side-7c3)
+- [A Flink dashboard is a job-submission API with a web interface](https://dev.to/bianliang/a-flink-dashboard-is-a-job-submission-api-with-a-web-interface-3oko)
+- [Salesforce SOQL: 7 Practices That Keep Your Queries Fast and Governor-Limit Safe](https://dev.to/rohanmehta/salesforce-soql-7-practices-that-keep-your-queries-fast-and-governor-limit-safe-2i3i)
+- [I am Karthik - Fatafat321 dev](https://dev.to/fatafat321developer/i-am-karthik-fatafat321-dev-4ko9)
+- [LLM Input vs. Output Token Pricing: How to Calculate the Difference](https://dev.to/mdazlaanzubair/llm-input-vs-output-token-pricing-how-to-calculate-the-difference-3cng)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
