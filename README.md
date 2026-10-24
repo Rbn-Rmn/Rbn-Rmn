@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Choose an Image Generation Model DALL-E 3 SDXL and Flux for Web App Speed](https://dev.to/xenoncross2718/choose-an-image-generation-model-dall-e-3-sdxl-and-flux-for-web-app-speed-3i2g)
-- [Node.js Report Scheduling: Combining Cron Jobs with Worker-Based Long-Running Tasks](https://dev.to/jerichorhodes5847/nodejs-report-scheduling-combining-cron-jobs-with-worker-based-long-running-tasks-459l)
-- [AI-Assisted PC Ports: Managing Platform-Specific Requirements for Window, Graphics, and Sound Libraries](https://dev.to/denlava/ai-assisted-pc-ports-managing-platform-specific-requirements-for-window-graphics-and-sound-4mlk)
-- [Auditar agentes como identidades](https://dev.to/aws-builders/auditar-agentes-como-identidades-30co)
-- [Rate-Limited Queue Consumers for Weekly Fintech Customer Digests](https://dev.to/ethanbrooks111/rate-limited-queue-consumers-for-weekly-fintech-customer-digests-2kdi)
+- [How to Schedule AzuraCast Jingles and Station IDs](https://dev.to/libersand/how-to-schedule-azuracast-jingles-and-station-ids-obh)
+- [Week 3 Dev Challenge](https://dev.to/introvert/week-3-dev-challenge-6i1)
+- [Loafer: Let a Local Model Read Your Chats While You Sleep](https://dev.to/aryan1092raj/loafer-let-a-local-model-read-your-chats-while-you-sleep-4gfo)
+- [Scrunch AI Alternatives: 7 Cheaper GEO Trackers That Actually Work](https://dev.to/zforzain2000/scrunch-ai-alternatives-7-cheaper-geo-trackers-that-actually-work-18ia)
+- [Exchange Online TERRL: New Tenant Email Limits Explained](https://dev.to/narasimaperumal/exchange-online-terrl-new-tenant-email-limits-explained-2554)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
