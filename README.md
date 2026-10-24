@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI agents were told my inputs were optional, then rejected for leaving them out 🤖](https://dev.to/timmkal01/ai-agents-were-told-my-inputs-were-optional-then-rejected-for-leaving-them-out-3el4)
-- [Private Avatar Uploads with Expiring Links: A Practical Object Storage Decision Guide](https://dev.to/nathanielbrooks0360/private-avatar-uploads-with-expiring-links-a-practical-object-storage-decision-guide-2f9j)
-- [Building MediaForge Studio: An AI-Powered Media Suite and Real-Time Transformation Workbench with Cloudinary](https://dev.to/shamsudduha20/building-mediaforge-studio-an-ai-powered-media-suite-and-real-time-transformation-workbench-with-4b8e)
-- [Governance Attack Surface Review: Bitkub](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-bitkub-27ac)
-- [Chatbot AI Service Comparison: OpenAI ChatGPT vs Claude vs Gemini &lpar;for CRM Actions&rpar;](https://dev.to/jorisrhodes8286/chatbot-ai-service-comparison-openai-chatgpt-vs-claude-vs-gemini-for-crm-actions-4hj0)
+- [How I Found a High-Severity Rounding Vulnerability in Morpho Midnight &lpar;Tenor Labs&rpar;](https://dev.to/vaultvult/how-i-found-a-high-severity-rounding-vulnerability-in-morpho-midnight-tenor-labs-35c2)
+- [Why F# Breaks OpenAPI rendering: Note Names, URL Encoding, and the Clash Between Music Notation and pre-existing Web Standards](https://dev.to/hannedev/why-f-breaks-openapi-rendering-note-names-url-encoding-and-the-clash-between-music-notation-and-3573)
+- [How to Track Your Brand in Google AI Overviews Without a Paid API](https://dev.to/rankvelt/how-to-track-your-brand-in-google-ai-overviews-without-a-paid-api-o0b)
+- [How I Migrated a Live Database to a Many-to-Many Relationship](https://dev.to/gabriela_colombo_437a7a2d/how-i-migrated-a-live-database-to-a-many-to-many-relationship-3pkl)
+- [Laravel TokenGuard Auth Bypass &lpar;CVE-2026-114509&rpar;: What Site Owners Must Do Now](https://dev.to/senthil_kr/laravel-tokenguard-auth-bypass-cve-2026-114509-what-site-owners-must-do-now-1l89)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
