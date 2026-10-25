@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Three Release Contracts for Obfuscated .NET Assemblies](https://dev.to/rustemsoft/three-release-contracts-for-obfuscated-net-assemblies-282p)
-- [A Retry-Safe Handoff Contract for Long AI Chats](https://dev.to/lamama/a-retry-safe-handoff-contract-for-long-ai-chats-28pe)
-- [How to sell printables and digital downloads outside Etsy &lpar;what you keep on an $8 and $27 sale&rpar;](https://dev.to/revenue_operator/how-to-sell-printables-and-digital-downloads-outside-etsy-what-you-keep-on-an-8-and-27-sale-33kl)
-- [[Boost]](https://dev.to/restyvod/-fan)
-- [I built a free Merge PDF tool with no sign-up and no watermark](https://dev.to/muhammad_ali_c2845c28baad/i-built-a-free-merge-pdf-tool-with-no-sign-up-and-no-watermark-5fjf)
+- [Logo Marca Oficial](https://dev.to/joicy_costa_9e58041297372/logo-marca-oficial-3kad)
+- [Engineering Geofencing: Why Accuracy Often Kills Battery Life](https://dev.to/haseebthedev0/engineering-geofencing-why-accuracy-often-kills-battery-life-b3p)
+- [Eight CA Keys Between 1 and 255: What the eMudhra Incident Means for Your Code](https://dev.to/dionisioc/eight-ca-keys-between-1-and-255-what-the-emudhra-incident-means-for-your-code-4k7o)
+- [Why I stopped trusting &quot;fixed&quot; from my coding agent](https://dev.to/livecristen/why-i-stopped-trusting-fixed-from-my-coding-agent-ddi)
+- [JLScripter](https://dev.to/joicy_costa_9e58041297372/jlscripter-2eae)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
