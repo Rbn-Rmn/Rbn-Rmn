@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I Found a High-Severity Rounding Vulnerability in Morpho Midnight &lpar;Tenor Labs&rpar;](https://dev.to/vaultvult/how-i-found-a-high-severity-rounding-vulnerability-in-morpho-midnight-tenor-labs-35c2)
-- [Why F# Breaks OpenAPI rendering: Note Names, URL Encoding, and the Clash Between Music Notation and pre-existing Web Standards](https://dev.to/hannedev/why-f-breaks-openapi-rendering-note-names-url-encoding-and-the-clash-between-music-notation-and-3573)
-- [How to Track Your Brand in Google AI Overviews Without a Paid API](https://dev.to/rankvelt/how-to-track-your-brand-in-google-ai-overviews-without-a-paid-api-o0b)
-- [How I Migrated a Live Database to a Many-to-Many Relationship](https://dev.to/gabriela_colombo_437a7a2d/how-i-migrated-a-live-database-to-a-many-to-many-relationship-3pkl)
-- [Laravel TokenGuard Auth Bypass &lpar;CVE-2026-114509&rpar;: What Site Owners Must Do Now](https://dev.to/senthil_kr/laravel-tokenguard-auth-bypass-cve-2026-114509-what-site-owners-must-do-now-1l89)
+- [Telegram&#39;s 24-hour session rule, explained: why a hijacker can&#39;t kick you out &lpar;and why you can&#39;t kick them from a new phone&rpar;](https://dev.to/tgmultitool/telegrams-24-hour-session-rule-explained-why-a-hijacker-cant-kick-you-out-and-why-you-cant-39ob)
+- [How much of your agent traffic actually repeats? Measure before you cache](https://dev.to/pomereneio/how-much-of-your-agent-traffic-actually-repeats-measure-before-you-cache-2anp)
+- [Building a source-aware content preparation tool for a Persian clinic](https://dev.to/drsahar_moghadam_d2c3d16/building-a-source-aware-content-preparation-tool-for-a-persian-clinic-2fnj)
+- [Masalah Klasik Waktu Terima Kerjaan Lepas Secara Online: Siapa yang Sebenarnya Berhak Menilai Hasil Akhir?](https://dev.to/rizky_pratama_id/masalah-klasik-waktu-terima-kerjaan-lepas-secara-online-siapa-yang-sebenarnya-berhak-menilai-hasil-b93)
+- [SlothDesk: Zero-Cloud, Zero-Cost Autonomous Desktop Organization with Open-Source AI](https://dev.to/titasmahato/slothdesk-zero-cloud-zero-cost-autonomous-desktop-organization-with-open-source-ai-e3p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
