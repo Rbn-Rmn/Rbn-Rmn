@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Telegram&#39;s 24-hour session rule, explained: why a hijacker can&#39;t kick you out &lpar;and why you can&#39;t kick them from a new phone&rpar;](https://dev.to/tgmultitool/telegrams-24-hour-session-rule-explained-why-a-hijacker-cant-kick-you-out-and-why-you-cant-39ob)
-- [How much of your agent traffic actually repeats? Measure before you cache](https://dev.to/pomereneio/how-much-of-your-agent-traffic-actually-repeats-measure-before-you-cache-2anp)
-- [Building a source-aware content preparation tool for a Persian clinic](https://dev.to/drsahar_moghadam_d2c3d16/building-a-source-aware-content-preparation-tool-for-a-persian-clinic-2fnj)
-- [Masalah Klasik Waktu Terima Kerjaan Lepas Secara Online: Siapa yang Sebenarnya Berhak Menilai Hasil Akhir?](https://dev.to/rizky_pratama_id/masalah-klasik-waktu-terima-kerjaan-lepas-secara-online-siapa-yang-sebenarnya-berhak-menilai-hasil-b93)
-- [SlothDesk: Zero-Cloud, Zero-Cost Autonomous Desktop Organization with Open-Source AI](https://dev.to/titasmahato/slothdesk-zero-cloud-zero-cost-autonomous-desktop-organization-with-open-source-ai-e3p)
+- [Multi-Stage Dockerfiles for PHP &amp; Node: 70% Smaller Images](https://dev.to/muhammadalimughal/multi-stage-dockerfiles-for-php-node-70-smaller-images-9fl)
+- [How to Audit HTTP Security Headers &lpar;CSP, HSTS &amp; More&rpar;](https://dev.to/muhammadalimughal/how-to-audit-http-security-headers-csp-hsts-more-10c3)
+- [How to Build Accessible HTML Forms &lpar;And the Tools That Help&rpar;](https://dev.to/kandz/how-to-build-accessible-html-forms-and-the-tools-that-help-1hce)
+- [UNWATCH: finding what a second tutorial actually adds](https://dev.to/reet_singh_ee97da2986538e/unwatch-finding-what-a-second-tutorial-actually-adds-4hm0)
+- [How to Write Resume Bullet Points That Quantify Impact](https://dev.to/muhammadalimughal/how-to-write-resume-bullet-points-that-quantify-impact-17bm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
