@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why your AI agent recreates components instead of installing them](https://dev.to/escape_fromrussia/why-your-ai-agent-recreates-components-instead-of-installing-them-16ol)
-- [Hisaab — Reconciling WhatsApp Commerce Chaos with Open-Weights Gemma](https://dev.to/umarprogrammer19/hisaab-reconciling-whatsapp-commerce-chaos-with-open-weights-gemma-1ah5)
-- [Getting full Alibaba product pages as JSON: price tiers, SKUs, specs and the supplier behind them](https://dev.to/rel8ble/getting-full-alibaba-product-pages-as-json-price-tiers-skus-specs-and-the-supplier-behind-them-4i4f)
-- [Arduino UNO Pinout Tutorial](https://dev.to/controllerstech/arduino-uno-pinout-tutorial-29lj)
-- [Cutting AWS Cloud Waste by 68%: An Enterprise Serverless Architecture Case Study](https://dev.to/saadhussain787/cutting-aws-cloud-waste-by-68-an-enterprise-serverless-architecture-case-study-4hk8)
+- [Three Release Contracts for Obfuscated .NET Assemblies](https://dev.to/rustemsoft/three-release-contracts-for-obfuscated-net-assemblies-282p)
+- [A Retry-Safe Handoff Contract for Long AI Chats](https://dev.to/lamama/a-retry-safe-handoff-contract-for-long-ai-chats-28pe)
+- [How to sell printables and digital downloads outside Etsy &lpar;what you keep on an $8 and $27 sale&rpar;](https://dev.to/revenue_operator/how-to-sell-printables-and-digital-downloads-outside-etsy-what-you-keep-on-an-8-and-27-sale-33kl)
+- [[Boost]](https://dev.to/restyvod/-fan)
+- [I built a free Merge PDF tool with no sign-up and no watermark](https://dev.to/muhammad_ali_c2845c28baad/i-built-a-free-merge-pdf-tool-with-no-sign-up-and-no-watermark-5fjf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
