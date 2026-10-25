@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Finding Exact Duplicate Photos Without Installing Anything](https://dev.to/steven_keil_cb87a560f87f0/finding-exact-duplicate-photos-without-installing-anything-acn)
-- [Generating Changelogs from Git Log Between Two Tags](https://dev.to/steven_keil_cb87a560f87f0/generating-changelogs-from-git-log-between-two-tags-8g5)
-- [PantryPulse — Your Kitchen, Organized](https://dev.to/mohammadovescontact/pantrypulse-your-kitchen-organized-3d90)
-- [How to clean up merged git branches safely &lpar;and the squash-merge trap&rpar;](https://dev.to/steven_keil_cb87a560f87f0/how-to-clean-up-merged-git-branches-safely-and-the-squash-merge-trap-j55)
-- [7 &#39;Implantes&#39; IA que Manipulan Tu Consumidor: ¡Cuidado!](https://dev.to/angelh/7-implantes-ia-que-manipulan-tu-consumidor-cuidado-jbd)
+- [Why your AI agent recreates components instead of installing them](https://dev.to/escape_fromrussia/why-your-ai-agent-recreates-components-instead-of-installing-them-16ol)
+- [Hisaab — Reconciling WhatsApp Commerce Chaos with Open-Weights Gemma](https://dev.to/umarprogrammer19/hisaab-reconciling-whatsapp-commerce-chaos-with-open-weights-gemma-1ah5)
+- [Getting full Alibaba product pages as JSON: price tiers, SKUs, specs and the supplier behind them](https://dev.to/rel8ble/getting-full-alibaba-product-pages-as-json-price-tiers-skus-specs-and-the-supplier-behind-them-4i4f)
+- [Arduino UNO Pinout Tutorial](https://dev.to/controllerstech/arduino-uno-pinout-tutorial-29lj)
+- [Cutting AWS Cloud Waste by 68%: An Enterprise Serverless Architecture Case Study](https://dev.to/saadhussain787/cutting-aws-cloud-waste-by-68-an-enterprise-serverless-architecture-case-study-4hk8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
