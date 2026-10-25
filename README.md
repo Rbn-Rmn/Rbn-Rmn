@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Stage Dockerfiles for PHP &amp; Node: 70% Smaller Images](https://dev.to/muhammadalimughal/multi-stage-dockerfiles-for-php-node-70-smaller-images-9fl)
-- [How to Audit HTTP Security Headers &lpar;CSP, HSTS &amp; More&rpar;](https://dev.to/muhammadalimughal/how-to-audit-http-security-headers-csp-hsts-more-10c3)
-- [How to Build Accessible HTML Forms &lpar;And the Tools That Help&rpar;](https://dev.to/kandz/how-to-build-accessible-html-forms-and-the-tools-that-help-1hce)
-- [UNWATCH: finding what a second tutorial actually adds](https://dev.to/reet_singh_ee97da2986538e/unwatch-finding-what-a-second-tutorial-actually-adds-4hm0)
-- [How to Write Resume Bullet Points That Quantify Impact](https://dev.to/muhammadalimughal/how-to-write-resume-bullet-points-that-quantify-impact-17bm)
+- [Finding Exact Duplicate Photos Without Installing Anything](https://dev.to/steven_keil_cb87a560f87f0/finding-exact-duplicate-photos-without-installing-anything-acn)
+- [Generating Changelogs from Git Log Between Two Tags](https://dev.to/steven_keil_cb87a560f87f0/generating-changelogs-from-git-log-between-two-tags-8g5)
+- [PantryPulse — Your Kitchen, Organized](https://dev.to/mohammadovescontact/pantrypulse-your-kitchen-organized-3d90)
+- [How to clean up merged git branches safely &lpar;and the squash-merge trap&rpar;](https://dev.to/steven_keil_cb87a560f87f0/how-to-clean-up-merged-git-branches-safely-and-the-squash-merge-trap-j55)
+- [7 &#39;Implantes&#39; IA que Manipulan Tu Consumidor: ¡Cuidado!](https://dev.to/angelh/7-implantes-ia-que-manipulan-tu-consumidor-cuidado-jbd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
