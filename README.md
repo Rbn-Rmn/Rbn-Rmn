@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Developer Seeks Feedback on Open-Source Go SMTP Toolkit &#39;Raven,&#39; Addresses AI-Generated Code Concerns](https://dev.to/viklogix/developer-seeks-feedback-on-open-source-go-smtp-toolkit-raven-addresses-ai-generated-code-2hh6)
-- [IAB Content Taxonomy 1.0 vs 2.2 vs 3.1: cattax Picks Which Table cat Uses](https://dev.to/aleksuix/iab-content-taxonomy-10-vs-22-vs-31-cattax-picks-which-table-cat-uses-3ocm)
-- [Same page, two outputs: Markdown vs structured JSON for AI agents](https://dev.to/nyx464664816stack/same-page-two-outputs-markdown-vs-structured-json-for-ai-agents-4019)
-- [Nodejs Delayed Background Task Scheduling: Idempotent E-commerce Webhook Retries](https://dev.to/xerxescross2735/nodejs-delayed-background-task-scheduling-idempotent-e-commerce-webhook-retries-fk0)
-- [How to share one App Store link that works in every country](https://dev.to/xwiox/how-to-share-one-app-store-link-that-works-in-every-country-3o83)
+- [How Advanced Threat Protection Works, Layer by Layer](https://dev.to/simonrr/how-advanced-threat-protection-works-layer-by-layer-15c0)
+- [Our AI agent passed its eval. Then it refunded 212 customers twice](https://dev.to/rakesh_kumar_04012c337851/our-ai-agent-passed-its-eval-then-it-refunded-212-customers-twice-2ija)
+- [ContextSwitch: An AI Assistant That Helps You Pick Up Where You Left Off](https://dev.to/sanvi_naik_34794e9b4928cb/contextswitch-an-ai-assistant-that-helps-you-pick-up-where-you-left-off-587k)
+- [Detection Priorities for a Remote-Support Appliance After CVE-2026-102764](https://dev.to/bianliang/detection-priorities-for-a-remote-support-appliance-after-cve-2026-102764-knj)
+- [Instant GraphQL and REST from Any Postgres Database: Introducing graphpg](https://dev.to/mihailtd/instant-graphql-and-rest-from-any-postgres-database-introducing-graphpg-1a27)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
