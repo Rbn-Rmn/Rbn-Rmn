@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How Advanced Threat Protection Works, Layer by Layer](https://dev.to/simonrr/how-advanced-threat-protection-works-layer-by-layer-15c0)
-- [Our AI agent passed its eval. Then it refunded 212 customers twice](https://dev.to/rakesh_kumar_04012c337851/our-ai-agent-passed-its-eval-then-it-refunded-212-customers-twice-2ija)
-- [ContextSwitch: An AI Assistant That Helps You Pick Up Where You Left Off](https://dev.to/sanvi_naik_34794e9b4928cb/contextswitch-an-ai-assistant-that-helps-you-pick-up-where-you-left-off-587k)
-- [Detection Priorities for a Remote-Support Appliance After CVE-2026-102764](https://dev.to/bianliang/detection-priorities-for-a-remote-support-appliance-after-cve-2026-102764-knj)
-- [Instant GraphQL and REST from Any Postgres Database: Introducing graphpg](https://dev.to/mihailtd/instant-graphql-and-rest-from-any-postgres-database-introducing-graphpg-1a27)
+- [Scoring English word rarity by frequency alone squashes advanced words into one tier: a test with 70 words from our production API](https://dev.to/wordforge_jp/scoring-english-word-rarity-by-frequency-alone-squashes-advanced-words-into-one-tier-a-test-with-18gk)
+- [Jira new create screen: turn off Simple create as default](https://dev.to/mihai_leanzero/jira-new-create-screen-turn-off-simple-create-as-default-4bb3)
+- [Reserve, Then Reconcile: A Token Ledger That Stops a Free-Tier Side Project at the Cap](https://dev.to/devlab_1905/reserve-then-reconcile-a-token-ledger-that-stops-a-free-tier-side-project-at-the-cap-4k9m)
+- [19% slower, and sure they were 20% faster Why I wrote a book about building software with AI agents](https://dev.to/praveen_govi_ai/19-slower-and-sure-they-were-20-faster-why-i-wrote-a-book-about-building-software-with-ai-agents-178p)
+- [The Crease Is Physics. The 15999 Price Tag Is the Promise.](https://dev.to/asher_hu_42c5945e09721211/the-crease-is-physics-the-15999-price-tag-is-the-promise-5978)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
