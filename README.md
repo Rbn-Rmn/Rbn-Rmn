@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [GeoIP and Geofeeds: Getting an IPv6 Prefix Located Correctly](https://dev.to/ipye_com/geoip-and-geofeeds-getting-an-ipv6-prefix-located-correctly-50bi)
-- [How to Compare Local AI Models Side by Side on Windows in 2026 &lpar;One Question, Up to Six Models&rpar;](https://dev.to/alichherawalla/how-to-compare-local-ai-models-side-by-side-on-windows-in-2026-one-question-up-to-six-models-4b76)
-- [pace Junkyard Gardener: A Calmer Way to Explore Orbital Clutter](https://dev.to/prashantkumar0970k/pace-junkyard-gardener-a-calmer-way-to-explore-orbital-clutter-ai7)
-- [BFD Basics: Fast Failure Detection for BGP and Static Routes](https://dev.to/ipye_com/bfd-basics-fast-failure-detection-for-bgp-and-static-routes-2jp9)
-- [How to Compress an Image to an Exact KB Size in the Browser &lpar;Free, No Upload&rpar;](https://dev.to/abhigyannsaikia/how-to-compress-an-image-to-an-exact-kb-size-in-the-browser-free-no-upload-1f79)
+- [How AI Voice Models Are Trained: A Technical Overview](https://dev.to/voice_developer/how-ai-voice-models-are-trained-a-technical-overview-5f7d)
+- [FAQPage, HowTo, and LocalBusiness schema hygiene for small WordPress sites](https://dev.to/riichimirza/faqpage-howto-and-localbusiness-schema-hygiene-for-small-wordpress-sites-d5c)
+- [Multi-Agent Orchestration Explained](https://dev.to/ayraix/multi-agent-orchestration-explained-2lm5)
+- [PhD student researching how software professionals use and feel about AI tools like ChatGPT, Copilot, and Claude or internally built AI tools. Please help participate in survey. Thank you!](https://dev.to/kiranl/-3p18)
+- [SQL BASICS](https://dev.to/flymanreek5/sql-basics-5c8a)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
