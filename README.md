@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Scoring English word rarity by frequency alone squashes advanced words into one tier: a test with 70 words from our production API](https://dev.to/wordforge_jp/scoring-english-word-rarity-by-frequency-alone-squashes-advanced-words-into-one-tier-a-test-with-18gk)
-- [Jira new create screen: turn off Simple create as default](https://dev.to/mihai_leanzero/jira-new-create-screen-turn-off-simple-create-as-default-4bb3)
-- [Reserve, Then Reconcile: A Token Ledger That Stops a Free-Tier Side Project at the Cap](https://dev.to/devlab_1905/reserve-then-reconcile-a-token-ledger-that-stops-a-free-tier-side-project-at-the-cap-4k9m)
-- [19% slower, and sure they were 20% faster Why I wrote a book about building software with AI agents](https://dev.to/praveen_govi_ai/19-slower-and-sure-they-were-20-faster-why-i-wrote-a-book-about-building-software-with-ai-agents-178p)
-- [The Crease Is Physics. The 15999 Price Tag Is the Promise.](https://dev.to/asher_hu_42c5945e09721211/the-crease-is-physics-the-15999-price-tag-is-the-promise-5978)
+- [GeoIP and Geofeeds: Getting an IPv6 Prefix Located Correctly](https://dev.to/ipye_com/geoip-and-geofeeds-getting-an-ipv6-prefix-located-correctly-50bi)
+- [How to Compare Local AI Models Side by Side on Windows in 2026 &lpar;One Question, Up to Six Models&rpar;](https://dev.to/alichherawalla/how-to-compare-local-ai-models-side-by-side-on-windows-in-2026-one-question-up-to-six-models-4b76)
+- [pace Junkyard Gardener: A Calmer Way to Explore Orbital Clutter](https://dev.to/prashantkumar0970k/pace-junkyard-gardener-a-calmer-way-to-explore-orbital-clutter-ai7)
+- [BFD Basics: Fast Failure Detection for BGP and Static Routes](https://dev.to/ipye_com/bfd-basics-fast-failure-detection-for-bgp-and-static-routes-2jp9)
+- [How to Compress an Image to an Exact KB Size in the Browser &lpar;Free, No Upload&rpar;](https://dev.to/abhigyannsaikia/how-to-compress-an-image-to-an-exact-kb-size-in-the-browser-free-no-upload-1f79)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
