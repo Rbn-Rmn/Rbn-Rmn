@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Logo Marca Oficial](https://dev.to/joicy_costa_9e58041297372/logo-marca-oficial-3kad)
-- [Engineering Geofencing: Why Accuracy Often Kills Battery Life](https://dev.to/haseebthedev0/engineering-geofencing-why-accuracy-often-kills-battery-life-b3p)
-- [Eight CA Keys Between 1 and 255: What the eMudhra Incident Means for Your Code](https://dev.to/dionisioc/eight-ca-keys-between-1-and-255-what-the-emudhra-incident-means-for-your-code-4k7o)
-- [Why I stopped trusting &quot;fixed&quot; from my coding agent](https://dev.to/livecristen/why-i-stopped-trusting-fixed-from-my-coding-agent-ddi)
-- [JLScripter](https://dev.to/joicy_costa_9e58041297372/jlscripter-2eae)
+- [Developer Seeks Feedback on Open-Source Go SMTP Toolkit &#39;Raven,&#39; Addresses AI-Generated Code Concerns](https://dev.to/viklogix/developer-seeks-feedback-on-open-source-go-smtp-toolkit-raven-addresses-ai-generated-code-2hh6)
+- [IAB Content Taxonomy 1.0 vs 2.2 vs 3.1: cattax Picks Which Table cat Uses](https://dev.to/aleksuix/iab-content-taxonomy-10-vs-22-vs-31-cattax-picks-which-table-cat-uses-3ocm)
+- [Same page, two outputs: Markdown vs structured JSON for AI agents](https://dev.to/nyx464664816stack/same-page-two-outputs-markdown-vs-structured-json-for-ai-agents-4019)
+- [Nodejs Delayed Background Task Scheduling: Idempotent E-commerce Webhook Retries](https://dev.to/xerxescross2735/nodejs-delayed-background-task-scheduling-idempotent-e-commerce-webhook-retries-fk0)
+- [How to share one App Store link that works in every country](https://dev.to/xwiox/how-to-share-one-app-store-link-that-works-in-every-country-3o83)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
