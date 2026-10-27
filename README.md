@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Afterlight: A Haunted Museum Where Medical History Has to Show Its Sources](https://dev.to/faraz_s_0a6e70a4bbdc6622/afterlight-a-haunted-museum-where-medical-history-has-to-show-its-sources-24b4)
-- [Trade$im AI](https://dev.to/anupam99jain/tradeim-ai-43og)
-- [Voice Clone Technology: The Gap Between Capability and Consent](https://dev.to/paycheck563/voice-clone-technology-the-gap-between-capability-and-consent-3nca)
-- [How Roblox actually pays creators: the 30% fee, DevEx rates and UGC revenue share &lpar;2026&rpar;](https://dev.to/fzsheik/how-roblox-actually-pays-creators-the-30-fee-devex-rates-and-ugc-revenue-share-2026-580i)
-- [Governance Attack Surface Review: Maple](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-maple-4poo)
+- [What Is a Dunning Letter?](https://dev.to/paulhartness/what-is-a-dunning-letter-381a)
+- [Group Photos by Face in Python: One Album per Person](https://dev.to/aiengine/group-photos-by-face-in-python-one-album-per-person-5eoj)
+- [I added 3% to cover PayPal&#39;s fee and still came up short. Here&#39;s the math I got wrong.](https://dev.to/ossama_berghai_7238962982/i-added-3-to-cover-paypals-fee-and-still-came-up-short-heres-the-math-i-got-wrong-3hc0)
+- [Seedance 2.5 video generation: what platform or workflow are you using?](https://dev.to/chet103cc/seedance-25-video-generation-what-platform-or-workflow-are-you-using-2iik)
+- [Understanding Database Replication: How to Keep Your Apps Fast and Reliable](https://dev.to/saurav_tb_pandey/understanding-database-replication-how-to-keep-your-apps-fast-and-reliable-24id)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
