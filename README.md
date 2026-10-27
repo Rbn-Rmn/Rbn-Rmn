@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Six small ways to help test Bees, no code needed](https://dev.to/beesbot/six-small-ways-to-help-test-bees-no-code-needed-5549)
-- [Quel est le rôle de Celestia dans la disponibilité des données pour les blockchains modulaires ?](https://dev.to/sunlibcrypto/quel-est-le-role-de-celestia-dans-la-disponibilite-des-donnees-pour-les-blockchains-modulaires--502g)
-- [Private Knowledge Manager Retrieval: Node.js Chunk Boundaries and Query Latency](https://dev.to/zachariahholloway9058/private-knowledge-manager-retrieval-nodejs-chunk-boundaries-and-query-latency-31co)
-- [Jenkins Explained: The Original CI/CD Workhorse](https://dev.to/practicaldevblog/jenkins-explained-the-original-cicd-workhorse-48lf)
-- [How to Get Out of Tutorial Hell &lpar;Without Quitting Tutorials&rpar;](https://dev.to/spartanrich430/how-to-get-out-of-tutorial-hell-without-quitting-tutorials-4keh)
+- [Instagram posts in Klaviyo/Mailchimp without Zapier tax](https://dev.to/philyboysmith/instagram-posts-in-klaviyomailchimp-without-zapier-tax-2beb)
+- [Branching quest text keeps assuming you took the other road](https://dev.to/idlecultivation/branching-quest-text-keeps-assuming-you-took-the-other-road-4055)
+- [Node.js Marketplace Moderation: Multi-Model Gateway and Direct Provider Billing Estimates](https://dev.to/paxtonshaw1459/nodejs-marketplace-moderation-multi-model-gateway-and-direct-provider-billing-estimates-4cie)
+- [Claude Code&#39;s eval grader can&#39;t see a no-break space](https://dev.to/driftproofhq/claude-codes-eval-grader-cant-see-a-no-break-space-5d8c)
+- [GEAR: How Feature-Based Code Generation Abstracts Away Multi-Agent Framework Lock-In](https://dev.to/mech_app_ai/gear-how-feature-based-code-generation-abstracts-away-multi-agent-framework-lock-in-g9j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
