@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How AI Voice Models Are Trained: A Technical Overview](https://dev.to/voice_developer/how-ai-voice-models-are-trained-a-technical-overview-5f7d)
-- [FAQPage, HowTo, and LocalBusiness schema hygiene for small WordPress sites](https://dev.to/riichimirza/faqpage-howto-and-localbusiness-schema-hygiene-for-small-wordpress-sites-d5c)
-- [Multi-Agent Orchestration Explained](https://dev.to/ayraix/multi-agent-orchestration-explained-2lm5)
-- [PhD student researching how software professionals use and feel about AI tools like ChatGPT, Copilot, and Claude or internally built AI tools. Please help participate in survey. Thank you!](https://dev.to/kiranl/-3p18)
-- [SQL BASICS](https://dev.to/flymanreek5/sql-basics-5c8a)
+- [Afterlight: A Haunted Museum Where Medical History Has to Show Its Sources](https://dev.to/faraz_s_0a6e70a4bbdc6622/afterlight-a-haunted-museum-where-medical-history-has-to-show-its-sources-24b4)
+- [Trade$im AI](https://dev.to/anupam99jain/tradeim-ai-43og)
+- [Voice Clone Technology: The Gap Between Capability and Consent](https://dev.to/paycheck563/voice-clone-technology-the-gap-between-capability-and-consent-3nca)
+- [How Roblox actually pays creators: the 30% fee, DevEx rates and UGC revenue share &lpar;2026&rpar;](https://dev.to/fzsheik/how-roblox-actually-pays-creators-the-30-fee-devex-rates-and-ugc-revenue-share-2026-580i)
+- [Governance Attack Surface Review: Maple](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-maple-4poo)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
