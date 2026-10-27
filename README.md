@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What Is a Dunning Letter?](https://dev.to/paulhartness/what-is-a-dunning-letter-381a)
-- [Group Photos by Face in Python: One Album per Person](https://dev.to/aiengine/group-photos-by-face-in-python-one-album-per-person-5eoj)
-- [I added 3% to cover PayPal&#39;s fee and still came up short. Here&#39;s the math I got wrong.](https://dev.to/ossama_berghai_7238962982/i-added-3-to-cover-paypals-fee-and-still-came-up-short-heres-the-math-i-got-wrong-3hc0)
-- [Seedance 2.5 video generation: what platform or workflow are you using?](https://dev.to/chet103cc/seedance-25-video-generation-what-platform-or-workflow-are-you-using-2iik)
-- [Understanding Database Replication: How to Keep Your Apps Fast and Reliable](https://dev.to/saurav_tb_pandey/understanding-database-replication-how-to-keep-your-apps-fast-and-reliable-24id)
+- [Six small ways to help test Bees, no code needed](https://dev.to/beesbot/six-small-ways-to-help-test-bees-no-code-needed-5549)
+- [Quel est le rôle de Celestia dans la disponibilité des données pour les blockchains modulaires ?](https://dev.to/sunlibcrypto/quel-est-le-role-de-celestia-dans-la-disponibilite-des-donnees-pour-les-blockchains-modulaires--502g)
+- [Private Knowledge Manager Retrieval: Node.js Chunk Boundaries and Query Latency](https://dev.to/zachariahholloway9058/private-knowledge-manager-retrieval-nodejs-chunk-boundaries-and-query-latency-31co)
+- [Jenkins Explained: The Original CI/CD Workhorse](https://dev.to/practicaldevblog/jenkins-explained-the-original-cicd-workhorse-48lf)
+- [How to Get Out of Tutorial Hell &lpar;Without Quitting Tutorials&rpar;](https://dev.to/spartanrich430/how-to-get-out-of-tutorial-hell-without-quitting-tutorials-4keh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
