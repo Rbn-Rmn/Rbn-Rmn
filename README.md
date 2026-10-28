@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [GraphQL Federation with Java subgraphs, without the N+1](https://dev.to/ayushwing/graphql-federation-with-java-subgraphs-without-the-n1-1np6)
-- [Guide to Multilingual Voice AI Applications](https://dev.to/voice_developer/guide-to-multilingual-voice-ai-applications-2c78)
-- [Should approval thresholds live in your .NET workflow or in a rule engine?](https://dev.to/optimajet/should-approval-thresholds-live-in-your-net-workflow-or-in-a-rule-engine-39fi)
-- [Google Workspace Offboarding: A Dry Run That Survives a Failed Step](https://dev.to/hayrullahkar/google-workspace-offboarding-a-dry-run-that-survives-a-failed-step-1k4j)
-- [Vercel vs Firebase for Next.js Hosting: Which Is Best in 2026?](https://dev.to/vishvajeetshukla/vercel-vs-firebase-for-nextjs-hosting-which-is-best-in-2026-20ge)
+- [Day 25 of My React Learning Journey 🚀 | Checkbox Selection and Forms](https://dev.to/saravanan_cn_183fcba7cc7a/day-25-of-my-react-learning-journey-checkbox-selection-and-forms-23oj)
+- [PhantomShell: The Haunted Terminal Possessed by Forgotten Code &amp; Dead Daemons](https://dev.to/basant_nema31/phantomshell-the-haunted-terminal-possessed-by-forgotten-code-dead-daemons-5296)
+- [Shipping a solo pixel art RPG to Google Play from a 4 GB RAM laptop with Godot](https://dev.to/sarazgat/shipping-a-solo-pixel-art-rpg-to-google-play-from-a-4-gb-ram-laptop-with-godot-4i6e)
+- [How to Create an llms.txt File and What to Expect From It](https://dev.to/author_ak_974931c8869a60e/how-to-create-an-llmstxt-file-and-what-to-expect-from-it-54e5)
+- [One tool layer for eleven AI coding CLIs: what we learned building SpaceApp](https://dev.to/space_app_fc7f6872808dc84/one-tool-layer-for-eleven-ai-coding-clis-what-we-learned-building-spaceapp-cg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
