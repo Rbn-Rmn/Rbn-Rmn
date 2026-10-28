@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Classifying Sales-Call Text with Embeddings for Portable CRM Actions &lpar;and Trade-offs&rpar;](https://dev.to/apexz69/classifying-sales-call-text-with-embeddings-for-portable-crm-actions-and-trade-offs-2bmc)
-- [Claude SEO&#39;s 19-Agent Architecture: How 26 Sub-Skills Coordinate Technical Audits Without a Central Orchestrator](https://dev.to/mech_app_ai/claude-seos-19-agent-architecture-how-26-sub-skills-coordinate-technical-audits-without-a-central-4h7g)
-- [CodeRabbit Secure: How Cross-Repository Security Agents Trace Vulnerabilities Across Dependency Graphs](https://dev.to/mech_app_ai/coderabbit-secure-how-cross-repository-security-agents-trace-vulnerabilities-across-dependency-354a)
-- [The AI Terminal Gatekeeper: Designing Sandboxed Execution for Autonomous Code Agents](https://dev.to/tamizuddin/the-ai-terminal-gatekeeper-designing-sandboxed-execution-for-autonomous-code-agents-hbb)
-- [DNS propagation: how long it really takes](https://dev.to/romailshah/dns-propagation-how-long-it-really-takes-4nal)
+- [GraphQL Federation with Java subgraphs, without the N+1](https://dev.to/ayushwing/graphql-federation-with-java-subgraphs-without-the-n1-1np6)
+- [Guide to Multilingual Voice AI Applications](https://dev.to/voice_developer/guide-to-multilingual-voice-ai-applications-2c78)
+- [Should approval thresholds live in your .NET workflow or in a rule engine?](https://dev.to/optimajet/should-approval-thresholds-live-in-your-net-workflow-or-in-a-rule-engine-39fi)
+- [Google Workspace Offboarding: A Dry Run That Survives a Failed Step](https://dev.to/hayrullahkar/google-workspace-offboarding-a-dry-run-that-survives-a-failed-step-1k4j)
+- [Vercel vs Firebase for Next.js Hosting: Which Is Best in 2026?](https://dev.to/vishvajeetshukla/vercel-vs-firebase-for-nextjs-hosting-which-is-best-in-2026-20ge)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
