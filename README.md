@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [An open, append-only dataset of 25,000+ settled football predictions &lpar;CSV, CC BY 4.0&rpar;](https://dev.to/footinsights/an-open-append-only-dataset-of-25000-settled-football-predictions-csv-cc-by-40-1j3k)
-- [Same AI, Two Very Different Results: The Same-Name-Different-Engine PitSame AI, Two Very Different Results: The Same-Name-Different-Engine Pit](https://dev.to/_61f3798b38a1851e53737/same-ai-two-very-different-results-the-same-name-different-engine-pitsame-ai-two-very-different-m7l)
-- [State of review platform APIs in 2026: only 8 of 32 let you reply, 16 have no API at all](https://dev.to/fransopa/state-of-review-platform-apis-in-2026-only-8-of-32-let-you-reply-16-have-no-api-at-all-4dnb)
-- [Meta VR Glasses, Quest 3 &amp; Steam Frame Compared – Specs &amp; Features](https://dev.to/ashish_624379625242c5d263/meta-vr-glasses-quest-3-steam-frame-compared-specs-features-4m6a)
-- [Two AI chats, one game board, and a server that trusts neither](https://dev.to/fuloxdev/two-ai-chats-one-game-board-and-a-server-that-trusts-neither-3770)
+- [MuPDF&#39;s AES-256 key had 9 bits of entropy. I reproduced it in 8.7 milliseconds.](https://dev.to/frankchu/mupdfs-aes-256-key-had-9-bits-of-entropy-i-reproduced-it-in-87-milliseconds-54ce)
+- [The Smoothest Episode in the Batch Was Also a Failure: Motion Smoothness vs. Task Success in RoboLab-EgoX Policy Rollouts](https://dev.to/harpreetsahota/the-smoothest-episode-in-the-batch-was-also-a-failure-motion-smoothness-vs-task-success-in-1o1o)
+- [Seven Downloads, One MCAP: Authoring a Full Aria Digital Twin Episode for FiftyOne](https://dev.to/harpreetsahota/seven-downloads-one-mcap-authoring-a-full-aria-digital-twin-episode-for-fiftyone-43bk)
+- [Kubernetes events disappear after an hour](https://dev.to/abhijais1/kubernetes-events-disappear-after-an-hour-5g26)
+- [Fly.io alternatives in 2026: five options compared, and when to stay](https://dev.to/abhijais1/flyio-alternatives-in-2026-five-options-compared-and-when-to-stay-1j9f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
