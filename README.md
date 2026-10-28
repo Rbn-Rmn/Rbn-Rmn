@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Day 25 of My React Learning Journey 🚀 | Checkbox Selection and Forms](https://dev.to/saravanan_cn_183fcba7cc7a/day-25-of-my-react-learning-journey-checkbox-selection-and-forms-23oj)
-- [PhantomShell: The Haunted Terminal Possessed by Forgotten Code &amp; Dead Daemons](https://dev.to/basant_nema31/phantomshell-the-haunted-terminal-possessed-by-forgotten-code-dead-daemons-5296)
-- [Shipping a solo pixel art RPG to Google Play from a 4 GB RAM laptop with Godot](https://dev.to/sarazgat/shipping-a-solo-pixel-art-rpg-to-google-play-from-a-4-gb-ram-laptop-with-godot-4i6e)
-- [How to Create an llms.txt File and What to Expect From It](https://dev.to/author_ak_974931c8869a60e/how-to-create-an-llmstxt-file-and-what-to-expect-from-it-54e5)
-- [One tool layer for eleven AI coding CLIs: what we learned building SpaceApp](https://dev.to/space_app_fc7f6872808dc84/one-tool-layer-for-eleven-ai-coding-clis-what-we-learned-building-spaceapp-cg)
+- [An open, append-only dataset of 25,000+ settled football predictions &lpar;CSV, CC BY 4.0&rpar;](https://dev.to/footinsights/an-open-append-only-dataset-of-25000-settled-football-predictions-csv-cc-by-40-1j3k)
+- [Same AI, Two Very Different Results: The Same-Name-Different-Engine PitSame AI, Two Very Different Results: The Same-Name-Different-Engine Pit](https://dev.to/_61f3798b38a1851e53737/same-ai-two-very-different-results-the-same-name-different-engine-pitsame-ai-two-very-different-m7l)
+- [State of review platform APIs in 2026: only 8 of 32 let you reply, 16 have no API at all](https://dev.to/fransopa/state-of-review-platform-apis-in-2026-only-8-of-32-let-you-reply-16-have-no-api-at-all-4dnb)
+- [Meta VR Glasses, Quest 3 &amp; Steam Frame Compared – Specs &amp; Features](https://dev.to/ashish_624379625242c5d263/meta-vr-glasses-quest-3-steam-frame-compared-specs-features-4m6a)
+- [Two AI chats, one game board, and a server that trusts neither](https://dev.to/fuloxdev/two-ai-chats-one-game-board-and-a-server-that-trusts-neither-3770)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
