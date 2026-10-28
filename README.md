@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Instagram posts in Klaviyo/Mailchimp without Zapier tax](https://dev.to/philyboysmith/instagram-posts-in-klaviyomailchimp-without-zapier-tax-2beb)
-- [Branching quest text keeps assuming you took the other road](https://dev.to/idlecultivation/branching-quest-text-keeps-assuming-you-took-the-other-road-4055)
-- [Node.js Marketplace Moderation: Multi-Model Gateway and Direct Provider Billing Estimates](https://dev.to/paxtonshaw1459/nodejs-marketplace-moderation-multi-model-gateway-and-direct-provider-billing-estimates-4cie)
-- [Claude Code&#39;s eval grader can&#39;t see a no-break space](https://dev.to/driftproofhq/claude-codes-eval-grader-cant-see-a-no-break-space-5d8c)
-- [GEAR: How Feature-Based Code Generation Abstracts Away Multi-Agent Framework Lock-In](https://dev.to/mech_app_ai/gear-how-feature-based-code-generation-abstracts-away-multi-agent-framework-lock-in-g9j)
+- [Classifying Sales-Call Text with Embeddings for Portable CRM Actions &lpar;and Trade-offs&rpar;](https://dev.to/apexz69/classifying-sales-call-text-with-embeddings-for-portable-crm-actions-and-trade-offs-2bmc)
+- [Claude SEO&#39;s 19-Agent Architecture: How 26 Sub-Skills Coordinate Technical Audits Without a Central Orchestrator](https://dev.to/mech_app_ai/claude-seos-19-agent-architecture-how-26-sub-skills-coordinate-technical-audits-without-a-central-4h7g)
+- [CodeRabbit Secure: How Cross-Repository Security Agents Trace Vulnerabilities Across Dependency Graphs](https://dev.to/mech_app_ai/coderabbit-secure-how-cross-repository-security-agents-trace-vulnerabilities-across-dependency-354a)
+- [The AI Terminal Gatekeeper: Designing Sandboxed Execution for Autonomous Code Agents](https://dev.to/tamizuddin/the-ai-terminal-gatekeeper-designing-sandboxed-execution-for-autonomous-code-agents-hbb)
+- [DNS propagation: how long it really takes](https://dev.to/romailshah/dns-propagation-how-long-it-really-takes-4nal)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
