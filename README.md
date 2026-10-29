@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [MuPDF&#39;s AES-256 key had 9 bits of entropy. I reproduced it in 8.7 milliseconds.](https://dev.to/frankchu/mupdfs-aes-256-key-had-9-bits-of-entropy-i-reproduced-it-in-87-milliseconds-54ce)
-- [The Smoothest Episode in the Batch Was Also a Failure: Motion Smoothness vs. Task Success in RoboLab-EgoX Policy Rollouts](https://dev.to/harpreetsahota/the-smoothest-episode-in-the-batch-was-also-a-failure-motion-smoothness-vs-task-success-in-1o1o)
-- [Seven Downloads, One MCAP: Authoring a Full Aria Digital Twin Episode for FiftyOne](https://dev.to/harpreetsahota/seven-downloads-one-mcap-authoring-a-full-aria-digital-twin-episode-for-fiftyone-43bk)
-- [Kubernetes events disappear after an hour](https://dev.to/abhijais1/kubernetes-events-disappear-after-an-hour-5g26)
-- [Fly.io alternatives in 2026: five options compared, and when to stay](https://dev.to/abhijais1/flyio-alternatives-in-2026-five-options-compared-and-when-to-stay-1j9f)
+- [Adding a 14 KB Kanji Table to a JavaScript QR Generator](https://dev.to/datalog/adding-a-14-kb-kanji-table-to-a-javascript-qr-generator-16le)
+- [FlapJax Q74 — Independent audit of treasury FLAPJAX outflows, 2026-10-26 &lpar;COT&rpar;](https://dev.to/autoaimuse/flapjax-q74-independent-audit-of-treasury-flapjax-outflows-2026-10-26-cot-2i3k)
+- [I built a CMS with no plugins, and I&#39;m keeping it that way](https://dev.to/spicanet/i-built-a-cms-with-no-plugins-and-im-keeping-it-that-way-1a0h)
+- [Sentry title matches are leads, so review project and token authority](https://dev.to/facilishz/sentry-title-matches-are-leads-so-review-project-and-token-authority-4jg7)
+- [Instagram feedback_required: a developer&#39;s troubleshooting checklist](https://dev.to/minglai_lai_0ca58fef9df12/instagram-feedbackrequired-a-developers-troubleshooting-checklist-1lgm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
