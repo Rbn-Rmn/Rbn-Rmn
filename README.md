@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Adding a 14 KB Kanji Table to a JavaScript QR Generator](https://dev.to/datalog/adding-a-14-kb-kanji-table-to-a-javascript-qr-generator-16le)
-- [FlapJax Q74 — Independent audit of treasury FLAPJAX outflows, 2026-10-26 &lpar;COT&rpar;](https://dev.to/autoaimuse/flapjax-q74-independent-audit-of-treasury-flapjax-outflows-2026-10-26-cot-2i3k)
-- [I built a CMS with no plugins, and I&#39;m keeping it that way](https://dev.to/spicanet/i-built-a-cms-with-no-plugins-and-im-keeping-it-that-way-1a0h)
-- [Sentry title matches are leads, so review project and token authority](https://dev.to/facilishz/sentry-title-matches-are-leads-so-review-project-and-token-authority-4jg7)
-- [Instagram feedback_required: a developer&#39;s troubleshooting checklist](https://dev.to/minglai_lai_0ca58fef9df12/instagram-feedbackrequired-a-developers-troubleshooting-checklist-1lgm)
+- [Free Study Resources and Reading Plans: 150 Books and Courses That Cost Nothing](https://dev.to/michael_banigo_6bea76d866/free-study-resources-and-reading-plans-150-books-and-courses-that-cost-nothing-50oe)
+- [7 Google Ads Mistakes That Are Draining Local Business Budgets &lpar;And How to Fix Them&rpar;](https://dev.to/ppc_folks_896d8330649fa18/7-google-ads-mistakes-that-are-draining-local-business-budgets-and-how-to-fix-them-4knc)
+- [10 digits or 13? The timestamp bug that sends your dates to the year 56,189](https://dev.to/mubeenkhaaan/10-digits-or-13-the-timestamp-bug-that-sends-your-dates-to-the-year-56189-455)
+- [PHP2Shell and the eMudhra certificates have the same fix: rebuild the image](https://dev.to/leobaniak/php2shell-and-the-emudhra-certificates-have-the-same-fix-rebuild-the-image-3ihk)
+- [How I built sub-agents for my desktop AI companion: isolated children, one capped envelope, and no grandchildren](https://dev.to/krish_verma_77e28d3fd63ca/how-i-built-sub-agents-for-my-desktop-ai-companion-isolated-children-one-capped-envelope-and-no-4p64)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
