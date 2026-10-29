@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Free Study Resources and Reading Plans: 150 Books and Courses That Cost Nothing](https://dev.to/michael_banigo_6bea76d866/free-study-resources-and-reading-plans-150-books-and-courses-that-cost-nothing-50oe)
-- [7 Google Ads Mistakes That Are Draining Local Business Budgets &lpar;And How to Fix Them&rpar;](https://dev.to/ppc_folks_896d8330649fa18/7-google-ads-mistakes-that-are-draining-local-business-budgets-and-how-to-fix-them-4knc)
-- [10 digits or 13? The timestamp bug that sends your dates to the year 56,189](https://dev.to/mubeenkhaaan/10-digits-or-13-the-timestamp-bug-that-sends-your-dates-to-the-year-56189-455)
-- [PHP2Shell and the eMudhra certificates have the same fix: rebuild the image](https://dev.to/leobaniak/php2shell-and-the-emudhra-certificates-have-the-same-fix-rebuild-the-image-3ihk)
-- [How I built sub-agents for my desktop AI companion: isolated children, one capped envelope, and no grandchildren](https://dev.to/krish_verma_77e28d3fd63ca/how-i-built-sub-agents-for-my-desktop-ai-companion-isolated-children-one-capped-envelope-and-no-4p64)
+- [Processing Text with Bash Using Grep, Sed, and Awk Commands](https://dev.to/vultr/processing-text-with-bash-using-grep-sed-and-awk-commands-1jec)
+- [Checking Disk Space and Usage in Linux](https://dev.to/vultr/checking-disk-space-and-usage-in-linux-4a7e)
+- [Generating System Hardware Report in Linux](https://dev.to/vultr/generating-system-hardware-report-in-linux-3oep)
+- [Optimizing GPU Resource Planning with NVIDIA Dynamo](https://dev.to/vultr/optimizing-gpu-resource-planning-with-nvidia-dynamo-2fdp)
+- [The 10-minute security check before you launch a vibe-coded app &lpar;Supabase + Stripe&rpar;](https://dev.to/agentk_6588bb59c6339/the-10-minute-security-check-before-you-launch-a-vibe-coded-app-supabase-stripe-40n1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
