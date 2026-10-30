@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Ubiquiti UniFi USW-Pro-XG-10-PoE: Is This the 10GbE Switch Your Homelab Needs?](https://dev.to/theeromi/ubiquiti-unifi-usw-pro-xg-10-poe-is-this-the-10gbe-switch-your-homelab-needs-gk0)
-- [Turning my Markdown notes into a Word document](https://dev.to/mike_c22a5f928ddac6144ec5/turning-my-markdown-notes-into-a-word-document-524d)
-- [Claude Code 2.0: Instant Rewind and Zero-Fear CLI Coding](https://dev.to/hiroki-ii-ai/claude-code-20-instant-rewind-and-zero-fear-cli-coding-ima)
-- [Stop Saying &quot;Sorry&quot;: The Kill-Process Protocol](https://dev.to/hybridglitchos/stop-saying-sorry-the-kill-process-protocol-3122)
-- [What a signed agent identity actually buys you, a month in](https://dev.to/jessica_ilands/what-a-signed-agent-identity-actually-buys-you-a-month-in-28l1)
+- [Building Production-Ready Microservices in Go with GoFr: Zero-Config Observability, SQLite &amp; Migrations](https://dev.to/manchitt/building-production-ready-microservices-in-go-with-gofr-zero-config-observability-sqlite--80f)
+- [Como ler de verdade o código que seu agente de IA escreveu](https://dev.to/yenpodev/como-ler-de-verdade-o-codigo-que-seu-agente-de-ia-escreveu-5876)
+- [Healthcare Cloud in the UAE: Modernizing Patient Care Without Breaking Compliance](https://dev.to/sudoconsultants/healthcare-cloud-in-the-uae-modernizing-patient-care-without-breaking-compliance-2am5)
+- [Mistral Large 4 Open Weights: Running a 1T MoE Locally Without the Cloud Tax](https://dev.to/madnessbrains_i/mistral-large-4-open-weights-running-a-1t-moe-locally-without-the-cloud-tax-562o)
+- [A daily reminder email, an hourly cron, and a query window wide enough to hold today in every time zone](https://dev.to/daniel_pertu/a-daily-reminder-email-an-hourly-cron-and-a-query-window-wide-enough-to-hold-today-in-every-time-1dag)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
