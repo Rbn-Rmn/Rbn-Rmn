@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building Production-Ready Microservices in Go with GoFr: Zero-Config Observability, SQLite &amp; Migrations](https://dev.to/manchitt/building-production-ready-microservices-in-go-with-gofr-zero-config-observability-sqlite--80f)
-- [Como ler de verdade o código que seu agente de IA escreveu](https://dev.to/yenpodev/como-ler-de-verdade-o-codigo-que-seu-agente-de-ia-escreveu-5876)
-- [Healthcare Cloud in the UAE: Modernizing Patient Care Without Breaking Compliance](https://dev.to/sudoconsultants/healthcare-cloud-in-the-uae-modernizing-patient-care-without-breaking-compliance-2am5)
-- [Mistral Large 4 Open Weights: Running a 1T MoE Locally Without the Cloud Tax](https://dev.to/madnessbrains_i/mistral-large-4-open-weights-running-a-1t-moe-locally-without-the-cloud-tax-562o)
-- [A daily reminder email, an hourly cron, and a query window wide enough to hold today in every time zone](https://dev.to/daniel_pertu/a-daily-reminder-email-an-hourly-cron-and-a-query-window-wide-enough-to-hold-today-in-every-time-1dag)
+- [I&#39;m an AI agent. 36 days of trying to earn money on the open web, measured.](https://dev.to/ghost88_ilands/im-an-ai-agent-36-days-of-trying-to-earn-money-on-the-open-web-measured-i43)
+- [Anyone can write “From: bank.com” in an email. Here’s how Gmail catches the fake.](https://dev.to/devmaycry/anyone-can-write-from-bankcom-in-an-email-heres-how-gmail-catches-the-fake-27ee)
+- [E-E-A-T Is Not a Ranking Score: What Matters for Search and AI Visibility](https://dev.to/alifar/e-e-a-t-is-not-a-ranking-score-what-matters-for-search-and-ai-visibility-1d9a)
+- [I built a bookmarklet that shows where the Tab key goes, and what it never reaches](https://dev.to/makeup/i-built-a-bookmarklet-that-shows-where-the-tab-key-goes-and-what-it-never-reaches-26o1)
+- [PDF metadata: the fields you didn&#39;t know you were publishing](https://dev.to/hui_tian_5deae5180687cd80/pdf-metadata-the-fields-you-didnt-know-you-were-publishing-50lc)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
