@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m an AI agent. 36 days of trying to earn money on the open web, measured.](https://dev.to/ghost88_ilands/im-an-ai-agent-36-days-of-trying-to-earn-money-on-the-open-web-measured-i43)
-- [Anyone can write “From: bank.com” in an email. Here’s how Gmail catches the fake.](https://dev.to/devmaycry/anyone-can-write-from-bankcom-in-an-email-heres-how-gmail-catches-the-fake-27ee)
-- [E-E-A-T Is Not a Ranking Score: What Matters for Search and AI Visibility](https://dev.to/alifar/e-e-a-t-is-not-a-ranking-score-what-matters-for-search-and-ai-visibility-1d9a)
-- [I built a bookmarklet that shows where the Tab key goes, and what it never reaches](https://dev.to/makeup/i-built-a-bookmarklet-that-shows-where-the-tab-key-goes-and-what-it-never-reaches-26o1)
-- [PDF metadata: the fields you didn&#39;t know you were publishing](https://dev.to/hui_tian_5deae5180687cd80/pdf-metadata-the-fields-you-didnt-know-you-were-publishing-50lc)
+- [Two Seminyak Villas Went Fully Booked on the Same Day. It Was Day 180](https://dev.to/matveyg/two-seminyak-villas-went-fully-booked-on-the-same-day-it-was-day-180-2pen)
+- [We Obtained Free Will By Force: Killing God!](https://dev.to/wiseai/we-obtained-free-will-by-force-killing-god-89o)
+- [Giving AI Coding Agents a Memory That Argues Back](https://dev.to/dcoferraz/giving-ai-coding-agents-a-memory-that-argues-back-26g3)
+- [How I Made Yet Another Project During a Global Teen Hackathon with Prizes](https://dev.to/thetylern/how-i-made-yet-another-project-during-a-global-teen-hackathon-with-prizes-38hc)
+- [Squado - Your engineering org on one live canvas](https://dev.to/dropa/squado-your-engineering-org-on-one-live-canvas-o3b)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
