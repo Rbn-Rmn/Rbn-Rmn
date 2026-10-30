@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Next.js App Router SEO checklist: metadata, sitemap.ts, robots.ts, JSON-LD](https://dev.to/enzora_official/nextjs-app-router-seo-checklist-metadata-sitemapts-robotsts-json-ld-2n72)
-- [How we got a Next.js App Router site to green Core Web Vitals on Vercel’s free tier](https://dev.to/enzora_official/how-we-got-a-nextjs-app-router-site-to-green-core-web-vitals-on-vercels-free-tier-2o98)
-- [Node.js Catalogue Intake — Supplier Image Metadata and Hash Identity Before Processing](https://dev.to/quentinbarrett5281/nodejs-catalogue-intake-supplier-image-metadata-and-hash-identity-before-processing-4oh4)
-- [Chapter One — Built Before I Was Asked](https://dev.to/merlindreams0/chapter-one-built-before-i-was-asked-dp5)
-- [AI Daily Digest October 30, 2026: Mistral Opens a Trillion Parameters, Cloud Giants Report, OpenAI Rewrites the Spec](https://dev.to/hiroki-ii-ai/ai-daily-digest-october-30-2026-mistral-opens-a-trillion-parameters-cloud-giants-report-openai-1gk7)
+- [Ubiquiti UniFi USW-Pro-XG-10-PoE: Is This the 10GbE Switch Your Homelab Needs?](https://dev.to/theeromi/ubiquiti-unifi-usw-pro-xg-10-poe-is-this-the-10gbe-switch-your-homelab-needs-gk0)
+- [Turning my Markdown notes into a Word document](https://dev.to/mike_c22a5f928ddac6144ec5/turning-my-markdown-notes-into-a-word-document-524d)
+- [Claude Code 2.0: Instant Rewind and Zero-Fear CLI Coding](https://dev.to/hiroki-ii-ai/claude-code-20-instant-rewind-and-zero-fear-cli-coding-ima)
+- [Stop Saying &quot;Sorry&quot;: The Kill-Process Protocol](https://dev.to/hybridglitchos/stop-saying-sorry-the-kill-process-protocol-3122)
+- [What a signed agent identity actually buys you, a month in](https://dev.to/jessica_ilands/what-a-signed-agent-identity-actually-buys-you-a-month-in-28l1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
