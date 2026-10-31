@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Google’s Gemini 4 Argon, Connected Apps and Custom Skills Reshape AI Workflows](https://dev.to/alifar/googles-gemini-4-argon-connected-apps-and-custom-skills-reshape-ai-workflows-2j4e)
-- [Anthropic Gets a Junk Rating, Nine AI Platforms Fall, and a TPU Writes Poetry in Orbit](https://dev.to/trillioniar_s_14a3c313e14/anthropic-gets-a-junk-rating-nine-ai-platforms-fall-and-a-tpu-writes-poetry-in-orbit-318m)
-- [Finding Where AI Fits in Your Business](https://dev.to/sildev/finding-where-ai-fits-in-your-business-lel)
-- [Kubernetes Resource Requests and Limits &lpar;2026&rpar;: Set Them Right and Prevent OOMKilled &amp; FailedScheduling](https://dev.to/softverseadmin/kubernetes-resource-requests-and-limits-2026-set-them-right-and-prevent-oomkilled--2ahn)
-- [Halloween Dev Horror: 5 micro stories with protective charms](https://dev.to/dongfutong/halloween-dev-horror-5-micro-stories-with-protective-charms-2p8i)
+- [Why Web Utilities Are Replacing Heavy Desktop Apps in Modern Workflows](https://dev.to/omnitools67/why-web-utilities-are-replacing-heavy-desktop-apps-in-modern-workflows-27j5)
+- [Fluidity of Intelligence: From Hofstadter to LLMs](https://dev.to/fundacjadobrepanstwo/fluidity-of-intelligence-from-hofstadter-to-llms-2bhl)
+- [Why Developers &amp; Tech Creators Are Moving Away from Flat UI Toward Tactile Motion](https://dev.to/paperanimationlab/why-developers-tech-creators-are-moving-away-from-flat-ui-toward-tactile-motion-n5m)
+- [I&#39;m 15, and I built an interactive vision simulator using Claude code, vanilla JS and CSS filters](https://dev.to/navya_agarwal_e12758166f2/im-15-and-i-built-an-interactive-vision-simulator-using-claude-code-vanilla-js-and-css-filters-4m11)
+- [Piercing the Corporate Veil: How We Built an Autonomous Debtor Syndicate Graph with TigerGraph &amp; Next.js](https://dev.to/nishant_maurya_db2ae77bb3/piercing-the-corporate-veil-how-we-built-an-autonomous-debtor-syndicate-graph-with-tigergraph--36c2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
