@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Sentry never ran on my Next.js server, and the dashboard looked fine](https://dev.to/asermu/sentry-never-ran-on-my-nextjs-server-and-the-dashboard-looked-fine-1gpa)
-- [Five failure tests for an AI-assisted website audit](https://dev.to/procoraai/five-failure-tests-for-an-ai-assisted-website-audit-427o)
-- [Echoes After Midnight – A Local AI-Powered Horror Story Generator](https://dev.to/shimra/echoes-after-midnight-a-local-ai-powered-horror-story-generator-55nb)
-- [How to read passport data with NFC in a Capacitor app](https://dev.to/muzychenka/i-built-a-capacitor-plugin-for-scanning-passports-and-id-cards-with-nfc-27ko)
-- [Building QuantGuard: A Cloud-Native Financial Risk API with DevSecOps &amp; FinOps on Azure](https://dev.to/blessing_a/building-quantguard-a-cloud-native-financial-risk-api-with-devsecops-finops-on-azure-1hci)
+- [I built a campus notice-to-calendar workflow that refuses to pretend AI is the source of truth!](https://dev.to/hassanismailtech/i-built-a-campus-notice-to-calendar-workflow-that-refuses-to-pretend-ai-is-the-source-of-truth-3267)
+- [WAKE.EXE: a horror game where Gemma times your hesitation and writes the next room](https://dev.to/anujjainaj16/wakeexe-a-horror-game-where-gemma-times-your-hesitation-and-writes-the-next-room-3pp1)
+- [Compare Image Generation APIs for 7-Stage Portable Media Hiring SaaS Apps](https://dev.to/fluxh91/compare-image-generation-apis-for-7-stage-portable-media-hiring-saas-apps-2j55)
+- [7 Best Notification Infrastructure APIs in 2026 &lpar;Compared&rpar;](https://dev.to/kevin_menesesgonzlez/7-best-notification-infrastructure-apis-in-2026-compared-bb)
+- [I Built DTDb — An IMDb for Developer Tools](https://dev.to/anselvo/i-built-dtdb-an-imdb-for-developer-tools-1gkp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
