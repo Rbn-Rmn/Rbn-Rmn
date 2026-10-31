@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [MCP security for coding agents: secrets in config files, server vetting and allowlists](https://dev.to/momin_aziz_1/mcp-security-for-coding-agents-secrets-in-config-files-server-vetting-and-allowlists-1aae)
-- [GhostEcho 👻 – Bringing Ghost Stories to Life with Open-Source AI](https://dev.to/tharindra_dasuni_6c212bfb/ghostecho-bringing-ghost-stories-to-life-with-open-source-ai-2554)
-- [GhostBASIC: a local AI ghost that teaches programming history](https://dev.to/danish16102005/ghostbasic-a-local-ai-ghost-that-teaches-programming-history-27km)
-- [AWS billing horror stories: 10 monsters living in your bill](https://dev.to/aws-heroes/aws-billing-horror-stories-10-monsters-living-in-your-bill-44op)
-- [Source code leakage through AI coding assistants: 5 paths and the control for each](https://dev.to/momin_aziz_1/source-code-leakage-through-ai-coding-assistants-5-paths-and-the-control-for-each-37c7)
+- [Sentry never ran on my Next.js server, and the dashboard looked fine](https://dev.to/asermu/sentry-never-ran-on-my-nextjs-server-and-the-dashboard-looked-fine-1gpa)
+- [Five failure tests for an AI-assisted website audit](https://dev.to/procoraai/five-failure-tests-for-an-ai-assisted-website-audit-427o)
+- [Echoes After Midnight – A Local AI-Powered Horror Story Generator](https://dev.to/shimra/echoes-after-midnight-a-local-ai-powered-horror-story-generator-55nb)
+- [How to read passport data with NFC in a Capacitor app](https://dev.to/muzychenka/i-built-a-capacitor-plugin-for-scanning-passports-and-id-cards-with-nfc-27ko)
+- [Building QuantGuard: A Cloud-Native Financial Risk API with DevSecOps &amp; FinOps on Azure](https://dev.to/blessing_a/building-quantguard-a-cloud-native-financial-risk-api-with-devsecops-finops-on-azure-1hci)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
