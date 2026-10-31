@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Web Utilities Are Replacing Heavy Desktop Apps in Modern Workflows](https://dev.to/omnitools67/why-web-utilities-are-replacing-heavy-desktop-apps-in-modern-workflows-27j5)
-- [Fluidity of Intelligence: From Hofstadter to LLMs](https://dev.to/fundacjadobrepanstwo/fluidity-of-intelligence-from-hofstadter-to-llms-2bhl)
-- [Why Developers &amp; Tech Creators Are Moving Away from Flat UI Toward Tactile Motion](https://dev.to/paperanimationlab/why-developers-tech-creators-are-moving-away-from-flat-ui-toward-tactile-motion-n5m)
-- [I&#39;m 15, and I built an interactive vision simulator using Claude code, vanilla JS and CSS filters](https://dev.to/navya_agarwal_e12758166f2/im-15-and-i-built-an-interactive-vision-simulator-using-claude-code-vanilla-js-and-css-filters-4m11)
-- [Piercing the Corporate Veil: How We Built an Autonomous Debtor Syndicate Graph with TigerGraph &amp; Next.js](https://dev.to/nishant_maurya_db2ae77bb3/piercing-the-corporate-veil-how-we-built-an-autonomous-debtor-syndicate-graph-with-tigergraph--36c2)
+- [MCP security for coding agents: secrets in config files, server vetting and allowlists](https://dev.to/momin_aziz_1/mcp-security-for-coding-agents-secrets-in-config-files-server-vetting-and-allowlists-1aae)
+- [GhostEcho 👻 – Bringing Ghost Stories to Life with Open-Source AI](https://dev.to/tharindra_dasuni_6c212bfb/ghostecho-bringing-ghost-stories-to-life-with-open-source-ai-2554)
+- [GhostBASIC: a local AI ghost that teaches programming history](https://dev.to/danish16102005/ghostbasic-a-local-ai-ghost-that-teaches-programming-history-27km)
+- [AWS billing horror stories: 10 monsters living in your bill](https://dev.to/aws-heroes/aws-billing-horror-stories-10-monsters-living-in-your-bill-44op)
+- [Source code leakage through AI coding assistants: 5 paths and the control for each](https://dev.to/momin_aziz_1/source-code-leakage-through-ai-coding-assistants-5-paths-and-the-control-for-each-37c7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
