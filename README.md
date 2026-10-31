@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Two Seminyak Villas Went Fully Booked on the Same Day. It Was Day 180](https://dev.to/matveyg/two-seminyak-villas-went-fully-booked-on-the-same-day-it-was-day-180-2pen)
-- [We Obtained Free Will By Force: Killing God!](https://dev.to/wiseai/we-obtained-free-will-by-force-killing-god-89o)
-- [Giving AI Coding Agents a Memory That Argues Back](https://dev.to/dcoferraz/giving-ai-coding-agents-a-memory-that-argues-back-26g3)
-- [How I Made Yet Another Project During a Global Teen Hackathon with Prizes](https://dev.to/thetylern/how-i-made-yet-another-project-during-a-global-teen-hackathon-with-prizes-38hc)
-- [Squado - Your engineering org on one live canvas](https://dev.to/dropa/squado-your-engineering-org-on-one-live-canvas-o3b)
+- [Google’s Gemini 4 Argon, Connected Apps and Custom Skills Reshape AI Workflows](https://dev.to/alifar/googles-gemini-4-argon-connected-apps-and-custom-skills-reshape-ai-workflows-2j4e)
+- [Anthropic Gets a Junk Rating, Nine AI Platforms Fall, and a TPU Writes Poetry in Orbit](https://dev.to/trillioniar_s_14a3c313e14/anthropic-gets-a-junk-rating-nine-ai-platforms-fall-and-a-tpu-writes-poetry-in-orbit-318m)
+- [Finding Where AI Fits in Your Business](https://dev.to/sildev/finding-where-ai-fits-in-your-business-lel)
+- [Kubernetes Resource Requests and Limits &lpar;2026&rpar;: Set Them Right and Prevent OOMKilled &amp; FailedScheduling](https://dev.to/softverseadmin/kubernetes-resource-requests-and-limits-2026-set-them-right-and-prevent-oomkilled--2ahn)
+- [Halloween Dev Horror: 5 micro stories with protective charms](https://dev.to/dongfutong/halloween-dev-horror-5-micro-stories-with-protective-charms-2p8i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
