@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Show DEV: HandleMyFile — In-Browser PDF Workstation &lpar;No Cloud, No Cost&rpar;](https://dev.to/khaithisran/show-dev-handlemyfile-in-browser-pdf-workstation-no-cloud-no-cost-pj6)
-- [I Built PaperHarbor: An Open-Source Python Tool to Automate Research Paper Discovery](https://dev.to/sayanmondal2098/i-built-paperharbor-an-open-source-python-tool-to-automate-research-paper-discovery-2oml)
-- [t3code: a Chinese translation of the agent harness control panel, and what it actually gets you](https://dev.to/sun_young_517829fc09d0c05/t3code-a-chinese-translation-of-the-agent-harness-control-panel-and-what-it-actually-gets-you-1i6g)
-- [Braintree Updated the Card. Your Retry Never Noticed.](https://dev.to/swipe-again/braintree-updated-the-card-your-retry-never-noticed-d5)
-- [Bygga eller köpa? AI-kundtjänst inhouse vs. partner vs. SaaS](https://dev.to/rickardcollander/bygga-eller-kopa-ai-kundtjanst-inhouse-vs-partner-vs-saas-nhm)
+- [Leafy Goose: A Human-Led AI Assistant for Maintainers’ Community Work](https://dev.to/anajsana95/leafy-goose-a-human-led-ai-assistant-for-maintainers-community-work-64f)
+- [Building Zero-Dependency Python + SQLite Business Apps &lpar;Plus 5 Free Scripts&rpar;](https://dev.to/antigravitydev/building-zero-dependency-python-sqlite-business-apps-plus-5-free-scripts-1ljo)
+- [Exorcist: a local Gemma that hunts ghosts in your node_modules](https://dev.to/youngbari/exorcist-a-local-gemma-that-hunts-ghosts-in-your-nodemodules-1bao)
+- [How to deploy a Next.js app on Ownkube](https://dev.to/abhijais1/how-to-deploy-a-nextjs-app-on-ownkube-2h5b)
+- [The browser title was correct. The Open Graph title wasn’t.](https://dev.to/stackendbox/the-browser-title-was-correct-the-open-graph-title-wasnt-9i1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
