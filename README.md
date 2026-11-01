@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/knictrace24/-4faf)
-- [Witching Hour: even a ghost has to cite its sources](https://dev.to/jenniferevangelistade/witching-hour-even-a-ghost-has-to-cite-its-sources-4kf9)
-- [Pull a Bluesky profile and recent posts with the public API &lpar;no login, no key&rpar;](https://dev.to/northgrid-data/pull-a-bluesky-profile-and-recent-posts-with-the-public-api-no-login-no-key-f89)
-- [Why China&#39;s First AI-Generated Film Failed at the Box Office — and What&#39;s Next for AI Video Production?](https://dev.to/alirezaai/why-chinas-first-ai-generated-film-failed-at-the-box-office-and-whats-next-for-ai-video-1m7e)
-- [5 Ways Your Photos Still Leak Your Location &lpar;Even Though Social Media Strips It&rpar;](https://dev.to/stackmasteraliza/5-ways-your-photos-still-leak-your-location-even-though-social-media-strips-it-1fhg)
+- [Show DEV: HandleMyFile — In-Browser PDF Workstation &lpar;No Cloud, No Cost&rpar;](https://dev.to/khaithisran/show-dev-handlemyfile-in-browser-pdf-workstation-no-cloud-no-cost-pj6)
+- [I Built PaperHarbor: An Open-Source Python Tool to Automate Research Paper Discovery](https://dev.to/sayanmondal2098/i-built-paperharbor-an-open-source-python-tool-to-automate-research-paper-discovery-2oml)
+- [t3code: a Chinese translation of the agent harness control panel, and what it actually gets you](https://dev.to/sun_young_517829fc09d0c05/t3code-a-chinese-translation-of-the-agent-harness-control-panel-and-what-it-actually-gets-you-1i6g)
+- [Braintree Updated the Card. Your Retry Never Noticed.](https://dev.to/swipe-again/braintree-updated-the-card-your-retry-never-noticed-d5)
+- [Bygga eller köpa? AI-kundtjänst inhouse vs. partner vs. SaaS](https://dev.to/rickardcollander/bygga-eller-kopa-ai-kundtjanst-inhouse-vs-partner-vs-saas-nhm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
