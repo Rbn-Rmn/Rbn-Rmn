@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [I built a campus notice-to-calendar workflow that refuses to pretend AI is the source of truth!](https://dev.to/hassanismailtech/i-built-a-campus-notice-to-calendar-workflow-that-refuses-to-pretend-ai-is-the-source-of-truth-3267)
-- [WAKE.EXE: a horror game where Gemma times your hesitation and writes the next room](https://dev.to/anujjainaj16/wakeexe-a-horror-game-where-gemma-times-your-hesitation-and-writes-the-next-room-3pp1)
-- [Compare Image Generation APIs for 7-Stage Portable Media Hiring SaaS Apps](https://dev.to/fluxh91/compare-image-generation-apis-for-7-stage-portable-media-hiring-saas-apps-2j55)
-- [7 Best Notification Infrastructure APIs in 2026 &lpar;Compared&rpar;](https://dev.to/kevin_menesesgonzlez/7-best-notification-infrastructure-apis-in-2026-compared-bb)
-- [I Built DTDb — An IMDb for Developer Tools](https://dev.to/anselvo/i-built-dtdb-an-imdb-for-developer-tools-1gkp)
+- [[Boost]](https://dev.to/knictrace24/-4faf)
+- [Witching Hour: even a ghost has to cite its sources](https://dev.to/jenniferevangelistade/witching-hour-even-a-ghost-has-to-cite-its-sources-4kf9)
+- [Pull a Bluesky profile and recent posts with the public API &lpar;no login, no key&rpar;](https://dev.to/northgrid-data/pull-a-bluesky-profile-and-recent-posts-with-the-public-api-no-login-no-key-f89)
+- [Why China&#39;s First AI-Generated Film Failed at the Box Office — and What&#39;s Next for AI Video Production?](https://dev.to/alirezaai/why-chinas-first-ai-generated-film-failed-at-the-box-office-and-whats-next-for-ai-video-1m7e)
+- [5 Ways Your Photos Still Leak Your Location &lpar;Even Though Social Media Strips It&rpar;](https://dev.to/stackmasteraliza/5-ways-your-photos-still-leak-your-location-even-though-social-media-strips-it-1fhg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
