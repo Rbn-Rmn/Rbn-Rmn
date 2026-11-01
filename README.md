@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Leafy Goose: A Human-Led AI Assistant for Maintainers’ Community Work](https://dev.to/anajsana95/leafy-goose-a-human-led-ai-assistant-for-maintainers-community-work-64f)
-- [Building Zero-Dependency Python + SQLite Business Apps &lpar;Plus 5 Free Scripts&rpar;](https://dev.to/antigravitydev/building-zero-dependency-python-sqlite-business-apps-plus-5-free-scripts-1ljo)
-- [Exorcist: a local Gemma that hunts ghosts in your node_modules](https://dev.to/youngbari/exorcist-a-local-gemma-that-hunts-ghosts-in-your-nodemodules-1bao)
-- [How to deploy a Next.js app on Ownkube](https://dev.to/abhijais1/how-to-deploy-a-nextjs-app-on-ownkube-2h5b)
-- [The browser title was correct. The Open Graph title wasn’t.](https://dev.to/stackendbox/the-browser-title-was-correct-the-open-graph-title-wasnt-9i1)
+- [AI Agents Are Starting to Work Together—What Happens When They Make Decisions Without Humans?](https://dev.to/tenvyro/ai-agents-are-starting-to-work-together-what-happens-when-they-make-decisions-without-humans-1f0b)
+- [How a missing IAM policy statement slowly increased the AWS bill](https://dev.to/aws-builders/how-a-missing-iam-policy-statement-slowly-increased-the-aws-bill-28lo)
+- [Your Claude Agent Works in a Notebook. Here&#39;s What It Takes to Ship It.](https://dev.to/muthali/your-claude-agent-works-in-a-notebook-heres-what-it-takes-to-ship-it-27io)
+- [Miyamoto says AI can do the work but not the making](https://dev.to/indietooling/miyamoto-says-ai-can-do-the-work-but-not-the-making-471f)
+- [RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode &amp; Decoupled Remote Connect](https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
