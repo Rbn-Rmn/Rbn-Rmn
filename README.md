@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Are Starting to Work Together—What Happens When They Make Decisions Without Humans?](https://dev.to/tenvyro/ai-agents-are-starting-to-work-together-what-happens-when-they-make-decisions-without-humans-1f0b)
-- [How a missing IAM policy statement slowly increased the AWS bill](https://dev.to/aws-builders/how-a-missing-iam-policy-statement-slowly-increased-the-aws-bill-28lo)
-- [Your Claude Agent Works in a Notebook. Here&#39;s What It Takes to Ship It.](https://dev.to/muthali/your-claude-agent-works-in-a-notebook-heres-what-it-takes-to-ship-it-27io)
-- [Miyamoto says AI can do the work but not the making](https://dev.to/indietooling/miyamoto-says-ai-can-do-the-work-but-not-the-making-471f)
-- [RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode &amp; Decoupled Remote Connect](https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k)
+- [iPhone Maker Foxconn Bundles Nvidia Systems So Firms Start Sooner](https://dev.to/fathomnews/iphone-maker-foxconn-bundles-nvidia-systems-so-firms-start-sooner-4f7e)
+- [You Will Figure It Out, Even If You Don&#39;t Know How Yet](https://dev.to/yoditdevn8n/you-will-figure-it-out-even-if-you-dont-know-how-yet-4mg9)
+- [&quot;LLM Voice&quot; and why your team&#39;s writing habits just became a workplace issue](https://dev.to/seohyun0903/llm-voice-and-why-your-teams-writing-habits-just-became-a-workplace-issue-3chc)
+- [Validate Content Briefs Before AI Article Generation](https://dev.to/raylabs/validate-content-briefs-before-ai-article-generation-4mg8)
+- [Beyond the Illusion of Vibes: A Systematic Re-evaluation of Local AI Models in Production](https://dev.to/tamizuddin/beyond-the-illusion-of-vibes-a-systematic-re-evaluation-of-local-ai-models-in-production-32eh)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
