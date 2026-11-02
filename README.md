@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Drupal Hosting: What Actually Runs Drupal Well](https://dev.to/mecanik-dev/drupal-hosting-what-actually-runs-drupal-well-5gnd)
-- [dnd kit Mobile: Touch Drag That Lets the Page Scroll](https://dev.to/wingo-ui/dnd-kit-mobile-touch-drag-that-lets-the-page-scroll-pm3)
-- [I Was Tired of Switching Between Developer Tools, So I Built My Own](https://dev.to/paresh_chaudhari_14ca7efb/i-was-tired-of-switching-between-developer-tools-so-i-built-my-own-3k1m)
-- [Construire son propre zoom produit : les trois détails qui comptent](https://dev.to/amineaffif/construire-son-propre-zoom-produit-les-trois-details-qui-comptent-3dba)
-- [Python: while...else and Other Crimes Against Intuition](https://dev.to/jlmartel/python-whileelse-and-other-crimes-against-intuition-33pd)
+- [From a GraphQL monorepo to FastAPI and React: the coupling changed](https://dev.to/marusyaganza/from-a-graphql-monorepo-to-fastapi-and-react-the-coupling-changed-49eo)
+- [Run a Capable LLM on Your Own Machine](https://dev.to/mkarytka/run-a-capable-llm-on-your-own-machine-2pfk)
+- [Poor Man’s Effect-like DI](https://dev.to/khraks_mamtsov/poor-mans-effect-like-di-l80)
+- [Hedged Requests in Go: Reducing Tail Latency Without Overloading Dependencies](https://dev.to/serifcolakel/hedged-requests-in-go-reducing-tail-latency-without-overloading-dependencies-3dl7)
+- [[Boost]](https://dev.to/arpo/-1b55)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
