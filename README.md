@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [iPhone Maker Foxconn Bundles Nvidia Systems So Firms Start Sooner](https://dev.to/fathomnews/iphone-maker-foxconn-bundles-nvidia-systems-so-firms-start-sooner-4f7e)
-- [You Will Figure It Out, Even If You Don&#39;t Know How Yet](https://dev.to/yoditdevn8n/you-will-figure-it-out-even-if-you-dont-know-how-yet-4mg9)
-- [&quot;LLM Voice&quot; and why your team&#39;s writing habits just became a workplace issue](https://dev.to/seohyun0903/llm-voice-and-why-your-teams-writing-habits-just-became-a-workplace-issue-3chc)
-- [Validate Content Briefs Before AI Article Generation](https://dev.to/raylabs/validate-content-briefs-before-ai-article-generation-4mg8)
-- [Beyond the Illusion of Vibes: A Systematic Re-evaluation of Local AI Models in Production](https://dev.to/tamizuddin/beyond-the-illusion-of-vibes-a-systematic-re-evaluation-of-local-ai-models-in-production-32eh)
+- [Drupal Hosting: What Actually Runs Drupal Well](https://dev.to/mecanik-dev/drupal-hosting-what-actually-runs-drupal-well-5gnd)
+- [dnd kit Mobile: Touch Drag That Lets the Page Scroll](https://dev.to/wingo-ui/dnd-kit-mobile-touch-drag-that-lets-the-page-scroll-pm3)
+- [I Was Tired of Switching Between Developer Tools, So I Built My Own](https://dev.to/paresh_chaudhari_14ca7efb/i-was-tired-of-switching-between-developer-tools-so-i-built-my-own-3k1m)
+- [Construire son propre zoom produit : les trois détails qui comptent](https://dev.to/amineaffif/construire-son-propre-zoom-produit-les-trois-details-qui-comptent-3dba)
+- [Python: while...else and Other Crimes Against Intuition](https://dev.to/jlmartel/python-whileelse-and-other-crimes-against-intuition-33pd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
