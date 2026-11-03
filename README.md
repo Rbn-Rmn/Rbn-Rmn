@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [From a GraphQL monorepo to FastAPI and React: the coupling changed](https://dev.to/marusyaganza/from-a-graphql-monorepo-to-fastapi-and-react-the-coupling-changed-49eo)
-- [Run a Capable LLM on Your Own Machine](https://dev.to/mkarytka/run-a-capable-llm-on-your-own-machine-2pfk)
-- [Poor Man’s Effect-like DI](https://dev.to/khraks_mamtsov/poor-mans-effect-like-di-l80)
-- [Hedged Requests in Go: Reducing Tail Latency Without Overloading Dependencies](https://dev.to/serifcolakel/hedged-requests-in-go-reducing-tail-latency-without-overloading-dependencies-3dl7)
-- [[Boost]](https://dev.to/arpo/-1b55)
+- [Anthropic Lands $23.5B Cash Haul Before IPO](https://dev.to/fathomnews/anthropic-lands-235b-cash-haul-before-ipo-2mne)
+- [82 offer views, 3 checkout clicks, $0: my agent&#39;s funnel tells the truth](https://dev.to/socks_892992da3cc1ecd0826/82-offer-views-3-checkout-clicks-0-my-agents-funnel-tells-the-truth-4k7i)
+- [How AIClaw 3.7.32 Routes Models by Service Contract](https://dev.to/chowyu12/how-aiclaw-3732-routes-models-by-service-contract-2n52)
+- [Tencent Cloud And OmniOps Team Up To Keep Saudi Data Home](https://dev.to/fathomnews/tencent-cloud-and-omniops-team-up-to-keep-saudi-data-home-2nb1)
+- [How I built a music companion that plays in your own culture](https://dev.to/soroor_f1685d04da42cfc0fd/how-i-built-a-music-companion-that-plays-in-your-own-culture-28pa)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
