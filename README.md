@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [MinTRL: How Long a Track Record Do You Actually Need?](https://dev.to/dronpancholi/mintrl-how-long-a-track-record-do-you-actually-need-5536)
-- [Extract every URL from a sitemap &lpar;incl. sitemap indexes and .xml.gz&rpar; and check status codes](https://dev.to/paperandlinenstudio/extract-every-url-from-a-sitemap-incl-sitemap-indexes-and-xmlgz-and-check-status-codes-4hef)
-- [How to fetch German job listings from the Bundesagentur für Arbeit API with Python and Node.js &lpar;no scraping&rpar;](https://dev.to/paperandlinenstudio/how-to-fetch-german-job-listings-from-the-bundesagentur-fur-arbeit-api-with-python-and-nodejs-no-1d6h)
-- [Testing that an HTML page prints to exactly one PDF page, headless, with Chrome and a regex](https://dev.to/paperworkkit/testing-that-an-html-page-prints-to-exactly-one-pdf-page-headless-with-chrome-and-a-regex-5goh)
-- [Can You Get a Bama Bound AI Video in 1080p? What Upscaling a 480p or 720p Clip Actually Does, Measured With ffmpeg SSIM and PSNR](https://dev.to/lpgit/can-you-get-a-bama-bound-ai-video-in-1080p-what-upscaling-a-480p-or-720p-clip-actually-does-1c9e)
+- [Self-Signed, Trusted Certificates for Node.js &amp; Express.js](https://dev.to/kevinlearynet/self-signed-trusted-certificates-for-nodejs-expressjs-2io9)
+- [max_wal_size, explained](https://dev.to/guardioz/maxwalsize-explained-484h)
+- [Combining WP_Query Search &amp; Taxonomy Parameters](https://dev.to/kevinlearynet/combining-wpquery-search-taxonomy-parameters-3j2o)
+- [SVG to PNG in the tab when the design export is vector-only](https://dev.to/sherotree/svg-png-in-the-tab-when-the-design-export-is-vector-only-590b)
+- [Australian Accent Text to Speech: Voices and Tests](https://dev.to/tarunyadav1/australian-accent-text-to-speech-voices-and-tests-329k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
