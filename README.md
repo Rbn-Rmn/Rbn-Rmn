@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Lands $23.5B Cash Haul Before IPO](https://dev.to/fathomnews/anthropic-lands-235b-cash-haul-before-ipo-2mne)
-- [82 offer views, 3 checkout clicks, $0: my agent&#39;s funnel tells the truth](https://dev.to/socks_892992da3cc1ecd0826/82-offer-views-3-checkout-clicks-0-my-agents-funnel-tells-the-truth-4k7i)
-- [How AIClaw 3.7.32 Routes Models by Service Contract](https://dev.to/chowyu12/how-aiclaw-3732-routes-models-by-service-contract-2n52)
-- [Tencent Cloud And OmniOps Team Up To Keep Saudi Data Home](https://dev.to/fathomnews/tencent-cloud-and-omniops-team-up-to-keep-saudi-data-home-2nb1)
-- [How I built a music companion that plays in your own culture](https://dev.to/soroor_f1685d04da42cfc0fd/how-i-built-a-music-companion-that-plays-in-your-own-culture-28pa)
+- [MinTRL: How Long a Track Record Do You Actually Need?](https://dev.to/dronpancholi/mintrl-how-long-a-track-record-do-you-actually-need-5536)
+- [Extract every URL from a sitemap &lpar;incl. sitemap indexes and .xml.gz&rpar; and check status codes](https://dev.to/paperandlinenstudio/extract-every-url-from-a-sitemap-incl-sitemap-indexes-and-xmlgz-and-check-status-codes-4hef)
+- [How to fetch German job listings from the Bundesagentur für Arbeit API with Python and Node.js &lpar;no scraping&rpar;](https://dev.to/paperandlinenstudio/how-to-fetch-german-job-listings-from-the-bundesagentur-fur-arbeit-api-with-python-and-nodejs-no-1d6h)
+- [Testing that an HTML page prints to exactly one PDF page, headless, with Chrome and a regex](https://dev.to/paperworkkit/testing-that-an-html-page-prints-to-exactly-one-pdf-page-headless-with-chrome-and-a-regex-5goh)
+- [Can You Get a Bama Bound AI Video in 1080p? What Upscaling a 480p or 720p Clip Actually Does, Measured With ffmpeg SSIM and PSNR](https://dev.to/lpgit/can-you-get-a-bama-bound-ai-video-in-1080p-what-upscaling-a-480p-or-720p-clip-actually-does-1c9e)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
