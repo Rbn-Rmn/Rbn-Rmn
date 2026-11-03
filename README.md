@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Self-Signed, Trusted Certificates for Node.js &amp; Express.js](https://dev.to/kevinlearynet/self-signed-trusted-certificates-for-nodejs-expressjs-2io9)
-- [max_wal_size, explained](https://dev.to/guardioz/maxwalsize-explained-484h)
-- [Combining WP_Query Search &amp; Taxonomy Parameters](https://dev.to/kevinlearynet/combining-wpquery-search-taxonomy-parameters-3j2o)
-- [SVG to PNG in the tab when the design export is vector-only](https://dev.to/sherotree/svg-png-in-the-tab-when-the-design-export-is-vector-only-590b)
-- [Australian Accent Text to Speech: Voices and Tests](https://dev.to/tarunyadav1/australian-accent-text-to-speech-voices-and-tests-329k)
+- [Nine of Twelve Outbound Links Came From Accounts Pinterest Made Itself. Their Profiles Report 1 Monthly Views](https://dev.to/matveyg/nine-of-twelve-outbound-links-came-from-accounts-pinterest-made-itself-their-profiles-report-1-2i4p)
+- [What Goes Over the Network When You Use the Browser Studios: A Seven-Studio Audit](https://dev.to/onepassapps/what-goes-over-the-network-when-you-use-the-browser-studios-a-seven-studio-audit-2lno)
+- [The Missing Feature Every AI Assistant Needs: Transparent Usage Indicators](https://dev.to/jsvnsk-tech/the-missing-feature-every-ai-assistant-needs-transparent-usage-indicators-20mc)
+- [OpenAI Invites Engineering Partners to Shape AI Workflows for the Physical World](https://dev.to/alifar/openai-invites-engineering-partners-to-shape-ai-workflows-for-the-physical-world-577)
+- [Claude vs ChatGPT for Coding in 2026: An Honest, Task-by-Task Verdict](https://dev.to/markorocko/claude-vs-chatgpt-for-coding-in-2026-an-honest-task-by-task-verdict-9o6)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
