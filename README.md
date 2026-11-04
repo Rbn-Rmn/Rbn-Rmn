@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Marking MCP Tools Read-Only or Destructive with Annotations So the Agent Asks First](https://dev.to/jeff_pdc/marking-mcp-tools-read-only-or-destructive-with-annotations-so-the-agent-asks-first-4n88)
-- [How to Stop Watching Tutorials and Start Building Real Web Projects](https://dev.to/ayan_gamer_ad01a533584f70/how-to-stop-watching-tutorials-and-start-building-real-web-projects-19h8)
-- [My &quot;Getting Started with Linux Device Drivers&quot; series has sold thousands of copies. For a self-published series on such a specialized topic, that means a lot. Thank you to everyone who chose these books. I&#39;ll keep the exact sales figure to myself.](https://dev.to/yutakahirata/my-getting-started-with-linux-device-drivers-series-has-sold-thousands-of-copies-for-a-5a2f)
-- [AI Agent Debug](https://dev.to/kndkhoa/ai-agent-review-code-e39)
-- [Processkartläggning inför AI: fyra steg innan du automatiserar](https://dev.to/rickardcollander/processkartlaggning-infor-ai-fyra-steg-innan-du-automatiserar-4ep8)
+- [Chart Types for Analyzing Flow and Process](https://dev.to/andreykh/chart-types-for-analyzing-flow-and-process-4de6)
+- [Running A Billion Parameter Model &lpar;LFM3 1.7B&rpar; on a Raspberry Pi](https://dev.to/dragos_roua/running-a-billion-parameter-model-lfm3-17b-on-a-raspberry-pi-4hgj)
+- [The Ultimate Guide to Modern Infrastructure, Architecture, and Cloud Storage](https://dev.to/raghu_nand0375/the-ultimate-guide-to-modern-infrastructure-architecture-and-cloud-storage-1li9)
+- [Factures impayées : automatiser les relances avec n8n et un agent IA, sans froisser vos clients](https://dev.to/fluxintelligent/factures-impayees-automatiser-les-relances-avec-n8n-et-un-agent-ia-sans-froisser-vos-clients-29aj)
+- [Architecting Production Audio-to-Lip-Sync Pipelines: Phoneme Bottlenecks, Blendshape Smoothing, and Latency Realities](https://dev.to/qqw_wang_c07b206c213cad90/architecting-production-audio-to-lip-sync-pipelines-phoneme-bottlenecks-blendshape-smoothing-and-2mlk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
