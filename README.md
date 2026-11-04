@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Chart Types for Analyzing Flow and Process](https://dev.to/andreykh/chart-types-for-analyzing-flow-and-process-4de6)
-- [Running A Billion Parameter Model &lpar;LFM3 1.7B&rpar; on a Raspberry Pi](https://dev.to/dragos_roua/running-a-billion-parameter-model-lfm3-17b-on-a-raspberry-pi-4hgj)
-- [The Ultimate Guide to Modern Infrastructure, Architecture, and Cloud Storage](https://dev.to/raghu_nand0375/the-ultimate-guide-to-modern-infrastructure-architecture-and-cloud-storage-1li9)
-- [Factures impayées : automatiser les relances avec n8n et un agent IA, sans froisser vos clients](https://dev.to/fluxintelligent/factures-impayees-automatiser-les-relances-avec-n8n-et-un-agent-ia-sans-froisser-vos-clients-29aj)
-- [Architecting Production Audio-to-Lip-Sync Pipelines: Phoneme Bottlenecks, Blendshape Smoothing, and Latency Realities](https://dev.to/qqw_wang_c07b206c213cad90/architecting-production-audio-to-lip-sync-pipelines-phoneme-bottlenecks-blendshape-smoothing-and-2mlk)
+- [artplayer v5 re-parented my fullscreen node and moved my controls on phones](https://dev.to/hammiwor/artplayer-v5-re-parented-my-fullscreen-node-and-moved-my-controls-on-phones-3nbg)
+- [A log file is input too](https://dev.to/fusionaldev/a-log-file-is-input-too-c7b)
+- [Walmart’s Agent Profiles Signal a More Governed Web for AI Agents](https://dev.to/alifar/walmarts-agent-profiles-signal-a-more-governed-web-for-ai-agents-hg8)
+- [I let a prompt injection into my own app&#39;s clinical notes. The model ignored it. The fallback didn&#39;t.](https://dev.to/farukxkun/i-let-a-prompt-injection-into-my-own-apps-clinical-notes-the-model-ignored-it-the-fallback-34j7)
+- [Postgres schema for [DOMAIN], 5 entities.](https://dev.to/tony_xu_bba15b701b8257062/postgres-schema-for-domain-5-entities-2n94)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
