@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Last Mile of Agent Adoption: Why `vercel-labs/agent-desktop` Proves Onboarding Matters More Than Capability](https://dev.to/fenju_fu/the-last-mile-of-agent-adoption-why-vercel-labsagent-desktop-proves-onboarding-matters-more-24cl)
-- [Binance hit by 6.3 billion dollar crypto theft](https://dev.to/ashish_624379625242c5d263/binance-hit-by-63-billion-dollar-crypto-theft-1jil)
-- [Gemini 4 Argon vs Claude Opus 5.5 for coding agents](https://dev.to/xiun_xiao_6eae2df5c108c5f/gemini-4-argon-vs-claude-opus-55-for-coding-agents-36e2)
-- [I built a free calculator that tells you when to refill a deer feeder](https://dev.to/ziaurrehman_abbasi_5d3365/i-built-a-free-calculator-that-tells-you-when-to-refill-a-deer-feeder-15dp)
-- [A physics MCP server that shows its working: 31 calculators, 34 CODATA constants, no key](https://dev.to/jukkablomberg/a-physics-mcp-server-that-shows-its-working-31-calculators-34-codata-constants-no-key-11ac)
+- [Marking MCP Tools Read-Only or Destructive with Annotations So the Agent Asks First](https://dev.to/jeff_pdc/marking-mcp-tools-read-only-or-destructive-with-annotations-so-the-agent-asks-first-4n88)
+- [How to Stop Watching Tutorials and Start Building Real Web Projects](https://dev.to/ayan_gamer_ad01a533584f70/how-to-stop-watching-tutorials-and-start-building-real-web-projects-19h8)
+- [My &quot;Getting Started with Linux Device Drivers&quot; series has sold thousands of copies. For a self-published series on such a specialized topic, that means a lot. Thank you to everyone who chose these books. I&#39;ll keep the exact sales figure to myself.](https://dev.to/yutakahirata/my-getting-started-with-linux-device-drivers-series-has-sold-thousands-of-copies-for-a-5a2f)
+- [AI Agent Debug](https://dev.to/kndkhoa/ai-agent-review-code-e39)
+- [Processkartläggning inför AI: fyra steg innan du automatiserar](https://dev.to/rickardcollander/processkartlaggning-infor-ai-fyra-steg-innan-du-automatiserar-4ep8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
