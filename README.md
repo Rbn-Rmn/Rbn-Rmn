@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Nine of Twelve Outbound Links Came From Accounts Pinterest Made Itself. Their Profiles Report 1 Monthly Views](https://dev.to/matveyg/nine-of-twelve-outbound-links-came-from-accounts-pinterest-made-itself-their-profiles-report-1-2i4p)
-- [What Goes Over the Network When You Use the Browser Studios: A Seven-Studio Audit](https://dev.to/onepassapps/what-goes-over-the-network-when-you-use-the-browser-studios-a-seven-studio-audit-2lno)
-- [The Missing Feature Every AI Assistant Needs: Transparent Usage Indicators](https://dev.to/jsvnsk-tech/the-missing-feature-every-ai-assistant-needs-transparent-usage-indicators-20mc)
-- [OpenAI Invites Engineering Partners to Shape AI Workflows for the Physical World](https://dev.to/alifar/openai-invites-engineering-partners-to-shape-ai-workflows-for-the-physical-world-577)
-- [Claude vs ChatGPT for Coding in 2026: An Honest, Task-by-Task Verdict](https://dev.to/markorocko/claude-vs-chatgpt-for-coding-in-2026-an-honest-task-by-task-verdict-9o6)
+- [The Last Mile of Agent Adoption: Why `vercel-labs/agent-desktop` Proves Onboarding Matters More Than Capability](https://dev.to/fenju_fu/the-last-mile-of-agent-adoption-why-vercel-labsagent-desktop-proves-onboarding-matters-more-24cl)
+- [Binance hit by 6.3 billion dollar crypto theft](https://dev.to/ashish_624379625242c5d263/binance-hit-by-63-billion-dollar-crypto-theft-1jil)
+- [Gemini 4 Argon vs Claude Opus 5.5 for coding agents](https://dev.to/xiun_xiao_6eae2df5c108c5f/gemini-4-argon-vs-claude-opus-55-for-coding-agents-36e2)
+- [I built a free calculator that tells you when to refill a deer feeder](https://dev.to/ziaurrehman_abbasi_5d3365/i-built-a-free-calculator-that-tells-you-when-to-refill-a-deer-feeder-15dp)
+- [A physics MCP server that shows its working: 31 calculators, 34 CODATA constants, no key](https://dev.to/jukkablomberg/a-physics-mcp-server-that-shows-its-working-31-calculators-34-codata-constants-no-key-11ac)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
