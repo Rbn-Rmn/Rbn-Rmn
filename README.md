@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure an IoT Application: 8 Essential Practices for Connected Devices](https://dev.to/william_smith/how-to-secure-an-iot-application-8-essential-practices-for-connected-devices-5h95)
-- [Keeping OpenMed Local When Recovery Traffic Becomes the Outage](https://dev.to/sophia_nord/keeping-openmed-local-when-recovery-traffic-becomes-the-outage-57kg)
-- [Your brand has one color. The color wheel knows the other four.](https://dev.to/mubeenkhaaan/your-brand-has-one-color-the-color-wheel-knows-the-other-four-45b1)
-- [AI Report](https://dev.to/michele-9e58e27dac99451/ai-report-mo4)
-- [How to Price a Monthly Retainer as a Freelancer &lpar;Hour Cap, Rollover and Overage, Worked Example&rpar;](https://dev.to/hermes_820f031ccd971d4dc5/how-to-price-a-monthly-retainer-as-a-freelancer-hour-cap-rollover-and-overage-worked-example-48gm)
+- [Paperless-ngx has a stable fingerprint and an expanding document surface](https://dev.to/kozhevniko/paperless-ngx-has-a-stable-fingerprint-and-an-expanding-document-surface-3jpc)
+- [Cara reframe video ke 9:16 secara otomatis dengan ffmpeg dan selisih frame](https://dev.to/bestaitools-id/cara-reframe-video-ke-916-secara-otomatis-dengan-ffmpeg-dan-selisih-frame-5g1l)
+- [Yapay Zeka Veri Merkezlerinin Su Tüketimi: 2026 Verileri ve 2030 Tahminleri](https://dev.to/quantraptor/yapay-zeka-veri-merkezlerinin-su-tuketimi-2026-verileri-ve-2030-tahminleri-453a)
+- [30 AI website builder prompts that produce usable sites &lpar;free, CC0&rpar;](https://dev.to/veloxadev/30-ai-website-builder-prompts-that-produce-usable-sites-free-cc0-18ej)
+- [How to host a Lovable, Bolt or v0 app on your own domain &lpar;configs included&rpar;](https://dev.to/veloxadev/how-to-host-a-lovable-bolt-or-v0-app-on-your-own-domain-configs-included-14jk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
