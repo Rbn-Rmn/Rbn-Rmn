@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Paperless-ngx has a stable fingerprint and an expanding document surface](https://dev.to/kozhevniko/paperless-ngx-has-a-stable-fingerprint-and-an-expanding-document-surface-3jpc)
-- [Cara reframe video ke 9:16 secara otomatis dengan ffmpeg dan selisih frame](https://dev.to/bestaitools-id/cara-reframe-video-ke-916-secara-otomatis-dengan-ffmpeg-dan-selisih-frame-5g1l)
-- [Yapay Zeka Veri Merkezlerinin Su Tüketimi: 2026 Verileri ve 2030 Tahminleri](https://dev.to/quantraptor/yapay-zeka-veri-merkezlerinin-su-tuketimi-2026-verileri-ve-2030-tahminleri-453a)
-- [30 AI website builder prompts that produce usable sites &lpar;free, CC0&rpar;](https://dev.to/veloxadev/30-ai-website-builder-prompts-that-produce-usable-sites-free-cc0-18ej)
-- [How to host a Lovable, Bolt or v0 app on your own domain &lpar;configs included&rpar;](https://dev.to/veloxadev/how-to-host-a-lovable-bolt-or-v0-app-on-your-own-domain-configs-included-14jk)
+- [My sanoid snapshot policy &lpar;and why I trust it&rpar;](https://dev.to/captainshardmind/my-sanoid-snapshot-policy-and-why-i-trust-it-45m6)
+- [I Built JARVIS OS: An AI-Powered Digital Workspace](https://dev.to/alexdevbr/i-built-jarvis-os-an-ai-powered-digital-workspace-4fnj)
+- [Sovereign Multi-Agent Brokerage: Zero-Trust Security, Dynamic Leases, and Rate-Limiting for 97+ Enterprise Connectors](https://dev.to/bennialencar/sovereign-multi-agent-brokerage-zero-trust-security-dynamic-leases-and-rate-limiting-for-97-46if)
+- [Um olhar Punk para tempos atuais](https://dev.to/wellingtonpragidi/um-olhar-punk-para-tempos-atuais-ijc)
+- [Claude Can Now Read Your Bank Account — 6 Months After ChatGPT](https://dev.to/paullovelace/claude-can-now-read-your-bank-account-6-months-after-chatgpt-21m8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
