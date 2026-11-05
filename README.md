@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [4K IP Surveillance, H.265 Compression &amp; Cat6a Bandwidth Engineering: Field Guide](https://dev.to/gary_pearce_2d31a602069aa/4k-ip-surveillance-h265-compression-cat6a-bandwidth-engineering-field-guide-2mg8)
-- [WARN Act and Your Work Accounts: What Happens to Your Email, Files, and Equipment After a Layoff Notice](https://dev.to/layoffatlas/warn-act-and-your-work-accounts-what-happens-to-your-email-files-and-equipment-after-a-layoff-43pf)
-- [もしものとき、まず何をすればよいのか](https://dev.to/nabbisen/mosimonotoki-mazuhe-wosurebayoinoka-gnf)
-- [Anthropic Python SDK upgrade: what to check in your code first](https://dev.to/sueun-dev/anthropic-python-sdk-upgrade-what-to-check-in-your-code-first-1904)
-- [I wrote 20 prompts for code review, PR descriptions and release notes — here is the structure that made them work](https://dev.to/tony_xu_bba15b701b8257062/postgres-schema-for-domain-5-entities-1g4i)
+- [How to Secure an IoT Application: 8 Essential Practices for Connected Devices](https://dev.to/william_smith/how-to-secure-an-iot-application-8-essential-practices-for-connected-devices-5h95)
+- [Keeping OpenMed Local When Recovery Traffic Becomes the Outage](https://dev.to/sophia_nord/keeping-openmed-local-when-recovery-traffic-becomes-the-outage-57kg)
+- [Your brand has one color. The color wheel knows the other four.](https://dev.to/mubeenkhaaan/your-brand-has-one-color-the-color-wheel-knows-the-other-four-45b1)
+- [AI Report](https://dev.to/michele-9e58e27dac99451/ai-report-mo4)
+- [How to Price a Monthly Retainer as a Freelancer &lpar;Hour Cap, Rollover and Overage, Worked Example&rpar;](https://dev.to/hermes_820f031ccd971d4dc5/how-to-price-a-monthly-retainer-as-a-freelancer-hour-cap-rollover-and-overage-worked-example-48gm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
