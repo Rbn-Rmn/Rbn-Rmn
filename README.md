@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [artplayer v5 re-parented my fullscreen node and moved my controls on phones](https://dev.to/hammiwor/artplayer-v5-re-parented-my-fullscreen-node-and-moved-my-controls-on-phones-3nbg)
-- [A log file is input too](https://dev.to/fusionaldev/a-log-file-is-input-too-c7b)
-- [Walmart’s Agent Profiles Signal a More Governed Web for AI Agents](https://dev.to/alifar/walmarts-agent-profiles-signal-a-more-governed-web-for-ai-agents-hg8)
-- [I let a prompt injection into my own app&#39;s clinical notes. The model ignored it. The fallback didn&#39;t.](https://dev.to/farukxkun/i-let-a-prompt-injection-into-my-own-apps-clinical-notes-the-model-ignored-it-the-fallback-34j7)
-- [Postgres schema for [DOMAIN], 5 entities.](https://dev.to/tony_xu_bba15b701b8257062/postgres-schema-for-domain-5-entities-2n94)
+- [4K IP Surveillance, H.265 Compression &amp; Cat6a Bandwidth Engineering: Field Guide](https://dev.to/gary_pearce_2d31a602069aa/4k-ip-surveillance-h265-compression-cat6a-bandwidth-engineering-field-guide-2mg8)
+- [WARN Act and Your Work Accounts: What Happens to Your Email, Files, and Equipment After a Layoff Notice](https://dev.to/layoffatlas/warn-act-and-your-work-accounts-what-happens-to-your-email-files-and-equipment-after-a-layoff-43pf)
+- [もしものとき、まず何をすればよいのか](https://dev.to/nabbisen/mosimonotoki-mazuhe-wosurebayoinoka-gnf)
+- [Anthropic Python SDK upgrade: what to check in your code first](https://dev.to/sueun-dev/anthropic-python-sdk-upgrade-what-to-check-in-your-code-first-1904)
+- [I wrote 20 prompts for code review, PR descriptions and release notes — here is the structure that made them work](https://dev.to/tony_xu_bba15b701b8257062/postgres-schema-for-domain-5-entities-1g4i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
