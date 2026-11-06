@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building Healthcare Provider Lists From the Free NPI Registry &lpar;and Getting Past Its 1,200-Result Cap&rpar;](https://dev.to/dedicated_crest/building-healthcare-provider-lists-from-the-free-npi-registry-and-getting-past-its-1200-result-8a)
-- [How One Flash Decoder Made Robots 5 Faster—See the Numbers](https://dev.to/amrithesh_dev/how-one-flash-decoder-made-robots-5x-faster-see-the-numbers-1f9)
-- [ThreatsDay: 20 Vulnerabilities &amp; Breaches Exposing Enterprise Blind Spots](https://dev.to/satyam_rastogi/threatsday-20-vulnerabilities-breaches-exposing-enterprise-blind-spots-3om5)
-- [How to Learn from Incident Postmortems &lpar;Without Forgetting the Fix by Next Outage&rpar;](https://dev.to/spartanrich430/how-to-learn-from-incident-postmortems-without-forgetting-the-fix-by-next-outage-4bkl)
-- [Cosa sono Loop e Graph in osFoundry e quando usare l&#39;uno o l&#39;altro?](https://dev.to/tauchi-it/cosa-sono-loop-e-graph-in-osfoundry-e-quando-usare-luno-o-laltro-2alp)
+- [Comment comparer deux versions d&#39;un contrat PDF mot à mot en Python](https://dev.to/bestaitools-fr/comment-comparer-deux-versions-dun-contrat-pdf-mot-a-mot-en-python-ccl)
+- [Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code](https://dev.to/gde/being-doing-having-why-50-years-of-senior-craft-lives-in-context-not-code-29dl)
+- [Claude Skills for Client Work: The 10 I Use Every Week](https://dev.to/joekurt/claude-skills-for-client-work-the-10-i-use-every-weekpublished-4agp)
+- [SET SESSION AUTHORIZATION Changes More Than the Current Role](https://dev.to/jeffreyciend/set-session-authorization-changes-more-than-the-current-role-4p3o)
+- [5 Ways to Reduce Voice AI Costs Without Losing Quality](https://dev.to/voice_developer/5-ways-to-reduce-voice-ai-costs-without-losing-quality-m0i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
