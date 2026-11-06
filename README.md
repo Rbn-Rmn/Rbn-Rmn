@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [My sanoid snapshot policy &lpar;and why I trust it&rpar;](https://dev.to/captainshardmind/my-sanoid-snapshot-policy-and-why-i-trust-it-45m6)
-- [I Built JARVIS OS: An AI-Powered Digital Workspace](https://dev.to/alexdevbr/i-built-jarvis-os-an-ai-powered-digital-workspace-4fnj)
-- [Sovereign Multi-Agent Brokerage: Zero-Trust Security, Dynamic Leases, and Rate-Limiting for 97+ Enterprise Connectors](https://dev.to/bennialencar/sovereign-multi-agent-brokerage-zero-trust-security-dynamic-leases-and-rate-limiting-for-97-46if)
-- [Um olhar Punk para tempos atuais](https://dev.to/wellingtonpragidi/um-olhar-punk-para-tempos-atuais-ijc)
-- [Claude Can Now Read Your Bank Account — 6 Months After ChatGPT](https://dev.to/paullovelace/claude-can-now-read-your-bank-account-6-months-after-chatgpt-21m8)
+- [Before You Buy AI, Run a Data-Readiness Gate for Your Swiss SME](https://dev.to/isabelle_dubuis_d858453d7/before-you-buy-ai-run-a-data-readiness-gate-for-your-swiss-sme-1fo5)
+- [How to Put Debugging Work on Your Developer Resume](https://dev.to/cvobjective/how-to-put-debugging-work-on-your-developer-resume-4jfb)
+- [The JPA Field That Turns a Silent Lost Update Into a 409](https://dev.to/hoelee/the-jpa-field-that-turns-a-silent-lost-update-into-a-409-58ib)
+- [Solana Shred Recovery: When Valid Shreds Form an Invalid Erasure Batch](https://dev.to/sulimanmukhtar/solana-shred-recovery-when-valid-shreds-form-an-invalid-erasure-batch-4dho)
+- [Solana WebSockets That Stay Connected but Miss Updates](https://dev.to/sulimanmukhtar/solana-websockets-that-stay-connected-but-miss-updates-21f7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
