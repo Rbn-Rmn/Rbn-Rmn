@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Product Launch Checklist: 47 Things Before Submitting to Directories](https://dev.to/shivaji_mane_5d0e910bf697/product-launch-checklist-47-things-before-submitting-to-directories-1756)
-- [We Built a Zero-Shot AI Song Voice Changer: Meet MusiCraft](https://dev.to/ne0s0u1/we-built-a-zero-shot-ai-song-voice-changer-meet-musicraft-54g4)
-- [The 2026 Self-Host User Survey Is Open: Go Make Your Voice Count](https://dev.to/theeromi/the-2026-self-host-user-survey-is-open-go-make-your-voice-count-8dh)
-- [How to bypass any type of CAPTCHA](https://dev.to/vsmutok/how-to-bypass-any-type-of-captcha-3ijg)
-- [Tailscale 1.104.4 Patches Four SSH and Serve Bulletins: How to Remediate](https://dev.to/theeromi/tailscale-11044-patches-four-ssh-and-serve-bulletins-how-to-remediate-ini)
+- [Building Healthcare Provider Lists From the Free NPI Registry &lpar;and Getting Past Its 1,200-Result Cap&rpar;](https://dev.to/dedicated_crest/building-healthcare-provider-lists-from-the-free-npi-registry-and-getting-past-its-1200-result-8a)
+- [How One Flash Decoder Made Robots 5 Faster—See the Numbers](https://dev.to/amrithesh_dev/how-one-flash-decoder-made-robots-5x-faster-see-the-numbers-1f9)
+- [ThreatsDay: 20 Vulnerabilities &amp; Breaches Exposing Enterprise Blind Spots](https://dev.to/satyam_rastogi/threatsday-20-vulnerabilities-breaches-exposing-enterprise-blind-spots-3om5)
+- [How to Learn from Incident Postmortems &lpar;Without Forgetting the Fix by Next Outage&rpar;](https://dev.to/spartanrich430/how-to-learn-from-incident-postmortems-without-forgetting-the-fix-by-next-outage-4bkl)
+- [Cosa sono Loop e Graph in osFoundry e quando usare l&#39;uno o l&#39;altro?](https://dev.to/tauchi-it/cosa-sono-loop-e-graph-in-osfoundry-e-quando-usare-luno-o-laltro-2alp)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
