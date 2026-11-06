@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Before You Buy AI, Run a Data-Readiness Gate for Your Swiss SME](https://dev.to/isabelle_dubuis_d858453d7/before-you-buy-ai-run-a-data-readiness-gate-for-your-swiss-sme-1fo5)
-- [How to Put Debugging Work on Your Developer Resume](https://dev.to/cvobjective/how-to-put-debugging-work-on-your-developer-resume-4jfb)
-- [The JPA Field That Turns a Silent Lost Update Into a 409](https://dev.to/hoelee/the-jpa-field-that-turns-a-silent-lost-update-into-a-409-58ib)
-- [Solana Shred Recovery: When Valid Shreds Form an Invalid Erasure Batch](https://dev.to/sulimanmukhtar/solana-shred-recovery-when-valid-shreds-form-an-invalid-erasure-batch-4dho)
-- [Solana WebSockets That Stay Connected but Miss Updates](https://dev.to/sulimanmukhtar/solana-websockets-that-stay-connected-but-miss-updates-21f7)
+- [Product Launch Checklist: 47 Things Before Submitting to Directories](https://dev.to/shivaji_mane_5d0e910bf697/product-launch-checklist-47-things-before-submitting-to-directories-1756)
+- [We Built a Zero-Shot AI Song Voice Changer: Meet MusiCraft](https://dev.to/ne0s0u1/we-built-a-zero-shot-ai-song-voice-changer-meet-musicraft-54g4)
+- [The 2026 Self-Host User Survey Is Open: Go Make Your Voice Count](https://dev.to/theeromi/the-2026-self-host-user-survey-is-open-go-make-your-voice-count-8dh)
+- [How to bypass any type of CAPTCHA](https://dev.to/vsmutok/how-to-bypass-any-type-of-captcha-3ijg)
+- [Tailscale 1.104.4 Patches Four SSH and Serve Bulletins: How to Remediate](https://dev.to/theeromi/tailscale-11044-patches-four-ssh-and-serve-bulletins-how-to-remediate-ini)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
