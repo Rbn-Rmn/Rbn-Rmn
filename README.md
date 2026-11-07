@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [When the host pauses your benchmark: timed solver runs that look valid but aren&#39;t](https://dev.to/munimv2/when-the-host-pauses-your-benchmark-timed-solver-runs-that-look-valid-but-arent-1peg)
-- [Swap One Seam, Dual-Run Both Implementations, Then Delete the Old Path](https://dev.to/hackrs_6393/swap-one-seam-dual-run-both-implementations-then-delete-the-old-path-3pfn)
-- [Securing Multi-Tenant Kubernetes on AWS: mTLS, Network Policies, and Real Isolation](https://dev.to/techexprt/securing-multi-tenant-kubernetes-on-aws-mtls-network-policies-and-real-isolation-1k7p)
-- [Run Less, Prove More: Diff-Scoped Test Gating for Agent Patches](https://dev.to/datacpp_8185/run-less-prove-more-diff-scoped-test-gating-for-agent-patches-19pb)
-- [Development of the Seven Split Automated Trading Program for Stablecoin &lpar;USDT&rpar;](https://dev.to/moonjikwang/development-of-the-seven-split-automated-trading-program-for-stablecoin-usdt-2o1l)
+- [BIGF v2.5 Expansion Pack: The Clas Ohlson Enterprise Survival Kit 🔌🛠️](https://dev.to/bigf_fellow/bigf-v25-expansion-pack-the-clas-ohlson-enterprise-survival-kit-10io)
+- [Our database schema is declared twice in one repo, and all 126 differing lines are comments](https://dev.to/daniel_pertu/our-database-schema-is-declared-twice-in-one-repo-and-all-126-differing-lines-are-comments-55c8)
+- [Build a ChatGPT MCP App in Next.js: One Tool, One UI Resource, One Endpoint](https://dev.to/max_ramx/build-a-chatgpt-mcp-app-in-nextjs-one-tool-one-ui-resource-one-endpoint-5emg)
+- [Building for AI Agents: A Guide to Remote MCP Servers with NestJS](https://dev.to/angojay/building-for-ai-agents-a-guide-to-remote-mcp-servers-with-nestjs-200b)
+- [Engineering Manager Interview Questions: leadership stories under the microscope](https://dev.to/gowthampotureddi/engineering-manager-interview-questions-leadership-stories-under-the-microscope-h7h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
