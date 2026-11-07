@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Comment comparer deux versions d&#39;un contrat PDF mot à mot en Python](https://dev.to/bestaitools-fr/comment-comparer-deux-versions-dun-contrat-pdf-mot-a-mot-en-python-ccl)
-- [Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code](https://dev.to/gde/being-doing-having-why-50-years-of-senior-craft-lives-in-context-not-code-29dl)
-- [Claude Skills for Client Work: The 10 I Use Every Week](https://dev.to/joekurt/claude-skills-for-client-work-the-10-i-use-every-weekpublished-4agp)
-- [SET SESSION AUTHORIZATION Changes More Than the Current Role](https://dev.to/jeffreyciend/set-session-authorization-changes-more-than-the-current-role-4p3o)
-- [5 Ways to Reduce Voice AI Costs Without Losing Quality](https://dev.to/voice_developer/5-ways-to-reduce-voice-ai-costs-without-losing-quality-m0i)
+- [When the host pauses your benchmark: timed solver runs that look valid but aren&#39;t](https://dev.to/munimv2/when-the-host-pauses-your-benchmark-timed-solver-runs-that-look-valid-but-arent-1peg)
+- [Swap One Seam, Dual-Run Both Implementations, Then Delete the Old Path](https://dev.to/hackrs_6393/swap-one-seam-dual-run-both-implementations-then-delete-the-old-path-3pfn)
+- [Securing Multi-Tenant Kubernetes on AWS: mTLS, Network Policies, and Real Isolation](https://dev.to/techexprt/securing-multi-tenant-kubernetes-on-aws-mtls-network-policies-and-real-isolation-1k7p)
+- [Run Less, Prove More: Diff-Scoped Test Gating for Agent Patches](https://dev.to/datacpp_8185/run-less-prove-more-diff-scoped-test-gating-for-agent-patches-19pb)
+- [Development of the Seven Split Automated Trading Program for Stablecoin &lpar;USDT&rpar;](https://dev.to/moonjikwang/development-of-the-seven-split-automated-trading-program-for-stablecoin-usdt-2o1l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
