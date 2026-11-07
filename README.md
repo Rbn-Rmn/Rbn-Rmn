@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [BIGF v2.5 Expansion Pack: The Clas Ohlson Enterprise Survival Kit 🔌🛠️](https://dev.to/bigf_fellow/bigf-v25-expansion-pack-the-clas-ohlson-enterprise-survival-kit-10io)
-- [Our database schema is declared twice in one repo, and all 126 differing lines are comments](https://dev.to/daniel_pertu/our-database-schema-is-declared-twice-in-one-repo-and-all-126-differing-lines-are-comments-55c8)
-- [Build a ChatGPT MCP App in Next.js: One Tool, One UI Resource, One Endpoint](https://dev.to/max_ramx/build-a-chatgpt-mcp-app-in-nextjs-one-tool-one-ui-resource-one-endpoint-5emg)
-- [Building for AI Agents: A Guide to Remote MCP Servers with NestJS](https://dev.to/angojay/building-for-ai-agents-a-guide-to-remote-mcp-servers-with-nestjs-200b)
-- [Engineering Manager Interview Questions: leadership stories under the microscope](https://dev.to/gowthampotureddi/engineering-manager-interview-questions-leadership-stories-under-the-microscope-h7h)
+- [Building Parius: keeping freelance agreements, lessons and payments connected](https://dev.to/adeyemi_femi_f6878f7b8276/building-parius-keeping-freelance-agreements-lessons-and-payments-connected-3f0d)
+- [Google Cloud&#39;s Z4M launch makes storage maintenance part of the AI job plan](https://dev.to/da-li-at-pl/google-clouds-z4m-launch-makes-storage-maintenance-part-of-the-ai-job-plan-5ch4)
+- [Seven Studio Shells, 49 Tool Names and Zero Links: What app.onepassapps.com/studios Sends Before JavaScript Runs](https://dev.to/onepassapps/seven-studio-shells-49-tool-names-and-zero-links-what-apponepassappscomstudios-sends-before-1plh)
+- [¿Cómo evita osFoundry que una edición de Claude sobrescriba la de una persona en la misma Note?](https://dev.to/bbt-es/como-evita-osfoundry-que-una-edicion-de-claude-sobrescriba-la-de-una-persona-en-la-misma-note-4cdc)
+- [Retain, recall, reflect: building an incident agent&#39;s memory with Hindsight](https://dev.to/kushal0685/retain-recall-reflect-building-an-incident-agents-memory-with-hindsight-4m4j)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
