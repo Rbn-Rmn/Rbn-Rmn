@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Building Parius: keeping freelance agreements, lessons and payments connected](https://dev.to/adeyemi_femi_f6878f7b8276/building-parius-keeping-freelance-agreements-lessons-and-payments-connected-3f0d)
-- [Google Cloud&#39;s Z4M launch makes storage maintenance part of the AI job plan](https://dev.to/da-li-at-pl/google-clouds-z4m-launch-makes-storage-maintenance-part-of-the-ai-job-plan-5ch4)
-- [Seven Studio Shells, 49 Tool Names and Zero Links: What app.onepassapps.com/studios Sends Before JavaScript Runs](https://dev.to/onepassapps/seven-studio-shells-49-tool-names-and-zero-links-what-apponepassappscomstudios-sends-before-1plh)
-- [¿Cómo evita osFoundry que una edición de Claude sobrescriba la de una persona en la misma Note?](https://dev.to/bbt-es/como-evita-osfoundry-que-una-edicion-de-claude-sobrescriba-la-de-una-persona-en-la-misma-note-4cdc)
-- [Retain, recall, reflect: building an incident agent&#39;s memory with Hindsight](https://dev.to/kushal0685/retain-recall-reflect-building-an-incident-agents-memory-with-hindsight-4m4j)
+- [Tabs in One: skupite sve Chrome kartice u jedan stupac &lpar;i oslobodite RAM&rpar;](https://dev.to/tabsinone/tabs-in-one-skupite-sve-chrome-kartice-u-jedan-stupac-i-oslobodite-ram-5gij)
+- [The Document Parsing Bottleneck: LlamaParse, AST Layout Engines, and Table Reconstruction in Production RAG](https://dev.to/soham2710/the-document-parsing-bottleneck-llamaparse-ast-layout-engines-and-table-reconstruction-in-764)
+- [Route each agent step by job, then grade the output](https://dev.to/conorbronsdon/route-each-agent-step-by-job-then-grade-the-output-30jf)
+- [A Stop hook that checks Claude Code&#39;s &quot;it&#39;s live&quot;](https://dev.to/clemcube/a-stop-hook-that-checks-claude-codes-its-live-k8p)
+- [The pagehide listener that never ran](https://dev.to/adityareddy_dev/the-pagehide-listener-that-never-ran-3k3e)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
