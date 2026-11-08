@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to scrape Workday job postings &lpar;and the 2,000-job trap&rpar;](https://dev.to/yakk000/how-to-scrape-workday-job-postings-and-the-2000-job-trap-4648)
-- [How to clean a supplier product CSV before importing to Shopify](https://dev.to/m4ra7h0n/how-to-clean-a-supplier-product-csv-before-importing-to-shopify-4efn)
-- [Auditing the Gaps Around Recurly&#39;s Own Dunning](https://dev.to/swipe-again/auditing-the-gaps-around-recurlys-own-dunning-2n5m)
-- [Serving Sage-A1.5 on an RTX 4090: one broken flag, one queue, and a self-check mode to measure](https://dev.to/inferencekey/serving-sage-a15-on-an-rtx-4090-one-broken-flag-one-queue-and-a-self-check-mode-to-measure-4cdj)
-- [1.2 billion commits a week, still stuck in review: the four stages of agentic engineering](https://dev.to/tiaforge/12-billion-commits-a-week-still-stuck-in-review-the-four-stages-of-agentic-engineering-1jek)
+- [Using the CompTIA A+ Troubleshooting Method on Software Bugs](https://dev.to/tonycantave/using-the-comptia-a-troubleshooting-method-on-software-bugs-2nc3)
+- [Data Lakes vs Data Warehouses vs Data Mesh](https://dev.to/godofgeeks/data-lakes-vs-data-warehouses-vs-data-mesh-5b08)
+- [My free open-source AI UI builder got 562 visitors in its first 2 days — here&#39;s what worked](https://dev.to/timofeus_248d45d3902a91a3/my-free-open-source-ai-ui-builder-got-562-visitors-in-its-first-2-days-heres-what-worked-4k76)
+- [How to Prioritize Review Findings by Risk](https://dev.to/jeff_pdc/how-to-prioritize-review-findings-by-risk-1kd8)
+- [One curl, No Login, and a 71.9% Cut on Azure&#39;s Biggest SAP HANA VM](https://dev.to/frankgg/one-curl-no-login-and-a-719-cut-on-azures-biggest-sap-hana-vm-4316)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
