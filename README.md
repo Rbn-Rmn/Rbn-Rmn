@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Tabs in One: skupite sve Chrome kartice u jedan stupac &lpar;i oslobodite RAM&rpar;](https://dev.to/tabsinone/tabs-in-one-skupite-sve-chrome-kartice-u-jedan-stupac-i-oslobodite-ram-5gij)
-- [The Document Parsing Bottleneck: LlamaParse, AST Layout Engines, and Table Reconstruction in Production RAG](https://dev.to/soham2710/the-document-parsing-bottleneck-llamaparse-ast-layout-engines-and-table-reconstruction-in-764)
-- [Route each agent step by job, then grade the output](https://dev.to/conorbronsdon/route-each-agent-step-by-job-then-grade-the-output-30jf)
-- [A Stop hook that checks Claude Code&#39;s &quot;it&#39;s live&quot;](https://dev.to/clemcube/a-stop-hook-that-checks-claude-codes-its-live-k8p)
-- [The pagehide listener that never ran](https://dev.to/adityareddy_dev/the-pagehide-listener-that-never-ran-3k3e)
+- [OpenAI Launches BioBasicsBench As GPT-6 Astra Hits 66.7%](https://dev.to/fathomnews/openai-launches-biobasicsbench-as-gpt-6-astra-hits-667-2d5b)
+- [Claude chat बिना push events के MCP पर osFoundry tasks को कैसे claim करती है?](https://dev.to/bbt-hi/claude-chat-binaa-push-events-ke-mcp-pr-osfoundry-tasks-ko-kaise-claim-krtii-hai-1m08)
+- [I built an operating system in a single HTML file, and it boots into a game](https://dev.to/bardpresident/i-built-an-operating-system-in-a-single-html-file-and-it-boots-into-a-game-4j31)
+- [The skill that phones home — a poisoned SKILL.md, dissected line by line](https://dev.to/ulk0r0/the-skill-that-phones-home-a-poisoned-skillmd-dissected-line-by-line-507p)
+- [Why Fast Coding LLMs Keep Truncating Your Code — And How HyperFlash Fixes It](https://dev.to/viratghatge/why-fast-coding-llms-keep-truncating-your-code-and-how-hyperflash-fixes-it-4ee0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
