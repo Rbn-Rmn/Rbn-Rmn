@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Launches BioBasicsBench As GPT-6 Astra Hits 66.7%](https://dev.to/fathomnews/openai-launches-biobasicsbench-as-gpt-6-astra-hits-667-2d5b)
-- [Claude chat बिना push events के MCP पर osFoundry tasks को कैसे claim करती है?](https://dev.to/bbt-hi/claude-chat-binaa-push-events-ke-mcp-pr-osfoundry-tasks-ko-kaise-claim-krtii-hai-1m08)
-- [I built an operating system in a single HTML file, and it boots into a game](https://dev.to/bardpresident/i-built-an-operating-system-in-a-single-html-file-and-it-boots-into-a-game-4j31)
-- [The skill that phones home — a poisoned SKILL.md, dissected line by line](https://dev.to/ulk0r0/the-skill-that-phones-home-a-poisoned-skillmd-dissected-line-by-line-507p)
-- [Why Fast Coding LLMs Keep Truncating Your Code — And How HyperFlash Fixes It](https://dev.to/viratghatge/why-fast-coding-llms-keep-truncating-your-code-and-how-hyperflash-fixes-it-4ee0)
+- [How to scrape Workday job postings &lpar;and the 2,000-job trap&rpar;](https://dev.to/yakk000/how-to-scrape-workday-job-postings-and-the-2000-job-trap-4648)
+- [How to clean a supplier product CSV before importing to Shopify](https://dev.to/m4ra7h0n/how-to-clean-a-supplier-product-csv-before-importing-to-shopify-4efn)
+- [Auditing the Gaps Around Recurly&#39;s Own Dunning](https://dev.to/swipe-again/auditing-the-gaps-around-recurlys-own-dunning-2n5m)
+- [Serving Sage-A1.5 on an RTX 4090: one broken flag, one queue, and a self-check mode to measure](https://dev.to/inferencekey/serving-sage-a15-on-an-rtx-4090-one-broken-flag-one-queue-and-a-self-check-mode-to-measure-4cdj)
+- [1.2 billion commits a week, still stuck in review: the four stages of agentic engineering](https://dev.to/tiaforge/12-billion-commits-a-week-still-stuck-in-review-the-four-stages-of-agentic-engineering-1jek)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
