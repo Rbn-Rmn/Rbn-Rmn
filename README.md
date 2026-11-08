@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Using the CompTIA A+ Troubleshooting Method on Software Bugs](https://dev.to/tonycantave/using-the-comptia-a-troubleshooting-method-on-software-bugs-2nc3)
-- [Data Lakes vs Data Warehouses vs Data Mesh](https://dev.to/godofgeeks/data-lakes-vs-data-warehouses-vs-data-mesh-5b08)
-- [My free open-source AI UI builder got 562 visitors in its first 2 days — here&#39;s what worked](https://dev.to/timofeus_248d45d3902a91a3/my-free-open-source-ai-ui-builder-got-562-visitors-in-its-first-2-days-heres-what-worked-4k76)
-- [How to Prioritize Review Findings by Risk](https://dev.to/jeff_pdc/how-to-prioritize-review-findings-by-risk-1kd8)
-- [One curl, No Login, and a 71.9% Cut on Azure&#39;s Biggest SAP HANA VM](https://dev.to/frankgg/one-curl-no-login-and-a-719-cut-on-azures-biggest-sap-hana-vm-4316)
+- [Google Clarifies Redirects, Ranking Signals and Canonicalization for URL Migrations](https://dev.to/alifar/google-clarifies-redirects-ranking-signals-and-canonicalization-for-url-migrations-c29)
+- [I built a free pore-clogging ingredient checker that runs 100% in your browser](https://dev.to/charliewong/i-built-a-free-pore-clogging-ingredient-checker-that-runs-100-in-your-browser-2gmb)
+- [Von der $40-Spritze zum begehbaren Capsid: Wie immersive Strukturbiologie globale HIV-PrûÊvention verûÊndert Die Meldung ging…](https://dev.to/ashish_624379625242c5d263/von-der-40-spritze-zum-begehbaren-capsid-wie-immersive-strukturbiologie-globale-hiv-pruevention-833)
+- [RiftShell: a terminal with an AI assistant built in &lpar;early release&rpar;](https://dev.to/sanu_sharma00/riftshell-a-terminal-with-an-ai-assistant-built-in-early-release-58ao)
+- [Porting a 48,000-install Jira app off Atlassian Connect: what moved, what didn&#39;t, and the OAuth gap nobody warns you about](https://dev.to/osbornetim89/porting-a-48000-install-jira-app-off-atlassian-connect-what-moved-what-didnt-and-the-oauth-gap-2k0n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
