@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to Generate Branded SVG QR Codes for Wi-Fi, vCard &amp; WhatsApp in Node.js &lpar;in &lt;5ms&rpar;](https://dev.to/artuturoh/how-to-generate-branded-svg-qr-codes-for-wi-fi-vcard-whatsapp-in-nodejs-in-5ms-1n21)
-- [IPv6 Behind a Proxy Fails in Three Different Places. Learn to Tell Them Apart.](https://dev.to/socks5ip/ipv6-behind-a-proxy-fails-in-three-different-places-learn-to-tell-them-apart-4bfb)
-- [HackerTV Dropped. My Lazy Eye Finally Has a Reason to Watch Again.](https://dev.to/ashish_624379625242c5d263/hackertv-dropped-my-lazy-eye-finally-has-a-reason-to-watch-again-1bim)
-- [What Is a User Story? User Story vs Task, Feature, Epic and Bug](https://dev.to/piyushpbhatt/what-is-a-user-story-user-story-vs-task-feature-epic-and-bug-81f)
-- [b4-1794190372643-p16](https://dev.to/effinrich/b4-1794190372643-p16-3go9)
+- [Interest-only on $4,100 of card debt: $774.90 a year, and you still owe $4,100](https://dev.to/alapha888/interest-only-on-4100-of-card-debt-77490-a-year-and-you-still-owe-4100-2kn1)
+- [The Comprehension Deficit: Why I/O Inversion Turns Humanity into Runtime Baggage. TLLGeek project](https://dev.to/tllgeek/the-comprehension-deficit-why-io-inversion-turns-humanity-into-runtime-baggage-tllgeek-project-4o6f)
+- [Rotate a leaked API key without stopping your services: dotvault hands out the new value first](https://dev.to/uehara/rotate-a-leaked-api-key-without-stopping-your-services-dotvault-hands-out-the-new-value-first-408)
+- [The Two Scripts Cloudflare Appends to Every One of Our 56 Pages: 1,239 Bytes of Email Decoding and a 31,853-Byte Analytics Beacon](https://dev.to/onepassapps/the-two-scripts-cloudflare-appends-to-every-one-of-our-56-pages-1239-bytes-of-email-decoding-and-39hc)
+- [We Built Opsville, a Free Pixel-Art Town Where You Fix DevOps Incidents](https://dev.to/devopsdaily/we-built-opsville-a-free-pixel-art-town-where-you-fix-devops-incidents-5892)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
