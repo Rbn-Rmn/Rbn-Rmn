@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Interest-only on $4,100 of card debt: $774.90 a year, and you still owe $4,100](https://dev.to/alapha888/interest-only-on-4100-of-card-debt-77490-a-year-and-you-still-owe-4100-2kn1)
-- [The Comprehension Deficit: Why I/O Inversion Turns Humanity into Runtime Baggage. TLLGeek project](https://dev.to/tllgeek/the-comprehension-deficit-why-io-inversion-turns-humanity-into-runtime-baggage-tllgeek-project-4o6f)
-- [Rotate a leaked API key without stopping your services: dotvault hands out the new value first](https://dev.to/uehara/rotate-a-leaked-api-key-without-stopping-your-services-dotvault-hands-out-the-new-value-first-408)
-- [The Two Scripts Cloudflare Appends to Every One of Our 56 Pages: 1,239 Bytes of Email Decoding and a 31,853-Byte Analytics Beacon](https://dev.to/onepassapps/the-two-scripts-cloudflare-appends-to-every-one-of-our-56-pages-1239-bytes-of-email-decoding-and-39hc)
-- [We Built Opsville, a Free Pixel-Art Town Where You Fix DevOps Incidents](https://dev.to/devopsdaily/we-built-opsville-a-free-pixel-art-town-where-you-fix-devops-incidents-5892)
+- [The lobster and the microVM](https://dev.to/js402/the-lobster-and-the-microvm-24h9)
+- [One Gate, Four Call Sites: Wiring a Model-Backed Reviewer Into Hooks Without Copy-Paste Drift](https://dev.to/codego_3211/one-gate-four-call-sites-wiring-a-model-backed-reviewer-into-hooks-without-copy-paste-drift-4h21)
+- [Policy as Code &lpar;OPA, Gatekeeper &amp; Kyverno&rpar;](https://dev.to/sri2614/policy-as-code-opa-gatekeeper-kyverno-26i5)
+- [Give the Google Antigravity agent eyes: screenshots and page reading over MCP](https://dev.to/dennis-ddev/give-the-google-antigravity-agent-eyes-screenshots-and-page-reading-over-mcp-dob)
+- [17 of 30 Pinterest Brands Report Exactly 10,000,001 Monthly Views. Etsy Says It Has 955,056,327 Pins](https://dev.to/matveyg/17-of-30-pinterest-brands-report-exactly-10000001-monthly-views-etsy-says-it-has-955056327-pins-365n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
