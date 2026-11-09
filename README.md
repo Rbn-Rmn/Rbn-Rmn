@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Healthcare Appointment Retrieval Architecture: Node.js Source Deduplication in 3 Stages](https://dev.to/jethrorhodes8268/healthcare-appointment-retrieval-architecture-nodejs-source-deduplication-in-3-stages-d6j)
-- [PDFops v0.11: ten new PDF operations, in the API and in every client](https://dev.to/pdfops/pdfops-v011-ten-new-pdf-operations-in-the-api-and-in-every-client-4nc2)
-- [Open source isn’t dead. We’re just done with the free lunch](https://dev.to/madebyck/open-source-isnt-dead-were-just-done-with-the-free-lunch-3ko7)
-- [I built 114 developer tools with no backend — everything runs in your browser](https://dev.to/tooloraa/i-built-114-developer-tools-with-no-backend-everything-runs-in-your-browser-5a7l)
-- [Frontier LLM prices sat flat all October. Then two cheaper flagships took seats, and one doubles on December 1](https://dev.to/romans/frontier-llm-prices-sat-flat-all-october-then-two-cheaper-flagships-took-seats-and-one-doubles-on-5c02)
+- [How to Generate Branded SVG QR Codes for Wi-Fi, vCard &amp; WhatsApp in Node.js &lpar;in &lt;5ms&rpar;](https://dev.to/artuturoh/how-to-generate-branded-svg-qr-codes-for-wi-fi-vcard-whatsapp-in-nodejs-in-5ms-1n21)
+- [IPv6 Behind a Proxy Fails in Three Different Places. Learn to Tell Them Apart.](https://dev.to/socks5ip/ipv6-behind-a-proxy-fails-in-three-different-places-learn-to-tell-them-apart-4bfb)
+- [HackerTV Dropped. My Lazy Eye Finally Has a Reason to Watch Again.](https://dev.to/ashish_624379625242c5d263/hackertv-dropped-my-lazy-eye-finally-has-a-reason-to-watch-again-1bim)
+- [What Is a User Story? User Story vs Task, Feature, Epic and Bug](https://dev.to/piyushpbhatt/what-is-a-user-story-user-story-vs-task-feature-epic-and-bug-81f)
+- [b4-1794190372643-p16](https://dev.to/effinrich/b4-1794190372643-p16-3go9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
