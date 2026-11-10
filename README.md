@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The lobster and the microVM](https://dev.to/js402/the-lobster-and-the-microvm-24h9)
-- [One Gate, Four Call Sites: Wiring a Model-Backed Reviewer Into Hooks Without Copy-Paste Drift](https://dev.to/codego_3211/one-gate-four-call-sites-wiring-a-model-backed-reviewer-into-hooks-without-copy-paste-drift-4h21)
-- [Policy as Code &lpar;OPA, Gatekeeper &amp; Kyverno&rpar;](https://dev.to/sri2614/policy-as-code-opa-gatekeeper-kyverno-26i5)
-- [Give the Google Antigravity agent eyes: screenshots and page reading over MCP](https://dev.to/dennis-ddev/give-the-google-antigravity-agent-eyes-screenshots-and-page-reading-over-mcp-dob)
-- [17 of 30 Pinterest Brands Report Exactly 10,000,001 Monthly Views. Etsy Says It Has 955,056,327 Pins](https://dev.to/matveyg/17-of-30-pinterest-brands-report-exactly-10000001-monthly-views-etsy-says-it-has-955056327-pins-365n)
+- [CNC Aluminum Parts: What Actually Changes Between 200 Pieces and 10,000](https://dev.to/chxprecisionmetal/cnc-aluminum-parts-what-actually-changes-between-200-pieces-and-10000-33l7)
+- [퀘스트 2·프로 &#39;기능 개발 종료&#39;가 던지는 질문: 공간 컴퓨팅 시대, 소프트웨어는 어떻게 살아남을까?](https://dev.to/ashish_624379625242c5d263/kweseuteu-2peuro-gineung-gaebal-jongryoga-deonjineun-jilmun-gonggan-keompyuting-sidae-sopeuteuweeoneun-eoddeohge-salanameulgga-hlo)
+- [Mitigating Deadlocks Triggered by SQLAlchemy&#39;s Implicit Autoflush: Architecture, Diagnostics, and Production Hardening](https://dev.to/toai/mitigating-deadlocks-triggered-by-sqlalchemys-implicit-autoflush-architecture-diagnostics-and-1445)
+- [INNER JOIN vs LEFT JOIN: Which Rows Survive?](https://dev.to/systemcraftdev/inner-join-vs-left-join-which-rows-survive-2jnl)
+- [The Real Challenge in Agent Automation Isn&#39;t Intelligence — It&#39;s Not Crashing Mid-Workflow](https://dev.to/fenju_fu/the-real-challenge-in-agent-automation-isnt-intelligence-its-not-crashing-mid-workflow-n55)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
