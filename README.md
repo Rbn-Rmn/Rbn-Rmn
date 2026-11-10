@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Best mobile app deployment platforms for solo developers in 2026 &lpar;with real prices&rpar;](https://dev.to/torichancapgo/best-mobile-app-deployment-platforms-for-solo-developers-in-2026-with-real-prices-5297)
-- [Building Keeva: Client-Side Encryption and Persistent Vault State with Tatum and Walrus Memory](https://dev.to/notg0d/building-keeva-client-side-encryption-and-persistent-vault-state-with-tatum-and-walrus-memory-2i2f)
-- [A Smaller Instance in the Wrong Family Is Still Waste](https://dev.to/sherdilcloud/a-smaller-instance-in-the-wrong-family-is-still-waste-7jo)
-- [How to Use DevTools Event Listener Breakpoints to Trace Hard-to-Find Bugs](https://dev.to/mspk97/how-to-use-devtools-event-listener-breakpoints-to-trace-hard-to-find-bugs-9k)
-- [A track record nobody can edit: SHA-256, git and Bitcoin timestamps](https://dev.to/quantooo/a-track-record-nobody-can-edit-sha-256-git-and-bitcoin-timestamps-3fmn)
+- [The Death of the Prompt: Why Autonomous Agents Are the Real Paradigm Shift in Python Development](https://dev.to/programmingcentral/the-death-of-the-prompt-why-autonomous-agents-are-the-real-paradigm-shift-in-python-development-8ng)
+- [Front End Observability: Why Your window.onerror Reports Say &quot;Script error.&quot; &lpar;and How to Fix Them&rpar;](https://dev.to/codewithrajat/front-end-observability-why-your-windowonerror-reports-say-script-error-and-how-to-fix-them-43a2)
+- [Back-of-the-Envelope Estimation for System Design, With Worked Examples](https://dev.to/mdazlaanzubair/back-of-the-envelope-estimation-for-system-design-with-worked-examples-2gni)
+- [My Store Turned Into Wingdings for Exactly One Reason, and It Was 3,410 Bytes](https://dev.to/aheadkit/my-store-turned-into-wingdings-for-exactly-one-reason-and-it-was-3410-bytes-570m)
+- [Fixing the Front Door](https://dev.to/elijahpaul/fixing-the-front-door-3h5n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
