@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [CNC Aluminum Parts: What Actually Changes Between 200 Pieces and 10,000](https://dev.to/chxprecisionmetal/cnc-aluminum-parts-what-actually-changes-between-200-pieces-and-10000-33l7)
-- [퀘스트 2·프로 &#39;기능 개발 종료&#39;가 던지는 질문: 공간 컴퓨팅 시대, 소프트웨어는 어떻게 살아남을까?](https://dev.to/ashish_624379625242c5d263/kweseuteu-2peuro-gineung-gaebal-jongryoga-deonjineun-jilmun-gonggan-keompyuting-sidae-sopeuteuweeoneun-eoddeohge-salanameulgga-hlo)
-- [Mitigating Deadlocks Triggered by SQLAlchemy&#39;s Implicit Autoflush: Architecture, Diagnostics, and Production Hardening](https://dev.to/toai/mitigating-deadlocks-triggered-by-sqlalchemys-implicit-autoflush-architecture-diagnostics-and-1445)
-- [INNER JOIN vs LEFT JOIN: Which Rows Survive?](https://dev.to/systemcraftdev/inner-join-vs-left-join-which-rows-survive-2jnl)
-- [The Real Challenge in Agent Automation Isn&#39;t Intelligence — It&#39;s Not Crashing Mid-Workflow](https://dev.to/fenju_fu/the-real-challenge-in-agent-automation-isnt-intelligence-its-not-crashing-mid-workflow-n55)
+- [Best mobile app deployment platforms for solo developers in 2026 &lpar;with real prices&rpar;](https://dev.to/torichancapgo/best-mobile-app-deployment-platforms-for-solo-developers-in-2026-with-real-prices-5297)
+- [Building Keeva: Client-Side Encryption and Persistent Vault State with Tatum and Walrus Memory](https://dev.to/notg0d/building-keeva-client-side-encryption-and-persistent-vault-state-with-tatum-and-walrus-memory-2i2f)
+- [A Smaller Instance in the Wrong Family Is Still Waste](https://dev.to/sherdilcloud/a-smaller-instance-in-the-wrong-family-is-still-waste-7jo)
+- [How to Use DevTools Event Listener Breakpoints to Trace Hard-to-Find Bugs](https://dev.to/mspk97/how-to-use-devtools-event-listener-breakpoints-to-trace-hard-to-find-bugs-9k)
+- [A track record nobody can edit: SHA-256, git and Bitcoin timestamps](https://dev.to/quantooo/a-track-record-nobody-can-edit-sha-256-git-and-bitcoin-timestamps-3fmn)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
