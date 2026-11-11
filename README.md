@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Death of the Prompt: Why Autonomous Agents Are the Real Paradigm Shift in Python Development](https://dev.to/programmingcentral/the-death-of-the-prompt-why-autonomous-agents-are-the-real-paradigm-shift-in-python-development-8ng)
-- [Front End Observability: Why Your window.onerror Reports Say &quot;Script error.&quot; &lpar;and How to Fix Them&rpar;](https://dev.to/codewithrajat/front-end-observability-why-your-windowonerror-reports-say-script-error-and-how-to-fix-them-43a2)
-- [Back-of-the-Envelope Estimation for System Design, With Worked Examples](https://dev.to/mdazlaanzubair/back-of-the-envelope-estimation-for-system-design-with-worked-examples-2gni)
-- [My Store Turned Into Wingdings for Exactly One Reason, and It Was 3,410 Bytes](https://dev.to/aheadkit/my-store-turned-into-wingdings-for-exactly-one-reason-and-it-was-3410-bytes-570m)
-- [Fixing the Front Door](https://dev.to/elijahpaul/fixing-the-front-door-3h5n)
+- [Node.js Multipart Object Storage for Private AI-Generated Images in Production](https://dev.to/algernoncross4103/nodejs-multipart-object-storage-for-private-ai-generated-images-in-production-o0h)
+- [Healthtech DNS Record Control: CNAME Exclusivity Checks Before Hostname Alerts](https://dev.to/rasmusberg6592/healthtech-dns-record-control-cname-exclusivity-checks-before-hostname-alerts-3mhc)
+- [eBPF Tutorial by Example 1: Hello World, Framework and Development](https://dev.to/yunwei37/ebpf-tutorial-by-example-1-hello-world-framework-and-development-2kmb)
+- [3 Quebra-Cabeças Táticos de Card Game em que 1 Ponto de Dano Decide Tudo &lpar;Teste no Navegador&rpar;](https://dev.to/chromaticpact/3-quebra-cabecas-taticos-de-card-game-em-que-1-ponto-de-dano-decide-tudo-teste-no-navegador-32md)
+- [A 1 mm hole doubles the stress in a spinning disk: checking the textbook result with FEM](https://dev.to/01888927bd0e8aa92caca/a-1-mm-hole-doubles-the-stress-in-a-spinning-disk-checking-the-textbook-result-with-fem-h8k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
