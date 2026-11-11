@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Authentication Basics &lpar;JWT&rpar; &amp; FastAPI Security: A Beginner-Friendly Guide 🔐](https://dev.to/deepika_pusala/authentication-basics-jwt-fastapi-security-a-beginner-friendly-guide-2nlc)
-- [Visa tested 22 shopping agents. 43% failed - and half of those bought anyway. Here&#39;s what actually stops it.](https://dev.to/data_nerd/visa-tested-22-shopping-agents-43-failed-and-half-of-those-bought-anyway-heres-what-actually-3g84)
-- [How to Build an AI Agent That Fixes Bugs Reliably: Practice in Sharkly](https://dev.to/yukioikeda/how-to-build-an-ai-agent-that-fixes-bugs-reliably-practice-in-sharkly-o63)
-- [Kimi K2.5 to K3.1 Pro: 8 API Models, One Enterprise Task, and What Actually Got Done](https://dev.to/buluo/kimi-k25-to-k31-pro-8-api-models-one-enterprise-task-and-what-actually-got-done-16na)
-- [SQLite &#39;database is locked&#39; in 2ms: Why busy_timeout Didn&#39;t Help](https://dev.to/ji_ai/sqlite-database-is-locked-in-2ms-why-busytimeout-didnt-help-2l80)
+- [Airdrop Scams, Decoded — Dusting, Drainer Links and Fake Claims](https://dev.to/verixia_233e4721792ce3390/airdrop-scams-decoded-dusting-drainer-links-and-fake-claims-4f1i)
+- [Turn Notes Into a Podcast with Two AI Voices](https://dev.to/tarunyadav1/turn-notes-into-a-podcast-with-two-ai-voices-lc0)
+- [CosyVoice on Mac: CosyVoice 2 and 3 Setup Guide](https://dev.to/tarunyadav1/cosyvoice-on-mac-cosyvoice-2-and-3-setup-guide-3af0)
+- [Your Brain Keeps the Code It Writes. Not the Code It Pastes.](https://dev.to/spartanrich430/your-brain-keeps-the-code-it-writes-not-the-code-it-pastes-330d)
+- [What makes a custom Yu-Gi-Oh! card look real](https://dev.to/fancy39_9841cbc02f99f729c/what-makes-a-custom-yu-gi-oh-card-look-real-4e65)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
