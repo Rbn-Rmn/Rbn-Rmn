@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Airdrop Scams, Decoded — Dusting, Drainer Links and Fake Claims](https://dev.to/verixia_233e4721792ce3390/airdrop-scams-decoded-dusting-drainer-links-and-fake-claims-4f1i)
-- [Turn Notes Into a Podcast with Two AI Voices](https://dev.to/tarunyadav1/turn-notes-into-a-podcast-with-two-ai-voices-lc0)
-- [CosyVoice on Mac: CosyVoice 2 and 3 Setup Guide](https://dev.to/tarunyadav1/cosyvoice-on-mac-cosyvoice-2-and-3-setup-guide-3af0)
-- [Your Brain Keeps the Code It Writes. Not the Code It Pastes.](https://dev.to/spartanrich430/your-brain-keeps-the-code-it-writes-not-the-code-it-pastes-330d)
-- [What makes a custom Yu-Gi-Oh! card look real](https://dev.to/fancy39_9841cbc02f99f729c/what-makes-a-custom-yu-gi-oh-card-look-real-4e65)
+- [Similarity Is Not Truth: Comparing vector distance, is_true&lpar;&rpar;, and extract&lpar;&rpar; in Azure AI for PostgreSQL](https://dev.to/franckpachot/similarity-is-not-truth-comparing-vector-distance-istrue-and-extract-in-azure-ai-for-2and)
+- [I built CodeGraphy v2.1 - a Local Context Intelligence Platform &amp; MCP Server with an interactive architecture graph that cuts LLM token usage by 85%](https://dev.to/__0dc2d9e0604a8/i-built-codegraphy-v21-a-local-context-intelligence-platform-mcp-server-with-an-interactive-2knp)
+- [Handling Legacy Domain Requests on a Static Site with 301 and 410](https://dev.to/tahalkuta_wolff_b39c7d7e0/handling-legacy-domain-requests-on-a-static-site-with-301-and-410-1726)
+- [Logistics Renewal Webhooks: FIFO Queue Deduplication with Idempotency Keys After 5 Minutes](https://dev.to/trkfpn392751/logistics-renewal-webhooks-fifo-queue-deduplication-with-idempotency-keys-after-5-minutes-gfb)
+- [How to find the 1688 factory behind a product photo &lpar;and what to ask before you order&rpar;](https://dev.to/maksim_lazouski/how-to-find-the-1688-factory-behind-a-product-photo-and-what-to-ask-before-you-order-4g2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
