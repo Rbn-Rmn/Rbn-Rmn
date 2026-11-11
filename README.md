@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Multipart Object Storage for Private AI-Generated Images in Production](https://dev.to/algernoncross4103/nodejs-multipart-object-storage-for-private-ai-generated-images-in-production-o0h)
-- [Healthtech DNS Record Control: CNAME Exclusivity Checks Before Hostname Alerts](https://dev.to/rasmusberg6592/healthtech-dns-record-control-cname-exclusivity-checks-before-hostname-alerts-3mhc)
-- [eBPF Tutorial by Example 1: Hello World, Framework and Development](https://dev.to/yunwei37/ebpf-tutorial-by-example-1-hello-world-framework-and-development-2kmb)
-- [3 Quebra-Cabeças Táticos de Card Game em que 1 Ponto de Dano Decide Tudo &lpar;Teste no Navegador&rpar;](https://dev.to/chromaticpact/3-quebra-cabecas-taticos-de-card-game-em-que-1-ponto-de-dano-decide-tudo-teste-no-navegador-32md)
-- [A 1 mm hole doubles the stress in a spinning disk: checking the textbook result with FEM](https://dev.to/01888927bd0e8aa92caca/a-1-mm-hole-doubles-the-stress-in-a-spinning-disk-checking-the-textbook-result-with-fem-h8k)
+- [Authentication Basics &lpar;JWT&rpar; &amp; FastAPI Security: A Beginner-Friendly Guide 🔐](https://dev.to/deepika_pusala/authentication-basics-jwt-fastapi-security-a-beginner-friendly-guide-2nlc)
+- [Visa tested 22 shopping agents. 43% failed - and half of those bought anyway. Here&#39;s what actually stops it.](https://dev.to/data_nerd/visa-tested-22-shopping-agents-43-failed-and-half-of-those-bought-anyway-heres-what-actually-3g84)
+- [How to Build an AI Agent That Fixes Bugs Reliably: Practice in Sharkly](https://dev.to/yukioikeda/how-to-build-an-ai-agent-that-fixes-bugs-reliably-practice-in-sharkly-o63)
+- [Kimi K2.5 to K3.1 Pro: 8 API Models, One Enterprise Task, and What Actually Got Done](https://dev.to/buluo/kimi-k25-to-k31-pro-8-api-models-one-enterprise-task-and-what-actually-got-done-16na)
+- [SQLite &#39;database is locked&#39; in 2ms: Why busy_timeout Didn&#39;t Help](https://dev.to/ji_ai/sqlite-database-is-locked-in-2ms-why-busytimeout-didnt-help-2l80)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
