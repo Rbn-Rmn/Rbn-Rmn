@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Similarity Is Not Truth: Comparing vector distance, is_true&lpar;&rpar;, and extract&lpar;&rpar; in Azure AI for PostgreSQL](https://dev.to/franckpachot/similarity-is-not-truth-comparing-vector-distance-istrue-and-extract-in-azure-ai-for-2and)
-- [I built CodeGraphy v2.1 - a Local Context Intelligence Platform &amp; MCP Server with an interactive architecture graph that cuts LLM token usage by 85%](https://dev.to/__0dc2d9e0604a8/i-built-codegraphy-v21-a-local-context-intelligence-platform-mcp-server-with-an-interactive-2knp)
-- [Handling Legacy Domain Requests on a Static Site with 301 and 410](https://dev.to/tahalkuta_wolff_b39c7d7e0/handling-legacy-domain-requests-on-a-static-site-with-301-and-410-1726)
-- [Logistics Renewal Webhooks: FIFO Queue Deduplication with Idempotency Keys After 5 Minutes](https://dev.to/trkfpn392751/logistics-renewal-webhooks-fifo-queue-deduplication-with-idempotency-keys-after-5-minutes-gfb)
-- [How to find the 1688 factory behind a product photo &lpar;and what to ask before you order&rpar;](https://dev.to/maksim_lazouski/how-to-find-the-1688-factory-behind-a-product-photo-and-what-to-ask-before-you-order-4g2)
+- [How to give Claude a phone &lpar;Claude Code, Desktop and claude.ai&rpar;](https://dev.to/greatworkco/how-to-give-claude-a-phone-claude-code-desktop-and-claudeai-5b3a)
+- [We timed 34 customer service lines to see how long it takes to reach a person](https://dev.to/greatworkco/we-timed-34-customer-service-lines-to-see-how-long-it-takes-to-reach-a-person-3cfk)
+- [Claude Skills vs. Projects: Which One Do You Actually Need?](https://dev.to/thecodestreet/claude-skills-vs-projects-which-one-do-you-actually-need-1hjb)
+- [osFoundry के record channel में Codex CLI से bug tracker का triage कैसे करवाएं](https://dev.to/bbt-hi/osfoundry-ke-record-channel-men-codex-cli-se-bug-tracker-kaa-triage-kaise-krvaaen-16ie)
+- [OpenAI Is Retiring GPT-5 and o3 on December 11: A Model Portability Audit](https://dev.to/euk_ela_a3e7ed01aa3f7314e/openai-is-retiring-gpt-5-and-o3-on-december-11-a-model-portability-audit-4h1f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
