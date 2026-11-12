@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Send email from a Cloudflare Worker contact form](https://dev.to/formharbor/send-email-from-a-cloudflare-worker-contact-form-elj)
-- [Coulisses 06 partage sortir de l atelier](https://dev.to/sylvainlapart/coulisses-06-partage-sortir-de-l-atelier-364f)
-- [Why MP4 to MOV Gets Bigger: Re-encoding vs Remuxing Explained](https://dev.to/compressvid/why-mp4-mov-gets-bigger-re-encoding-vs-remuxing-explained-26cc)
-- [How stable is your mean? A small bootstrap experiment in a Python notebook](https://dev.to/_6a1b3c45cc08bec8733/how-stable-is-your-mean-a-small-bootstrap-experiment-in-a-python-notebook-j56)
-- [What AI does at each of the five stages of an inspection](https://dev.to/devstation026/what-ai-does-at-each-of-the-five-stages-of-an-inspection-14mj)
+- [Warum verlangt osFoundry von Claude Code den Commit, wenn es einen GitNest-Check neu starten will?](https://dev.to/bbt-de/warum-verlangt-osfoundry-von-claude-code-den-commit-wenn-es-einen-gitnest-check-neu-starten-will-5ee6)
+- [GTA VI FAN WEBSITE](https://dev.to/gityus13/gta-vi-fan-website-2pmg)
+- [Scovant Core: open-source scanner for AI-agent readiness](https://dev.to/scovant/scovant-core-open-source-scanner-for-ai-agent-readiness-1n6l)
+- [[Boost]](https://dev.to/gityus13/-5388)
+- [Remember your 404s until the next deploy](https://dev.to/thomas_shafer_783798ba461/remember-your-404s-until-the-next-deploy-4pbe)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
