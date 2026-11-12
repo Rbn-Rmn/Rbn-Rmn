@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to give Claude a phone &lpar;Claude Code, Desktop and claude.ai&rpar;](https://dev.to/greatworkco/how-to-give-claude-a-phone-claude-code-desktop-and-claudeai-5b3a)
-- [We timed 34 customer service lines to see how long it takes to reach a person](https://dev.to/greatworkco/we-timed-34-customer-service-lines-to-see-how-long-it-takes-to-reach-a-person-3cfk)
-- [Claude Skills vs. Projects: Which One Do You Actually Need?](https://dev.to/thecodestreet/claude-skills-vs-projects-which-one-do-you-actually-need-1hjb)
-- [osFoundry के record channel में Codex CLI से bug tracker का triage कैसे करवाएं](https://dev.to/bbt-hi/osfoundry-ke-record-channel-men-codex-cli-se-bug-tracker-kaa-triage-kaise-krvaaen-16ie)
-- [OpenAI Is Retiring GPT-5 and o3 on December 11: A Model Portability Audit](https://dev.to/euk_ela_a3e7ed01aa3f7314e/openai-is-retiring-gpt-5-and-o3-on-december-11-a-model-portability-audit-4h1f)
+- [Send email from a Cloudflare Worker contact form](https://dev.to/formharbor/send-email-from-a-cloudflare-worker-contact-form-elj)
+- [Coulisses 06 partage sortir de l atelier](https://dev.to/sylvainlapart/coulisses-06-partage-sortir-de-l-atelier-364f)
+- [Why MP4 to MOV Gets Bigger: Re-encoding vs Remuxing Explained](https://dev.to/compressvid/why-mp4-mov-gets-bigger-re-encoding-vs-remuxing-explained-26cc)
+- [How stable is your mean? A small bootstrap experiment in a Python notebook](https://dev.to/_6a1b3c45cc08bec8733/how-stable-is-your-mean-a-small-bootstrap-experiment-in-a-python-notebook-j56)
+- [What AI does at each of the five stages of an inspection](https://dev.to/devstation026/what-ai-does-at-each-of-the-five-stages-of-an-inspection-14mj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
