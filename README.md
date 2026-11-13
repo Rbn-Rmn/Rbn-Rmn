@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [We Checked 15 Big Travel Sites. Only Two Gave an AI Agent a Readable Homepage.](https://dev.to/x1y1co/we-checked-15-big-travel-sites-only-two-gave-an-ai-agent-a-readable-homepage-3o6b)
-- [Building a Cross-Platform Dynamic Island with Tauri, Rust, and TypeScript: Introducing Mintu v0.2.2](https://dev.to/huseyn_huseynov_42/building-a-cross-platform-dynamic-island-with-tauri-rust-and-typescript-introducing-mintu-v022-d56)
-- [I Built a Periodic Table App for Android — Here&#39;s the Pain It Solves](https://dev.to/artificialintelligenceee/i-built-a-periodic-table-app-for-android-heres-the-pain-it-solves-3cg9)
-- [Hello DEV Community! Excited to Join and Learn Together](https://dev.to/sakr2200/hello-dev-community-excited-to-join-and-learn-together-3m9l)
-- [Three numbers that decide your agent bill &lpar;none of them is the price per token&rpar;](https://dev.to/aiapikey/three-numbers-that-decide-your-agent-bill-none-of-them-is-the-price-per-token-4do9)
+- [The Redis Service Count Cannot Identify Valkey Cluster Mode](https://dev.to/andreagomez/the-redis-service-count-cannot-identify-valkey-cluster-mode-5h8d)
+- [Google switches gemini-2.5-pro and gemini-2.5-flash to a newer model on 1 December 2026: what to change](https://dev.to/aidriftline/google-switches-gemini-25-pro-and-gemini-25-flash-to-a-newer-model-on-1-december-2026-what-to-1298)
+- [Nvidia falls to third place in the world by market value](https://dev.to/rriostrujillo/nvidia-falls-to-third-place-in-the-world-by-market-value-1nfh)
+- [Filesystem MCP server setup: config, tools, Docker and fixes &lpar;v2.1&rpar;](https://dev.to/pluginstackai/filesystem-mcp-server-setup-config-tools-docker-and-fixes-v21-513o)
+- [How to add an MCP server to Cursor &lpar;mcp.json, examples &amp; fixes&rpar;](https://dev.to/pluginstackai/how-to-add-an-mcp-server-to-cursor-mcpjson-examples-published-true-kcm)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
