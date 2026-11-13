@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Warum verlangt osFoundry von Claude Code den Commit, wenn es einen GitNest-Check neu starten will?](https://dev.to/bbt-de/warum-verlangt-osfoundry-von-claude-code-den-commit-wenn-es-einen-gitnest-check-neu-starten-will-5ee6)
-- [GTA VI FAN WEBSITE](https://dev.to/gityus13/gta-vi-fan-website-2pmg)
-- [Scovant Core: open-source scanner for AI-agent readiness](https://dev.to/scovant/scovant-core-open-source-scanner-for-ai-agent-readiness-1n6l)
-- [[Boost]](https://dev.to/gityus13/-5388)
-- [Remember your 404s until the next deploy](https://dev.to/thomas_shafer_783798ba461/remember-your-404s-until-the-next-deploy-4pbe)
+- [Splitting &quot;jumped&quot; into jump/ed with three regexes, and the 3 words out of 36 it got wrong](https://dev.to/samtools/splitting-jumped-into-jumped-with-three-regexes-and-the-3-words-out-of-36-it-got-wrong-3209)
+- [Load Testing Our Checkout Pipeline Without Taking Down Production](https://dev.to/taocarts/load-testing-our-checkout-pipeline-without-taking-down-production-1324)
+- [Can You Upscale a 480p Hit the Road Dude Clip to 1080p? Lanczos vs Bicubic vs Unsharp, Scored Against a Ground Truth](https://dev.to/lpgit/can-you-upscale-a-480p-hit-the-road-dude-clip-to-1080p-lanczos-vs-bicubic-vs-unsharp-scored-12k5)
+- [CVE-2026-126190: CVE-2026-126190: Polynomial-Time Denial of Service in Soup Sieve CSS Descendant Combinator](https://dev.to/cverports/cve-2026-126190-cve-2026-126190-polynomial-time-denial-of-service-in-soup-sieve-css-descendant-10a5)
+- [Encrypting data in localStorage does not protect your JavaScript &lpar;or your users&rpar;](https://dev.to/veilvm/encrypting-data-in-localstorage-does-not-protect-your-javascript-or-your-users-40fk)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
