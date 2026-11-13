@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic’s FlashProve Could Make AI Model Identity Verifiable](https://dev.to/spaisee/anthropics-flashprove-could-make-ai-model-identity-verifiable-5471)
-- [OpenQodex: a separate AI reviewer that checks agent-written code before you push](https://dev.to/alexr/openqodex-a-separate-ai-reviewer-that-checks-agent-written-code-before-you-push-3cce)
-- [How to Calculate the Right AC Size for Your Room &lpar;BTU Guide&rpar;](https://dev.to/kandz/how-to-calculate-the-right-ac-size-for-your-room-btu-guide-h6k)
-- [Fabric or Databricks? How I Decide](https://dev.to/geekindata/fabric-or-databricks-how-i-decide-2ji3)
-- [I Tested 7 Qi2 Chargers So You Don&#39;t Have To: Here&#39;s What I Learned About Heat](https://dev.to/elecdov/i-tested-7-qi2-chargers-so-you-dont-have-to-heres-what-i-learned-about-heat-7ac)
+- [We Checked 15 Big Travel Sites. Only Two Gave an AI Agent a Readable Homepage.](https://dev.to/x1y1co/we-checked-15-big-travel-sites-only-two-gave-an-ai-agent-a-readable-homepage-3o6b)
+- [Building a Cross-Platform Dynamic Island with Tauri, Rust, and TypeScript: Introducing Mintu v0.2.2](https://dev.to/huseyn_huseynov_42/building-a-cross-platform-dynamic-island-with-tauri-rust-and-typescript-introducing-mintu-v022-d56)
+- [I Built a Periodic Table App for Android — Here&#39;s the Pain It Solves](https://dev.to/artificialintelligenceee/i-built-a-periodic-table-app-for-android-heres-the-pain-it-solves-3cg9)
+- [Hello DEV Community! Excited to Join and Learn Together](https://dev.to/sakr2200/hello-dev-community-excited-to-join-and-learn-together-3m9l)
+- [Three numbers that decide your agent bill &lpar;none of them is the price per token&rpar;](https://dev.to/aiapikey/three-numbers-that-decide-your-agent-bill-none-of-them-is-the-price-per-token-4do9)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
