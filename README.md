@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Splitting &quot;jumped&quot; into jump/ed with three regexes, and the 3 words out of 36 it got wrong](https://dev.to/samtools/splitting-jumped-into-jumped-with-three-regexes-and-the-3-words-out-of-36-it-got-wrong-3209)
-- [Load Testing Our Checkout Pipeline Without Taking Down Production](https://dev.to/taocarts/load-testing-our-checkout-pipeline-without-taking-down-production-1324)
-- [Can You Upscale a 480p Hit the Road Dude Clip to 1080p? Lanczos vs Bicubic vs Unsharp, Scored Against a Ground Truth](https://dev.to/lpgit/can-you-upscale-a-480p-hit-the-road-dude-clip-to-1080p-lanczos-vs-bicubic-vs-unsharp-scored-12k5)
-- [CVE-2026-126190: CVE-2026-126190: Polynomial-Time Denial of Service in Soup Sieve CSS Descendant Combinator](https://dev.to/cverports/cve-2026-126190-cve-2026-126190-polynomial-time-denial-of-service-in-soup-sieve-css-descendant-10a5)
-- [Encrypting data in localStorage does not protect your JavaScript &lpar;or your users&rpar;](https://dev.to/veilvm/encrypting-data-in-localstorage-does-not-protect-your-javascript-or-your-users-40fk)
+- [Anthropic’s FlashProve Could Make AI Model Identity Verifiable](https://dev.to/spaisee/anthropics-flashprove-could-make-ai-model-identity-verifiable-5471)
+- [OpenQodex: a separate AI reviewer that checks agent-written code before you push](https://dev.to/alexr/openqodex-a-separate-ai-reviewer-that-checks-agent-written-code-before-you-push-3cce)
+- [How to Calculate the Right AC Size for Your Room &lpar;BTU Guide&rpar;](https://dev.to/kandz/how-to-calculate-the-right-ac-size-for-your-room-btu-guide-h6k)
+- [Fabric or Databricks? How I Decide](https://dev.to/geekindata/fabric-or-databricks-how-i-decide-2ji3)
+- [I Tested 7 Qi2 Chargers So You Don&#39;t Have To: Here&#39;s What I Learned About Heat](https://dev.to/elecdov/i-tested-7-qi2-chargers-so-you-dont-have-to-heres-what-i-learned-about-heat-7ac)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
