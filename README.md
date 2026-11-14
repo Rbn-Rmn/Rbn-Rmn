@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Gravity Forge — a browser game in one folder](https://dev.to/playgamalabs/gravity-forge-a-browser-game-in-one-folder-52e5)
-- [CSRF in 2026: SameSite, Fetch Metadata &amp; Origin Checks](https://dev.to/muhammadalimughal/csrf-in-2026-samesite-fetch-metadata-origin-checks-1nm1)
-- [What&#39;s inside an .osk file? Packaging an osu! skin correctly](https://dev.to/zentaolabs/whats-inside-an-osk-file-packaging-an-osu-skin-correctly-2m58)
-- [I’m 13 and Built a 14-App Full-Stack Developer Community Platform on a $0 Serverless Stack](https://dev.to/debatesylhetbd/im-13-and-built-a-14-app-full-stack-developer-community-platform-on-a-0-serverless-stack-3a2)
-- [What 56,871 popular Shopify stores run: apps and themes in numbers](https://dev.to/storesignalhq/what-56871-popular-shopify-stores-run-apps-and-themes-in-numbers-lk3)
+- [The gate before the spend: what an agent should ask you, and what it should never decide](https://dev.to/maptosite/the-gate-before-the-spend-what-an-agent-should-ask-you-and-what-it-should-never-decide-2hj1)
+- [How Live Flight Tracking Actually Works: ADS-B, Explained for Developers](https://dev.to/worldeye_app/how-live-flight-tracking-actually-works-ads-b-explained-for-developers-oh2)
+- [The runtime memory budget of my 1.17 MB player: keeping playback under 15 MB RAM](https://dev.to/hammiwor/the-runtime-memory-budget-of-my-117-mb-player-keeping-playback-under-15-mb-ram-31p5)
+- [Same published rules, two bar sizes: what a daily-close stop does vs a minute-close stop](https://dev.to/singularsignal/same-published-rules-two-bar-sizes-what-a-daily-close-stop-does-vs-a-minute-close-stop-obj)
+- [TrueFi: DeFi Lending Protocol Case Study, Product Design and Brand](https://dev.to/andyur/truefi-defi-lending-protocol-case-study-product-design-and-brand-2cko)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
