@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Perception and Sensor Architecture — Ch.03: Depth Camera [KR]](https://dev.to/richard_minsoogo/perception-and-sensor-architecture-ch03-depth-camera-kr-2cgo)
-- [Perception and Sensor Architecture — Ch.02: Stereo Camera [KR]](https://dev.to/richard_minsoogo/perception-and-sensor-architecture-ch02-stereo-camera-kr-2k5l)
-- [Perception and Sensor Architecture — Ch.01: Mono Camera [KR]](https://dev.to/richard_minsoogo/perception-and-sensor-architecture-ch01-mono-camera-kr-47c4)
-- [The retriever with the best score wrote the worst proposals &lpar;and other things my ablations told me&rpar;](https://dev.to/abdul_basit_863d2936a69df/the-retriever-with-the-best-score-wrote-the-worst-proposals-and-other-things-my-ablations-told-me-20ne)
-- [My agent said done. Kane had to watch it fail first.](https://dev.to/vijaygopalbala1/my-agent-said-done-kane-had-to-watch-it-fail-first-1cbo)
+- [Gravity Forge — a browser game in one folder](https://dev.to/playgamalabs/gravity-forge-a-browser-game-in-one-folder-52e5)
+- [CSRF in 2026: SameSite, Fetch Metadata &amp; Origin Checks](https://dev.to/muhammadalimughal/csrf-in-2026-samesite-fetch-metadata-origin-checks-1nm1)
+- [What&#39;s inside an .osk file? Packaging an osu! skin correctly](https://dev.to/zentaolabs/whats-inside-an-osk-file-packaging-an-osu-skin-correctly-2m58)
+- [I’m 13 and Built a 14-App Full-Stack Developer Community Platform on a $0 Serverless Stack](https://dev.to/debatesylhetbd/im-13-and-built-a-14-app-full-stack-developer-community-platform-on-a-0-serverless-stack-3a2)
+- [What 56,871 popular Shopify stores run: apps and themes in numbers](https://dev.to/storesignalhq/what-56871-popular-shopify-stores-run-apps-and-themes-in-numbers-lk3)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
