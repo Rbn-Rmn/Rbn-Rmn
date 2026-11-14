@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Redis Service Count Cannot Identify Valkey Cluster Mode](https://dev.to/andreagomez/the-redis-service-count-cannot-identify-valkey-cluster-mode-5h8d)
-- [Google switches gemini-2.5-pro and gemini-2.5-flash to a newer model on 1 December 2026: what to change](https://dev.to/aidriftline/google-switches-gemini-25-pro-and-gemini-25-flash-to-a-newer-model-on-1-december-2026-what-to-1298)
-- [Nvidia falls to third place in the world by market value](https://dev.to/rriostrujillo/nvidia-falls-to-third-place-in-the-world-by-market-value-1nfh)
-- [Filesystem MCP server setup: config, tools, Docker and fixes &lpar;v2.1&rpar;](https://dev.to/pluginstackai/filesystem-mcp-server-setup-config-tools-docker-and-fixes-v21-513o)
-- [How to add an MCP server to Cursor &lpar;mcp.json, examples &amp; fixes&rpar;](https://dev.to/pluginstackai/how-to-add-an-mcp-server-to-cursor-mcpjson-examples-published-true-kcm)
+- [Contribuir pra open source não é só código: uma jornada de SRE na BrasilAPI](https://dev.to/theoscaargomes/contribuir-pra-open-source-nao-e-so-codigo-uma-jornada-de-sre-na-brasilapi-2dj8)
+- [Modeling BC property transfer tax and Canadian mortgage payments in Python](https://dev.to/joppa_sruckrucky_b20878/modeling-bc-property-transfer-tax-and-canadian-mortgage-payments-in-python-4ll9)
+- [Building AdiSaan: Why We Open-Sourced an Observatory for Human Imagination and AI](https://dev.to/adisaan/building-adisaan-why-we-open-sourced-an-observatory-for-human-imagination-and-ai-26g7)
+- [Checking a Four-Direction Sprite Sheet Before Importing It](https://dev.to/mrwhon/checking-a-four-direction-sprite-sheet-before-importing-it-24ae)
+- [A 15-minute nap alarm, one tap away](https://dev.to/droidactor/a-15-minute-nap-alarm-one-tap-away-1fj8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
