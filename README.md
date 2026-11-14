@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Contribuir pra open source não é só código: uma jornada de SRE na BrasilAPI](https://dev.to/theoscaargomes/contribuir-pra-open-source-nao-e-so-codigo-uma-jornada-de-sre-na-brasilapi-2dj8)
-- [Modeling BC property transfer tax and Canadian mortgage payments in Python](https://dev.to/joppa_sruckrucky_b20878/modeling-bc-property-transfer-tax-and-canadian-mortgage-payments-in-python-4ll9)
-- [Building AdiSaan: Why We Open-Sourced an Observatory for Human Imagination and AI](https://dev.to/adisaan/building-adisaan-why-we-open-sourced-an-observatory-for-human-imagination-and-ai-26g7)
-- [Checking a Four-Direction Sprite Sheet Before Importing It](https://dev.to/mrwhon/checking-a-four-direction-sprite-sheet-before-importing-it-24ae)
-- [A 15-minute nap alarm, one tap away](https://dev.to/droidactor/a-15-minute-nap-alarm-one-tap-away-1fj8)
+- [Perception and Sensor Architecture — Ch.03: Depth Camera [KR]](https://dev.to/richard_minsoogo/perception-and-sensor-architecture-ch03-depth-camera-kr-2cgo)
+- [Perception and Sensor Architecture — Ch.02: Stereo Camera [KR]](https://dev.to/richard_minsoogo/perception-and-sensor-architecture-ch02-stereo-camera-kr-2k5l)
+- [Perception and Sensor Architecture — Ch.01: Mono Camera [KR]](https://dev.to/richard_minsoogo/perception-and-sensor-architecture-ch01-mono-camera-kr-47c4)
+- [The retriever with the best score wrote the worst proposals &lpar;and other things my ablations told me&rpar;](https://dev.to/abdul_basit_863d2936a69df/the-retriever-with-the-best-score-wrote-the-worst-proposals-and-other-things-my-ablations-told-me-20ne)
+- [My agent said done. Kane had to watch it fail first.](https://dev.to/vijaygopalbala1/my-agent-said-done-kane-had-to-watch-it-fail-first-1cbo)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
