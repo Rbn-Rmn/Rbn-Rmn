@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The gate before the spend: what an agent should ask you, and what it should never decide](https://dev.to/maptosite/the-gate-before-the-spend-what-an-agent-should-ask-you-and-what-it-should-never-decide-2hj1)
-- [How Live Flight Tracking Actually Works: ADS-B, Explained for Developers](https://dev.to/worldeye_app/how-live-flight-tracking-actually-works-ads-b-explained-for-developers-oh2)
-- [The runtime memory budget of my 1.17 MB player: keeping playback under 15 MB RAM](https://dev.to/hammiwor/the-runtime-memory-budget-of-my-117-mb-player-keeping-playback-under-15-mb-ram-31p5)
-- [Same published rules, two bar sizes: what a daily-close stop does vs a minute-close stop](https://dev.to/singularsignal/same-published-rules-two-bar-sizes-what-a-daily-close-stop-does-vs-a-minute-close-stop-obj)
-- [TrueFi: DeFi Lending Protocol Case Study, Product Design and Brand](https://dev.to/andyur/truefi-defi-lending-protocol-case-study-product-design-and-brand-2cko)
+- [Respaldo cifrado y restauración verificada para Azure Cosmos DB con GitHub Actions](https://dev.to/milton_hfloreschino_123/respaldo-cifrado-y-restauracion-verificada-para-azure-cosmos-db-con-github-actions-g6b)
+- [61/100 top PyPI packages ship full provenance](https://dev.to/frankchu/61100-top-pypi-packages-ship-full-provenance-3h40)
+- [Agents Need Hands, Not Just Brains — How RPA Fills the Automation Gap](https://dev.to/fenju_fu/agents-need-hands-not-just-brains-how-rpa-fills-the-automation-gap-32lh)
+- [15 embedded interview questions that trip up strong candidates](https://dev.to/firmwareprep/15-embedded-interview-questions-that-trip-up-strong-candidates-3hho)
+- [Bugsink Error Ingestion Needs a Project and Source-Context Boundary](https://dev.to/onaeiuspkz/bugsink-error-ingestion-needs-a-project-and-source-context-boundary-3o8i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
