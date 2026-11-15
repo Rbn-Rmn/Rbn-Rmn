@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Respaldo cifrado y restauración verificada para Azure Cosmos DB con GitHub Actions](https://dev.to/milton_hfloreschino_123/respaldo-cifrado-y-restauracion-verificada-para-azure-cosmos-db-con-github-actions-g6b)
-- [61/100 top PyPI packages ship full provenance](https://dev.to/frankchu/61100-top-pypi-packages-ship-full-provenance-3h40)
-- [Agents Need Hands, Not Just Brains — How RPA Fills the Automation Gap](https://dev.to/fenju_fu/agents-need-hands-not-just-brains-how-rpa-fills-the-automation-gap-32lh)
-- [15 embedded interview questions that trip up strong candidates](https://dev.to/firmwareprep/15-embedded-interview-questions-that-trip-up-strong-candidates-3hho)
-- [Bugsink Error Ingestion Needs a Project and Source-Context Boundary](https://dev.to/onaeiuspkz/bugsink-error-ingestion-needs-a-project-and-source-context-boundary-3o8i)
+- [Estimate TRON Energy Before a USDT Transfer with triggerconstantcontract](https://dev.to/usdtpull_com/estimate-tron-energy-before-a-usdt-transfer-with-triggerconstantcontract-2jm0)
+- [GitHub Actions fromJSON matrix fails to expand](https://dev.to/kalemi/github-actions-fromjson-matrix-fails-to-expand-pn8)
+- [The Component System](https://dev.to/pietertpt/the-component-system-5b3p)
+- [A Week in the Stripe Retry Log, Read Out Loud](https://dev.to/swipeagain/a-week-in-the-stripe-retry-log-read-out-loud-5dfd)
+- [GitHub Actions checkout slow: shallow and sparse clones](https://dev.to/kalemi/github-actions-checkout-slow-shallow-and-sparse-clones-2kl0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
