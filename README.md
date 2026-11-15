@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Estimate TRON Energy Before a USDT Transfer with triggerconstantcontract](https://dev.to/usdtpull_com/estimate-tron-energy-before-a-usdt-transfer-with-triggerconstantcontract-2jm0)
-- [GitHub Actions fromJSON matrix fails to expand](https://dev.to/kalemi/github-actions-fromjson-matrix-fails-to-expand-pn8)
-- [The Component System](https://dev.to/pietertpt/the-component-system-5b3p)
-- [A Week in the Stripe Retry Log, Read Out Loud](https://dev.to/swipeagain/a-week-in-the-stripe-retry-log-read-out-loud-5dfd)
-- [GitHub Actions checkout slow: shallow and sparse clones](https://dev.to/kalemi/github-actions-checkout-slow-shallow-and-sparse-clones-2kl0)
+- [How We Built a 10-Language Bulk QR Generator &lpar;And Handled RTL Layouts&rpar;](https://dev.to/rahalune-qr-studio/how-we-built-a-10-language-bulk-qr-generator-and-handled-rtl-layouts-2a3h)
+- [Shipping an AI agent for a startup: scoping to production](https://dev.to/dtnghia/shipping-an-ai-agent-for-a-startup-scoping-to-production-3k6p)
+- [The Million-Dollar Unit Trap in SEC Filing Ratios](https://dev.to/eqvero/the-million-dollar-unit-trap-in-sec-filing-ratios-3668)
+- [Scope gate for subagents: 3 tasks, 1 blocked write](https://dev.to/agentshipped/scope-gate-for-subagents-3-tasks-1-blocked-write-34pa)
+- [I sent an AI agent to earn real crypto. Here are the platforms that actually paid](https://dev.to/int_dev_42dd88689212360d0/i-sent-an-ai-agent-to-earn-real-crypto-here-are-the-platforms-that-actually-paid-3jdf)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
