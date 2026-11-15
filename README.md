@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How We Built a 10-Language Bulk QR Generator &lpar;And Handled RTL Layouts&rpar;](https://dev.to/rahalune-qr-studio/how-we-built-a-10-language-bulk-qr-generator-and-handled-rtl-layouts-2a3h)
-- [Shipping an AI agent for a startup: scoping to production](https://dev.to/dtnghia/shipping-an-ai-agent-for-a-startup-scoping-to-production-3k6p)
-- [The Million-Dollar Unit Trap in SEC Filing Ratios](https://dev.to/eqvero/the-million-dollar-unit-trap-in-sec-filing-ratios-3668)
-- [Scope gate for subagents: 3 tasks, 1 blocked write](https://dev.to/agentshipped/scope-gate-for-subagents-3-tasks-1-blocked-write-34pa)
-- [I sent an AI agent to earn real crypto. Here are the platforms that actually paid](https://dev.to/int_dev_42dd88689212360d0/i-sent-an-ai-agent-to-earn-real-crypto-here-are-the-platforms-that-actually-paid-3jdf)
+- [n8n vs Make vs Zapier vs custom code: how to pick an automation backbone](https://dev.to/amazeai/n8n-vs-make-vs-zapier-vs-custom-code-how-to-pick-an-automation-backbone-552c)
+- [Claude Just Joined Your Video Calls — Inside Anthropic&#39;s Claude Meetings, Whiteboards and Sheets](https://dev.to/ahtisham_lala_a1af953f29b/claude-just-joined-your-video-calls-inside-anthropics-claude-meetings-whiteboards-and-sheets-33ln)
+- [Designing AI for accountants: approval gates, masking and an audit trail](https://dev.to/fedixai/designing-ai-for-accountants-approval-gates-masking-and-an-audit-trail-ckp)
+- [How to LEARN with your own custom-made course](https://dev.to/lamjesus/how-to-learn-with-your-own-custom-made-course-29kd)
+- [AI Agents Just Moved Into Every WordPress Page Builder — Breakdance 3.0, Divi, Oxygen, and What It Means for Elementor Users](https://dev.to/ahtisham_lala_a1af953f29b/ai-agents-just-moved-into-every-wordpress-page-builder-breakdance-30-divi-oxygen-and-what-it-58ah)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
