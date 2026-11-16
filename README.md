@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [n8n vs Make vs Zapier vs custom code: how to pick an automation backbone](https://dev.to/amazeai/n8n-vs-make-vs-zapier-vs-custom-code-how-to-pick-an-automation-backbone-552c)
-- [Claude Just Joined Your Video Calls — Inside Anthropic&#39;s Claude Meetings, Whiteboards and Sheets](https://dev.to/ahtisham_lala_a1af953f29b/claude-just-joined-your-video-calls-inside-anthropics-claude-meetings-whiteboards-and-sheets-33ln)
-- [Designing AI for accountants: approval gates, masking and an audit trail](https://dev.to/fedixai/designing-ai-for-accountants-approval-gates-masking-and-an-audit-trail-ckp)
-- [How to LEARN with your own custom-made course](https://dev.to/lamjesus/how-to-learn-with-your-own-custom-made-course-29kd)
-- [AI Agents Just Moved Into Every WordPress Page Builder — Breakdance 3.0, Divi, Oxygen, and What It Means for Elementor Users](https://dev.to/ahtisham_lala_a1af953f29b/ai-agents-just-moved-into-every-wordpress-page-builder-breakdance-30-divi-oxygen-and-what-it-58ah)
+- [How far can you take machine learning in TypeScript?](https://dev.to/chaoyangnz/how-far-can-you-take-machine-learning-in-typescript-41ac)
+- [The Differences Between Sakana Chat&#39;s Two Models, &quot;Namazu&quot; and &quot;Fugu Max,&quot; and How to Choose](https://dev.to/moruku36/the-differences-between-sakana-chats-two-models-namazu-and-fugu-max-and-how-to-choose-pk8)
+- [Do You Need Kubernetes? A CTO Decision Guide to Cost, Risk and Alternatives](https://dev.to/senthil_kr/do-you-need-kubernetes-a-cto-decision-guide-to-cost-risk-and-alternatives-43ei)
+- [Why a video’s music dropped 14 dB while the mix meter barely moved](https://dev.to/valmera/why-a-videos-music-dropped-14-db-while-the-mix-meter-barely-moved-3kjf)
+- [Why a Node.js Transform error listener is not enough](https://dev.to/chriserodriguez/why-a-nodejs-transform-error-listener-is-not-enough-fnj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
