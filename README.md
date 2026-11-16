@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How far can you take machine learning in TypeScript?](https://dev.to/chaoyangnz/how-far-can-you-take-machine-learning-in-typescript-41ac)
-- [The Differences Between Sakana Chat&#39;s Two Models, &quot;Namazu&quot; and &quot;Fugu Max,&quot; and How to Choose](https://dev.to/moruku36/the-differences-between-sakana-chats-two-models-namazu-and-fugu-max-and-how-to-choose-pk8)
-- [Do You Need Kubernetes? A CTO Decision Guide to Cost, Risk and Alternatives](https://dev.to/senthil_kr/do-you-need-kubernetes-a-cto-decision-guide-to-cost-risk-and-alternatives-43ei)
-- [Why a video’s music dropped 14 dB while the mix meter barely moved](https://dev.to/valmera/why-a-videos-music-dropped-14-db-while-the-mix-meter-barely-moved-3kjf)
-- [Why a Node.js Transform error listener is not enough](https://dev.to/chriserodriguez/why-a-nodejs-transform-error-listener-is-not-enough-fnj)
+- [A job scheduler in two tables - recurring tasks inside a Uniface app](https://dev.to/f345345dfg/a-job-scheduler-in-two-tables-recurring-tasks-inside-a-uniface-app-1ilk)
+- [The 404 page on an online store: return a real 404, then actually help the person](https://dev.to/elias_0549e0e2ef8cf6ad89a/the-404-page-on-an-online-store-return-a-real-404-then-actually-help-the-person-5cp7)
+- [When AI Agents Fail After Success](https://dev.to/bhanuj-ai/when-ai-agents-fail-after-success-mfc)
+- [We Took a 105K-LOC Flutter App from Zero Tests to 2,583](https://dev.to/ghagsagar23/we-took-a-105k-loc-flutter-app-from-zero-tests-to-2583-i49)
+- [How to Build 121+ Client-Side File Extraction Tools in Vanilla JS &amp; WebAssembly](https://dev.to/devabrar99/how-to-build-121-client-side-file-extraction-tools-in-vanilla-js-webassembly-3j5p)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
