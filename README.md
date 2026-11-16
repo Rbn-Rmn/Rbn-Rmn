@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [A job scheduler in two tables - recurring tasks inside a Uniface app](https://dev.to/f345345dfg/a-job-scheduler-in-two-tables-recurring-tasks-inside-a-uniface-app-1ilk)
-- [The 404 page on an online store: return a real 404, then actually help the person](https://dev.to/elias_0549e0e2ef8cf6ad89a/the-404-page-on-an-online-store-return-a-real-404-then-actually-help-the-person-5cp7)
-- [When AI Agents Fail After Success](https://dev.to/bhanuj-ai/when-ai-agents-fail-after-success-mfc)
-- [We Took a 105K-LOC Flutter App from Zero Tests to 2,583](https://dev.to/ghagsagar23/we-took-a-105k-loc-flutter-app-from-zero-tests-to-2583-i49)
-- [How to Build 121+ Client-Side File Extraction Tools in Vanilla JS &amp; WebAssembly](https://dev.to/devabrar99/how-to-build-121-client-side-file-extraction-tools-in-vanilla-js-webassembly-3j5p)
+- [Zoho&#39;s Blended Agents Are Here: AI Handles the Routine, Humans Keep the Judgment — and the Licence Is Free](https://dev.to/paullovelace/zohos-blended-agents-are-here-ai-handles-the-routine-humans-keep-the-judgment-and-the-licence-2gj2)
+- [Naazhi: one app for notes, tasks, journal and chat across iPhone, iPad, Android, desktop and web](https://dev.to/nitheeshdr/naazhi-one-app-for-notes-tasks-journal-and-chat-across-iphone-ipad-android-desktop-and-web-1cmm)
+- [A Reproducible Workflow for Evaluating AI Writing Assistants](https://dev.to/aitopkit/a-reproducible-workflow-for-evaluating-ai-writing-assistants-c98)
+- [How to Translate Binary to Text &lpar;and Why Emoji Break Naive Decoders&rpar;](https://dev.to/thecodetranslator_147b60a/how-to-translate-binary-to-text-and-why-emoji-break-naive-decoders-aah)
+- [Env Isolation: How Do You Handle Dev/Staging/Prod with Azure CLI and Subscriptions?](https://dev.to/geekindata/env-isolation-how-do-you-handle-devstagingprod-with-azure-cli-and-subscriptions-15c2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
