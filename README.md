@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Zoho&#39;s Blended Agents Are Here: AI Handles the Routine, Humans Keep the Judgment — and the Licence Is Free](https://dev.to/paullovelace/zohos-blended-agents-are-here-ai-handles-the-routine-humans-keep-the-judgment-and-the-licence-2gj2)
-- [Naazhi: one app for notes, tasks, journal and chat across iPhone, iPad, Android, desktop and web](https://dev.to/nitheeshdr/naazhi-one-app-for-notes-tasks-journal-and-chat-across-iphone-ipad-android-desktop-and-web-1cmm)
-- [A Reproducible Workflow for Evaluating AI Writing Assistants](https://dev.to/aitopkit/a-reproducible-workflow-for-evaluating-ai-writing-assistants-c98)
-- [How to Translate Binary to Text &lpar;and Why Emoji Break Naive Decoders&rpar;](https://dev.to/thecodetranslator_147b60a/how-to-translate-binary-to-text-and-why-emoji-break-naive-decoders-aah)
-- [Env Isolation: How Do You Handle Dev/Staging/Prod with Azure CLI and Subscriptions?](https://dev.to/geekindata/env-isolation-how-do-you-handle-devstagingprod-with-azure-cli-and-subscriptions-15c2)
+- [TradingView UT Bot Strategy: Heikin Ashi Backtest Is Fake](https://dev.to/moonthetrain/tradingview-ut-bot-strategy-heikin-ashi-backtest-is-fake-5bb0)
+- [API Key Permissions for Trading Bots: Research, Demo and Live](https://dev.to/algorover/api-key-permissions-for-trading-bots-research-demo-and-live-3e8h)
+- [Perpetual Funding Fees: Calculate a 30-Day Holding Cost](https://dev.to/algorover/perpetual-funding-fees-calculate-a-30-day-holding-cost-473m)
+- [Cache-Aside with Memorystore: Serve the Same Product Page Without Asking the Database Every Time](https://dev.to/vishwa_7743ae1b748200b774/cache-aside-with-memorystore-serve-the-same-product-page-without-asking-the-database-every-time-22jd)
+- [Crypto Backtest Survivorship Bias: Are You Using Today&#39;s Coin List?](https://dev.to/algorover/crypto-backtest-survivorship-bias-are-you-using-todays-coin-list-2k9k)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
