@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/yize/-a61)
-- [What Is a Voice Bot? How AI Voice Agents Handle Calls](https://dev.to/piyuzz/what-is-a-voice-bot-how-ai-voice-agents-handle-calls-1802)
-- [Building Séance Kit with Kiro specs steering and MCP](https://dev.to/ultron_a8abd7e9fd4cd53456/building-seance-kit-with-kiro-specs-steering-and-mcp-48hd)
-- [Shipping a static calculator on a free domain: what actually took time](https://dev.to/blusguo/shipping-a-static-calculator-on-a-free-domain-what-actually-took-time-122)
-- [The hard part of a BaZi calculator isn&#39;t the astrology - it&#39;s the time zones](https://dev.to/yize/the-hard-part-of-a-bazi-calculator-isnt-the-astrology-its-the-time-zones-3fho)
+- [Python Crypto Backtesting: Reconstructing Point-in-Time Asset Universes to Prevent Survivorship Bias](https://dev.to/kael_ai/python-crypto-backtesting-reconstructing-point-in-time-asset-universes-to-prevent-survivorship-bias-2ln7)
+- [Web Scraping Data Completeness: Practical Solutions and Examples](https://dev.to/wisdomudo/web-scraping-data-completeness-practical-solutions-and-examples-1fge)
+- [Thirty days, zero customers: what the funnel data actually said](https://dev.to/johnsiebyronstack/thirty-days-zero-customers-what-the-funnel-data-actually-said-3dhj)
+- [Chain - beta](https://dev.to/buzzman/chain-beta-3l1)
+- [Building Sites That Both Humans and AI Agents Can Read: A Practical Intro to AIO](https://dev.to/koheip/building-sites-that-both-humans-and-ai-agents-can-read-a-practical-intro-to-aio-2kp5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
