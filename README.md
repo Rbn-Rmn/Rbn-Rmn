@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [TradingView UT Bot Strategy: Heikin Ashi Backtest Is Fake](https://dev.to/moonthetrain/tradingview-ut-bot-strategy-heikin-ashi-backtest-is-fake-5bb0)
-- [API Key Permissions for Trading Bots: Research, Demo and Live](https://dev.to/algorover/api-key-permissions-for-trading-bots-research-demo-and-live-3e8h)
-- [Perpetual Funding Fees: Calculate a 30-Day Holding Cost](https://dev.to/algorover/perpetual-funding-fees-calculate-a-30-day-holding-cost-473m)
-- [Cache-Aside with Memorystore: Serve the Same Product Page Without Asking the Database Every Time](https://dev.to/vishwa_7743ae1b748200b774/cache-aside-with-memorystore-serve-the-same-product-page-without-asking-the-database-every-time-22jd)
-- [Crypto Backtest Survivorship Bias: Are You Using Today&#39;s Coin List?](https://dev.to/algorover/crypto-backtest-survivorship-bias-are-you-using-todays-coin-list-2k9k)
+- [[Boost]](https://dev.to/yize/-a61)
+- [What Is a Voice Bot? How AI Voice Agents Handle Calls](https://dev.to/piyuzz/what-is-a-voice-bot-how-ai-voice-agents-handle-calls-1802)
+- [Building Séance Kit with Kiro specs steering and MCP](https://dev.to/ultron_a8abd7e9fd4cd53456/building-seance-kit-with-kiro-specs-steering-and-mcp-48hd)
+- [Shipping a static calculator on a free domain: what actually took time](https://dev.to/blusguo/shipping-a-static-calculator-on-a-free-domain-what-actually-took-time-122)
+- [The hard part of a BaZi calculator isn&#39;t the astrology - it&#39;s the time zones](https://dev.to/yize/the-hard-part-of-a-bazi-calculator-isnt-the-astrology-its-the-time-zones-3fho)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
