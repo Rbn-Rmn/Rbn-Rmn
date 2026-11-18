@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Understanding CSRF: How Attackers Trick Users Into Performing Unauthorized Actions](https://dev.to/rest/understanding-csrf-how-attackers-trick-users-into-performing-unauthorized-actions-33ef)
-- [I built a small macOS terminal that lets you take back a prompt you sent to Claude Code](https://dev.to/sooftware/i-built-a-small-macos-terminal-that-lets-you-take-back-a-prompt-you-sent-to-claude-code-2cae)
-- [Can an AI Assistant Read Your Election Office? We Checked All 50 States, DC and 35 Countries.](https://dev.to/x1y1co/can-an-ai-assistant-read-your-election-office-we-checked-all-50-states-dc-and-35-countries-4aa6)
-- [Course Narration as Code: Lint and Budget an E-Learning Voiceover in Python Before It Hits Murf](https://dev.to/jadenvo259/course-narration-as-code-lint-and-budget-an-e-learning-voiceover-in-python-before-it-hits-murf-2k1d)
-- [Meta Hackathon: IRON VR Call of Duty Game](https://dev.to/kyl67899/meta-hackathon-iron-vr-call-of-duty-game-3f4i)
+- [How I plan a week as a freelance developer with several clients](https://dev.to/opahdev/how-i-plan-a-week-as-a-freelance-developer-with-several-clients-5a0g)
+- [Obrázky na webe: formát, rozmer a váha](https://dev.to/kubryx_sro/obrazky-na-webe-format-rozmer-a-vaha-32mi)
+- [Measuring &#39;unblur&#39; tools against ground truth: sharper isn&#39;t closer](https://dev.to/aitoolweb/measuring-unblur-tools-against-ground-truth-sharper-isnt-closer-53fl)
+- [In 2005, two amateurs beat the grandmasters and the supercomputers. That&#39;s the whole case for hybrid intelligence.](https://dev.to/kmantheone/in-2005-two-amateurs-beat-the-grandmasters-and-the-supercomputers-thats-the-whole-case-for-36cn)
+- [Your default model is too big: start small and escalate only the hard requests](https://dev.to/m_t_ramkrushna/your-default-model-is-too-big-start-small-and-escalate-only-the-hard-requests-1e43)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
