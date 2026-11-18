@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How I plan a week as a freelance developer with several clients](https://dev.to/opahdev/how-i-plan-a-week-as-a-freelance-developer-with-several-clients-5a0g)
-- [Obrázky na webe: formát, rozmer a váha](https://dev.to/kubryx_sro/obrazky-na-webe-format-rozmer-a-vaha-32mi)
-- [Measuring &#39;unblur&#39; tools against ground truth: sharper isn&#39;t closer](https://dev.to/aitoolweb/measuring-unblur-tools-against-ground-truth-sharper-isnt-closer-53fl)
-- [In 2005, two amateurs beat the grandmasters and the supercomputers. That&#39;s the whole case for hybrid intelligence.](https://dev.to/kmantheone/in-2005-two-amateurs-beat-the-grandmasters-and-the-supercomputers-thats-the-whole-case-for-36cn)
-- [Your default model is too big: start small and escalate only the hard requests](https://dev.to/m_t_ramkrushna/your-default-model-is-too-big-start-small-and-escalate-only-the-hard-requests-1e43)
+- [CVE-2026-123007 no nginx: exposição via HTTP/2 e atualização](https://dev.to/guiadeti/cve-2026-123007-no-nginx-exposicao-via-http2-e-atualizacao-4iml)
+- [SEC Filing Monitoring: From EDGAR Updates to Verifiable Events](https://dev.to/everyinfrahq/sec-filing-monitoring-from-edgar-updates-to-verifiable-events-50k4)
+- [Why Math.random&lpar;&rpar; Is Unsafe for Password Generation &lpar;And What to Use Instead&rpar;](https://dev.to/ian_bishop_98bf15c6a498d4/why-mathrandom-is-unsafe-for-password-generation-and-what-to-use-instead-4a3)
+- [I Built a Study Planner That Refuses to Lie to Students](https://dev.to/image19imagecode/i-built-a-study-planner-that-refuses-to-lie-to-students-4j2b)
+- [Como Ler Códigos de Barras e QR Code Direto no Navegador &lpar;Client-side e sem app&rpar;](https://dev.to/craftrex/como-ler-codigos-de-barras-e-qr-code-direto-no-navegador-client-side-e-sem-app-4916)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
