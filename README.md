@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Python Crypto Backtesting: Reconstructing Point-in-Time Asset Universes to Prevent Survivorship Bias](https://dev.to/kael_ai/python-crypto-backtesting-reconstructing-point-in-time-asset-universes-to-prevent-survivorship-bias-2ln7)
-- [Web Scraping Data Completeness: Practical Solutions and Examples](https://dev.to/wisdomudo/web-scraping-data-completeness-practical-solutions-and-examples-1fge)
-- [Thirty days, zero customers: what the funnel data actually said](https://dev.to/johnsiebyronstack/thirty-days-zero-customers-what-the-funnel-data-actually-said-3dhj)
-- [Chain - beta](https://dev.to/buzzman/chain-beta-3l1)
-- [Building Sites That Both Humans and AI Agents Can Read: A Practical Intro to AIO](https://dev.to/koheip/building-sites-that-both-humans-and-ai-agents-can-read-a-practical-intro-to-aio-2kp5)
+- [Understanding CSRF: How Attackers Trick Users Into Performing Unauthorized Actions](https://dev.to/rest/understanding-csrf-how-attackers-trick-users-into-performing-unauthorized-actions-33ef)
+- [I built a small macOS terminal that lets you take back a prompt you sent to Claude Code](https://dev.to/sooftware/i-built-a-small-macos-terminal-that-lets-you-take-back-a-prompt-you-sent-to-claude-code-2cae)
+- [Can an AI Assistant Read Your Election Office? We Checked All 50 States, DC and 35 Countries.](https://dev.to/x1y1co/can-an-ai-assistant-read-your-election-office-we-checked-all-50-states-dc-and-35-countries-4aa6)
+- [Course Narration as Code: Lint and Budget an E-Learning Voiceover in Python Before It Hits Murf](https://dev.to/jadenvo259/course-narration-as-code-lint-and-budget-an-e-learning-voiceover-in-python-before-it-hits-murf-2k1d)
+- [Meta Hackathon: IRON VR Call of Duty Game](https://dev.to/kyl67899/meta-hackathon-iron-vr-call-of-duty-game-3f4i)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
