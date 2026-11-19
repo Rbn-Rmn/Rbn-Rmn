@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-123007 no nginx: exposição via HTTP/2 e atualização](https://dev.to/guiadeti/cve-2026-123007-no-nginx-exposicao-via-http2-e-atualizacao-4iml)
-- [SEC Filing Monitoring: From EDGAR Updates to Verifiable Events](https://dev.to/everyinfrahq/sec-filing-monitoring-from-edgar-updates-to-verifiable-events-50k4)
-- [Why Math.random&lpar;&rpar; Is Unsafe for Password Generation &lpar;And What to Use Instead&rpar;](https://dev.to/ian_bishop_98bf15c6a498d4/why-mathrandom-is-unsafe-for-password-generation-and-what-to-use-instead-4a3)
-- [I Built a Study Planner That Refuses to Lie to Students](https://dev.to/image19imagecode/i-built-a-study-planner-that-refuses-to-lie-to-students-4j2b)
-- [Como Ler Códigos de Barras e QR Code Direto no Navegador &lpar;Client-side e sem app&rpar;](https://dev.to/craftrex/como-ler-codigos-de-barras-e-qr-code-direto-no-navegador-client-side-e-sem-app-4916)
+- [Raising requires-python to 3.11 won&#39;t close your soupsieve alerts](https://dev.to/samuelrojasdev/raising-requires-python-to-311-wont-close-your-soupsieve-alerts-3gjc)
+- [How to Handle Europe SMS Alert Sender Registration &lpar;Inbound Report Support&rpar;](https://dev.to/benedictvance6863/how-to-handle-europe-sms-alert-sender-registration-inbound-report-support-45h1)
+- [Alternative Storage Providers: 4 Free-Tier Checks for Storing E-commerce User Files in 2026](https://dev.to/horatiofox1281/alternative-storage-providers-4-free-tier-checks-for-storing-e-commerce-user-files-in-2026-1p5h)
+- [Mitigating Elixir Zombie Processes &amp; BEAM VM Leaks](https://dev.to/bijaktechnology/mitigating-elixir-zombie-processes-beam-vm-leaks-cb8)
+- [What I learned from indexing roughly 500 agent skills](https://dev.to/jalvarado-exe/what-i-learned-from-indexing-roughly-500-agent-skills-i4e)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
