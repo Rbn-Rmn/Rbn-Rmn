@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Raising requires-python to 3.11 won&#39;t close your soupsieve alerts](https://dev.to/samuelrojasdev/raising-requires-python-to-311-wont-close-your-soupsieve-alerts-3gjc)
-- [How to Handle Europe SMS Alert Sender Registration &lpar;Inbound Report Support&rpar;](https://dev.to/benedictvance6863/how-to-handle-europe-sms-alert-sender-registration-inbound-report-support-45h1)
-- [Alternative Storage Providers: 4 Free-Tier Checks for Storing E-commerce User Files in 2026](https://dev.to/horatiofox1281/alternative-storage-providers-4-free-tier-checks-for-storing-e-commerce-user-files-in-2026-1p5h)
-- [Mitigating Elixir Zombie Processes &amp; BEAM VM Leaks](https://dev.to/bijaktechnology/mitigating-elixir-zombie-processes-beam-vm-leaks-cb8)
-- [What I learned from indexing roughly 500 agent skills](https://dev.to/jalvarado-exe/what-i-learned-from-indexing-roughly-500-agent-skills-i4e)
+- [How to remove the &quot;Made with AI&quot; label from a photo &lpar;what actually works&rpar;](https://dev.to/dylan_yu_7ffff00b5355942d/how-to-remove-the-made-with-ai-label-from-a-photo-what-actually-works-4icc)
+- [What automated accessibility tools miss, measured on three public reference sets](https://dev.to/reachableweb/what-automated-accessibility-tools-miss-measured-on-three-public-reference-sets-5622)
+- [Don&#39;t trust the algorithm a license declares](https://dev.to/zero_heartbeat_06a3625d7a/dont-trust-the-algorithm-a-license-declares-5bmf)
+- [How Glass rebuilds nested generic type names](https://dev.to/zero_heartbeat_06a3625d7a/how-glass-rebuilds-nested-generic-type-names-3igj)
+- [You Sent the Delivery Note Photos at Low Detail and the Model Read a Thumbnail](https://dev.to/sergueyasaelshinder/you-sent-the-delivery-note-photos-at-low-detail-and-the-model-read-a-thumbnail-21ci)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
