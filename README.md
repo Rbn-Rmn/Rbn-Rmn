@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to remove the &quot;Made with AI&quot; label from a photo &lpar;what actually works&rpar;](https://dev.to/dylan_yu_7ffff00b5355942d/how-to-remove-the-made-with-ai-label-from-a-photo-what-actually-works-4icc)
-- [What automated accessibility tools miss, measured on three public reference sets](https://dev.to/reachableweb/what-automated-accessibility-tools-miss-measured-on-three-public-reference-sets-5622)
-- [Don&#39;t trust the algorithm a license declares](https://dev.to/zero_heartbeat_06a3625d7a/dont-trust-the-algorithm-a-license-declares-5bmf)
-- [How Glass rebuilds nested generic type names](https://dev.to/zero_heartbeat_06a3625d7a/how-glass-rebuilds-nested-generic-type-names-3igj)
-- [You Sent the Delivery Note Photos at Low Detail and the Model Read a Thumbnail](https://dev.to/sergueyasaelshinder/you-sent-the-delivery-note-photos-at-low-detail-and-the-model-read-a-thumbnail-21ci)
+- [Why Domains Expire Silently, Not From Negligence](https://dev.to/andrewmolyuk/why-domains-expire-silently-not-from-negligence-2i93)
+- [How Java HashMap Works Internally: Hashing, Buckets, Collisions, Resizing and Performance](https://dev.to/ramthearchitect/how-java-hashmap-works-internally-hashing-buckets-collisions-resizing-and-performance-53mk)
+- [What ISO 42001 audit prep actually takes: 100+ AI projects from the provider side](https://dev.to/dtnghia/what-iso-42001-audit-prep-actually-takes-100-ai-projects-from-the-provider-side-fg4)
+- [Tokens and context windows: why your AI bill is 19 times bigger than you expected](https://dev.to/deployedlabs/tokens-and-context-windows-why-your-ai-bill-is-19-times-bigger-than-you-expected-32m4)
+- [Java4Shell &lpar;CVE-2026-114938&rpar; no Jenkins: como mitigar e corrigir](https://dev.to/guiadeti/java4shell-cve-2026-114938-no-jenkins-como-mitigar-e-corrigir-bj5)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
