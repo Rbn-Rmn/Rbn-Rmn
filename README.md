@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why Domains Expire Silently, Not From Negligence](https://dev.to/andrewmolyuk/why-domains-expire-silently-not-from-negligence-2i93)
-- [How Java HashMap Works Internally: Hashing, Buckets, Collisions, Resizing and Performance](https://dev.to/ramthearchitect/how-java-hashmap-works-internally-hashing-buckets-collisions-resizing-and-performance-53mk)
-- [What ISO 42001 audit prep actually takes: 100+ AI projects from the provider side](https://dev.to/dtnghia/what-iso-42001-audit-prep-actually-takes-100-ai-projects-from-the-provider-side-fg4)
-- [Tokens and context windows: why your AI bill is 19 times bigger than you expected](https://dev.to/deployedlabs/tokens-and-context-windows-why-your-ai-bill-is-19-times-bigger-than-you-expected-32m4)
-- [Java4Shell &lpar;CVE-2026-114938&rpar; no Jenkins: como mitigar e corrigir](https://dev.to/guiadeti/java4shell-cve-2026-114938-no-jenkins-como-mitigar-e-corrigir-bj5)
+- [GEONMI-MEMS-Zero-Heap-VLEO-Human-Centric-C2-19 Sovereign Operations](https://dev.to/kadritalal38/geonmi-mems-zero-heap-vleo-human-centric-c2-19-sovereign-operations-1n9c)
+- [An Enum Alias Does Not Add a Distinct Iteration Member](https://dev.to/tokenpeakai/an-enum-alias-does-not-add-a-distinct-iteration-member-2dl)
+- [Choosing .ai vs .io for a developer product: what minimum terms and renewal costs actually mean](https://dev.to/webcaa/choosing-ai-vs-io-for-a-developer-product-what-minimum-terms-and-renewal-costs-actually-mean-5fdb)
+- [The EN 16931 errors that reject most e-invoices, and how to fix them](https://dev.to/agence_exert/the-en-16931-errors-that-reject-most-e-invoices-and-how-to-fix-them-55e1)
+- [Lovable Website to App: What Apple Accepts](https://dev.to/batmanofweb/lovable-website-to-app-what-apple-accepts-4l74)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
