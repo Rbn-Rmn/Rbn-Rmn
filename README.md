@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Copy to clipboard without a library: navigator.clipboard and the fallback that still works](https://dev.to/mobeenahmedgondal/copy-to-clipboard-without-a-library-navigatorclipboard-and-the-fallback-that-still-works-9c2)
-- [How to Get Product Prices and Stock from Shopify and WooCommerce Stores &lpar;Python and No-Code&rpar;](https://dev.to/webobsidians/how-to-get-product-prices-and-stock-from-shopify-and-woocommerce-stores-python-and-no-code-hmk)
-- [How to Scrape Job Listings from Greenhouse, Lever and Ashby Career Pages &lpar;Python and No-Code&rpar;](https://dev.to/webobsidians/how-to-scrape-job-listings-from-greenhouse-lever-and-ashby-career-pages-python-and-no-code-10cb)
-- [How PERT Estimation Assists in Better Project Planning](https://dev.to/fancy_font_c3c0c272beddeb/how-pert-estimation-assists-in-better-project-planning-47pd)
-- [How to get every job from a company&#39;s careers page as JSON &lpar;Greenhouse, Lever, Ashby and 7 more&rpar;](https://dev.to/leung_38bc10e266499ba969/how-to-get-every-job-from-a-companys-careers-page-as-json-greenhouse-lever-ashby-and-7-more-2h84)
+- [Per-customer limits in a Python API: DRF&#39;s auth order and LiteLLM&#39;s token counts](https://dev.to/jackmally/per-customer-limits-in-a-python-api-drfs-auth-order-and-litellms-token-counts-1blf)
+- [Quick side project: reversing text cleanly in the browser](https://dev.to/saqlainx64/quick-side-project-reversing-text-cleanly-in-the-browser-15c1)
+- [Design a travel search system &lpar;Expedia&rpar;: the system design interview walkthrough](https://dev.to/gowthampotureddi/design-a-travel-search-system-expedia-the-system-design-interview-walkthrough-cpl)
+- [Keeping secrets out of agent prompts: how Vault and DLP fit together](https://dev.to/sandscale/keeping-secrets-out-of-agent-prompts-how-vault-and-dlp-fit-together-1bd8)
+- [Untangling Dependency Cycles in a Modular Laravel Monolith](https://dev.to/muhammadalimughal/untangling-dependency-cycles-in-a-modular-laravel-monolith-nl7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
