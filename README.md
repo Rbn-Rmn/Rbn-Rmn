@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [GEONMI-MEMS-Zero-Heap-VLEO-Human-Centric-C2-19 Sovereign Operations](https://dev.to/kadritalal38/geonmi-mems-zero-heap-vleo-human-centric-c2-19-sovereign-operations-1n9c)
-- [An Enum Alias Does Not Add a Distinct Iteration Member](https://dev.to/tokenpeakai/an-enum-alias-does-not-add-a-distinct-iteration-member-2dl)
-- [Choosing .ai vs .io for a developer product: what minimum terms and renewal costs actually mean](https://dev.to/webcaa/choosing-ai-vs-io-for-a-developer-product-what-minimum-terms-and-renewal-costs-actually-mean-5fdb)
-- [The EN 16931 errors that reject most e-invoices, and how to fix them](https://dev.to/agence_exert/the-en-16931-errors-that-reject-most-e-invoices-and-how-to-fix-them-55e1)
-- [Lovable Website to App: What Apple Accepts](https://dev.to/batmanofweb/lovable-website-to-app-what-apple-accepts-4l74)
+- [Copy to clipboard without a library: navigator.clipboard and the fallback that still works](https://dev.to/mobeenahmedgondal/copy-to-clipboard-without-a-library-navigatorclipboard-and-the-fallback-that-still-works-9c2)
+- [How to Get Product Prices and Stock from Shopify and WooCommerce Stores &lpar;Python and No-Code&rpar;](https://dev.to/webobsidians/how-to-get-product-prices-and-stock-from-shopify-and-woocommerce-stores-python-and-no-code-hmk)
+- [How to Scrape Job Listings from Greenhouse, Lever and Ashby Career Pages &lpar;Python and No-Code&rpar;](https://dev.to/webobsidians/how-to-scrape-job-listings-from-greenhouse-lever-and-ashby-career-pages-python-and-no-code-10cb)
+- [How PERT Estimation Assists in Better Project Planning](https://dev.to/fancy_font_c3c0c272beddeb/how-pert-estimation-assists-in-better-project-planning-47pd)
+- [How to get every job from a company&#39;s careers page as JSON &lpar;Greenhouse, Lever, Ashby and 7 more&rpar;](https://dev.to/leung_38bc10e266499ba969/how-to-get-every-job-from-a-companys-careers-page-as-json-greenhouse-lever-ashby-and-7-more-2h84)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
