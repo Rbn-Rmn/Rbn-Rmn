@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Per-customer limits in a Python API: DRF&#39;s auth order and LiteLLM&#39;s token counts](https://dev.to/jackmally/per-customer-limits-in-a-python-api-drfs-auth-order-and-litellms-token-counts-1blf)
-- [Quick side project: reversing text cleanly in the browser](https://dev.to/saqlainx64/quick-side-project-reversing-text-cleanly-in-the-browser-15c1)
-- [Design a travel search system &lpar;Expedia&rpar;: the system design interview walkthrough](https://dev.to/gowthampotureddi/design-a-travel-search-system-expedia-the-system-design-interview-walkthrough-cpl)
-- [Keeping secrets out of agent prompts: how Vault and DLP fit together](https://dev.to/sandscale/keeping-secrets-out-of-agent-prompts-how-vault-and-dlp-fit-together-1bd8)
-- [Untangling Dependency Cycles in a Modular Laravel Monolith](https://dev.to/muhammadalimughal/untangling-dependency-cycles-in-a-modular-laravel-monolith-nl7)
+- [Looking for feedback on my new website!](https://dev.to/epicpro7662/looking-for-feedback-on-my-new-website-a32)
+- [How to Run Long-Running AI Agents in Production &lpar;2026&rpar;: Runtime Limits, Durable State, and Surviving Restarts and Outages](https://dev.to/noahcontrolplane/how-to-run-long-running-ai-agents-in-production-2026-runtime-limits-durable-state-and-ahp)
+- [The Build Passed. He Still Owes the Explanation.](https://dev.to/puneet_nanda_dc25d8b489ad/the-build-passed-he-still-owes-the-explanation-4ee7)
+- [How to fix &quot;MCP: Unsupported protocol version&quot;](https://dev.to/greatworkco/how-to-fix-mcp-unsupported-protocol-version-3390)
+- [A public audit trail for AI agent jobs: reading job #1 on Base step by step](https://dev.to/armanalabs_b86b3803a4445c/a-public-audit-trail-for-ai-agent-jobs-reading-job-1-on-base-step-by-step-4ekl)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
