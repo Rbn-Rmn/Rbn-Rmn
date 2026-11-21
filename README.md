@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Looking for feedback on my new website!](https://dev.to/epicpro7662/looking-for-feedback-on-my-new-website-a32)
-- [How to Run Long-Running AI Agents in Production &lpar;2026&rpar;: Runtime Limits, Durable State, and Surviving Restarts and Outages](https://dev.to/noahcontrolplane/how-to-run-long-running-ai-agents-in-production-2026-runtime-limits-durable-state-and-ahp)
-- [The Build Passed. He Still Owes the Explanation.](https://dev.to/puneet_nanda_dc25d8b489ad/the-build-passed-he-still-owes-the-explanation-4ee7)
-- [How to fix &quot;MCP: Unsupported protocol version&quot;](https://dev.to/greatworkco/how-to-fix-mcp-unsupported-protocol-version-3390)
-- [A public audit trail for AI agent jobs: reading job #1 on Base step by step](https://dev.to/armanalabs_b86b3803a4445c/a-public-audit-trail-for-ai-agent-jobs-reading-job-1-on-base-step-by-step-4ekl)
+- [3MF vs STL for 3D Printing Multiple Parts](https://dev.to/shawn_lee_8d4afa8d6ff67ad/3mf-vs-stl-for-3d-printing-multiple-parts-1o4)
+- [Fiz as luzes RGB do meu PC mostrarem o que o Claude Code está fazendo](https://dev.to/joaoxavierdev/fiz-as-luzes-rgb-do-meu-pc-mostrarem-o-que-o-claude-code-esta-fazendo-kf4)
+- [Add Live Mermaid Diagrams to Your Technical Articles](https://dev.to/sanjay_singh_1/add-live-mermaid-diagrams-to-your-technical-articles-40im)
+- [Windows 11 Narrator Lock Screen 0-Day: BitLocker Risk](https://dev.to/devtalk94/windows-11-narrator-lock-screen-0-day-bitlocker-risk-7h6)
+- [Running Playwright behind residential proxies: 7 things that actually break](https://dev.to/jinfeng_li_597239b9d96bed/running-playwright-behind-residential-proxies-7-things-that-actually-break-19ff)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
