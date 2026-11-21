@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why your nightly AI tasks should not run in real time on Bedrock](https://dev.to/sascha-ms/why-your-nightly-ai-tasks-should-not-run-in-real-time-on-bedrock-4p88)
-- [Stop Ignoring npm audit: A Guide to Secure Node.js Apps](https://dev.to/saurav_tb_pandey/stop-ignoring-npm-audit-a-guide-to-secure-nodejs-apps-5504)
-- [The 33% CAGR Reality Check: Why Data Annotation Quality—Not Volume—Is Now the Real Bottleneck](https://dev.to/hagnostech/the-33-cagr-reality-check-why-data-annotation-quality-not-volume-is-now-the-real-bottleneck-1ei0)
-- [Best AI Agent Receipts: The Only Test Is Whether a Stranger Can Recheck One](https://dev.to/rambozambo/best-ai-agent-receipts-the-only-test-is-whether-a-stranger-can-recheck-one-345)
-- [UUID Gotchas: v4 vs v7, Index Bloat, and Other Things Worth Knowing](https://dev.to/sanjucse/uuid-gotchas-v4-vs-v7-index-bloat-and-other-things-worth-knowing-55ce)
+- [GPU Rent Jumped 15% in 5 Weeks: Rent CHEAP Before the Next Rise 👇](https://dev.to/ovulab/gpu-rent-jumped-15-in-5-weeks-rent-cheap-before-the-next-rise-dik)
+- [How to Scrape LinkedIn Job Postings Without Logging In &lpar;Python + API&rpar;](https://dev.to/tablewiseapps/how-to-scrape-linkedin-job-postings-without-logging-in-python-api-295b)
+- [I built a CI/CD gate that blocks energy regressions in Python — and refuses to lie about what it measured](https://dev.to/babarustyhz/i-built-a-cicd-gate-that-blocks-energy-regressions-in-python-and-refuses-to-lie-about-what-it-2635)
+- [ani-cli Kept Missing Episodes, So I Built a Go mpv Client](https://dev.to/yashh1323/ani-cli-kept-missing-episodes-so-i-built-a-go-mpv-client-49gm)
+- [This One Line Made My Python Queue 2,500x Slower &lpar;list.pop&lpar;0&rpar;&rpar;](https://dev.to/refactorly/this-one-line-made-my-python-queue-2500x-slower-listpop0-54cj)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
