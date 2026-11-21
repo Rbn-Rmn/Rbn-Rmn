@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [GPU Rent Jumped 15% in 5 Weeks: Rent CHEAP Before the Next Rise 👇](https://dev.to/ovulab/gpu-rent-jumped-15-in-5-weeks-rent-cheap-before-the-next-rise-dik)
-- [How to Scrape LinkedIn Job Postings Without Logging In &lpar;Python + API&rpar;](https://dev.to/tablewiseapps/how-to-scrape-linkedin-job-postings-without-logging-in-python-api-295b)
-- [I built a CI/CD gate that blocks energy regressions in Python — and refuses to lie about what it measured](https://dev.to/babarustyhz/i-built-a-cicd-gate-that-blocks-energy-regressions-in-python-and-refuses-to-lie-about-what-it-2635)
-- [ani-cli Kept Missing Episodes, So I Built a Go mpv Client](https://dev.to/yashh1323/ani-cli-kept-missing-episodes-so-i-built-a-go-mpv-client-49gm)
-- [This One Line Made My Python Queue 2,500x Slower &lpar;list.pop&lpar;0&rpar;&rpar;](https://dev.to/refactorly/this-one-line-made-my-python-queue-2500x-slower-listpop0-54cj)
+- [Customer Domain Support in Go: Why I Chose Apex Record Ownership](https://dev.to/liraelvex6403/customer-domain-support-in-go-why-i-chose-apex-record-ownership-56c2)
+- [German e-invoicing for developers: XRechnung and ZUGFeRD via REST API and MCP](https://dev.to/dominikschroeter/german-e-invoicing-for-developers-xrechnung-and-zugferd-via-rest-api-and-mcp-16dl)
+- [Introducing Draft Wink — My AI Website Builder Project](https://dev.to/feridoci/introducing-draft-wink-my-ai-website-builder-project-1mco)
+- [Transactional SMS Alerts: Compare Europe Provider Templates Before Pricing Reviews](https://dev.to/rasmusberg6592/transactional-sms-alerts-compare-europe-provider-templates-before-pricing-reviews-30gi)
+- [One Request Froze Our API for 26 Minutes. Its Timeout Never Fired.](https://dev.to/nabil_since_dev/one-request-froze-our-api-for-26-minutes-its-timeout-never-fired-49l2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
