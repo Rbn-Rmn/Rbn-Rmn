@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [3MF vs STL for 3D Printing Multiple Parts](https://dev.to/shawn_lee_8d4afa8d6ff67ad/3mf-vs-stl-for-3d-printing-multiple-parts-1o4)
-- [Fiz as luzes RGB do meu PC mostrarem o que o Claude Code está fazendo](https://dev.to/joaoxavierdev/fiz-as-luzes-rgb-do-meu-pc-mostrarem-o-que-o-claude-code-esta-fazendo-kf4)
-- [Add Live Mermaid Diagrams to Your Technical Articles](https://dev.to/sanjay_singh_1/add-live-mermaid-diagrams-to-your-technical-articles-40im)
-- [Windows 11 Narrator Lock Screen 0-Day: BitLocker Risk](https://dev.to/devtalk94/windows-11-narrator-lock-screen-0-day-bitlocker-risk-7h6)
-- [Running Playwright behind residential proxies: 7 things that actually break](https://dev.to/jinfeng_li_597239b9d96bed/running-playwright-behind-residential-proxies-7-things-that-actually-break-19ff)
+- [Why your nightly AI tasks should not run in real time on Bedrock](https://dev.to/sascha-ms/why-your-nightly-ai-tasks-should-not-run-in-real-time-on-bedrock-4p88)
+- [Stop Ignoring npm audit: A Guide to Secure Node.js Apps](https://dev.to/saurav_tb_pandey/stop-ignoring-npm-audit-a-guide-to-secure-nodejs-apps-5504)
+- [The 33% CAGR Reality Check: Why Data Annotation Quality—Not Volume—Is Now the Real Bottleneck](https://dev.to/hagnostech/the-33-cagr-reality-check-why-data-annotation-quality-not-volume-is-now-the-real-bottleneck-1ei0)
+- [Best AI Agent Receipts: The Only Test Is Whether a Stranger Can Recheck One](https://dev.to/rambozambo/best-ai-agent-receipts-the-only-test-is-whether-a-stranger-can-recheck-one-345)
+- [UUID Gotchas: v4 vs v7, Index Bloat, and Other Things Worth Knowing](https://dev.to/sanjucse/uuid-gotchas-v4-vs-v7-index-bloat-and-other-things-worth-knowing-55ce)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
