@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Customer Domain Support in Go: Why I Chose Apex Record Ownership](https://dev.to/liraelvex6403/customer-domain-support-in-go-why-i-chose-apex-record-ownership-56c2)
-- [German e-invoicing for developers: XRechnung and ZUGFeRD via REST API and MCP](https://dev.to/dominikschroeter/german-e-invoicing-for-developers-xrechnung-and-zugferd-via-rest-api-and-mcp-16dl)
-- [Introducing Draft Wink — My AI Website Builder Project](https://dev.to/feridoci/introducing-draft-wink-my-ai-website-builder-project-1mco)
-- [Transactional SMS Alerts: Compare Europe Provider Templates Before Pricing Reviews](https://dev.to/rasmusberg6592/transactional-sms-alerts-compare-europe-provider-templates-before-pricing-reviews-30gi)
-- [One Request Froze Our API for 26 Minutes. Its Timeout Never Fired.](https://dev.to/nabil_since_dev/one-request-froze-our-api-for-26-minutes-its-timeout-never-fired-49l2)
+- [meta-externalagent and meta-webindexer: crawlers were a third of my visitors](https://dev.to/mohamedgado/meta-externalagent-and-meta-webindexer-crawlers-were-a-third-of-my-visitors-4c3m)
+- [I built KaggleFleet to simplify collaborative Kaggle GPU workflows](https://dev.to/towhae/i-built-kagglefleet-to-simplify-collaborative-kaggle-gpu-workflows-bf7)
+- [For 61 Years, Kodak Ran on a 13-Month Calendar — So I Rebuilt It for 2027 in Vanilla JS](https://dev.to/er_carltz_ad2c0e2e57f54b3/for-61-years-kodak-ran-on-a-13-month-calendar-so-i-rebuilt-it-for-2027-in-vanilla-js-4ok2)
+- [What was the first production failure mode that broke your tool-calling AI agent?](https://dev.to/digbijoylabs/what-was-the-first-production-failure-mode-that-broke-your-tool-calling-ai-agent-1elj)
+- [Why Your Headless Browser Can&#39;t Scrape Everything](https://dev.to/hoelee/why-your-headless-browser-cant-scrape-everything-g1n)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
