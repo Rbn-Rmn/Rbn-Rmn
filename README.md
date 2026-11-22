@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [meta-externalagent and meta-webindexer: crawlers were a third of my visitors](https://dev.to/mohamedgado/meta-externalagent-and-meta-webindexer-crawlers-were-a-third-of-my-visitors-4c3m)
-- [I built KaggleFleet to simplify collaborative Kaggle GPU workflows](https://dev.to/towhae/i-built-kagglefleet-to-simplify-collaborative-kaggle-gpu-workflows-bf7)
-- [For 61 Years, Kodak Ran on a 13-Month Calendar — So I Rebuilt It for 2027 in Vanilla JS](https://dev.to/er_carltz_ad2c0e2e57f54b3/for-61-years-kodak-ran-on-a-13-month-calendar-so-i-rebuilt-it-for-2027-in-vanilla-js-4ok2)
-- [What was the first production failure mode that broke your tool-calling AI agent?](https://dev.to/digbijoylabs/what-was-the-first-production-failure-mode-that-broke-your-tool-calling-ai-agent-1elj)
-- [Why Your Headless Browser Can&#39;t Scrape Everything](https://dev.to/hoelee/why-your-headless-browser-cant-scrape-everything-g1n)
+- [My Mac media player is under 20 MB. Here&#39;s what I left out.](https://dev.to/meowvia/my-mac-media-player-is-under-20-mb-heres-what-i-left-out-21fe)
+- [Why I Built a 4.1 MB Native macOS Screen Recorder in Swift Instead of Using Electron](https://dev.to/hooosberg/why-i-built-a-41-mb-native-macos-screen-recorder-in-swift-instead-of-using-electron-17po)
+- [Python Day 10: Introduction to Looping and While Loop](https://dev.to/vasanthakumari_n/python-day-10-introduction-to-looping-and-while-loop-222o)
+- [Half of Europe&#39;s open tech jobs were posted more than 60 days ago](https://dev.to/vlad_grigoryan/half-of-europes-open-tech-jobs-were-posted-more-than-60-days-ago-2ica)
+- [Be exact about what you prove](https://dev.to/pratyushshivam/be-exact-about-what-you-prove-5c2d)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
