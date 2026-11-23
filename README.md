@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to check a Black Friday deal link before you click it](https://dev.to/scanify/how-to-check-a-black-friday-deal-link-before-you-click-it-552m)
-- [Designing a kill switch for AI agents: what it should stop, and how to know it works](https://dev.to/sandscale/designing-a-kill-switch-for-ai-agents-what-it-should-stop-and-how-to-know-it-works-7fe)
-- [GBase Database: Understanding Backslash Continuation in UNL Export Files](https://dev.to/mmllllzcn/gbase-database-understanding-backslash-continuation-in-unl-export-files-21pf)
-- [Trusted Data as Electricity: A Data Factory That Only Ships Verdicts With Reproducible Evidence](https://dev.to/correctover/trusted-data-as-electricity-a-data-factory-that-only-ships-verdicts-with-reproducible-evidence-2hkh)
-- [Bit Length Is Not a Format: Five 34-Bit Layouts](https://dev.to/toolstead/bit-length-is-not-a-format-five-34-bit-layouts-5gg8)
+- [Firestore Offset vs. Cursor Pagination: Cut Read Costs](https://dev.to/doogal/firestore-offset-vs-cursor-pagination-cut-read-costs-55hh)
+- [The Links You Promised in the Episode Never Make It to the Show Notes](https://dev.to/robinberaud/the-links-you-promised-in-the-episode-never-make-it-to-the-show-notes-19n5)
+- [SABnzbd&#39;s Sorter Trusted NZB Metadata as a Filesystem Path](https://dev.to/ioneyrezende/sabnzbds-sorter-trusted-nzb-metadata-as-a-filesystem-path-2o24)
+- [How to Do Database Migrations Without Downtime at Scale](https://dev.to/ayinedjimi-consultants/how-to-do-database-migrations-without-downtime-at-scale-37pg)
+- [How to get Codex Desktop worktrees working again after an SSH reconnect](https://dev.to/brisbanewebdeveloper/how-to-get-codex-desktop-worktrees-working-again-after-an-ssh-reconnect-3996)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
