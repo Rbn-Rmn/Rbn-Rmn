@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [How to use Ollama and LM Studio models as real agents with tools on a Mac](https://dev.to/joexk1/how-to-use-ollama-and-lm-studio-models-as-real-agents-with-tools-on-a-mac-3340)
-- [Node.js Signed Uploads for Expiring Support Documents &lpar;with Private Object Storage&rpar;](https://dev.to/leopoldholm3736/nodejs-signed-uploads-for-expiring-support-documents-with-private-object-storage-1l8a)
-- [AI Automation for Product Managers: What to Automate, Assist and Own](https://dev.to/fathy_shalaby/ai-automation-for-product-managers-what-to-automate-assist-and-own-4k72)
-- [Your First Hackathon: How to Survive 24 to 36 Hours of Chaos &lpar;and Actually Enjoy It&rpar;](https://dev.to/adhikareeprayush/your-first-hackathon-how-to-survive-24-to-36-hours-of-chaos-and-actually-enjoy-it-55cj)
-- [What Product Managers Should Never Delegate to AI: 7 Decisions](https://dev.to/fathy_shalaby/what-product-managers-should-never-delegate-to-ai-7-decisions-mem)
+- [How to check a Black Friday deal link before you click it](https://dev.to/scanify/how-to-check-a-black-friday-deal-link-before-you-click-it-552m)
+- [Designing a kill switch for AI agents: what it should stop, and how to know it works](https://dev.to/sandscale/designing-a-kill-switch-for-ai-agents-what-it-should-stop-and-how-to-know-it-works-7fe)
+- [GBase Database: Understanding Backslash Continuation in UNL Export Files](https://dev.to/mmllllzcn/gbase-database-understanding-backslash-continuation-in-unl-export-files-21pf)
+- [Trusted Data as Electricity: A Data Factory That Only Ships Verdicts With Reproducible Evidence](https://dev.to/correctover/trusted-data-as-electricity-a-data-factory-that-only-ships-verdicts-with-reproducible-evidence-2hkh)
+- [Bit Length Is Not a Format: Five 34-Bit Layouts](https://dev.to/toolstead/bit-length-is-not-a-format-five-34-bit-layouts-5gg8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
