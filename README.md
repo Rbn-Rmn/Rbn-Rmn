@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Firestore Offset vs. Cursor Pagination: Cut Read Costs](https://dev.to/doogal/firestore-offset-vs-cursor-pagination-cut-read-costs-55hh)
-- [The Links You Promised in the Episode Never Make It to the Show Notes](https://dev.to/robinberaud/the-links-you-promised-in-the-episode-never-make-it-to-the-show-notes-19n5)
-- [SABnzbd&#39;s Sorter Trusted NZB Metadata as a Filesystem Path](https://dev.to/ioneyrezende/sabnzbds-sorter-trusted-nzb-metadata-as-a-filesystem-path-2o24)
-- [How to Do Database Migrations Without Downtime at Scale](https://dev.to/ayinedjimi-consultants/how-to-do-database-migrations-without-downtime-at-scale-37pg)
-- [How to get Codex Desktop worktrees working again after an SSH reconnect](https://dev.to/brisbanewebdeveloper/how-to-get-codex-desktop-worktrees-working-again-after-an-ssh-reconnect-3996)
+- [Cohort Error Tracking: Practical Threshold Rules for Polling Support Alerts](https://dev.to/nyxenl29/cohort-error-tracking-practical-threshold-rules-for-polling-support-alerts-1ij1)
+- [Why Bilingual Subtitles Are the Cheapest Watch-Time Win on YouTube](https://dev.to/rickyliroot/why-bilingual-subtitles-are-the-cheapest-watch-time-win-on-youtube-2i7j)
+- [Abliterated vs Uncensored vs Jailbroken: What Security Teams Actually Need](https://dev.to/commentllm/abliterated-vs-uncensored-vs-jailbroken-what-security-teams-actually-need-jm7)
+- [Web App Report Upload Control: Presigned URLs or Proxy Backend &lpar;An SRE Runbook&rpar;](https://dev.to/ulricdonovan1564/web-app-report-upload-control-presigned-urls-or-proxy-backend-an-sre-runbook-2jld)
+- [Missing Password Reset Email Links and HTML Encoding &lpar;With Bounded Support Telemetry&rpar;](https://dev.to/daltonreed1289/missing-password-reset-email-links-and-html-encoding-with-bounded-support-telemetry-4efl)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
