@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [One editor window quietly loaded every worktree I opened](https://dev.to/omerbinsaleem/one-editor-window-quietly-loaded-every-worktree-i-opened-4a4j)
-- [Self-driving cars that learn by deep Q-learning, with drift and reverse, in pure KingCobra](https://dev.to/divyanshusinha136/self-driving-cars-that-learn-by-deep-q-learning-with-drift-and-reverse-in-pure-kingcobra-25j3)
-- [☁️ Where does all the data in cloud applications actually get stored?](https://dev.to/raj_goud_505780164daa76b7/where-does-all-the-data-in-cloud-applications-actually-get-stored-4oki)
-- [I built an app that turns a trip&#39;s worth of clips and photos into one movie at the length you pick](https://dev.to/roamovie/i-built-an-app-that-turns-a-trips-worth-of-clips-and-photos-into-one-movie-at-the-length-you-pick-3a2)
-- [Build Your First MCP Server in Python &lpar;and Give Claude Your Database&rpar;](https://dev.to/refactorly/build-your-first-mcp-server-in-python-and-give-claude-your-database-id4)
+- [Which JavaScript table library? We built the same table nine times so you don&#39;t have to](https://dev.to/datopian/which-javascript-table-library-we-built-the-same-table-nine-times-so-you-dont-have-to-ej2)
+- [The Decentralization Spectrum: How Decentralized Can Social Media Really Get?](https://dev.to/riftn/the-decentralization-spectrum-how-decentralized-can-social-media-really-get-3e5p)
+- [10 Prompt Engineering Tools I Think Every Developer Should Know](https://dev.to/devstackhub/10-prompt-engineering-tools-i-think-every-developer-should-know-1lia)
+- [4 Things I Do Differently Now That AI Writes My Code](https://dev.to/nemesiscodex/4-things-i-do-differently-now-that-ai-writes-my-code-119m)
+- [Configuring Neovim from scratch so it can grow with you](https://dev.to/pqc182/configuring-neovim-from-scratch-so-it-can-grow-with-you-1nf0)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
