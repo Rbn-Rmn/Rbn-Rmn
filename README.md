@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Cohort Error Tracking: Practical Threshold Rules for Polling Support Alerts](https://dev.to/nyxenl29/cohort-error-tracking-practical-threshold-rules-for-polling-support-alerts-1ij1)
-- [Why Bilingual Subtitles Are the Cheapest Watch-Time Win on YouTube](https://dev.to/rickyliroot/why-bilingual-subtitles-are-the-cheapest-watch-time-win-on-youtube-2i7j)
-- [Abliterated vs Uncensored vs Jailbroken: What Security Teams Actually Need](https://dev.to/commentllm/abliterated-vs-uncensored-vs-jailbroken-what-security-teams-actually-need-jm7)
-- [Web App Report Upload Control: Presigned URLs or Proxy Backend &lpar;An SRE Runbook&rpar;](https://dev.to/ulricdonovan1564/web-app-report-upload-control-presigned-urls-or-proxy-backend-an-sre-runbook-2jld)
-- [Missing Password Reset Email Links and HTML Encoding &lpar;With Bounded Support Telemetry&rpar;](https://dev.to/daltonreed1289/missing-password-reset-email-links-and-html-encoding-with-bounded-support-telemetry-4efl)
+- [One editor window quietly loaded every worktree I opened](https://dev.to/omerbinsaleem/one-editor-window-quietly-loaded-every-worktree-i-opened-4a4j)
+- [Self-driving cars that learn by deep Q-learning, with drift and reverse, in pure KingCobra](https://dev.to/divyanshusinha136/self-driving-cars-that-learn-by-deep-q-learning-with-drift-and-reverse-in-pure-kingcobra-25j3)
+- [☁️ Where does all the data in cloud applications actually get stored?](https://dev.to/raj_goud_505780164daa76b7/where-does-all-the-data-in-cloud-applications-actually-get-stored-4oki)
+- [I built an app that turns a trip&#39;s worth of clips and photos into one movie at the length you pick](https://dev.to/roamovie/i-built-an-app-that-turns-a-trips-worth-of-clips-and-photos-into-one-movie-at-the-length-you-pick-3a2)
+- [Build Your First MCP Server in Python &lpar;and Give Claude Your Database&rpar;](https://dev.to/refactorly/build-your-first-mcp-server-in-python-and-give-claude-your-database-id4)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
