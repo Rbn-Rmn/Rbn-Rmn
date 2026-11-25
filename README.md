@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The Agent Knows. It Just Doesn’t Always Do It](https://dev.to/testingil/the-agent-knows-it-just-doesnt-always-do-it-2hcl)
-- [Top Web Application Firewall &lpar;WAF&rpar; Platforms: Features, Pros, Cons &amp; Comparison](https://dev.to/johndivam/top-web-application-firewall-waf-platforms-features-pros-cons-comparison-1edc)
-- [How to Add Trust Badges to a Shopify Product Page Without an App](https://dev.to/cssliquidsforshopify/how-to-add-trust-badges-to-a-shopify-product-page-without-an-app-ef6)
-- [Why composer update Failed Twice — The Trap of a Server with Two File Owners](https://dev.to/pythona/why-composer-update-failed-twice-the-trap-of-a-server-with-two-file-owners-3h7m)
-- [Installing GBase 8a When sshd Uses a Non-Default Port](https://dev.to/michaelfv/installing-gbase-8a-when-sshd-uses-a-non-default-port-4baa)
+- [GitHub Actions paths Filter: Why Required Checks Stay Pending Forever](https://dev.to/ji_ai/github-actions-paths-filter-why-required-checks-stay-pending-forever-3gd7)
+- [Wan 2.2 in native ComfyUI: 5B versus 14B, acceleration and gain ablations](https://dev.to/ai-ksk/wan-22-in-native-comfyui-5b-versus-14b-acceleration-and-gain-ablations-29fe)
+- [The office should not have to guess what happened on site](https://dev.to/fusionaldev/the-office-should-not-have-to-guess-what-happened-on-site-56ji)
+- [ComfyUI-NAG: dedicated negative guidance across Chroma, Wan, Flux and Kontext](https://dev.to/ai-ksk/comfyui-nag-dedicated-negative-guidance-across-chroma-wan-flux-and-kontext-3741)
+- [What an Intermittent SQLite Lock Taught Us About Building Local-First Software](https://dev.to/lorqai/what-an-intermittent-sqlite-lock-taught-us-about-building-local-first-software-k3l)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
