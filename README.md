@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Which JavaScript table library? We built the same table nine times so you don&#39;t have to](https://dev.to/datopian/which-javascript-table-library-we-built-the-same-table-nine-times-so-you-dont-have-to-ej2)
-- [The Decentralization Spectrum: How Decentralized Can Social Media Really Get?](https://dev.to/riftn/the-decentralization-spectrum-how-decentralized-can-social-media-really-get-3e5p)
-- [10 Prompt Engineering Tools I Think Every Developer Should Know](https://dev.to/devstackhub/10-prompt-engineering-tools-i-think-every-developer-should-know-1lia)
-- [4 Things I Do Differently Now That AI Writes My Code](https://dev.to/nemesiscodex/4-things-i-do-differently-now-that-ai-writes-my-code-119m)
-- [Configuring Neovim from scratch so it can grow with you](https://dev.to/pqc182/configuring-neovim-from-scratch-so-it-can-grow-with-you-1nf0)
+- [When ubiattach Fails with &quot;error 22 &lpar;Invalid argument&rpar;&quot;: The Cause Is in the Kernel Log](https://dev.to/inkuriment/when-ubiattach-fails-with-error-22-invalid-argument-the-cause-is-in-the-kernel-log-kce)
+- [被社群吞噬的青春：操控型社群如何摧毀年輕人的人生](https://dev.to/martindd/bei-she-qun-tun-shi-de-qing-chun-cao-kong-xing-she-qun-ru-he-cui-hui-nian-qing-ren-de-ren-sheng-51j)
+- [How I Built 3 Zero-Auth Remote MCP Servers on Cloudflare Pages Functions &lpar;Scoring 98/100 on mcptry&rpar;](https://dev.to/samsalig/how-i-built-3-zero-auth-remote-mcp-servers-on-cloudflare-pages-functions-scoring-98100-on-mcptry-mb0)
+- [وكلاء الذكاء الاصطناعي بإشراف بشري لتغييرات إنتاجية أكثر أمانًا](https://dev.to/yusuf_khalidd/wkl-ldhk-lstny-bshrf-bshry-ltgyyrt-ntjy-kthr-mnan-mf)
+- [SVG, PNG or ICO: which favicon format belongs in which place](https://dev.to/faviconnow/svg-png-or-ico-which-favicon-format-belongs-in-which-place-4e87)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
