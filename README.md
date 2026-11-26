@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [The 80/20 Token Rule for Coding Agents: Why 80% of Claude Code Turns Don&#39;t Need a Frontier Model](https://dev.to/bennialencar/the-8020-token-rule-for-coding-agents-why-80-of-claude-code-turns-dont-need-a-frontier-model-4312)
-- [Inside Anthropic&#39;s /v1/messages Wire Protocol: Building Zero-Latency Local Proxy Routers and Semantic Prefix Caches](https://dev.to/bennialencar/inside-anthropics-v1messages-wire-protocol-building-zero-latency-local-proxy-routers-and-44e)
-- [Hybrid Local-Cloud Routing for Claude Code: Cutting API Costs by 75% with ANTHROPIC_BASE_URL and AST Context Compaction](https://dev.to/bennialencar/hybrid-local-cloud-routing-for-claude-code-cutting-api-costs-by-75-with-anthropicbaseurl-and-n4b)
-- [How to Add CAPTCHA to React &amp; Next.js Forms Without External Services](https://dev.to/joodi/how-to-add-captcha-to-react-nextjs-forms-without-external-services-2c3k)
-- [Self-Hosted LLM: How to Host Your Own LLM](https://dev.to/manojsethi/self-hosted-llm-how-to-host-your-own-llm-4e2)
+- [AngularJS still in your app? The readers your compiler cannot see](https://dev.to/adilbenmoussa/angularjs-still-in-your-app-the-readers-your-compiler-cannot-see-3810)
+- [Telegram&#39;s web preview sometimes forgets who a post was forwarded from](https://dev.to/itsblimbo/telegrams-web-preview-sometimes-forgets-who-a-post-was-forwarded-from-5ci7)
+- [Launch Is Day One: What It Really Takes to Run an AI Product for Years](https://dev.to/fabiancooper/launch-is-day-one-what-it-really-takes-to-run-an-ai-product-for-years-k84)
+- [Principles Don&#39;t Ship: Making Responsible AI an Operating Practice](https://dev.to/fabiancooper/principles-dont-ship-making-responsible-ai-an-operating-practice-mfk)
+- [Hire for Judgment, Not Prompts: How to Build an AI Team That Outlasts the Hype](https://dev.to/fabiancooper/hire-for-judgment-not-prompts-how-to-build-an-ai-team-that-outlasts-the-hype-47n1)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
