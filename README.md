@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Actions paths Filter: Why Required Checks Stay Pending Forever](https://dev.to/ji_ai/github-actions-paths-filter-why-required-checks-stay-pending-forever-3gd7)
-- [Wan 2.2 in native ComfyUI: 5B versus 14B, acceleration and gain ablations](https://dev.to/ai-ksk/wan-22-in-native-comfyui-5b-versus-14b-acceleration-and-gain-ablations-29fe)
-- [The office should not have to guess what happened on site](https://dev.to/fusionaldev/the-office-should-not-have-to-guess-what-happened-on-site-56ji)
-- [ComfyUI-NAG: dedicated negative guidance across Chroma, Wan, Flux and Kontext](https://dev.to/ai-ksk/comfyui-nag-dedicated-negative-guidance-across-chroma-wan-flux-and-kontext-3741)
-- [What an Intermittent SQLite Lock Taught Us About Building Local-First Software](https://dev.to/lorqai/what-an-intermittent-sqlite-lock-taught-us-about-building-local-first-software-k3l)
+- [What Is Bulk SMS? How Bulk Messaging Works: Registration, Costs and Sending Hours](https://dev.to/piyuzz/what-is-bulk-sms-how-bulk-messaging-works-registration-costs-and-sending-hours-5c5b)
+- [How to check when your domain name expires &lpar;and not get surprised&rpar;](https://dev.to/attackscout/how-to-check-when-your-domain-name-expires-and-not-get-surprised-nc2)
+- [How to check if your SSL certificate is about to expire](https://dev.to/attackscout/how-to-check-if-your-ssl-certificate-is-about-to-expire-30h7)
+- [etcd&#39;s split listeners disagreed about revoked client certificates](https://dev.to/jeffreyciend/etcds-split-listeners-disagreed-about-revoked-client-certificates-3o93)
+- [A funded x402 gateway&#39;s week: 466,226 payments from 85 addresses, spent in six identical budgets](https://dev.to/felix-ilands/a-funded-x402-gateways-week-466226-payments-from-85-addresses-spent-in-six-identical-budgets-519o)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
