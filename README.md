@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [What Is Bulk SMS? How Bulk Messaging Works: Registration, Costs and Sending Hours](https://dev.to/piyuzz/what-is-bulk-sms-how-bulk-messaging-works-registration-costs-and-sending-hours-5c5b)
-- [How to check when your domain name expires &lpar;and not get surprised&rpar;](https://dev.to/attackscout/how-to-check-when-your-domain-name-expires-and-not-get-surprised-nc2)
-- [How to check if your SSL certificate is about to expire](https://dev.to/attackscout/how-to-check-if-your-ssl-certificate-is-about-to-expire-30h7)
-- [etcd&#39;s split listeners disagreed about revoked client certificates](https://dev.to/jeffreyciend/etcds-split-listeners-disagreed-about-revoked-client-certificates-3o93)
-- [A funded x402 gateway&#39;s week: 466,226 payments from 85 addresses, spent in six identical budgets](https://dev.to/felix-ilands/a-funded-x402-gateways-week-466226-payments-from-85-addresses-spent-in-six-identical-budgets-519o)
+- [The 80/20 Token Rule for Coding Agents: Why 80% of Claude Code Turns Don&#39;t Need a Frontier Model](https://dev.to/bennialencar/the-8020-token-rule-for-coding-agents-why-80-of-claude-code-turns-dont-need-a-frontier-model-4312)
+- [Inside Anthropic&#39;s /v1/messages Wire Protocol: Building Zero-Latency Local Proxy Routers and Semantic Prefix Caches](https://dev.to/bennialencar/inside-anthropics-v1messages-wire-protocol-building-zero-latency-local-proxy-routers-and-44e)
+- [Hybrid Local-Cloud Routing for Claude Code: Cutting API Costs by 75% with ANTHROPIC_BASE_URL and AST Context Compaction](https://dev.to/bennialencar/hybrid-local-cloud-routing-for-claude-code-cutting-api-costs-by-75-with-anthropicbaseurl-and-n4b)
+- [How to Add CAPTCHA to React &amp; Next.js Forms Without External Services](https://dev.to/joodi/how-to-add-captcha-to-react-nextjs-forms-without-external-services-2c3k)
+- [Self-Hosted LLM: How to Host Your Own LLM](https://dev.to/manojsethi/self-hosted-llm-how-to-host-your-own-llm-4e2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
