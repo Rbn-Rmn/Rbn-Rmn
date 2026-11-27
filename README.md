@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [AngularJS still in your app? The readers your compiler cannot see](https://dev.to/adilbenmoussa/angularjs-still-in-your-app-the-readers-your-compiler-cannot-see-3810)
-- [Telegram&#39;s web preview sometimes forgets who a post was forwarded from](https://dev.to/itsblimbo/telegrams-web-preview-sometimes-forgets-who-a-post-was-forwarded-from-5ci7)
-- [Launch Is Day One: What It Really Takes to Run an AI Product for Years](https://dev.to/fabiancooper/launch-is-day-one-what-it-really-takes-to-run-an-ai-product-for-years-k84)
-- [Principles Don&#39;t Ship: Making Responsible AI an Operating Practice](https://dev.to/fabiancooper/principles-dont-ship-making-responsible-ai-an-operating-practice-mfk)
-- [Hire for Judgment, Not Prompts: How to Build an AI Team That Outlasts the Hype](https://dev.to/fabiancooper/hire-for-judgment-not-prompts-how-to-build-an-ai-team-that-outlasts-the-hype-47n1)
+- [CVE-2026-123168 Shows Why Privileged Serv-U Accounts Need Tighter Control](https://dev.to/andreagomez/cve-2026-123168-shows-why-privileged-serv-u-accounts-need-tighter-control-48i2)
+- [A LlamaIndex.TS data agent that runs its Python in a Sandscale sandbox](https://dev.to/sandscale/a-llamaindexts-data-agent-that-runs-its-python-in-a-sandscale-sandbox-4e4e)
+- [A Least-Privilege Review for CVE-2026-123168](https://dev.to/johnettagaweraks/a-least-privilege-review-for-cve-2026-123168-3ik2)
+- [Node.js SMS Alerts API: Compare SaaS Contact Routing Through Observable Escalations](https://dev.to/evanshepherd5623/nodejs-sms-alerts-api-compare-saas-contact-routing-through-observable-escalations-4945)
+- [Improving Prefect Authentication in Datadog](https://dev.to/darshan_patil_661bbdbcacf/improving-prefect-authentication-in-datadog-m1g)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
