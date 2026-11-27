@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-123168 Shows Why Privileged Serv-U Accounts Need Tighter Control](https://dev.to/andreagomez/cve-2026-123168-shows-why-privileged-serv-u-accounts-need-tighter-control-48i2)
-- [A LlamaIndex.TS data agent that runs its Python in a Sandscale sandbox](https://dev.to/sandscale/a-llamaindexts-data-agent-that-runs-its-python-in-a-sandscale-sandbox-4e4e)
-- [A Least-Privilege Review for CVE-2026-123168](https://dev.to/johnettagaweraks/a-least-privilege-review-for-cve-2026-123168-3ik2)
-- [Node.js SMS Alerts API: Compare SaaS Contact Routing Through Observable Escalations](https://dev.to/evanshepherd5623/nodejs-sms-alerts-api-compare-saas-contact-routing-through-observable-escalations-4945)
-- [Improving Prefect Authentication in Datadog](https://dev.to/darshan_patil_661bbdbcacf/improving-prefect-authentication-in-datadog-m1g)
+- [Testing a Windows-to-Mac remote desktop setup in 10 minutes &lpar;a free-trial checklist&rpar;](https://dev.to/hssolution/testing-a-windows-to-mac-remote-desktop-setup-in-10-minutes-a-free-trial-checklist-3m8b)
+- [Vertical Chinese and Japanese OCR: a benchmark of Apify Store OCR Actors](https://dev.to/paulexi/vertical-chinese-and-japanese-ocr-a-benchmark-of-apify-store-ocr-actors-49ni)
+- [Python learning series | list Programs solving](https://dev.to/ajay_056/python-learning-series-list-programs-solving-1ij0)
+- [Hobbyist Seeks Upgrade Recommendations for Compact Home Server and Networking Setup Supervised by Pets](https://dev.to/elenbit/hobbyist-seeks-upgrade-recommendations-for-compact-home-server-and-networking-setup-supervised-by-3e2e)
+- [Kruti Dev to Unicode: Converting Old Hindi Text to Clean Unicode in Your Browser](https://dev.to/foilcalculator/kruti-dev-to-unicode-converting-old-hindi-text-to-clean-unicode-in-your-browser-80g)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
