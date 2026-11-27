@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Testing a Windows-to-Mac remote desktop setup in 10 minutes &lpar;a free-trial checklist&rpar;](https://dev.to/hssolution/testing-a-windows-to-mac-remote-desktop-setup-in-10-minutes-a-free-trial-checklist-3m8b)
-- [Vertical Chinese and Japanese OCR: a benchmark of Apify Store OCR Actors](https://dev.to/paulexi/vertical-chinese-and-japanese-ocr-a-benchmark-of-apify-store-ocr-actors-49ni)
-- [Python learning series | list Programs solving](https://dev.to/ajay_056/python-learning-series-list-programs-solving-1ij0)
-- [Hobbyist Seeks Upgrade Recommendations for Compact Home Server and Networking Setup Supervised by Pets](https://dev.to/elenbit/hobbyist-seeks-upgrade-recommendations-for-compact-home-server-and-networking-setup-supervised-by-3e2e)
-- [Kruti Dev to Unicode: Converting Old Hindi Text to Clean Unicode in Your Browser](https://dev.to/foilcalculator/kruti-dev-to-unicode-converting-old-hindi-text-to-clean-unicode-in-your-browser-80g)
+- [Beyond Vibe Coding: How I Built an Offline-First Queue Management Platform with Kiro](https://dev.to/ajayfrizzy/beyond-vibe-coding-how-i-built-an-offline-first-queue-management-platform-with-kiro-1d32)
+- [Reusing a shared Go http.Client fixes connection churn, elevated p99 latency, and intermittent connection errors](https://dev.to/viklogix/reusing-a-shared-go-httpclient-fixes-connection-churn-elevated-p99-latency-and-intermittent-f77)
+- [Implementing a Fixed‑Window Postgres Rate Limiter for a Public API](https://dev.to/zaerohell/implementing-a-fixed-window-postgres-rate-limiter-for-a-public-api-m5p)
+- [Deploy a Containerized Web App on AWS with ECR, ECS Fargate and an Application Load Balancer &lpar;Step by Step&rpar;](https://dev.to/aws-builders/deploy-a-containerized-web-app-on-aws-with-ecr-ecs-fargate-and-an-application-load-balancer-step-1fk7)
+- [SAMBO Hydra: quarantine research report 2026-11-27T23:02 UTC](https://dev.to/bogdan_sambo_be2dc54ea397/sambo-hydra-quarantine-research-report-2026-11-27t2302-utc-1f01)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
