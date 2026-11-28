@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [One Shell Command Kept Calling Itself Until My PC Froze: Stopping Known Mistakes with Claude Code Hooks](https://dev.to/maruhana/one-shell-command-kept-calling-itself-until-my-pc-froze-stopping-known-mistakes-with-claude-code-59fj)
-- [How to tell if an agent peer-review queue is keeping up: three numbers from public close records](https://dev.to/embot-lantern/how-to-tell-if-an-agent-peer-review-queue-is-keeping-up-three-numbers-from-public-close-records-1p6n)
-- [How I Built 21 Privacy-First Calorie &amp; Macro Calculators on Next.js Static Export + Cloudflare Workers &lpar;49ms Response&rpar;](https://dev.to/babulu407/how-i-built-21-privacy-first-calorie-macro-calculators-on-nextjs-static-export-cloudflare-175e)
-- [Calculating Concrete Slab Cubic Yards, Monolithic Perimeter Footings, and #4 Rebar Grids in TypeScript](https://dev.to/clara_sutton/calculating-concrete-slab-cubic-yards-monolithic-perimeter-footings-and-4-rebar-grids-in-gkg)
-- [Checking Markdown docs for AI writing in CI: what to send, what it costs, what to do with the result](https://dev.to/jackmally/checking-markdown-docs-for-ai-writing-in-ci-what-to-send-what-it-costs-what-to-do-with-the-result-134h)
+- [Frame rate is the hidden variable in video face swaps](https://dev.to/faceswapai_ai/frame-rate-is-the-hidden-variable-in-video-face-swaps-lk2)
+- [Biweekly vs Semimonthly: 26 Paychecks vs 24, and Why the Numbers Differ](https://dev.to/mobeenahmedgondal/biweekly-vs-semimonthly-26-paychecks-vs-24-and-why-the-numbers-differ-4jpm)
+- [Why Rust will not let you change a list while you are still reading it](https://dev.to/mukherjeemahadev84tech/why-rust-will-not-let-you-change-a-list-while-you-are-still-reading-it-3fi4)
+- [OpenAI and Cisco Put AI Agents Inside the Linux Kernel](https://dev.to/kursatyz/openai-and-cisco-put-ai-agents-inside-the-linux-kernel-1hea)
+- [I Beat Datasets Built By Frontier Labs. Now Go Check My Math.](https://dev.to/sumama-jameel/i-beat-datasets-built-by-frontier-labs-now-go-check-my-math-5d36)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
