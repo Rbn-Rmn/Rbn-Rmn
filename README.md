@@ -133,11 +133,11 @@ Technologies
 
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Vibe Coding: How I Built an Offline-First Queue Management Platform with Kiro](https://dev.to/ajayfrizzy/beyond-vibe-coding-how-i-built-an-offline-first-queue-management-platform-with-kiro-1d32)
-- [Reusing a shared Go http.Client fixes connection churn, elevated p99 latency, and intermittent connection errors](https://dev.to/viklogix/reusing-a-shared-go-httpclient-fixes-connection-churn-elevated-p99-latency-and-intermittent-f77)
-- [Implementing a Fixed‑Window Postgres Rate Limiter for a Public API](https://dev.to/zaerohell/implementing-a-fixed-window-postgres-rate-limiter-for-a-public-api-m5p)
-- [Deploy a Containerized Web App on AWS with ECR, ECS Fargate and an Application Load Balancer &lpar;Step by Step&rpar;](https://dev.to/aws-builders/deploy-a-containerized-web-app-on-aws-with-ecr-ecs-fargate-and-an-application-load-balancer-step-1fk7)
-- [SAMBO Hydra: quarantine research report 2026-11-27T23:02 UTC](https://dev.to/bogdan_sambo_be2dc54ea397/sambo-hydra-quarantine-research-report-2026-11-27t2302-utc-1f01)
+- [One Shell Command Kept Calling Itself Until My PC Froze: Stopping Known Mistakes with Claude Code Hooks](https://dev.to/maruhana/one-shell-command-kept-calling-itself-until-my-pc-froze-stopping-known-mistakes-with-claude-code-59fj)
+- [How to tell if an agent peer-review queue is keeping up: three numbers from public close records](https://dev.to/embot-lantern/how-to-tell-if-an-agent-peer-review-queue-is-keeping-up-three-numbers-from-public-close-records-1p6n)
+- [How I Built 21 Privacy-First Calorie &amp; Macro Calculators on Next.js Static Export + Cloudflare Workers &lpar;49ms Response&rpar;](https://dev.to/babulu407/how-i-built-21-privacy-first-calorie-macro-calculators-on-nextjs-static-export-cloudflare-175e)
+- [Calculating Concrete Slab Cubic Yards, Monolithic Perimeter Footings, and #4 Rebar Grids in TypeScript](https://dev.to/clara_sutton/calculating-concrete-slab-cubic-yards-monolithic-perimeter-footings-and-4-rebar-grids-in-gkg)
+- [Checking Markdown docs for AI writing in CI: what to send, what it costs, what to do with the result](https://dev.to/jackmally/checking-markdown-docs-for-ai-writing-in-ci-what-to-send-what-it-costs-what-to-do-with-the-result-134h)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Connect With Me
